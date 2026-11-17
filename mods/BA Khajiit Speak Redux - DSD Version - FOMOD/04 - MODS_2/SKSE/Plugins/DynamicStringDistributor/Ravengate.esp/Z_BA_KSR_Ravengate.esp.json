@@ -1,0 +1,2810 @@
+[
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath",
+    "form_id": "040867CF|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I received this invitation.",
+    "string": "<Alias=Player> recibió una invitación.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Zanath_WhyHelpMe",
+    "form_id": "0408B8D8|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why are you helping me? I'm just one competitor among many.",
+    "string": "¿Por qué ayudas a este Khajiit, hmm? <Alias.Pronoun=Player> es solo un competidor entre muchos, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath_Expospeak",
+    "form_id": "040A4E56|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who are those people who fight for you?",
+    "string": "¿Quiénes son esas personas que luchan por ti, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath_ShowMeAlong",
+    "form_id": "040A4E59|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm interested. Tell me how this arena works.",
+    "string": "Este Khajiit está interesado, en verdad. Explica cómo funciona esta arena, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath_HistoryOfRavengate",
+    "form_id": "040A4E5E|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This whole complex deep underground... interesting, to say the least.",
+    "string": "Todo este complejo bajo tierra es muy... interesante, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040A4E51|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This is part of Old Riften. Not very long ago, there was a Jarl named Two-Daggers. He wasn't liked over much.",
+    "string": "Esto es parte del Viejo Riften. No hace mucho, hubo un jarl llamado Dagas-Dobles. No era muy querido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040A4E51|Ravengate.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "So they rebuilt the city on top of the rubble. Life goes on, even after you destroy your own city, you see.",
+    "string": "Así que reconstruyeron la ciudad sobre los escombros. La vida continúa, incluso después de destruir tu propia ciudad, ya ves.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath_WhatIsBlacklist",
+    "form_id": "040A4E60|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is the Blacklist?",
+    "string": "¿Qué es la Lista Negra, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath_WhoAreYou",
+    "form_id": "040A4E62|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How did you end up here?",
+    "string": "¿Cómo terminaste aquí, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040A4E54|Ravengate.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "So I was herded with the other cattle, to Windhelm, for the Nords to mock and make sport of.",
+    "string": "Así que fui arreado con el resto del ganado hacia Ventalia, para que los Nórdicos se burlaran y hicieran espectáculo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath_AreYouThievesGuild",
+    "form_id": "040A4E64|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you in the Thieves Guild?",
+    "string": "¿Estás en el Gremio de Ladrones, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath_ButYouWearTheirClothes",
+    "form_id": "040A4E65|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Nonsense. I know a Thieves Guild armor when I see one.",
+    "string": "¡Tonterías! Este Khajiit reconoce la armadura del Gremio de Ladrones cuando <Alias.PronounPosObj=Player> ojos la ven.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040A4E66|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, I...  let's say acquired it from somewhere. The dead don't need armor, do they?",
+    "string": "Oh, yo... digamos que la obtuve de algún lugar. Los muertos no necesitan armadura, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath_Bye",
+    "form_id": "040A4E68|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I should go.",
+    "string": "<Alias=Player> debería irse ahora, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath_WhenDoYouFight",
+    "form_id": "040AF10E|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "When are duels scheduled?",
+    "string": "Este Khajiit tiene curiosidad... ¿Cuándo se programan los duelos?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040AF10F|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ravengate has gold and glory on offer every night. Competition's fierce, but I'll always find a spot for you. Just see me betwen 8 and 11pm.",
+    "string": "Ravengate ofrece oro y gloria cada noche. La competencia es feroz, pero siempre encontraré un lugar para ti. Solo búscame entre las 8:00 y las 11:00 p. m.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath_IWantToFight",
+    "form_id": "040AF112|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want to fight. (Schedule a duel)",
+    "string": "<Alias=Player> desea luchar, ¿sí? (Programar duelo)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040AF113|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Perfect. Stay close. I'll make all the arrrangements. Be ready.",
+    "string": "Perfecto. Mantente cerca. Haré todos los arreglos. Prepárate.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040AF12C|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course, of course. Come by between 8 and 11 at night, and I'll arrange everything.",
+    "string": "Por supuesto, por supuesto. Ven entre las 8:00 y las 11:00 de la noche, y lo arreglaré todo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath_IWantToNotFight",
+    "form_id": "040AF116|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Actually, I'm not ready yet. I don't want to fight. (Cancel a duel)",
+    "string": "En realidad, este Khajiit necesita un momento, amigo. De hecho, este no desea luchar. (Cancelar duelo)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040AF1A7|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I feel it'd be in everyone's best intererest if a certain someone had an accident before his next match...",
+    "string": "Este Khajiit siente que sería lo mejor para todos si cierto alguien tuviera un accidente antes de su próxima pelea...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath_Accepted",
+    "form_id": "040B42B8|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I accept your offer. Let's do this.",
+    "string": "Este Khajiit acepta tu oferta, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath_WhatIsInIt",
+    "form_id": "040B42BB|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is in it for me? Why should I fight for you?",
+    "string": "¿Qué hay para este Khajiit exactamente? ¿Por qué debería este luchar por ti, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Intro_Flamia",
+    "form_id": "040B42DD|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I completed the required number of fights. How is my Blacklist progress?",
+    "string": "Este desea saber cuál es la posición de lista negra de <Alias.PronounPosObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040B42DE|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Here we are. You're at number 10 on the Blacklist, now. Time to earn your name! The crowd wants blood, and never mind whose! Win, or bleed!",
+    "string": "Ya estamos. Ahora estás en el número diez de la Lista Negra. ¡Es hora de ganarte tu nombre! ¡La multitud quiere sangre, sin importar de quién! ¡Gana o sangra!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Whois_Flamia",
+    "form_id": "040B42E3|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me more about Flamia.",
+    "string": "Cuéntale a este Khajiit más sobre esta Flamia, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Zanath_NowWhat",
+    "form_id": "040B42E5|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You say I've been scheduled for a Blacklist duel, what does that mean?",
+    "string": "Mencionaste que este Khajiit ha sido programado para un duelo de la Lista Negra, ¿sí? ¿Qué es esto, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Outro_Flamia",
+    "form_id": "040B42EF|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Flamia is dead.",
+    "string": "¡Flamia ha sido destruida!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath_IHaveAQuestion",
+    "form_id": "040BE50C|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a question.",
+    "string": "Este Khajiit tiene curiosidad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Tilt_Flamia",
+    "form_id": "040C8717|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I heard you have been dishonorably discharged from the Legion. (Persuade)",
+    "string": "Las orejas de este Khajiit han oído que fuiste dado de baja deshonrosamente de la Legión, ¿sí? (Persuadir)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_BTopic_Tilt_Flamia_2",
+    "form_id": "040C871E|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I just wanted to hear the tale of how you saved those villagers. (Persuade)",
+    "string": "Las orejas de este Khajiit solo desean escuchar la historia de cómo salvaste a todos esos aldeanos, amigo. (Persuadir)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040C871B|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You dare...!? Go... Go. Now. ...Please.",
+    "string": "¿Te atreves...? Vete... Vete. Ahora... por favor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040C8723|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We're done here ...citizen. Fight me with your weapon, not your words. If you can remember how.",
+    "string": "Aquí terminamos... ciudadano. Lucha conmigo con tu arma, no con tus palabras. Si es que recuerdas cómo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_BTopic_Tilt_Flamia_3",
+    "form_id": "040C8720|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you remember the names of your brothers in arms you burned alive? (Persuade)",
+    "string": "¿Recuerdas los nombres de aquellos a quienes quemaste vivos? ¡Responde! (Persuadir)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Tilt_Lindor_TiltFlamia",
+    "form_id": "040C8728|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You were looking for me?",
+    "string": "¿Buscabas a este Khajiit, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040C8729|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alright, hero? I hear you're about to face down the great and terrible Flamia. I might have some insights into that worthy's mind...",
+    "string": "¿Todo bien, héroe? Escucho que estás a punto de enfrentarte a la gran y terrible Flamia. Podría tener algunas ideas sobre la mente de esa digna...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Tilt_Lindor_TiltFlamia_Bribe",
+    "form_id": "040C872A|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Alright. (<BribeCost> gold)",
+    "string": "Muy bien. (<BribeCost> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040C872B|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Right then. That's settled. Zanath told you Flamia's a retired Imperial Battlemage, yeah?  Aye, well, there's your key. Here's the door.",
+    "string": "Entonces, asunto resuelto. Zanath te dijo que Flamia es una maga de batalla imperial retirada, ¿sí? Pues ahí tienes la clave. Aquí está la puerta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040C872B|Ravengate.esp",
+    "index": 7,
+    "type": "INFO NAM1",
+    "original": "Fire doesn't care who it devours, though, does it? When the battle was over, the Stormcloaks were dead, or fled. So that's something.",
+    "string": "El fuego no le importa a quién devora, ¿verdad? Cuando la batalla terminó, los Capas de la Tormenta estaban muertos o habían huido. Así que eso es algo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Tilt_Lindor_TiltFlamia_WalkAway",
+    "form_id": "040C872E|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Nope, sorry.",
+    "string": "Lo siento, pero no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Whois_AlmawrexiaDUPLICATE001",
+    "form_id": "040C8740|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me more about Almawrexia.",
+    "string": "Cuéntale a este Khajiit más sobre Almawrexia, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040C8741|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "She's mad. She has to be. She's powerful, mind, but no god would content themselves to a life of fighting, here. ...Without being champion.",
+    "string": "Está loca. Tiene que estarlo. Es poderosa, claro, pero ningún dios se contentaría con una vida de lucha aquí... sin ser un campeón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040C8741|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "No one here knows her real name. All we do know is that she thinks herself to be the the Tribunal goddess, reborn.",
+    "string": "Nadie aquí conoce su verdadero nombre. Todo lo que sabemos es que cree ser la Diosa del Tribunal renacida.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Intro_Almawrexia",
+    "form_id": "040C8744|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I completed the required number of fights. How is my Blacklist progress?",
+    "string": "Este desea saber cuál es la posición de lista negra de <Alias.PronounPosObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Outro_Almawrexia",
+    "form_id": "040C875C|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Almalexia is dead.",
+    "string": "Almalexia está muerta. Es una tristeza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040C8762|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "These fools must be reminded of what true power is! (...No!)",
+    "string": "¡A estos necios se les debe recordar lo que es el verdadero poder! (susurra) No.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D2A0D|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You won't find it...  in time: ...the cure. I'll ...start a fire. ...I'll ...sit and ...wait for you.",
+    "string": "No lo encontrarás... a tiempo... la cura. Yo... encenderé un fuego... yo... me sentaré y... te esperaré.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040C8768|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll bleed you, and all the world! ...(Please. Please. No more blood!) To serve Morrowind I shall bleed everyone stood against me!",
+    "string": "¡Te desangraré a ti y a todo el mundo! (susurra) Por favor. Por favor. No más sangre. (normal) Para servir a Morrowind desangraré a todos los que se me opongan.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041A7A26|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aww, c'mon! We can play heads or tails. Just need to find an Argonian or Khajiit for Fluffy to carve up, and see what bit flies off first!",
+    "string": "¡Vamos! Podemos jugar cara o cruz. Solo necesitamos encontrar un Argoniano o Khajiit para que Fluffy lo despedace, y ver qué sale volando primero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041A7A23|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You were supposed to be my friend! You were supposed to ...be different. Why couldn't you bring me back?!",
+    "string": "¡Se suponía que eras mi amigo! Se suponía que debías ser diferente. ¿Por qué no pudiste traerme de vuelta?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040C8775|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your death will end this prophecy and unite my people again! ...Under one god, one faith, one rule by my divine law.",
+    "string": "Tu muerte pondrá fin a esta profecía y unirá a mi gente otra vez. Bajo un solo dios, una sola fe, una sola regla por mi ley divina.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040CD894|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Look upon me and dispair, for I am the face of all endings! Even yours.",
+    "string": "Mírame y desespera, pues soy el rostro de todos los finales. Incluso el tuyo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040CD89C|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your fear only sweatens the taste of your flesh, mortal.",
+    "string": "Tu miedo solo endulza el sabor de tu carne, mortal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040DCD3A|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How can you drink an ale with your High King if you're hiding? Come back this instant! (P-please? Don't take them away from me? Please!)",
+    "string": "¿Cómo puedes beber una cerveza con tu Alto Rey si estás escondiéndote? ¡Vuelve ahora mismo! (susurra) ¿Por favor? ¿No te los llevas? Por favor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040C876C|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll bleed you, and all the world to serve Morrowind! ...(Please, please, please...!)",
+    "string": "¡Te desangraré a ti y a todo el mundo para servir a Morrowind! (susurra) Por favor, por favor, por favor...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040C8772|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ahhh, you hope for a tale worthy of telling! Let us see...",
+    "string": "Ah, esperas una historia digna de ser contada. Veamos...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040C8774|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Cower, then. Flee! (...Can noone help me...?) Noone.",
+    "string": "¡Aterrorízate entonces! ¡Huye! (susurra) ¿Nadie puede ayudarme...? (normal) Nadie.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040CD886|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fluffy says you'll never ever ever ever come back!",
+    "string": "Fluffy dice que nunca, nunca, nunca volverás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_KingCereus_AreYouABeggar",
+    "form_id": "040D29BA|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you need some coin?",
+    "string": "¿Necesitas algo de oro, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D29BB|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "So you see, I have blood-rights to rule Skyrim! Why, I probably even have a claim on the whole of the Empire! I'm not a greedy soul, though.",
+    "string": "Verás, este Khajiit tiene derechos de sangre para gobernar Skyrim. De hecho, probablemente incluso tenga un reclamo sobre todo el Imperio. Pero este no es codicioso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D29BB|Ravengate.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I'm contented to rule Skyrim. Leave the Empire to the fops in Cyrodiil, I say. Never fear, though. My claim goes beyond my 3% Talos's blood.",
+    "string": "Este se conforma con gobernar Skyrim. El Imperio se lo dejo a los elegantes de Cyrodiil, dice este Khajiit. Pero no temas: su reclamo va más allá de su tres por ciento de sangre de Talos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D29BB|Ravengate.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "I've also got these! 38 separate writs of support from common and noblemen alike! Nobles like Brenuin of Whiterun, a noble soul, indeed.",
+    "string": "¡Y además este tiene estos! Treinta y ocho escrituras de apoyo de plebeyos y nobles por igual. Nobles como Brenuin de Carrera Blanca, un alma noble, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D29BB|Ravengate.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "According to the nice fellow I met in the Markarth warrens, I only need 2 more writs! Then it's off to Solitude to claim my castle! Soon...",
+    "string": "Según el amable que este Khajiit conoció en las alcantarillas de Markarth, solo necesita dos escrituras más. ¡Luego irá a Soledad a reclamar su castillo! Pronto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_KingCereus_Bye",
+    "form_id": "040D29C1|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I should go.",
+    "string": "<Alias=Player> debería irse ahora, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Loraliah_WhoAreYou",
+    "form_id": "040D29C4|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who are you?",
+    "string": "¿Quién eres, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D29C5|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "My parents were Lenendore and Farwen of Sunhold. ...Or Coldharbour? Do people get a new surname when you banish them away? Meh!",
+    "string": "Los padres de este Khajiit fueron Lenendore y Farwen de Solaria... ¿o Puerto Gélido? ¿La gente recibe un nuevo apellido cuando los destierran? Meh.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Loraliah_WhyHere",
+    "form_id": "040D29C7|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What are you doing here, far away from Summerset?",
+    "string": "¿Qué haces tan lejos de Estivalia, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D29C8|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ran away. First everyone wanted to make me Archmage. Then everyone wanted to be my new Mamma or Papa. Everyone was boring! ...Scary boring.",
+    "string": "Huyó. Primero todos querían hacerme Archimago. Luego todos querían ser mi nueva mamá o papá. ¡Todos eran aburridos! Aburridamente aterrador.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Loraliah_YesBut",
+    "form_id": "040D29C9|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You should go home. You don't want to miss out on becoming an Archmage.",
+    "string": "Deberías regresar a casa, amigo. No querrías perderte la oportunidad de convertirte en Archimago, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Loraliah_Fire",
+    "form_id": "040D29CC|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like training in Destruction.",
+    "string": "<Alias=Player> desea ser entrenado en algunas técnicas de Destrucción mágica.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Loraliah_TeddyBear",
+    "form_id": "040D29D2|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Nice teddy bear.",
+    "string": "Bonito osito de peluche... este Khajiit es tu amigo, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D29D5|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I was playing in the harbour one day and there he was! I saved him, and carried him back to dry Nirn. We've been bound together ever since!",
+    "string": "Este Khajiit jugaba en el puerto un día y allí estaba él. ¡Este lo salvó y lo cargó de vuelta al seco Nirn! ¡Desde entonces hemos estado unidos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D29D5|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Now Fluffy will never-ever-ever leave me and make me sad or mad! Oblivion take everyone else! Let 'em go and drink with Mamma and Papa...",
+    "string": "¡Ahora Fluffy nunca-nunca-nunca me dejará y no me hará sentir triste ni enojado! ¡Que el Olvido se lleve a todos los demás! Déjenlos ir a beber con mamá y papá...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Loraliah_TrueDat",
+    "form_id": "040D29E2|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Don't let anyone tell you how to lead your life.",
+    "string": "No permitas que nadie te enseñe cómo dirigir tu vida, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Loraliah_IAmArchmage",
+    "form_id": "040D29E4|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am Archmage of Winterhold. It is not as boring as you think it is. (Faction)",
+    "string": "<Alias=Player> es el Archimago de Hibernalia. No es tan aburrido como suena para tus oídos. (Facción)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D29E5|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I won't! You can't make me! I'm not their daughter! ...Their weapon! I won't let them get their hands on me again! I won't! I won't! I won't!",
+    "string": "¡No lo haré! ¡No puedes obligarme! ¡No soy su hija...! ¡Su arma! ¡No dejaré que vuelvan a ponerme las manos encima! ¡No! ¡No! ¡No!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Loraliah_NotKillingZanathForYou",
+    "form_id": "040D29E7|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't think I will do that.",
+    "string": "Este Khajiit no hará esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D29E8|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Awww, I knew you'd be too scared. Ya big baby. All he ever does is complain. Probably doesn't remember how to scream, anyway.",
+    "string": "Aw, este Khajiit sabía que tendrías demasiado miedo. Eres un gran bebé. Todo lo que hace es quejarse. Probablemente ni recuerda cómo gritar, de todos modos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Loraliah_WeWillFight",
+    "form_id": "040D29EE|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We're about to fight. I ask you one last time, go back to Summerset.",
+    "string": "Tú pelear siguiente con Khajiit. Este te pide una última vez: regresa a Estivalia antes de que sea demasiado tarde, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Hala_Healer",
+    "form_id": "040D29F8|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I thought your kind only existed in children's tales.",
+    "string": "<Alias=Player> creía que los de tu tipo solo existían en cuentos extraordinarios contados a los jóvenes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D2A04|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The trouble with my sister-cauldroners? They've lost touch with the true world of man, the feel of fellowship... The flavor of flesh.",
+    "string": "¿El problema con mis hermanas-caldereras? Han perdido el contacto con el mundo verdadero de los Hombres, el sentir de la hermandad... el sabor de la carne.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D2A04|Ravengate.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "It's terribly sad. They think we all need to become so disconnected from man and mer, that we barely recall speech beyond spells. It's madness.",
+    "string": "Es terriblemente triste. Creen que todos debemos desconectarnos tanto de Hombre y Mer que apenas recordemos el habla más allá de los hechizos. Es una locura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Hala_Poisoner",
+    "form_id": "040D29FA|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you a poisoner?",
+    "string": "¿Eres un envenenador, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Hala_Training",
+    "form_id": "040D29FD|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like training in Alchemy.",
+    "string": "Este Khajiit busca entrenamiento en la ciencia de la Alquimia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Hala_CureMe",
+    "form_id": "040D2A00|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm diseased. Can you cure me?",
+    "string": "<Alias=Player> está enfermo. ¿Puedes curarlo, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D2A03|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh dear! I've infected you with another!  I'm so sorry. I do hope you can still fight...",
+    "string": "¡Oh cielos! ¡Te he infectado con otra! Lo siento mucho. Espero que aún puedas pelear...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Marukab_WhoAreYou",
+    "form_id": "040D2A12|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who are you?",
+    "string": "¿Quién eres, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D2A13|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Man, mer, lizards, cats, I don't care. Their eyes all ask the same things as they choke on their own blood. How did this happen? Must I die?",
+    "string": "Hombres, Mer, lagartos, gatos, no importa. Sus ojos todos preguntan lo mismo mientras se ahogan en su propia sangre. ¿Cómo pasó esto? ¿Debo morir?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Marukab_CrownOrForebear",
+    "form_id": "040D2A14|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Crown or Forebear?",
+    "string": "¿Corona o Lealista, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Marukab_StuckHere",
+    "form_id": "040D2A17|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You seem like a skilled fighter. Maybe you should find a cause to fight for.",
+    "string": "Realmente pareces un luchador hábil, amigo. Quizá deberías encontrar una causa por la cual luchar, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Marukab_CurvedSwords",
+    "form_id": "040D2A1A|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is it true that warriors from Hammerfell use curved swords?",
+    "string": "¿Es verdad que los guerreros de Páramo del Martillo tienen martillos sin filo? ¡JA!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D2A1B|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Curved swords, straight swords, sand or stone, you can stop a man's breath with almost anything.  Everything is a weapon. Even the wind...",
+    "string": "Sables curvos, espadas rectas, arena o piedra, puedes detener el aliento de un hombre con casi cualquier cosa. Todo es un arma. Incluso el viento...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Marukab_ThereAreDragonsThough",
+    "form_id": "040D2A1C|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The dragons have returned. This is your chance.",
+    "string": "Los dragones han regresado, sí. Esta es tu oportunidad, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Marukab_ButDragonBones",
+    "form_id": "040D2A1E|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "But you're wearing a dragonstooth necklace?",
+    "string": "Pero llevas un collar de colmillo de dragón, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Marukab_ButDragonBones_Alive",
+    "form_id": "040D2A20|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "But you're wearing a dragonstooth necklace?",
+    "string": "Pero llevas un collar de colmillo de dragón, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Whois_Marukab",
+    "form_id": "040D2A23|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me more about Marukab.",
+    "string": "Este Khajiit desea aprender más sobre Marukab.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D2A24|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, the Redguard veteran. He's \"Ex-Legion,\" you know. Been around the world... and killed half of it, to hear him tell it. He's fierce. ",
+    "string": "Ah, el veterano Guardia Rojo. Es 'Ex-Legion'. Ya sabes... ha viajado por el mundo... y ha matado a la mitad de él, según él mismo. Es feroz.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Zanath_NowWhat_IKnow",
+    "form_id": "040D2A26|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Alright. I'll make sure to prepare.",
+    "string": "Muy bien. Este Khajiit estará preparado, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Intro_Marukab",
+    "form_id": "040D2A29|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I completed the required number of fights. How is my Blacklist progress?",
+    "string": "Este desea saber cuál es la posición de lista negra de <Alias.PronounPosObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Intro_Hala",
+    "form_id": "040D2A2C|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I completed the required number of fights. How is my Blacklist progress?",
+    "string": "Este desea saber cuál es la posición de lista negra de <Alias.PronounPosObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Intro_Lindor",
+    "form_id": "040D2A2F|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I completed the required number of fights. How is my Blacklist progress?",
+    "string": "Este desea saber cuál es la posición de lista negra de <Alias.PronounPosObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Intro_Yngven",
+    "form_id": "040D2A32|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I completed the required number of fights. How is my Blacklist progress?",
+    "string": "Este desea saber cuál es la posición de lista negra de <Alias.PronounPosObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Intro_KingCereus",
+    "form_id": "040D2A35|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I completed the required number of fights. How is my Blacklist progress?",
+    "string": "Este desea saber cuál es la posición de lista negra de <Alias.PronounPosObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Intro_Loraliah",
+    "form_id": "040D2A38|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I completed the required number of fights. How is my Blacklist progress?",
+    "string": "Este desea saber cuál es la posición de lista negra de <Alias.PronounPosObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Intro_Xivaz",
+    "form_id": "040D2A3B|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I completed the required number of fights. How is my Blacklist progress?",
+    "string": "Este desea saber cuál es la posición de lista negra de <Alias.PronounPosObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Intro_Xivaz_WhatsAXivilai",
+    "form_id": "040D2A3E|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's a Xivilai?",
+    "string": "¿Qué es un Xivilai, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D2A3F|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You didn't strike me as someone who dwells in those circles of Oblivion. A Xivilai is a species of daedra, eternal rivals of the Dremora.",
+    "string": "No parecías alguien que se moviera en esos círculos del Oblivion. Un Xivilai es una especie de Daedra, rivales eternos de los Dremora.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Intro_Xivaz_IGetItMoveOn",
+    "form_id": "040D2A43|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I get it. Let's move on.",
+    "string": "Este Khajiit entiende.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D2A44|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And that, my little sweeting, is where half-daedra come from. All jokes aside, he's number one for a reason. He's unstoppable. Unless...",
+    "string": "Y eso, mi pequeño dulce, es de donde vienen los medio-Daedra. Fuera de bromas, él es número uno por una razón. Es imparable. A menos que...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Whois_Hala",
+    "form_id": "040D2A47|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me more about Hala.",
+    "string": "<Alias=Player> debería aprender más sobre Hala, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Whois_Lindor",
+    "form_id": "040D2A4A|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me more about Lindor.",
+    "string": "Cuéntale a este Khajiit más sobre Lindor, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Whois_Yngven",
+    "form_id": "040D2A4D|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me more about Yngven.",
+    "string": "<Alias=Player> tiene curiosidad por saber más sobre Yngven.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D2A4E|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "She fights here for three reasons: the glory keeps her skills sharp, and the gold funds her one woman war. She's a force of nature, and...",
+    "string": "Ella pelea aquí por tres razones: la gloria mantiene sus habilidades afiladas, y el oro financia su guerra en solitario. Es una fuerza de la naturaleza, y...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Whois_Yngven_WhyHere",
+    "form_id": "040D2A50|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Then how did she end up here in your fighting ring?",
+    "string": "Entonces, ¿cómo terminó aquí en tu ring de combate, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Whois_KingCereus",
+    "form_id": "040D2A53|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me more about Cereus Septim.",
+    "string": "Cuéntale a este Khajiit más sobre Cereus Septim, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D2A54|Ravengate.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "If he does have Septim blood, it's a stunted, distant shoot far, far from the tree's roots. Still, there's  something about him - in him...",
+    "string": "Si realmente tiene sangre Septim, es una rama débil y lejana, muy lejos de las raíces del árbol. Aun así, hay algo en él...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Whois_Loraliah",
+    "form_id": "040D2A56|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me more about Loraliah.",
+    "string": "Este Khajiit desea saber más sobre Loraliah, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D2A57|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "She's the seventh daughter of two powerful Altmer wizards. According to Altmeri tradition, this predestines her for the role of Archmage.",
+    "string": "Es la séptima hija de dos poderosos magos Altmer. Según la tradición Aldmeri, esto la predestina al papel de Archimaga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D2A57|Ravengate.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Rumor has it she fired Sunhold and ran form the ashes. She's had surrogate parents, for good or ill, a string of them ... claims me as one.",
+    "string": "Se rumorea que incendió Solaria y huyó de las cenizas. Ha tenido padres sustitutos, para bien o para mal, una cadena de ellos... me reclama como uno.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Whois_Xivaz",
+    "form_id": "040D2A59|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me more about Xivaz.",
+    "string": "Cuéntale a <Alias=Player> más sobre este Xivaz, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Zanath_MarukabHonor_Ok",
+    "form_id": "040D2A62|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I will respect his last wish and fight without armor.",
+    "string": "Muy bien. <Alias=Player> respetará su último deseo y peleará sin armadura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Zanath_MarukabHonor_No",
+    "form_id": "040D2A65|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I will not remove my armor. Let him die naked if he wants. (Persuade)",
+    "string": "<Alias=Player> no se quitará <Alias.PronounPosObj=Player> armadura, ¡no! ¡Él tendrá que morir desnudo simplemente! (Persuade)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Zanath_MarukabHonor_Liar",
+    "form_id": "040D2A69|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm a Redguard, and there is no such tradition. You are lying. (Persuade)",
+    "string": "<Alias=Player> es un Guardia Rojo, y no existe tal tradición, amigo. Estás mintiendo, y serás responsable por tales falsedades, en efecto. (Persuade)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Outro_Marukab",
+    "form_id": "040D7B6E|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Marukab is dead.",
+    "string": "Marukab ya no existe.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D7B6F|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Lying serpent tried to lay a trap for you, and it cost him gold and glory, both of which are now yours. You're 7 on the Blacklist, now.",
+    "string": "La serpiente mentirosa intentó tenderte una trampa, y le costó oro y gloria, ambas ahora tuyas. Ahora eres siete en la Lista Negra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Outro_Hala",
+    "form_id": "040D7B71|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hala is dead.",
+    "string": "Hala está efectivamente muerta, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Outro_Lindor",
+    "form_id": "040D7B74|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Lindor is dead.",
+    "string": "Lindor está muerto, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Outro_Yngven",
+    "form_id": "040D7B77|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yngven is dead.",
+    "string": "Yngven está tan muerto como un Draugr.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Outro_KingCereus",
+    "form_id": "040D7B7A|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Cereus Septim is dead.",
+    "string": "Cereus Septim está muerto. Es una tristeza, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Outro_Loraliah",
+    "form_id": "040D7B7D|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Loraliah is dead.",
+    "string": "Loraliah ha sido derrotada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Outro_Xivaz",
+    "form_id": "040D7B80|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Xivaz is dead.",
+    "string": "Xivaz ahora está muerto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Outro_Xivaz_Cont1",
+    "form_id": "040D7B82|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You don't seem very excited about it?",
+    "string": "No te ves muy emocionado por esto. ¿Por qué es eso, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Zanath_DontDieyet",
+    "form_id": "040D7B87|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Don't die, you idiot. You will run this plcae for me. (Preserve Ravengate)",
+    "string": "No mueras, ¡tú wafiit [idiota]! Este Khajiit te ha elegido para dirigir este lugar para <Alias.Pronoun=Player>. (Preserve Ravengate)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D7BAC|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hear we're to dance soon, you and I. I can bearly stand the tension. Aye, the wait is unbearable.",
+    "string": "Escucho que pronto bailaremos, tú y yo. Apenas puedo soportar la tensión. Sí, la espera es insoportable.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D7BAC|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Anyroad; I hate being trapped like this - fighting someone I barely know. The crowd'll miss you.",
+    "string": "De todos modos; odio estar atrapado así - peleando con alguien que apenas conozco. La multitud te extrañará.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Lindor_WhoAreYou",
+    "form_id": "040D7BAE|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You don't seem like much of a fighter. Who are you?",
+    "string": "Este Khajiit no desea ofender, pero no pareces gran luchador, amigo. ¿Quién eres exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D7BB2|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The Green Pact has its taboos, right enough. I translate that word diferently than most. Taboos are just dangerous opportunities.",
+    "string": "El Pacto Verde tiene sus tabúes, claro. Este Khajiit traduce esa palabra distinto a la mayoría. Los tabúes son solo oportunidades peligrosas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Lindor_SellMeYourStuff",
+    "form_id": "040D7BB0|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you have some of your wares for sale?",
+    "string": "¿Tienes algunas mercancías en venta, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Lindor_SoYoureADrugDealer",
+    "form_id": "040D7BB5|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So you are a smuggler?",
+    "string": "Entonces, ¿eres un contrabandista, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Lindor_WhyStuckHere",
+    "form_id": "040D7BB8|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why are you here in this arena?",
+    "string": "¿Por qué estás aquí en esta arena, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Lindor_SoYoureAPrisoner",
+    "form_id": "040D7BBA|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So you're being held prisoner? Do I get the guards?",
+    "string": "Entonces, ¿estás siendo prisionero, hmm? ¿Debería este Khajiit llamar a los guardias, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Lindor_HowLong",
+    "form_id": "040D7BBC|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How much is your debt?",
+    "string": "¿Cuánta es tu deuda exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D29BE|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We will not be bought by Imperial gold, you scheming slaughterfish! I'm the High King, not some milk-swilling Jarl!",
+    "string": "No seremos comprados por oro Imperial, ¡serpiente asesina maquinadora! Soy el Alto Rey, no algún jarl bebedor de leche.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_KingCereus_AreYouOkay",
+    "form_id": "040D7BC2|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you okay?",
+    "string": "¿Estás bien, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D7BC3|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Okay? Okay!? I'm A Septim, dammit! And I'm to be the next High King, and I have mead! So yes, I'm quite alright, thank you very much.",
+    "string": "¿Bien? ¿¡Bien!? ¡Soy un Septim, maldición! Y seré el próximo Alto Rey, ¡y tengo hidromiel! Así que sí, estoy bastante bien, muchas gracias.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_KingCereus_IAmDragonborn",
+    "form_id": "040D7BC4|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am Dragonborn.",
+    "string": "<Alias=Player> es Sangre de Dragón, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D7BC6|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aye, no wonder you've come before me. My great and grand grandda invented Dragonborns. ...Ya say ya learn from scrawls on filthy old walls?",
+    "string": "Sí, no es sorpresa que hayas venido ante mí. Mi tatarabuelo inventó a los Sangre de Dragón... ¿Dices que aprendes de garabatos en viejas paredes sucias?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_KingCereus_WhyNoRecords",
+    "form_id": "040D7BC7|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't seem to remember your branch of the family tree in the annals.",
+    "string": "Los ojos de este Khajiit no recuerdan ver tu rama de clan en los anales, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_KingCereus_JustTheRatway",
+    "form_id": "040D7BC8|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You want to be the next High King, but your whole army are those beggars?",
+    "string": "Deseas ser el próximo Alto Rey, pero todo tu ejército está hecho de mendigos. Este Khajiit no ve cómo eso es posible, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D7BC9|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I'll have 40 writs of support from folk here in... in... Skyrim! Plus my time in Zanath's fun house, here. No marching on Windhelm, or Solitude.",
+    "string": "Tendré cuarenta órdenes de apoyo de la gente aquí en... en... ¡Skyrim! Además de mi tiempo en la casa de diversión de Zanath, aquí. No marcharemos sobre Ventalia ni Soledad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D7BC9|Ravengate.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I'll make a new namulet of king-kin-of High Kings, so we're safe. It'll give each elf lots of wine! Ha! They'll be drunk, and we'll be safe!",
+    "string": "Haré un nuevo amuleto de rey-de-reyes, así estaremos seguros. ¡Dará vino a cada Elfo! ¡Ja! Estarán borrachos, y estaremos seguros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Yngven_Stormcloak",
+    "form_id": "040D7BCE|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I fight for Talos and for Skyrim!",
+    "string": "¡Por Talos, y Skyrim!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D7BCF|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm, no doubt your father's father's father was a distant shoot of the Greymanes, too. A test, then: what does Talos mean in old Ehlnofey?",
+    "string": "Mmm, sin duda el padre del padre de tu padre era también una rama lejana de los Greymane. Una prueba entonces: ¿qué significa Talos en antiguo Ehlnofey?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Yngven_Imperial",
+    "form_id": "040D7BD0|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I fight for the unity of mankind under one Emperor!",
+    "string": "¡Por la unidad de todas las especies, bajo un solo Emperador!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Yngven_Unaffiliated",
+    "form_id": "040D7BD1|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I try to stay out of the civil war. It is none of my business.",
+    "string": "Este Khajiit siente que la guerra civil no es asunto de <Alias.PronounPosObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Yngven_Talos_3",
+    "form_id": "040D7BD8|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dragon of the North?",
+    "string": "Dragón del Norte, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Yngven_Advice_Loraliah",
+    "form_id": "040DCCE8|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm about to fight Marukab. Do you have any advice?",
+    "string": "Este Khajiit está a punto de pelear con Marukab. ¿Conoces alguna buena táctica, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Flamia_Yngven_Advice_Flamia",
+    "form_id": "040DCCEB|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm about to fight Flamia. Do you have any advice?",
+    "string": "Flamia es la siguiente pelea. ¿Tienes algún consejo para esta?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040DCCEC|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Battle-trauma, apparently. Imperial or not, she was a soldier, and soldier's eyes ee things other eyes do not...",
+    "string": "Trauma de batalla, aparentemente. Imperial o no, fue soldado, y los ojos de un soldado ven cosas que otros ojos no...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040DCCEC|Ravengate.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Spends nights at the Bee and Barb drinking with her own personal daedra. You could prod her into reopening old scars: death or her daedra...",
+    "string": "Pasa las noches en La abeja y el dardo bebiendo con su propio Daedra personal. Podrías empujarla a reabrir viejas heridas: la muerte o su Daedra...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Yngven_WhyHere",
+    "form_id": "040DCCEE|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why are you here, as a Nord in this Dunmer den of sin?",
+    "string": "¿Por qué hay un Nórdico en este den de pecado Dunmer, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Yngven_YouveBeenHad",
+    "form_id": "040DCCF0|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I spoke with Zanath and he told me he lied to you.",
+    "string": "Este Khajiit habló con Zanath, sí. Admitió haberte mentido, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Yngven_Advice_Almawrexia",
+    "form_id": "040DCCF3|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm about to fight Almawrexia. Do you have any advice?",
+    "string": "Este Khajiit debe pelear contra Almawrexia. ¿Tienes algún consejo, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040DCCF4|Ravengate.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Kill her before she kills you? So she thinks she's what passes for a Dunmer god. Red Mountain, Scaleback Invasion, how tough can she be? ",
+    "string": "¿Matarla antes de que ella te mate? Entonces, ella cree ser lo que pasa por un dios Dunmer. Monte Rojo, Invasión Scaleback, ¿qué tan dura puede ser?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_yngven_Advice_Hala",
+    "form_id": "040DCCF6|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm about to fight Hala. Do you have any advice?",
+    "string": "Ahora toca pelear con Hala. ¿Tienes algún consejo o estrategia para este Khajiit?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040DCCF7|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "A hagraven in church clothes if ever I saw one. I'd avoid lifting a flagon with her. Poison or disease is likely at the bottom of that mug.",
+    "string": "Una Bruja cuervo con ropa de iglesia si alguna vez este Khajiit vio una. Este evitaría levantar una jarra con ella. Veneno o enfermedad probablemente está en el fondo de esa copa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Yngven_Advice_Lindor",
+    "form_id": "040DCCF9|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm about to fight Lindor. Do you have any advice?",
+    "string": "El siguiente en la lista es Lindor. ¿Qué tácticas aconsejas, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040DCCFA|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No different than most elves, really. Thief, cut-purse, wretch, scheming... He'll try something, to be sure.",
+    "string": "No es diferente de la mayoría de los Elfos, realmente. Ladrón, carterista, desgraciado, tramposo... Seguramente intentará algo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Yngven_RunAway",
+    "form_id": "040DCCFC|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Zanath told me we are scheduled to fight each other.",
+    "string": "Zanath dijo que la próxima pelea programada es entre tú y este Khajiit. ¿Estás preparado, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Hala_Bye",
+    "form_id": "040DCCFF|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have to go, I forgot my cat is on fire.",
+    "string": "Disculpas, pero este Khajiit debe irse. <Alias.Pronoun=Player> dejó el fuego encendido en casa...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Marukab_Bye",
+    "form_id": "040DCD02|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need to go.",
+    "string": "Este Khajiit necesita partir, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Lindor_Bye",
+    "form_id": "040DCD05|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have to go.",
+    "string": "<Alias=Player> debe irse.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Loraliah_Bye",
+    "form_id": "040DCD08|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have to go now.",
+    "string": "Este debe irse ahora.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Combat_Topic_Zanath_CreationClub",
+    "form_id": "040DCD0D|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I wanted to get into the Author's Guild back at home, but was not accepted.",
+    "string": "Este Khajiit quiso unirse a la Guilda de Autores en casa, pero desafortunadamente <Alias.Pronoun=Player> no fue aceptado. Una tristeza, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Yngven_Carry",
+    "form_id": "040DCD4D|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need you to do something.",
+    "string": "Harás algo por este Khajiit, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_NewCharacters_Topic_Nevermore_WhoAreYou",
+    "form_id": "040DCD5B|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who or what are you?",
+    "string": "¿Quién, o qué, eres exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040DCD5C|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "A gypsy told me I would die on my 21st birthday. Which means, I am immortal until then.",
+    "string": "Una gitana me dijo que moriría en mi cumpleaños número veintiuno. Lo que significa que soy inmortal hasta entonces.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040DCD5F|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have every confidence in the strength of your sword arm, so to speak. I'd just prefer certainty. Thinking of \"fixing\" her gear, tonight...",
+    "string": "Tengo plena confianza en la fuerza de tu brazo de espada, por así decirlo. Solo preferiría certeza. Pensando en “arreglar” su equipo esta noche...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Zanath_Sabotage_Yes",
+    "form_id": "040DCD60|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sure. I'll take the free win.",
+    "string": "Este Khajiit tomará la victoria gratis, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Zanath_Sabotage_No",
+    "form_id": "040DCD61|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't need to cheat to win.",
+    "string": "¡Ja! Este Khajiit no necesita hacer trampa para ganar esta simple batalla, no!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Yngven_Sabotage",
+    "form_id": "040DCD65|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Zanath told me he wanted to sabotage your equipment.",
+    "string": "Zanath le dijo a <Alias=Player> que planeaba sabotear tu equipo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040DCD69|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Elves and their treachery. Kinsman, I have the beginings of a plan, I think.",
+    "string": "Elfos y su traición. Pariente, este Khajiit tiene el inicio de un plan, creo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Yngven_WeFight",
+    "form_id": "040DCD67|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Zanath told me we are scheduled to fight each other.",
+    "string": "Zanath dijo que la próxima pelea programada es entre tú y este Khajiit. ¿Estás preparado, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath_Affiliation",
+    "form_id": "040DCD6B|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you Stormcloak or Imperial?",
+    "string": "¿Eres un rebelde Capa de la Tormenta o un soldado Imperial, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041ACB48|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There is a temple near the Jarl's palace. If it comforts you, seek Mara's mercy there. Soon you shall face me, and my only mercy is death.",
+    "string": "Hay un templo cerca del palacio del jarl. Si te reconforta, busca la misericordia de Mara allí. Pronto me enfrentarás, y mi única misericordia es la muerte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D7BCB|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "When I bleed you - and I will bleed you - do try to be louder than the crowd's cheers. I would hate to miss a moment of your mewling, elf.",
+    "string": "Cuando te haga sangrar - y te haré sangrar - intenta ser más ruidoso que los vítores del público. Odio perderme un momento de tus maullidos, Elfo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041D0327|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So it's all out in the open: disrespect the High King and you disrespect me. By then, don't bother running. An Orc follows to the death.",
+    "string": "Así que todo está claro: faltarle el respeto al Alto Rey es faltarme el respeto a mí. Llegado ese punto, ni te molestes en huir. Un Orco sigue hasta la muerte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041D032C|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You look down on our clothing. I can see that. Fools often react without thinking. Tell me, how've Skryim's best dressed done as ruling class?",
+    "string": "Veo que desprecias nuestra vestimenta. Puedo verlo. Los tontos suelen reaccionar sin pensar. Dime, ¿cómo le ha ido a los mejor vestidos de Skyrim como clase gobernante?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041D032D|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Cereus'll champion Skyrim's people. Not the Nords alone, but Skyrim's people. Rich, poor, man, mer. Stand for Skyrim, she'll stand for you.",
+    "string": "Cereus será el campeón del pueblo de Skyrim. No solo de los Nórdicos, sino del pueblo de Skyrim. Rico, pobre, Hombre, Mer. Defiende Skyrim, ella te defenderá.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041D032E|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hands where I can see them. So you get to keep 'em.",
+    "string": "Manos donde pueda verlas... así te las quedas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF64E|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm the High King's Thane. Or will be, once he ascends to his throne.\t",
+    "string": "Soy el Thane del Alto Rey. O lo seré, una vez ascienda a su trono.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Flamia_AreYou",
+    "form_id": "041A7A37|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you associated with Ravengate?",
+    "string": "¿Estás asociado con Ravengate, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Flamia_AreYou_ButArmor",
+    "form_id": "041A7A39|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You wear the armor of an Imperial soldier, though.",
+    "string": "Llevas la armadura de un soldado Imperial, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Flamia_CrossedOut",
+    "form_id": "041A7A3E|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why is the Imperial insignia on your armor crossed out?",
+    "string": "Este Khajiit tiene curiosidad... ¿Por qué el insignia Imperial en tu armadura está tachada?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Flamia_Drink",
+    "form_id": "041A7A40|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can I buy you a drink? (Persuade)",
+    "string": "¿Podría este Khajiit invitarte una bebida, quizá? (Persuade)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Flamia_Bye",
+    "form_id": "041A7A44|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I should go.",
+    "string": "<Alias=Player> debería irse ahora, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041A7A45|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So you can make a good decision when you try! Saint Martin be praised!",
+    "string": "¡Así es como tomas una buena decisión cuando lo intentas! ¡San Martín sea alabado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041B1C5F|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's done. ...Now what?",
+    "string": "Está hecho... ¿Y ahora qué?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_PostGame_Topic_Yngven_KeepTheArena",
+    "form_id": "041B1C61|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So use this place as a front for a Stormcloak guerrilla operation?",
+    "string": "Entonces, usas este lugar como fachada para una operación guerrillera Capa de la Tormenta, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_PostGame_Topic_Yngven_SeemsUseless",
+    "form_id": "041B1C67|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This place is nothing but bad memories. Let it rot.",
+    "string": "Este lugar no es más que malos recuerdos y manchas de sangre imposibles de lavar. Este Khajiit ha decidido dejarlo pudrirse en ruina.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_PostGame_Topic_Yngven_SeemsUseless_GotIt",
+    "form_id": "041B1C6A|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I see. Unfortunate boating accidents are very common around Shor's Stone.",
+    "string": "Este Khajiit entiende, sí. Accidentes de barco desafortunados son muy comunes alrededor de Peñón de Shor, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_PostGame_Topic_Yngven_ImGame",
+    "form_id": "041B1C6D|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "As owner of this arena, you have my permission to use it for the Hidden Fang.",
+    "string": "Como dueño de esta arena, este Khajiit te otorga permiso para usarla para el Colmillo Escondido, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_PostGame_Topic_Yngven_TrainingProgress",
+    "form_id": "041B1C79|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How is the Hidden Fang doing?",
+    "string": "<Alias=Player> tiene curiosidad... ¿Cómo va el Colmillo Escondido?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041B6D86|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I'll forgive you for mis-asociating the quality of my raiment for the illustriousness of my station. I'm to be the next High King of Skyrim!",
+    "string": "Te perdonaré por asociar incorrectamente la calidad de mis ropas con la ilustre naturaleza de mi posición. ¡Soy el próximo Alto Rey de Skyrim!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_KingCereus_ThisPalace",
+    "form_id": "041B6D8B|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is this your... throne room? Have you been waiting for me here?",
+    "string": "¿Es este tu... salón del trono, hmm? ¿Has estado esperando a este Khajiit por mucho tiempo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041B6D8C|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well of course! I'm your next High King. S'my job to listen to my subjects. ...Horker. Now tell me, how can your High King serve you? Mead?",
+    "string": "¡Por supuesto! Soy tu próximo Alto Rey. Es mi trabajo escuchar a mis súbditos... Horker. Ahora dime, ¿cómo puede servirte tu Alto Rey? ¿Hidromiel?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath_NotAccepted",
+    "form_id": "041B6D91|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't have time for pitfighting. I have to save the world.",
+    "string": "¡Este Khajiit no tiene tiempo para este combate de foso sin sentido! ¡Hay un mundo que salvar!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Outro_Marukab_NonHuman",
+    "form_id": "041B6D96|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why did you tell me he wanted to fight without armor?",
+    "string": "Este Khajiit tiene curiosidad... ¿Por qué dijiste que él quería pelear sin armadura?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Outro_Marukab_Human",
+    "form_id": "041B6D99|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why did you tell me he wanted to fight without armor?",
+    "string": "Este Khajiit tiene curiosidad... ¿Por qué dijiste que él quería pelear sin armadura?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Outro_Xivaz_Cont2",
+    "form_id": "041BBEA1|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So now I have the right to challenge you for ownership of Ravengate.",
+    "string": "Entonces, ahora <Alias=Player> tiene derecho a desafiarte por la propiedad de Ravengate, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Outro_Xivaz_Cont3",
+    "form_id": "041BBEA3|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You're the only challenge I have left, now that I've beaten your daedra.",
+    "string": "Tu Daedra ha desaparecido, y tú eres el único desafío que queda, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Zanath_Dying_ThenDie",
+    "form_id": "041BBEB2|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Rot in hell. (Destroy Ravengate)",
+    "string": "Pudranse en el infierno, ustedes vil basura. (Destruye Ravengate)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041BBEB5|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "...The Realm's side... Someone should ...be...",
+    "string": "...El lado del Reino... alguien debería... estar...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Zanath_PostGameDUPLICATE001",
+    "form_id": "041BBEB4|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Get to work, Zanath. The show must go on.",
+    "string": "Hora de trabajar, Zanath. El espectáculo debe continuar, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath_Evil",
+    "form_id": "041C0FDC|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You are a mass murderer. How do you sleep at night?",
+    "string": "¡No eres más que un asesino en masa! ¿Cómo duermes por las noches, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041C0FDD|Ravengate.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Place both of them into a cage that's too small and there will be 1 left in the morning, claiming that good has triumphed and evil has been defeated.",
+    "string": "Metan a ambos en una jaula demasiado pequeña y al amanecer quedará uno solo, proclamando que el bien triunfó y el mal fue derrotado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath_Insanity_Low",
+    "form_id": "041C0FDE|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You are insane!",
+    "string": "¡Estás loco! ¡Y un fumbadhassa [estúpido] desollapiel! ¡Y loco!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Initial_Topic_Zanath_PostGame_HowBlacklistDoing",
+    "form_id": "041C0FE2|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How is the Blacklist doing? Any new challengers for me?",
+    "string": "¿Cómo va la Lista Negra, hmm? ¿Nuevos retadores para este Khajiit, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_KingCereusBodyguard_2",
+    "form_id": "041D0321|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You're a Nord, why do you follow this weakling?",
+    "string": "Eres un Nórdico, sí? Entonces, ¿por qué sigues a este debilucho, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_KingCereusBodyguard_3",
+    "form_id": "041D0329|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why do you follow this drunk?",
+    "string": "¿Por qué sigues a este wafiit [idiota] borracho, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041D032A|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Orc strongholds are more or less tolerated or ignored in Skyrim. When I become His Majesty's Thane...",
+    "string": "Las fortalezas Orco son más o menos toleradas o ignoradas en Skyrim. Cuando este Khajiit sea Thane de Su Majestad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041D032A|Ravengate.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "As his Thane, my job will be to bring Orcish concerns before the throne. To see that we're a part of the realm, not simply living in it.",
+    "string": "Como su Thane, mi trabajo será llevar las preocupaciones Orcas al trono. Asegurar que seamos parte del reino, no solo viviendo en él.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_KingCereusBodyguard_1",
+    "form_id": "041DF64A|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why do you follow this lunatic?",
+    "string": "¿Por qué sigues a este fumbadhassa [lento-patas], exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF64B|Ravengate.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I might ask his Highness to put a Dunmer in the Jarl's seat in Windhelm. That'd serve 'em. Help us relocate. Maybe do some bloodletting.",
+    "string": "Podría pedir a su Alteza que ponga a un Dunmer en el asiento del jarl en Ventalia. Eso les serviría. Ayudaría a reubicarnos. Quizá algo de derramamiento de sangre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF650|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Pardon my bold interuption, but I wanted to compliment you on your performance in the arena. Bodes well for your future, here.",
+    "string": "Disculpa mi interrupción, pero quería felicitarte por tu desempeño en la arena. Presagia bien tu futuro aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_AnythingElse",
+    "form_id": "041DF653|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Thank you. Was there something else I could do for you?",
+    "string": "Gracias, amigo. ¿Había algo más que este Khajiit pudiera hacer por ti, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_NotNow",
+    "form_id": "041DF657|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Not just now.",
+    "string": "Ahora no, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF658|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh...  Another time, perhaps.",
+    "string": "Oh... otra vez, quizá.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_OkTellMe",
+    "form_id": "041DF659|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Alright, I can spare you a few moments.",
+    "string": "Muy bien, amigo. Este Khajiit te dará unos momentos, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF65A|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "My Master rose to number 5 on the Blacklist.",
+    "string": "Mi Maestro llegó al número cinco en la Lista Negra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_MasterKilled",
+    "form_id": "041DF65B|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Impressive. I'll look forward to watching him fight.",
+    "string": "Impresionante, amigo. Los ojos de <Alias=Player> están emocionados de verlo pelear, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_SoHeWas",
+    "form_id": "041DF65D|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So he \"was\" number 5?",
+    "string": "Entonces, él “era” número cinco, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_OhSorry",
+    "form_id": "041DF65F|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sorry to hear that. Murder is not the same as death in the arena.",
+    "string": "Las orejas de este Khajiit lamentan mucho escuchar eso, amigo. El asesinato no es lo mismo que morir en la arena, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF660|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Blacklist contenders are \"encouraged\" to off one another before their matches. Folk even bet that it'll happen with some Blacklisters.",
+    "string": "Los contendientes de la Lista Negra son “animados” a eliminarse entre sí antes de sus combates. Incluso la gente apuesta a que pasará con algunos Listados negros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF660|Ravengate.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "The odd thing is; Gortwog - my master - wasn't scheduled for a challenge up or down. Lindor needed 3, and we needed 2 before challenging.",
+    "string": "Lo extraño es; Gortwog - mi maestro - no estaba programado para subir o bajar. Lindor necesitaba tres, y nosotros necesitábamos dos antes de desafiar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF660|Ravengate.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Forgive me. Lindor, then number 6, needed three more qualifying fights before he could challenge for my master's spot at number 5.",
+    "string": "Perdóname. Lindor, entonces número seis, necesitaba tres peleas más de clasificación antes de poder desafiar el puesto de mi maestro en el número cinco.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_TooEarly",
+    "form_id": "041DF661|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So your master was killed even though there was no one to take his spot?",
+    "string": "Entonces, ¿tu maestro fue asesinado y no había nadie para reemplazarlo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_SoICanChallenge",
+    "form_id": "041DF663|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So if I beat the number 1, I could...",
+    "string": "Entonces, si este Khajiit vence al número uno, <Alias.Pronoun=Player> podría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_Enlist",
+    "form_id": "041DF667|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Okay, is there any way you could help me?",
+    "string": "Muy bien. ¿Hay alguna forma de que puedas ayudar a este, amigo? Este Khajiit es bueno cobrando deudas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF668|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Right, well, I've been here for some time now - long enough for my master to climb from nobody to #5. I think could be of use to you.",
+    "string": "Bien, he estado aquí por un tiempo ahora - lo suficiente para que mi maestro suba de nadie a número cinco. Creo que podría ser útil para ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_CityGuard",
+    "form_id": "041DF669|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "If I find out who killed him, I could inform the guards.",
+    "string": "Si este Khajiit pudiera descubrir quién lo mató, entonces <Alias.Pronoun=Player> podría avisar a los guardias, quizá.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_LastStep",
+    "form_id": "041DF66B|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "...I'll have killed your master's killer as well.",
+    "string": "...y este Khajiit habría matado al asesino de tu maestro también, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_Accepted",
+    "form_id": "041DF66D|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sounds useful. I'll find you when I need your help.",
+    "string": "Suena útil para los oídos de este Khajiit, en efecto. <Alias=Player> te buscará cuando <Alias.Pronoun=Player> necesite tu ayuda. Muchas gracias.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_Rejected",
+    "form_id": "041DF670|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I prefer to stay independent. For all I know, you might be an assassin.",
+    "string": "Este Khajiit prefiere mantenerse independiente, sí. Después de todo, asesinos podrían acechar alrededor de cada duna de arena, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_YouWereASlave",
+    "form_id": "041DF673|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why aren't you happy your master was killed? You were a slave, right?",
+    "string": "¿Por qué no estás feliz de que tu maestro haya sido asesinado, hmm? ¿Eras un esclavo, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF674|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, I won't say I'm proud of being a slave, but it wasn't as bad as all that. My Master wasn't overly kind, but I wasn't ill treated.",
+    "string": "Bueno, este Khajiit no dirá que está orgulloso de ser esclavo, pero no era tan malo como todo eso. Mi Maestro no era excesivamente amable, pero tampoco me trataba mal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF674|Ravengate.esp",
+    "index": 8,
+    "type": "INFO NAM1",
+    "original": "I braced for the stroke as best I could, but it never fell. The Orc had grabbed the master's arm. \"This one,\" he said. And that was that.",
+    "string": "Este Khajiit se preparó para el golpe lo mejor posible, pero nunca cayó. El Orco había agarrado el brazo del maestro. “Este”, dijo. Y eso fue todo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF674|Ravengate.esp",
+    "index": 9,
+    "type": "INFO NAM1",
+    "original": "He hated the sound of his own voice. He couldn't find someone who would willingly serve as his mouth piece, so he went and bought one: me.",
+    "string": "Él odiaba el sonido de su propia voz. No podía encontrar a alguien que sirviera voluntariamente como su portavoz, así que fue y compró uno: a este Khajiit.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_Blacklist_Flamia",
+    "form_id": "041DF676|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm about to fight Flamia. What can you tell me about her?",
+    "string": "La siguiente pelea es contra Flamia. ¿Tiene alguna debilidad, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF677|Ravengate.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "A few months ago she came face to face with that particular daedric nightmare again, this time with the Stormcloaks. She just reacted.",
+    "string": "Hace unos meses ella se enfrentó nuevamente a esa pesadilla Daédrica, esta vez con los Capas de la Tormenta. Solo reaccionó.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_Blacklist_Almawrexia",
+    "form_id": "041DF679|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm about to fight Almawrexia. What can you tell me about her?",
+    "string": "<Alias=Player> está a punto de pelear contra Almawrexia. ¿Qué puede decir este Khajiit sobre ella, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF67A|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Almawrexia's ...touched.",
+    "string": "Almawrexia está... tocada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF67A|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "She is and she isn't. She doesn't just think she's the Goddess reborn. She thinks the Goddess is possessing her. She came form Windhelm.",
+    "string": "Ella es y no es. No solo cree que es la diosa reencarnada. Cree que la diosa la está poseyendo. Vino de Ventalia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_Blacklist_Marukab",
+    "form_id": "041DF67C|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm about to fight Marukab. What can you tell me about him?",
+    "string": "<Alias=Player> ahora peleará contra Marukab. ¿Qué secretos se conocen sobre él, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF67D|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Redguard, Marukab? He's saving all of his winnings to buy passage back to Hammerfell. Aparently he and I have something in common.",
+    "string": "¿El Guardia Rojo Marukab? Está ahorrando todas sus ganancias para comprar un pasaje de regreso a Páramo del Martillo. Aparentemente él y este Khajiit tienen algo en común.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_Blacklist_Lindor",
+    "form_id": "041DF67F|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm about to fight Lindor. What can you tell me about him?",
+    "string": "Lindor es el siguiente. ¿Qué se sabe de él, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_Blacklist_Hala",
+    "form_id": "041DF682|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm about to fight Lindor. What can you tell me about her?",
+    "string": "Entonces, este “Lindor” podría resultar problemático, en efecto. ¿Algún consejo, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF683|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hala the Witch. She came here about the same time we did. Rarely fights in the arena. She's a poisoner, not a forgewife.",
+    "string": "Hala la Bruja. Llegó aquí casi al mismo tiempo que este Khajiit. Rara vez pelea en la arena. Es una envenenadora, no una esposa de la forja.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF683|Ravengate.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "She's cunning - not clever, or smart, but cunning ...like a predator.",
+    "string": "Es astuta - no inteligente ni sabia, sino astuta... como un depredador.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_Bye",
+    "form_id": "041DF685|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I should go.",
+    "string": "<Alias=Player> debería irse ahora, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_Blacklist_Loraliah",
+    "form_id": "041DF688|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm about to fight Loraliah. What can you tell me about her?",
+    "string": "Loraliah es la siguiente oponente. Dile a este Khajiit todo lo que sabes, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF689|Ravengate.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I know the Dominion's sent a few agents in to skulk about looking for someone who matches her description, but \"accidents\" happened to them.",
+    "string": "Este Khajiit sabe que el Dominio envió algunos agentes a merodear buscando a alguien que coincida con su descripción, pero ocurrieron “accidentes” con ellos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_Blacklist_Yngven",
+    "form_id": "041DF68B|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm about to fight Yngven. What can you tell me about her?",
+    "string": "Este Khajiit debe ahora pelear con Yngven. Seguramente hay algo que puedas compartir sobre ella, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF68C|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yngven the Ice-Wolf... is not quite as dangerous as she thinks she is, but she's a force that gave my ma - former master pause. A True Nord.",
+    "string": "Yngven la Loba de Hielo... no es tan peligrosa como cree ser, pero es una fuerza que incluso mi ma- antiguo maestro, hizo dudar. Una verdadera Nórdica.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF68C|Ravengate.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Well, when I say \"left the Stormcloaks,\" I mean she left the regular - or irregular if you like that better- army. Became a scalp hunter.",
+    "string": "Bueno, cuando digo “dejó los Capas de la Tormenta”, quiero decir que dejó el ejército regular -o irregular si prefieres-. Se convirtió en cazadora de cabelleras.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF68C|Ravengate.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Not literally. I don't think, anywyay. She's taken to setting up ambushes by herself to take out key Imperial commanders.  She's good, too.",
+    "string": "No literalmente. Este Khajiit no cree, al menos. Ella ha empezado a tender emboscadas sola para eliminar comandantes Imperiales clave. Y es buena, también.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_Blacklist_KingCereus",
+    "form_id": "041DF68E|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm about to fight Cereus Septim. What can you tell me about him?",
+    "string": "Este Khajiit está a punto de pelear con Cereus Septim. ¿Qué se sabe de él, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_Blacklist_Xivaz",
+    "form_id": "041DF691|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm about to fight the final challenger. What can you tell me about him?",
+    "string": "¡Es hora del último retador! ¿Tienes algún consejo de último minuto para este campeón, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF692|Ravengate.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "He's lived since the Oblivion invasion, and just \"appeared\" in the Ratway one day. He's an unstoppable force of nature. Great story, right?",
+    "string": "Ha vivido desde la invasión de Oblivion y simplemente “apareció” en la Ciénaga de las Ratas un día. Es una fuerza imparable de la naturaleza. Gran historia, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF692|Ravengate.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "Alright, peace, peace. He's \"all\" Dunmer. My master was fairly certain, and I confirmed it.",
+    "string": "Muy bien, paz, paz. Él es “todo” Dunmer. Mi maestro estaba bastante seguro, y este Khajiit lo confirmó.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Edwain_XivazNoXivilai",
+    "form_id": "041DF693|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "...but no Xivilai.",
+    "string": "...pero no Xivilai, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041DF6A1|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So you're taking your place at number 10 on the Blacklist, are you? Which currency will you be paying with today, blood or gold?",
+    "string": "Entonces, ¿tomas tu lugar en el número diez de la Lista Negra, verdad? ¿Con qué moneda pagarás hoy, sangre u oro?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Mordane_Huh",
+    "form_id": "041DF6A2|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Huh?",
+    "string": "¿Hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Mordane_BetSelf",
+    "form_id": "041DF6A5|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can you explain again how I can bet on myself?",
+    "string": "Explícale otra vez a <Alias=Player> cómo <Alias.Pronoun=Player> puede apostar por <Alias.PronounPosObjCap=Player>, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Voices_Topic_Yngven_Bye",
+    "form_id": "041F8BF8|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I should go.",
+    "string": "<Alias=Player> debería irse ahora, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040D7B85|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You ...appear to ...have me at a ...disadvantage, Ravencrowned. At - At least this is an ending I've earned. ...Your hand. ...Not Yngven's.",
+    "string": "Tú... pareces... tenerme en una... desventaja, Ravengrowned. Al menos este es un final que he ganado... Tu mano... no la de Yngven.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "041BBEA5|Ravengate.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's ...easy to side with a ...strong leader, aye? ...No ...matter how ...bigoted she is....",
+    "string": "Es... fácil ponerse del lado de un... líder fuerte, ¿eh? No... importa cuán... prejuiciosa sea...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Blacklist_Topic_Zanath_BeforeEnrage",
+    "form_id": "04202E1F|Ravengate.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You're the only challenge I have left, now that I've beaten your daedra.",
+    "string": "Tu Daedra ha desaparecido, y tú eres el único desafío que queda, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_Lindor_Disappear",
+    "form_id": "04123CDC|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Lindor rubs his ring and disappears!",
+    "string": "¡Lindor frota su anillo y desaparece!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_Almawrexia_ComeToMother",
+    "form_id": "04123CDD|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A magnetic force pulls you to Almawrexia!",
+    "string": "¡Una fuerza magnética ha atraído a todo ser vivo del área hacia Almawrexia!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_DailyArena_BeThereFirst",
+    "form_id": "041F8BF4|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your first duel is taking place. Head into the dungeon underneath Ravengate and prepare for your duel.",
+    "string": "Este Khajiit tiene el primer duelo de <Alias.PronounPosObj=Player> ocurriendo pronto, ¿no?\r\nQuizá el calabozo debajo de Ravengate es un buen lugar para prepararse para el duelo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_StagingArea_HasEntered",
+    "form_id": "040A4E4D|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A fighter is ready for combat.",
+    "string": "¡Un luchador está preparado para el combate!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_Blacklist_Today",
+    "form_id": "040B42EA|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Today is the day of your Blacklist fight.",
+    "string": "¡Hoy es el día! ¡La pelea de la Lista Negra ha comenzado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_Yngven_HasBeenSabotaged",
+    "form_id": "041FDCFC|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Yngven's equipment has been sabotaged by Zanath.\r\n\r\nArmor reduced by 200 points and attack damage reduced by 25%%.",
+    "string": "Zanath ha saboteado el equipo de Yngven!\r\n\r\nLa armadura ha sido reducida en 200 puntos, y el daño de ataque ha sido reducido en 25%%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_AppleOfDeath",
+    "form_id": "040816B3|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The apple was poisoned by Hala's witchcraft!",
+    "string": "¡La manzana fue envenenada por la hechicería de Hala!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_BlockedDoor",
+    "form_id": "040AF178|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This trapdoor seems to lead into the heart of Riften. Concerned about undue attention, you decide against opening it. The Ratways are a much safer way in and out for a famous hero like you.",
+    "string": "Esta trampilla parece llevar al corazón de Riften.\r\n\r\nAbrirla atraería atención no deseada, en efecto.\r\n\r\nSeguramente, La Ratonera son una forma mucho más segura de entrar y salir de la ciudad para un héroe tan famoso, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_KingCereus_BeholdAkatosh",
+    "form_id": "041609AF|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "By the power of Akatosh, your foes return to life!",
+    "string": "¡Por el poder de Akatosh, todos estos patas suaves han vuelto a la vida!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_DailyArena_BeThere_Blacklist",
+    "form_id": "040C8714|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You have been scheduled to duel a Blacklist opponent. Show them what you're made of!",
+    "string": "Un oponente de la Lista Negra ha sido programado.\r\n\r\nQuizá sea hora de una Danza de Garras, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_CageNote",
+    "form_id": "04095B09|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Opponent chosen",
+    "string": "Oponente elegido...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_BattlePlanner_Fail_InProgress",
+    "form_id": "04095B05|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A duel is already scheduled.",
+    "string": "Un duelo ya está programado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_BattlePlanner_ChooseBlacklist",
+    "form_id": "0410563B|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose an opponent.",
+    "string": "Elige un oponente:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_Lindor_StoleAllThermalDetonators",
+    "form_id": "0410052D|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Lindor will surely miss those in combat...",
+    "string": "Seguramente Lindor echará de menos esos en combate, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_Hala_AddAppleOfDeath",
+    "form_id": "04100518|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "As an expert pickpocket, you notice that Hala is attempting to slip something into your pocket!",
+    "string": "Hala intenta tontamente deslizar algo en el bolsillo de este Khajiit...\r\n\r\nPero gracias a habilidades expertas de robo y sentidos agudos, este Khajiit lo detecta!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_Lindor_AddBearLure",
+    "form_id": "0410563E|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "As an expert pickpocket, you notice that Lindor is attempting to slip something into your pocket!",
+    "string": "Lindor intenta tontamente deslizar algo en el bolsillo de este Khajiit...\r\n\r\nPero gracias a habilidades expertas de robo y sentidos agudos, este Khajiit lo detecta!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_Lindor_LindorBear_AttacksHim",
+    "form_id": "0410563C|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A bear is attracted by the Bear Lure in Lindor's pocket!",
+    "string": "¡Un oso es atraído por el Señuelo para osos en el bolsillo de Lindor!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_Loraliah_ToOblivion",
+    "form_id": "0416FCF1|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A portal opens underneath you!",
+    "string": "¡Un portal se abre debajo de las patas del Khajiit!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_DailyArena_Start",
+    "form_id": "040AF108|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A duel is starting. Be there!",
+    "string": "Un duelo está comenzando. No llegues tarde, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_BattlePlanner_ChooseTwo",
+    "form_id": "04095B0B|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose two fighters.",
+    "string": "Elige dos luchadores:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_BattlePlanner_ChooseOne",
+    "form_id": "04095B0A|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose an opponent.",
+    "string": "Elige un oponente:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_Hala_AcidSkin",
+    "form_id": "04133012|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "While taking an item from Hala, you touched her skin. It exudes caustic acid!",
+    "string": "Al tomar un objeto, la piel de Hala es tocada y comienza a exudar un ácido cáustico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_Combat_Killed_Opponent",
+    "form_id": "040A9F8F|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your opponent falls!",
+    "string": "La oposición ha caído.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_CourierInbound",
+    "form_id": "040C8733|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You have the feeling that someone has been watching you.",
+    "string": "Los sentidos del Khajiit se estremecen, como si alguien estuviera observando...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_WaitForFight",
+    "form_id": "04221480|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your duel has been scheduled. Return between 8 and 11.",
+    "string": "Un duelo ha sido programado. Regresa entre las 8 y las 11.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_Hala_StoneHex_TooLate",
+    "form_id": "04138126|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your flesh hardens...",
+    "string": "La carne del Khajiit comienza a endurecerse...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_Hala_StoneHex_AvertYourGaze",
+    "form_id": "0413301B|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Avert your gaze - or be turned to stone!",
+    "string": "No permitas que los ojos del Khajiit vean esto - o seguramente <Alias.Pronoun=Player> será convertido en piedra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_Marukab_DontUnequipAll",
+    "form_id": "041DF6AB|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You denied Marukab's request to fight without armor.\r\n\r\nHopefully, Marukab keeps his promise and fights without armor as well...",
+    "string": "¡La petición de pelear sin armadura ha sido denegada!\r\n\r\nQuizá Marukab aún peleará sin armadura, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_Marukab_UnequipAll",
+    "form_id": "041DF6AA|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You promised Zanath you will fight Marukab without armor, in accordance with Redguard tradition.",
+    "string": "¡La petición de pelear sin armadura ha sido aceptada!\r\n\r\nMarukab será combatido sin armadura - en conformidad con la tradición Guardia Roja.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_Lindor_LindorBear_AttacksYou",
+    "form_id": "0410563D|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A bear is attracted by the Bear Lure in your pocket!",
+    "string": "¡Un oso es atraído por el Señuelo para osos en el bolsillo de este Khajiit!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_Bet",
+    "form_id": "041DF6A7|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Would you like to challenge yourself?",
+    "string": "Quizá esto debería convertirse en algo más desafiante, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_Hala_AwayWithTheFairies_Resist",
+    "form_id": "041EE9E1|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Suddenly, a dark force of witchcraft attempts to pull you through space and time!\r\n\r\nAs an expert pickpocket, you manage to hold on to your equipment as you disappear into the maelstrom.",
+    "string": "De repente, una oscura fuerza de hechicería intenta arrastrar al Khajiit a través del espacio y el tiempo!\r\n\r\nGracias a habilidades magistrales de robo, todo el equipo se mantiene mientras desaparece en el torbellino...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_Hala_AwayWithTheFairies",
+    "form_id": "041EE9DE|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Suddenly, a dark force of witchcraft attempts to pull you through space and time!\r\n\r\nYou lose hold of your equipment as you disappear into the maelstrom.",
+    "string": "De repente, una oscura fuerza de hechicería intenta arrastrar al Khajiit a través del espacio y el tiempo!\r\n\r\nDurante la lucha por resistir, todo el equipo se pierde antes de desaparecer en el torbellino...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RVH_Message_DailyArena_BeThere",
+    "form_id": "040AF110|Ravengate.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You have been scheduled to duel. Show them what you're made of!",
+    "string": "Un duelo ha sido programado. Ahora a mostrarle a todos cómo es una danza de garras Khajiit, ¿sí?",
+    "status": "TranslationComplete"
+  }
+]

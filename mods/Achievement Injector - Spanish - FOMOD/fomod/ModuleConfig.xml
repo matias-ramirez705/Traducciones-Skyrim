@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with XIMOD Architect 2.3.0 [https://www.nexusmods.com/site/mods/2141] -->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
+	<moduleName>Achievement Injector</moduleName>
+	<moduleImage path="Assets\thumbnail.png"/>
+	<requiredInstallFiles>
+		<file source="MCM\Config\AchievementInjector\config.json" destination="MCM\Config\AchievementInjector\config.json" priority="0"/>
+		<file source="interface\translations\AchievementInjector_spanish.txt" destination="interface\translations\AchievementInjector_spanish.txt" priority="0"/>
+	</requiredInstallFiles>
+	<installSteps order="Explicit">
+		<installStep name="Instalacion">
+			<optionalFileGroups>
+				<group name="Configuraciones agrupadas" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Juego Base">
+							<description></description>
+							<files>
+								<file source="AchievementsData\Localizations\SkyrimSE_EN.txt" destination="SKSE\Plugins\AchievementsData\Localizations\SkyrimSE_EN.txt" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<type name="Recommended"/>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Dawnguard">
+							<description></description>
+							<files>
+								<file source="AchievementsData\Localizations\Dawnguard_EN.txt" destination="SKSE\Plugins\AchievementsData\Localizations\Dawnguard_EN.txt" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<type name="Recommended"/>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Hearthfire">
+							<description></description>
+							<files>
+								<file source="AchievementsData\Localizations\Hearthfire_EN.txt" destination="SKSE\Plugins\AchievementsData\Localizations\Hearthfire_EN.txt" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<type name="Recommended"/>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Dragonborn">
+							<description></description>
+							<files>
+								<file source="AchievementsData\Localizations\Dragonborn_EN.txt" destination="SKSE\Plugins\AchievementsData\Localizations\Dragonborn_EN.txt" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<type name="Recommended"/>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="The Sinister Seven">
+							<description></description>
+							<files>
+								<file source="AchievementsData\Localizations\TheSinisterSeven_EN.txt" destination="SKSE\Plugins\AchievementsData\Localizations\TheSinisterSeven_EN.txt" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="The_Sinister_Seven.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="The_Sinister_Seven.esp" state="Missing"/>
+												<fileDependency file="The_Sinister_Seven.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="A Tale of Blood and Snow">
+							<description></description>
+							<image path="Assets\atobas.png"/>
+							<files>
+								<file source="AchievementsData\Localizations\DV01VampireClanWar_EN.txt" destination="SKSE\Plugins\AchievementsData\Localizations\DV01VampireClanWar_EN.txt" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="DV01VampireClanWar.esm" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="DV01VampireClanWar.esm" state="Inactive"/>
+												<fileDependency file="DV01VampireClanWar.esm" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+	</installSteps>
+</config>

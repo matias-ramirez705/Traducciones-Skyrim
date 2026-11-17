@@ -1,0 +1,416 @@
+[
+  {
+    "editor_id": "ccASVSSE001_BR01Topic",
+    "form_id": "05000DF9|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Espero la orden de la diosa. Su palabra es nuestra ley.",
+    "string": "Khajiit espera una orden de la diosa. Su palabra es la ley, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_BR02Topic",
+    "form_id": "05000DFB|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ha llegado la Recuperación para vosotros, herejes.",
+    "string": "¡La Reclamación ha venido por ustedes, herejes!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_BR03Topic",
+    "form_id": "05000DFD|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No soy quien tú crees. Me llamo <Alias=Player>. Prepárate a morir.",
+    "string": "¡Ja! ¡Han sido engañados por este astuto Khajiit! Este es conocido como <Alias=Player>, ¡y ahora morirán!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_BR01TopicA",
+    "form_id": "05000DFF|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Tiene la diosa una tarea para mí?",
+    "string": "¿Tiene la diosa una tarea para este, tal vez?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_BR01TopicC",
+    "form_id": "05000E03|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "La diosa ordena que os dé muerte a todos.",
+    "string": "La diosa ha ordenado a este que los mate a todos. Sin resentimientos, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_BR04Topic",
+    "form_id": "05000E08|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No pertenezco a tu grupo de seguidores. Pero, aun así, me gustaría sumarme a vuestras filas.",
+    "string": "<Alias=Player> no es uno de sus seguidores, no. Pero <Alias.Pronoun=Player> sí desea unirse a ustedes, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05048066|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "He vencido en el juicio por combate. Confío en que esto signifique que me he ganado el favor de la diosa, ¿no?",
+    "string": "Entonces, ahora que <Alias=Player> ganó la prueba de combate, <Alias.Pronoun=Player> tiene su favor, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000E0A|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Para demostrar mi lealtad, le rezaré a la diosa.",
+    "string": "<Alias=Player> probará <Alias.PronounPosObj=Player> lealtad orando a la diosa, ¿hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_BR04TopicB",
+    "form_id": "05000EAA|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Entonces no me dejas alternativa.",
+    "string": "Bien. Entonces solo queda una opción, en verdad...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000EB5|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Podemos dar con la forma de llevarnos bien de todos modos?",
+    "string": "Seguramente, hay alguna forma de coexistir, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_DrurethBranch01Topic",
+    "form_id": "05000F17|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tengo entendido que tienes unas cartas para que las traduzca la sacerdotisa Velothi.",
+    "string": "Khajiit escuchó que tienen unas cartas para que la Sacerdotisa Velothi traduzca, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_VelothiBranchTopic",
+    "form_id": "05000FF2|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me han dicho que puedes traducir estas cartas.",
+    "string": "Khajiit escuchó que ustedes traducirán estas cartas, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000FF4|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Puedo difundir las cartas si has terminado de traducirlas.",
+    "string": "<Alias=Player> repartirá las cartas si ya terminaron de traducirlas, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_CiviliansTopic",
+    "form_id": "05000FF8|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Deberías leer esta carta. (Persuadir)",
+    "string": "Deberían leer esta carta, amigo. (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05001003|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Puedes mostrarles esta carta a tus clientes? (Persuadir)",
+    "string": "Por favor, muestren esta carta a sus clientes, amigo. (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05001005|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Puedes mostrarles esta carta a tus clientes? (Persuadir)",
+    "string": "Por favor, muestren esta carta a sus clientes, amigo. (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05001004|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Puedes mostrarles esta carta a tus clientes? (Persuadir)",
+    "string": "Por favor, muestren esta carta a sus clientes, amigo. (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05001006|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Puedes mostrarles esta carta a tus clientes? (Persuadir)",
+    "string": "Por favor, muestren esta carta a sus clientes, amigo. (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05001007|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Puedes mostrarles esta carta a tus clientes? (Persuadir)",
+    "string": "Por favor, muestren esta carta a sus clientes, amigo. (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05001019|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Puedes mostrarles esta carta a tus clientes? (Persuadir)",
+    "string": "Por favor, muestren esta carta a sus clientes, amigo. (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500101A|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Puedes mostrarles esta carta a tus clientes? (Persuadir)",
+    "string": "Por favor, muestren esta carta a sus clientes, amigo. (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500101B|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Puedes mostrarles esta carta a tus clientes? (Persuadir)",
+    "string": "Por favor, muestren esta carta a sus clientes, amigo. (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05001008|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Puedes mostrarles esta carta a tus clientes? (Persuadir)",
+    "string": "Por favor, muestren esta carta a sus clientes, amigo. (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_LBribeTopic",
+    "form_id": "0500100A|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Te pagaré para que les muestres esta carta a tus clientes. (<BribeCost> de oro)",
+    "string": "Este les pagará por mostrar a sus clientes esta carta. (<BribeCost> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_LIntimidateTopic",
+    "form_id": "0500100C|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Vas a mostrarles esta carta a tus clientes. (Intimidar)",
+    "string": "Entonces, mostrarán esta carta a sus clientes, y Khajiit no convertirá sus entrañas en sus afueras, ¿hmm? (Intimidar)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_RRPriestsTopic",
+    "form_id": "05001014|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Unos herejes han estado difundiendo estas cartas.",
+    "string": "Los herejes han estado repartiendo estas cartas.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_VelothiQSBranchTopic",
+    "form_id": "0500114A|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tengo entendido que ha desaparecido una coadjutora del templo.",
+    "string": "Entonces, ¿un Cura del templo está desaparecido, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestRescueTopic",
+    "form_id": "05001159|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He venido a rescatarte por orden de la diosa.",
+    "string": "Este ha venido a rescatarlos, en nombre de la diosa. Impresionante, ¿no?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestKillTopic",
+    "form_id": "0500115B|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "De hecho, voy a matarte y a quedarme con la máscara.",
+    "string": "En realidad, este planea matarlos y tomar la máscara de su frío cadáver. Astuto, ¿no?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestMaskQueryTopic",
+    "form_id": "0500115D|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Tienes la máscara?",
+    "string": "¿Tienen la máscara, tal vez?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestFreeTopic",
+    "form_id": "05001162|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Deja que te libere de tus ataduras.",
+    "string": "Khajiit desatará esas ataduras, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestENDTopic",
+    "form_id": "05001169|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He completado las tareas de la diosa y me he ocupado de las criaturas del exterior.",
+    "string": "<Alias=Player> ha completado las tareas de la diosa... y se encargó de esas “cosas” afuera.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0504806D|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "He demostrado mi devoción hacia nuestra diosa recibiendo su bendición. (Persuadir)",
+    "string": "<Alias=Player> ha demostrado <Alias.PronounPosObj=Player> devoción a la diosa al recibir su bendición. (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05048065|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Podría rezarle a la diosa para demostrar mi lealtad. (Persuadir)",
+    "string": "Quizás Khajiit podría demostrar <Alias.PronounPosObj=Player> lealtad orando a la diosa, ¿hmm? (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05048062|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "He demostrado mi devoción hacia nuestra diosa recibiendo su bendición. (Persuadir)",
+    "string": "<Alias=Player> ha demostrado <Alias.PronounPosObj=Player> devoción a la diosa al recibir su bendición. (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0504806E|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Podría rezarle a la diosa para demostrar mi lealtad. (Persuadir)",
+    "string": "Quizás Khajiit podría demostrar <Alias.PronounPosObj=Player> lealtad orando a la diosa, ¿hmm? (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_BR04TopicZ1",
+    "form_id": "05048063|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Si derroto a tus guerreros en combate, es que la diosa me favorece.",
+    "string": "Si Khajiit venciera a sus guerreros en combate, demostraría que la diosa favorece a este, ¿no?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_BR05Topic",
+    "form_id": "050BC820|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Hay algo que pueda hacer para que cesen los ataques?",
+    "string": "Seguramente, algo se puede hacer para detener estos ataques, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_BR06Topic",
+    "form_id": "05219F5A|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He repartido las cartas que difunden su palabra.",
+    "string": "Khajiit ha repartido las cartas, esparciendo Su palabra.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_ForgeNoPower",
+    "form_id": "050990FD|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Para que funcione la forja hacen falta gemas.",
+    "string": "La forja requiere gemas para alimentarse. Esto se sabe.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_SothaSilMessage",
+    "form_id": "051D81E2|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Bendición de Sotha Sil añadida",
+    "string": "Bendición de Sotha Sil añadida...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_AlmalexiaMessage",
+    "form_id": "05000CC6|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Bendición de Almalexia añadida",
+    "string": "Bendición de Almalexia añadida...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_GemPlaced",
+    "form_id": "050990FC|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Ya hay una gema colocada.",
+    "string": "Ya se ha colocado una gema aquí.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_PyroilTarred",
+    "form_id": "05154746|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has aplicado el alquitrán de piróleo al arma sin encantar.",
+    "string": "La Brea de Piroil ha sido aplicada al Arma sin Encantamiento.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_PyroilTarred2",
+    "form_id": "0515E947|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No posees el arma necesaria.",
+    "string": "Falta el arma adecuada. Esto es algo simple de entender, ¿no?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_VivecMessage",
+    "form_id": "051D81E3|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Bendición de Vivec añadida",
+    "string": "Bendición de Vivec añadida...  ",
+    "status": "TranslationComplete"
+  }
+]

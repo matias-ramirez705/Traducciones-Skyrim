@@ -1,0 +1,83 @@
+[
+  {
+    "editor_id": "EO_AlchemistVoiceTestBranch01Topic",
+    "form_id": "051E5579|HoH.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How are you?",
+    "string": "¿Cómo se encuentra, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "OthanBranchTopic",
+    "form_id": "051FED1D|HoH.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How goes everything in Whitebirch?",
+    "string": "¿Cómo marcha todo en Whitebirch, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051FED1E|HoH.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Didn't you need need something?",
+    "string": "¿Necesita algo, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "OthanYes",
+    "form_id": "051FED22|HoH.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sure thing, what is it you need?",
+    "string": "Desde luego, amigo. ¿Qué es exactamente lo que necesita?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051FED23|HoH.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Great, I just need you to check in on a new resident in town. He just moved in about 2 months ago.",
+    "string": "Perfecto, solo necesito que investigue a un nuevo residente del pueblo. Se mudó aquí hace unos dos meses.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051FED23|HoH.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "He would usually come to the inn every night and I'd serve him dinner. But no one has seen him leave his house in 2 weeks...",
+    "string": "Normalmente venía a la posada todas las noches y este Khajiit le servía la cena. Pero nadie lo ha visto salir de su casa en dos semanas...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "OthanNo",
+    "form_id": "051FED24|HoH.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Not at the moment, sorry.",
+    "string": "Disculpe, pero ahora mismo no es posible.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "OthanFinishTopic",
+    "form_id": "051FED27|HoH.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I think I found Othan...",
+    "string": "Este Khajiit cree que <Alias.Pronoun=Player> ha encontrado a Othan, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EO_AldarilFinishBranchTopic",
+    "form_id": "051FED43|HoH.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've got the artifact for you.",
+    "string": "Este Khajiit tiene el artefacto, amigo.",
+    "status": "TranslationComplete"
+  }
+]

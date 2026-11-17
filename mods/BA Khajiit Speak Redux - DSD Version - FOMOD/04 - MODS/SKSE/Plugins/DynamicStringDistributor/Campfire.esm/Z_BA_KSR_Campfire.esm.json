@@ -1,0 +1,1694 @@
+[
+  {
+    "editor_id": "_Camp_legacyconfig_detectfollowers_on",
+    "form_id": "0203599E|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Track Followers\r\nIf enabled (default), Campfire will track 3 of your nearest followers and your pet, if any. This enables features like followers sleeping in the bed rolls of tents. This information is also shared with other Campfire-dependent mods.\r\n\r\nIf disabled, Campfire will not track followers, and ALL follower features in Campfire AND ANY OTHER CAMPFIRE-BASED MOD will be DISABLED. Disabling this feature is not recommended.\r\n\r\nCurrent Setting: Enabled",
+    "string": "Rastrear Seguidores\r\n\r\nSi está activado (por defecto), Campfire rastreará a 3 de tus seguidores más cercanos y a tu mascota, si hay alguna. Esto habilita funciones como que los seguidores duerman en los rollos de cama de las tiendas. Esta información también se comparte con otros mods que dependen de Campfire.\r\n\r\nSi está desactivado, Campfire no rastreará a los seguidores, y TODAS las funciones de seguidores en Campfire Y CUALQUIER OTRO MOD BASADO EN CAMPFIRE estarán DESACTIVADAS. No se recomienda desactivar esta función.\r\n\r\nConfiguración Actual: Activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_detectfollowers_on",
+    "form_id": "0203599E|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Disable",
+    "string": "Desactivar  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_detectfollowers_on",
+    "form_id": "0203599E|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Volver",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_detectfollowers_off",
+    "form_id": "0203599F|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Track Followers\r\nIf enabled (default), Campfire will track 3 of your nearest followers and your pet, if any. This enables features like followers sleeping in the bed rolls of tents. This information is also shared with other Campfire-dependent mods.\r\n\r\nIf disabled, Campfire will not track followers, and ALL follower features in Campfire AND ANY OTHER CAMPFIRE-BASED MOD will be DISABLED. Disabling this feature is not recommended.\r\n\r\nCurrent Setting: Disabled",
+    "string": "Rastrear Seguidores\r\n\r\nSi está activado (por defecto), Campfire rastreará a 3 de tus seguidores más cercanos y a tu mascota, si hay alguna. Esto habilita funciones como que los seguidores duerman en los rollos de cama de las tiendas. Esta información también se comparte con otros mods que dependen de Campfire.\r\n\r\nSi está desactivado, Campfire no rastreará a los seguidores, y TODAS las funciones de seguidores en Campfire Y CUALQUIER OTRO MOD BASADO EN CAMPFIRE estarán DESACTIVADAS. No se recomienda desactivar esta función.\r\n\r\nConfiguración Actual: Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_detectfollowers_off",
+    "form_id": "0203599F|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Enable",
+    "string": "Activar  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_detectfollowers_off",
+    "form_id": "0203599F|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Volver",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_helpstuckplacement",
+    "form_id": "020359A9|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Troubleshooting: Always \"Already Placing Object\"\r\n\r\nIf you always receive a message that you are \"already placing another object\" when attempting to place camping equipment even though you are not, click Attempt to Fix.\r\n\r\nNote: This procedure will do the best it can to solve the problem, and is not guarenteed to work.  However, in most cases, this should usually fix the problem.",
+    "string": "Solución de Problemas: Siempre \"Objeto ya en Colocación\"\r\n\r\nSi siempre recibes un mensaje que indica que \"ya estás colocando otro objeto\" al intentar colocar equipo de campamento aunque no lo estés haciendo, haz clic en Intentar Reparar.\r\n\r\nNota: Este procedimiento hará lo mejor que pueda para solucionar el problema, pero no garantiza que funcione. Sin embargo, en la mayoría de los casos, esto debería arreglar el problema.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_helpstuckplacement",
+    "form_id": "020359A9|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Attempt to Fix",
+    "string": "Intentar Reparar  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_helpstuckplacement",
+    "form_id": "020359A9|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Volver",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenu",
+    "form_id": "020365B2|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What do you want to do?",
+    "string": "¿Qué ahora, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenu",
+    "form_id": "020365B2|Campfire.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Tent",
+    "string": "Tienda  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenu",
+    "form_id": "020365B2|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Use Light",
+    "string": "Usar Luz  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenu",
+    "form_id": "020365B2|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Talk To...",
+    "string": "Hablar Con...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenu",
+    "form_id": "020365B2|Campfire.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Toggle View",
+    "string": "Cambiar Vista  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenu",
+    "form_id": "020365B2|Campfire.esm",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Get Up",
+    "string": "Levantarse  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenu",
+    "form_id": "020365B2|Campfire.esm",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenu",
+    "form_id": "020365B3|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What do you want to do?",
+    "string": "Hmm... ¿Qué ahora, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenu",
+    "form_id": "020365B3|Campfire.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Tent",
+    "string": "Tienda  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenu",
+    "form_id": "020365B3|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Sleep",
+    "string": "Dormir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenu",
+    "form_id": "020365B3|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Use Light",
+    "string": "Usar Luz  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenu",
+    "form_id": "020365B3|Campfire.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Talk To...",
+    "string": "Hablar Con...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenu",
+    "form_id": "020365B3|Campfire.esm",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Toggle View",
+    "string": "Cambiar Vista  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenu",
+    "form_id": "020365B3|Campfire.esm",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Get Up",
+    "string": "Levantarse  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenu",
+    "form_id": "020365B3|Campfire.esm",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_WoodHarvestConfirmMsg",
+    "form_id": "02036F7A|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You can spend 30 minutes gathering resources from the nearby area.\r\n\r\nWhat do you want to search for?",
+    "string": "El área cercana podría tener algunos recursos, no? ¿Qué debería buscarse, exactamente?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_WoodHarvestConfirmMsg",
+    "form_id": "02036F7A|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Chop Deadwood",
+    "string": "Cortar Leña Muerta  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_WoodHarvestConfirmMsg",
+    "form_id": "02036F7A|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Gather Branches",
+    "string": "Recolectar Ramas  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_WoodHarvestConfirmMsg",
+    "form_id": "02036F7A|Campfire.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "Cancelar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PlacementIllegal",
+    "form_id": "020397AE|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Camping here is illegal. You could be fined for trespassing if a guard or owner sees you.\r\n\r\nWhat do you do?",
+    "string": "Acampar aquí es ilegal, y podría acarrear una multa si te descubren, no?\r\n\r\n¿Qué ahora, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PlacementIllegal",
+    "form_id": "020397AE|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Place Here",
+    "string": "Colocar Aquí  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PlacementIllegal",
+    "form_id": "020397AE|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Cancel Placement",
+    "string": "Cancelar Colocación  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PlacementIllegal",
+    "form_id": "020397AE|Campfire.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Volver",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PlaceObjectError_Perk",
+    "form_id": "0203A5D0|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You lack the required perk to use this item.",
+    "string": "Se necesita más educación para usar esto correctamente, no? Quizás un perk podría ayudar, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PlaceObjectError_Item",
+    "form_id": "0203A5D1|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You lack the required supplies to use this item.",
+    "string": "Esto requiere más suministros para usarlo, no?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_GeneralError_Busy",
+    "form_id": "0203AB35|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You can't use this while using something else.",
+    "string": "Quizás esto debería esperar hasta que la otra tarea se complete, no?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_GeneralError_Swimming",
+    "form_id": "0203AB36|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You can't use this while swimming.",
+    "string": "Seguramente, esto no funcionará mientras se está de pie en el agua, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_GeneralError_Mounted",
+    "form_id": "0203AB37|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You can't use this while mounted.",
+    "string": "Sería imprudente usar esto mientras se está montado, sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_GeneralError_Sleeping",
+    "form_id": "0203AB38|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You can't use this while lying down.",
+    "string": "Quizás estar de pie sea sabio aquí, sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_GeneralError_Placement",
+    "form_id": "0203AB39|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You can't use this while placing something else.",
+    "string": "Colocar dos cosas a la vez es contraproducente, no?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_ObjectMainMenu",
+    "form_id": "0203E18C|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What do you do?",
+    "string": "¿Qué ahora, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_ObjectMainMenu",
+    "form_id": "0203E18C|Campfire.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Tent",
+    "string": "Tienda  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_ObjectMainMenu",
+    "form_id": "0203E18C|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Use",
+    "string": "Usar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_ObjectMainMenu",
+    "form_id": "0203E18C|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Pick Up",
+    "string": "Recoger",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_ObjectMainMenu",
+    "form_id": "0203E18C|Campfire.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Dispel",
+    "string": "Disipar  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_ObjectMainMenu",
+    "form_id": "0203E18C|Campfire.esm",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_GeneralError_Transformed",
+    "form_id": "0203FC8C|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You can't use this while transformed.",
+    "string": "Transformarse de nuevo a la forma normal es sabio, de hecho. Los pulgares opuestos ayudan mucho, no?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_CookingPotError",
+    "form_id": "020430F5|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "There is no fire hot enough to cook with.\r\n\r\nWhat do you do?",
+    "string": "El fuego no está lo suficientemente caliente para cocinar, no. ¿Qué ahora, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_CookingPotError",
+    "form_id": "020430F5|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Pick Up",
+    "string": "Recoger",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_CookingPotError",
+    "form_id": "020430F5|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PerkGeneral_UpgradeVerify",
+    "form_id": "02043826|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want this perk?",
+    "string": "Este es el perk correcto, sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PerkGeneral_UpgradeVerify",
+    "form_id": "02043826|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Ok",
+    "string": "Sí",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PerkGeneral_UpgradeVerify",
+    "form_id": "02043826|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "No",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Tent_FollowerBedroll",
+    "form_id": "0204413D|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This is a follower's bed roll.",
+    "string": "Este rollo de cama pertenece a un seguidor, no?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_WoodHarvest_Stone",
+    "form_id": "02044142|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You find a small, dense stone.",
+    "string": "Ah, una piedra pequeña y densa.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_WoodHarvestErrorTooCold",
+    "form_id": "0204671C|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are too cold to harvest wood.",
+    "string": "Así... f..f..frío... Incapaz de... recolectar... madera. Debe calentarse, s...s..sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_LightFail",
+    "form_id": "020468C5|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The tinder failed to ignite the fuel.",
+    "string": "¡Garras sin filo! La yesca no encendió el combustible...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_RefundFuelMsg",
+    "form_id": "0204844D|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You gather any unspent fuel.",
+    "string": "Ah, bien. Todo el combustible no usado ha sido recolectado...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_RefundFuelMsgSpent",
+    "form_id": "0204844E|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "There was no unspent fuel to reclaim.",
+    "string": "No hay combustible no usado para recuperar. Una tristeza.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_VisionPowerErrorIndoors",
+    "form_id": "02050B88|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You cannot use this ability while indoors.",
+    "string": "Esto solo debería usarse afuera, sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PerkEarned",
+    "form_id": "020510FA|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Camping perk available",
+    "string": "Perk de campamento disponible, sí!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_LitError",
+    "form_id": "020510F5|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your campfire must be lit to use this.",
+    "string": "La fogata debe encenderse primero para usar esto, no?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PerkAdvancement",
+    "form_id": "020510FB|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Camping perk progress increased",
+    "string": "Progreso del perk de campamento incrementado...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TalkMenu",
+    "form_id": "020536E8|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Talk to...",
+    "string": "Hablar con:  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TalkMenu",
+    "form_id": "020536E8|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Follower 1",
+    "string": "Seguidor 1  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TalkMenu",
+    "form_id": "020536E8|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Follower 2",
+    "string": "Seguidor 2  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TalkMenu",
+    "form_id": "020536E8|Campfire.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Follower 3",
+    "string": "Seguidor 3  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TalkMenu",
+    "form_id": "020536E8|Campfire.esm",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Animal",
+    "string": "Animal  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TalkMenu",
+    "form_id": "020536E8|Campfire.esm",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "No One",
+    "string": "Nadie",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_CombinedActionsMenu",
+    "form_id": "020737E7|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What do you do?",
+    "string": "¿Qué ahora, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_CombinedActionsMenu",
+    "form_id": "020737E7|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Harvest Wood",
+    "string": "Recolectar Madera  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_CombinedActionsMenu",
+    "form_id": "020737E7|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Build Campfire",
+    "string": "Construir Fogata  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_CombinedActionsMenu",
+    "form_id": "020737E7|Campfire.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Create Item",
+    "string": "Crear Objeto  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_CombinedActionsMenu",
+    "form_id": "020737E7|Campfire.esm",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Volver",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_campingskillrestoredone",
+    "form_id": "02054C74|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Perks restored successfully.",
+    "string": "¡Perks restaurados exitosamente!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_campingskillrestoredone",
+    "form_id": "02054C74|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Ok",
+    "string": "Aceptar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_VisionPowerErrorMounted",
+    "form_id": "0205573C|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You cannot use this ability while mounted.",
+    "string": "Esto solo debería realizarse cuando se esté desmontado de un caballo, sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentPickUpError",
+    "form_id": "020560D9|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cannot pack tent while bed rolls are in use.",
+    "string": "El rollo de cama debe empacarse primero antes de la tienda, sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_FurniturePickUpError",
+    "form_id": "020560DA|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Someone else is using this.",
+    "string": "Gato tonto, alguien más ya está usando esto, no?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Help_CampfireActivate",
+    "form_id": "0205980B|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Press [Jump] to use your campfire.",
+    "string": "Presiona [Saltar] para usar la fogata.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_MenuNoTime",
+    "form_id": "0205B32E|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What do you do?",
+    "string": "¡El fuego está encendido! ¿Qué ahora, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_MenuNoTime",
+    "form_id": "0205B32E|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Use",
+    "string": "Usar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_MenuNoTime",
+    "form_id": "0205B32E|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Sit",
+    "string": "Sentarse",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_MenuNoTime",
+    "form_id": "0205B32E|Campfire.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Talk To...",
+    "string": "Hablar Con...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_MenuNoTime",
+    "form_id": "0205B32E|Campfire.esm",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Put Out",
+    "string": "Apagar  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_MenuNoTime",
+    "form_id": "0205B32E|Campfire.esm",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Destroy",
+    "string": "Destruir  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_MenuNoTime",
+    "form_id": "0205B32E|Campfire.esm",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Place Cooking Pot",
+    "string": "Colocar Olla de Cocina  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_MenuNoTime",
+    "form_id": "0205B32E|Campfire.esm",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Skills",
+    "string": "Habilidades  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_MenuNoTime",
+    "form_id": "0205B32E|Campfire.esm",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "Get Up",
+    "string": "Levantarse  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_MenuNoTime",
+    "form_id": "0205B32E|Campfire.esm",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Volver",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_CampfireQuickBurnedOutMenu",
+    "form_id": "02075847|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What do you do?",
+    "string": "¡El fuego se ha apagado! ¿Qué ahora, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_CampfireQuickBurnedOutMenu",
+    "form_id": "02075847|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Light",
+    "string": "Reencender  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_CampfireQuickBurnedOutMenu",
+    "form_id": "02075847|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Destroy",
+    "string": "Destruir  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_CampfireQuickBurnedOutMenu",
+    "form_id": "02075847|Campfire.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Volver",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_campfiremode_realistic",
+    "form_id": "02075846|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Campfire Building\r\n\r\nQuick: 4 firewood or deadwood is used, and the campfire is lit automatically.\r\n\r\nRealistic: You must use tinder, starting fuel, and lighting the campfire takes skill and time.\r\n\r\nCurrent setting: Realistic",
+    "string": "Construcción de Fogata\r\n\r\nRápido: Se necesitan cuatro (4) leña o leña muerta. El fuego se enciende en un solo paso.\r\n\r\nRealista: Se debe usar yesca como combustible inicial. Encender la fogata requiere habilidad y tiempo. La fogata se enciende usando múltiples pasos que afectan el resultado.\r\n\r\nConfiguración actual: Realista",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_campfiremode_realistic",
+    "form_id": "02075846|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Quick",
+    "string": "Rápido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_campfiremode_realistic",
+    "form_id": "02075846|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Realistic",
+    "string": "Realista  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_campfiremode_realistic",
+    "form_id": "02075846|Campfire.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Volver",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_campfiremode_quick",
+    "form_id": "02075845|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Campfire Building\r\n\r\nQuick: 4 firewood or deadwood is used, and the campfire is lit automatically.\r\n\r\nRealistic: You must use tinder, starting fuel, and lighting the campfire takes skill and time.\r\n\r\nCurrent setting: Quick",
+    "string": "Construcción de Fogata\r\n\r\nRápido: Se necesitan cuatro (4) leña o leña muerta. El fuego se enciende en un solo paso.\r\n\r\nRealista: Se debe usar yesca como combustible inicial. Encender la fogata requiere habilidad y tiempo. La fogata se enciende usando múltiples pasos que afectan el resultado.\r\n\r\nConfiguración actual: Rápido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_campfiremode_quick",
+    "form_id": "02075845|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Quick",
+    "string": "Rápido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_campfiremode_quick",
+    "form_id": "02075845|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Realistic",
+    "string": "Realista  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_campfiremode_quick",
+    "form_id": "02075845|Campfire.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Volver",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_CampfireNoFuelMsg",
+    "form_id": "02075844|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You need 4 firewood or deadwood to build a campfire.",
+    "string": "Se requieren cuatro (4) leña o leña muerta para construir una fogata, sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_CampfireModeSelect",
+    "form_id": "02075843|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "How do you want to build campfires?\r\n\r\nQuick: 4 firewood or deadwood is needed. The fire is lit in a single step.\r\n\r\nRealistic: You must use tinder, starting fuel, and lighting the campfire takes skill and time. The campfire is lit using multiple steps that affect the outcome.\r\n\r\n(You can change this setting at any time by using the Options: Campfire power, or the MCM.)",
+    "string": "¿Cómo desea Khajiit construir fogatas, hmm?\r\n\r\nRápido: Se necesitan cuatro (4) leña o leña muerta. El fuego se enciende en un solo paso.\r\n\r\nRealista: Se debe usar yesca como combustible inicial. Encender la fogata requiere habilidad y tiempo. La fogata se enciende usando múltiples pasos que afectan el resultado.\r\n\r\n[esta configuración puede cambiarse en cualquier momento usando Opciones: Poder de Campfire, o el MCM]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_CampfireModeSelect",
+    "form_id": "02075843|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Quick",
+    "string": "Rápido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_CampfireModeSelect",
+    "form_id": "02075843|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Realistic",
+    "string": "Realista  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Tent_FollowerBed",
+    "form_id": "0205DE6C|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This is a follower's bed.",
+    "string": "Esta cama pertenece a un seguidor, sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_CookingPotErrorNotification",
+    "form_id": "0205F95A|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "There is no fire hot enough to cook with.",
+    "string": "Esto primero requiere un fuego lo suficientemente caliente para cocinar, no?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Tutorial_FireBuilding_5",
+    "form_id": "0206654B|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You have created a fragile fire that will last for one hour. Well done!\r\n\r\nYou can now add more fuel to increase the warmth and duration of your campfire. Select flickering, crackling, or roaring campfire recipes to view their required materials.\r\n\r\nLarger campfires can be used to cook food and grant bonuses.",
+    "string": "¡Grandes Lunas! Khajiit ha hecho un fuego frágil!  \r\n\r\n[NOTAS:]  \r\nEste fuego durará aproximadamente una (1) hora.  \r\nAgregar más combustible aumentará la calidez y duración de la fogata.  \r\nSelecciona recetas de fogata parpadeante, crepitante o rugiente para ver sus materiales requeridos.  \r\nFogatas más grandes pueden cocinar comida y otorgar bonificaciones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Tutorial_FireBuilding_5",
+    "form_id": "0206654B|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "OK (Complete Tutorial)",
+    "string": "OK (Completar Tutorial)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenuFrostfall",
+    "form_id": "02076873|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What do you want to do?\r\n\r\nExposure: %.0f%% (Max: %.0f%%), Wetness: %.0f%%",
+    "string": "Hmm... ¿Qué ahora, hmm?\r\n\r\nExposición: %.0f%% (Máx: %.0f%%), Humedad: %.0f%%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenuFrostfall",
+    "form_id": "02076873|Campfire.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Tent",
+    "string": "Tienda  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenuFrostfall",
+    "form_id": "02076873|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Use Light",
+    "string": "Usar Luz  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenuFrostfall",
+    "form_id": "02076873|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Talk To...",
+    "string": "Hablar Con...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenuFrostfall",
+    "form_id": "02076873|Campfire.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Toggle View",
+    "string": "Cambiar Vista  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenuFrostfall",
+    "form_id": "02076873|Campfire.esm",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Get Up",
+    "string": "Levantarse  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenuFrostfall",
+    "form_id": "02076873|Campfire.esm",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenuFrostfall",
+    "form_id": "02076872|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What do you want to do?\r\n\r\nExposure: %.0f%% (Max: %.0f%%), Wetness: %.0f%%",
+    "string": "Hmm... ¿Qué ahora, hmm?\r\n\r\nExposición: %.0f%% (Máx: %.0f%%), Humedad: %.0f%%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenuFrostfall",
+    "form_id": "02076872|Campfire.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Tent",
+    "string": "Tienda  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenuFrostfall",
+    "form_id": "02076872|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Sleep",
+    "string": "Dormir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenuFrostfall",
+    "form_id": "02076872|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Use Light",
+    "string": "Usar Luz  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenuFrostfall",
+    "form_id": "02076872|Campfire.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Talk To...",
+    "string": "Hablar Con...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenuFrostfall",
+    "form_id": "02076872|Campfire.esm",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Toggle View",
+    "string": "Cambiar Vista  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenuFrostfall",
+    "form_id": "02076872|Campfire.esm",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Get Up",
+    "string": "Levantarse  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenuFrostfall",
+    "form_id": "02076872|Campfire.esm",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenuFrostfallHeat",
+    "form_id": "02077339|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What do you want to do?\r\n\r\nExposure: %.0f%% (Max: %.0f%%), Wetness: %.0f%%\r\n\r\nYour tent is being warmed by a nearby fire.",
+    "string": "Hmm... ¿Qué ahora, hmm?\r\n\r\nExposición: %.0f%% (Máx: %.0f%%), Humedad: %.0f%%\r\n\r\nLa tienda está siendo calentada por el fuego, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenuFrostfallHeat",
+    "form_id": "02077339|Campfire.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Tent",
+    "string": "Tienda  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenuFrostfallHeat",
+    "form_id": "02077339|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Use Light",
+    "string": "Usar Luz  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenuFrostfallHeat",
+    "form_id": "02077339|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Talk To...",
+    "string": "Hablar Con...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenuFrostfallHeat",
+    "form_id": "02077339|Campfire.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Toggle View",
+    "string": "Cambiar Vista  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenuFrostfallHeat",
+    "form_id": "02077339|Campfire.esm",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Get Up",
+    "string": "Levantarse  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentSitMenuFrostfallHeat",
+    "form_id": "02077339|Campfire.esm",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenuFrostfallHeat",
+    "form_id": "02077338|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What do you want to do?\r\n\r\nExposure: %.0f%% (Max: %.0f%%), Wetness: %.0f%%\r\n\r\nYour tent is being warmed by a nearby fire.",
+    "string": "Hmm... ¿Qué ahora, hmm?\r\n\r\nExposición: %.0f%% (Máx: %.0f%%), Humedad: %.0f%%\r\n\r\nLa tienda está siendo calentada por el fuego, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenuFrostfallHeat",
+    "form_id": "02077338|Campfire.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Tent",
+    "string": "Tienda  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenuFrostfallHeat",
+    "form_id": "02077338|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Sleep",
+    "string": "Dormir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenuFrostfallHeat",
+    "form_id": "02077338|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Use Light",
+    "string": "Usar Luz  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenuFrostfallHeat",
+    "form_id": "02077338|Campfire.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Talk To...",
+    "string": "Hablar Con...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenuFrostfallHeat",
+    "form_id": "02077338|Campfire.esm",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Toggle View",
+    "string": "Cambiar Vista  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenuFrostfallHeat",
+    "form_id": "02077338|Campfire.esm",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Get Up",
+    "string": "Levantarse  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentLayMenuFrostfallHeat",
+    "form_id": "02077338|Campfire.esm",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_tutorials_resetconfirm",
+    "form_id": "02066554|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Reset all tutorials?",
+    "string": "¿Reiniciar todos los tutoriales, quizás?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_tutorials_resetconfirm",
+    "form_id": "02066554|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "OK",
+    "string": "ACEPTAR",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_legacyconfig_tutorials_resetconfirm",
+    "form_id": "02066554|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "Cancelar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Tutorial_SkillSystem_1",
+    "form_id": "02066556|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Show skill system tutorial?",
+    "string": "¿Mostrar tutorial del sistema de habilidades, quizás?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Tutorial_SkillSystem_1",
+    "form_id": "02066556|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "OK",
+    "string": "ACEPTAR",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Tutorial_SkillSystem_1",
+    "form_id": "02066556|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Skip",
+    "string": "Saltar  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_IngError_BoneMeal",
+    "form_id": "020788C2|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "%.0f Bone Meal required.",
+    "string": "Se requieren al menos %.0f de harina de hueso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_NotInitializedError",
+    "form_id": "02066560|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This object is still being placed.",
+    "string": "Este objeto aún se está colocando. La paciencia es difícil, no? Por eso es una virtud, de hecho.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentMainMenu",
+    "form_id": "020012D6|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What do you do?",
+    "string": "¿Qué ahora, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentMainMenu",
+    "form_id": "020012D6|Campfire.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Tent",
+    "string": "Tienda  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentMainMenu",
+    "form_id": "020012D6|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Sit",
+    "string": "Sentarse",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentMainMenu",
+    "form_id": "020012D6|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Relax",
+    "string": "Relajarse  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentMainMenu",
+    "form_id": "020012D6|Campfire.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Lie Down",
+    "string": "Acostarse  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentMainMenu",
+    "form_id": "020012D6|Campfire.esm",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Sleep",
+    "string": "Dormir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentMainMenu",
+    "form_id": "020012D6|Campfire.esm",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Use Light",
+    "string": "Usar Luz  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentMainMenu",
+    "form_id": "020012D6|Campfire.esm",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Pack Up",
+    "string": "Empacar  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentMainMenu",
+    "form_id": "020012D6|Campfire.esm",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Dispel",
+    "string": "Disipar  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_TentMainMenu",
+    "form_id": "020012D6|Campfire.esm",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_WoodHarvestErrorCombat",
+    "form_id": "0201AE3A|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You cannot harvest wood while in combat.",
+    "string": "Es tonto recolectar madera mientras se está en combate, sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_WoodHarvestErrorNoTrees",
+    "form_id": "0201D443|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "There are no trees nearby to harvest from.",
+    "string": "Desafortunadamente, no hay árboles cercanos para recolectar.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_DeadwoodHarvestSuccess",
+    "form_id": "0201D448|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You harvest %.0f pieces of deadwood.",
+    "string": "Eso hace %.0f piezas de leña muerta recolectadas, sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Help_TentActivate",
+    "form_id": "02024097|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Press [Jump] to use your tent.",
+    "string": "Presiona [Saltar] para usar la tienda.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_BranchHarvestSuccess",
+    "form_id": "02025650|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You find %.0f branches.",
+    "string": "Ah, excelente, %.0f ramas...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PlaceableObjectSelect",
+    "form_id": "0202843B|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What do you do?",
+    "string": "¿Qué se debe hacer con este objeto, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PlaceableObjectSelect",
+    "form_id": "0202843B|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Use",
+    "string": "Usar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PlaceableObjectSelect",
+    "form_id": "0202843B|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Pick Up",
+    "string": "Recoger",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PlaceableObjectSelect",
+    "form_id": "0202843B|Campfire.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Dispel",
+    "string": "Disipar  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PlaceableObjectSelect",
+    "form_id": "0202843B|Campfire.esm",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Destroy",
+    "string": "Destruir  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PlaceableObjectSelect",
+    "form_id": "0202843B|Campfire.esm",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PlaceableObjectDestroyConfirm",
+    "form_id": "0202843C|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to destroy this?",
+    "string": "Quizás sea sabio reconsiderar destruir esto, hmm? ¿Debería este uno proceder?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PlaceableObjectDestroyConfirm",
+    "form_id": "0202843C|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_PlaceableObjectDestroyConfirm",
+    "form_id": "0202843C|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Volver",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_IndicatorSelect",
+    "form_id": "02029A14|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What do you do?",
+    "string": "¿Dónde debería colocarse esto, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_IndicatorSelect",
+    "form_id": "02029A14|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Place Here",
+    "string": "Colocar Aquí  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_IndicatorSelect",
+    "form_id": "02029A14|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Cancel Placement",
+    "string": "Cancelar Colocación  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_IndicatorSelect",
+    "form_id": "02029A14|Campfire.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Volver",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_Menu",
+    "form_id": "02032329|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What do you do?\r\n\r\n(%.0f hours, %.0f minutes remaining.)",
+    "string": "¡El fuego está encendido! ¿Qué ahora, hmm? (%.0f horas, %.0f minutos restantes.)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_Menu",
+    "form_id": "02032329|Campfire.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Use",
+    "string": "Usar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_Menu",
+    "form_id": "02032329|Campfire.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Sit",
+    "string": "Sentarse",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_Menu",
+    "form_id": "02032329|Campfire.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Talk To...",
+    "string": "Hablar Con...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_Menu",
+    "form_id": "02032329|Campfire.esm",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Put Out",
+    "string": "Apagar  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_Menu",
+    "form_id": "02032329|Campfire.esm",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Destroy",
+    "string": "Destruir  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_Menu",
+    "form_id": "02032329|Campfire.esm",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Place Cooking Pot",
+    "string": "Colocar Olla de Cocina  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_Menu",
+    "form_id": "02032329|Campfire.esm",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Skills",
+    "string": "Habilidades  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_Menu",
+    "form_id": "02032329|Campfire.esm",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "Get Up",
+    "string": "Levantarse  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_Menu",
+    "form_id": "02032329|Campfire.esm",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Volver",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Campfire_SitError",
+    "form_id": "0203232A|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "There is nowhere to sit.",
+    "string": "Desafortunadamente, no hay dónde relajarse...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Inspired1Message",
+    "form_id": "0203541B|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The fire leaves you feeling Uplifted.",
+    "string": "Ah... ese fuego es reconfortante, de hecho.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Camp_Inspired2Message",
+    "form_id": "0203541C|Campfire.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The fire leaves you feeling Inspired.",
+    "string": "Ah... ese fuego es inspirador, de hecho.  ",
+    "status": "TranslationComplete"
+  }
+]

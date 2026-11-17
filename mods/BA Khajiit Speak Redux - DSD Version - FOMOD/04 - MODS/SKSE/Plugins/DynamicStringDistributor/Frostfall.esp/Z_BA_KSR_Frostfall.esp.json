@@ -1,0 +1,2243 @@
+[
+  {
+    "editor_id": "sNoWaitTakingHealthDamage",
+    "form_id": "000D49EF|Skyrim.esm",
+    "index": 1,
+    "type": "GMST DATA",
+    "original": "You cannot wait here.",
+    "string": "Deja de recibir daño, y LUEGO espera un poco, quizá.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "sNoFastTravelScriptBlock",
+    "form_id": "000D4F5E|Skyrim.esm",
+    "index": 1,
+    "type": "GMST DATA",
+    "original": "Fast travel is disabled.",
+    "string": "Uno no puede viajar a un lugar sin antes saber de dónde viene, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "sFastTravelNoTravelHealthDamage",
+    "form_id": "000D44A5|Skyrim.esm",
+    "index": 1,
+    "type": "GMST DATA",
+    "original": "Fast travel is disabled, or you are taking health damage.",
+    "string": "Cojeando hasta allá es poco sabio, en verdad. Es mejor sanar antes de viajar, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_Hypothermia_Spell_1",
+    "form_id": "03004E56|Frostfall.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You feel comfortable.",
+    "string": "Hmm... ahora Khajiit se siente cómodo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Oblivion_NoValue",
+    "form_id": "03081686|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This plane of Oblivion is warm. You are getting warmer.",
+    "string": "Este plano de Oblivion está acalorado, en verdad. (entrando en calor)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level9_NoValue",
+    "form_id": "03081685|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is warm. You are getting warmer.",
+    "string": "El aire se siente cálido. (entrando en calor)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level8_NoValue",
+    "form_id": "03081684|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is pleasant. You are getting warmer.",
+    "string": "El aire se siente agradable. Khajiit no se opone a esto. (entrando en calor)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level7_NoValue",
+    "form_id": "03081683|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is temperate. You are getting warmer.",
+    "string": "El aire se siente templado. (entrando en calor)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level6_NoValue",
+    "form_id": "03081682|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is cool. You are getting warmer.",
+    "string": "El aire se siente fresco. (entrando en calor)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Indoors",
+    "form_id": "03081650|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You cannot sense the outside weather. Getting warmer. (Max: %.0f%%)",
+    "string": "Es difícil percibir el clima exterior, en verdad. (entrando en calor - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Indoors",
+    "form_id": "03081651|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You cannot sense the outside weather. You are getting colder. (Max: %.0f%%)",
+    "string": "Es difícil percibir el clima exterior, en verdad. (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_Indoors",
+    "form_id": "03081652|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You cannot sense the outside weather.",
+    "string": "Es difícil percibir el clima exterior, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Oblivion",
+    "form_id": "03081653|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This plane of Oblivion is warm. You are getting colder. (Max: %.0f%%)",
+    "string": "Este plano de Oblivion está acalorado, en verdad. (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Oblivion",
+    "form_id": "03081654|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This plane of Oblivion is warm. You are getting warmer. (Max: %.0f%%)",
+    "string": "Este plano de Oblivion está acalorado, en verdad. (entrando en calor - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_Oblivion",
+    "form_id": "03081655|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This plane of Oblivion is warm.",
+    "string": "Este plano de Oblivion está acalorado, en verdad. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_PerkEarned",
+    "form_id": "0306811D|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Endurance perk available",
+    "string": "¡Habilidad de Resistencia disponible!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E1W1_NoValue",
+    "form_id": "03081657|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are warm.",
+    "string": "Khajiit está acalorado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E1W2_NoValue",
+    "form_id": "03081658|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are warm and damp.",
+    "string": "Khajiit está acalorado y húmedo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E1W3_NoValue",
+    "form_id": "03081659|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are warm and wet.",
+    "string": "Khajiit está entrando en calor y mojado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E1W4_NoValue",
+    "form_id": "0308165A|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are warm and drenched.",
+    "string": "Khajiit está acalorado y empapado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E2W1_NoValue",
+    "form_id": "0308165B|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are comfortable.",
+    "string": "Khajiit está cómodo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E2W2_NoValue",
+    "form_id": "0308165C|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are comfortable and damp.",
+    "string": "Khajiit está cómodo y húmedo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E2W3_NoValue",
+    "form_id": "0308165D|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are comfortable and wet.",
+    "string": "Khajiit está cómodo y mojado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E2W4_NoValue",
+    "form_id": "0308165E|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are comfortable and drenched.",
+    "string": "Khajiit está cómodo y empapado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E3W1_NoValue",
+    "form_id": "0308165F|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are cold.",
+    "string": "Khajiit tiene frío.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E3W2_NoValue",
+    "form_id": "03081660|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are cold and damp.",
+    "string": "Khajiit tiene frío y humedad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E3W3_NoValue",
+    "form_id": "03081661|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are cold and wet.",
+    "string": "Khajiit tiene frío y está mojado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E3W4_NoValue",
+    "form_id": "03081662|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are cold and drenched.",
+    "string": "Khajiit tiene frío y está empapado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E4W1_NoValue",
+    "form_id": "03081663|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are very cold.",
+    "string": "Umm... ¡está empezando a hacer frío, en verdad!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E4W2_NoValue",
+    "form_id": "03081664|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are very cold and damp.",
+    "string": "Khajiit tiene mucho frío y humedad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E4W3_NoValue",
+    "form_id": "03081665|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are very cold and wet.",
+    "string": "Khajiit tiene mucho frío y mojado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E4W4_NoValue",
+    "form_id": "03081666|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are very cold and drenched.",
+    "string": "Khajiit tiene mucho frío y empapado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E5W1_NoValue",
+    "form_id": "03081667|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are freezing.",
+    "string": "Ugh... hace m...m...m...mucho f...f...frío. C...c...congelándose.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E5W2_NoValue",
+    "form_id": "03081668|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are freezing and damp.",
+    "string": "¡Khajiit se congela y está húmedo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E5W3_NoValue",
+    "form_id": "03081669|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are freezing and wet.",
+    "string": "¡Khajiit se congela y está mojado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E5W4_NoValue",
+    "form_id": "0308166A|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are freezing and drenched.",
+    "string": "¡Khajiit se congela y está empapado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E6W1_NoValue",
+    "form_id": "0308166B|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are freezing to death.",
+    "string": "¡Khajiit se está congelando hasta morir!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E6W2_NoValue",
+    "form_id": "0308166C|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are freezing to death and damp.",
+    "string": "¡Khajiit se está congelando hasta morir y húmedo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E6W3_NoValue",
+    "form_id": "0308166D|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are freezing to death and wet.",
+    "string": "¡Khajiit se está congelando hasta morir y mojado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E6W4_NoValue",
+    "form_id": "0308166E|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are freezing to death and drenched.",
+    "string": "¡Khajiit se está congelando hasta morir y empapado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Indoors_NoValue",
+    "form_id": "0308166F|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You cannot sense the outside weather. You are getting colder. (Max: %.0f%%)",
+    "string": "Es difícil percibir el clima exterior, en verdad. (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level1_NoValue",
+    "form_id": "03081670|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is frigid and deadly. You are getting colder.",
+    "string": "¡El aire es gélido y mortal, en verdad! (enfriándose)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level10_NoValue",
+    "form_id": "03081671|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The sun is radiant. You are getting colder.",
+    "string": "El sol es radiante, en verdad. (enfriándose)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level2_NoValue",
+    "form_id": "03081672|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is bone-chilling. You are getting colder.",
+    "string": "El aire es helante... Brr. (enfriándose)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level3_NoValue",
+    "form_id": "03081673|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is biting cold. You are getting colder.",
+    "string": "El aire se siente frío y cortante... (enfriándose)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level4_NoValue",
+    "form_id": "03081674|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is cold. You are getting colder.",
+    "string": "El aire se siente frío, en verdad. (enfriándose)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level5_NoValue",
+    "form_id": "03081675|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is chilly. You are getting colder.",
+    "string": "El aire se siente fresco, sí. (enfriándose)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level6_NoValue",
+    "form_id": "03081676|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is cool. You are getting colder.",
+    "string": "El aire se siente fresco. (enfriándose)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level7_NoValue",
+    "form_id": "03081677|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is temperate. You are getting colder.",
+    "string": "El aire se siente templado. (enfriándose)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level8_NoValue",
+    "form_id": "03081678|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is pleasant. You are getting colder.",
+    "string": "El aire se siente agradable. A Khajiit no le desagrada esto. (enfriándose)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level9_NoValue",
+    "form_id": "03081679|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is warm. You are getting colder.",
+    "string": "El aire se siente cálido. (enfriándose)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Oblivion_NoValue",
+    "form_id": "0308167A|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This plane of Oblivion is warm. You are getting colder.",
+    "string": "Este plano de Oblivion está acalorado, en verdad. (enfriándose)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Indoors_NoValue",
+    "form_id": "0308167B|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You cannot sense the outside weather. Getting warmer.",
+    "string": "Es difícil percibir el clima exterior, en verdad. (entrando en calor)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level1_NoValue",
+    "form_id": "0308167C|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is frigid and deadly. You are getting warmer.",
+    "string": "¡El aire es gélido y mortal, en verdad! (entrando en calor)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level10_NoValue",
+    "form_id": "0308167D|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The sun is radiant. You are getting warmer.",
+    "string": "El sol es radiante, en verdad. (entrando en calor)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level2_NoValue",
+    "form_id": "0308167E|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is bone-chilling. You are getting warmer.",
+    "string": "El aire es helante... Brr. (entrando en calor)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level3_NoValue",
+    "form_id": "0308167F|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is biting cold. You are getting warmer.",
+    "string": "El aire se siente frío y cortante... (entrando en calor)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level4_NoValue",
+    "form_id": "03081680|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is cold. You are getting warmer.",
+    "string": "El aire se siente frío, en verdad. (entrando en calor)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level5_NoValue",
+    "form_id": "03081681|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is chilly. You are getting warmer.",
+    "string": "El aire se siente fresco, sí. (entrando en calor)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WearOffExp_Alcohol",
+    "form_id": "0306FD75|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The feeling of warmth from your drink has worn off.",
+    "string": "El efecto de calor de esa bebida se ha desvanecido, al parecer...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_FireShelterLevel1",
+    "form_id": "03082151|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You shiver near the fire's dim light. Getting colder. (Max: %.0f%%)",
+    "string": "La luz tenue del fuego no es suficiente para evitar que Khajiit tiemble... (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_FireLevel3_NoValue",
+    "form_id": "03082150|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Without shelter, the heat feels distant. Getting colder.",
+    "string": "Sin refugio, el calor se siente distante, en verdad. (enfriándose)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_FireLevel2_NoValue",
+    "form_id": "0308214F|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Without shelter, the heat feels distant. Getting colder.",
+    "string": "Sin refugio, el calor se siente distante, en verdad. (enfriándose)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_FireLevel1_NoValue",
+    "form_id": "0308214E|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Without shelter, the heat feels distant. Getting colder.",
+    "string": "Sin refugio, el calor se siente distante, en verdad. (enfriándose)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_FireLevel3",
+    "form_id": "0308214D|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Without shelter, the heat feels distant. Getting colder. (Max: %.0f%%)",
+    "string": "Sin refugio, el calor se siente distante, en verdad. (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_FireLevel1",
+    "form_id": "0308214B|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Without shelter, the heat feels distant. Getting colder. (Max: %.0f%%)",
+    "string": "Sin refugio, el calor se siente distante, en verdad. (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_FireLevel2",
+    "form_id": "0308214C|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Without shelter, the heat feels distant. Getting colder. (Max: %.0f%%)",
+    "string": "Sin refugio, el calor se siente distante, en verdad. (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_SnowToRain",
+    "form_id": "030446BB|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The snow turns to rain as the air warms.",
+    "string": "La nieve se ha convertido en lluvia mientras el aire entra en calor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Shelter_NoValue",
+    "form_id": "030826D0|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The shelter blocks the wind. Getting warmer.",
+    "string": "El refugio bloquea el viento. (entrando en calor)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Shelter",
+    "form_id": "030826CF|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The shelter blocks the wind. Getting warmer. (Max: %.0f%%)",
+    "string": "El refugio bloquea el viento. (entrando en calor - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_FireShelter_Warm",
+    "form_id": "030826CE|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your shelter is warm near the fire.",
+    "string": "El refugio está cálido cerca del fuego, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_FireShelter_Chilly",
+    "form_id": "030826CD|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The fire and shelter keep you from getting any colder.",
+    "string": "El fuego y el refugio mantienen alejado el frío, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_FireShelterLevel3_NoValue",
+    "form_id": "030826CC|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your shelter is filled with warmth. You are getting warmer.",
+    "string": "El refugio está lleno de calidez. (entrando en calor)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_FireShelterLevel1_NoValue",
+    "form_id": "030826B4|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You shiver near the fire's dim light. You are getting colder.",
+    "string": "La luz tenue del fuego no es suficiente para evitar que Khajiit tiemble... (enfriándose)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_FireShelterLevel2",
+    "form_id": "030826B5|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The chill diminishes the flame's warmth. Getting colder. (Max: %.0f%%)",
+    "string": "El frío del aire disminuye la calidez de la llama, en verdad. (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_FireShelterLevel2_NoValue",
+    "form_id": "030826B6|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The chill diminishes the flame's warmth. You are getting colder.",
+    "string": "El frío del aire disminuye la calidez de la llama, en verdad. (enfriándose)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_FireShelterLevel3",
+    "form_id": "030826B7|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The frigid air cuts through the heat. Getting colder. (Max: %.0f%%)",
+    "string": "El aire gélido atraviesa el calor, sí. (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_FireShelterLevel3_NoValue",
+    "form_id": "030826B8|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The frigid air cuts through the heat. You are getting colder.",
+    "string": "El aire gélido atraviesa el calor, sí. (enfriándose)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Shelter",
+    "form_id": "030826B9|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The shelter blocks the wind, but the air is cold. Getting colder. (Max: %.0f%%)",
+    "string": "El refugio bloquea el viento, pero el aire está frío. (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Shelter_NoValue",
+    "form_id": "030826BA|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The shelter blocks the wind, but the air is cold. Getting colder.",
+    "string": "El refugio bloquea el viento, pero el aire está frío. (enfriándose)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_FireLevel1",
+    "form_id": "030826BB|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The heat is faint but steady.",
+    "string": "El calor es tenue pero constante. Es placentero. No agradable ni desagradable, simplemente placentero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_FireLevel2",
+    "form_id": "030826BD|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The fire is soothing.",
+    "string": "El fuego es reconfortante y calienta bien a Khajiit...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_FireLevel3",
+    "form_id": "030826BE|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The flames lift your spirits.",
+    "string": "Las llamas elevan el espíritu de este uno, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_Shelter_Chilly",
+    "form_id": "030826BF|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your shelter keeps you from getting any colder.",
+    "string": "El refugio mantiene el frío a raya, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_Shelter_Warm",
+    "form_id": "030826C0|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The shelter blocks the wind.",
+    "string": "El refugio está bloqueando el viento. Esto es bueno, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_FireLevel1",
+    "form_id": "030826C1|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The heat is faint but steady. Getting warmer. (Max: %.0f%%)",
+    "string": "El calor es tenue pero constante, en verdad. (entrando en calor - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_FireLevel2",
+    "form_id": "030826C2|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The fire is soothing. Getting warmer. (Max: %.0f%%)",
+    "string": "El fuego es reconfortante, sí. (entrando en calor - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_FireLevel1_NoValue",
+    "form_id": "030826C3|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The heat is faint but steady. You are getting warmer.",
+    "string": "El calor es tenue pero constante, en verdad. (entrando en calor)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_FireLevel2_NoValue",
+    "form_id": "030826C4|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The fire is soothing. You are getting warmer.",
+    "string": "El fuego es reconfortante, sí. (entrando en calor)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_FireLevel3",
+    "form_id": "030826C5|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The flames lift your spirits. Getting warmer. (Max: %.0f%%)",
+    "string": "Las llamas calientan el alma, en verdad. (entrando en calor - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_FireLevel3_NoValue",
+    "form_id": "030826C6|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The flames lift your spirits. You are getting warmer.",
+    "string": "Las llamas calientan el alma, en verdad. (entrando en calor)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_FireShelterLevel1",
+    "form_id": "030826C7|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your shelter traps the faint heat. Getting warmer. (Max: %.0f%%)",
+    "string": "El refugio atrapa bien el calor tenue. (entrando en calor - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_FireShelterLevel1_NoValue",
+    "form_id": "030826C8|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your shelter traps the faint heat. You are getting warmer.",
+    "string": "El refugio atrapa bien el calor tenue. (entrando en calor)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_FireShelterLevel2",
+    "form_id": "030826C9|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your shelter is warm near the fire. Getting warmer. (Max: %.0f%%)",
+    "string": "El refugio está cálido cerca del fuego, en verdad. (entrando en calor - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_FireShelterLevel2_NoValue",
+    "form_id": "030826CA|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your shelter is warm near the fire. You are getting warmer.",
+    "string": "El refugio está cálido cerca del fuego, en verdad. (entrando en calor)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_FireShelterLevel3",
+    "form_id": "030826CB|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your shelter is filled with warmth. Getting warmer. (Max: %.0f%%)",
+    "string": "El refugio está lleno de calidez. (entrando en calor - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_RainToSnowSevere",
+    "form_id": "030446BA|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The rain turns to driving snow and wind.",
+    "string": "La lluvia ha cambiado a nieve intensa y viento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_RainToSnow",
+    "form_id": "030446B9|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Snowflakes begin to form in the freezing rain.",
+    "string": "Los copos de nieve comienzan a formarse en la lluvia helada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_HypoState_0",
+    "form_id": "03009A0D|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You feel warm.",
+    "string": "Ah... Khajiit se siente acalorado ahora.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WaterTemp0Msg",
+    "form_id": "0300AFA7|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This water is cool and refreshing.",
+    "string": "¡Esta agua está fresca y revitalizante, en verdad!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_KindleWoodError",
+    "form_id": "03058C2C|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You lack the materials required to cast this spell.",
+    "string": "Se necesitan materiales adecuados para encender este fuego, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_PerkDesc_GlacialSwimmer",
+    "form_id": "03067BA3|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You can swim in frigid water %.0f%% longer, and it no longer drains your stamina.\r\n\r\nRank: %.0f/%.0f\r\n\r\nPerks to increase: %.0f\r\nNext perk progress: %.0f%%",
+    "string": "Añade la capacidad de nadar en agua helada %.0f%% más tiempo, y ya no drena la resistencia.\r\n\r\nRango: %.0f/%.0f\r\n\r\nPerks para aumentar: %.0f\r\nProgreso del siguiente perk: %.0f%%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_Help_Exposure",
+    "form_id": "03022AFC|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "EXPOSURE\r\n\r\nYour exposure has increased, and your skills are beginning to suffer. You should find a fire to warm up.\r\n\r\nIncreasing your total Warmth (by wearing warm armor) can reduce your rate of exposure.\r\n\r\nAt very high exposure, you will pass out and awaken elsewhere by default.",
+    "string": "EXPOSICIÓN\r\n\r\nLa exposición ha aumentado.\r\nLas habilidades comienzan a verse afectadas.\r\n¡Encuentra un fuego para entrar en calor pronto!\r\n\r\nNOTAS:\r\n- Aumentar la calidez total (al usar armadura abrigada) reducirá la velocidad de exposición.\r\n- Con exposición muy alta, el desmayo puede ocurrir - con resultados aleatorios.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_PerkAdvancement",
+    "form_id": "0306811A|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Endurance perk progress increased",
+    "string": "¡Progreso de habilidad de Resistencia aumentado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WaterTemp3Msg",
+    "form_id": "0300AFAA|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This water is frigid!",
+    "string": "¡Esta agua está f-f-f-fría! ¡Ay!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_PerkDesc_InnerFire",
+    "form_id": "03067BA2|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Once per day, kneel and enter a meditative state which prevents your exposure from rising above %.0f%% (Freezing) in any weather condition. Movement and getting hit cancels the effect.\r\n\r\nRank: %.0f/%.0f\r\n\r\nPerks to increase: %.0f\r\nNext perk progress: %.0f%%",
+    "string": "Una vez por día, arrodillarse y entrar en un estado de meditación evita que la exposición suba por encima de %.0f%% (Congelación) en cualquier condición climática.\r\n\r\nNOTAS:\r\n - Moverse o recibir golpes cancelará este efecto.\r\n\r\nRango: %.0f/%.0f\r\n\r\nPerks para aumentar: %.0f\r\nProgreso del siguiente perk: %.0f%%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WearOffExp_Spell",
+    "form_id": "0306FD77|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The feeling of warmth from your spell has worn off.",
+    "string": "El efecto de calidez del hechizo se ha desvanecido...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_ClearToFog7",
+    "form_id": "030446B4|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "An icy haze crawls in from the Sea of Ghosts.",
+    "string": "Una bruma helada se acerca desde el Mar de los Fantasmas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_ClearToFog3",
+    "form_id": "030446B0|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Hot steam begins to hang in the air.",
+    "string": "El vapor caliente comienza a suspenderse en el aire.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_ClearToSnowSevere",
+    "form_id": "030446B8|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A furious snowstorm draws near.",
+    "string": "Se aproxima una tormenta de nieve furiosa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_ClearToSnow",
+    "form_id": "030446B6|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Light snow begins to fall.",
+    "string": "La nieve ligera comienza a caer.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_RainToFog",
+    "form_id": "030446B5|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The ground begins to steam as the rain passes.",
+    "string": "El suelo comienza a emitir vapor mientras pasa la lluvia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_ClearToFog2",
+    "form_id": "030446AF|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A haze envelops the surrounding pines.",
+    "string": "Una bruma envuelve los pinos cercanos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_ClearToFog1",
+    "form_id": "030446AE|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A fog rolls in silently.",
+    "string": "Una niebla avanza silenciosamente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_ClearToFog4",
+    "form_id": "030446B1|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A mist blankets the forest.",
+    "string": "Una neblina comienza a cubrir el bosque.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_TransmuteWoodFailureMSG",
+    "form_id": "03056640|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You have no wood that can be transmuted.",
+    "string": "Se necesita madera para transmutarla, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_ExposureDeathMsg",
+    "form_id": "030446C3|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You succumb to exposure.",
+    "string": "Skyrim y su maldito clima dominan a este uno...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_BlizzardToClear",
+    "form_id": "030446AD|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The snowstorm begins to subside.",
+    "string": "La tormenta de nieve comienza a disminuir.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_ExposureCap_Warm",
+    "form_id": "030446C1|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You can't seem to get any warmer.",
+    "string": "Si Khajiit se acalora más, <Alias.Pronoun=Player> seguramente entrará en combustión espontánea, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_SnowToClear",
+    "form_id": "030446AC|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The skies clear as the snow begins to settle.",
+    "string": "El cielo se está despejando mientras la nieve se asienta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_ClearToStorm",
+    "form_id": "030446BF|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dark clouds and thunder threaten the path ahead.",
+    "string": "Nubes oscuras y truenos amenazan el camino adelante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_FrostbiteMessage_Body",
+    "form_id": "03062FFB|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your body is suffering from frostbite.",
+    "string": "Ugh... esta congelación causa mucho sufrimiento, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_StormToClear",
+    "form_id": "030446AB|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The thunderstorm begins to let up.",
+    "string": "La tormenta eléctrica comienza a disminuir.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WetStateMsg_LeakingWater",
+    "form_id": "030446C0|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Water leaks slowly from above. You remain damp.",
+    "string": "El agua se filtra desde arriba. Esto no ayudará a secarse, en verdad. Moverse de aquí es sabio, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WaterTemp3bMsg",
+    "form_id": "0300AFAC|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You feel your consciousness slipping.",
+    "string": "Perdiendo... la consciencia... deslizándose... lejos...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WaterTemp3cMsg",
+    "form_id": "0300AFAD|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Darkness engulfs your mind.",
+    "string": "Sintiendo... tanto... cansancio...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_RescueMsg_Failsafe",
+    "form_id": "03062FFC|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You wake to find yourself in a distant tavern. You are unsure of how you arrived, but thankful to be alive just the same.",
+    "string": "Al despertar, Khajiit nota que el entorno es el de una taberna. Pero no una que haya visitado antes.\r\n\r\nAunque no está seguro de cómo ocurrió esto, este uno agradece seguir con vida de todas formas.\r\n\r\nClaramente, alguien merece una ronda de bebidas, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WarmUpMessage",
+    "form_id": "0300AFAE|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You begin to warm up.",
+    "string": "Se siente más cálido, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_Fire_Chilly",
+    "form_id": "03086CEB|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The fire keeps you from getting any colder.",
+    "string": "El fuego mantiene alejado el frío, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_ClearToFog6",
+    "form_id": "030446B3|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A chill mist rolls across the marshlands.",
+    "string": "Una bruma helada ha cruzado los pantanos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_RainToClear",
+    "form_id": "030446AA|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The clouds part as the rain passes on.",
+    "string": "Las nubes se están abriendo mientras la lluvia pasa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_ClearToRain",
+    "form_id": "030446BE|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Grey skies loom on the horizon.",
+    "string": "Cielos grises se asoman en el horizonte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_FrostbiteMessage_Hands",
+    "form_id": "030696E1|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your hands are suffering from frostbite.",
+    "string": "La congelación está afectando las manos... ¡Con o sin pelaje, hace frío!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_ClearToFog5",
+    "form_id": "030446B2|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Heavy fog rolls down the valley of the Reach.",
+    "string": "Una niebla pesada desciende por el valle de La Cuenca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_FogToStorm",
+    "form_id": "030446BD|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The fog darkens as a storm approaches.",
+    "string": "La niebla se ha oscurecido mientras se aproxima una tormenta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_FrostbiteMessage_Feet",
+    "form_id": "030696E2|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your feet are suffering from frostbite.",
+    "string": "¡No las patas! La congelación se está asentando en los pies...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WaterTemp1Msg",
+    "form_id": "0300AFA8|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This water is cold.",
+    "string": "Esta agua está fría... Brr.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WetStateMsg_Wet3",
+    "form_id": "030214F8|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are drenched.",
+    "string": "¡Ugh! Khajiit está completamente empapado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_Help_Cold",
+    "form_id": "0302FE8E|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "COLD WEATHER\r\n\r\nThis area is cold, and your exposure will begin to increase.\r\n\r\nThe indicator at the top of your screen (if enabled) shows the current temperature, ranging from frigid (nearly empty) to warm (full).",
+    "string": "CLIMA FRÍO\r\n\r\nEsta zona es fría.\r\nLa exposición comenzará a aumentar.\r\n\r\nNOTAS:\r\n- El indicador en la parte superior de la pantalla (si está activado) muestra la temperatura actual, que va desde gélido (casi vacío) hasta cálido (lleno).",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WaterTemp3aMsg",
+    "form_id": "0300AFAB|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your limbs begin to feel numb.",
+    "string": "¿Qué es este entumecimiento en las extremidades de Khajiit, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_VaporBlastError_Dry",
+    "form_id": "0306B73B|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You must be wet to cast this.",
+    "string": "Quizá mojarse es sabio antes de lanzar este hechizo, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_RescueMsg_A_1",
+    "form_id": "03062FF0|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Before completely succumbing to exposure, a nearby hunter discovers you while venturing out in search of game. You awaken to find yourself at their campsite, frostbitten but otherwise intact.",
+    "string": "Antes de sucumbir por completo a la exposición, un cazador cercano encuentra a un Khajiit al borde de la congelación mientras vagaba en busca de presas.\r\n\r\nAl despertar, se descubre que este es su campamento. Aunque con congelación, nada más parece dañado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_RescueMsg_A_2",
+    "form_id": "03062FF1|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "While out on a walk, a passerby discovers your shivering body. You feel yourself being moved somewhere nearby. You awaken in unfamiliar surroundings, the flames of a fire hot against your face.",
+    "string": "Mientras camina, un transeúnte encuentra el cuerpo tembloroso de un Khajiit y logra moverlo a un lugar cercano.\r\n\r\nAl despertar, se sienten las llamas de una fogata. Aunque el lugar es desconocido, una sensación de seguridad y gratitud por seguir vivo inunda al afortunado felino...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_FogToRain",
+    "form_id": "030446BC|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The sound of rain can be heard nearby.",
+    "string": "La niebla trae sonidos adicionales de lluvia desde cerca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_RescueMsg_F_2",
+    "form_id": "03062FF3|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spotting a hunter's camp flickering on the horizon, your companion begins to pull you onward. Upon seeing your condition, a hunter ushers you and your companion onward to the camp. You awaken a short time later, numb but alive.",
+    "string": "Al ver un campamento de cazadores parpadeando en el horizonte, un compañero comienza a arrastrar al Khajiit debilitado hacia adelante.\r\n\r\nAl llegar y ver su estado deteriorado, el cazador guía a todos hacia su campamento.\r\n\r\nAl despertar un tiempo después, el héroe agotado está entumecido y con dolor, pero con vida...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_HypoState_4",
+    "form_id": "03009A0B|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are freezing.",
+    "string": "Ugh... hace m...m...m...mucho f...f...frío. C...c...congelándose.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_FirstStartup_2",
+    "form_id": "03015CAF|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now prepared to face a colder, harsher Skyrim.",
+    "string": "Ahora este uno está preparado para enfrentar un Skyrim más frío y cruel.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_RescueMsg_F_3",
+    "form_id": "03062FF4|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your companion pulls you to a nearby abandoned campsite. As you begin to stand, you wonder what fate may have befallen those that tended this camp before you arrived.",
+    "string": "Un compañero lleva a un Khajiit debilitado hasta un campamento abandonado cercano.\r\n\r\nAl recuperar fuerzas y ponerse de pie, se reconoce un sentimiento de reverencia por este campamento afortunado. Uno se pregunta qué destino habrán tenido quienes lo ocupaban antes de la llegada de este uno.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_RescueMsg_F_4",
+    "form_id": "03062FF5|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "As you collapse, you feel your companion beginning to pull you onward. You are noticed by a passerby who, together with your companion, move you to safety.",
+    "string": "Tras colapsar, un compañero es sentido arrastrando este cuerpo hacia adelante.\r\n\r\nUn transeúnte lo nota, y juntos todos alcanzan la seguridad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_RescueMsg_F_5",
+    "form_id": "03062FF6|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your companion wastes no time building a campfire from nearby fallen limbs and branches. You awaken only a few feet from the spot you collapsed. A look of relief crosses your companion's face as you begin to stir.",
+    "string": "Un compañero no pierde tiempo y construye una fogata con ramas y leña cercanas.\r\n\r\nKhajiit despierta a solo unos pies de donde colapsó.\r\n\r\nUn gesto de alivio cruza el rostro del compañero...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_RescueMsg_F_1",
+    "form_id": "03062FF2|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Unable to go on, you collapse on the cold earth. Hours pass in seconds. Suddenly, you awaken to the sights and sounds of a tavern, your companion standing nearby. They grin widely as you begin to rise to your feet.",
+    "string": "Sin poder continuar, el Khajiit debilitado cae sobre la tierra fría.\r\n\r\nPasan horas en segundos...\r\n\r\nDe repente, los sonidos y vistas de una taberna despiertan al felino frágil y llenan los sentidos de <Alias.PronounPosObj=Player>. Un compañero familiar está cerca y sonríe ampliamente mientras algo de fuerza regresa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_RescueMsg_D_4",
+    "form_id": "03062FFA|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your animal dutifully pulls you by the leg across harsh terrain until a nearby villager notices you. The sound of plates, mugs, and a roaring hearth fills your ears.",
+    "string": "Un compañero animal arrastra el cuerpo por terreno hostil hasta que un aldeano cercano nota el alboroto.\r\n\r\nLos sonidos de platos, jarras y un hogar rugiente llenan el área y Khajiit percibe...\r\n\r\nLos golpes sanarán pronto, sí... sin embargo, el orgullo tardará un poco más, en verdad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_FrostbiteMessage_Head",
+    "form_id": "030696E0|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your head is suffering from frostbite.",
+    "string": "La congelación está afectando la cabeza, ¿sí? Este tipo de congelamiento cerebral no es divertido, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_RescueMsg_D_3",
+    "form_id": "03062FF9|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "As your body tumbles forward, your animal's sounds draw the attention of a nearby hunter. You awaken a short time later to a hot fire and the smell of cooking meat, your faithful companion by your side.",
+    "string": "Cuando Khajiit cae sin fuerzas y tropieza hacia adelante, un compañero animal hace ruidos fuertes y llama la atención de un cazador cercano.\r\n\r\nUn tiempo después, el olor de carne cocinándose y un fuego caliente despiertan a este uno, con el fiel compañero animal cerca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_RescueMsg_D_2",
+    "form_id": "03062FF8|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "After collapsing, your animal's noise alerts a passerby, who quickly drags you to safety. You awake with a start and begin rubbing your freezing hands.",
+    "string": "Tras colapsar, los sonidos del compañero animal fiel alertan a un transeúnte, quien arrastra rápidamente el cuerpo a un lugar seguro.\r\n\r\nAl despertar poco después, el primer instinto es frotar las patas y comenzar a entrar en calor...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_RescueMsg_D_1",
+    "form_id": "03062FF7|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Darkness overcomes you. Time passes. To your surprise, you are not dead. Your animal companion seems to have pulled you by the leg to an abandoned campsite. You pat yourself, checking for injuries. Satisfied, you slowly begin to stand.",
+    "string": "La oscuridad entra en todo pensamiento...\r\n\r\nEl tiempo y el espacio pasan en lo que parece un instante...\r\n\r\nSorprendentemente, ¡Khajiit no está muerto! Un compañero animal parece haber llevado el cuerpo a un campamento abandonado.\r\n\r\nTras revisar heridas y asegurarse de que este lugar no es una guarida de trolls, se siente un suspiro de alivio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WetStateMsg_Wet1",
+    "form_id": "030214F6|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are damp.",
+    "string": "Algo se siente húmedo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WetStateMsg_Wet2",
+    "form_id": "030214F7|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are wet.",
+    "string": "Todo está mojado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_HypoState_1",
+    "form_id": "03009A08|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You feel comfortable.",
+    "string": "Hmm... ahora Khajiit se siente cómodo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_FirstStartup_1",
+    "form_id": "03015CAD|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Lost in thought, you reflect back on how much the wilds have taught you about yourself over the last several days. You recall a book you once lost that was full of wisdom about survival in the open country. On a whim, you open your pack, and find the Survivor's Guide to Skyrim staring back up at you. Had it always been there, or had thought alone summoned it...? You push aside the thought as you thumb through its pages, and then carefully place it back, knowing that some things are never truly lost.",
+    "string": "Es asombroso cuánto se ha aprendido de las tierras salvajes en los últimos días, ¿no? Trae recuerdos de un libro perdido lleno de sabiduría sobre supervivencia en esta tierra dura, en verdad. ¿Se atrevería este uno a llamar a este lugar “hermoso”, quizá?\r\n\r\nEspera, a menos que... hmm, eso es algo, sí. ¡Aquí está el libro... justo en medio del equipo! ¿Siempre estuvo ahí, hmm? ¿Lo habrá invocado Khajiit, quizá? Ah, no importa. Algunas cosas nunca se pierden, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_Help_Wet",
+    "form_id": "03022AFE|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "WETNESS\r\n\r\nYou are soaking wet from rain or swimming, which significantly increases your rate of exposure. Dry off by standing near a fire or spending enough time out of the rain and not swimming.\r\n\r\nIncreasing your coverage can help prevent getting wet in the rain.",
+    "string": "HUMEDAD\r\n\r\nToda la ropa y armadura están empapadas por la lluvia y/o la natación.\r\nEn esta condición, la velocidad de exposición aumenta significativamente.\r\n¡Sécate al estar cerca de un fuego o pasando suficiente tiempo fuera de la lluvia y sin nadar!\r\n\r\nNOTAS:\r\n- Aumentar la cobertura evitará mojarse bajo la lluvia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_legacyconfig_preset_immersive",
+    "form_id": "0308C893|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Immersive\r\n\r\nThis preset is designed to add immersion and a small amount of extra challenge while avoiding interrupting gameplay.\r\n\r\nThe exposure rate is slightly lower than normal (0.8x).\r\nAt max exposure, you will not pass out.\r\nFast travel is enabled.\r\nFrigid water is not lethal.\r\nExposure is paused during combat.\r\nYou will move normally at high exposure.",
+    "string": "INMERSIVO\r\n\r\nEste preajuste está diseñado para añadir inmersión y un pequeño reto extra sin interrumpir la jugabilidad.\r\n\r\nTasa de exposición = menor (0.8x).\r\nExposición máxima = desmayo deshabilitado\r\nViaje rápido = habilitado\r\nAgua helada = no letal\r\nExposición en combate = pausada\r\nMovimiento con alta exposición = normal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_legacyconfig_preset_standard",
+    "form_id": "0308C894|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Ice and Valor\r\n\r\nThis is the default preset. You must plan ahead, wear warm clothing and armor, and set up camp when necessary.\r\n\r\nThe exposure rate is normal (1.0x)\r\nAt max exposure, you will pass out and awaken elsewhere.\r\nFast travel is enabled.\r\nFrigid water is lethal.\r\nExposure is paused during combat.\r\nYou will move slowly at high exposure.",
+    "string": "HIELO Y VALOR\r\n\r\nEste es el preajuste por defecto. Planear con anticipación es crucial. Usa ropa y armadura abrigada, y monta campamento cuando sea necesario.\r\n\r\nTasa de exposición = normal (1.0x)\r\nExposición máxima = desmayo habilitado [ubicación aleatoria]\r\nViaje rápido = habilitado\r\nAgua helada = letal\r\nExposición en combate = pausada\r\nMovimiento con alta exposición = algo reducido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_legacyconfig_preset_hardcore",
+    "form_id": "0308C895|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Hardcore\r\n\r\nFor true survival gameplay enthusiasts. Traveling takes time, the weather is unforgiving, and exposure is a concern even during combat.\r\n\r\nThe exposure rate is normal (1.0x)\r\nAt max exposure, you will die.\r\nFast travel is disabled.\r\nFrigid water is lethal.\r\nExposure is active during combat.\r\nYou will move slowly at high exposure.",
+    "string": "EXTREMO\r\n\r\nPara verdaderos entusiastas del survival. Viajar toma tiempo, el clima es implacable y la exposición es un problema incluso en combate.\r\n\r\nTasa de exposición = normal (1.0x)\r\nExposición máxima = muerte\r\nViaje rápido = deshabilitado\r\nAgua helada = letal\r\nExposición en combate = activa\r\nMovimiento con alta exposición = lento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_HypoState_3",
+    "form_id": "03009A0A|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are very cold.",
+    "string": "Umm... ¡está empezando a hacer frío, en verdad!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_HypoState_5",
+    "form_id": "03009A0C|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are freezing to death!",
+    "string": "M...m...debe b...b...buscar c...c...calor, ¿s...sí? Es...e...este o...o...uno se está m...m...muriendo de frío.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_HypoState_0_Min",
+    "form_id": "03009A0E|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You feel completely warm.",
+    "string": "Excelente... ahora Khajiit se siente completamente acalorado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_HypoState_2",
+    "form_id": "03009A09|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You feel chilly.",
+    "string": "Hmm... está un poco fresco, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_VaporBlastError_Swimming",
+    "form_id": "0306B73C|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You can't cast this while swimming.",
+    "string": "Este hechizo no puede lanzarse mientras se nada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTempLevelOblivion",
+    "form_id": "030805EF|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This plane of Oblivion is warm.",
+    "string": "Este plano de Oblivion está acalorado, en verdad. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTransMsg_ClearToSnowMountain",
+    "form_id": "030446B7|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A gale howls across the mountain pass.",
+    "string": "Un vendaval aúlla a través del paso montañoso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WeatherTempLevelIndoors",
+    "form_id": "030805F0|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You cannot sense the outside weather.",
+    "string": "Es difícil percibir el clima exterior, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WetStateMsg_Dry",
+    "form_id": "03009A0F|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are completely dry.",
+    "string": "Ah, bien. Khajiit está completamente seco.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E5W4",
+    "form_id": "03080B6C|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are freezing and drenched. (Exposure: %.0f%%, Wet: %.0f%%)",
+    "string": "Khajiit se está congelando y empapado. (Exposición: %.0f%%, Humedad: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E4W4",
+    "form_id": "03080B6B|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are very cold and drenched. (Exposure: %.0f%%, Wet: %.0f%%)",
+    "string": "Khajiit tiene mucho frío y está empapado. (Exposición: %.0f%%, Humedad: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E6W4",
+    "form_id": "03080B6D|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are freezing to death and drenched. (Exposure: %.0f%%, Wet: %.0f%%)",
+    "string": "Khajiit se está congelando hasta morir y empapado. (Exposición: %.0f%%, Humedad: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E2W1",
+    "form_id": "03080B57|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are comfortable. (Exposure: %.0f%%)",
+    "string": "Khajiit está cómodo. (Exposición: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_Help_Shelter",
+    "form_id": "0308E3CD|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "FIRE & SHELTER\r\n\r\nThis area is so cold that, even with a fire, you can't get any warmer. Shelters trap heat, making your fire more effective. You can usually get warmer by pitching a tent near the fire and getting inside of it.\r\n\r\nYou can also take shelter inside a nearby building or cave, or underneath anything large enough to cover you.\r\n\r\nLarger fires are warmer than smaller fires. Fur tents are warmer than leather tents.",
+    "string": "FUEGO Y REFUGIO\r\n\r\nEsta zona es tan fría que, incluso con fuego, no se gana calor.\r\nLos refugios atrapan el calor y hacen el fuego más efectivo.\r\n\r\nNOTAS:\r\n- Montar una tienda cerca y entrar en ella también otorgará beneficios de calor.\r\n- Refugiarse en un edificio cercano, cueva o debajo de algo lo suficientemente grande para cubrir al jugador también otorga calor.\r\n- Las fogatas más grandes son más cálidas que las pequeñas.\r\n- Las tiendas de piel son más cálidas que las de cuero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_Help_Warmth",
+    "form_id": "0308E3CC|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "WARMTH & COVERAGE\r\n\r\nClothing and armor add Warmth and Coverage, which are like an Armor Rating against the environment. The more you have of each, the longer you can survive in difficult conditions.",
+    "string": "CALIDEZ Y COBERTURA\r\n\r\nLa ropa y armadura añaden Calidez y Cobertura, que funcionan como una armadura contra el entorno.\r\nCuanto más se tenga de cada una, más tiempo se sobrevive en condiciones difíciles.\r\n\r\nNOTAS:\r\n- El nivel de protección de cualquier equipo puede modificarse seleccionando el poder Inspeccionar Equipo desde el menú de Magia y usando Grito.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_Help_ColdSE",
+    "form_id": "0308E3CB|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "COLD WEATHER\r\n\r\nThis area is cold, and your exposure will begin to increase.\r\n\r\nThe messages at the top of your screen will tell you when the weather changes.",
+    "string": "CLIMA FRÍO\r\n\r\nEsta zona es fría.\r\nLa exposición comenzará a aumentar.\r\n\r\nNOTAS:\r\n- Los mensajes en la parte superior de la pantalla indicarán cuándo cambia el clima.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E3W1",
+    "form_id": "03080B58|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are cold. (Exposure: %.0f%%)",
+    "string": "Khajiit tiene frío. (Exposición: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E1W1",
+    "form_id": "03080B56|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are warm. (Exposure: %.0f%%)",
+    "string": "Khajiit está acalorado. (Exposición: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E3W4",
+    "form_id": "03080B6A|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are cold and drenched. (Exposure: %.0f%%, Wet: %.0f%%)",
+    "string": "Khajiit tiene frío y está empapado. (Exposición: %.0f%%, Humedad: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E2W4",
+    "form_id": "03080B69|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are comfortable and drenched. (Exposure: %.0f%%, Wet: %.0f%%)",
+    "string": "Khajiit está cómodo y empapado. (Exposición: %.0f%%, Humedad: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E6W1",
+    "form_id": "03080B5B|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are freezing to death. (Exposure: %.0f%%)",
+    "string": "Khajiit se está congelando hasta morir. (Exposición: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E5W1",
+    "form_id": "03080B5A|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are freezing. (Exposure: %.0f%%)",
+    "string": "Khajiit se congela. (Exposición: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E1W2",
+    "form_id": "03080B5C|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are warm and damp. (Exposure: %.0f%%, Wet: %.0f%%)",
+    "string": "Khajiit está acalorado y húmedo. (Exposición: %.0f%%, Humedad: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E4W1",
+    "form_id": "03080B59|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are very cold. (Exposure: %.0f%%)",
+    "string": "Khajiit tiene mucho frío. (Exposición: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E5W3",
+    "form_id": "03080B66|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are freezing and wet. (Exposure: %.0f%%, Wet: %.0f%%)",
+    "string": "Khajiit se está congelando y mojado. (Exposición: %.0f%%, Humedad: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E4W3",
+    "form_id": "03080B65|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are very cold and wet. (Exposure: %.0f%%, Wet: %.0f%%)",
+    "string": "Khajiit tiene mucho frío y está mojado. (Exposición: %.0f%%, Humedad: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E3W3",
+    "form_id": "03080B64|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are cold and wet. (Exposure: %.0f%%, Wet: %.0f%%)",
+    "string": "Khajiit tiene frío y está mojado. (Exposición: %.0f%%, Humedad: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E1W4",
+    "form_id": "03080B68|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are warm and drenched. (Exposure: %.0f%%, Wet: %.0f%%)",
+    "string": "Khajiit está acalorado y empapado. (Exposición: %.0f%%, Humedad: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_WaterTemp2Msg",
+    "form_id": "0300AFA9|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This water is extremely cold.",
+    "string": "¡Esta agua está ex-t-t-tremadamente f-f-fría! ¡Ay!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E2W3",
+    "form_id": "03080B63|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are comfortable and wet. (Exposure: %.0f%%, Wet: %.0f%%)",
+    "string": "Khajiit está cómodo y mojado. (Exposición: %.0f%%, Humedad: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E1W3",
+    "form_id": "03080B62|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are warm and wet. (Exposure: %.0f%%, Wet: %.0f%%)",
+    "string": "Khajiit está acalorado y mojado. (Exposición: %.0f%%, Humedad: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E6W3",
+    "form_id": "03080B67|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are freezing to death and wet. (Exposure: %.0f%%, Wet: %.0f%%)",
+    "string": "Khajiit se está congelando hasta morir y mojado. (Exposición: %.0f%%, Humedad: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E5W2",
+    "form_id": "03080B60|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are freezing and damp. (Exposure: %.0f%%, Wet: %.0f%%)",
+    "string": "Khajiit se está congelando y húmedo. (Exposición: %.0f%%, Humedad: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E4W2",
+    "form_id": "03080B5F|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are very cold and damp. (Exposure: %.0f%%, Wet: %.0f%%)",
+    "string": "Khajiit tiene mucho frío y está húmedo. (Exposición: %.0f%%, Humedad: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E3W2",
+    "form_id": "03080B5E|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are cold and damp. (Exposure: %.0f%%, Wet: %.0f%%)",
+    "string": "Khajiit tiene frío y está húmedo. (Exposición: %.0f%%, Humedad: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E2W2",
+    "form_id": "03080B5D|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are comfortable and damp. (Exposure: %.0f%%, Wet: %.0f%%)",
+    "string": "Khajiit está cómodo y húmedo. (Exposición: %.0f%%, Humedad: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_StatusCnd_E6W2",
+    "form_id": "03080B61|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are freezing to death and damp. (Exposure: %.0f%%, Wet: %.0f%%)",
+    "string": "Khajiit se está congelando hasta morir y húmedo. (Exposición: %.0f%%, Humedad: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_Level9",
+    "form_id": "030810ED|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is warm.",
+    "string": "El aire está cálido y muy agradable, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_InspectEquipmentMsg_defaultworn",
+    "form_id": "0308F9AB|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Do you want to restore the default protection of all currently worn gear?",
+    "string": "¿Restablecer la protección por defecto de todo el equipo actualmente equipado?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level9",
+    "form_id": "030810D1|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is warm. You are getting colder. (Max: %.0f%%)",
+    "string": "El aire se siente cálido. (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_Level7",
+    "form_id": "030810EB|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is temperate.",
+    "string": "El aire es templado. Esto es agradable, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_InspectEquipmentMsg_root",
+    "form_id": "0308F988|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "CONDITION\r\nExposure: %.0f%%  Wetness: %.0f%%\r\n\r\nPROTECTION\r\nWorn Gear: %.0f Warmth, %.0f Coverage\r\nTotal Protection: %.0f Warmth, %.0f Coverage",
+    "string": "CONDICIÓN\r\nExposición: %.0f%% Humedad: %.0f%%\r\n\r\nPROTECCIÓN\r\nEquipo equipado: %.0f Calidez, %.0f Cobertura\r\nProtección total: %.0f Calidez, %.0f Cobertura\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_InspectEquipmentMsg_select",
+    "form_id": "0308F989|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Select a piece of currently worn gear you would like to modify.",
+    "string": "¿Qué pieza del equipo actualmente equipado debería modificarse?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_InspectEquipmentMsg_inspectwarmth_body",
+    "form_id": "0308F98F|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This equipment appears to provide %.0f warmth at first glance.\r\n\r\nHowever, after checking the lining of the equipment, the warmth it really provides is...",
+    "string": "Este equipo parece proporcionar %.0f de calidez a simple vista.\r\n\r\nSin embargo, tras revisar el forro del equipo, la calidez que realmente proporciona es...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_InspectEquipmentMsg_inspectwarmth_head",
+    "form_id": "0308F990|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This equipment appears to provide %.0f warmth at first glance.\r\n\r\nHowever, after checking the lining of the equipment, the warmth it really provides is...",
+    "string": "Este equipo parece proporcionar %.0f de calidez a simple vista.\r\n\r\nSin embargo, tras revisar el forro del equipo, la calidez que realmente proporciona es...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_InspectEquipmentMsg_inspectwarmth_hands",
+    "form_id": "0308F991|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This equipment appears to provide %.0f warmth at first glance.\r\n\r\nHowever, after checking the lining of the equipment, the warmth it really provides is...",
+    "string": "Este equipo parece proporcionar %.0f de calidez a simple vista.\r\n\r\nSin embargo, tras revisar el forro del equipo, la calidez que realmente proporciona es...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_InspectEquipmentMsg_inspectwarmth_feet",
+    "form_id": "0308F992|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This equipment appears to provide %.0f warmth at first glance.\r\n\r\nHowever, after checking the lining of the equipment, the warmth it really provides is...",
+    "string": "Este equipo parece proporcionar %.0f de calidez a simple vista.\r\n\r\nSin embargo, tras revisar el forro del equipo, la calidez que realmente proporciona es...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_InspectEquipmentMsg_inspectcoverage_body",
+    "form_id": "0308F994|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Initially, this equipment appears to provide %.0f coverage.\r\n\r\nAfter inspecting the fittings and stitching, the coverage it really provides is...",
+    "string": "Inicialmente, este equipo parece proporcionar %.0f de cobertura.\r\n\r\nTras inspeccionar los ajustes y costuras, la cobertura que realmente proporciona es...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_InspectEquipmentMsg_inspectcoverage_head",
+    "form_id": "0308F995|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Initially, this equipment appears to provide %.0f coverage.\r\n\r\nAfter inspecting the fittings and stitching, the coverage it really provides is...",
+    "string": "Inicialmente, este equipo parece proporcionar %.0f de cobertura.\r\n\r\nTras inspeccionar los ajustes y costuras, la cobertura que realmente proporciona es...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_InspectEquipmentMsg_inspectcoverage_hands",
+    "form_id": "0308F996|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Initially, this equipment appears to provide %.0f coverage.\r\n\r\nAfter inspecting the fittings and stitching, the coverage it really provides is...",
+    "string": "Inicialmente, este equipo parece proporcionar %.0f de cobertura.\r\n\r\nTras inspeccionar los ajustes y costuras, la cobertura que realmente proporciona es...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_InspectEquipmentMsg_inspectcoverage_feet",
+    "form_id": "0308F997|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Initially, this equipment appears to provide %.0f coverage.\r\n\r\nAfter inspecting the fittings and stitching, the coverage it really provides is...",
+    "string": "Inicialmente, este equipo parece proporcionar %.0f de cobertura.\r\n\r\nTras inspeccionar los ajustes y costuras, la cobertura que realmente proporciona es...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_InspectEquipmentMsg_defaultsingle",
+    "form_id": "0308F99A|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Do you want to restore the default protection of this type of equipment?",
+    "string": "¿Restablecer la protección por defecto de este tipo de equipo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_InspectEquipmentMsg_defaultall",
+    "form_id": "0308F99C|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Do you want to restore the default exposure protection of ALL equipment in the entire game?\r\n\r\nCAUTION: This will remove all of your custom armor protection settings!",
+    "string": "¿Restablecer la protección por defecto de exposición de TODO el equipo en todo el juego?\r\n\r\nADVERTENCIA: ¡Esto eliminará todas las configuraciones personalizadas de protección de armadura!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_InspectEquipmentMsg_inspectextrasheadconfirm",
+    "form_id": "0308F9A1|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You will now set the protection of the included head gear.",
+    "string": "Establecer la protección del equipo de cabeza incluido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_InspectEquipmentMsg_inspectextrascloakconfirm",
+    "form_id": "0308F9A2|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You will now set the protection of the included cloak.",
+    "string": "Establecer la protección de la capa incluida.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_Level8",
+    "form_id": "030810EC|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is pleasant.",
+    "string": "El aire es agradable y cómodo, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level7",
+    "form_id": "030810D3|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is temperate. You are getting colder. (Max: %.0f%%)",
+    "string": "El aire se siente templado. (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level6",
+    "form_id": "030810D4|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is cool. You are getting colder. (Max: %.0f%%)",
+    "string": "El aire se siente fresco. (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level10",
+    "form_id": "030810D0|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The sun is radiant. You are getting colder. (Max: %.0f%%)",
+    "string": "El sol es radiante, en verdad. (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_Level5",
+    "form_id": "030810E9|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is chilly.",
+    "string": "El aire es fresco, como una noche del desierto, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level8",
+    "form_id": "030810D2|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is pleasant. You are getting colder. (Max: %.0f%%)",
+    "string": "El aire se siente agradable. Khajiit no se opone a esto. (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_Level6",
+    "form_id": "030810EA|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is cool.",
+    "string": "El aire es tan fresco como la brisa del mar...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level5",
+    "form_id": "030810D5|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is chilly. You are getting colder. (Max: %.0f%%)",
+    "string": "El aire se siente fresco, sí. (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_Help_Warmth2",
+    "form_id": "03090474|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Warmth is higher with gear that has insulation and furs. It slows down your rate of exposure at all times.\r\n\r\nCoverage is higher with gear that has tight fittings and water-repellant materials, blocking the wind and rain. This slows down how quickly you get wet in rain, and your rate of exposure in severe weather.\r\n\r\nYou can modify the protection of any equipment by selecting the Inspect Equipment power from the Magic menu and pressing Shout.",
+    "string": "La calidez es mayor en equipo con aislamiento y pieles. Reduce la velocidad de exposición en todo momento.\r\n\r\nLa cobertura es mayor en equipo con ajustes firmes y materiales repelentes al agua, bloqueando el viento y la lluvia.\r\n\r\nEsto reduce qué tan rápido se moja el equipo bajo la lluvia, y la velocidad de exposición en clima severo.\r\n\r\nNOTAS:\r\n- El nivel de protección de cualquier equipo puede modificarse seleccionando el poder Inspeccionar Equipo desde el menú de Magia y usando Grito.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level4",
+    "form_id": "030810D6|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is cold. You are getting colder. (Max: %.0f%%)",
+    "string": "El aire se siente frío, en verdad. (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level3",
+    "form_id": "030810D7|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is biting cold. You are getting colder. (Max: %.0f%%)",
+    "string": "El aire se siente frío y cortante... (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level2",
+    "form_id": "030810D8|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is bone-chilling. You are getting colder. (Max: %.0f%%)",
+    "string": "El aire es helante... Brr. (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Colder_Level1",
+    "form_id": "030810D9|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is frigid and deadly. You are getting colder. (Max: %.0f%%)",
+    "string": "El aire es gélido y mortal, en verdad. (enfriándose - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level1",
+    "form_id": "030810DA|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is frigid and deadly. You are getting warmer. (Max: %.0f%%)",
+    "string": "El aire es gélido y mortal, en verdad. (entrando en calor - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_Calm2Msg",
+    "form_id": "03091F63|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You feel neither wind nor cold, only stillness.",
+    "string": "La quietud del viento y el frío aquí es notable, en verdad. Perturbador, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_Frost_CalmMsg",
+    "form_id": "03091F62|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A strange calm fills this place.",
+    "string": "Una calma extraña llena este lugar. Khajiit se siente a gusto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level10",
+    "form_id": "030810DB|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The sun is radiant. You are getting warmer. (Max: %.0f%%)",
+    "string": "El sol es radiante, en verdad. (entrando en calor - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level2",
+    "form_id": "030810DC|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is bone-chilling. You are getting warmer. (Max: %.0f%%)",
+    "string": "El aire es helante... Brr. (entrando en calor - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level3",
+    "form_id": "030810DD|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is biting cold. You are getting warmer. (Max: %.0f%%)",
+    "string": "El aire se siente frío y cortante... (entrando en calor - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level4",
+    "form_id": "030810DE|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is cold. You are getting warmer. (Max: %.0f%%)",
+    "string": "El aire se siente frío, en verdad. (entrando en calor - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level6",
+    "form_id": "030810E0|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is cool. You are getting warmer. (Max: %.0f%%)",
+    "string": "El aire se siente fresco, sí. (entrando en calor - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level7",
+    "form_id": "030810E1|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is temperate. You are getting warmer. (Max: %.0f%%)",
+    "string": "El aire se siente templado. (entrando en calor - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level5",
+    "form_id": "030810DF|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is chilly. You are getting warmer. (Max: %.0f%%)",
+    "string": "El aire se siente fresco, sí. (entrando en calor - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level8",
+    "form_id": "030810E2|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is pleasant. You are getting warmer. (Max: %.0f%%)",
+    "string": "El aire se siente agradable. Khajiit no se opone a esto. (entrando en calor - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Warmer_Level9",
+    "form_id": "030810E3|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is warm. You are getting warmer. (Max: %.0f%%)",
+    "string": "El aire se siente cálido. (entrando en calor - Máx: %.0f%%)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_Level1",
+    "form_id": "030810E4|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is frigid and deadly.",
+    "string": "El aire es gélido y mortal, incluso para el pelaje de Khajiit...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_Level10",
+    "form_id": "030810E5|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The sun is radiant.",
+    "string": "El sol es radiante, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_Level2",
+    "form_id": "030810E6|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is bone-chilling.",
+    "string": "El aire es helante, similar a ver un pez carnada volador, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_Level3",
+    "form_id": "030810E7|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is biting cold.",
+    "string": "El aire es frío y cortante, haciendo que los dientes de Khajiit castañeen...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_frost_StatusTemp_Steady_Level4",
+    "form_id": "030810E8|Frostfall.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The air is cold.",
+    "string": "El aire es frío, como el malvado océano húmedo...",
+    "status": "TranslationComplete"
+  }
+]

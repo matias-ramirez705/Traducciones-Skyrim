@@ -1,0 +1,20 @@
+[
+  {
+    "editor_id": "RND_InnWaterTopic",
+    "form_id": "0300EB46|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like some water. (<Global=RND_InnWaterCost> gold)",
+    "string": "A este le gustaría un poco de agua. (<Global=RND_InnWaterCost> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_InnWaterAllBottlesTopic",
+    "form_id": "0304090B|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need these bottles filled, water, please. (<Global=RND_InnWaterCostAll> gold)",
+    "string": "Estos recipientes vacíos necesitan ser llenados. Agua, si eres tan amable. (<Global=RND_InnWaterCostAll> septims cada uno)",
+    "status": "TranslationComplete"
+  }
+]

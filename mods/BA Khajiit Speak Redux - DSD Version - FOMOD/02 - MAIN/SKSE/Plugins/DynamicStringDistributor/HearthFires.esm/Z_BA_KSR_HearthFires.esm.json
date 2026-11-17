@@ -1,0 +1,5546 @@
+[
+  {
+    "editor_id": "MG01InitialBranchTopic",
+    "form_id": "0001F80E|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Dónde puedo aprender más sobre magia?",
+    "string": "¿Dónde podría <Alias=Player> aprender más sobre magia, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0008EC3B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Magia? Eso es peligroso. Si quieres aprender algo de esas cosas, ve a ese Colegio de Hibernalia. Allí enseñan todo eso.",
+    "string": "¿Magia? Eso es peligroso. Si quieres aprender eso, ve a esa universidad en Hibernalia. Enseñan esas cosas allí.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0008EC3B|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "¡Oye! Ya sé. El hechicero del jarl podría enseñarte. Está muchísimo más cerca.",
+    "string": "¡Hey! Lo sé. El mago del jarl podría enseñarte. Está mucho más cerca.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerFavorStateTopic",
+    "form_id": "00026E0E|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Necesito que hagas algo.",
+    "string": "<Alias=Player> necesita tu ayuda.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000DE50E|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sí, thane. ¿De qué se trata?",
+    "string": "Sí, thane. ¿Qué es?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriagePostWeddingLoveInterestBlockingTopic",
+    "form_id": "0002E118|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "RelationshipMarriagePostWeddingLoveInterestBlockingTopic",
+    "string": "RelationshipMarriagePostWeddingLoveInterestBlockingTopic  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CD611|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Casada. La sensación es distinta de lo que me esperaba, pero estoy feliz. ¿Dónde viviremos? Podrías quedarte conmigo...",
+    "string": "Casado. No se siente como pensé que sería, pero estoy feliz. ¿Dónde deberíamos vivir? Podrías quedarte conmigo...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CD60C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Supongo que pasaremos toda la vida juntos. ¿Dónde deberíamos vivir? Podrías quedarte conmigo...",
+    "string": "Supongo que tenemos toda nuestra vida juntos ahora. ¿Dónde deberíamos vivir? Podrías quedarte conmigo...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000300F6|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sondas cuida de mí cuando no está mi madre.",
+    "string": "Sondas me cuida cuando mamá no está cerca.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WICourierDeliveries",
+    "form_id": "00039F6C|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "(Invisible. Continuar relacionado con uno mismo)",
+    "string": "(Invisible Continues Linked to Self)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DE5|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ha llegado una carta del administrador del jarl. Parecen asuntos oficiales.",
+    "string": "Aquí hay una carta del administrador del jarl. Parece asunto oficial.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DE6|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hay una nueva dama a cargo del orfanato de Riften. Me ha pedido que entregue estos anuncios a todo el que vea.",
+    "string": "Hay una nueva dama a cargo del orfanato en Riften. Me pidió entregar estos avisos a todos los que conociera.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201770F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Ah, una carta del jarl! Ascendiendo hacia la cima, ¿eh?",
+    "string": "Ah, ¡una carta del jarl! Subiendo en el mundo, eh?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0008BBD2|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Me pusieron mi nombre por el ruido que hace el león. Ya sabes... ¡Roooaaaarrr! En serio.",
+    "string": "Me nombraron por el sonido que hace un león. Ya sabes... \"rrroooaaaarr!\" De verdad.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D0598|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Espero de verdad que mamá y papá vengan a buscarme pronto. Desde que se fue ese Avento, Grelod ha estado como loca.",
+    "string": "Espero que mamá y papá vengan pronto a buscarme. Desde que ese chico Aventus se fue, Grelod ha estado tan enojada.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00016CA2|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Espero de verdad que mamá y papá vengan a buscarme pronto. Desde que se fue ese Avento, este lugar es una locura.",
+    "string": "Espero que mamá y papá vengan pronto a buscarme. Desde que ese chico Aventus se fue, este lugar se ha vuelto loco.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00016CA4|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Cuando Avento se largó, cuando dijo esas cosas sobre matar a Grelod... nunca imaginé que fuera en serio...",
+    "string": "Cuando Aventus se fue, cuando dijo esas... cosas, sobre matar a Grelod... nunca imaginé que hablaba en serio...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000A402C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Grelod... asesinada. Aquí. Yo... necesito... aire... Tú... tú... ¡márchate de aquí! ¡Largo!",
+    "string": "Grelod... asesinada. Aquí. Necesito aire... ¡Tú... tú, sal de aquí! ¡Sal!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Favor154QuestGiverBranchTopic",
+    "form_id": "0004B73B|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Tienes más trabajo?",
+    "string": "Khajiit busca trabajo...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201612D|HearthFires.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Oh. Por alguna razón no me había percatado de que eras la misma persona que se menciona en todas las historias...",
+    "string": "Oh. Por alguna razón no me di cuenta que eras la misma persona de la que hablaban todas las historias...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201612D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bueno, en cualquier caso todavía has de matar a esos bandidos, ¿recuerdas? Luego trataremos tu adquisición de propiedades en Falkreath.",
+    "string": "Bueno, en cualquier caso, aún necesitas matar a esos bandidos, ¿recuerdas? Entonces podremos hablar de comprar propiedades en Falkreath.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201612D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Recibí tu carta. Soy <Alias=Player>.",
+    "string": "Khajiit recibió tu carta. Este es <Alias=Player>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201612E|HearthFires.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Ah, eres tú. Sí, bueno, ahora comprobaremos si todo lo que se cuenta de ti es cierto.",
+    "string": "Ah, eres tú. Sí, bueno, ahora veremos si las historias sobre ti son ciertas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201612E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hay un grupo de bandidos en mi fuerte con los que... puedo haber tenido algunos tratos discretos.",
+    "string": "Hay un grupo de bandidos en mi territorio con los que... puede que Khajiit haya tenido algunos tratos discretos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201612E|HearthFires.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Al principio me pagaban una tajada interesante, pero es hora de hacer limpieza. Ve y encárgate de ello.",
+    "string": "La parte que me daban estaba bien al principio, pero ahora... ahora es hora de limpiar las cosas. Ve y encárgate de ello.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201612E|HearthFires.esm",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "Recibí tu carta. Soy <Alias=Player>.",
+    "string": "Khajiit recibió tu carta. Este es <Alias=Player>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201612F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aún queda por enseñarles una lección a ese grupo de bandidos, ¿recuerdas?",
+    "string": "Ahí está ese grupo de bandidos que necesitan aprender una lección, ¿recuerdas?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201612F|HearthFires.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Al principio me pagaban una tajada interesante, pero es hora de hacer limpieza. Ve y encárgate de ello.",
+    "string": "La parte que me daban estaba bien al principio, pero ahora es hora de limpiar las cosas. Ve y encárgate de ello.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201612F|HearthFires.esm",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "¿Necesitas ayuda con alguna tarea?",
+    "string": "Khajiit busca trabajo...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00090DF7|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Has demostrado que puedo confiar en ti. Hay un grupo de bandidos en mi fuerte con los que... puedo haber tenido algunos tratos discretos.",
+    "string": "Has demostrado ser confiable. Hay un grupo de bandidos en mi territorio con los que... puede que Khajiit haya tenido algunos tratos discretos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00090DF7|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Al principio me pagaban una tajada interesante, pero es hora de hacer limpieza. Ve y encárgate de ello.",
+    "string": "La parte que me daban estaba bien al principio, pero ahora es hora de limpiar las cosas. Ve y encárgate de ello.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WIChangeLocation08HideAndSeek",
+    "form_id": "0004BB56|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Qué tal al escondite?",
+    "string": "Escondidas y buscadas, talvez?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0004BCEF|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Me sé todos los sitios buenos! ¡Vas a perder!",
+    "string": "¡Khajiit conoce todos los buenos lugares! ¡No tienes ninguna oportunidad!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0004BCEF|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Quédate ahí y cuenta hasta 10. Y no vale mirar. ¿Ya? ¡Pues venga!",
+    "string": "Quédate ahí y cuenta hasta diez. No mires antes de tiempo. ¿Listo? Bien. ¡Ve!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WIChangeLocation08No",
+    "form_id": "0004BB58|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "La verdad, ahora no estoy para detenerme a jugar.",
+    "string": "Disculpas, pero <Alias=Player> no puede detenerse a jugar ahora mismo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WIChangeLocation08ForceGreetTopic",
+    "form_id": "0004BCEA|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hola.",
+    "string": "Arenas calidas.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0004BCEB|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Eh, ¿quieres jugar?",
+    "string": "Oye. ¿Quieres jugar un juego?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0004BCEB|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hola.",
+    "string": "Arenas calientes, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerDismissTopic",
+    "form_id": "0005C80C|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Es el momento de que nos separemos.",
+    "string": "<Alias=Player> siente que es tiempo de separarse, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0005C826|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Estaré en tu casa si me necesitas, thane.",
+    "string": "Estaré de vuelta en tu casa si me necesitas, thane.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02015D53|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Montaré guardia en la mansión de Vista Lacustre hasta tu regreso, thane. Buena caza.",
+    "string": "Vigilaré en la Mansión Vistalago hasta que regreses, thane. Buena caza.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02015D54|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Volveré a la mansión Ventera y montaré guardia allí, thane.",
+    "string": "Volveré a la Mansión Vientoestelar y permaneceré en guardia, mi thane.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02015D56|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aguardaré en la casa comunal del jarl de Falkreath hasta que me necesites, thane.",
+    "string": "Te esperaré en la Casa Larga del jarl en Falkreath hasta que me necesites de nuevo, thane.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02015D57|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Regresaré al Salón de la Luna Alta en Morthal hasta que vuelvas a precisar de mis servicios, thane.",
+    "string": "Volveré a la Salón de la Luna Alta hasta que me necesites de nuevo, thane.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerTradeTopic",
+    "form_id": "00060020|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tenemos que intercambiar cosas.",
+    "string": "Khajiit desea intercambiar algunas 'cosas' contigo., hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0002CCC5|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(ladrido)",
+    "string": "(ladra)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0002CCC5|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Dame todo lo que lleves, perro.",
+    "string": "Dale <Alias=Player> todo lo que llevas.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02015D4E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Por supuesto, thane. ¿En qué puedo servirte?",
+    "string": "Por supuesto, thane. ¿Cómo puedo servirte?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02015D50|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mis posesiones son tuyas, thane.",
+    "string": "Lo mío es tuyo, thane.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02015D51|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Estoy a tus órdenes.",
+    "string": "Estoy a tu servicio.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02015D52|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Cómo puedo servirte, thane?",
+    "string": "¿Cómo puedo servirte, mi thane?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueStonehillsPacturLocationBranchTopic",
+    "form_id": "000649A8|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Aquí estáis perdidos en mitad de la nada, ¿no?",
+    "string": "Estas en medio de la nada, si?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Favor154QuestFinishTopic",
+    "form_id": "0006B54D|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He matado al líder de los bandidos (<Alias=BanditCamp>).",
+    "string": "Khajiit ha matado al lider de <Alias=BanditCamp>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerFollowTopic",
+    "form_id": "00075083|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sígueme.",
+    "string": "Khajiit guiará.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02015D3A|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Estoy contigo, thane.",
+    "string": "Khajiit esta contigo, thane.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0005C838|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Como desees, thane. Te protegeré con mi vida.",
+    "string": "Como desees, mi thane. Te protegeré con mi vida. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerWaitTopic",
+    "form_id": "00075084|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Espera aquí.",
+    "string": "Espere aquí, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02015D44|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sí, thane. Ten cuidado.",
+    "string": "Si, thane. Ten cuidado.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02015D45|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Tus deseos son órdenes, thane. Esperaré aquí hasta que me necesites.",
+    "string": "Khajiit es tuyo para mandar, thane. Esperara aqui hasta que me necesites.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0005C83B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Como desees, thane.",
+    "string": "Como desees, mi thane. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueOldHroldanSkuliTopic",
+    "form_id": "00079B15|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tienes una gran... madurez para tu edad.",
+    "string": "Eres... maduro para tu edad.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000934E2|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sí. Braith se mete conmigo todo el tiempo. Los mayores creen que soy un bebedor de leche porque no sé luchar. Nadie lo entiende.",
+    "string": "Si. Braith me intimida todo el tiempo. Todos los ancianos piensan que soy un bebedor de leche por no poder pelear. Nadie entiende.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000934E2|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Si consigues que Braith me deje en paz, seré tu mejor amigo... ¡para siempre! ¡Y te pagaré! Los ahorros de toda mi vida... ¡dos septim!",
+    "string": "Si puedes lograr que Braith me deje en paz, sere tu mejor amigo... por siempre! Yo... tambien te pagare! Todos mis ahorros - dos septims!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000934E2|Skyrim.esm",
+    "index": 3,
+    "type": "INFO RNAM",
+    "original": "¿Tienes problemas?",
+    "string": "Hay problemas, quizas?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000934F3|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Sí? ¿Por qué?",
+    "string": "Sí. ¿Por qué ?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000934F3|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tienes que dejar de molestar a Lars Batallador.",
+    "string": "Necesitas dejar de intimidar a Lars Batallador, si?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Favor258QuestReturnTopic",
+    "form_id": "000A3492|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He ayudado a tu pueblo.",
+    "string": "¿Khajiit ha asistido a tu gente, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02011CB6|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Entonces, por mi derecho como jarl, te nombro thane de Falkreath. Enhorabuena.",
+    "string": "Entonces, por mi derecho como jarl, te nombro Thane de Falkreath. Felicidades.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02011CB6|HearthFires.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Te asigno un edecán personal y esta arma de mi arsenal que te servirá de insignia.",
+    "string": "Te concedo un Edecán y esta arma de mi armeria para servir como tu insignia de cargo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02011CB6|HearthFires.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Asimismo, comunicaré a mis guardias tu nuevo título. No queremos que te traten como a la plebe.",
+    "string": "Tambien notificare a mis guardias de tu nuevo titulo. No quisiera que piensen que eres parte de la chusma comun.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000A349E|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Entonces, por mi derecho como jarl, te nombro thane de Falkreath. Enhorabuena.",
+    "string": "Entonces, por mi derecho como jarl, te nombro Thane de Falkreath. Felicidades.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000A349E|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Te concedo esta arma de mi arsenal que te servirá de insignia.",
+    "string": "Te concedo esta arma de mi armeria para servir como tu insignia de cargo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000A349E|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Asimismo, comunicaré a mis guardias tu nuevo título. No queremos que te traten como a la plebe.",
+    "string": "Tambien notificare a mis guardias de tu nuevo titulo. No quisiera que piensen que eres parte de la chusma comun.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Favor256QuestReturnTopic",
+    "form_id": "000A3496|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He ayudado a tu pueblo.",
+    "string": "¿Khajiit ha asistido a tu gente, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02011CB5|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Entonces, por mi derecho como jarl, te nombro thane del Pálido. Enhorabuena.",
+    "string": "Entonces, por mi derecho como jarl, te nombro Thane de El Pálido. Felicidades.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02011CB5|HearthFires.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Te asigno un edecán personal y esta arma de mi arsenal que te servirá de insignia.",
+    "string": "Te concedo un Edecán y esta arma de mi armeria para servir como tu insignia de cargo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02011CB5|HearthFires.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Asimismo, comunicaré a mis guardias tu nuevo título. No queremos que te traten como a la plebe.",
+    "string": "Tambien notificare a mis guardias de tu nuevo titulo. No quisiera que piensen que eres parte de la chusma comun.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000A34A8|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Entonces, por mi derecho como jarl, te nombro thane del Pálido. Enhorabuena.",
+    "string": "Entonces, por mi derecho como jarl, te nombro Thane de El Pálido. Felicidades.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000A34A8|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Te concedo esta arma de mi arsenal que te servirá de insignia.",
+    "string": "Te concedo esta arma de mi armeria para servir como tu insignia de cargo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000A34A8|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Asimismo, comunicaré a mis guardias tu nuevo título. No queremos que te traten como a la plebe.",
+    "string": "Tambien notificare a mis guardias de tu nuevo titulo. No quisiera que piensen que eres parte de la chusma comun.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Favor255QuestReturnTopic",
+    "form_id": "000A3498|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He ayudado a tu pueblo.",
+    "string": "¿Khajiit ha asistido a tu gente, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02011CB4|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Entonces, por mi derecho como jarl, te nombro thane de la Marca de Hjaal. Enhorabuena.",
+    "string": "Entonces, por mi derecho como jarl, te nombro Thane de Marca de Hjaal. Felicidades.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02011CB4|HearthFires.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Te asigno un edecán personal y esta arma de mi arsenal que te servirá de insignia.",
+    "string": "Te concedo un Edecán y esta arma de mi armeria para servir como tu insignia de cargo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02011CB4|HearthFires.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Asimismo, comunicaré a mis guardias tu nuevo título. No queremos que te traten como a la plebe.",
+    "string": "Tambien notificare a mis guardias de tu nuevo titulo. No quisiera que piensen que eres parte de la chusma comun.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000A34A3|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Entonces, por mi derecho como jarl, te nombro thane de la Marca de Hjaal. Enhorabuena.",
+    "string": "Entonces, por mi derecho como jarl, te nombro Thane de Marca de Hjaal. Felicidades.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000A34A3|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Te concedo esta arma de mi arsenal que te servirá de insignia.",
+    "string": "Te concedo esta arma de mi armeria para servir como tu insignia de cargo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000A34A3|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Asimismo, comunicaré a mis guardias tu nuevo título. No queremos que te traten como a la plebe.",
+    "string": "Tambien notificare a mis guardias de tu nuevo titulo. No quisiera que piensen que eres parte de la chusma comun.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFavorGenericFollowBranchTopic",
+    "form_id": "000B0EE6|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sígueme. Necesito tu ayuda.",
+    "string": "Khajiit liderará. Tú seguirás, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000B2FCD|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Cinco, cuatro, tres, dos, uno... ¡Ya!",
+    "string": "Cinco, cuatro, tres, dos, uno... ¡ya!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000B2FCD|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Claro, el pilla pilla. Suena divertido.",
+    "string": "De hecho. ¡Un juego de las escondidas suena divertido a los oídos de Khajiit!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000B2FCE|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Cinco, cuatro, tres, dos, uno... ¡Ya!",
+    "string": "Cinco, cuatro, tres, dos, uno... ¡ya!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000B2FCE|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Claro, el pilla pilla. Suena divertido.",
+    "string": "De hecho. ¡Un juego de las escondidas suena divertido a los oídos de Khajiit!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageWeddingSpouseHouse",
+    "form_id": "000C57DF|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Vivir contigo sería perfecto.",
+    "string": "¡Vivir contigo sería perfecto, ciertamente!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageWeddingWhiterunHouse",
+    "form_id": "000C57E0|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Podríamos vivir en mi casa, en Carrera Blanca.",
+    "string": "¿Qué hay de vivir en Carrera Blanca, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageWeddingRiftenHouse",
+    "form_id": "000C57E1|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tengo una casa en Riften.",
+    "string": "<Alias=Player> tiene una casa en Riften, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageWeddingMarkarthHouse",
+    "form_id": "000C57E2|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Mi casa de Markarth sería perfecta.",
+    "string": "La casa en Markarth sería perfecta, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageWeddingHouseWindhelm",
+    "form_id": "000C57E3|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Qué te parece mi casa de Ventalia?",
+    "string": "¿Qué tal la casa en Ventalia, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageWeddingHouseSolitude",
+    "form_id": "000C57E5|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Vivamos en mi casa de Soledad.",
+    "string": "¿Qué tal vivir en la casa en Soledad, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageFINSpouseHouse",
+    "form_id": "000C57E7|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tu antigua casa será perfecta para nosotros.",
+    "string": "Tu antiguo lugar estará bien, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageFINWhiterunHouse",
+    "form_id": "000C57E8|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hogar de la Brisa, mi casa de Carrera Blanca.",
+    "string": "Hogar de la Brisa, en Carrera Blanca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageFINRiftenHouse",
+    "form_id": "000C57E9|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Villa Melosa, mi casa de Riften.",
+    "string": "Honeyside, en Riften.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageFINMarkarthHouse",
+    "form_id": "000C57EA|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Salón de Vlindrel, mi casa de Markarth.",
+    "string": "Vlindrel Hall, en Markarth.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageFINWindhelmHouse",
+    "form_id": "000C57EB|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hjerim, mi casa de Ventalia.",
+    "string": "Hjerim, en Ventalia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageFINSolitudeHouse",
+    "form_id": "000C57ED|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Espira Orgullosa, mi casa de Soledad.",
+    "string": "Manor Proudspire, en Soledad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageFINHouseChoiceTopic",
+    "form_id": "000C57EE|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría que nos mudásemos a otro lugar.",
+    "string": "Es hora de moverse a otro lugar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateRiftenViewTopic1Topic",
+    "form_id": "000C6E03|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría decorar mi casa.",
+    "string": "Khajiit desea decorar el hogar de <Alias.PronounPosObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000C6E1B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Me gustaría decorar mi casa.",
+    "string": "Este desearía decorar el hogar de <Alias.PronounPosObj=Player>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000C6E2E|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Muy bien, me encargaré de todo. La próxima vez que visites tu casa encontrarás en ella el nuevo mobiliario.",
+    "string": "Muy bien, haré los arreglos. La próxima vez que visites tu casa, tus nuevos muebles estarán en su lugar.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000C6E2E|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Decoraciones para el suelo. (400 de oro)",
+    "string": "Decoraciones de piso. (400 septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateWhiterunBedroom",
+    "form_id": "000C6E07|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Muebles para el dormitorio. (<Global=HDWhiterunBedroom> de oro)",
+    "string": "Mobiliario de dormitorio. (<Global=HDWhiterunBedroom> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateWhiterunViewTopic1Topic",
+    "form_id": "000C6E0C|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría decorar mi casa.",
+    "string": "Khajiit desea decorar el hogar de <Alias.PronounPosObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateWindhelmViewBranch1Topic",
+    "form_id": "000C7EFF|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría decorar mi casa.",
+    "string": "Khajiit desea decorar el hogar de <Alias.PronounPosObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateMarkarthViewBranch1Topic",
+    "form_id": "000C7F00|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría decorar mi casa.",
+    "string": "Khajiit desea decorar el hogar de <Alias.PronounPosObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateSolitudeViewBranch1Topic",
+    "form_id": "000C7F01|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría decorar mi casa.",
+    "string": "Khajiit desea decorar el hogar de <Alias.PronounPosObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateRiftenBedroomTopic",
+    "form_id": "000C8962|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Muebles para el dormitorio. (<Global=HDRiftenBedroom> de oro)",
+    "string": "Mobiliario de dormitorio. (<Global=HDRiftenBedroom> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateRiftenEnchantingTopic",
+    "form_id": "000C9D9A|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Laboratorio de encantamientos. (<Global=HDRiftenEnchanting> de oro)",
+    "string": "Laboratorio de encantamiento. (<Global=HDRiftenEnchanting> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02004CFE|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Cambiar mi dormitorio infantil por un laboratorio de encantamientos. (<Global=HDRiftenEnchanting> de oro)",
+    "string": "¿Intercambiar el Cuarto Infantil por un Laboratorio de Encantamientos, sí? (<Global=HDRiftenEnchanting> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateRiftenGardenTopic",
+    "form_id": "000CAD03|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Jardín. (<Global=HDRiftenGarden> de oro)",
+    "string": "Jardín. (<Global=HDRiftenGarden> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateSolitudeLivingRoom",
+    "form_id": "000E24CF|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sala de estar. (<Global=HDSolitudeLiving> de oro)",
+    "string": "Sala. (<Global=HDSolitudeLiving> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateSolitudeBedroom",
+    "form_id": "000E24D0|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dormitorio. (<Global=HDSolitudeBedroom> de oro)",
+    "string": "Dormitorio. (<Global=HDSolitudeBedroom> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateMarkarthAlchemyLab",
+    "form_id": "000E4924|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Laboratorio de alquimia. (<Global=HDMarkarthAlchemy> de oro)",
+    "string": "El Laboratorio de Alquimia. (<Global=HDMarkarthAlchemy> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02004D0A|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Cambiar mi dormitorio infantil por un laboratorio de alquimia. (<Global=HDMarkarthAlchemy> de oro)",
+    "string": "Reemplazar el Cuarto Infantil con un Laboratorio de Alquimia, sí? (<Global=HDMarkarthAlchemy> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateWindhelmArmory",
+    "form_id": "000E67B4|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Armería. (<Global=HDWindhelmArmory> de oro)",
+    "string": "Armería. (<Global=HDWindhelmArmory> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateWindhelmBedroom",
+    "form_id": "000E67B9|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Muebles para el dormitorio. (<Global=HDWindhelmBedroom> de oro)",
+    "string": "Mobiliario de dormitorio. (<Global=HDWindhelmBedroom> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateWhiterunAlchemy",
+    "form_id": "000F391F|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Laboratorio de alquimia. (<Global=HDWhiterunAlchemy> de oro)",
+    "string": "El Laboratorio de Alquimia. (<Global=HDMarkarthAlchemy> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02004D01|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Cambiar mi dormitorio infantil por un laboratorio de alquimia. (<Global=HDWhiterunAlchemy> de oro)",
+    "string": "Reemplaza el Cuarto Infantil con un Laboratorio de Alquimia, ¿sí? (<Global=HDWhiterunAlchemy> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_BranchDismiss_HomeTopic",
+    "form_id": "01002EFF|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Espérame en casa...",
+    "string": "Espera a <Alias=Player> en casa...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F0E|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(gemido)",
+    "string": "(llora)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C5E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C61|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C6C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C76|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C9F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000CD5|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000D40|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000DDA|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C5A|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C5C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C5F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C63|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_SendPetCCHouse08",
+    "form_id": "02000853|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "El Horror del Muerto",
+    "string": "Miedo del Hombre Muerto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C6D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C79|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000CA2|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000CD6|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000D43|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_SendPetCCHouse03",
+    "form_id": "02000858|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Escondite de Pie sombrío",
+    "string": "Santuario Shadowfoot",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C59|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C5B|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_SendPetCCHouse01",
+    "form_id": "0200085A|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hacienda de la tundra",
+    "string": "Hacienda Tundra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C6A|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_ProposeCCHouse08",
+    "form_id": "0200086F|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sí, el Horror del Muerto.",
+    "string": "Miedo del Hombre Muerto, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBanditAttack2BossIntimidate",
+    "form_id": "0200087A|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "El dinero no te servirá de mucho cuando te haya matado.",
+    "string": "El dinero no sirve para un jekosiit [sheep-shagger] una vez que está muerto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200088C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bueno, si no traes el dinero, ¿qué hacemos aquí charlando?",
+    "string": "Bueno, si no tienes dinero, ¿de qué estamos hablando aquí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBanditAttack2BossNoMoney",
+    "form_id": "0200087C|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No tengo el dinero. ¿Por qué no la sueltas sin más?",
+    "string": "Khajiit no tiene el dinero, no. ¿Aún así permitirás que ella se vaya, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000895|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bueno, si no traes el dinero, ¿qué hacemos aquí charlando?",
+    "string": "Bueno, si no tienes dinero, ¿de qué estamos hablando aquí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000896|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bueno, si no traes el dinero, ¿qué hacemos aquí charlando?",
+    "string": "Bueno, si no tienes dinero, ¿de qué estamos hablando aquí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000896|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "No tengo el dinero. ¿Por qué no lo sueltas sin más?",
+    "string": "Khajiit no tiene el dinero. ¿Aún así lo dejarás ir, tal vez?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBanditAttack2BossPersuade",
+    "form_id": "0200087D|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Por qué no la dejas ir? Nadie tiene por qué resultar herido. (Persuadir)",
+    "string": "¿Qué tal si solo la liberas y evitas probar tu propia sangre, sí? (Persuadir)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000899|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Parece que prefieres dejar morir a tu amiguito antes que desprenderte de un poco de oro. Y nos llaman monstruos desalmados a nosotros...",
+    "string": "Pareces del tipo que preferiría dejar morir a tu novio antes que soltar algo de oro. Y la gente piensa que somos monstruos sin corazón...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000899|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Por qué no lo dejas ir? Nadie tiene por qué resultar herido. (Persuadir)",
+    "string": "¿Qué tal si simplemente lo liberas y evitas probar tu propia sangre, sí? (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBanditAttack2BossPayRansom",
+    "form_id": "0200087E|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Toma tu dinero. Más vale que esté sana y salva. (Dar <Global=BYOHHBA2> de oro)",
+    "string": "Aquí está tu dinero. Será mejor que esté seguro... (Dar <Global=BYOHHBA2Ransom> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200089B|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No te preocupes, no somos monstruos. Él está bien. Danos el dinero y podrás llevártelo. Todos ganamos, ¿eh?",
+    "string": "No te preocupes, no somos monstruos. Está bien. Conseguimos el dinero, tú consigues al chico. Todos ganan, ¿verdad?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200089B|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Toma tu dinero. Más vale que esté sano y salvo. (Dar <Global=BYOHHBA2> de oro)",
+    "string": "Aquí está el dinero. Más vale que estén a salvo... (Dar <Global=BYOHHBA2Ransom> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBanditAttack2BanditDead",
+    "form_id": "0200087F|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ya he oído suficiente. ¡Muere!",
+    "string": "Los oídos de Khajiit han escuchado suficiente. Hora de morir...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBanditAttack2SpouseWhere",
+    "form_id": "02000880|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Qué le has hecho a mi esposa?",
+    "string": "Khajiit exige saber dónde está tu pareja!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200088E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Relájate. Él está bien. O lo estaba. A la jefa le ha gustado tanto que se lo ha llevado a casa. Toma, esta carta es para ti.",
+    "string": "Relájate, héroe... está bien. Al menos estaba. Al jefe le gustó tanto que se lo llevó a casa. Aquí tienes una carta para ti.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200088E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué le has hecho a mi marido?",
+    "string": "Khajiit exige saber dónde está tu pareja!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBanditAttack2BanditTopic",
+    "form_id": "02000881|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Qué quieres?",
+    "string": "¿De qué se trata todo esto, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020008A1|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Tienes que hablar con la jefa. Rochelle.",
+    "string": "Tengo que hablar con la jefa. Rochelle.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBanditAttack2RescueNo",
+    "form_id": "02000882|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Aún no. Volveré a por ti.",
+    "string": "Todavía no, pero <Alias.Pronoun=Player> volverá por ti después.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBanditAttack2RescueYes",
+    "form_id": "02000883|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Venga. Andando.",
+    "string": "Vamos, es hora de partir.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBanditAttack2SpouseTopic",
+    "form_id": "02000884|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Salgamos de aquí.",
+    "string": "Sería prudente irse, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_ProposeCCHouse05",
+    "form_id": "02000894|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sí, Hendraheim.",
+    "string": "Hendraheim, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBanditAttack2BossWalkaway",
+    "form_id": "020008C7|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ya no vives.",
+    "string": "Estás muerto, amigo. M.U.E.R.T.O. Muerto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_ProposeCCHouse03",
+    "form_id": "020008D4|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sí, el escondite de Pie sombrío.",
+    "string": "Santuario Shadowfoot, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_ProposeCCHouse02",
+    "form_id": "020008D5|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sí, Myrwatch.",
+    "string": "Myrwatch, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_ProposeCCHouse01",
+    "form_id": "020008E2|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sí, la Hacienda de la tundra.",
+    "string": "Hacienda Tundra, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageWeddingCCHouseTopic08",
+    "form_id": "02000BD8|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Podríamos vivir en el Horror del Muerto.",
+    "string": "¿Qué hay de vivir en Dead Man's Dread, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageWeddingCCHouseTopic05",
+    "form_id": "02000C42|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Podríamos vivir en Hendraheim.",
+    "string": "¿Qué hay de vivir en Hendraheim, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageWeddingCCHouseTopic03",
+    "form_id": "02000C56|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Podríamos vivir en el escondite de Pie sombrío.",
+    "string": "¿Qué hay de vivir en Shadowfoot Sanctum, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageWeddingCCHouseTopic02",
+    "form_id": "02000C57|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Podríamos vivir en Myrwatch.",
+    "string": "¿Qué hay de vivir en Myrwatch, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageWeddingCCHouseTopic01",
+    "form_id": "02000C58|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Podríamos vivir en la Hacienda de la tundra.",
+    "string": "¿Qué hay de vivir en Hacienda Tundra, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02002D9F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Entiendo. Lo siento.",
+    "string": "Entiendo... Lo siento.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02002D9F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Lo siento, ahora mismo no me lo puedo permitir.",
+    "string": "<Alias=Player> está un poco corto de jah [moneda] ahora mismo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E67|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Te he traído un regalo, mamá! ¡Espero que te guste!",
+    "string": "¡Te traje un regalo, mamá! ¡Espero que te guste!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E68|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Te he traído un regalo, papá! ¡Espero que te guste!",
+    "string": "¡Te traje un regalo, papá! ¡Espero que te guste!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E6A|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Te he traído un regalo, mamá! ¡Espero que te guste!",
+    "string": "¡Te traje un regalo, ma! ¡Espero que te guste!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E69|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Mira lo que tengo para ti, papá! ¡Espero que te guste!",
+    "string": "¡Hey, pa, te traje algo! ¡Espero que te guste!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardUpgradeCarriage",
+    "form_id": "02002FE5|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Carruaje. (<Global=BYOHHPCostCarriage> de oro)",
+    "string": "Carroza. (<Global=BYOHHPCostCarriage> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardUpgradeCow",
+    "form_id": "02002FE6|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Vaca. (<Global=BYOHHPCostCow> de oro)",
+    "string": "Vaca. (<Global=BYOHHPCostChicken> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardUpgradeTopic",
+    "form_id": "02002FE8|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Quisiera que hicieras algunas mejoras en la casa.",
+    "string": "Khajiit desea que hagas algunas mejoras en la casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseHireStewardTopic",
+    "form_id": "02002FE9|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Necesito a alguien que administre mi casa. ¿Te interesa?",
+    "string": "Este uno busca un mayordomo para la casa de <Alias.PronounPosObj=Player>. Interesado, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardOfferNo",
+    "form_id": "02002FEB|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tendré que pensar en ello.",
+    "string": "Disculpas, pero <Alias=Player> no cree que seas adecuado para el trabajo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardOfferYes",
+    "form_id": "02002FED|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sería un honor para mí que administrases mi casa.",
+    "string": "<Alias=Player> se sentiría honrado de tenerte como su mayordomo, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardOfferBranchTopic",
+    "form_id": "02002FEE|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Qué necesitabas?",
+    "string": "¿Qué necesitabas, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseFalkreathPurchaseNotNow",
+    "form_id": "02002FEF|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tendré que pensar en ello.",
+    "string": "Khajiit necesita un momento...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseFalkreathPurchaseNoMoney",
+    "form_id": "02002FF0|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ahora mismo no tengo demasiado dinero. (<Global=BYOHHPCost> de oro)",
+    "string": "Este uno está un poco corto de dinero ahora. (<Global=BYOHHPCost> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseFalkreathPurchaseYes",
+    "form_id": "02002FF1|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Acepto. (<Global=BYOHHPCost> de oro)",
+    "string": "Khajiit lo tomará. (<Global=BYOHHPCost> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseFalkreathPurchaseTopic",
+    "form_id": "02002FF2|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría comprar una casa.",
+    "string": "Khajiit desea comprar una casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003007|HearthFires.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Es una propiedad estupenda. Bien irrigada, con madera de sobra y unas vistas preciosas.",
+    "string": "Es una buena propiedad. Bien regada, con abundantes árboles, hermosa vista.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003007|HearthFires.esm",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "Recibí tu carta sobre la propiedad que hay en venta. ¿Sigue disponible?",
+    "string": "Khajiit recibió tu carta sobre la tierra en venta. ¿Todavía está disponible, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003009|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sí, es una propiedad estupenda. Bien irrigada, con madera de sobra y unas vistas preciosas.",
+    "string": "Sí. Es una buena propiedad. Bien regada, con abundantes árboles, hermosa vista.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003009|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Está aún disponible la propiedad que mencionabas?",
+    "string": "La tierra que mencionaste todavía está disponible, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBuildingBuyLumberFriend",
+    "form_id": "02002FF4|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Puedo encargarme yo de cortar la leña?",
+    "string": "Khajiit desea cortar la madera <Alias.PronounRef=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBuildingBuyLumberYes",
+    "form_id": "02002FF5|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me llevaré <Global=BYOHHPAmountLogs> troncos (<Global=BYOHHPCostLogs> de oro).",
+    "string": "Khajiit tomará <Global=BYOHHPAmountLogs> troncos. (<Global=BYOHHPCostLogs> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBuildingBuyLumberTopic",
+    "form_id": "02002FF6|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría comprar leña.",
+    "string": "Khajiit desea comprar algo de madera, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008785|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Lars es un blandengue. Ni siquiera es capaz de plantarle cara a una chica.",
+    "string": "Lars es un cobarde. Ni siquiera puede enfrentarse a una niña.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200877C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aquí hay mucha gente que me da miedo, mamá. ¿Me prometes que me protegerás?",
+    "string": "Hay muchas personas aterradoras aquí, mamá. ¿Prometes protegerme?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200877B|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡El señor Brynjolf me dio una manzana, papá! Parece simpático.",
+    "string": "¡El señor Brynjolf me dio una manzana, papá! Parece simpático.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008778|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Odio Markarth. ¡Aquí no se puede jugar a nada! Nada más que hay rocas, rocas y más rocas.",
+    "string": "Odio Markarth. ¡No hay dónde jugar! Todo son rocas. Rocas, rocas, rocas.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008911|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Crees que puedo ser bardo? Me gusta mucho cantar.",
+    "string": "¿Crees que podría ser bardo? Me gusta mucho cantar.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008773|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Grimvar me ha dicho que en esa casa abandonada solía vivir un niño él solo, hasta que la Hermandad Oscura vino a por él. Qué miedo, ¿eh?",
+    "string": "Grimvar dijo que un niño vivía solo en esa casa abandonada, hasta que vino la Hermandad Oscura y se lo llevó. Da miedo, ¿eh?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008913|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Rolff dice que no debería ir nunca más al barrio Gris. Dice que no es seguro.",
+    "string": "Rolff dice que ya no debo ir al Barrio Gris. Dijo que no es seguro allí.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EF5|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Necesitas algo, papá?",
+    "string": "¿Necesitabas algo, papá?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EF6|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Necesitas algo, papá?",
+    "string": "¿Necesitas algo, pa?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EF8|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Necesitas algo, mamá?",
+    "string": "¿Necesitas algo, ma?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EF7|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Necesitas algo, mamá?",
+    "string": "¿Necesitabas algo, mamá?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003ED2|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sí, mami.",
+    "string": "Sí, ma.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003ED3|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Gracias, mami!",
+    "string": "¡Gracias, ma!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003ECD|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Hola, mamá!",
+    "string": "¡Hola, ma!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020192CA|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, esto... ¡hola, papá!",
+    "string": "Oh, umm. ¡Hola, papá!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020192CC|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Anda... ¡hola, papá! ¡Bienvenido a casa!",
+    "string": "Umm... ¡hey, pa! ¡Bienvenido a casa!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020192CD|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Anda... ¡hola, mamá! ¡Bienvenida a casa!",
+    "string": "Umm, ¡hey, ma! ¡Bienvenida a casa!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003ED1|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ooh... ¡no me hagas de rabiar!",
+    "string": "Ah... deja de molestarme! ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003ED4|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sí, papi.",
+    "string": "Sí, pa.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003ED5|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Gracias, papi!",
+    "string": "¡Gracias, pa!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003ED6|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Jooo... Venga, solo un ratito más, porfa...",
+    "string": "Ah... vamos. Solo unos minutos más? Por favor? ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EDE|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Eh? ¿En serio? ¡Vaya! Con esto... ¡con esto puedo comprarme el mercado entero! ¡Gracias!",
+    "string": "¿Q-Qué... en serio? No puede ser... ¡Con esto, yo... podría comprar todo el mercado! ¡Guau! Gracias.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EDF|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Eh? Pero... es que es muy de noche. ¿De verdad que no te importa?",
+    "string": "¿Q-Qué...? Pero... pero está oscuro. ¿Está... realmente bien?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EDF|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a jugar a un juego.",
+    "string": "Quizá es tiempo de jugar un juego, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E84|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Hola, papá! ¡Bienvenido a casa!",
+    "string": "¡Hey, pa! ¡Bienvenido de nuevo!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E82|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Hola, mamá! ¡Bienvenida a casa!",
+    "string": "¡Hey, ma! ¡Bienvenida de nuevo!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B66|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Me has traído un regalo? ¡Caray, gracias, mami!",
+    "string": "¿Me trajiste un regalo? ¡Guau, gracias, ma!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B67|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Me has traído un regalo? ¡Caray, gracias, papi!",
+    "string": "¿Me trajiste un regalo? ¡Guau, gracias, pa!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B68|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Vaya, gracias, mamá!",
+    "string": "¡Guau! ¡Gracias, mamá!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B69|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Vaya, gracias, papá!",
+    "string": "¡Guau! ¡Gracias, papá!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B6E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oooh...",
+    "string": "Ah... ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200891C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, están bien. Hay tantos guardias por las calles que apenas hay motivo para preocuparse.",
+    "string": "Oh, está bien. Tantos guardias en la calle aquí - apenas tengo que preocuparme.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200891D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bah. Esta ciudad está llena de inmundicia. Me las veo y las deseo para mantener a salvo a los niños.",
+    "string": "(se burla) Esta ciudad está llena de suciedad. Hago todo lo posible por mantener a los niños seguros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008926|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Estupendamente. Carrera Blanca es una ciudad encantadora, y aquí hay muchos niños. Les encanta jugar juntos.",
+    "string": "Está bien. Carrera Blanca es una ciudad encantadora, y hay tantos otros niños aquí - a todos les encanta jugar juntos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200892C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No podrían estar mejor. Carrera Blanca es ideal para los niños: hace buen tiempo, hay espacio de sobra y muchos amigos con los que jugar. ¿Qué más se puede pedir?",
+    "string": "No podría ser mejor. Carrera Blanca es perfecto para un niño - buen clima, mucho espacio, amigos con quienes jugar. ¿Qué más se puede pedir?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008931|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bah. Esta ciudad está infestada de ladrones. Cobardes. Aquí un niño puede aprender costumbres muy malas.",
+    "string": "(se burla) Esta ciudad está llena de ladrones. Cobardes. Un niño podría aprender malos hábitos aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003ECA|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Hola, papá!",
+    "string": "¡Hey, pa!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MovingBranchTopic",
+    "form_id": "02003D01|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tenemos que ponernos en marcha.",
+    "string": "Disculpas, pero es hora de alejarse de aquí...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DD5|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Mejor quedémonos aquí.",
+    "string": "Quizá sea mejor quedarse aquí, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToSolitude",
+    "form_id": "02003D03|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Espira Orgullosa, mi casa de Soledad.",
+    "string": "Manor Proudspire, en Soledad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToMarkarth",
+    "form_id": "02003D04|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Salón de Vlindrel, mi casa de Markarth.",
+    "string": "Vlindrel Hall, en Markarth.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToRiften",
+    "form_id": "02003D05|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Villa Melosa, mi casa de Riften.",
+    "string": "Honeyside, en Riften.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToWhiterun",
+    "form_id": "02003D06|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hogar de la Brisa, mi casa de Carrera Blanca.",
+    "string": "Hogar de la Brisa, en Carrera Blanca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToWindhelm",
+    "form_id": "02003D07|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hjerim, mi casa de Ventalia.",
+    "string": "Hjerim, en Ventalia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DEC|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vete a jugar fuera, <Alias.ShortName=Child1>.",
+    "string": "<Alias.ShortName=Child1>, tal vez deberías jugar afuera, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DED|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vete a jugar fuera, <Alias.ShortName=Child2>.",
+    "string": "<Alias.ShortName=Child2>, tal vez deberías jugar afuera, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DEE|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vete a jugar fuera, <Alias.ShortName=Child1>.",
+    "string": "<Alias.ShortName=Child1>, tal vez deberías jugar afuera, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DEF|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vete a jugar fuera, <Alias.ShortName=Child2>.",
+    "string": "<Alias.ShortName=Child2>, tal vez deberías jugar afuera, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DF0|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vete a jugar fuera, <Alias.ShortName=Child1>.",
+    "string": "<Alias.ShortName=Child1>, tal vez deberías jugar afuera, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DF1|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vete a jugar fuera, <Alias.ShortName=Child2>.",
+    "string": "<Alias.ShortName=Child2>, tal vez deberías jugar afuera, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E87|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a jugar a un juego.",
+    "string": "Quizá es tiempo de jugar un juego, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E88|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a jugar a un juego.",
+    "string": "Quizá es tiempo de jugar un juego, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E89|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a jugar a un juego.",
+    "string": "<Alias=Player> desea jugar un juego.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DEB|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Vale. ¡Tú la llevas!",
+    "string": "¡Está bien. Tú eres!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DEB|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Juguemos al pilla pilla.",
+    "string": "<Alias=Player> desea jugar a la mancha.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DD3|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Vale! Quédate ahí y cuenta hasta 10. Y no vale mirar. ¿Ya? ¡Pues venga!",
+    "string": "¡Está bien! Quédate allí y cuenta hasta diez... ¡sin mirar! ¿Listo...? ¡Ya!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DD3|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Juguemos al escondite.",
+    "string": "<Alias=Player> desea jugar a las escondidas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DC6|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Claro. Ya te lo dije.",
+    "string": "Ciertamente, joven. Tal como dijo este uno, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DC7|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Claro. Ya te lo dije.",
+    "string": "Ciertamente, joven. Tal como dijo este uno, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DC8|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Claro. Ya te lo dije.",
+    "string": "Ciertamente, joven. Tal como dijo este uno, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D84|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Lo siento, pero no. He cambiado de opinión.",
+    "string": "Disculpas, pero Khajiit ha cambiado la mente de <Alias.PronounPosObj=Player>. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E0D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oooh...",
+    "string": "Ah... ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E0D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Ahora mismo no.",
+    "string": "No ahora, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DE7|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Toma... 5 de oro.",
+    "string": "Aquí hay... cinco septims.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DCF|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Aquí tienes 10 de oro.",
+    "string": "Aquí hay diez septims, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02002DA0|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Aquí tienes 10 de oro.",
+    "string": "Aquí hay diez septims, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DC1|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Claro. Toma 25 de oro.",
+    "string": "Ciertamente, pequeño. Aquí hay veinticinco septims.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DAA|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué te parecen 100 de oro?",
+    "string": "¿Qué tal 100 septims, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D9A|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "No hay problema. Aquí tienes 500 de oro.",
+    "string": "No hay problema, pequeño. Aquí hay 500 septims. No los gastes todos en un solo puesto, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D8D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Claro, lo que quieras. ¿1.000 de oro?",
+    "string": "Ciertamente, joven, ¡lo que desees! ¿Mil septims serán suficientes, tal vez?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02002DA2|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Claro, lo que quieras. ¿1.000 de oro?",
+    "string": "Ciertamente, joven, ¡lo que desees! ¿Mil septims serán suficientes, tal vez?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_IntroduceAdoptabilityTopic",
+    "form_id": "02003D18|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Qué sucede?",
+    "string": "¿Qué pasa, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E46|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mis... mis padres murieron, no hace mucho. No... no sé qué hacer...",
+    "string": "Mis... mis padres murieron, no hace mucho. No sé qué hacer...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E48|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mi mamá ha muerto y... y no sé qué hacer...",
+    "string": "Mi mamá murió, y... no sé qué hacer...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E4B|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, bueno. Gracias de todos modos, supongo...",
+    "string": "Bueno. Gracias de todas formas, supongo...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E4C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, bueno. Gracias de todos modos, creo.",
+    "string": "Bueno. Gracias de todas formas, supongo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E4D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Sí! ¡Gracias, mamá! ¡Te prometo que seré la mejor hija del mundo!",
+    "string": "¡Yay! ¡Gracias, mamá! ¡Prometo que seré la mejor hija del mundo!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E4E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Sí! ¡Gracias, señor... esto, papá! ¡Te prometo que seré la mejor hija del mundo!",
+    "string": "¡Sí! Gracias, señor - umm, papá! ¡Prometo que seré la mejor hija del mundo!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000997|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿De verdad? ¿Lo dices en serio? ¡Caray, gracias, mamá! ¡Te prometo que no te causaré ninguna molestia!",
+    "string": "¿De verdad? ¿Lo dices en serio? ¡Guau! Gracias, Ma. ¡Prometo no causar problemas!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000998|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿De verdad? ¿Lo dices en serio? ¡Caray, gracias, papá! ¡Te prometo que no te causaré ninguna molestia!",
+    "string": "¿De verdad? ¿Lo dices en serio? ¡Guau! Gracias, Pa. ¡Prometo no causar problemas!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_ProposeAdoption",
+    "form_id": "02003D1A|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Puedo adoptarte si quieres.",
+    "string": "<Alias=Player> podría adoptarte - si así lo deseas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_NoHouse",
+    "form_id": "02003D1B|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No.",
+    "string": "No, <Alias=Player> no lo hace.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DA8|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sí, tengo una casa muy grande en Soledad.",
+    "string": "Sí, en efecto. Khajiit tiene una gran casa en Soledad.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D99|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sí, tengo una casa muy grande en Ventalia.",
+    "string": "Sí, en efecto. Khajiit tiene una gran casa en Ventalia.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D8C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sí, tengo una casa en Riften.",
+    "string": "Sí, en efecto. Khajiit tiene una casa en Riften.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D80|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sí, tengo una casa en Carrera Blanca.",
+    "string": "Sí, en efecto. Khajiit tiene una casa en Carrera Blanca.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E29|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sí, tengo una casa en Markarth.",
+    "string": "Sí, en efecto. Khajiit tiene una casa en Markarth.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E04|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Desde luego que sí... hijo mío.",
+    "string": "Sí, <Alias=Player> está seguro, joven.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E05|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Desde luego que sí... hijo mío.",
+    "string": "Sí, <Alias=Player> está seguro, joven.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E06|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Desde luego que sí... hija mía.",
+    "string": "Sí, <Alias=Player> está seguro, joven.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E07|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Desde luego que sí... hija mía.",
+    "string": "Sí, <Alias=Player> está seguro, joven.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_Reject",
+    "form_id": "02003D22|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "En realidad puede que no sea el mejor momento...",
+    "string": "Este no es un buen momento para <Alias=Player>...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoptableOrphanage_OrphanStories",
+    "form_id": "02003D24|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Háblame de ti.",
+    "string": "Cuéntale a este uno sobre ti mismo, joven. Ninguna historia es demasiado aburrida... o sangrienta...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E1F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Me llamo Samuel. No conocí a mis padres. Grelod dice que mi madre trabajaba aquí en el orfanato, pero que murió al nacer yo.",
+    "string": "Se llama Samuel. Nunca conocí a mis padres. Grelod dijo que mi madre trabajaba aquí en el Orfanato, pero murió cuando yo nací.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E1F|HearthFires.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Constance y los demás son muy amables, pero yo... quiero una familia de verdad.",
+    "string": "Constance y los demás son amables, pero... quiero tener una familia de verdad.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E20|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Soy Hroar. Ya sabes, como el ruido que hace el león. Eso es lo que solía decir mi madre.",
+    "string": "Soy Hroar. Ya sabes, como el rugido de un león. Eso decía mi madre.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E20|HearthFires.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Yo también quiero ser grande y fuerte como un león. Algún día.",
+    "string": "Quiero ser grande y fuerte como un león también. Algún día.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoptableOrphanage_MatronBranchTopic",
+    "form_id": "02003D25|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Puedo adoptar a uno de tus niños?",
+    "string": "<Alias=Player> puede adoptar a uno de tus Cachorro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DA3|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Primero he de hacerte unas preguntas.",
+    "string": "Primero, tendré que hacerte unas preguntas.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DA3|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tengo que hacer?",
+    "string": "¿Qué necesita hacer <Alias=Player>, exactamente?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D89|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿En qué trabajas?",
+    "string": "¿A qué te dedicas?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D89|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "<Alias=Player>.",
+    "string": "Este se llama <Alias=Player>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EC9|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tengo Sangre de Dragón.",
+    "string": "<Alias=Player> es el Sangre de Dragón, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E1A|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Qué? ¿Qué clase de broma es esta?",
+    "string": "¿Qué? ¿Qué clase de broma es esta?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E1A|HearthFires.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Oye, no me hagas perder el tiempo. Vuelve cuando quieras hablar del tema en serio.",
+    "string": "Mira, no pierdas mi tiempo. Vuelve cuando estés listo para hablar en serio.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E1B|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ajá...",
+    "string": "Mm-hmm...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DA2|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Pertenezco a los heraldos de los Compañeros.",
+    "string": "<Alias=Player> es el Heraldo de los Compañeros, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D94|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Pertenezco a los archimagos del Colegio de Hibernalia.",
+    "string": "<Alias=Player> es Archimago del Colegio de Hibernalia, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D88|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Me dedico a robar.",
+    "string": "<Alias=Player> es un ladrón, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EC1|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Asesino gente.",
+    "string": "<Alias=Player> es un asesino, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E18|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Me dedico a vivir aventuras.",
+    "string": "<Alias=Player> es un aventurero, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DFA|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Alquilo mis servicios al mejor postor.",
+    "string": "<Alias=Player> es un mercenario, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DCB|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "En mi casa de Soledad.",
+    "string": "En la casa en Soledad, quizás? ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DA1|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "En mi casa de Ventalia.",
+    "string": "En la casa en Ventalia, quizás? ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D93|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "En mi casa de Markarth.",
+    "string": "En la casa en Markarth, quizás? ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D87|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "En mi casa de Riften.",
+    "string": "En la casa en Riften, quizás? ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EB9|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "En mi casa de Carrera Blanca.",
+    "string": "En la casa en Carrera Blanca, quizás? ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E17|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Yo... no se me había ocurrido.",
+    "string": "Hmm... <Alias=Player> no había pensado en eso, no.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DCA|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Sí, por supuesto! ¡Qué noticia tan maravillosa!",
+    "string": "¡Sí, claro! ¡Qué noticia maravillosa!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DCA|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "He comprado una casa y la he amueblado. ¿Puedo adoptar ya a un niño?",
+    "string": "<Alias=Player> ha comprado una casa y la ha amueblado. <Alias.PronounCap=Player> ahora podría adoptar un Cachorro, tal vez?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EAA|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Adiós, papá!",
+    "string": "¡Adiós, pa!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EAB|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Adiós, mamá!",
+    "string": "¡Adiós, ma!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EAC|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Adiós, mamá!",
+    "string": "¡Adiós, mamá!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EAD|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Adiós, papá!",
+    "string": "¡Adiós, papá!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_NoChildRoom",
+    "form_id": "02003D40|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tengo casa, pero no hay sitio para ti.",
+    "string": "<Alias=Player> tiene una casa, sí. Pero <Alias.Pronoun=Player> no tiene un cuarto para ti, pequeño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptable_AskForStoryTopic",
+    "form_id": "02003D41|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Háblame de ti.",
+    "string": "Cuéntale a <Alias=Player> sobre ti mismo, ¿sí? Khajiit empezará... <Alias.Pronoun=Player> disfruta silbar a los cachorros, sentir la armadura y ropa de alta calidad sobre su pelaje, y matar criaturas míticas enormes por montones de recompensas brillantes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DAF|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sí, tengo una casa en Falkreath.",
+    "string": "Sí, en efecto. Khajiit tiene una casa en Falkreath.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D9D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sí, tengo una casa en la Marca de Hjaal.",
+    "string": "Sí, en efecto. Khajiit tiene una casa en Marca de Hjaal.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D92|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sí, tengo una casa en el Pálido.",
+    "string": "Sí, en efecto. Khajiit tiene una casa en El Pálido.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E8A|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "En mi casa de Falkreath.",
+    "string": "En la casa en Falkreath, quizás? ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DEA|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "En mi casa de la Marca de Hjaal.",
+    "string": "En la casa en Marca de Hjaal, quizás? ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DD2|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "En mi casa del Pálido.",
+    "string": "En la casa en El Pálido, quizás? ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateMarkarthChildBedroom",
+    "form_id": "02003D49|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dormitorio infantil. (<Global=HDMarkarthChildRoom> de oro)",
+    "string": "Una habitación para un Cachorro. (<Global=HDMarkarthChildRoom> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02004D04|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Cambiar mi laboratorio de alquimia por un dormitorio infantil. (<Global=HDMarkarthChildRoom> de oro)",
+    "string": "¿Reemplazar el Laboratorio de Alquimia con un Cuarto Infantil, sí? (<Global=HDMarkarthChildRoom> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateRiftenChildBedroom",
+    "form_id": "02003D4A|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dormitorio infantil. (<Global=HDRiftenChildRoom> de oro)",
+    "string": "Una habitación para un Cachorro. (<Global=HDRiftenChildRoom> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02004D07|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Cambiar mi laboratorio de encantamientos por un dormitorio infantil. (<Global=HDRiftenChildRoom> de oro)",
+    "string": "¿Reemplazar el Laboratorio de Encantamiento con un Cuarto Infantil, sí? (<Global=HDRiftenChildRoom> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateSolitudeChildBedroom",
+    "form_id": "02003D4B|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dormitorio infantil. (<Global=HDSolitudeChildRoom> de oro)",
+    "string": "Una habitación para un Cachorro. (<Global=HDSolitudeChildRoom> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateWhiterunChildBedroom",
+    "form_id": "02003D4C|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dormitorio infantil. (<Global=HDWhiterunChildRoom> de oro)",
+    "string": "Una habitación para un Cachorro. (<Global=HDWhiterunChildRoom>  septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02004CF8|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Cambiar mi laboratorio de alquimia por un dormitorio infantil. (<Global=HDWhiterunChildRoom> de oro)",
+    "string": "¿Reemplazar el Laboratorio de Alquimia con un Cuarto Infantil, sí? (<Global=HDWhiterunChildRoom> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateWindhelmChildBedroom",
+    "form_id": "02003D4D|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dormitorio infantil. (<Global=HDWindhelmChildRoom> de oro)",
+    "string": "Una habitación para un Cachorro. (<Global=HDWindhelmChildRoom> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02014102|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Vienes para adoptar a alguien?",
+    "string": "¿Estás aquí para adoptar a alguien? ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DC4|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Suspira)",
+    "string": "(suspira)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D8E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Pues... no se me había ocurrido. Tengo casa, pero no hay sitio para ellos.",
+    "string": "Hmm... <Alias=Player> no había pensado en eso, no. <Alias.Pronoun=Player> tiene una casa, sí. Pero <Alias.Pronoun=Player> no tiene un cuarto para ellos, no.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C5D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Pues... no se me había ocurrido. Tengo casa, pero no hay sitio para ellos.",
+    "string": "Hmm... <Alias=Player> no había pensado en eso, no. <Alias.Pronoun=Player> tiene una casa, sí. Pero <Alias.Pronoun=Player> no tiene un cuarto para ellos, no.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptableUrchins_SofieOfferServicesTopicTopic",
+    "form_id": "02003D61|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Qué tienes a la venta?",
+    "string": "Khajiit tiene curiosidad... ¿Qué podrías tener a la venta, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E0B|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Hola, señor! ¿Te gustaría comprarme unas flores? ¿Por favor?",
+    "string": "¡Hola, señor! ¿Desea comprar algunas flores? ¿Por favor?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E0C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Hola, señora! ¿Te gustaría comprarme unas flores? ¿Por favor?",
+    "string": "¡Hola, señora! ¿Desea comprar algunas flores? ¿Por favor?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DCE|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Aparta, cachorro.",
+    "string": "Fuera del camino, pequeño...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DBF|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Están... están muertos. Mi mamá murió cuando yo era un bebé. Yo... casi no me acuerdo de ella.",
+    "string": "Están... muertos. Mi mamá murió cuando era pequeño. No... no la recuerdo muy bien.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DBF|HearthFires.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Mi padre era un soldado de los Capas de la Tormenta. Un día se fue y... no regresó.",
+    "string": "Mi padre era un soldado de los Compañeros del Viento. Un día se fue y... no regresó.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DBF|HearthFires.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "No me queda nadie. Vendo flores para poder comprar comida. No saco mucho, pero... ¿qué más puedo hacer?",
+    "string": "Estoy solo. Yo... intento vender flores para comprar comida. No es mucho pero... ¿qué más puedo hacer?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DBF|HearthFires.esm",
+    "index": 3,
+    "type": "INFO RNAM",
+    "original": "¿Quién eres? ¿Dónde están tus padres?",
+    "string": "¿Quién eres, hmm? ¿Dónde están tus guardianes?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E58|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Claro. ¿Qué tienes?",
+    "string": "Ciertamente, cachorro. ¿Qué tienes, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E0A|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Lo siento, ahora no.",
+    "string": "Disculpas, pero no ahora, no. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DE3|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Quién eres? ¿Dónde están tus padres?",
+    "string": "¿Quién eres, hmm? ¿Dónde están tus guardianes?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DE4|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Quién eres? ¿Dónde están tus padres?",
+    "string": "¿Quién eres, hmm? ¿Dónde están tus guardianes?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D98|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Están... muertos.",
+    "string": "Están... muertos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D98|HearthFires.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Mi papá era marinero. Me llevó con él en su última travesía. Después de caer enfermo, nos... nos dejaron aquí y se fueron sin nosotros.",
+    "string": "Mi papá era marinero. Me llevó con él en su último viaje. Después de enfermarse, nos dejaron aquí y se fueron sin nosotros.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D98|HearthFires.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Murió... pocos días después. Desde entonces me he buscado la vida como he podido, pero... ha sido duro. Muy duro.",
+    "string": "Él... murió unos días después. He intentado arreglármelas desde entonces, pero... ha sido difícil. Muy difícil.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D98|HearthFires.esm",
+    "index": 3,
+    "type": "INFO RNAM",
+    "original": "¿Dónde están tus padres?",
+    "string": "¿Dónde están tus guardianes, cachorro?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageFINFalkreathHouse",
+    "form_id": "02003D6B|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Mansión de Vista Lacustre, mi casa de Falkreath.",
+    "string": "Lakeview Manor, en Falkreath.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageFINHjaalmarchHouse",
+    "form_id": "02003D6C|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Mansión Ventera, mi casa de la Marca de Hjaal.",
+    "string": "Mansión Windstad, en Marca de Hjaal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageFINPaleHouse",
+    "form_id": "02003D6D|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Mansión de Heljarchen, mi casa del Pálido.",
+    "string": "Heljarchen Hall, en El Pálido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageWeddingFalkreathHouse",
+    "form_id": "02003D6E|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Qué te parece mi casa de Falkreath?",
+    "string": "Falkreath, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageWeddingHjaalmarchHouse",
+    "form_id": "02003D6F|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Podríamos vivir en mi casa de la Marca de Hjaal.",
+    "string": "¿Qué hay de vivir en Marca de Hjaal, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageWeddingPaleHouse",
+    "form_id": "02003D70|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tengo una casa en el Pálido.",
+    "string": "<Alias=Player> tiene una casa en El Pálido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E32|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Supongo que pasaremos toda la vida juntos. ¿Dónde deberíamos vivir? Podrías quedarte conmigo...",
+    "string": "Supongo que tenemos toda nuestra vida juntos ahora. ¿Dónde deberíamos vivir ? Podrías quedarte conmigo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201819F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Casados. La sensación es distinta de lo que me esperaba, pero estoy feliz. ¿Dónde viviremos? Podrías quedarte conmigo...",
+    "string": "Casado. No se siente como pensé que sería, pero estoy feliz. ¿Dónde deberíamos vivir? Podrías quedarte conmigo...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EBB|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Pero tú tienes hijos, ¿no? Vamos a necesitar un lugar con espacio para ellos.",
+    "string": "Tú tienes hijos, ¿verdad? También tendremos que encontrar un lugar con espacio para ellos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToHjaalmarch",
+    "form_id": "02003D74|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Mansión Ventera, mi casa de la Marca de Hjaal.",
+    "string": "Mansión Windstad, en Marca de Hjaal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_MoveToPale",
+    "form_id": "02003D75|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Mansión de Heljarchen, mi casa del Pálido.",
+    "string": "Heljarchen Hall, en El Pálido. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D86|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Llevo comida y suministros a los mineros.",
+    "string": "Estoy llevando comida y suministros a los mineros.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D86|HearthFires.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "No me pagan mucho, pero por las noches me dejan dormir junto a la chimenea de la posada.",
+    "string": "No pagan mucho, pero me dejan dormir junto al fuego en la posada la mayoría de las noches.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003D86|HearthFires.esm",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "¿A qué vienen esas prisas?",
+    "string": "¿Cuál es la prisa, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptableUrchins_LuciaNameTopic",
+    "form_id": "02003D77|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Por qué estás mendigando?",
+    "string": "¿Por qué estás aquí mendigando, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EA6|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Es... es que Brenuin me dijo que lo hiciera. Es el único que se ha portado bien conmigo desde que... desde que mamá...",
+    "string": "Es... es lo que Brenuin dijo que debía hacer. Es el único que ha sido amable conmigo desde... desde mamá...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EA6|HearthFires.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "... desde que murió. Mis tíos se quedaron con nuestra granja y me echaron. Dijeron que no servía para nada.",
+    "string": "...desde que ella murió. Mi tía y mi tío se hicieron cargo de nuestra granja y me echaron. Dijeron que no servía para nada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003EA6|HearthFires.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Acabé aquí, pero... no... no sé qué hacer. La echo mucho de menos...",
+    "string": "Terminé aquí, pero... yo... no sé qué hacer. La extraño tanto...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E16|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "La odio. Todo el mundo me tiene lástima y por eso no me tratan demasiado mal, pero...",
+    "string": "Lo odio. Todos sienten lástima por mí, así que no me tratan tan mal, pero...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E16|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Te gusta la granja?",
+    "string": "¿Disfrutas la granja, Cachorro? ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DF2|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Lo sientes? ¿El qué?",
+    "string": "¿Te disculpas, hmm? ¿Por qué, exactamente?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DF3|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Me cuentas otra vez tu historia?",
+    "string": "Khajiit tiene curiosidad... ¿Cuál era tu historia otra vez?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E93|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Es hora de ir a casa, <Alias.ShortName=Child1>.",
+    "string": "<Alias.ShortName=Child1>, ¿es hora de volver a casa, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E94|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Es hora de ir a casa, <Alias.ShortName=Child2>.",
+    "string": "<Alias.ShortName=Child2>, ¿es hora de volver a casa, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E95|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Es hora de ir a casa, <Alias.ShortName=Child1>.",
+    "string": "<Alias.ShortName=Child1>, ¿es hora de volver a casa, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E96|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Es hora de ir a casa, <Alias.ShortName=Child2>.",
+    "string": "<Alias.ShortName=Child2>, ¿es hora de volver a casa, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E97|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Es hora de ir a casa, <Alias.ShortName=Child1>.",
+    "string": "<Alias.ShortName=Child1>, ¿es hora de volver a casa, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E98|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Es hora de ir a casa, <Alias.ShortName=Child2>.",
+    "string": "<Alias.ShortName=Child2>, ¿es hora de volver a casa, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E99|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Es hora de ir a casa, <Alias.ShortName=Child1>.",
+    "string": "<Alias.ShortName=Child1>, ¿es hora de volver a casa, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E9A|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Es hora de ir a casa, <Alias.ShortName=Child2>.",
+    "string": "<Alias.ShortName=Child2>, ¿es hora de volver a casa, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E9B|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Es hora de ir a casa, <Alias.ShortName=Child1>.",
+    "string": "<Alias.ShortName=Child1>, ¿es hora de volver a casa, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E9C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Es hora de ir a casa, <Alias.ShortName=Child2>.",
+    "string": "<Alias.ShortName=Child2>, ¿es hora de volver a casa, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E8B|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hora de dormir, <Alias.ShortName=Child1>.",
+    "string": "Es hora de dormir, <Alias.ShortName=Child1>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E8C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hora de dormir, <Alias.ShortName=Child2>.",
+    "string": "Es hora de dormir, <Alias.ShortName=Child2>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B36|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hora de dormir, <Alias.ShortName=Child1>.",
+    "string": "Es hora de dormir, <Alias.ShortName=Child1>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B37|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hora de dormir, <Alias.ShortName=Child2>.",
+    "string": "Es hora de dormir, <Alias.ShortName=Child2>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B38|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hora de dormir, <Alias.ShortName=Child1>.",
+    "string": "Es hora de dormir, <Alias.ShortName=Child1>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B39|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hora de dormir, <Alias.ShortName=Child2>.",
+    "string": "Es hora de dormir, <Alias.ShortName=Child2>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E91|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hora de dormir, <Alias.ShortName=Child1>.",
+    "string": "Es hora de dormir, <Alias.ShortName=Child1>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E92|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hora de dormir, <Alias.ShortName=Child2>.",
+    "string": "Es hora de dormir, <Alias.ShortName=Child2>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E76|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Ve a hacer tus tareas, <Alias.ShortName=Child1>.",
+    "string": "Haz tus tareas, <Alias.ShortName=Child1>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E77|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Ve a hacer tus tareas, <Alias.ShortName=Child2>.",
+    "string": "Haz tus tareas, <Alias.ShortName=Child2>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E78|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Ve a hacer tus tareas, <Alias.ShortName=Child1>.",
+    "string": "Haz tus tareas, <Alias.ShortName=Child1>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E79|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Ve a hacer tus tareas, <Alias.ShortName=Child2>.",
+    "string": "Haz tus tareas, <Alias.ShortName=Child2>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E7A|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Ve a hacer tus tareas, <Alias.ShortName=Child1>.",
+    "string": "Haz tus tareas, <Alias.ShortName=Child1>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E7B|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Ve a hacer tus tareas, <Alias.ShortName=Child2>.",
+    "string": "Haz tus tareas, <Alias.ShortName=Child2>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DAC|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Bueno... está bien.",
+    "string": "Bueno, muy bien entonces...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DAD|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Bueno... está bien.",
+    "string": "Bueno, muy bien entonces...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003DAE|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Bueno... está bien.",
+    "string": "Bueno, muy bien entonces...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E6F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Hola, papá! ¿Quieres jugar con nosotros?",
+    "string": "¡Hey, pa! ¿Quieres jugar un juego con nosotros?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E70|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Hola, mamá! ¿Quieres jugar con nosotros?",
+    "string": "¡Hey, ma! ¿Quieres jugar un juego con nosotros?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseCarriageBranchTopic",
+    "form_id": "02007873|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Necesito que me lleven.",
+    "string": "Este uno busca un transporte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardUpgradeHorse",
+    "form_id": "02007A6D|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Caballo. (<Global=HorseCost> de oro)",
+    "string": "Caballo. (<Global=HorseCost> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardUpgradeChicken",
+    "form_id": "02007A6E|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Pollo. (<Global=BYOHHPCostChicken> de oro)",
+    "string": "Pollo. (<Global=BYOHHPCostChicken> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_NoGiftRude",
+    "form_id": "02007B27|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No. Deja de molestarme.",
+    "string": "No. Ahora, ¡vete!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_NoGift",
+    "form_id": "02007B28|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Esta vez no.",
+    "string": "No esta vez, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_FGAskForGiftResponse",
+    "form_id": "02007B2A|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sí.",
+    "string": "<Alias=Player> sí lo conoce.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E8D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hora de dormir, <Alias.ShortName=Child1>.",
+    "string": "Es hora de dormir, <Alias.ShortName=Child1>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E8E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hora de dormir, <Alias.ShortName=Child2>.",
+    "string": "Es hora de dormir, <Alias.ShortName=Child2>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E8F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hora de dormir, <Alias.ShortName=Child1>.",
+    "string": "Es hora de dormir, <Alias.ShortName=Child1>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02003E90|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hora de dormir, <Alias.ShortName=Child2>.",
+    "string": "Es hora de dormir, <Alias.ShortName=Child2>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B64|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hora de dormir, <Alias.ShortName=Child1>.",
+    "string": "Es hora de dormir, <Alias.ShortName=Child1>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B65|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hora de dormir, <Alias.ShortName=Child2>.",
+    "string": "Es hora de dormir, <Alias.ShortName=Child2>.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B4C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tengo algo para ti, <Alias.ShortName=Child1>.",
+    "string": "<Alias=Player> tiene algo para ti, <Alias.ShortName=Child1>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B4D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tengo algo para ti, <Alias.ShortName=Child2>.",
+    "string": "<Alias=Player> tiene algo para ti, <Alias.ShortName=Child2>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B4E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tengo algo para ti, <Alias.ShortName=Child1>.",
+    "string": "<Alias=Player> tiene algo para ti, <Alias.ShortName=Child1>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B4F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tengo algo para ti, <Alias.ShortName=Child2>.",
+    "string": "<Alias=Player> tiene algo para ti, <Alias.ShortName=Child2>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B50|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tengo algo para ti, <Alias.ShortName=Child1>.",
+    "string": "<Alias=Player> tiene algo para ti, <Alias.ShortName=Child1>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B51|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tengo algo para ti, <Alias.ShortName=Child2>.",
+    "string": "<Alias=Player> tiene algo para ti, <Alias.ShortName=Child2>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B52|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tengo algo para ti, <Alias.ShortName=Child1>.",
+    "string": "<Alias=Player> tiene algo para ti, <Alias.ShortName=Child1>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B53|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tengo algo para ti, <Alias.ShortName=Child2>.",
+    "string": "<Alias=Player> tiene algo para ti, <Alias.ShortName=Child2>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B54|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tengo algo para ti, <Alias.ShortName=Child1>.",
+    "string": "<Alias=Player> tiene algo para ti, <Alias.ShortName=Child1>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B55|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tengo algo para ti, <Alias.ShortName=Child2>.",
+    "string": "<Alias=Player> tiene algo para ti, <Alias.ShortName=Child2>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B56|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tengo algo para ti, <Alias.ShortName=Child1>.",
+    "string": "<Alias=Player> tiene algo para ti, <Alias.ShortName=Child1>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B57|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tengo algo para ti, <Alias.ShortName=Child2>.",
+    "string": "<Alias=Player> tiene algo para ti, <Alias.ShortName=Child2>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B58|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tengo algo para ti, <Alias.ShortName=Child1>.",
+    "string": "<Alias=Player> tiene algo para ti, <Alias.ShortName=Child1>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007B59|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tengo algo para ti, <Alias.ShortName=Child2>.",
+    "string": "<Alias=Player> tiene algo para ti, <Alias.ShortName=Child2>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007F2F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿No deberías estar ya en la cama?",
+    "string": "Ya es hora de dormir, ¿no?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007F30|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vuelve a la cama.",
+    "string": "Regresa a la cama, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoptionFGGameNo",
+    "form_id": "02007F2B|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ahora mismo no.",
+    "string": "No ahora, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02007F32|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Claro.",
+    "string": "Ciertamente.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008AF3|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008AF4|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008AF5|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008AF6|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008AF7|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008AF8|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008AF9|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008AFA|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008AFB|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008AFC|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008AFD|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008AFE|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008AFF|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B00|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B01|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B02|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B03|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B04|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B05|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B06|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B07|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B08|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B09|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B0A|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Qué tal le va a <Alias.ShortName=Child1>?",
+    "string": "¿Cómo está <Alias.ShortName=Child1>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B0B|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B0C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B0D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B0E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B0F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B10|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B11|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B12|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B13|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B14|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B15|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B16|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B17|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B18|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B19|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B1A|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B1B|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B1C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B1D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B1E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B1F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B20|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B21|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008B22|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Cómo están los niños?",
+    "string": "¿Cómo están los pequeños, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardBuyMaterialsExit",
+    "form_id": "020094EE|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No necesito nada más.",
+    "string": "<Alias=Player> no necesita nada más.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardBuyClay",
+    "form_id": "020094F0|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Arcilla. (<Global=BYOHHPAmountClay> por <Global=BYOHHPCostClay> de oro)",
+    "string": "Arcilla. (<Global=BYOHHPAmountClay> por <Global=BYOHHPCostClay> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardBuyStone",
+    "form_id": "020094F1|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Piedra. (<Global=BYOHHPAmountStone> por <Global=BYOHHPCostStone> de oro)",
+    "string": "Piedra. (<Global=BYOHHPAmountStone> por <Global=BYOHHPCostStone> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardBuyLumber",
+    "form_id": "020094F2|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Madera.  (<Global=BYOHHPAmountLogs> por <Global=BYOHHPCostLogs> de oro)",
+    "string": "Madera. (<Global=BYOHHPAmountLogs> por <Global=BYOHHPCostLogs> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardBuyMaterialsTopic",
+    "form_id": "020094F3|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Quisiera que me comprases materiales de construcción.",
+    "string": "Khajiit desea que compres algunos materiales de construcción para <Alias.PronounObj=Player>, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardFurnishTrophyRoom",
+    "form_id": "0200B098|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sala de trofeos. (<Global=BYOHHPCostTrophyRm> de oro)",
+    "string": "Sala de Trofeos. (<Global=BYOHHPCostTrophyRm> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardFurnishStorageRoom",
+    "form_id": "0200B099|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Cuarto trastero. (<Global=BYOHHPCostStorageRm> de oro)",
+    "string": "Cuarto de almacenamiento. (<Global=BYOHHPCostStorageRm> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardFurnishLibrary",
+    "form_id": "0200B09A|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Biblioteca. (<Global=BYOHHPCostLibrary> de oro)",
+    "string": "Biblioteca. (<Global=BYOHHPCostLibrary> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardFurnishKitchen",
+    "form_id": "0200B09B|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Cocina. (<Global=BYOHHPCostKitchen> de oro)",
+    "string": "Cocina. (<Global=BYOHHPCostKitchen> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardFurnishGreenhouse",
+    "form_id": "0200B09C|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Invernadero. (<Global=BYOHHPCostGreenhouse> de oro)",
+    "string": "Invernadero. (<Global=BYOHHPCostGreenhouse> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardFurnishEnchanting",
+    "form_id": "0200B09D|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Torre del encantador. (<Global=BYOHHPCostEnchanting> de oro)",
+    "string": "Torre del Encantador. (<Global=BYOHHPCostEnchanting> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardFurnishArmory",
+    "form_id": "0200B09E|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Armería. (<Global=BYOHHPCostArmory> de oro)",
+    "string": "Armería. (<Global=BYOHHPCostArmory> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardFurnishAlchemy",
+    "form_id": "0200B09F|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Alquimia. (<Global=BYOHHPCostAlchemy> de oro)",
+    "string": "Alquimia. (<Global=BYOHHPCostAlchemy> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardFurnishBedroom",
+    "form_id": "0200B0A0|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dormitorio. (<Global=BYOHHPCostBedroom> de oro)",
+    "string": "Dormitorio. (<Global=BYOHHPCostBedroom> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardFurnishMainHall",
+    "form_id": "0200B0A1|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Salón principal. (<Global=BYOHHPCostMainHall> de oro)",
+    "string": "Sala Principal. (<Global=BYOHHPCostMainHall> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardFurnishBranchTopic",
+    "form_id": "0200B0A2|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría que comprases muebles para la casa.",
+    "string": "Khajiit desea que compres muebles para la casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardFurnishEntryRoom",
+    "form_id": "0200B4C9|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Entrada. (<Global=BYOHHPCostEntryRoom> de oro)",
+    "string": "Sala de entrada. (<Global=BYOHHPCostEntryRoom> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200B4CB|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Casita. (<Global=BYOHHPCostEntryRoom> de oro)",
+    "string": "Casa Pequeña (<Global=BYOHHPCostEntryRoom> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02015D49|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Casita. (<Global=BYOHHPCostEntryRoom> de oro)",
+    "string": "Casa Pequeña (<Global=BYOHHPCostEntryRoom> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02015D4C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Casita. (<Global=BYOHHPCostEntryRoom> de oro)",
+    "string": "Casa Pequeña (<Global=BYOHHPCostEntryRoom> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseHjaalmarchPurchaseNotNow",
+    "form_id": "0200BDFE|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tendré que pensar en ello.",
+    "string": "Khajiit necesita un momento...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseHjaalmarchPurchaseNoMoney",
+    "form_id": "0200BDFF|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ahora mismo no tengo demasiado dinero. (<Global=BYOHHPCost> de oro)",
+    "string": "Este uno está un poco corto de dinero ahora. (<Global=BYOHHPCost> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseHjaalmarchPurchaseYes",
+    "form_id": "0200BE00|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Acepto. (<Global=BYOHHPCost> de oro)",
+    "string": "Khajiit lo tomará. (<Global=BYOHHPCost> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200BE03|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Excelente. Nos alegra que hayas adquirido una propiedad en la Marca de Hjaal. Aquí tienes el título de tu nueva morada.",
+    "string": "Excelente. Nos alegra tenerte como propietario en Marca de Hjaal. Aquí tienes el título de tu propiedad.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200BE03|HearthFires.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Si no te importa mojarte los pies, tu mejor opción es ir hacia el norte, pasado el aserradero. Hay un par de tumbas por el camino, pero no te supondrán ninguna molestia.",
+    "string": "Si no te importa mojarte los pies, lo mejor es que vayas al norte, más allá del molino. Alguna que otra tumba en el camino no te molestará.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200BE03|HearthFires.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "El terreno está en la costa, cruzando el delta del Karth desde Soledad. Como podrás comprobar, es un paraje muy evocador.",
+    "string": "La tierra está en la costa, frente al delta del Karth desde Soledad. Una ubicación inspiradora, como verás.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseHjaalmarchPurchaseTopic",
+    "form_id": "0200BE01|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría comprar una casa.",
+    "string": "Khajiit desea comprar una casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C52|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Recibí tu carta sobre la propiedad que hay en venta. ¿Sigue disponible?",
+    "string": "Khajiit recibió tu carta sobre la tierra en venta. ¿Todavía está disponible, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C54|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Está aún disponible la propiedad que mencionabas?",
+    "string": "La tierra que mencionaste todavía está disponible, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200BE06|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sí, lo está. El jarl se acordó de ti cuando se puso a la venta.",
+    "string": "Sí, lo es. El jarl pensó en ti cuando salió a la venta.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200BE06|HearthFires.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Se encuentra en la costa norte de la Marca de Hjaal, con unas vistas magníficas a Soledad sobre el risco. El sitio ideal para construir una mansión.",
+    "string": "Está en la costa norte de Marca de Hjaal, con una magnífica vista de Soledad desde su risco. Justo el lugar para una nueva mansión.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200BE06|HearthFires.esm",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "Recibí tu carta sobre la propiedad que hay en venta. ¿Sigue disponible?",
+    "string": "Khajiit recibió tu carta sobre la tierra en venta. ¿Todavía está disponible, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200BE08|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sí. Se encuentra en la costa norte de la Marca de Hjaal, con unas vistas magníficas a Soledad sobre el risco. El sitio ideal para construir una mansión.",
+    "string": "Sí. Está en la costa norte de Marca de Hjaal, con una magnífica vista de Soledad desde su risco. Justo el lugar para una nueva mansión.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200BE08|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Está aún disponible la propiedad que mencionabas?",
+    "string": "La tierra que mencionaste todavía está disponible, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardWhereToBuySuppliesTopic",
+    "form_id": "0200CD29|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Sabes dónde puedo comprar materiales como cristal o paja?",
+    "string": "¿Sabes dónde podría comprar materiales como vidrio o paja, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseSkeeverInfestationTopic",
+    "form_id": "02010A2D|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Qué pasa?",
+    "string": "¿Qué es, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_BanCritter",
+    "form_id": "02013EBE|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "De eso nada. Mascotas no. Jamás.",
+    "string": "¡Absolutamente no! Ninguna mascota... jamás... ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_RejectCritter",
+    "form_id": "02013EBF|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No. Ahora, llévatelo de aquí.",
+    "string": "No. Ahora, lárgate, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_KeepCritter",
+    "form_id": "02013EC0|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Está bien. Pero tendrás que cuidar de él.",
+    "string": "Bien. Pero eres responsable de él, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02013ED0|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Un conejo?",
+    "string": "Un conejo, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02013ED1|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Un zorro?",
+    "string": "Un zorro, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02013ED2|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Un... cangrejo del barro?",
+    "string": "¿Un... cangrejo de lodo... sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02013ED3|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Un... skeever?",
+    "string": "¿Un... rata topo... sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_BanPet",
+    "form_id": "02013EC5|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No. Nada de mascotas. Jamás.",
+    "string": "No. Nada de mascotas... Nunca... hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_DeclinePet",
+    "form_id": "02013EC6|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ahora mismo no.",
+    "string": "No ahora, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_AgreeKeepPet",
+    "form_id": "02013EC7|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Claro. Podrá quedarse contigo cuando no lo necesite.",
+    "string": "De acuerdo. Cuando <Alias=Player> no lo necesite, permanecerá contigo, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201410D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gracias. Gracias... por todo, papá.",
+    "string": "Gracias. Gracias... por todo, pa.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201410E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gracias. Gracias... por todo, mamá.",
+    "string": "Gracias. Gracias... por todo, ma.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201410B|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ya... ya tengo casa otra vez. Una familia. Casi no puedo creerlo.",
+    "string": "Tengo un hogar de nuevo. Una familia. Casi no lo puedo creer.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02016412|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Esa... esa es tu mascota, mamá? ¡Me da mucho miedo!",
+    "string": "¿Es... esa tu mascota, mamá? ¡Se ve muy aterradora!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02016413|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Esa... esa es tu mascota, papá? ¡Me da mucho miedo!",
+    "string": "¿Es... esa tu mascota, papá? ¡Se ve muy aterradora!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02013ED9|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Mira, papá! ¡Tengo un nuevo amigo!",
+    "string": "¡Mira, papá! ¡Hice un nuevo amigo!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02013EDA|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Mira, mamá! ¡Tengo un nuevo amigo!",
+    "string": "¡Mira, mamá! ¡Tengo un nuevo amigo!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_FGAskForGiftWhereCouldIGet",
+    "form_id": "020140FB|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Dónde consigo yo uno?",
+    "string": "¿Dónde podría <Alias=Player> obtener eso, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02014107|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Seguro que los khajiitas tienen. ¡Sus juguetes son los mejores!",
+    "string": "Estoy seguro que el Khajiit tendría uno - ¡sus juguetes son los mejores!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02014107|HearthFires.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Y para ropas... hay un sastre en Soledad. Seguro que tiene mucha ropa de todo tipo.",
+    "string": "Para ropa... hay una sastrería en Soledad. Seguro que tienen mucho para elegir.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_FGAskForGiftWhatDoYouWant",
+    "form_id": "020140FC|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Qué te gustaría?",
+    "string": "¿Qué te gustaría, cachorro?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02015D21|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Sí, mi thane? ¿Necesitas algo?",
+    "string": "Sí, mi thane? ¿Necesitas algo?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02015D22|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Que necesitas, thane?",
+    "string": "¿Qué necesitas, thane?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02015D23|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Qué sucede, thane?",
+    "string": "¿Qué sucede, thane?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02015D25|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ten cuidado, thane.",
+    "string": "Ten cuidado, thane. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02015D28|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Te seguiré adonde vayas, thane.",
+    "string": "Seguiré tu ejemplo, thane.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201612C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Sabes qué? Me caes bien. No temes ensuciarte las manos.",
+    "string": "¿Sabes qué? Me caes bien. No tienes miedo de ensuciarte las manos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201612C|HearthFires.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Por la presente te concedo autorización para comprar propiedades en la comarca de Falkreath. Si te interesa, habla con mi administrador.",
+    "string": "Por la presente te concedo permiso para comprar propiedad en Falkreath Hold. Habla con mi administrador si estás interesado.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02016400|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Buaaaaaa....",
+    "string": "Waaaaaaah...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02016403|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Blandengue.",
+    "string": "Bebedor de leche.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020163F0|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Caca de skeever!",
+    "string": "¡Cerebro de rata topo!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020163F4|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Aliento de lobo!",
+    "string": "¡Aliento de lobo!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020163F7|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Cara de horker!",
+    "string": "¡Cara de horker!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020163FD|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Ah, sí? ¡Pues yo he visto cangrejos del barro más listos que tú!",
+    "string": "¿Ah, sí? ¡Bueno, he visto cangrejos de barro más inteligentes que tú!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02016401|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Orejas de punta!",
+    "string": "¡Orejas de elfo!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02016404|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Aliento de draugr!",
+    "string": "¡Aliento de draugr!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201640A|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Nariz de mamut!",
+    "string": "¡Nariz de mamut!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02016425|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Pues tú hueles como una bruja cuervo. ¡Y también te pareces a una!",
+    "string": "Bueno, hueles como una Bruja cuervo. ¡Y también te ves como una!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePalePurchaseNotNow",
+    "form_id": "02017706|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tendré que pensar en ello.",
+    "string": "Khajiit necesita un momento...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C2F|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm. Bien, si cambias de opinión, vuelve a verme.",
+    "string": "Hmm. Bien, si cambias de opinion, vuelve a verme.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02017710|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bah. Tú verás. Aunque igual se lo acabo vendiendo a otro y pierdes esta oportunidad.",
+    "string": "(se burla) Bueno, como quieras. Aunque no puedo prometer que alguien más no lo compre mientras tanto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePalePurchaseNoMoney",
+    "form_id": "02017707|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ahora mismo no tengo demasiado dinero. (<Global=BYOHHPCost> de oro)",
+    "string": "Este uno está un poco corto de dinero ahora. (<Global=BYOHHPCost> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201770A|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Qué lamentable. Puede que te haya juzgado mal.",
+    "string": "Bueno, eso es desafortunado. Tal vez te juzgué mal.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePalePurchaseYes",
+    "form_id": "02017708|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Acepto. (<Global=BYOHHPCost> de oro)",
+    "string": "Khajiit lo tomará. (<Global=BYOHHPCost> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C2E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Entonces, por mi derecho como jarl, te concedo la propiedad de esas tierras.",
+    "string": "Entonces, por mi derecho como jarl, te concedo un título de la tierra.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePalePurchaseTopic",
+    "form_id": "02017709|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría comprar una casa.",
+    "string": "Khajiit desea comprar una casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C32|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Está aún disponible la propiedad que mencionabas?",
+    "string": "La tierra que mencionaste todavía está disponible, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201770C|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Propiedad? Ah, sí. La finca de Heljarchen. Pensé en ti en cuanto quedó disponible.",
+    "string": "¿Tierra? Oh, sí. La propiedad Heljarchen. Pensé en ti de inmediato cuando estuvo disponible.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201770C|HearthFires.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Está en el sur del Pálido, cerca del Desfiladero de los Gigantes. El hogar perfecto para alguien como tú.",
+    "string": "Está en el sur de El Pálido, cerca del Paso de los Gigantes. Justo el lugar para que alguien como tú establezca su propiedad.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201770C|HearthFires.esm",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "Recibí tu carta sobre la propiedad que hay en venta. ¿Sigue disponible?",
+    "string": "Khajiit recibió tu carta sobre la tierra en venta. ¿Todavía está disponible, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201770D|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Lo siento, no quedan casas a la venta en Lucero del Alba. Pero podría venderte un terreno en la comarca para que puedas construirte tu propio hogar.",
+    "string": "Oh, lo siento, no hay casas a la venta en Lucero del Alba ahora mismo. Pero... podría venderte tierras en el hold donde podrías construir tu propia casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201770E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sí, lo está. Se encuentra en la parte meridional del Pálido, justo en la frontera con la comarca de Carrera Blanca. Todo el espacio del mundo para construir tu propio hogar.",
+    "string": "Sí, lo es. Está en la parte sur de El Pálido, justo en la frontera con Carrera Blanca Hold. Todo el espacio del mundo para construir tu propia casa.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201770E|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Está aún disponible la propiedad que mencionabas?",
+    "string": "La tierra que mencionaste todavía está disponible, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000C30|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Recibí tu carta sobre la propiedad que hay en venta. ¿Sigue disponible?",
+    "string": "Khajiit recibió tu carta sobre la tierra en venta. ¿Todavía está disponible, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseStewardUpgradeBard",
+    "form_id": "02018DBF|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Bardo. (<Global=BYOHHPCostBard> de oro)",
+    "string": "Bardo. (<Global=BYOHHPCostBard> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBardSwitchInstrument",
+    "form_id": "02018DC3|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría que tocases un instrumento distinto.",
+    "string": "Khajiit desea que toques otro instrumento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBardDismissTopic",
+    "form_id": "02018DC4|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ya no necesito tus servicios.",
+    "string": "<Alias=Player> ya no requiere tus servicios.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBardTakeABreak",
+    "form_id": "02018DC5|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Puedes tomarte un descanso?",
+    "string": "¿Se te permite tomar un descanso, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBardInstrumental",
+    "form_id": "02018DC6|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Y si tocas un poco de música?",
+    "string": "¿Alguna música instrumental, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBardBranchTopic",
+    "form_id": "02018DC7|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría hacer una petición.",
+    "string": "Khajiit desea hacer una solicitud.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020192B9|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(ladrido)",
+    "string": "(ladra)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020192B9|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos chico, ven aquí.",
+    "string": "Vamos. Sígueme, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020192BA|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Ya basta. <Alias.ShortName=Child1>, vete a tu cuarto.",
+    "string": "Basta. <Alias.ShortName=Child1>, regresa a tu cuarto, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020192BB|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Ya basta. <Alias.ShortName=Child2>, vete a tu cuarto.",
+    "string": "Basta. <Alias.ShortName=Child2>, regresa a tu cuarto, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020192BC|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Ya basta. <Alias.ShortName=Child1>, vete a tu cuarto.",
+    "string": "Basta. <Alias.ShortName=Child1>, regresa a tu cuarto, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020192BD|HearthFires.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Ya basta. <Alias.ShortName=Child2>, vete a tu cuarto.",
+    "string": "Basta. <Alias.ShortName=Child2>, regresa a tu cuarto, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipAdoption_FGNameCallingBreakup1",
+    "form_id": "020192B6|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dejadlo ya los dos.",
+    "string": "¡Detengan esto! ¡Ambos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02018DCB|HearthFires.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Permíteme que me presente. Soy el bardo Llewellyn, también conocido como \"el Ruiseñor\". Tu administrador ha contratado mis servicios.",
+    "string": "Permítanme presentarme. Soy el bardo Llewellyn, conocido como \"el Ruiseñor\". Tu administrador ha arreglado que sirva contigo. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBardRehireNeverMind",
+    "form_id": "020195BF|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, da igual.",
+    "string": "Lo que sea.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBardRehireYes",
+    "form_id": "020195C0|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He cambiado de opinión. Me gustaría que te quedases.",
+    "string": "Khajiit ha cambiado la mente de <Alias.PronounPosObj=Player> - y desea que te quedes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHVampireSleepMsg",
+    "form_id": "02000C33|HearthFires.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Despiertas sintiendo una oleada de poder vampírico.",
+    "string": "¿Qué es esto, hmm ? ¡Una sensación y súbita oleada de poder vampírico....!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFishHatcheryOnlyOneItemMESSAGE",
+    "form_id": "02000A09|HearthFires.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Solo tienes que añadir un objeto de cada al vivero.",
+    "string": "Solo uno de cada objeto debería añadirse al criadero, si? Más sería imprudente, ciertamente.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFishHatcherySuccessMESSAGE",
+    "form_id": "02000A08|HearthFires.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Objeto añadido al vivero.",
+    "string": "El objeto fue añadido al criadero de peces, si.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PlanterItemPlantedMESSAGE",
+    "form_id": "02019955|HearthFires.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Objeto plantado.",
+    "string": "Ahí, el objeto está plantado.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHStoneDepletedMessage",
+    "form_id": "0200D17D|HearthFires.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Esta cantera de piedra está agotada.",
+    "string": "La cantera ahora está agotada de piedra...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHClayDepletedMessage",
+    "form_id": "0200D17C|HearthFires.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Este depósito de arcilla está agotado.",
+    "string": "Claramente, ya no hay más arcilla en este depósito...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PlanterOnlyOneItemMESSAGE",
+    "form_id": "02008245|HearthFires.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No puede colocarse más de un objeto a la vez.",
+    "string": "Solo un objeto puede plantarse a la vez, si?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PlanterNotPlantableMESSAGE",
+    "form_id": "02008244|HearthFires.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No puedes colocar eso aquí.",
+    "string": "Gato tonto... Eso no puede plantarse aquí, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PlanterPreviousItemRemovedMESSAGE",
+    "form_id": "02008243|HearthFires.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Se ha quitado el objeto anterior.",
+    "string": "El objeto anterior ha sido removido...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "planterClearMessage",
+    "form_id": "02008242|HearthFires.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Ya hay algo creciendo aquí. ¿Qué quieres hacer?",
+    "string": "Ziss... Algo ya crece aquí, si?  \r\n\r\n¿Qué debería hacerse entonces, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "planterClearMessage",
+    "form_id": "02008242|HearthFires.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "No hacer nada",
+    "string": "Déjalo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "planterClearMessage",
+    "form_id": "02008242|HearthFires.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Vaciar maceta",
+    "string": "Limpiar el sembradío  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHAdoptionRestedMessageMale",
+    "form_id": "02002F55|HearthFires.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Despiertas sintiendo el amor de un padre.",
+    "string": "Ser un guardián da nuevo significado y propósito a la vida, no? Simplemente el pensar en los Cachorro llena un corazón de amor...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHAdoptionRestedMessageFemale",
+    "form_id": "02004293|HearthFires.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Despiertas sintiendo el amor de una madre.",
+    "string": "Ser un guardián da nuevo significado y propósito a la vida, no? Simplemente el pensar en los Cachorro llena un corazón de amor...  ",
+    "status": "TranslationComplete"
+  }
+]

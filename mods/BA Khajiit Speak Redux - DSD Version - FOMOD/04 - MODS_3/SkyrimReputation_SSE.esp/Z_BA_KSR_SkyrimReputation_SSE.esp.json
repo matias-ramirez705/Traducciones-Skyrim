@@ -1,0 +1,1442 @@
+[
+  {
+    "editor_id": "null",
+    "form_id": "0514C211|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Pff. Go away, if you know what's good for you.",
+    "string": "Pff. Vete, si sabes lo que te conviene.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0514C1AB|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Pff. Go away!",
+    "string": "¡Pff! ¡Lárgate!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0514C1C0|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Y...Yes?",
+    "string": "¿S... Sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CompBanAelaIntroBranchTopic02",
+    "form_id": "0535B209|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Global=CompBanGoldTotal> gold is too much!",
+    "string": "¡<Global=CompBanGoldTotal> septims es demasiado, amigo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CompBanAelaIntroBranchTopic03",
+    "form_id": "0535B20B|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll get the <Global=CompBanGoldTotal> gold",
+    "string": "Khajiit conseguirá los <Global=CompBanGoldTotal> septims, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CompBanAelaDoneBranchTopic01",
+    "form_id": "0535B213|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Here's the <Global=CompBanGoldTotal> gold.",
+    "string": "Aquí están los <Global=CompBanGoldTotal> septims, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051196FC|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Typical outlander weakling",
+    "string": "Típico debilucho forastero...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0511970B|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Y...Yes?",
+    "string": "¿S... Sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05114596|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Y...Yes?",
+    "string": "¿S... Sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051A2432|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, well, um... thank you.",
+    "string": "Oh, bueno, emm... gracias.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0519D2A5|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "By the Hist, what a sight....",
+    "string": "¡Por la Hist, qué espectáculo...!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "055E94C9|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ysmir's beard! She's...she's a vampire!",
+    "string": "¡Por la barba de Ysmir! ¡Es... es una vampira!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "055F3797|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes, my Thane?",
+    "string": "¿Sí, mi Thane?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "055F3798|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes, Thane. What is it?",
+    "string": "Sí, Thane. ¿Qué ocurre?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "055F379A|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you need, my Thane?",
+    "string": "¿Qué necesitas, mi Thane?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "055F3799|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As you wish, my Thane.",
+    "string": "Como desees, mi Thane.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "055F88A4|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A pleasure, Thane.",
+    "string": "Es un placer, Thane.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "055F379F|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I trust the day's found you well, Thane.",
+    "string": "Khajiit espera que el día te haya tratado bien, Thane.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "055F88A3|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope you're finding the city in proper order, Thane.",
+    "string": "Khajiit espera que encuentres la ciudad en perfecto orden, Thane.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Newcomer_Scoundrel",
+    "form_id": "05760B35|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Scoundrel (<Global=ConfigPriceXS> gold)",
+    "string": "¿Un Canalla, sí? (<Global=ConfigPriceXS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Newcomer_Troublemaker",
+    "form_id": "05760B38|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Troublemaker (<Global=ConfigPriceXS> gold)",
+    "string": "¿Un Buscapleitos, sí? (<Global=ConfigPriceXS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Newcomer_Agitator",
+    "form_id": "05760B3A|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Agitator (<Global=ConfigPriceXS> gold)",
+    "string": "¿Un Agitador, quizás? (<Global=ConfigPriceXS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Newcomer_Swashbuckler",
+    "form_id": "05760B3C|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Swashbuckler (<Global=ConfigPriceXS> gold)",
+    "string": "¿Un Espadachín, sí? (<Global=ConfigPriceXS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Newcomer_Novitiate",
+    "form_id": "05760B3E|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Novitiate (<Global=ConfigPriceXS> gold)",
+    "string": "¿Un Novicio, quizás? (<Global=ConfigPriceXS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Newcomer_Adventurer",
+    "form_id": "05760B40|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Adventurer (<Global=ConfigPriceXS> gold)",
+    "string": "Un Aventurero, quizá? (<Global=ConfigPriceXS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Neutral_Chaotic",
+    "form_id": "0576AD49|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Chaotic (<Global=ConfigPriceS> gold)",
+    "string": "Khajiit se siente Caótico, sin duda. (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Neutral_Unruly",
+    "form_id": "0576AD4B|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Unruly (<Global=ConfigPriceS> gold)",
+    "string": "Khajiit es Indómito, sí. (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Neutral_Drifter",
+    "form_id": "0576AD4D|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Drifter (<Global=ConfigPriceS> gold)",
+    "string": "Un Vagabundo, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Neutral_Heedless",
+    "form_id": "0576AD4F|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Heedless (<Global=ConfigPriceS> gold)",
+    "string": "Khajiit se siente Temerario, en efecto. (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Disliked_Lawless",
+    "form_id": "0577A055|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Lawless (<Global=ConfigPriceS> gold)",
+    "string": "Khajiit vive al Margen de la Ley, sí. (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Disliked_DaedraWorshipper",
+    "form_id": "0577F173|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Daedra Worshipper (<Global=ConfigPriceS> gold)",
+    "string": "Un Adorador de Daedra, ¿hmm? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Disliked_FortuneHunter",
+    "form_id": "0577F177|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Fortune Hunter (<Global=ConfigPriceS> gold)",
+    "string": "Un Caza fortunas, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Disliked_Blackguard",
+    "form_id": "0577F17A|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Blackguard (<Global=ConfigPriceS> gold)",
+    "string": "Un Guarda negro, ¿hmm? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Disliked_Trickster",
+    "form_id": "0577F17D|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Trickster (<Global=ConfigPriceS> gold)",
+    "string": "Un Embaucador, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Disliked_Deceiver",
+    "form_id": "0577F180|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Deceiver (<Global=ConfigPriceS> gold)",
+    "string": "Un Engañador, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Disliked_WildMage",
+    "form_id": "0577F183|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Wild Mage (<Global=ConfigPriceS> gold)",
+    "string": "Un Mago Salvaje, ¿hmm? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Disliked_Necromancer",
+    "form_id": "0577F186|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Necromancer (<Global=ConfigPriceS> gold)",
+    "string": "Un Nigromante, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Disliked_Nightwalker",
+    "form_id": "0577F189|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Nightwalker (<Global=ConfigPriceS> gold)",
+    "string": "Un Caminante Nocturno, ¿hmm? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Disliked_NightProwler",
+    "form_id": "0577F18C|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Night Prowler (<Global=ConfigPriceS> gold)",
+    "string": "Un Merodeador Nocturno, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Disliked_Thief",
+    "form_id": "0577F18F|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Thief (<Global=ConfigPriceS> gold)",
+    "string": "Un Ladrón, ¿hmm? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Disliked_Ruffian",
+    "form_id": "0577F192|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ruffian (<Global=ConfigPriceS> gold)",
+    "string": "Un Rufián, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Disliked_Killer",
+    "form_id": "0577F195|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Killer (<Global=ConfigPriceS> gold)",
+    "string": "Un Asesino, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Disliked_ForswornAgent",
+    "form_id": "0577F198|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Forsworn Agent (<Global=ConfigPriceS> gold)",
+    "string": "Un Agente Renegado, ¿hmm? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Disliked_HiredThug",
+    "form_id": "0577F19B|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hired Thug (<Global=ConfigPriceS> gold)",
+    "string": "Un Matón a Sueldo, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Disliked_Conspirator",
+    "form_id": "0577F19E|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Conspirator (<Global=ConfigPriceS> gold)",
+    "string": "Un Conspirador, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_Enforcer",
+    "form_id": "0577F1A1|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Enforcer (<Global=ConfigPriceS> gold)",
+    "string": "Un Ejecutor, quizá? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_Cleric",
+    "form_id": "0577F1A4|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Cleric (<Global=ConfigPriceS> gold)",
+    "string": "Un Clérigo, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_Journeyman",
+    "form_id": "0577F1A7|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Journeyman (<Global=ConfigPriceS> gold)",
+    "string": "Un Oficial, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_Warrior",
+    "form_id": "0577F1AA|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Warrior (<Global=ConfigPriceS> gold)",
+    "string": "Un Guerrero, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_Soldier",
+    "form_id": "0577F1AD|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Soldier (<Global=ConfigPriceS> gold)",
+    "string": "Un Soldado, ¿hmm? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_Pilgrim",
+    "form_id": "0577F1B0|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Pilgrim (<Global=ConfigPriceS> gold)",
+    "string": "Un Peregrino, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_Harbinger",
+    "form_id": "0577F1B3|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Harbinger (<Global=ConfigPriceS> gold)",
+    "string": "Un Heraldo, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_ArchMage",
+    "form_id": "0577F1B6|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Arch Mage (<Global=ConfigPriceS> gold)",
+    "string": "Un Archimago, quizá? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_Blade",
+    "form_id": "0577F1B9|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Blade (<Global=ConfigPriceS> gold)",
+    "string": "Una Hoja, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_BountyHunter",
+    "form_id": "0577F1BC|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Bounty Hunter (<Global=ConfigPriceS> gold)",
+    "string": "Un Cazarrecompensas, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_DragonHunter",
+    "form_id": "0577F1BF|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dragon Hunter (<Global=ConfigPriceS> gold)",
+    "string": "Un Cazador de Dragones, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_MageHunter",
+    "form_id": "0577F1C2|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Mage Hunter (<Global=ConfigPriceS> gold)",
+    "string": "Un Cazador de Magos, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_UndeadHunter",
+    "form_id": "0577F1C5|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Undead Hunter (<Global=ConfigPriceS> gold)",
+    "string": "Un Cazador de No Muertos, quizá? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_Kingslayer",
+    "form_id": "0577F1C8|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Kingslayer (<Global=ConfigPriceS> gold)",
+    "string": "Un Matarreyes, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_SaviorSolitude",
+    "form_id": "0577F1CB|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Savior of Solitude (<Global=ConfigPriceS> gold)",
+    "string": "El Salvador de Soledad, quizá? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_ThalmorHunter",
+    "form_id": "0577F1CE|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Thalmor Hunter (<Global=ConfigPriceS> gold)",
+    "string": "Un Cazador del Thalmor, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_WindhelmInvestigator",
+    "form_id": "0577F1D1|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Windhelm Investigator (<Global=ConfigPriceS> gold)",
+    "string": "Un Investigador de Ventalia, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_MorthalLiberator",
+    "form_id": "0577F1D4|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Liberator of Morthal (<Global=ConfigPriceS> gold)",
+    "string": "Un Libertador de Morthal, ¿hmm? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_TrevasWatch",
+    "form_id": "0577F1D7|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Deliverer of Treva's watch (<Global=ConfigPriceS> gold)",
+    "string": "Un Libertador de Treva, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_RiftenLawman",
+    "form_id": "0577F1DA|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Lawman of Riften (<Global=ConfigPriceS> gold)",
+    "string": "Un Hombre de Ley de Riften, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_WitchHunter",
+    "form_id": "0577F1DD|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Witch Hunter (<Global=ConfigPriceS> gold)",
+    "string": "Un Cazador de Brujas, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_DwemerExplorer",
+    "form_id": "0577F1E0|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dwemer Explorer (<Global=ConfigPriceS> gold)",
+    "string": "Un Explorador Dwemer, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Liked_GhostHunter",
+    "form_id": "0577F1E3|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ghost Hunter (<Global=ConfigPriceS> gold)",
+    "string": "Un Cazador de Fantasmas, ¿sí? (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hero_Justice",
+    "form_id": "0577F1E6|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Justice (<Global=ConfigPriceL> gold)",
+    "string": "Khajiit busca Justicia, sin duda. (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hero_Sage",
+    "form_id": "0577F1E9|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sage (<Global=ConfigPriceL> gold)",
+    "string": "Un Sabio, ¿sí? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hero_Savior",
+    "form_id": "0577F1EC|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Savior (<Global=ConfigPriceL> gold)",
+    "string": "Un Salvador, ¿sí? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hero_Ysmir",
+    "form_id": "0577F1EF|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ysmir (<Global=ConfigPriceL> gold)",
+    "string": "Ysmir, ¿sí? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hero_Harbinger",
+    "form_id": "0577F1F2|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Harbinger (<Global=ConfigPriceL> gold)",
+    "string": "Un Heraldo, ¿hmm? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hero_ArchMage",
+    "form_id": "0577F1F5|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Arch Mage (<Global=ConfigPriceL> gold)",
+    "string": "Un Archimago, quizá? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hero_Dragonborn",
+    "form_id": "0577F1F8|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dragonborn (<Global=ConfigPriceL> gold)",
+    "string": "El Sangre de Dragón, quizá? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hero_Avenger",
+    "form_id": "0577F1FB|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Avenger (<Global=ConfigPriceL> gold)",
+    "string": "Un Vengador, quizá? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hero_DragonWarrior",
+    "form_id": "0577F1FE|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dragon Warrior (<Global=ConfigPriceL> gold)",
+    "string": "Un Guerrero Dragón, ¿sí? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hero_AntiMage",
+    "form_id": "0577F201|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Anti-Mage (<Global=ConfigPriceL> gold)",
+    "string": "Un Antimago, quizá? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hero_UndeadVanquisher",
+    "form_id": "0577F204|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Undead Vanquisher (<Global=ConfigPriceL> gold)",
+    "string": "Un Vencedor de No Muertos, quizá? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Feared_CrimeLord",
+    "form_id": "0577F207|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Crime Lord (<Global=ConfigPriceL> gold)",
+    "string": "Un Señor del Crimen, ¿sí? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Feared_PriestDarkness",
+    "form_id": "0577F20A|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Priest of Darkness (<Global=ConfigPriceL> gold)",
+    "string": "Un Sacerdote de la Oscuridad, ¿hmm? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Feared_Betrayer",
+    "form_id": "0577F20D|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Betrayer (<Global=ConfigPriceL> gold)",
+    "string": "Un Traidor, ¿sí? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Feared_Destroyer",
+    "form_id": "0577F210|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Destroyer (<Global=ConfigPriceL> gold)",
+    "string": "Un Destructor, ¿hmm? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Feared_Tyrant",
+    "form_id": "0577F213|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tyrant (<Global=ConfigPriceL> gold)",
+    "string": "Un Tirano, ¿sí? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Feared_DeathBringer",
+    "form_id": "0577F216|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Death Bringer (<Global=ConfigPriceL> gold)",
+    "string": "Un Portador de la Muerte, ¿sí? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hero_AlduinBane",
+    "form_id": "0577F219|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Alduin's Bane (<Global=ConfigPriceL> gold)",
+    "string": "La perdición de Alduin, quizá? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hero_PeaceBringer",
+    "form_id": "0577F21C|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Peace Bringer (<Global=ConfigPriceL> gold)",
+    "string": "Un Portador de la Paz, ¿sí? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hero_Champion",
+    "form_id": "0577F21F|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Champion (<Global=ConfigPriceL> gold)",
+    "string": "Un Campeón, ¿hmm? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hero_DragonRider",
+    "form_id": "0577F222|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dragon Rider (<Global=ConfigPriceL> gold)",
+    "string": "Un Jinete de Dragones, ¿hmm? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Feared_DreadMage",
+    "form_id": "0577F225|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dread Mage (<Global=ConfigPriceL> gold)",
+    "string": "Un Mago Siniestro, ¿hmm? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Feared_LichKing",
+    "form_id": "0577F228|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Lich King (<Global=ConfigPriceL> gold)",
+    "string": "Un Rey Liche, ¿sí? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Feared_UndeadScourge",
+    "form_id": "0577F22B|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Undead Scourge (<Global=ConfigPriceL> gold)",
+    "string": "Un Azote de los No Muertos, quizá? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Feared_DreadWolf",
+    "form_id": "0577F22E|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dread Wolf (<Global=ConfigPriceL> gold)",
+    "string": "Un Lobo Aciago, ¿sí? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Feared_ShadowHunter",
+    "form_id": "0577F231|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Shadow Hunter (<Global=ConfigPriceL> gold)",
+    "string": "Un Cazador de Sombras, ¿sí? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Feared_Devourer",
+    "form_id": "0577F234|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Devourer (<Global=ConfigPriceL> gold)",
+    "string": "Un Devorador, ¿sí? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Feared_Warmonger",
+    "form_id": "0577F237|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Warmonger (<Global=ConfigPriceL> gold)",
+    "string": "Un Belicista, ¿sí? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Feared_UndeadLord",
+    "form_id": "0577F23A|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Undead Lord (<Global=ConfigPriceL> gold)",
+    "string": "Un Señor de los No Muertos, quizá? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Feared_DragonMaster",
+    "form_id": "0577F23D|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dragon Master (<Global=ConfigPriceL> gold)",
+    "string": "Un Maestro de Dragones, ¿sí? (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Admired_Lawspeaker",
+    "form_id": "0577F240|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Lawspeaker (<Global=ConfigPriceM> gold)",
+    "string": "Un Legislador, ¿sí? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Admired_Paladin",
+    "form_id": "0577F243|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Paladin (<Global=ConfigPriceM> gold)",
+    "string": "Un Paladín, ¿sí? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Admired_Ranger",
+    "form_id": "0577F247|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ranger (<Global=ConfigPriceM> gold)",
+    "string": "Un Montaraz, ¿sí? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Admired_Inquisitor",
+    "form_id": "0577F24A|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Inquisitor (<Global=ConfigPriceM> gold)",
+    "string": "Un Inquisidor, quizá? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Admired_Defender",
+    "form_id": "0577F24D|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Defender (<Global=ConfigPriceM> gold)",
+    "string": "Un Defensor, ¿sí? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Admired_Skald",
+    "form_id": "0577F250|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Skald (<Global=ConfigPriceM> gold)",
+    "string": "Un Escaldo, ¿sí? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Admired_Harbinger",
+    "form_id": "0577F253|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Harbinger (<Global=ConfigPriceM> gold)",
+    "string": "Un Heraldo, ¿sí? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Admired_ArchMage",
+    "form_id": "0577F256|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Arch Mage (<Global=ConfigPriceM> gold)",
+    "string": "Un Archimago, quizá? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Admired_MasterBlade",
+    "form_id": "0577F259|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Master Blade (<Global=ConfigPriceM> gold)",
+    "string": "Un Maestro de la Hoja, ¿sí? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Admired_Executioner",
+    "form_id": "0577F25C|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Executioner (<Global=ConfigPriceM> gold)",
+    "string": "Un Verdugo, quizá? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Admired_DragonSlayer",
+    "form_id": "0577F25F|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dragon Slayer (<Global=ConfigPriceM> gold)",
+    "string": "Un Matadragones, ¿sí? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Admired_MageSlayer",
+    "form_id": "0577F262|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Mage Slayer (<Global=ConfigPriceM> gold)",
+    "string": "Un Matamagos, ¿sí? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Admired_UndeadSlayer",
+    "form_id": "0577F265|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Undead Slayer (<Global=ConfigPriceM> gold)",
+    "string": "Un Mata No Muertos, quizá? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hated_Outlaw",
+    "form_id": "0577F268|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Outlaw (<Global=ConfigPriceM> gold)",
+    "string": "Un Forajido, quizá? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hated_Cultist",
+    "form_id": "0577F26B|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Cultist (<Global=ConfigPriceM> gold)",
+    "string": "Un Cultista, ¿sí? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hated_Beguiler",
+    "form_id": "0577F26E|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Beguiler (<Global=ConfigPriceM> gold)",
+    "string": "Un Seductor, ¿sí? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hated_Ravager",
+    "form_id": "0577F271|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ravager (<Global=ConfigPriceM> gold)",
+    "string": "Un Devastador, ¿hmm? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hated_Prowler",
+    "form_id": "0577F274|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Prowler (<Global=ConfigPriceM> gold)",
+    "string": "Un Merodeador, ¿sí? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hated_Fiend",
+    "form_id": "0577F277|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Fiend (<Global=ConfigPriceM> gold)",
+    "string": "Un Demonio, ¿sí? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hated_Warlock",
+    "form_id": "0577F27A|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Warlock (<Global=ConfigPriceM> gold)",
+    "string": "Un Brujo, ¿hmm? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hated_Necromage",
+    "form_id": "0577F27D|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Necromage (<Global=ConfigPriceM> gold)",
+    "string": "Un Nigromago, ¿hmm? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hated_Nightstalker",
+    "form_id": "0577F280|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Nightstalker (<Global=ConfigPriceM> gold)",
+    "string": "Un Acechador Nocturno, ¿sí? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hated_Shapeshifter",
+    "form_id": "0577F283|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Shapeshifter (<Global=ConfigPriceM> gold)",
+    "string": "Un Cambiaformas, ¿sí? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hated_Assassin",
+    "form_id": "0577F286|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Assassin (<Global=ConfigPriceM> gold)",
+    "string": "Un Asesino, quizá? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hated_Rogue",
+    "form_id": "0577F289|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Rogue (<Global=ConfigPriceM> gold)",
+    "string": "Un Pícaro, ¿sí? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hated_Marauder",
+    "form_id": "0577F28C|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Marauder (<Global=ConfigPriceM> gold)",
+    "string": "Un Merodeador, ¿sí? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_LabelOptions_Hated_Murderer",
+    "form_id": "0577F28F|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Murderer (<Global=ConfigPriceM> gold)",
+    "string": "Un Homicida, ¿sí? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_RepAlt_Fame_Lvl1",
+    "form_id": "0577F298|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want to be mostly unknown (<Global=ConfigFameS> gold)",
+    "string": "<Alias=Player> desea ser casi un desconocido, ¿hmm? (<Global=ConfigFameS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_RepAlt_Fame_Lvl2",
+    "form_id": "0577F29A|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want to be a little famous (<Global=ConfigFameM> gold)",
+    "string": "<Alias=Player> desea ser un poco famoso, ¿hmm? (<Global=ConfigFameM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_RepAlt_Fame_Lvl3",
+    "form_id": "0577F29C|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want to be somewhat famous (<Global=ConfigFameL> gold)",
+    "string": "<Alias=Player> desea ser moderadamente famoso, ¿hmm? (<Global=ConfigFameL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_RepAlt_Fame_Lvl4",
+    "form_id": "0577F29E|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want to be very famous (<Global=ConfigFameXL> gold)",
+    "string": "<Alias=Player> desea ser muy famoso, ¿hmm? (<Global=ConfigFameXL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_RepAlt_BetterRep_Small",
+    "form_id": "0577F2A9|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "A little better (<Global=ConfigPriceS> gold)",
+    "string": "Un Poco Mejor... (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_RepAlt_BetterRep_Medium",
+    "form_id": "0577F2AB|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Moderately better (<Global=ConfigPriceM> gold)",
+    "string": "Moderadamente Mejor. (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_RepAlt_BetterRep_Large",
+    "form_id": "0577F2AD|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Much better (<Global=ConfigPriceL> gold)",
+    "string": "Mucho Mejor, sí. (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_RepAlt_WorseRep_Small",
+    "form_id": "0577F2B7|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "A little worse (<Global=ConfigPriceS> gold)",
+    "string": "Un Poco Peor... (<Global=ConfigPriceS> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_RepAlt_WorseRep_Medium",
+    "form_id": "0577F2B9|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Moderately worse (<Global=ConfigPriceM> gold)",
+    "string": "Moderadamente Peor. (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_RepAlt_WorseRep_Large",
+    "form_id": "0577F2BB|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Much worse (<Global=ConfigPriceL> gold)",
+    "string": "Mucho Peor... (<Global=ConfigPriceL> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_RepAlt_ReduceStat_Crime",
+    "form_id": "057843C6|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Criminal activities (<Global=ConfigPriceM> gold)",
+    "string": "¿Las Actividades Criminales de <Alias.PronounPosObj=Player>, quizá? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_RepAlt_ReduceStat_VampWere",
+    "form_id": "057843C7|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Vampire and Werewolf suspicions (<Global=ConfigPriceM> gold)",
+    "string": "¿Las Sospechas de Vampirismo y Licantropía de <Alias.PronounPosObj=Player>, quizá? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_MCM_Replacer_RepAlt_ReduceStat_Magic",
+    "form_id": "057843C8|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Improper magic use (<Global=ConfigPriceM> gold)",
+    "string": "¿El Uso Indebido de la Magia por parte de <Alias.PronounPosObj=Player>, quizá? (<Global=ConfigPriceM> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Note_ReachBounty_Cleared",
+    "form_id": "055DA162|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Reach bounty cleared by the Silver-Bloods",
+    "string": "La recompensa de La Cuenca ha sido eliminada por los Silver-Bloods...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Worshipped3",
+    "form_id": "05290778|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Tales of your heroism prevails.",
+    "string": "T[Rep +2] ¡Khajiit tiene historias que cuentan el heroísmo de <Alias.PronounPosObj=Player>!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Admired1",
+    "form_id": "0520284F|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You've gained people's admiration.",
+    "string": "[Rep +1] Khajiit es admirado por la población local...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Hated1",
+    "form_id": "05202852|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your infamy has deepened.",
+    "string": "[Rep -1] Khajiit es aún más infame...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Neutral2",
+    "form_id": "051EE442|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your reputation worsened slightly.",
+    "string": "[Rep +1] Khajiit no es considerado una gran figura...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Disliked1",
+    "form_id": "051EE43E|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You're gaining notoriety.",
+    "string": "[Rep -1] Khajiit se ha vuelto más notorio...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Feared1",
+    "form_id": "051EE440|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your name is spoken with terror and spite.",
+    "string": "[Rep -1] ¡El nombre de Khajiit es pronunciado con terror y desprecio!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Liked3",
+    "form_id": "05290779|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your reputation improved significantly.",
+    "string": "[Rep +2] ¡Khajiit ha recibido un gran aumento de reputación!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Worshipped1",
+    "form_id": "05202855|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your name is in the hall of heroes.",
+    "string": "[Rep +1] ¡Khajiit es conocido en el salón de los héroes!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Neutral1",
+    "form_id": "05202854|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your reputation improved slightly.",
+    "string": "[Rep +1] Khajiit es conocido como una persona decente...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Hated2",
+    "form_id": "051EE43F|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your grip of terror lessened.",
+    "string": "[Rep +1] Khajiit inspira menos terror...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Disliked3",
+    "form_id": "0529077C|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your reputation worsened ominously.",
+    "string": "[Rep -2] Khajiit tiene una reputación ominosa...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Admired2",
+    "form_id": "051EE43B|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your good standing diminished.",
+    "string": "[Rep -1] Khajiit ha perdido parte de la admiración que inspiraba...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Liked1",
+    "form_id": "051EE43C|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your reputation is improving.",
+    "string": "[Rep +1] ¡La reputación de Khajiit está mejorando!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Worshipped2",
+    "form_id": "05202856|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are seen as a hero!",
+    "string": "[Rep -1] ¡Khajiit sigue siendo conocido como un héroe!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Hated3",
+    "form_id": "0529077A|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your reputation is tarnished.",
+    "string": "[Rep -2] Khajiit tiene una reputación mancillada...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Disliked2",
+    "form_id": "05202850|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your infamy has lessened.",
+    "string": "[Rep +1] Khajiit es menos infame...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Feared3",
+    "form_id": "0529077B|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You've plummeted into infamy.",
+    "string": "[Rep -2] ¡Khajiit ha caído en la infamia!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Liked2",
+    "form_id": "05202853|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You lost some people's admiration.",
+    "string": "[Rep -1] Khajiit ha perdido parte de la admiración que inspiraba...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Feared2",
+    "form_id": "05202851|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are hated and feared!",
+    "string": "[Rep -1] ¡Khajiit es tanto odiado como temido!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Admired3",
+    "form_id": "0529077D|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your fame has rapidly risen.",
+    "string": "[Rep +2] ¡Khajiit se ha vuelto famoso rápidamente!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SR_Message_Neutral3",
+    "form_id": "05202857|SkyrimReputation_SSE.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "People feel ambivalent about you.",
+    "string": "[Rep +2] Khajiit es considerado una figura ambivalente...",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "editor_id": "WakeNowTopic",
+    "form_id": "03000801|SleepForMeNow.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Wake",
+    "string": "Despertar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000811|SleepForMeNow.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Its time to wake.",
+    "string": "Ya es hora de despertar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000810|SleepForMeNow.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Its time to wake.",
+    "string": "Ya es hora de despertar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300080F|SleepForMeNow.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Its time to wake.",
+    "string": "Ya es hora de despertar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300080E|SleepForMeNow.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Its time to wake.",
+    "string": "Ya es hora de despertar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300080A|SleepForMeNow.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Come on, we'll sleep later",
+    "string": "Vamos, este Khajiit dormirá después.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000809|SleepForMeNow.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Come on, we'll sleep later",
+    "string": "Vamos, este Khajiit dormirá después.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000808|SleepForMeNow.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Come on, we'll sleep later",
+    "string": "Vamos, este Khajiit dormirá después.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000805|SleepForMeNow.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Come on, we'll sleep later",
+    "string": "Vamos, este Khajiit dormirá después.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SleepNowTopic",
+    "form_id": "03000802|SleepForMeNow.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sleep",
+    "string": "Dormir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300080D|SleepForMeNow.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "We should get some shut eye.",
+    "string": "Deberíamos cerrar los ojos un rato.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300080C|SleepForMeNow.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "We should get some shut eye.",
+    "string": "Deberíamos cerrar los ojos un rato.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300080B|SleepForMeNow.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "We should get some shut eye.",
+    "string": "Deberíamos cerrar los ojos un rato.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000807|SleepForMeNow.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "We should get some shut eye.",
+    "string": "Deberíamos cerrar los ojos un rato.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GoNightNight",
+    "form_id": "03000814|SleepForMeNow.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yawn",
+    "string": "Bostezo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000813|SleepForMeNow.esl",
+    "index": 0,
+    "type": "INFO NAM1",
+    "original": "Yawn..",
+    "string": "Bostezo...",
+    "status": "TranslationComplete"
+  }
+]

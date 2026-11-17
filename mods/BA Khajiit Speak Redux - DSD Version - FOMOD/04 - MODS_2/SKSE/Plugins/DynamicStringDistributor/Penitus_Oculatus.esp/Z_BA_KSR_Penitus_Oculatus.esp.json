@@ -1,0 +1,452 @@
+[
+  {
+    "editor_id": "zzzPO00JoinTopic",
+    "form_id": "030012D3|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want to join the Penitus Oculatus.",
+    "string": "<Alias=Player> desea unirse a los Penitus Oculatus, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPORadiant01FinishTopic",
+    "form_id": "03003886|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've eliminated the Dark Brotherhood remnant.",
+    "string": "<Alias=Player> ha eliminado los restos de la Hermandad Oscura. Ahora son la Hermandad de la \"Luz\". Esto es gracioso, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO00MissionTopic",
+    "form_id": "0300388B|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Reporting for duty.",
+    "string": "Presentándose para el servicio, sera.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPORadiant01StartTopic",
+    "form_id": "0300388E|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is my mission?",
+    "string": "¿Cuál es la misión, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO01BabetteFinishTopic",
+    "form_id": "03004E1B|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've eliminated <Alias=DarkBrotherhoodRemnant>.",
+    "string": "<Alias=DarkBrotherhoodRemnant> ha sido \"removido\", ¿sí? Junto con su cabeza y varias otras partes del cuerpo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO03CiceroFinishTopic",
+    "form_id": "0300896C|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've eliminated <Alias=DarkBrotherhoodRemnant>.",
+    "string": "<Alias=DarkBrotherhoodRemnant> ha sido \"removido\", ¿sí? Junto con su cabeza y varias otras partes del cuerpo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO03CiceroFinishTopic2",
+    "form_id": "0300896F|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've also learned the passphrase to the Dawnstar Sanctuary.",
+    "string": "Khajiit también ha aprendido la frase de acceso al Santuario de Lucero del Alba, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO01InformantStartTopic",
+    "form_id": "0300AF28|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is my mission?",
+    "string": "¿Cuál es la misión, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO01InformantSurrenderTopic4",
+    "form_id": "0300AF2F|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Keep talking.",
+    "string": "¿Qué sabes exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO01InformantInfoTopic1",
+    "form_id": "0300AF36|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We've arrived.",
+    "string": "Khajiit ha llegado. ¿Acaso extrañaste a <Alias.PronounObj=Player>, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO01InformantSurrenderTopic5",
+    "form_id": "0300AF37|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Go on.",
+    "string": "Los oídos de Khajiit están escuchando...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO01InformantSurrenderTopic3",
+    "form_id": "0300B4A3|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you know?",
+    "string": "¡Más despacio! ¡Khajiit no pretende hacerte daño!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO00InformantFollowerTopic1",
+    "form_id": "0300BF70|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You have proven your worth, but what will you do now?",
+    "string": "Has demostrado tu valía, amigo. ¿Qué harás ahora, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300BF71|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I was wondering if I can join the Penitus Oculatus. My skills are suited for your line of work. Besides, I really have nowhere else to go.",
+    "string": "No tengo ningún otro lugar adonde ir.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO00ForceGreetExplain1",
+    "form_id": "0300BF7D|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can explain...",
+    "string": "<Alias=Player> explicará esto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO00ForceGreetExplain2",
+    "form_id": "0300BF7F|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This person can offer valuable intel regarding Dark Brotherhood activity.",
+    "string": "Podrían ofrecer información valiosa sobre la actividad de la Hermandad Oscura, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO00InformantFollowerTopic2",
+    "form_id": "0300C4E5|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sure, you can join the Penitus Oculatus. Your skills can prove valuable.",
+    "string": "Podrías quedarte con los Penitus Oculatus, amigo. ¡Serías un recurso invaluable, en efecto!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO00BlackDoorResponse1",
+    "form_id": "0300CFB1|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Innocence, my Brother.",
+    "string": "Inocencia, hermano.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300CFB5|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Innocence, my Brother",
+    "string": "Inocencia, hermano.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO00BlackDoorResponse2",
+    "form_id": "0300CFB2|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Um... The one where you saw a lady in half?",
+    "string": "Umm... ¿La de cuando partiste a alguien por la mitad, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO00BlackDoorResponse3",
+    "form_id": "0300CFB3|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Being happily married?",
+    "string": "¿Felizmente emparejado, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO00BlackDoorResponse4",
+    "form_id": "0300CFB4|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dreams are reality, and reality is really a dream?",
+    "string": "Los sueños son realmente una realidad, y la realidad es realmente un sueño, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO04SanctuaryFinishTopic",
+    "form_id": "0300DA81|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've cleared out the Dark Brotherhood remnant at The <Alias=Location>.",
+    "string": "Khajiit ha limpiado los restos de la Hermandad Oscura en El <Alias=Location>. Eran como insectos sobre un escudo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO04SanctuaryFinishTopic2",
+    "form_id": "0300DA85|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've also uncovered evidence for a plot to assassinate the emperor.",
+    "string": "¡<Alias=Player> también ha descubierto pruebas de un complot para asesinar al Emperador Imperial!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO05AmaundMotierreFinishTopic",
+    "form_id": "0300DFEE|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've eliminated <Alias=Target>.",
+    "string": "Khajiit ha eliminado a <Alias=Target> como se acordó, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPOTortureVictimsRescueTopic",
+    "form_id": "03011B71|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am here to rescue you.",
+    "string": "¡Khajiit ha venido a rescatarte!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPOTortureVictimsNoRescueTopic",
+    "form_id": "03011B76|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd rather keep you chained up.",
+    "string": "<Alias=Player> preferiría mantenerte encadenado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPOTortureVictimsAftermathTopic",
+    "form_id": "0301414D|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How are you doing now?",
+    "string": "¿Cómo te encuentras ahora, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO01InformantSurrenderRefuseTopic",
+    "form_id": "0301A7E8|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I do not negotiate with criminals.",
+    "string": "¡<Alias=Player> no negocia con criminales yastozay [sin valor]!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO01InformantFinishKillTopic1",
+    "form_id": "0301A7EB|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've eliminated <Alias=DarkBrotherhoodRemnant>.",
+    "string": "<Alias=DarkBrotherhoodRemnant> ha sido \"removido\", ¿sí? Junto con su cabeza y varias otras partes del cuerpo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO01InformantFinishKillTopic2",
+    "form_id": "0301A7ED|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've also learned the locations of the Dark Brotherhood leadership.",
+    "string": "Este Khajiit también ha aprendido las ubicaciones de los líderes de la Hermandad Oscura. Impresionante, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO01InformantFinishLiveTopic",
+    "form_id": "0301A7EF|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Our informant has given me the locations of the Dark Brotherhood leadership.",
+    "string": "El informante ha proporcionado las ubicaciones de los líderes de la Hermandad Oscura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPORadiant02StartTopic",
+    "form_id": "0301B2C4|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is my mission?",
+    "string": "¿Cuál es la misión, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPORadiant02FinishTopic",
+    "form_id": "0301B2C7|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've eliminated the traitors.",
+    "string": "Este ha aplastado a los traidores traicioneros que estaban... traicionando. Er...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPORadiant03StartTopic",
+    "form_id": "0301B2CD|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is my mission?",
+    "string": "¿Cuál es la misión, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPORadiant03FinishTopic",
+    "form_id": "0301B2CF|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've obtained the documents.",
+    "string": "Khajiit ha obtenido los documentos que deseabas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPORadiant04StartTopic",
+    "form_id": "0301BDA1|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is my mission?",
+    "string": "¿Cuál es la misión, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPORadiant04FinishTopic",
+    "form_id": "0301BDA3|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've eliminated the traiterous noble.",
+    "string": "<Alias=Player> ha borrado de la historia al noble traidor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPORadiant05StartTopic",
+    "form_id": "0301CDD4|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is my mission?",
+    "string": "¿Cuál es la misión, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0301CDD7|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A particular troublesome Thalmor agent has been causing me some headaches lately.",
+    "string": "Esto requerirá sigilo y discreción. Un Thalmor está causándole dolores de cabeza a este Khajiit. Encárgate de ello, en silencio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPORadiant05FinishTopic",
+    "form_id": "0301CDD6|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've eliminated the Thalmor agent.",
+    "string": "El agente Thalmor ha sido tratado, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO00RejoinTopic",
+    "form_id": "0301E8CE|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want to rejoin the Penitus Oculatus.",
+    "string": "Khajiit desea volver a unirse a los Penitus Oculatus, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO00RejoinPayTopic",
+    "form_id": "0301E8D0|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll pay the fine (2000 Gold).",
+    "string": "Khajiit pagará la multa. (2,000 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO00RejoinPayNotEnoughTopic",
+    "form_id": "0301E8D2|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll pay the fine (2000 Gold).",
+    "string": "Khajiit pagará la multa. (2,000 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO00RejoinCancelTopic",
+    "form_id": "0301E8D4|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't want to pay right now.",
+    "string": "Khajiit no desea pagar ahora mismo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPORadiant04ConfrontTopic",
+    "form_id": "0301FE6D|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Time to pay for your crimes. (Show note)",
+    "string": "¡Ha llegado la hora de pagar por tus crímenes! (Mostrar nota)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO00NoJoinTopicContinue",
+    "form_id": "0310DD90|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let me think about it a bit more",
+    "string": "¿Permitirías que este Khajiit reflexione sobre esta decisión un poco más, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO00JoinTopicContinue",
+    "form_id": "0310DD91|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, I want to join",
+    "string": "Khajiit desea unirse, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPORadiant03",
+    "form_id": "0301B2CB|Penitus_Oculatus.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've obtained the documents.",
+    "string": "Khajiit ha obtenido los documentos que deseabas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzPO00JoinMessage",
+    "form_id": "0310DD94|Penitus_Oculatus.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Joining the Penitus Oculatus and ending the civil war in a Stormcloak victory will cause hostile Stormcloak and Penitus Oculatus soldiers to fight in Dragon Bridge, causing immersion issues. Joining now leaves this possibility open.\r\n\r\nDo you want to join the Penitus Oculatus right now?",
+    "string": "Unirse a los Penitus Oculatus y poner fin a la guerra civil con una victoria de los Capas de la Tormenta hará que soldados hostiles de los Capas de la Tormenta y de los Penitus Oculatus luchen en Puente del Dragón, causando problemas de inmersión. Unirse ahora deja abierta esta posibilidad.\r\n\r\n¿Desea Khajiit unirse a los Penitus Oculatus ahora mismo, quizás?",
+    "status": "TranslationComplete"
+  }
+]

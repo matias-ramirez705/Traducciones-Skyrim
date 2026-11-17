@@ -1,0 +1,47 @@
+[
+  {
+    "editor_id": "DialogueGenericVigilantsOfStendarrCureDiseaseTopic",
+    "form_id": "000CC839|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Please cure me.",
+    "string": "Este Khajiit pide cura, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_InnWaterTopic",
+    "form_id": "0500EB46|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like some water. (<Global=RND_InnWaterCost> gold)",
+    "string": "A este le gustaría un poco de agua. (<Global=RND_InnWaterCost> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_InnWaterAllBottlesTopic",
+    "form_id": "0504090B|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need these empties filled. Water, please. (<Global=RND_InnWaterCostAll> gold each)",
+    "string": "Estos recipientes vacíos necesitan ser llenados. Agua, si eres tan amable. (<Global=RND_InnWaterCostAll> septims cada uno)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "iWant_SpilledWaterMessage",
+    "form_id": "0706FE2F|iWant RND for CACO.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I spilled some water.",
+    "string": "¡Ziss! Se derramó un poco de agua...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "iWant_ActivatorFillMessage",
+    "form_id": "07074F30|iWant RND for CACO.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I rinsed and filled my containers.",
+    "string": "¡Todos los recipientes están enjuagados y llenos!",
+    "status": "TranslationComplete"
+  }
+]

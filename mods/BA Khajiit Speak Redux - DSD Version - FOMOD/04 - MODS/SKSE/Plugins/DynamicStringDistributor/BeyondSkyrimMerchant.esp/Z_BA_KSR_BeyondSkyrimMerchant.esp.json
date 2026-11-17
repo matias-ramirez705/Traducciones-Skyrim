@@ -1,0 +1,713 @@
+[
+  {
+    "editor_id": "BSMDialogue_SaleTopic",
+    "form_id": "040070A8|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you have for sale?",
+    "string": "¿Qué tiene para vender este Khajiit, amigo? ¿Quizás algo brillante y en oferta?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogue_RumoursTopic",
+    "form_id": "040070AE|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You travel a lot. You must hear some interesting rumors.",
+    "string": "Seguramente tus oídos han escuchado muchos rumores interesantes en tus viajes, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogue_Elsweyr",
+    "form_id": "04007612|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's going on in Elsweyr?",
+    "string": "¿Qué sucede en Elsweyr, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogue_IB",
+    "form_id": "0400761D|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Anything new in the Iliac Bay?",
+    "string": "¿Qué hay de nuevo en Bahía de Iliac, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogue_Morrowind",
+    "form_id": "04007629|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm curious about Morrowind.",
+    "string": "Este Khajiit siente curiosidad por Morrowind.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400762E|BeyondSkyrimMerchant.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Dagon Fel is a town. Bal'Sehrma is a pile of scrapwood, fish and convicts trying to dress as a town.",
+    "string": "Dagon Fel es un pueblo. Bal'Sehrma es un montón de madera podrida, peces y convictos intentando parecer un pueblo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogue_Cyro",
+    "form_id": "04007634|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What news of Cyrodiil?",
+    "string": "¿Ha habido noticias sobre Cyrodiil?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04007636|BeyondSkyrimMerchant.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Though lately the census and excise office there has been wringing me dry of every last Septim. Hmph.",
+    "string": "Aunque últimamente la oficina de censo e impuestos de allí ha exprimido hasta el último septim de este Khajiit. (bufa)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogue_Other",
+    "form_id": "04007642|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Heard anything about more... exotic locales?",
+    "string": "¿Sabes algo sobre algunos de los lugares más... 'exóticos', amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04007643|BeyondSkyrimMerchant.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "(sigh) But assuming you're sincere... you mean, like, what? Roscrea? I've been there. Atmora? I've heard things.",
+    "string": "(suspira) Pero suponiendo que hablas en serio... te refieres a, ¿qué? ¿Roscrea? Este Khajiit ha estado allí. ¿Atmora? Este ha escuchado cosas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogue_Atm",
+    "form_id": "04007644|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What about Atmora?",
+    "string": "¿Qué hay sobre Atmora, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04007BB3|BeyondSkyrimMerchant.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "And see the writing? It's all written in Ysgramor's runic letters. The symbols are said to carry great meaning - a glimpse into the roots of man.",
+    "string": "¿Y ves la escritura? Está toda escrita con las runas de Ysgramor. Se dice que los símbolos guardan gran significado - un vistazo a las raíces del Hombre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogue_Ros",
+    "form_id": "04007648|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me something about Roscrea.",
+    "string": "Este Khajiit desea saber algo sobre Roscrea, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogue_Akavir",
+    "form_id": "0400764C|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Heard anything about Akavir?",
+    "string": "¿Han escuchado tus oídos algo sobre Akavir, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogue_Back",
+    "form_id": "04007BB7|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Actually, I wanted to ask more about the provinces.",
+    "string": "Este Khajiit siente curiosidad por las provincias...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04007BC5|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Welcome, welcome! Cardana Pallo, traveling purveyor of knicknacks, curios and whatever takes my fancy, at your service.",
+    "string": "¡Bienvenido, bienvenido! Cardana Pallo, comerciante viajera de baratijas, curiosidades y lo que le apetezca, a su servicio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04018FEA|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Kun Nordi ehngn!oko...",
+    "string": "Kun Nordi ehngn! oko...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04007BD0|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That looks uncomfortable... how about you stand up and use those Septims instead?",
+    "string": "Eso parece incómodo... ¿qué tal si te pones de pie y usas esos septims en su lugar?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogue_Return",
+    "form_id": "040118F6|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Enough questions for now.",
+    "string": "Este Khajiit ya ha hecho suficientes preguntas, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueAtlMeetAgonianA",
+    "form_id": "04018FA8|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Truko, my Jel is a bit rusty.",
+    "string": "Truko, este Khajiit es muy torpe con el idioma Jel. Disculpas, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueAtlMeetArgonianB",
+    "form_id": "04018FAA|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tein antuko. Eix teisi kichokang.",
+    "string": "Kiz kha'jay aqir jer draqo [Que las Lunas iluminen tu camino].",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueAtlBranch1Topic",
+    "form_id": "04018FAD|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's quite the name, what does it mean?",
+    "string": "¡Ese es un nombre impresionante, sin duda! ¿Qué significa exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04018FAE|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmph, not many ask about my name. It means Wandering-But-Found, and it is the third name I have carried.",
+    "string": "(bufa) No muchos preguntan por el nombre de este Khajiit. Significa \"Errante-Pero-Encontrado\", y es el tercer nombre que ha llevado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueAtlBranch1A",
+    "form_id": "04018FAF|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Third? You've had to change names?",
+    "string": "¿Tercero, hmm? Este Khajiit siente curiosidad de por qué tuviste que cambiar tu nombre tantas veces, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueAtlBranch1B",
+    "form_id": "04018FB1|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What were your other names?",
+    "string": "Este Khajiit siente curiosidad... ¿cuáles fueron tus otros nombres, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueAtlBranch1C",
+    "form_id": "04018FB3|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Change isn't always a good thing.",
+    "string": "Este Khajiit ha descubierto que el cambio no siempre es rentable, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueAtlBranch2Topic",
+    "form_id": "04018FB6|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you from Black Marsh?",
+    "string": "Eres de Ciénaga Negra, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueAtlBranch2A",
+    "form_id": "04018FB8|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Path of the Wisperill?",
+    "string": "¿Camino del Wisperill, hmm? ¿Qué es esto?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueAtlBranch2A1",
+    "form_id": "04018FBA|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who are the Thirteen?",
+    "string": "¿Quiénes son los Trece, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueAtlBranch2A2",
+    "form_id": "04018FBC|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That seems lonely.",
+    "string": "Ese parece ser un camino solitario, sin duda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueAtlBranch2A3",
+    "form_id": "04018FBE|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm sorry to hear that.",
+    "string": "Es una tristeza para los oídos de este Khajiit escuchar eso, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04018FBF|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sorry? (chuckle) I can tell you were raised away from the Atlebnahk!",
+    "string": "¿Perdón? (ríe) ¡Este Khajiit puede notar que creciste lejos del Atlebnahk!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueAtlBranch2B",
+    "form_id": "04018FC0|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How long have you been away from home?",
+    "string": "¿Cuánto tiempo has estado lejos de tu hogar, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueAtlBranch3Topic",
+    "form_id": "04018FC3|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You travel a lot. You must hear some interesting rumors.",
+    "string": "Seguramente tus oídos han escuchado muchos rumores interesantes en tus viajes, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueAltBranch3Exit",
+    "form_id": "04018FC5|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's enough for now.",
+    "string": "Muchas gracias, amigo. Eso es todo por ahora.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueAtlBranch3IB",
+    "form_id": "04018FC7|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Anything new in Iliac Bay?",
+    "string": "¿Qué hay de nuevo en Bahía de Iliac, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04018FCB|BeyondSkyrimMerchant.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Though I wonder, who built it? Surely not the priestesses. (chuckle)",
+    "string": "Aunque este Khajiit se pregunta, ¿quién lo construyó? Seguramente no las sacerdotisas. (ríe)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueAtlBranch3MW",
+    "form_id": "04018FCD|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm curious about Morrowind.",
+    "string": "Este Khajiit siente curiosidad por Morrowind.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04018FD2|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The beings the Dunmer worship seem to have all but abandoned them. I cannot say I weep for them, but it is pitiful nonetheless.",
+    "string": "Los seres que los Dunmer adoran parecen haberlos abandonado casi por completo. Este Khajiit no puede decir que sienta pena, pero es lamentable igualmente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueAtlBranch3CYR",
+    "form_id": "04018FCE|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Any news from Cyrodiil?",
+    "string": "¿Alguna noticia desde Cyrodiil, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueAtlBranch3BM",
+    "form_id": "04018FCF|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Could you tell me more about Black Marsh?",
+    "string": "Cuenta a este Khajiit más sobre Ciénaga Negra, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04018FDC|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There is talk of restless Ayleid spirits deep in the ancient Barsaebic ruins. Some claim to hear the wails of the dead elves in the night.",
+    "string": "Se habla de espíritus Ayleid inquietos en lo profundo de las antiguas ruinas Barsaebic. Algunos afirman escuchar los lamentos de los Elfos muertos en la noche.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04018FE0|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Have you ever heard of the Paatru? Squat toad-like argonians that seek self-abolition through inner peace. They almost never leave the Atlebnahk.",
+    "string": "¿Alguna vez has oído hablar de los Paatru? Argonianos bajos con forma de sapo que buscan la autoaniquilación mediante la paz interior. Casi nunca abandonan el Atlebnahk.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogue_Blackmarsh",
+    "form_id": "04024B39|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What can you tell me about Black Marsh?",
+    "string": "Cuenta a este Khajiit todo sobre Ciénaga Negra, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04024B3B|BeyondSkyrimMerchant.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Have to wonder whether or not the An-Xileel are responsible.  Disturbing news either way.",
+    "string": "Este Khajiit se pregunta si los An-Xileel son responsables. Noticias inquietantes de cualquier forma.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueOlmstead1Topic",
+    "form_id": "04024B47|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you the captain of this ship?",
+    "string": "¿Eres el capitán de este barco, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueOlmstead2Topic",
+    "form_id": "04024B4A|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened to the Celestine?",
+    "string": "¿Qué ocurrió con el Celestine, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueOlmstead3Topic",
+    "form_id": "04024B4D|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me something about High Rock.",
+    "string": "Cuenta a este Khajiit algo sobre Roca Alta, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueOlmstead3A",
+    "form_id": "04024B4F|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What about High Rock in general?",
+    "string": "¿Qué tal algo de información general sobre Roca Alta, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueOlmstead3B",
+    "form_id": "04024B51|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The land, definitely.",
+    "string": "Eso es simple para este Khajiit - la tierra, sí. El pelaje húmedo y los vientos secos del océano hacen que este Khajiit se estremezca de desesperación.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueOlmstead3C",
+    "form_id": "04024B53|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The sea.",
+    "string": "El mar, sí. Este Khajiit es conocido como un 'gato del mar'. Eso es bastante 'salado', ¿no? (ríe)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueOlmstead3D",
+    "form_id": "04024B55|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm not sure I could choose.",
+    "string": "Este Khajiit no está seguro de cuál <Alias.Pronoun=Player> elegiría.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueOlmstead4Topic",
+    "form_id": "04024B58|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What are your thoughts on Hammerfell?",
+    "string": "¿Cuáles son tus pensamientos sobre Páramo del Martillo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueOlmstead4A",
+    "form_id": "04024B5A|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Anything else?",
+    "string": "¿Hay algo más en lo que este Khajiit pueda ayudar, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04024B5D|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mhm.",
+    "string": "Mm-hmm.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueOlmstead5Topic",
+    "form_id": "04024B5F|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have you ever visited Morrowind?",
+    "string": "¿Has visitado Morrowind alguna vez, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04024B60|BeyondSkyrimMerchant.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The sea was still as glass, and that great smouldering mountain had dropped a carpet of ash all over it.",
+    "string": "El mar estaba quieto como el cristal, y aquella gran montaña humeante había cubierto todo con una alfombra de ceniza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueOlmstead6Topic",
+    "form_id": "04024B64|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you know anything about Black Marsh?",
+    "string": "¿Tienes alguna información sobre Ciénaga Negra, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueOlmstead7Topic",
+    "form_id": "04024B67|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What about Cyrodiil?",
+    "string": "¿Qué hay sobre Cyrodiil, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueOlmstead8Topic",
+    "form_id": "04024B6C|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me about other places you've been.",
+    "string": "Cuenta a este Khajiit sobre otros lugares que has visitado, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04024B6E|BeyondSkyrimMerchant.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The disagreements come down to the smallest detail, like whether you call Fenrald a king or a jarl. It's not for me, that's for sure.",
+    "string": "Los desacuerdos se reducen al más mínimo detalle, como si llamas a Fenrald rey o jarl. No es para este Khajiit, eso seguro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04027A63|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmhm.",
+    "string": "Mm-hmm.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueGaron1Topic",
+    "form_id": "04027A4B|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So what's your story?",
+    "string": "Entonces, ¿cuál es tu emocionante historia de aventuras, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueGaron1A",
+    "form_id": "04027A53|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's it?",
+    "string": "Esta no es una historia impresionante ni emocionante en absoluto, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueGaron1B",
+    "form_id": "04027A55|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Message received.",
+    "string": "Este Khajiit entiende, sí. <Alias.PronounCap=Player> mantendrá sus garras visibles, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04027A56|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmhm.",
+    "string": "Mm-hmm.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueGaron2Topic",
+    "form_id": "04027A58|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you like it here on the ship?",
+    "string": "¿Disfrutas tu tiempo en este barco, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueGaron3Topic",
+    "form_id": "04027A5B|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You travel a lot. You must hear some interesting rumors.",
+    "string": "Seguramente tus oídos han escuchado muchos rumores interesantes en tus viajes, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueGaron3IB",
+    "form_id": "04027A5D|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Anything new in the Iliac Bay?",
+    "string": "¿Qué hay de nuevo en Bahía de Iliac, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueGaron3MW",
+    "form_id": "04027A5E|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm curious about Morrowind.",
+    "string": "Este Khajiit siente curiosidad por Morrowind.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueGaron3CYR",
+    "form_id": "04027A5F|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Any news from Cyrodiil?",
+    "string": "¿Alguna noticia desde Cyrodiil, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueGaron3BM",
+    "form_id": "04027A60|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What can you tell me about Black Marsh?",
+    "string": "Cuenta a este Khajiit todo sobre Ciénaga Negra, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueGaron3Back",
+    "form_id": "04027A62|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's enough for now.",
+    "string": "Muchas gracias, amigo. Eso es todo por ahora.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04027AA6|BeyondSkyrimMerchant.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "To me, you may say \"Tein antuko,\" it is enough.",
+    "string": "A este Khajiit puedes decirle \"Tein antuko\", es suficiente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04027AAA|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(sigh)",
+    "string": "(suspira)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04027AC4|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(sigh)",
+    "string": "(suspira)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueOlmsteadRumorsTopic",
+    "form_id": "0402D85C|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me about your travels abroad.",
+    "string": "Cuenta a este Khajiit todo sobre tus viajes al extranjero, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueOlmsteadRumorsExit",
+    "form_id": "0402D85F|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've heard enough.",
+    "string": "Eso es suficiente por ahora, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSMDialogueAtlMeetArgonianC",
+    "form_id": "0403C251|BeyondSkyrimMerchant.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sorry. I don't know our tongue.",
+    "string": "Disculpas, pero este Khajiit no habla el idioma de los Argonianos, amigo.",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,2873 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with XIMOD Architect 2.3.0 [https://www.nexusmods.com/site/mods/2141] -->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
+	<moduleName>BA Khajiit Speak Redux ES - DSD Version</moduleName>
+	<installSteps order="Explicit">
+		<installStep name="MAIN">
+			<optionalFileGroups>
+				<group name="Main" type="SelectExactlyOne">
+					<plugins order="Explicit">
+						<plugin name="Main">
+							<description></description>
+							<files>
+								<folder source="02 - MAIN" destination="" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+		<installStep name="Creation Club (CC)">
+			<optionalFileGroups>
+				<group name="Creation Club (CC)" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Ghosts of the Tribunal">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccasvsse001-almsivi.esm" destination="SKSE\Plugins\DynamicStringDistributor\ccasvsse001-almsivi.esm" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccasvsse001-almsivi.esm" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccasvsse001-almsivi.esm" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Fishing">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse001-fish.esm" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse001-fish.esm" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse001-fish.esm" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse001-fish.esm" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Goldbrand">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse005-goldbrand.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse005-goldbrand.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse005-goldbrand.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse005-goldbrand.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Sunder and Wraithguard">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse008-wraithguard.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse008-wraithguard.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse008-wraithguard.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse008-wraithguard.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Dawnfang and Duskfang">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse013-dawnfang.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse013-dawnfang.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse013-dawnfang.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse013-dawnfang.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Umbra">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse016-umbra.esm" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse016-umbra.esm" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse016-umbra.esm" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse016-umbra.esm" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Shadowrend">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse018-shadowrend.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse018-shadowrend.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse018-shadowrend.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse018-shadowrend.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="The Gray Cowl Returns!">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse020-graycowl.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse020-graycowl.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse020-graycowl.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse020-graycowl.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Saints and Seducers">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse025-advdsgs.esm" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse025-advdsgs.esm" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse025-advdsgs.esm" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse025-advdsgs.esm" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Dead Man&apos;s Dread">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse031-advcyrus.esm" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse031-advcyrus.esm" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse031-advcyrus.esm" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse031-advcyrus.esm" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Wild Horses">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse034-mntuni.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse034-mntuni.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse034-mntuni.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse034-mntuni.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Nix-Hound">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse035-petnhound.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse035-petnhound.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse035-petnhound.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse035-petnhound.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Bone Wolf">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse036-petbwolf.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse036-petbwolf.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse036-petbwolf.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse036-petbwolf.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Bow of Shadows">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse038-bowofshadows.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse038-bowofshadows.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse038-bowofshadows.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse038-bowofshadows.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Goblins">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse040-advobgobs.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse040-advobgobs.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse040-advobgobs.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse040-advobgobs.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Netch Leather Armor">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse041-netchleather.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse041-netchleather.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse041-netchleather.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse041-netchleather.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Alternative Armors - Daedric Mail">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse051-ba_daedricmail.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse051-ba_daedricmail.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse051-ba_daedricmail.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse051-ba_daedricmail.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Alternative Armors - Orcish Scaled">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse055-ba_orcishscaled.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse055-ba_orcishscaled.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse055-ba_orcishscaled.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse055-ba_orcishscaled.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Alternative Armors - Ebony Plate">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse063-ba_ebony.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse063-ba_ebony.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse063-ba_ebony.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse063-ba_ebony.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="The Cause">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse067-daedinv.esm" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse067-daedinv.esm" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse067-daedinv.esm" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse067-daedinv.esm" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Headman&apos;s Cleaver">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccbgssse068-bloodfall.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccbgssse068-bloodfall.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse068-bloodfall.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse068-bloodfall.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Redguard Elite Armaments">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccedhsse003-redguard.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccedhsse003-redguard.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccedhsse003-redguard.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccedhsse003-redguard.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Tundra Homestead">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\cceejsse001-hstead.esm" destination="SKSE\Plugins\DynamicStringDistributor\cceejsse001-hstead.esm" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="cceejsse001-hstead.esm" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="cceejsse001-hstead.esm" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Myrwatch">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\cceejsse002-tower.esl" destination="SKSE\Plugins\DynamicStringDistributor\cceejsse002-tower.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="cceejsse002-tower.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="cceejsse002-tower.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Shadowfoot Sanctum">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\cceejsse003-hollow.esl" destination="SKSE\Plugins\DynamicStringDistributor\cceejsse003-hollow.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="cceejsse003-hollow.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="cceejsse003-hollow.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Hendraheim">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\cceejsse004-hall.esl" destination="SKSE\Plugins\DynamicStringDistributor\cceejsse004-hall.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="cceejsse004-hall.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="cceejsse004-hall.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Bloodchill Manor">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\cceejsse005-cave.esm" destination="SKSE\Plugins\DynamicStringDistributor\cceejsse005-cave.esm" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="cceejsse005-cave.esm" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="cceejsse005-cave.esm" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Civil War Champions">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccffbsse001-imperialdragon.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccffbsse001-imperialdragon.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccffbsse001-imperialdragon.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccffbsse001-imperialdragon.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Bittercup">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\cckrtsse001_altar.esl" destination="SKSE\Plugins\DynamicStringDistributor\cckrtsse001_altar.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="cckrtsse001_altar.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="cckrtsse001_altar.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Divine Crusader">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccmtysse001-knightsofthenine.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccmtysse001-knightsofthenine.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccmtysse001-knightsofthenine.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccmtysse001-knightsofthenine.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Vigil Enforcer Armor Set">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccmtysse002-ve.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccmtysse002-ve.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccmtysse002-ve.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccmtysse002-ve.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Survival Mode">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccqdrsse001-survivalmode.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccqdrsse001-survivalmode.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccqdrsse001-survivalmode.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccqdrsse001-survivalmode.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Camping">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccqdrsse002-firewood.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccqdrsse002-firewood.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccqdrsse002-firewood.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccqdrsse002-firewood.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Gallows Hall">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccrmssse001-necrohouse.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccrmssse001-necrohouse.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccrmssse001-necrohouse.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccrmssse001-necrohouse.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Forgotten Seasons">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\cctwbsse001-puzzledungeon.esm" destination="SKSE\Plugins\DynamicStringDistributor\cctwbsse001-puzzledungeon.esm" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="cctwbsse001-puzzledungeon.esm" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="cctwbsse001-puzzledungeon.esm" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Pets of Skyrim">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccvsvsse002-pets.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccvsvsse002-pets.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccvsvsse002-pets.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccvsvsse002-pets.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Farming">
+							<description></description>
+							<files>
+								<folder source="03 - CC\SKSE\Plugins\DynamicStringDistributor\ccvsvsse004-beafarmer.esl" destination="SKSE\Plugins\DynamicStringDistributor\ccvsvsse004-beafarmer.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccvsvsse004-beafarmer.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccvsvsse004-beafarmer.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+		<installStep name="Patchs - 1">
+			<optionalFileGroups>
+				<group name="Unique Patches" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Alternate Start - Live Another Life - SSE">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/272</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\alternate start - live another life.esp" destination="SKSE\Plugins\DynamicStringDistributor\alternate start - live another life.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="alternate start - live another life.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="alternate start - live another life.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Alternate Perspective - Alternate Start">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/50307</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\AlternatePerspective.esp" destination="SKSE\Plugins\DynamicStringDistributor\AlternatePerspective.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="AlternatePerspective.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="AlternatePerspective.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Andromeda - Unique Standing Stones of Skyrim">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/14910</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\Andromeda - Unique Standing Stones of Skyrim.esp" destination="SKSE\Plugins\DynamicStringDistributor\Andromeda - Unique Standing Stones of Skyrim.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Andromeda - Unique Standing Stones of Skyrim.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Andromeda - Unique Standing Stones of Skyrim.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Apocalypse - Magic of Skyrim">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/1090</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\Apocalypse - Magic of Skyrim.esp" destination="SKSE\Plugins\DynamicStringDistributor\Apocalypse - Magic of Skyrim.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Apocalypse - Magic of Skyrim.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Apocalypse - Magic of Skyrim.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Ask Innkeepers To Show Room SE">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/5990</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\CT_AskToShowRoom.esp" destination="SKSE\Plugins\DynamicStringDistributor\CT_AskToShowRoom.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="CT_AskToShowRoom.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="CT_AskToShowRoom.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Aurlyn Dawnstone SSE Edition">
+							<description>https://www.moddb.com/games/skyrim/downloads/aurlyn-dawnstone-sse-edition</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\Aurlyn.esp" destination="SKSE\Plugins\DynamicStringDistributor\Aurlyn.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Aurlyn.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Aurlyn.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Beyond Skyrim - Wares of Tamriel SE">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/31519</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\BeyondSkyrimMerchant.esp" destination="SKSE\Plugins\DynamicStringDistributor\BeyondSkyrimMerchant.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="BeyondSkyrimMerchant.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="BeyondSkyrimMerchant.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Campfire - Complete Camping System">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/667</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\Campfire.esm" destination="SKSE\Plugins\DynamicStringDistributor\Campfire.esm" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Campfire.esm" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Campfire.esm" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="iNeed - Food Water and Sleep - Continued">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/19390</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\iNeed.esp" destination="SKSE\Plugins\DynamicStringDistributor\iNeed.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="iNeed.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="iNeed.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Keep it Clean - A Bathing Mod">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/17846</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\Keep It Clean.esp" destination="SKSE\Plugins\DynamicStringDistributor\Keep It Clean.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Keep It Clean.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Keep It Clean.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="FAMILY LIFE - Immersive Dialogue Expansion - Hearthfire">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/179647</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\IDE Hearthfire.esp" destination="SKSE\Plugins\DynamicStringDistributor\IDE Hearthfire.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="IDE Hearthfire.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="IDE Hearthfire.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Andrealletius Jobs Overhaul (AJO)">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/109363</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\Andrealphus Jobs Overhaul - MASTER.esp" destination="SKSE\Plugins\DynamicStringDistributor\Andrealphus Jobs Overhaul - MASTER.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Andrealphus Jobs Overhaul - MASTER.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Andrealphus Jobs Overhaul - MASTER.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Cathedral Weathers and Seasons">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/24791</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\Cathedral Weathers.esp" destination="SKSE\Plugins\DynamicStringDistributor\Cathedral Weathers.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Cathedral Weathers.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Cathedral Weathers.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Complete Alchemy and Cooking Overhaul">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/19924</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\Complete Alchemy &amp; Cooking Overhaul.esp" destination="SKSE\Plugins\DynamicStringDistributor\Complete Alchemy &amp; Cooking Overhaul.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Complete Alchemy &amp; Cooking Overhaul.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Complete Alchemy &amp; Cooking Overhaul.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Complete Crafting Overhaul Remastered">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/28608</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\complete crafting overhaul_remastered.esp" destination="SKSE\Plugins\DynamicStringDistributor\complete crafting overhaul_remastered.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="complete crafting overhaul_remastered.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="complete crafting overhaul_remastered.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Cutting Room Floor - SSE">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/276</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\cutting room floor.esp" destination="SKSE\Plugins\DynamicStringDistributor\cutting room floor.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="cutting room floor.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="cutting room floor.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Frostfall - Hypothermia Camping Survival">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/671</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\Frostfall.esp" destination="SKSE\Plugins\DynamicStringDistributor\Frostfall.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Frostfall.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Frostfall.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="I&apos;m Glad You&apos;re Here">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/41856</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\ImGladYoureHere.esp" destination="SKSE\Plugins\DynamicStringDistributor\ImGladYoureHere.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ImGladYoureHere.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ImGladYoureHere.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Imperious - Races of Skyrim">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/1315</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\Imperious - Races of Skyrim.esp" destination="SKSE\Plugins\DynamicStringDistributor\Imperious - Races of Skyrim.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Imperious - Races of Skyrim.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Imperious - Races of Skyrim.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Kaidan 2">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/19075</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\0Kaidan.esp" destination="SKSE\Plugins\DynamicStringDistributor\0Kaidan.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="0Kaidan.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="0Kaidan.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+				<group name="Expanded Towns and Cities SSE" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Expanded Towns and Cities SSE - RESOURCES">
+							<description>https://www.afkmods.com/index.php?/files/file/2377-expanded-towns-and-cities-sse/&amp;#13;&amp;#10;
+version 0.7</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\ETaC - RESOURCES.esp" destination="SKSE\Plugins\DynamicStringDistributor\ETaC - RESOURCES.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ETaC - RESOURCES.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ETaC - RESOURCES.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Expanded Towns and Cities SSE - Riverwood">
+							<description>https://www.afkmods.com/index.php?/files/file/2377-expanded-towns-and-cities-sse/&amp;#13;&amp;#10;
+version 0.7</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\ETaC - Riverwood.esp" destination="SKSE\Plugins\DynamicStringDistributor\ETaC - Riverwood.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ETaC - Riverwood.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ETaC - Riverwood.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+				<group name="iWant RND for CACO" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="iWant RND for CACO - Main">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/33227</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\iWant RND for CACO.esp" destination="SKSE\Plugins\DynamicStringDistributor\iWant RND for CACO.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="iWant RND for CACO.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="iWant RND for CACO.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="iWant RND for CACO - Realistic Needs and Diseases">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/33227</description>
+							<files>
+								<folder source="04 - MODS\SKSE\Plugins\DynamicStringDistributor\RealisticNeedsandDiseases.esp" destination="SKSE\Plugins\DynamicStringDistributor\RealisticNeedsandDiseases.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="RealisticNeedsandDiseases.esp" state="Missing"/>
+												<fileDependency file="complete alchemy &amp; cooking overhaul.esp" state="Missing"/>
+												<fileDependency file="complete alchemy &amp; cooking overhaul.esp" state="Inactive"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="RealisticNeedsandDiseases.esp" state="Active"/>
+												<fileDependency file="complete alchemy &amp; cooking overhaul.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+		<installStep name="Patchs - 2">
+			<optionalFileGroups>
+				<group name="Unique Patches" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Konahrik&apos;s Accoutrements">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/22206</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\konahrik_accoutrements.esp" destination="SKSE\Plugins\DynamicStringDistributor\konahrik_accoutrements.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="konahrik_accoutrements.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="konahrik_accoutrements.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Lock Overhaul">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/14927</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\Lock_Overhaul.esp" destination="SKSE\Plugins\DynamicStringDistributor\Lock_Overhaul.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Lock_Overhaul.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Lock_Overhaul.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Missives">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/17576</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\Missives.esp" destination="SKSE\Plugins\DynamicStringDistributor\Missives.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Missives.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Missives.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Lots More Followers for SE">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/20752</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\JNL - Lots More Followers.esp" destination="SKSE\Plugins\DynamicStringDistributor\JNL - Lots More Followers.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="JNL - Lots More Followers.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="JNL - Lots More Followers.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Moon and Star">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/4301</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\MoonAndStar_MAS.esp" destination="SKSE\Plugins\DynamicStringDistributor\MoonAndStar_MAS.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="MoonAndStar_MAS.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="MoonAndStar_MAS.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Moonlight Tales Special Edition">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/2803</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\Moonlight Tales Special Edition.esp" destination="SKSE\Plugins\DynamicStringDistributor\Moonlight Tales Special Edition.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Moonlight Tales Special Edition.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Moonlight Tales Special Edition.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Moonlight Tales Mini">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/85234</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\Moonlight Tales Mini.esp" destination="SKSE\Plugins\DynamicStringDistributor\Moonlight Tales Mini.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Moonlight Tales Mini.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Moonlight Tales Mini.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="More Racism in Windhelm SSE">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/14233</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\WindhelmRacism.esp" destination="SKSE\Plugins\DynamicStringDistributor\WindhelmRacism.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="WindhelmRacism.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="WindhelmRacism.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Nether&apos;s Follower Framework">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/55653</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\nwsFollowerFramework.esp" destination="SKSE\Plugins\DynamicStringDistributor\nwsFollowerFramework.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="nwsFollowerFramework.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="nwsFollowerFramework.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="New Beginnings">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/4939</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\Alternate Start -- New Beginnings.esp" destination="SKSE\Plugins\DynamicStringDistributor\Alternate Start -- New Beginnings.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Alternate Start -- New Beginnings.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Alternate Start -- New Beginnings.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="No to Nocturnal">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/10433</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\TGNoToNocturnal.esp" destination="SKSE\Plugins\DynamicStringDistributor\TGNoToNocturnal.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="TGNoToNocturnal.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="TGNoToNocturnal.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="OMEGA - Heavy Armory">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/18479</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\PrvtI_HeavyArmory.esp" destination="SKSE\Plugins\DynamicStringDistributor\PrvtI_HeavyArmory.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="PrvtI_HeavyArmory.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="PrvtI_HeavyArmory.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Ordinator - Perks of Skyrim">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/1137</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\Ordinator - Perks of Skyrim.esp" destination="SKSE\Plugins\DynamicStringDistributor\Ordinator - Perks of Skyrim.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Ordinator - Perks of Skyrim.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Ordinator - Perks of Skyrim.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Paarthurnax - Quest Expansión">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/51711</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\PaarthurnaxQuestExpansion.esp" destination="SKSE\Plugins\DynamicStringDistributor\PaarthurnaxQuestExpansion.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="PaarthurnaxQuestExpansion.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="PaarthurnaxQuestExpansion.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Penitus Oculatus">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/21061</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\Penitus_Oculatus.esp" destination="SKSE\Plugins\DynamicStringDistributor\Penitus_Oculatus.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Penitus_Oculatus.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Penitus_Oculatus.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Ravengate - Riften Underground">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/12617</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\Ravengate.esp" destination="SKSE\Plugins\DynamicStringDistributor\Ravengate.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Ravengate.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Ravengate.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+				<group name="Missives - Worldspace Additions" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Missives - Beyond Reach">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/26788</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\Missives - Beyond Reach.esp" destination="SKSE\Plugins\DynamicStringDistributor\Missives - Beyond Reach.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Missives - Beyond Reach.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Missives - Beyond Reach.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Missives - Falskaar Patch">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/26788</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\Missives - Falskaar Patch.esp" destination="SKSE\Plugins\DynamicStringDistributor\Missives - Falskaar Patch.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Missives - Falskaar Patch.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Missives - Falskaar Patch.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Missives - Gray Cowl Patch">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/26788</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\Missives - Gray Cowl Patch.esp" destination="SKSE\Plugins\DynamicStringDistributor\Missives - Gray Cowl Patch.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Missives - Gray Cowl Patch.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Missives - Gray Cowl Patch.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Missives - Heartland">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/26788</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\Missives - Heartland.esp" destination="SKSE\Plugins\DynamicStringDistributor\Missives - Heartland.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Missives - Heartland.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Missives - Heartland.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Missives - Midwood Isle">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/26788</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\Missives - Midwood Isle.esp" destination="SKSE\Plugins\DynamicStringDistributor\Missives - Midwood Isle.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Missives - Midwood Isle.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Missives - Midwood Isle.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Missives - Northpoint Patch">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/26788</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\Missives - Northpoint Patch.esp" destination="SKSE\Plugins\DynamicStringDistributor\Missives - Northpoint Patch.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Missives - Northpoint Patch.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Missives - Northpoint Patch.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Missives - Solstheim">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/26788</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\Missives - Solstheim.esp" destination="SKSE\Plugins\DynamicStringDistributor\Missives - Solstheim.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Missives - Solstheim.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Missives - Solstheim.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Missives - Wyrmstooth">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/26788</description>
+							<files>
+								<folder source="04 - MODS_2\SKSE\Plugins\DynamicStringDistributor\Missives - Wyrmstooth.esp" destination="SKSE\Plugins\DynamicStringDistributor\Missives - Wyrmstooth.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Missives - Wyrmstooth.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Missives - Wyrmstooth.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+		<installStep name="Patchs - 3">
+			<optionalFileGroups>
+				<group name="Unique Patches" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Train with me">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/184708</description>
+							<files>
+								<folder source="04 - MODS_3\Trainwithme.esp" destination="SKSE\Plugins\DynamicStringDistributor\Trainwithme.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Trainwithme.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Trainwithme.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Realistic Needs and Diseases">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/3487</description>
+							<files>
+								<folder source="04 - MODS_3\RealisticNeedsandDiseases.esp" destination="SKSE\Plugins\DynamicStringDistributor\RealisticNeedsandDiseases.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="RealisticNeedsandDiseases.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="RealisticNeedsandDiseases.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Sacrosanct - Vampires of Skyrim">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/3928</description>
+							<files>
+								<folder source="04 - MODS_3\Sacrosanct - Vampires of Skyrim.esp" destination="SKSE\Plugins\DynamicStringDistributor\Sacrosanct - Vampires of Skyrim.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Sacrosanct - Vampires of Skyrim.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Sacrosanct - Vampires of Skyrim.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Serana Dialogue Edit">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/16222</description>
+							<files>
+								<folder source="04 - MODS_3\Serana Dialogue Edit.esp" destination="SKSE\Plugins\DynamicStringDistributor\Serana Dialogue Edit.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Serana Dialogue Edit.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Serana Dialogue Edit.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Serenity - A Silent Moons Camp Overhaul">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/30019</description>
+							<files>
+								<folder source="04 - MODS_3\SailorMoonClub.esp" destination="SKSE\Plugins\DynamicStringDistributor\SailorMoonClub.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="SailorMoonClub.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="SailorMoonClub.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Shadows of the past SSE">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/4564</description>
+							<files>
+								<folder source="04 - MODS_3\AKShadowsOfThePast.esm" destination="SKSE\Plugins\DynamicStringDistributor\AKShadowsOfThePast.esm" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="AKShadowsOfThePast.esm" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="AKShadowsOfThePast.esm" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Sidequests of Skyrim">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/54245</description>
+							<files>
+								<folder source="04 - MODS_3\Sidequests of Skyrim.esp" destination="SKSE\Plugins\DynamicStringDistributor\Sidequests of Skyrim.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Sidequests of Skyrim.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Sidequests of Skyrim.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Simply Knock SE">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/14098</description>
+							<files>
+								<folder source="04 - MODS_3\SimplyKnock.esp" destination="SKSE\Plugins\DynamicStringDistributor\SimplyKnock.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="SimplyKnock.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="SimplyKnock.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Skyrim Reputation">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/22374</description>
+							<files>
+								<folder source="04 - MODS_3\SkyrimReputation_SSE.esp" destination="SKSE\Plugins\DynamicStringDistributor\SkyrimReputation_SSE.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="SkyrimReputation_SSE.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="SkyrimReputation_SSE.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Skyrim Sewers 4">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/9320</description>
+							<files>
+								<folder source="04 - MODS_3\SkyrimSewers.esp" destination="SKSE\Plugins\DynamicStringDistributor\SkyrimSewers.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="SkyrimSewers.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="SkyrimSewers.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Skyrims Unique Treasures">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/5261</description>
+							<files>
+								<folder source="04 - MODS_3\SkyrimsUniqueTreasures.esp" destination="SKSE\Plugins\DynamicStringDistributor\SkyrimsUniqueTreasures.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="SkyrimsUniqueTreasures.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="SkyrimsUniqueTreasures.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Sleep for me now">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/40956
+
+-&gt; SleepForMeNow.esl 
+
+no SleepForMeNow.esp</description>
+							<files>
+								<folder source="04 - MODS_3\SleepForMeNow.esl" destination="SKSE\Plugins\DynamicStringDistributor\SleepForMeNow.esl" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="SleepForMeNow.esl" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="SleepForMeNow.esl" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Sneak Tools">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/1863</description>
+							<files>
+								<folder source="04 - MODS_3\Sneak Tools.esp" destination="SKSE\Plugins\DynamicStringDistributor\Sneak Tools.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Sneak Tools.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Sneak Tools.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+				<group name="Song of the Green" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Song of the Green (main)">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/11278</description>
+							<files>
+								<folder source="04 - MODS_3\018Auri.esp" destination="SKSE\Plugins\DynamicStringDistributor\018Auri.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="018Auri.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="018Auri.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Kaidan Banter Patch">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/11278</description>
+							<files>
+								<folder source="04 - MODS_3\018AuriKaidanBanter.esp" destination="SKSE\Plugins\DynamicStringDistributor\018AuriKaidanBanter.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="018AuriKaidanBanter.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="018AuriKaidanBanter.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Inigo Banter patch - sfts fix">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/11278</description>
+							<files>
+								<folder source="04 - MODS_3\018InigoBanterPatch.esp" destination="SKSE\Plugins\DynamicStringDistributor\018InigoBanterPatch.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="018InigoBanterPatch.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="018InigoBanterPatch.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+		<installStep name="Patchs - 4">
+			<optionalFileGroups>
+				<group name="Unique Patches" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="The Secrets of Arc Cyrae">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/10888</description>
+							<files>
+								<folder source="04 - MODS_4\Arc_Cyrae.esp" destination="SKSE\Plugins\DynamicStringDistributor\Arc_Cyrae.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Arc_Cyrae.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="Arc_Cyrae.esp" state="Inactive"/>
+												<fileDependency file="Arc_Cyrae.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Stealth Kills for Followers">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/209</description>
+							<files>
+								<folder source="04 - MODS_4\Followers_StealthKills.esp" destination="SKSE\Plugins\DynamicStringDistributor\Followers_StealthKills.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Followers_StealthKills.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="Followers_StealthKills.esp" state="Inactive"/>
+												<fileDependency file="Followers_StealthKills.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="The Forgotten Island">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/6640</description>
+							<files>
+								<folder source="04 - MODS_4\ForgottenIsland.esp" destination="SKSE\Plugins\DynamicStringDistributor\ForgottenIsland.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ForgottenIsland.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="ForgottenIsland.esp" state="Inactive"/>
+												<fileDependency file="ForgottenIsland.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="TES V - Hunt of Hircine">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/16918</description>
+							<files>
+								<folder source="04 - MODS_4\HoH.esp" destination="SKSE\Plugins\DynamicStringDistributor\HoH.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="HoH.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="HoH.esp" state="Inactive"/>
+												<fileDependency file="HoH.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="The Notice Board SE">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/3218</description>
+							<files>
+								<folder source="04 - MODS_4\notice board.esp" destination="SKSE\Plugins\DynamicStringDistributor\notice board.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="notice board.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="notice board.esp" state="Inactive"/>
+												<fileDependency file="notice board.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Summermyst - Enchantments of Skyrim">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/6285</description>
+							<files>
+								<folder source="04 - MODS_4\Summermyst - Enchantments of Skyrim.esp" destination="SKSE\Plugins\DynamicStringDistributor\Summermyst - Enchantments of Skyrim.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Summermyst - Enchantments of Skyrim.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="Summermyst - Enchantments of Skyrim.esp" state="Inactive"/>
+												<fileDependency file="Summermyst - Enchantments of Skyrim.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Tactical Valtheim">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/9101</description>
+							<files>
+								<folder source="04 - MODS_4\TacticalValtheim.esp" destination="SKSE\Plugins\DynamicStringDistributor\TacticalValtheim.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="TacticalValtheim.esp" state="Inactive"/>
+												<fileDependency file="TacticalValtheim.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Tavern Games">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/1668</description>
+							<files>
+								<folder source="04 - MODS_4\TavernGames.esp" destination="SKSE\Plugins\DynamicStringDistributor\TavernGames.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="TavernGames.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="TavernGames.esp" state="Inactive"/>
+												<fileDependency file="TavernGames.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="The Paarthurnax Dilemma">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/365</description>
+							<files>
+								<folder source="04 - MODS_4\the paarthurnax dilemma.esp" destination="SKSE\Plugins\DynamicStringDistributor\the paarthurnax dilemma.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="the paarthurnax dilemma.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="the paarthurnax dilemma.esp" state="Inactive"/>
+												<fileDependency file="the paarthurnax dilemma.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="The Choice Is Yours">
+							<description>https://www.nexusmods.com/skyrimspecialedition/mods/3850</description>
+							<files>
+								<folder source="04 - MODS_4\TheChoiceIsYours.esp" destination="SKSE\Plugins\DynamicStringDistributor\TheChoiceIsYours.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="TheChoiceIsYours.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="TheChoiceIsYours.esp" state="Inactive"/>
+												<fileDependency file="TheChoiceIsYours.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+	</installSteps>
+</config>

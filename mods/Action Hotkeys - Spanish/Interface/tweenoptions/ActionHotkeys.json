@@ -1,0 +1,7 @@
+{
+    "papyrus_event": "ActionGrid_Open",
+    "menuName": "TECLAS DE ACCESO RAPIDO",
+    "icon": "magic",
+    "priority": 60,
+    "category": "left"
+}

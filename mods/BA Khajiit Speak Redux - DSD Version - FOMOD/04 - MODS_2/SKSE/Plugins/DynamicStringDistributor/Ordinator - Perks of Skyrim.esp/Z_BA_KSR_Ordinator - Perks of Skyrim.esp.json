@@ -1,0 +1,2549 @@
+[
+  {
+    "editor_id": "ORD_One_ThunderingBlow_Effect_Ab_Display",
+    "form_id": "03061997|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Thundering Blow Ready",
+    "string": "Golpe Trueno ahora está listo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_SpiritTeacher_Quest_Branch_TeachMe_Topic1",
+    "form_id": "0306C685|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Grant me your blessing!",
+    "string": "¿Este Khajiit otorga su bendición a este, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0306C686|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Grant me your blessing!",
+    "string": "¿Este Khajiit otorga su bendición a este, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_GodsAndMortals_Quest_Zenithar_BranchTopic",
+    "form_id": "0306FCDE|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "In Zenithar's name, let us trade.",
+    "string": "En el nombre de Zenithar, este Khajiit desea comerciar contigo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0306FCDF|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "In Zenithar's name, let us trade.",
+    "string": "En el nombre de Zenithar, este Khajiit desea comerciar contigo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Sne_ShoelacePrank_Message",
+    "form_id": "030B5E43|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Prank Successful",
+    "string": "¡La broma fue exitosa!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_WellocsDormantArcana_Message",
+    "form_id": "030B9EE0|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose a spell type to enhance.",
+    "string": "Elige un tipo de hechizo para potenciar:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_WellocsDormantArcana_Message_SpellTriggered",
+    "form_id": "030B9EE1|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose a magical effect to bind to your chosen spell type. (%.0f/3)",
+    "string": "Elige un efecto mágico para vincular al tipo de hechizo elegido (%.0f/3):",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_WellocsDormantArcana_Message_SpellTriggered_Combat",
+    "form_id": "030B9EE2|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose a magical effect to bind to your chosen spell type. (%.0f/3)",
+    "string": "Elige un efecto mágico para vincular al tipo de hechizo elegido (%.0f/3):",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_WellocsDormantArcana_Message_SpellTriggered_Schools",
+    "form_id": "030B9EE3|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose a magical effect to bind to your chosen spell type. (%.0f/3)",
+    "string": "Elige un efecto mágico para vincular al tipo de hechizo elegido (%.0f/3):",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_WellocsDormantArcana_Message_SpellTriggered_Attributes",
+    "form_id": "030B9EE4|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose a magical effect to bind to your chosen spell type. (%.0f/3)",
+    "string": "Elige un efecto mágico para vincular al tipo de hechizo elegido (%.0f/3):",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_WellocsDormantArcana_Message_SpellTriggered_Utility",
+    "form_id": "030B9EE5|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose a magical effect to bind to your chosen spell type. (%.0f/3)",
+    "string": "Elige un efecto mágico para vincular al tipo de hechizo elegido (%.0f/3):",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_WellocsDormantArcana_Message_Saved_01",
+    "form_id": "030BA490|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Magic effect bound to Armor spells.",
+    "string": "Este efecto mágico ha sido vinculado a hechizos de Armadura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_WellocsDormantArcana_Message_Saved_02",
+    "form_id": "030BA491|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Magic effect bound to Cloak spells.",
+    "string": "Este efecto mágico ha sido vinculado a hechizos de Manto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_WellocsDormantArcana_Message_Saved_03",
+    "form_id": "030BA492|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Magic effect bound to Conjure Daedra spells.",
+    "string": "Este efecto mágico ha sido vinculado a hechizos de Conjurar Daedra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_WellocsDormantArcana_Message_Saved_04",
+    "form_id": "030BA493|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Magic effect bound to Conjure Undead spells.",
+    "string": "Este efecto mágico ha sido vinculado a hechizos de Conjurar No-muertos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_WellocsDormantArcana_Message_Saved_05",
+    "form_id": "030BA494|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Magic effect bound to Invisibility spells.",
+    "string": "Este efecto mágico ha sido vinculado a hechizos de Invisibilidad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_DwarvenAutocannon_Message_Fail_NoCannon",
+    "form_id": "030BB4C7|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This power requires a Dwarven Autocannon in your inventory.",
+    "string": "¿Cómo pretende uno desplegar un Autocañón Enano sin tenerlo en el inventario, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_DwarvenAutocannon_Message_Fail_Blocked",
+    "form_id": "030BB4C8|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Deploying a Dwarven Autocannon requires 2 feet of free space in front of you.",
+    "string": "Desplegar un Autocañón Enano requiere al menos dos pies de espacio libre, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Res_Plaguebearer_Message_ChooseDisease",
+    "form_id": "030BBF95|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose a disease.\r\n\r\nAstral Vapors: Cannot cast below half Magicka.\r\nBlood Lung: Randomly lose 200 Health.\r\nCollywobbles: Lose 30 Health/sec below half Stamina.\r\nCrimson Plague: Lose 15 Health/sec above half Health.\r\nGreenspore: Randomly lose 500 Magicka and Stamina.\r\nTunnel Cough: Randomly stagger.\r\nWitchwither: Paralyze below a quarter Health.",
+    "string": "¿Qué enfermedad debe ser elegida, hmm?\r\n\r\nVapores Astrales: No se puede lanzar hechizos por debajo de la mitad de Magia.\r\nPulmón Sanguíneo: Pierde 200 de Salud aleatoriamente.\r\nRetortijones: Pierde 30 de Salud/seg por debajo de la mitad de Resistencia.\r\nPeste Carmesí: Pierde 15 de Salud/seg por encima de la mitad de Salud.\r\nEspora Verde: Pierde 500 de Magia y Resistencia aleatoriamente.\r\nTos del Túnel: Tambalea aleatoriamente.\r\nMarchitez de Bruja: Parálisis por debajo de un cuarto de Salud.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_Bait_Message_FailActive",
+    "form_id": "030BE572|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Can only bait one target at a time.",
+    "string": "Solo un objetivo puede ser atraído a la vez. Esto se sabe...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Sne_WickedWind_Message_Fail_Blocked",
+    "form_id": "030C0082|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Teleport obstructed.",
+    "string": "¡Garras embotadas! Algo ha obstruido el hechizo de teletransporte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Sne_WickedWind_Message_Fail_Combat",
+    "form_id": "030C0083|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Target must be out of combat.",
+    "string": "El objetivo primero debe estar fuera de combate, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Sne_WickedWind_Message_Fail_Sneak",
+    "form_id": "030C0086|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "User must be sneaking.",
+    "string": "Quizá es sabio escabullirse primero, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_VancianMagic_Message_SpellsRemaining",
+    "form_id": "030CA7AC|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You have %.0f spells remaining.",
+    "string": "Quedan %.0f hechizos memorizados...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_BrandOfTheNecromancer_Message",
+    "form_id": "030D1914|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Target Branded",
+    "string": "El objetivo ha sido marcado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_BearTraps_Message_Power_Fail",
+    "form_id": "030D23DA|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You do not have any Bear Traps.",
+    "string": "Tener trampas de oso es necesario para usar trampas de oso, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Arc_Deadeye_Message_Fail",
+    "form_id": "030D23E1|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You must be zoomed in.",
+    "string": "Quizá hacer zoom ayude, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_HeartOfCreation_Message_Equipped",
+    "form_id": "030E6463|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your mind fills with warcries in the tongue of dragons.",
+    "string": "¡Los gritos de guerra en Thu'um llenan todos los pensamientos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_HeartOfCreation_Message_Unequipped",
+    "form_id": "030E6464|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your draconic bloodlust wanes.",
+    "string": "La sed de sangre dracónica se desvanece...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_HeartOfCreation_Message_Promoted",
+    "form_id": "030E6465|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your Dragonborn blood awakens...",
+    "string": "¡La sangre del Sangre de Dragón ha despertado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_HeartOfCreation_Message_Option",
+    "form_id": "030EC201|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose a bonus.",
+    "string": "Elige una bonificación:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_InnateMagic_Message_OutOfSpells",
+    "form_id": "030F1F9A|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your innate magic has been exhausted.",
+    "string": "La magia innata se ha agotado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_InnateMagic_Message_OneBack",
+    "form_id": "030F1F9D|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your innate magic comes back.",
+    "string": "La magia innata ha regresado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_InnateMagic_Message_CappedAgain",
+    "form_id": "030F1F9E|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your innate magic is fully recharged.",
+    "string": "¡Las habilidades de magia innata están completamente recargadas!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_ChosenOne_Message",
+    "form_id": "030F4E73|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "How would you like to improve your Innate Magic?",
+    "string": "Elige una opción para mejorar Magia Innata:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_BarrowLord_Message_Retrieve",
+    "form_id": "030FDAD6|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Any intact Skeletons have been exhumed.",
+    "string": "Todos los esqueletos intactos han sido desenterrados. Macabro, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_BarrowLord_Message_Bury",
+    "form_id": "030FDAD7|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your Skeletons have been buried.",
+    "string": "Los esqueletos han sido enterrados...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_BarrowLord_Message_NoSkeletons",
+    "form_id": "030FDAD8|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No Skeletons nearby.",
+    "string": "No hay esqueletos cercanos...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Arc_LionsArrow_Message",
+    "form_id": "03118004|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spell stored.",
+    "string": "El hechizo ha sido almacenado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Enc_Miracle_Message_Averted",
+    "form_id": "031382B1|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Unable to work a miracle due to Daedric field interference. Remove Azura's Star.",
+    "string": "Hmm... parece haber interferencia de campo Daédrico... Quizá es sabio quitar la Estrella de Azura, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Arc_AmbushPredator_Message",
+    "form_id": "030064AB|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Ambush Predator Active",
+    "string": "El Depredador de Emboscada ha sido activado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Arc_Skystrike_WrongArrows",
+    "form_id": "03007527|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Arrow is not compatible with Skystrike",
+    "string": "Esta flecha no es compatible con Ataque aéreo, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck_TimingStreak_Message",
+    "form_id": "03008B3F|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Timing Streak Complete",
+    "string": "La Racha de Tiempo ha sido completada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_NewVancianMagic_Message_DungeonMaster_ReplenishedByPoller",
+    "form_id": "03167A24|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your spells have been recharged. (%.0f/%.0f)",
+    "string": "Lunas Brillantes, todos los hechizos han sido recargados! (%.0f/%.0f)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_DreamGeas_Message_Release",
+    "form_id": "0301E14B|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dream Thrall released.",
+    "string": "El Esclavo Onírico ha sido liberado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_DreamGeas_Message_Success",
+    "form_id": "0301E14A|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your victim obeys your will.",
+    "string": "Esta víctima ahora obedecerá...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_DreamGeas_Message_Dead",
+    "form_id": "0301E149|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your Dream Thrall died.",
+    "string": "El Esclavo Onírico ha muerto. Una tristeza...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_DreamGeas_Message_Fail",
+    "form_id": "0301E146|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your spell has no effect.",
+    "string": "¡Ziss! El hechizo no tuvo efecto!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_AlterSelfResistances_Message",
+    "form_id": "0301CB64|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Improve which resistance?",
+    "string": "Elige un tipo de resistencia para mejorar:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_NewVancianMagic_Message_DungeonMaster_SideEffects",
+    "form_id": "03167A1A|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Did you prepare any metamagics?\r\n\r\nWeapon Proficiency: When you are out of spells, you gain 20%% extra attack damage and critical damage.\r\n\r\nEpic Finale: When you have 10 or less spells remaining, your spells are 20%% more effective.\r\n\r\nLife Tap: Able to cast when you are out of spells, but take a cumulative 40 damage for each spell cast this way.",
+    "string": "Selecciona el tipo de metamagia a usar:\r\n\r\nMaestría de Armas: Cuando este Khajiit se queda sin hechizos, obtiene +20%% de daño de ataque y daño crítico adicional.\r\n\r\nFinal Épico: Cuando quedan 10 o menos hechizos, los hechizos de este Khajiit son +20%% más efectivos.\r\n\r\nToque de Vida: Puede lanzar hechizos cuando este Khajiit no tiene hechizos, pero recibe +40 de daño acumulativo por cada hechizo lanzado de esta forma.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_NewVancianMagic_Message_DungeonMaster_Study",
+    "form_id": "03167A19|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "How did you prepare your spells for today?\r\n\r\nBroad: +50%% spells, -50%% spell effectiveness.\r\n\r\nDisciplined: no modifiers.\r\n\r\nFocused: -50%% spells, +50%% spell effectiveness.",
+    "string": "Elige una práctica de meditación para hoy:\r\n\r\nAmplia: +50%% hechizos, -50%% efectividad de hechizos.\r\n\r\nDisciplinada: sin modificadores.\r\n\r\nEnfocada: -50%% hechizos, +50%% efectividad de hechizos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_NewVancianMagic_Message_Depleted",
+    "form_id": "03167A16|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are out of spells.",
+    "string": "No quedan hechizos memorizados...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_NewVancianMagic_Message_AlmostDepleted",
+    "form_id": "03167A15|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You have 10 spells left.",
+    "string": "Solo quedan diez (10) hechizos que pueden ser memorizados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Res_WarriorsFlame_Message_Self",
+    "form_id": "03014E7D|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The Warrior's Flame touches you!",
+    "string": "¡La Llama del Guerrero se expande!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedricBarter_Message00",
+    "form_id": "030169C7|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The creature smiles maliciously as it accepts your gift.",
+    "string": "La criatura sonríe maliciosamente al aceptar el regalo... extraño, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedricBarter_Message01",
+    "form_id": "030169C8|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The creature devours your gift whole.",
+    "string": "La criatura ha devorado el regalo por completo! ¿Sin envoltura?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_NewVancianMagic_Message_Recharged",
+    "form_id": "03167A10|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your spells have been fully recharged. (%.0f/%.0f)",
+    "string": "Lunas Brillantes, todos los hechizos han sido completamente recargados! (%.0f/%.0f)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedricBarter_Message02",
+    "form_id": "030169C9|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The creature holds your gift high and it disappears in a burst of smoke.",
+    "string": "La criatura sostuvo el regalo en alto y luego desapareció en una nube de humo! Debe haber sido un mago, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedricBarter_Message03",
+    "form_id": "030169CA|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The creature squeezes your gift. The heart beats for a moment, then blackens.",
+    "string": "La criatura está apretando el regalo... el corazón late por un momento, pero luego se ennegrece... extraño, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_MarkOfTheNecromancer_Message",
+    "form_id": "03018A50|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The Necromancer's Mark activates.",
+    "string": "La Marca del Nigromante ha sido activada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_EnchantedHour_Message",
+    "form_id": "0301B5AF|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Illusion spells last longer between %.0f and %.0f hour.",
+    "string": "Ah, la Hora Encantada! Ahora los hechizos de Ilusión durarán más entre %.0f y %.0f horas!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_Wyrd_Message",
+    "form_id": "0301F19E|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your victim was slain by their Nemesis!",
+    "string": "¡Ja! La víctima fue asesinada por su némesis! Aw...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_DreamThief_Message_WakeUp",
+    "form_id": "0301F190|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The spell fails! Your victim bolts awake!",
+    "string": "¡Lunas oscuras! El hechizo Ladrón de Sueños falló, y están despertando!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_Incubus_Message_Success",
+    "form_id": "0301F713|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You assume your victim's power...",
+    "string": "¡El poder de esta víctima es fuerte!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_DreamCharm_Message_ToPlus2",
+    "form_id": "0301F188|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Disposition improved to Cofidant.",
+    "string": "Disposición mejorada a Confidente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Spe_Perform_Message_GoldAdded",
+    "form_id": "03021259|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "%.0f Gold Added",
+    "string": "¡%.0f septims añadidos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Spe_Perform_Message_Fail",
+    "form_id": "03020CEC|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You cannot perform in combat.",
+    "string": "No es momento para actuar! ¡Gato tonto!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Spe_Perform_Message_EarthquakeDrum",
+    "form_id": "0302280E|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Play which song?",
+    "string": "¿Qué canción tocar exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_Incubus_Message_Fade",
+    "form_id": "0301F71A|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your victim's power wanes from you...",
+    "string": "El poder de la víctima se desvanece...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_DreamThief_Message_Success",
+    "form_id": "0301F71C|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your Illusion spells become more effective.",
+    "string": "Los hechizos de Ilusión ahora son más efectivos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_LucidDreaming_Message",
+    "form_id": "0301F727|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You dreamed of which school of magic?",
+    "string": "¿De qué escuela de magia era ese sueño, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Spe_Perform_Message_Fail_EquippedError",
+    "form_id": "03022D88|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You must sheathe your weapons and unequip shields.",
+    "string": "Antes de actuar, es sabio quitarse todo, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_VancianMagic_Message_HalfFail",
+    "form_id": "0302CB13|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You already have at least half of your spells remaining.",
+    "string": "Más de la mitad de los hechizos memorizados permanecen.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_VancianMagic_Message_Half",
+    "form_id": "0302CB12|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your spells have been partially recharged. (%.0f spells)",
+    "string": "Algunos hechizos han sido parcialmente recargados... (%0f hechizos)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_VancianMagic_Message_Full",
+    "form_id": "0302CB11|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your spells have been fully recharged. (%.0f spells)",
+    "string": "Lunas Brillantes, todos los hechizos han sido completamente recargados! (%.0f/%.0f)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_ArcaneThesis_Message",
+    "form_id": "0302C044|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spell mastered.",
+    "string": "¡Este hechizo ha sido dominado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_HomeMythal_Message",
+    "form_id": "0302BAD8|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Home Mythal Created",
+    "string": "Se creó el Mythal del Hogar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_AlterSelfAttributes_Message",
+    "form_id": "0302B56C|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Improve which attribute?",
+    "string": "Selecciona un atributo para mejorar:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Des_ElementalSpecialization_Message",
+    "form_id": "0302A505|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Specialize in which element?",
+    "string": "Selecciona una especialización elemental:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Spe_Perform_Message_HornOfSovngarde_Fail",
+    "form_id": "03024369|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No one hears you.",
+    "string": "Es como hablarle a una pared de piedra...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Spe_Perform_Message_HornOfSovngarde",
+    "form_id": "03024367|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Play which song?",
+    "string": "¿Qué canción tocar exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Spe_BusinessRelation_Message",
+    "form_id": "03023DFB|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Items bought from this merchant are now cheaper.",
+    "string": "El encanto Khajiit ha hecho que todos los objetos de este comerciante sean más baratos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Spe_SpeakWithAnimals_Message_Success",
+    "form_id": "03023873|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The animal is tamed.",
+    "string": "El animal ha sido domesticado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Spe_SpeakWithAnimals_Message_Release",
+    "form_id": "03023872|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Wild Companion released.",
+    "string": "El Compañero Salvaje ha sido liberado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Spe_SpeakWithAnimals_Message_Fail",
+    "form_id": "03023870|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your spell has no effect.",
+    "string": "¡Ziss! El hechizo no tuvo efecto!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_VancianMagic_Message_RunningOut",
+    "form_id": "0302CB17|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You have 10 spells left.",
+    "string": "Solo quedan diez (10) hechizos que pueden ser memorizados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Spe_SpeakWithAnimals_Message_Dead",
+    "form_id": "0302386F|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your Wild Companion died.",
+    "string": "Una tristeza. El Compañero Salvaje ha muerto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_One_WanderingWarrior_Message",
+    "form_id": "03176438|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "One-handed damage bonus increased to %.0f%%.",
+    "string": "El bonus de daño a una mano ha aumentado a %.0f%%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_BearTraps_Message_OnlyThree",
+    "form_id": "030311D0|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You can only carry three bear traps.",
+    "string": "¡Gato tonto, solo tres (3) trampas de oso pueden ser llevadas a la vez!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_DragonsTeeth_Message",
+    "form_id": "030311C5|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Place which bear trap?",
+    "string": "¿Qué trampa de oso debe colocarse, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_BearTrap_Message",
+    "form_id": "030311D2|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Bear Trap Hit",
+    "string": "¡Una Trampa de Oso ha sido activada!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_DreamCharm_Message_Success",
+    "form_id": "0302F13F|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now allies of each other.",
+    "string": "Ah, un aliado ha sido ganado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_BearTraps_Message_OnlyTwo",
+    "form_id": "03030C31|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You can only carry two bear traps.",
+    "string": "Solo dos (2) trampas de oso deben ser llevadas a la vez, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_BearTrap_Message_BreakingWheel",
+    "form_id": "030311D3|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Bear Trap Hit",
+    "string": "¡Una Trampa de Oso ha sido activada!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_Bait_Message_Fail",
+    "form_id": "030311D9|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Bait Failed",
+    "string": "¡Ziss! El señuelo ha fallado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_Kleptomaniac_Message_Downer",
+    "form_id": "0303328B|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your pickpocket chance decreases.",
+    "string": "¡Ziss! La probabilidad de robo ha disminuido...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_Kleptomaniac_Message",
+    "form_id": "0303328A|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your pickpocket chance increases.",
+    "string": "¡La probabilidad de robo ha aumentado! ¡Hora de dedos pegajosos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_TrainedRabbit_Message_Return",
+    "form_id": "03032D16|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your trained rabbit returned.",
+    "string": "El conejo entrenado ha regresado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_ThiefsEye_Message_Dead",
+    "form_id": "030327AC|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The mark is dead.",
+    "string": "La marca está muerta. Una tristeza, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_ThiefsEye_Message_Fail",
+    "form_id": "030327AB|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No one nearby is carrying any valuables.",
+    "string": "¡Maldita sea! Nadie cercano lleva objetos de valor...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_ThiefsEye_Message",
+    "form_id": "030327AA|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Someone nearby is carrying valuables.",
+    "string": "Los sentidos Khajiit detectan que alguien cercano lleva objetos de valor...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_DragonHoard_Message",
+    "form_id": "03032233|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spend 50000 gold to purchase a perk point?",
+    "string": "¿Gastar 50,000 septims para comprar un punto de perk, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_DragonHoard_Message",
+    "form_id": "03032233|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Ok",
+    "string": "¡Ciertamente! ¿Qué son simples fragmentos de esencia vital comparados con poder aumentado, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_GameOfFate_Message_Mcguffin",
+    "form_id": "0303221B|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Perk Point Gained (Dragon of Fate: %.0f/5)",
+    "string": "Se ha ganado un Punto de Perk. (Dragón del Destino: %.0f/5)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_RobbersEye_Message_Fail",
+    "form_id": "03031CAE|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You do not sense any nearby valuables.",
+    "string": "Claramente, no hay objetos de valor cercanos...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_ThiefsLuck_Message",
+    "form_id": "03033807|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Which items should appear more often on those illuminated by Thief's Eye?",
+    "string": "¿Qué objetos deberían aparecer con más frecuencia cuando Ojo de ladrón los ilumine, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_ThiefsLuck_Message",
+    "form_id": "03033807|Ordinator - Perks of Skyrim.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Gold",
+    "string": "Septims",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_Bait_Message",
+    "form_id": "03031741|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Bait Successful",
+    "string": "¡Lunas Brillantes! El señuelo fue exitoso!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_RobbersEye_Message",
+    "form_id": "03031CAD|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A container full of valuables is nearby.",
+    "string": "Los sentidos Khajiit detectan un contenedor lleno de objetos de valor cerca!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_BreakingWheel_Message",
+    "form_id": "03034DDA|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Place which bear trap?",
+    "string": "¿Qué trampa de oso debe colocarse, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_YouSawNothing_Message_Fail",
+    "form_id": "0303486B|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The target does not report crimes to anyone.",
+    "string": "Este objetivo no reportará ningún crimen a nadie...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_GoneInFifteenSeconds_Message",
+    "form_id": "03034DDC|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Lock opened within 15 seconds.",
+    "string": "El candado fue abierto con éxito en 15 segundos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_ThiefsLuck_Message_Ok",
+    "form_id": "0303380D|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The mark is more likely to carry your chosen item type.",
+    "string": "La marca ahora es más propensa a llevar un tipo de objeto elegido!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_TrainedRabbit_Message_Dead",
+    "form_id": "03033D82|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your trained rabbit died.",
+    "string": "Aw... El conejo entrenado ha muerto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_TrainedRabbit_Message_Fail",
+    "form_id": "03033D83|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No loose items nearby.",
+    "string": "No hay objetos sueltos cerca...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_RaidersLuck_Message_Cleared",
+    "form_id": "030342EE|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Bounty for nonviolent crimes in current hold (%.0f Gold) cleared!",
+    "string": "¡Toda la recompensa por crímenes no violentos en este dominio ha sido eliminada! (%.0f septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_StalkThePrey_Message",
+    "form_id": "03034864|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are ready to pounce.",
+    "string": "¡Es hora de abalanzarse!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_Lockdown_Message",
+    "form_id": "03034DF7|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The automaton shuts down.",
+    "string": "El autómata se ha apagado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_NoseForTreasure_Message",
+    "form_id": "03034DE8|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Which items should appear more often in containers illuminated by Robber's Eye?",
+    "string": "¿Qué objetos deberían tener más probabilidad de aparecer en contenedores cuando el Ojo del Ladrón los ilumine, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_NoseForTreasure_Message",
+    "form_id": "03034DE8|Ordinator - Perks of Skyrim.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Gold",
+    "string": "Septims",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_Lockdown_Message_Fail",
+    "form_id": "03034DF8|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You did not manage to open the lock in time.",
+    "string": "¡Ziss! Esa cerradura no fue abierta a tiempo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_GoneInFifteenSeconds_Message_Fail",
+    "form_id": "03034DDD|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You did not manage to open the lock in 15 seconds.",
+    "string": "¡Garras embotadas! Esos 15 segundos pasaron rápido, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_AdvancedWorkshop_Message_Want_SharpeningWheel",
+    "form_id": "0303C5D6|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Upgrade this grindstone for 2500 gold?",
+    "string": "¿Mejorar esta piedra de afilar por 2,500 septims, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_AdvancedWorkshop_Message_Want_ArmorTable",
+    "form_id": "0303C5D5|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Upgrade this workbench for 2500 gold?",
+    "string": "¿Mejorar este banco de trabajo por 2,500 septims, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_AdvancedWorkshop_Message_Ok",
+    "form_id": "0303BB06|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Upgrade this device?",
+    "string": "¿Mejorar este dispositivo, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_AdvancedWorkshop_Message_Want",
+    "form_id": "0303BB05|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Upgrade this device for 2500 gold?",
+    "string": "¿Mejorar este dispositivo por 2,500 septims, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Enc_Preserver_Message",
+    "form_id": "030394F9|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Item Preserved",
+    "string": "El objeto ha sido preservado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Enc_GemDust_Message_Want",
+    "form_id": "03038F7D|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Sacrifice a Flawless Gem to make new enchantments placed upon items of the corresponding type 25%% stronger?",
+    "string": "¿Debería sacrificarse una Gema Perfecta para hacer que nuevos encantamientos sobre objetos del tipo correspondiente sean 25%% más fuertes, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Enc_Miracle_Message_Go",
+    "form_id": "03038A09|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You feel powerful enough to work miracles.",
+    "string": "¿Podría este poder ser suficiente para obrar milagros, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Enc_Miracle_Message",
+    "form_id": "030389F8|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You created a mythical item!",
+    "string": "¡Sí! ¡Un objeto mítico!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Sne_WhisperingDeath_Message_Fail",
+    "form_id": "030363BF|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You do not have enough gold to invoke the Serpent. (%.0f/%.0f Gold)",
+    "string": "No hay suficientes septims para invocar a la Serpiente, no. (%.0f/%.0f septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_Hotwire_Message_Success",
+    "form_id": "030358C5|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The automaton obeys you.",
+    "string": "¡Sí! ¡Un autómata personal de muerte!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_Hotwire_Message_Release",
+    "form_id": "030358C4|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Hotwired Automaton self destructed.",
+    "string": "El Autómata Hackeado se ha autodestruido...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_AdvancedWorkshop_Message_Upgraded",
+    "form_id": "0303C5D7|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Device Upgraded",
+    "string": "El dispositivo ha sido mejorado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_Hotwire_Message_Dead",
+    "form_id": "030358C1|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your Hotwired Automaton is destroyed.",
+    "string": "El Autómata Hackeado ha sido destruido. Una tristeza, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_Hotwire_Message_Fail",
+    "form_id": "030358C2|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your hack has no effect.",
+    "string": "¡Garras embotadas! Ese golpe no tuvo efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_DaughterOfTheForge_Message_Fail_NoItem",
+    "form_id": "0303CB72|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No item held.",
+    "string": "Primero debe sostenerse un objeto, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_RecycleMaterials_Message_Recycled",
+    "form_id": "0303C5E6|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Materials Recycled",
+    "string": "Los materiales han sido reciclados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_FuelTheInferno_Message_Want",
+    "form_id": "0303C5E9|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spend a Dragon Soul to improve items one tier higher? (Your Dragon Soul is refunded if you do not improve any items.)",
+    "string": "¿Debería gastarse un Alma de Dragón para mejorar los objetos un nivel superior, quizá?\r\n\r\n[El Alma de Dragón es reembolsada si no se mejora nada.]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_SmithingSpecialization_Message_Want",
+    "form_id": "0303C5ED|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Which item type do you want to specialize in?",
+    "string": "Selecciona una maestría de arma:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_HeartOfCreation_Message_Want",
+    "form_id": "0303C5F6|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Pour your Dragonborn blood into the fire?",
+    "string": "¿Debería Khajiit verter algo de la sangre de Sangre de Dragón de <Alias.PronounPosObj=Player> en el fuego, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_HeartOfCreation_Message_Upgraded",
+    "form_id": "0303C5F9|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Sacrifice Made",
+    "string": "El sacrificio ha sido realizado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_DaughterOfTheForge_Message_Fail_NotLegendary",
+    "form_id": "0303CB73|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Item must be Legendary.",
+    "string": "El objeto debe ser Legendario, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_FuelTheInferno_Message_Refund",
+    "form_id": "0303CB74|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dragon Soul Refunded",
+    "string": "Un Alma de Dragón ha sido reembolsada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_GirdForWar_Message",
+    "form_id": "0303D0FE|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your bloodlust wanes.",
+    "string": "La sed de sangre se desvanece...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alc_AdvancedLab_Message_Want",
+    "form_id": "0303D68E|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Upgrade this alchemy lab for 2500 gold?",
+    "string": "Mejorar este laboratorio de alquimia por 2,500 septims, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alc_AdvancedLab_Message_Upgraded",
+    "form_id": "0303D68F|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Device Upgraded",
+    "string": "El dispositivo ha sido mejorado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alc_ThatWhichDoesNotKillYou_Message",
+    "form_id": "0303D66D|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You survived!",
+    "string": "¡Eso estuvo cerca, en efecto! ¡Por las Lunas!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alc_ThatWhichDoesNotKillYou_Message_Fail",
+    "form_id": "0303D675|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The poison proves ineffective.",
+    "string": "Este veneno ha demostrado ser inefectivo y yastozay [inútil].",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alc_MagnumOpus_Message_End",
+    "form_id": "0303D69C|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your magnum opus is complete.",
+    "string": "Ah... El magnum opus está ahora completo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Res_ZealotsWard_Message",
+    "form_id": "03190990|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spell Negated",
+    "string": "¡Ese hechizo fue negado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alc_MagnumOpus_Message_Go",
+    "form_id": "0303D696|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You feel attuned to the chymical correspondences of creation.",
+    "string": "Se siente una armonía con las correspondencias químicas de la creación, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedrasDue_Message_Result_NoCost",
+    "form_id": "03193866|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Perk Point Gained",
+    "string": "Se ha ganado un Punto de Perk.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedrasDue_Message_Result",
+    "form_id": "03193865|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Perk Point Gained (%.0f Health Lost)",
+    "string": "Se ha ganado un Punto de Perk. (%.0f Salud perdida)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedrasDue_Message_2",
+    "form_id": "03193864|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The creature laughs as your blood dissipates in a cloud of ash.",
+    "string": "La criatura rió mientras la sangre se disipaba en una nube de cenizas... No debe gustarle el sabor, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedrasDue_Message_1",
+    "form_id": "03193863|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The creature drinks your blood in one gulp.",
+    "string": "¡La criatura ha bebido la sangre de un solo trago! ¿Sedienta, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedrasDue_Message_0",
+    "form_id": "03193862|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The creature smiles maliciously as it accepts your blood.",
+    "string": "La criatura muestra una sonrisa maníaca mientras absorbe la sangre... inquietante, en efecto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedrasDue_Message_NoCost",
+    "form_id": "03193861|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your first perk point is free. Obtain a perk point from this Daedra?",
+    "string": "El primer punto de perk no tiene costo.\r\n\r\n¿Extraer un punto de perk de este Daedra, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedrasDue_Message_NoCost",
+    "form_id": "03193861|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Your first perk point is free. Obtain a perk point from this Daedra?",
+    "string": "El primer punto de perk no tiene costo.\r\n\r\n¿Extraer un punto de perk de este Daedra, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedrasDue_Message_NoCost",
+    "form_id": "03193861|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Ok",
+    "string": "¡Ciertamente! ¿Qué son simples fragmentos de esencia vital comparados con poder aumentado, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedrasDue_Message",
+    "form_id": "03193860|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Sacrifice %.0f Health to this Daedra to obtain a perk point?",
+    "string": "¿Deberían sacrificarse %.0f de Salud a este Daedra para obtener un punto de perk, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedrasDue_Message",
+    "form_id": "03193860|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Sacrifice %.0f Health to this Daedra to obtain a perk point?",
+    "string": "¿Deberían sacrificarse %.0f de Salud a este Daedra para obtener un punto de perk, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedrasDue_Message",
+    "form_id": "03193860|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Ok",
+    "string": "¡Ciertamente! ¿Qué son simples fragmentos de esencia vital comparados con poder aumentado, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alc_Physician_Message_Want",
+    "form_id": "0303F79C|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Which type of beneficial potion (Restore, Fortify) do you want to specialize in?",
+    "string": "Selecciona una especialización de pociones de Restauración/Fortificación:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Enc_ChargeTap_Message_Fail",
+    "form_id": "0303ECBA|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Must have at least one enchanted weapon equipped.",
+    "string": "Debe estar equipado al menos un arma encantada, no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Enc_ArcaneNexus_Message_Upgraded",
+    "form_id": "0303ECB3|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Device Upgraded",
+    "string": "El dispositivo ha sido mejorado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Enc_ArcaneNexus_Message_Want",
+    "form_id": "0303ECB2|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Upgrade this arcane enchanter for 2500 gold?",
+    "string": "Mejorar este encantador arcano por 2,500 septims, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Loc_RobbersEye_Message_RiseToTheChallenge",
+    "form_id": "0304182C|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Challenge completed!",
+    "string": "El desafío ha sido completado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Lia_HissingDragon_Message",
+    "form_id": "0304D4EF|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Train in which element?",
+    "string": "Elige un elemento para entrenar:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_HeartOfCreation_Message_StatUp_Want",
+    "form_id": "03051B25|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Improve which attribute?",
+    "string": "Selecciona un atributo para mejorar:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_RatKing_Message_Brawl",
+    "form_id": "030525EC|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your rats will not help you during a brawl.",
+    "string": "¡Los ratones no ayudarán durante una pelea! Esto se sabe...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Res_SpiritTutors_Message",
+    "form_id": "0306C68A|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Teachings Received",
+    "string": "Las enseñanzas han sido recibidas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Enc_Spellscribe_Message",
+    "form_id": "0306B0ED|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spell stored.",
+    "string": "El hechizo ha sido almacenado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Hea_RallyingStandard_Message_Want_Faction",
+    "form_id": "0306A088|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Which banner do you want to use on your Rallying Standard?",
+    "string": "Elige un estandarte para usar en el Estandarte de Reagrupación:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Hea_RallyingStandard_Message_Want_City",
+    "form_id": "0306A087|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Which banner do you want to use on your Rallying Standard?",
+    "string": "Elige un estandarte para usar en el Estandarte de Reagrupación:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Hea_RallyingStandard_Message_Want",
+    "form_id": "0306A075|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Which banner do you want to use on your Rallying Standard?",
+    "string": "Elige un estandarte para usar en el Estandarte de Reagrupación:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Two_Wolfkin_Message",
+    "form_id": "03065A56|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Wolfkin Ready",
+    "string": "Piel de lobo ahora está listo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_One_ThunderingBlow_Message",
+    "form_id": "03061991|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Thundering Blow Ready",
+    "string": "Golpe Trueno ahora está listo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alc_ElementalOil_Message",
+    "form_id": "03058D16|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Create which oil?",
+    "string": "Selecciona un aceite para crear:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck_TimedBlock_Message",
+    "form_id": "03054BF3|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Timed Block",
+    "string": "< Bloqueo Temporal >",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_UnlocksExpertSmithing_Message_Want",
+    "form_id": "030566F0|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Train in which items?",
+    "string": "Selecciona un objeto para entrenar:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_UnlocksExoticSmithing_Message_Want",
+    "form_id": "03056701|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Train in which items?",
+    "string": "Selecciona un objeto para entrenar:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_UnlocksPlanarSmithing_Message_Want",
+    "form_id": "03056713|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Train in which items?",
+    "string": "Selecciona un objeto para entrenar:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_UnlocksMericSmithing_Message_Want",
+    "form_id": "03056717|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Train in which items?",
+    "string": "Selecciona un objeto para entrenar:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_BoneCollector_Message_NoPerk",
+    "form_id": "03072E17|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You want nothing to do with this foul sorcery.",
+    "string": "¡Esto es brujería vil, en efecto! Uno debería alejarse, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Res_GodsAndMortals_Message_Talos",
+    "form_id": "03070255|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cooldown Finished",
+    "string": "El enfriamiento ha terminado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_BoneCollector_Message_NoNight",
+    "form_id": "03072E18|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No stars shine upon the Bone Altar.",
+    "string": "Ninguna estrella brilla sobre este Altar de Huesos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_BoneCollector_Message_NoItems",
+    "form_id": "03072E29|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You need at least one of each Bone to perform a ritual.",
+    "string": "Se requiere uno de cada hueso para realizar el ritual... Esto se sabe, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_BoneCollector_Message_AtMax",
+    "form_id": "03073908|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Maximum number of Skeletons reached.",
+    "string": "El número máximo de Esqueletos ha sido aumentado, sí...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_BoneCollector_Message_Awaken",
+    "form_id": "03073397|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Body Parts Removed",
+    "string": "Las partes del cuerpo han sido removidas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_LawlessWorld_Message_01",
+    "form_id": "03073E6F|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Eastmarch Non-Violent Bounty Cleared",
+    "string": "Todas las recompensas no violentas en Marca Oriental han sido eliminadas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_BoneCollector_Message_TimeOut",
+    "form_id": "03073390|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your Skeleton crumbles.",
+    "string": "El Esqueleto se ha desmoronado... de huesos a polvo, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_LawlessWorld_Message_06",
+    "form_id": "03073E74|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The Pale Non-Violent Bounty Cleared",
+    "string": "Todas las recompensas no violentas en El Pálido han sido eliminadas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_LawlessWorld_Message_05",
+    "form_id": "03073E73|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Tribal Orcs Non-Violent Bounty Cleared",
+    "string": "Todas las recompensas no violentas con los Orcos Tribales han sido eliminadas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_LawlessWorld_Message_07",
+    "form_id": "03073E75|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The Reach Non-Violent Bounty Cleared",
+    "string": "Todas las recompensas no violentas en La Cuenca han sido eliminadas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_LawlessWorld_Message_02",
+    "form_id": "03073E70|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Falkreath Non-Violent Bounty Cleared",
+    "string": "Todas las recompensas no violentas en Falkreath han sido eliminadas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_LawlessWorld_Message_03",
+    "form_id": "03073E71|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Haafingar Non-Violent Bounty Cleared",
+    "string": "Todas las recompensas no violentas en Haafingar han sido eliminadas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_LawlessWorld_Message_04",
+    "form_id": "03073E72|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Hjaalmarch Non-Violent Bounty Cleared",
+    "string": "Todas las recompensas no violentas en Marca de Hjaal han sido eliminadas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_LawlessWorld_Message_10",
+    "form_id": "03073E78|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Winterhold Non-Violent Bounty Cleared",
+    "string": "Todas las recompensas no violentas en Hibernalia han sido eliminadas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_LawlessWorld_Message_09",
+    "form_id": "03073E77|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Whiterun Non-Violent Bounty Cleared",
+    "string": "Todas las recompensas no violentas en Carrera Blanca han sido eliminadas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_LawlessWorld_Message_11",
+    "form_id": "03073E79|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Thieves Guild Non-Violent Bounty Cleared",
+    "string": "Todas las recompensas no violentas con el Gremio de Ladrones han sido eliminadas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_LawlessWorld_Message_08",
+    "form_id": "03073E76|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The Rift Non-Violent Bounty Cleared",
+    "string": "Todas las recompensas no violentas en La Grieta han sido eliminadas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_BoneCollector_Message_Refund",
+    "form_id": "030749BC|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Body Parts Added",
+    "string": "Las partes del cuerpo han sido devueltas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_BoneCollector_Message_SkeletonMage",
+    "form_id": "0307442C|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Which Skeleton would you like to create?",
+    "string": "Recolector de Huesos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_BoneCollector_Message_SkeletonMage",
+    "form_id": "0307442C|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Which Skeleton would you like to create?",
+    "string": "Recolector de Huesos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_BoneCollector_Message_Help_CanActivate",
+    "form_id": "03075A55|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Press [Activate] to command your Skeleton.",
+    "string": "El Esqueleto primero debe ser activado para poder ordenarlo, no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_LawlessWorld_Message_12",
+    "form_id": "03073E7A|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Imperial Legion Non-Violent Bounty Cleared",
+    "string": "Todas las recompensas no violentas con la Legión Imperial han sido eliminadas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_LawlessWorld_Message_13",
+    "form_id": "03073E7B|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Stormcloaks Non-Violent Bounty Cleared",
+    "string": "Todas las recompensas no violentas con los Capas de la Tormenta han sido eliminadas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_LawlessWorld_Message_14",
+    "form_id": "03073E7C|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Khajiit Caravans Non-Violent Bounty Cleared",
+    "string": "Todas las recompensas no violentas con las caravanas Khajiit han sido eliminadas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_ThiefsEye_Message_Disappeared",
+    "form_id": "03073E7D|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The mark escaped.",
+    "string": "¡Ziss! La marca ha escapado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Enc_ArcaneNexus_Message_Demolish",
+    "form_id": "0307D15B|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What would you like to do?",
+    "string": "Elige una opción para este laboratorio:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_AdvancedWorkshop_Message_Demolish",
+    "form_id": "0307D15A|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What would you like to do?",
+    "string": "Elige una opción para este laboratorio:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Enc_ArcaneNexus_Message_Demolished",
+    "form_id": "0307D15C|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Arcane Nexus disassembled.",
+    "string": "El nexo arcano ha sido desmantelado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_BoneCollector_Message_Help_OrderDuration",
+    "form_id": "03075A56|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your Skeleton returns to its default behavior after 15 minutes, or when you give the order \"Fight!\".",
+    "string": "El Esqueleto debería volver a su comportamiento por defecto después de unos 15 minutos, o tras ordenársele luchar, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_BoneCollector_Message_SkeletonMage_Type",
+    "form_id": "03076559|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Which Skeleton Mage would you like to create?",
+    "string": "Selecciona un Esqueleto Mago para crear:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_BoneCollector_Message_SkeletonMage_Type",
+    "form_id": "03076559|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Which Skeleton Mage would you like to create?",
+    "string": "Selecciona un Esqueleto Mago para crear:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_BoneCollector_Message_BuffAoE",
+    "form_id": "0307703C|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Which ritual do you wish to perform?",
+    "string": "Selecciona qué ritual realizar:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_BoneCollector_Message_BuffAoE",
+    "form_id": "0307703C|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Which ritual do you wish to perform?",
+    "string": "Selecciona qué ritual realizar:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_KingOfBones_Message_Help_HowToDeactivate",
+    "form_id": "030775B2|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Press [Ready Weapon] to sheathe your weapon and relinquish control.",
+    "string": "Seguramente, envainar esta arma les liberará el control, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_KingOfBones_Message_Break_Distance",
+    "form_id": "030775B3|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Distance Limit Exceeded",
+    "string": "¡Ziss! ¡Distancia de wafiit [imbécil]!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_KingOfBones_Message_Break_Sheathed",
+    "form_id": "030775B4|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Control Relinquished",
+    "string": "El control de esta vasija ha sido liberado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_KingOfBones_Message_Break_Bleedout",
+    "form_id": "030775B5|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Control Broken",
+    "string": "El control de esta vasija ha sido roto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alc_AdvancedLab_Message_Demolish",
+    "form_id": "0307D159|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What would you like to do?",
+    "string": "Elige una opción para este laboratorio:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_AdvancedWorkshop_Message_Demolished",
+    "form_id": "0307D15D|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Advanced Workshop disassembled.",
+    "string": "El taller avanzado ha sido desmantelado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alc_AdvancedLab_Message_Demolished",
+    "form_id": "0307D15E|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Advanced Lab disassembled.",
+    "string": "El laboratorio avanzado ha sido desmantelado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_AdvancedWorkshop_Message_Stop_ArmorTable",
+    "form_id": "03081CFE|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "If you choose to upgrade this workbench, you will no longer be able to upgrade any grindstones. Continue?",
+    "string": "Si este banco de trabajo se mejora, las piedras de afilar ya no podrán ser mejoradas.\r\n\r\n¿Mejorar este banco de trabajo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Smh_AdvancedWorkshop_Message_Stop_SharpeningWheel",
+    "form_id": "03081CFF|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "If you choose to upgrade this grindstone, you will no longer be able to upgrade any workbenches. Continue?",
+    "string": "Si esta piedra de afilar se mejora, los bancos de trabajo ya no podrán ser mejorados.\r\n\r\n¿Mejorar este banco de trabajo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_CollegeLife_Message",
+    "form_id": "03083D6D|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your knowledge of the arcane increases.",
+    "string": "El conocimiento de las fuerzas arcanas ha aumentado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Arc_ThreeCrows_Message",
+    "form_id": "0308A430|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Triple Strike",
+    "string": "< Triple Golpe >",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Pic_Mutiny_Message_FailActive",
+    "form_id": "031D9BA9|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A mutiny is still in progress.",
+    "string": "Quizá esto deba esperar hasta que la motín termine, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Sne_LeapingShadow_Message",
+    "form_id": "0308DA3B|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Leaping Shadow Ready",
+    "string": "Salto de Sombra ahora está listo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Sne_LeapingShadow_Message_Fail",
+    "form_id": "0308DF9F|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Teleport Obstructed",
+    "string": "¡Lunas oscuras! Algo ha obstruido el teletransporte...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedricPlaything_Message_BadLuck_06_Dispel",
+    "form_id": "0308E509|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A Daedric force strips you of your spells!",
+    "string": "Una fuerza Daédrica ha despojado todos los hechizos! Hora del plan... G, sí? H, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedricPlaything_Message_BadLuck_04_Stop",
+    "form_id": "0308E50A|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A Daedric force holds you in place!",
+    "string": "Una fuerza Daédrica mantiene a este Khajiit inmóvil! Justo cuando le pica la nariz...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedricPlaything_Message_BadLuck_02_CartMode",
+    "form_id": "0308E50B|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A Daedric force blinds your senses!",
+    "string": "Una fuerza Daédrica ha cegado todos los sentidos de este Khajiit! Al menos ya no huele su hedor rancio, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedricPlaything_Message_BadLuck_08_NoFight",
+    "form_id": "0308EA84|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A Daedric force robs you of your fighting prowess!",
+    "string": "Una fuerza Daédrica ha robado a Khajiit su destreza de combate de <Alias.PronounPosObj=Player>! Hora de entrenamiento de “mente sobre materia”...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedricPlaything_Message_BadLuck_07_NoMenu",
+    "form_id": "0308EA82|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A Daedric force denies you your agency!",
+    "string": "Una fuerza Daédrica ha negado todo poder a Khajiit, ¡el cobarde sin garras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedricPlaything_Message_BadLuck_09_NoLook",
+    "form_id": "0308EA86|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A Daedric force forces your gaze!",
+    "string": "Una fuerza Daédrica obliga a Khajiit a mirarlos! Tan... horribles... tan... feos...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedricPlaything_Message_BadLuck_05_Teleport",
+    "form_id": "0308E50C|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A Daedric force flings you across Nirn!",
+    "string": "Una fuerza Daédrica ha lanzado a este Khajiit a través de Nirn! Los ojos de Khajiit pueden ver la casa de <Alias.PronounPosObj=Player> desde aquí...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedricPlaything_Message_BadLuck_00_Damage",
+    "form_id": "0308E50D|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A Daedric force assaults you with wracking pain!",
+    "string": "Una fuerza Daédrica ha atacado a este Khajiit con dolor intenso! ¡Aargh! (siseo)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedricPlaything_Message_BadLuck_01_Attributes",
+    "form_id": "0308E50E|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A Daedric force drains your energies!",
+    "string": "Una fuerza Daédrica está drenando la energía de Khajiit! ¡Lunas oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_DaedricPlaything_Message_BadLuck_03_Gold",
+    "form_id": "0308E513|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A Daedric force steals some of your Gold!",
+    "string": "Una fuerza Daédrica ha robado algunas monedas! ¡No las brillantes, no!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_EdgeOfOblivion_Message_Aflame",
+    "form_id": "0308F007|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A Daedric force immolates you!",
+    "string": "Una fuerza Daédrica ha incendiado a Khajiit! ¡No el pelaje!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Con_EdgeOfOblivion_Message_Help",
+    "form_id": "0308F00D|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Conjure or reanimate a minion before the fires of Oblivion take you!",
+    "string": "Hmm... quizá invocar o reanimar un esbirro antes de que las llamas del Oblivion consuman a Khajiit sea sabio, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Sne_RoguesLuck_Message",
+    "form_id": "0309209E|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You Got Lucky...",
+    "string": "Qué afortunado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Enc_TimeStandsStill_Message_Duration",
+    "form_id": "0309D300|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Halt the flow of time for how long?",
+    "string": "¿Cuánto tiempo debe mantenerse el flujo del tiempo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Enc_Spellscribe_Message_Fail_Ritual",
+    "form_id": "0309E329|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cannot store ritual spells.",
+    "string": "Los hechizos rituales no pueden ser almacenados... esto es conocido...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_Possession_Message_Break_Bleedout",
+    "form_id": "03092B7C|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Possession Broken",
+    "string": "La posesión ha sido rota.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_Possession_Message_Break_Distance",
+    "form_id": "03092B7D|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Distance Limit Exceeded",
+    "string": "¡Ziss! ¡Distancia de wafiit [imbécil]!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_Possession_Message_Break_Sheathed",
+    "form_id": "03092B7E|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Possession Relinquished",
+    "string": "La posesión de esta vasija ha sido liberada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_Possession_Message_Help_HowToDeactivate",
+    "form_id": "03092B7F|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Press [Ready Weapon] to sheathe your weapon and relinquish possession.",
+    "string": "Seguramente, envainar esta arma liberará la posesión de ellos, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Enc_Spellscribe_Message_Fail_Exclusion",
+    "form_id": "0309E32B|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cannot store this spell.",
+    "string": "Este hechizo no puede ser almacenado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Enc_Spellscribe_Message_Fail_NoDualCast",
+    "form_id": "0309E32D|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This power must be used while dual casting a spell.",
+    "string": "Este poder solo puede usarse mientras se lanza hechizo dual, no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Enc_Spellscribe_Message_Fail_DualCastingWrongSpell",
+    "form_id": "0309E330|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cannot store concentration, ground target or self target spells.",
+    "string": "Los hechizos de concentración, de área objetivo y de autocast no pueden ser almacenados, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Enc_Spellscribe_Message_Fail_InCombat",
+    "form_id": "0309E338|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This power cannot be used in combat.",
+    "string": "¡Este no es un poder de combate!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_ArcaneThesis_Fail_DualCastingWrongSpell",
+    "form_id": "0309E33F|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cannot store concentration or ground target spells.",
+    "string": "Los hechizos de concentración y de área objetivo no pueden almacenarse... seguramente esto ya era conocido, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_ArcaneThesis_Message_Fail_Exclusion",
+    "form_id": "0309E340|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cannot store this spell.",
+    "string": "Este hechizo no puede ser almacenado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_ArcaneThesis_Message_Fail_Ritual",
+    "form_id": "0309E343|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cannot store ritual spells.",
+    "string": "Los hechizos rituales no pueden ser almacenados... esto es conocido...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_ArcaneThesis_Message_Fail_NoDualCast",
+    "form_id": "0309E342|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This power must be used while dual casting a spell.",
+    "string": "Este poder solo puede usarse mientras se lanza hechizo dual, no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_ArcaneThesis_Message_Fail_AlreadySaved",
+    "form_id": "0309E344|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You already mastered a spell.",
+    "string": "Un hechizo ya ha sido dominado, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_ArcaneThesis_Message_Fail_InCombat",
+    "form_id": "0309E341|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This power cannot be used in combat.",
+    "string": "¡Este no es un poder de combate!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_NaturalMagic_Message",
+    "form_id": "0309E8B4|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spell assimilated.",
+    "string": "Un hechizo ha sido asimilado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_NaturalMagic_Message_Fail_DualCastingWrongSpell",
+    "form_id": "0309E8B5|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cannot assimilate concentration spells.",
+    "string": "Los hechizos de concentración no pueden ser asimilados, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_NaturalMagic_Message_Fail_Exclusion",
+    "form_id": "0309E8B6|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cannot assimilate this spell.",
+    "string": "Este hechizo no puede ser asimilado, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_NaturalMagic_Message_Fail_InCombat",
+    "form_id": "0309E8B7|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This power cannot be used in combat.",
+    "string": "¡Este no es un poder de combate!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_NaturalMagic_Message_Fail_NoDualCast",
+    "form_id": "0309E8B8|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This power must be used while dual casting a spell.",
+    "string": "Este poder solo puede usarse mientras se lanza hechizo dual, no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_NaturalMagic_Message_Fail_Ritual",
+    "form_id": "0309E8B9|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cannot assimilate ritual spells.",
+    "string": "Los hechizos rituales no pueden ser asimilados, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_NaturalMagic_Message_Unlearn",
+    "form_id": "0309EE22|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This spell is no longer your own.",
+    "string": "Este hechizo ya no pertenece a este Khajiit...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_NaturalMagic_Message_Relearn",
+    "form_id": "0309EE23|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your memory returns.",
+    "string": "¡Lunas oscuras! ¡Los recuerdos regresan!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Des_Cataclysm_Message",
+    "form_id": "030A3478|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cataclysm Ready",
+    "string": "Cataclismo ahora está listo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Des_GlacialPrison_Message",
+    "form_id": "030A2F11|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Glacial Prison Ready",
+    "string": "Prisión Glacial ahora está lista.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Des_AbsolutePower_Message",
+    "form_id": "030A39DE|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Absolute Power Ready",
+    "string": "Poder Absoluto ahora está listo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Des_Stormblast_Message",
+    "form_id": "030A1966|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Stormblast Ready",
+    "string": "Estallido de Tormenta ahora está listo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_Nemesis_Message_CooldownEnd",
+    "form_id": "030A54D8|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Nemesis Ready",
+    "string": "Némesis ahora está listo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_TheReaperComes_Message_CooldownEnd",
+    "form_id": "030A54DC|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The Reaper Comes Ready",
+    "string": "La Parca se acerca ahora está listo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_LambToTheSlaughter_Message_CooldownEnd",
+    "form_id": "030A54E0|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Lamb to the Slaughter Ready",
+    "string": "Cordero al Matadero ahora está listo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_HeavyWeighsTheTapestry_Message_CooldownEnd",
+    "form_id": "030A54E1|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Heavy Weighs the Tapestry Ready",
+    "string": "Pesado Pesa el Tapiz ahora está listo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_BlindGuardian_Message_CooldownEnd",
+    "form_id": "030A54E4|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Blind Guardian Ready",
+    "string": "Guardián Ciego ahora está listo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Ill_MindSpiders_Message_CooldownEnd",
+    "form_id": "030A653A|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Mind Spiders Ready",
+    "string": "Arañas de la Mente ahora está listo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Alt_CatsGrace_Message",
+    "form_id": "030A95C3|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cat's Grace Active",
+    "string": "Gracia del Gato ahora está listo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Spe_SpeakWithAnimals_Message_Blink",
+    "form_id": "030ACC66|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your Wild Companion found its way to you.",
+    "string": "Ah, un Compañero Salvaje ha encontrado su camino hasta aquí...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Res_TheDivineWithin_Message",
+    "form_id": "030B48A6|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The divine speaks to you!",
+    "string": "¡Lo divino habla!",
+    "status": "TranslationComplete"
+  }
+]

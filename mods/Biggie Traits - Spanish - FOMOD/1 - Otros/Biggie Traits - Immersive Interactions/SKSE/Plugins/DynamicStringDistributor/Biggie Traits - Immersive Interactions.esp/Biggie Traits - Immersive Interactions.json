@@ -1,0 +1,56 @@
+[
+  {
+    "editor_id": "AR_AnimPerk",
+    "form_id": "06000802|ImmersiveInteractions.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "AR_AnimPerk",
+    "string": "AR_AnimPerk",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AR_AnimPerk",
+    "form_id": "06000802|ImmersiveInteractions.esp",
+    "index": 0,
+    "type": "PERK EPFD",
+    "original": "Pet",
+    "string": "Mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AR_AnimPerk",
+    "form_id": "06000802|ImmersiveInteractions.esp",
+    "index": 1,
+    "type": "PERK EPFD",
+    "original": "Pet",
+    "string": "Mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AR_AnimPerk",
+    "form_id": "06000802|ImmersiveInteractions.esp",
+    "index": 2,
+    "type": "PERK EPFD",
+    "original": "Wave",
+    "string": "Ola",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AR_AnimPerk",
+    "form_id": "06000802|ImmersiveInteractions.esp",
+    "index": 3,
+    "type": "PERK EPFD",
+    "original": "Applaud",
+    "string": "Aplaudir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AR_AnimPerk",
+    "form_id": "06000802|ImmersiveInteractions.esp",
+    "index": 2,
+    "type": "PERK EPF2",
+    "original": "Loot",
+    "string": "Botín",
+    "status": "TranslationComplete"
+  }
+]

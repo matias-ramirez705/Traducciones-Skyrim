@@ -1,0 +1,71 @@
+[General]
+VIEW=VER
+EDIT=EDITAR
+SETTINGS=CONFIGURACIÓN
+Cancel=Cancelar
+Save=Guardar
+OK=Aceptar
+
+[Settings]
+Input Configuration=Configuración de entrada
+Window Appearance=Apariencia de ventana
+Keyboard Map=Mapa de teclas
+Grid Layout=Diseño de cuadricula
+Tile Appearance=Apariencia de mosaicos
+Label=Etiqueta
+Control=Control
+Key Label Size=Tamaño de la tecla
+Action Name Size=Tamaño del nombre
+Hover Text Size=Tamaño descripción
+Use Tile BG=Fondo de mosaico
+
+[Input]
+Global Hotkey=Tecla global
+Press any key...=Presiona cualquier tecla...
+
+[Details]
+Theme Presets=Temas predefinidos
+Select a Theme...=Seleccionar un tema...
+Use Custom BG=Fondo Personalizado
+Background Color=Color de fondo
+Border Width=Grosor de borde
+Border Color=Color de borde
+Select Background=Seleccionar fondo
+Background=Fondo
+No Backgrounds Found=No se encontraron imágenes
+Select Tile Style=Seleccionar estilo de mosaico
+Tile=Mosaico
+No Tiles Found=No se encontraron imágenes
+Tile Layout=Diseño de mosaicos
+Inline Row=Fila en linea
+Stacked Row=Fila apilada
+Card=Tarjeta
+Total Slots=Ranuras totales
+Tile Width=Ancho de mosaico
+Tile Height=Alto de mosaico
+Icon Size=Tamaño de icono
+Icon Box Color=Color fondo del icono
+Text Color=Color de texto
+Border Radius=Radio de borde
+Show Shadow=Mostrar sombra
+Global Accent Color=Color de acento global
+Font Scale=Escala de fuente
+
+[EditMode]
+Edit Tile=Editar mosaico
+Name:=Nombre:
+Hotkey:=Tecla:
+Bind Key=Asignar tecla
+Clear Key=Quitar tecla
+Icon:=Icono:
+Change Icon=Cambiar icono
+Clear Icon=Quitar icono
+Tint Color:=Color de tinte:
+Select Icon:=Seleccionar icono:
+
+[Labels]
+Empty=Vacío
+(None)=(Ninguno)
+
+[Tooltips]
+Keyboard Map=Mapa de teclas

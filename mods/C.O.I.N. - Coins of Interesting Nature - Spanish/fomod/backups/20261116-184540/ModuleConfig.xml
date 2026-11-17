@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with XIMOD Architect 2.3.0 [https://www.nexusmods.com/site/mods/2141] -->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
+	<moduleName>C.O.I.N. - Spanish</moduleName>
+	<requiredInstallFiles>
+		<folder source="00 Core" destination="" priority="0"/>
+	</requiredInstallFiles>
+	<installSteps order="Explicit">
+		<installStep name="Plugins">
+			<optionalFileGroups>
+				<group name="Parches" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="The Cause">
+							<description>Un parche que distribuye el mala ayleid a los espectros de The Cause.
+
+También funciona con The Cause - Reduced Cut.
+
+https://www.nexusmods.com/skyrimspecialedition/mods/66676</description>
+							<files>
+								<folder source="02 Patches\Cause" destination="" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="ccbgssse067-daedinv.esm" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="ccbgssse067-daedinv.esm" state="Inactive"/>
+												<fileDependency file="ccbgssse067-daedinv.esm" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Description Framework">
+							<description>Un parche para Description Framework que añade descripciones de inventario a los nuevos tipos de moneda.</description>
+							<files>
+								<folder source="02 Patches\DescriptionFramework" destination="" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<type name="Recommended"/>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+	</installSteps>
+</config>

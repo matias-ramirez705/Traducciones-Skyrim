@@ -1,0 +1,2009 @@
+[
+  {
+    "editor_id": "KhajiitAbClaws00Effect_sp0__",
+    "form_id": "05003336|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Claws",
+    "string": "Garras de Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClaws00Effect_sp0__",
+    "form_id": "05003336|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your claws do <mag> additional damage. Wearing only light armor or no armor increases the damage.",
+    "string": "Tus garras infligen <mag> de daño adicional. Usar solo armadura ligera o ninguna armadura aumenta el daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchAbsorbHealth_sp0__",
+    "form_id": "0502904F|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Absorb Health",
+    "string": "Colmillo Susurrante Absorber Salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchAbsorbHealth_sp0__",
+    "form_id": "0502904F|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Absorb <mag> points of health.",
+    "string": "Absorbe <mag> puntos de salud.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClaws10Effect_sp0__",
+    "form_id": "0500538C|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Claws",
+    "string": "Garras de Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClaws10Effect_sp0__",
+    "form_id": "0500538C|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your claws do <mag> additional damage. Wearing only light armor or no armor increases the damage.",
+    "string": "Tus garras infligen <mag> de daño adicional. Usar solo armadura ligera o ninguna armadura aumenta el daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFDisabledMsg02Effect_sp0__",
+    "form_id": "0502903E|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Disabled Msg 02",
+    "string": "Mensaje Deshabilitado de Colmillo Susurrante Msg 02",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFDisabledMsg02Effect_sp0__",
+    "form_id": "0502903E|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Displays message if item <xx> is equipped.",
+    "string": "Muestra un mensaje si el objeto <xx> está equipado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClaws20Effect_sp0__",
+    "form_id": "0500538D|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Claws",
+    "string": "Garras de Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClaws20Effect_sp0__",
+    "form_id": "0500538D|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your claws do <mag> additional damage. Wearing only light armor or no armor increases the damage.",
+    "string": "Tus garras infligen <mag> de daño adicional. Usar solo armadura ligera o ninguna armadura aumenta el daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFDisabledMsg01Effect_sp0__",
+    "form_id": "0502903D|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Disabled Msg 01",
+    "string": "Mensaje Deshabilitado de Colmillo Susurrante 01",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFDisabledMsg01Effect_sp0__",
+    "form_id": "0502903D|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Displays message if item <xx> is equipped.",
+    "string": "Muestra un mensaje si el objeto <xx> está equipado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClaws40Effect_sp0__",
+    "form_id": "0500538E|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Claws",
+    "string": "Garras de Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClaws40Effect_sp0__",
+    "form_id": "0500538E|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your claws do <mag> additional damage. Wearing only light armor or no armor increases the damage.",
+    "string": "Tus garras infligen <mag> de daño adicional. Usar solo armadura ligera o ninguna armadura aumenta el daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchDamageStaminaEffect_sp0__",
+    "form_id": "05019D45|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Damage Stamina",
+    "string": "Colmillo Susurrante Daño de Resistencia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchDamageStaminaEffect_sp0__",
+    "form_id": "05019D45|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Does <mag> points of Stamina damage.",
+    "string": "Causa <mag> puntos de daño a aguante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClaws60Effect_sp0__",
+    "form_id": "0500538F|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Claws",
+    "string": "Garras de Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClaws60Effect_sp0__",
+    "form_id": "0500538F|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your claws do <mag> additional damage. Wearing only light armor or no armor increases the damage.",
+    "string": "Tus garras infligen <mag> de daño adicional. Usar solo armadura ligera o ninguna armadura aumenta el daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF80DragonLeftEffect_sp0__",
+    "form_id": "0500FB39|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Dragon Left",
+    "string": "Colmillo Susurrante Dragón Izquierdo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF80DragonLeftEffect_sp0__",
+    "form_id": "0500FB39|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "HIDDEN: Left unarmed enchantment.",
+    "string": "OCULTO: Encantamiento de puño desnudo izquierdo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClaws80Effect_sp0__",
+    "form_id": "05005390|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Claws",
+    "string": "Garras de Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClaws80Effect_sp0__",
+    "form_id": "05005390|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your claws do <mag> additional damage. Wearing only light armor or no armor increases the damage.",
+    "string": "Tus garras infligen <mag> de daño adicional. Usar solo armadura ligera o ninguna armadura aumenta el daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF80DragonEffect_sp0__",
+    "form_id": "0500FB40|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang (the Dragon)",
+    "string": "Colmillo Susurrante (el Dragón)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF80DragonEffect_sp0__",
+    "form_id": "0500FB40|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "For <dur> seconds, unarmed hits absorb <15> Health, Magicka and Stamina. Power hits can paralyze or instantly kill.",
+    "string": "Durante <dur> segundos, los golpes desarmados absorben <15> Salud, Magia y Resistencia. Los golpes poderosos pueden paralizar o matar al instante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClawsPSEffect_sp0__",
+    "form_id": "05005391|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Claws",
+    "string": "Garras de Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClawsPSEffect_sp0__",
+    "form_id": "05005391|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your claws do <mag> additional damage. Wearing only light armor or no armor increases the damage.",
+    "string": "Tus garras infligen <mag> de daño adicional. Usar solo armadura ligera o ninguna armadura aumenta el daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchDisarmEffect_sp0__",
+    "form_id": "05044ACC|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Disarm",
+    "string": "Colmillo Susurrante Desarme",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchDisarmEffect_sp0__",
+    "form_id": "05044ACC|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Power attacks disarm foes ",
+    "string": "Los ataques poderosos desarmarán a los enemigos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbGotYourTongueEffect_sp0__",
+    "form_id": "0500231F|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Got Your Tongue",
+    "string": "Khajiit Te Quitaré la Lengua",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbGotYourTongueEffect_sp0__",
+    "form_id": "0500231F|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "The superior bartering skills of Khajiits make prices <mag><%> better.",
+    "string": "Las habilidades superiores de comercio de los Khajiit hacen que los precios sean <mag><%> mejores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF60TrollLeftEffect_sp0__",
+    "form_id": "0500FB2C|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Troll Left",
+    "string": "Colmillo Susurrante Trol Izquierdo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF60TrollLeftEffect_sp0__",
+    "form_id": "0500FB2C|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "HIDDEN: Left unarmed enchantment.",
+    "string": "OCULTO: Encantamiento de puño desnudo izquierdo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF60TrollEffect_sp0__",
+    "form_id": "0500FB33|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang (the Troll)",
+    "string": "Colmillo Susurrante (el Trol)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF60TrollEffect_sp0__",
+    "form_id": "0500FB33|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "For <dur> seconds, unarmed hits absorb <10> Health. Unarmed power hits can send foes flying back.",
+    "string": "Durante <dur> segundos, los golpes sin armas absorben <10> Salud. Los golpes poderosos sin armas pueden hacer que los enemigos vuelen hacia atrás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbLandsOnFeetEffect_sp0__",
+    "form_id": "05002889|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Lands on Feet",
+    "string": "Khajiit Siempre Caen de Pie",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbLandsOnFeetEffect_sp0__",
+    "form_id": "05002889|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Khajiits take <50%> less damage from falling when wearing light armor or no armor.",
+    "string": "Los Khajiit reciben <50%> menos daño por caídas cuando usan armaduras ligeras o ninguna armadura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchInstantKillEffect_sp0__",
+    "form_id": "0507C5E1|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Kill",
+    "string": "Colmillo Susurrante Matar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchInstantKillEffect_sp0__",
+    "form_id": "0507C5E1|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Unarmed attacks have a <xx%> chance to instantly kill.",
+    "string": "Los ataques sin armas tienen una <xx%> de probabilidad de matar instantáneamente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbNineLivesMenuEffect_sp0__",
+    "form_id": "05004E4F|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Has Nine Lives",
+    "string": "Khajiit Tiene Nueve Vidas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbNineLivesMenuEffect_sp0__",
+    "form_id": "05004E4F|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Khajiits have a <9%> chance to instantly be fully healed when their Health is reduced to <9%>.",
+    "string": "Los Khajiit tienen una <9%> de probabilidad de curarse completamente cuando su Salud cae al <9%>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF40SabrecatLeftEffect_sp0__",
+    "form_id": "0500AA1D|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Sabrecat Left",
+    "string": "Colmillo Susurrante Gato Sable Izquierda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF40SabrecatLeftEffect_sp0__",
+    "form_id": "0500AA1D|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "HIDDEN: Left unarmed enchantment.",
+    "string": "OCULTO: Encantamiento de puño desnudo izquierdo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbNineLivesRestoreHealthEffect_sp0__",
+    "form_id": "05084269|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Has Nine Lives",
+    "string": "Khajiit Tiene Nueve Vidas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbNineLivesRestoreHealthEffect_sp0__",
+    "form_id": "05084269|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your <Health> is now being fully restored!",
+    "string": "¡Tu <Salud> se ha restaurado completamente!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF40SabrecatEffect_sp0__",
+    "form_id": "0500AA24|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang (the Sabre Cat)",
+    "string": "Colmillo Susurrante (el Gato sable)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF40SabrecatEffect_sp0__",
+    "form_id": "0500AA24|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "For <dur> seconds, unarmed hits are even faster, damage <25> Magicka and can disarm. Power hits can knock down.",
+    "string": "Durante <dur> segundos, los golpes sin armas son aún más rápidos, hacen <25> de daño a Magia y pueden desarmar. Los golpes poderosos pueden derribar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbNineLivesTriggerEffect_sp0__",
+    "form_id": "050038A1|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Has Nine Lives Trigger",
+    "string": "Khajiit Tiene Nueve Vidas Activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbNineLivesTriggerEffect_sp0__",
+    "form_id": "050038A1|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "HIDDEN: Triggers script to cast Nine Lives healing spell on self.",
+    "string": "OCULTO: Activa el script para lanzar el hechizo de curación Nueve Vidas sobre ti mismo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchKnockbackEffect_sp0__",
+    "form_id": "05058ED5|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Knockback",
+    "string": "Colmillo Susurrante Empuje",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchKnockbackEffect_sp0__",
+    "form_id": "05058ED5|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Unarmed power attacks knock down foes.",
+    "string": "Los ataques poderosos sin armas derriban a los enemigos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbProtectiveManeEffect_sp0__",
+    "form_id": "05001DA4|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Protective Mane",
+    "string": "Khajiit Melena Protectora\n\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbProtectiveManeEffect_sp0__",
+    "form_id": "05001DA4|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Khajiit fur resists <10%> of damage from melee weapons and bows.",
+    "string": "El pelaje de Khajiit resiste <10%> del daño de las armas cuerpo a cuerpo y arcos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF20BearLeftEffect_sp0__",
+    "form_id": "0500AA10|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Bear Left",
+    "string": "Colmillo Susurrante Oso Izquierdo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF20BearLeftEffect_sp0__",
+    "form_id": "0500AA10|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "HIDDEN: Left unarmed enchantment.",
+    "string": "OCULTO: Encantamiento de puño desnudo izquierdo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF20BearEffect_sp0__",
+    "form_id": "0500AA17|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang (the Bear)",
+    "string": "Colmillo Susurrante (el Oso)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF20BearEffect_sp0__",
+    "form_id": "0500AA17|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "For <dur> seconds, unarmed hits damage <20> Stamina and slow. Unarmed power hits stagger much more.",
+    "string": "Durante <dur> segundos, los golpes sin armas hacen <20> de daño a la Estamina y ralentizan. Los golpes poderosos sin armas aturden mucho más.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbSkoomaCraftingMsgEffect_sp0__",
+    "form_id": "050038C0|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Skooma Crafting",
+    "string": "Khajiit Fabricación de Skooma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbSkoomaCraftingMsgEffect_sp0__",
+    "form_id": "050038C0|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Use a <cooking pot> to craft <Moon Sugar> and <Skooma>. Add Alchemist perks to increase its strength and value.",
+    "string": "Usa un <olla de cocina> para fabricar <Azúcar Lunar> y <Skooma>. Añade ventajas de Alquimia para aumentar su fuerza y valor.\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF10MudcrabLeftEffect_sp0",
+    "form_id": "0500AA03|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Crab Left",
+    "string": "Colmillo Susurrante Cangrejo Izquierdo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF10MudcrabLeftEffect_sp0",
+    "form_id": "0500AA03|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "HIDDEN: Left unarmed enchantment.",
+    "string": "OCULTO: Encantamiento de puño desnudo izquierdo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAdvSkillAimedEffect_sp0__",
+    "form_id": "05001836|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Adv Skill Aimed",
+    "string": "Habilidad Avanzada Khajiit Apuntada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF10MudcrabEffect_sp0__",
+    "form_id": "0500AA0A|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang (the Mudcrab)",
+    "string": "Colmillo Susurrante (el Cangrejo del barro)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF10MudcrabEffect_sp0__",
+    "form_id": "0500AA0A|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "For <dur> seconds, unarmed hits do <+3> and unarmed power hits do <+9> damage (both ignoring armor).",
+    "string": "Durante <dur> segundos, los golpes sin armas hacen <+3> y los golpes poderosos sin armas hacen <+9> de daño (ambos ignorando armadura).",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAdvSkillCloakEffect_sp0__",
+    "form_id": "05001834|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Martial Arts",
+    "string": "Artes Marciales Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAdvSkillCloakEffect_sp0__",
+    "form_id": "05001834|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Khajiits increase the <One Handed> skill when using their claws or the Whispering Fang powers.",
+    "string": "Los Khajiit aumentan la habilidad de <Una Mano> cuando usan sus garras o los poderes de Colmillo Susurrante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAdvSkillDisabledMsgEffect_sp0__",
+    "form_id": "05002DF4|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Skill Advancement Disabled",
+    "string": "Avance de Habilidad Khajiit Deshabilitado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAdvSkillDisabledMsgEffect_sp0__",
+    "form_id": "05002DF4|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Using your claws or the Whispering Fang will <not> advance the <One Handed> skill while a brawl quest is active.",
+    "string": "Usar tus garras o el poder de Colmillo Susurrante <no> avanzará la habilidad de <Una Mano> mientras esté activa una misión de pelea.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchKnockdownEffect_sp0__",
+    "form_id": "05044ACF|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Knockdown",
+    "string": "Colmillo Susurrante Derribo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchKnockdownEffect_sp0__",
+    "form_id": "05044ACF|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Unarmed power attacks knock down foes.",
+    "string": "Los ataques poderosos sin armas derriban a los enemigos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAdvSkillOnHitEffect_sp0__",
+    "form_id": "05001839|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Adv Skill on Hit",
+    "string": "Habilidad Avanzada Khajiit al Golpear",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAdvSkillOnHitEffect_sp0__",
+    "form_id": "05001839|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Monitors player unarmed hits on NPCs and advances One-Handed skill when they occur.",
+    "string": "Monitorea los golpes sin armas del jugador en NPCs y avanza la habilidad de Una Mano cuando ocurren.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchParalysis_sp0__",
+    "form_id": "0502904C|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Paralysis",
+    "string": "Colmillo Susurrante Parálisis",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchParalysis_sp0__",
+    "form_id": "0502904C|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Chance to paralyze the target for <dur> seconds.",
+    "string": "Posibilidad de paralizar al objetivo durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF00SkeeverLeftEffect_sp0__",
+    "form_id": "05053DD0|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Skeever Left",
+    "string": "Colmillo Susurrante Skeever Izquierdo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF00SkeeverLeftEffect_sp0__",
+    "form_id": "05053DD0|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "HIDDEN: Left unarmed enchantment.",
+    "string": "OCULTO: Encantamiento de puño desnudo izquierdo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF00SkeeverEffect_sp0__",
+    "form_id": "050213B1|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang (the Skeever)",
+    "string": "Colmillo Susurrante (el Skeever)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF00SkeeverEffect_sp0__",
+    "form_id": "050213B1|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "For <dur> seconds, unarmed attacks are faster, and unarmed power attacks stagger.",
+    "string": "Durante <dur> segundos, los ataques sin armas son más rápidos, y los ataques poderosos sin armas aturden.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitCrossesYourPathArmorEffect_sp0__",
+    "form_id": "050038BE|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Crosses Your Path",
+    "string": "Khajiit Cruza Tu Camino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitCrossesYourPathArmorEffect_sp0__",
+    "form_id": "050038BE|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Once a day, you can curse a foe, reducing armor to <mag>% and slowly damaging health for <dur> seconds.",
+    "string": "Una vez al día, puedes maldecir a un enemigo, reduciendo su armadura a <mag>% y dañando su salud lentamente durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitCrossesYourPathHealthEffect_sp0__",
+    "form_id": "050038BF|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Crosses Your Path - Health",
+    "string": "Khajiit Cruza Tu Camino - Salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbCatSkillsEffect_sp0__",
+    "form_id": "0504765E|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Cat Skills",
+    "string": "Habilidades Felinas Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbCatSkillsEffect_sp0__",
+    "form_id": "0504765E|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Khajiits learn Alchemy, Archery, Light Armor, Lockpicking, Pickpocket, Sneak and Speech skills <20%> faster.",
+    "string": "Los Khajiit aprenden las habilidades de Alquimia, Arquería, Armadura Ligera, Desbloqueo, Robo, Sigilo y Persuasión <20%> más rápido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchSlowEffect_sp0__",
+    "form_id": "05044ACE|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Slow",
+    "string": "Colmillo Susurrante Lento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitMoonShadowsEffect_sp0__",
+    "form_id": "05002324|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Moon Shadows",
+    "string": "Sombras Lunares",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitMoonShadowsEffect_sp0__",
+    "form_id": "05002324|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Once a day, Khajiits have the power to become invisible for <60> seconds.",
+    "string": "Una vez al día, los Khajiit tienen el poder de volverse invisibles durante <60> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchAbsorbStamina_sp0__",
+    "form_id": "0502904D|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Absorb Stamina",
+    "string": "Colmillo Susurrante Absorber Estamina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchAbsorbStamina_sp0__",
+    "form_id": "0502904D|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Absorb <mag> points of stamina.",
+    "string": "Absorbe <mag> puntos de aguante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchDamageHealthEffect_sp0__",
+    "form_id": "050630DB|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Damage Health",
+    "string": "Colmillo Susurrante Daño Salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchDamageHealthEffect_sp0__",
+    "form_id": "050630DB|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Unarmed hits do <+mag> damage, ignoring armor. Unarmed power attacks stagger and do twice the extra damage.",
+    "string": "Los golpes sin armas hacen <+mag> de daño, ignorando armadura. Los ataques poderosos sin armas aturden y hacen el doble de daño extra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchClawsFXEffect_sp0__",
+    "form_id": "050357C0|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Claws FX",
+    "string": "Colmillo Susurrante Garras FX",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchClawsFXEffect_sp0__",
+    "form_id": "050357C0|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Power attacks stagger foes",
+    "string": "Los ataques poderosos aturden a los enemigos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchDamageMagickaEffect_sp0__",
+    "form_id": "0501EE46|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Damage Magicka",
+    "string": "Colmillo Susurrante Daño Magia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchDamageMagickaEffect_sp0__",
+    "form_id": "0501EE46|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Does <mag> points of Stamina damage.",
+    "string": "Causa <mag> puntos de daño a aguante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RaceKhajiitUnarmedDamageReduced_sp0__",
+    "form_id": "0500AA05|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Claws",
+    "string": "Garras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RaceKhajiitUnarmedDamageReduced_sp0__",
+    "form_id": "0500AA05|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "NOTE: Set to detrimental to remove the original Claws damage.",
+    "string": "NOTA: Establecido como perjudicial para eliminar el daño original de las Garras.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "sp0_RaceKhajiitUnarmedDamage__",
+    "form_id": "0010C4E7|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Claws",
+    "string": "Garras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "sp0_RaceKhajiitUnarmedDamage__",
+    "form_id": "0010C4E7|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Khajiit claws do four times the damage of a man's punch.",
+    "string": "Las garras khajiitas infligen cuatro veces el daño de un puñetazo humano.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFDisabledMsg03Effect_sp0__",
+    "form_id": "05014C3A|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Disabled Msg 03",
+    "string": "Mensaje Deshabilitado de Colmillo Susurrante 03",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFDisabledMsg03Effect_sp0__",
+    "form_id": "05014C3A|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Displays message if item <xx> is equipped.",
+    "string": "Muestra un mensaje si el objeto <xx> está equipado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbCatwalkEffect_sp0__",
+    "form_id": "05002887|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Khajiit Catwalk",
+    "string": "Khajiit Andar Sigiloso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbCatwalkEffect_sp0__",
+    "form_id": "05002887|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Khajiits footsetps are always silent while sneaking.",
+    "string": "Las huellas de los Khajiit son siempre silenciosas mientras están agachados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "sp0_DLC1dunRedwaterSlowEffect__",
+    "form_id": "02014046|Dawnguard.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Increased Speed",
+    "string": "Velocidad aumentada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchAbsorbMagicka_sp0__",
+    "form_id": "0502904E|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whispering Fang Absorb Magicka",
+    "string": "Colmillo Susurrante Absorber Magia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWFEnchAbsorbMagicka_sp0__",
+    "form_id": "0502904E|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Absorb <mag> points of magicka.",
+    "string": "Absorbe <mag> puntos de magia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF80DragonEnchRight_sp0_",
+    "form_id": "0500FB3C|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Whispering Fang Dragon Ench Right",
+    "string": "Colmillo Susurrante Dragón Encantado Derecho\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF00SkeeverEnchLeft_sp0_",
+    "form_id": "05053DD3|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Whispering Fang Skeever Ench Left",
+    "string": "Colmillo Susurrante Rata Encantada Izquierda\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF00SkeeverEnchRight_sp0_",
+    "form_id": "0500CF95|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Whispering Fang Skeever Ench Right",
+    "string": "Colmillo Susurrante Rata Encantada Derecho\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF10CrabEnchRight_sp0_",
+    "form_id": "0500AA06|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Whispering Fang Crab Ench Right",
+    "string": "Colmillo Susurrante Cangrejo Encantado Derecho\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF10CrabEnchLeft_sp0_",
+    "form_id": "0500AA08|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Whispering Fang Crab Ench Left",
+    "string": "Colmillo Susurrante Cangrejo Encantado Izquierda\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF60TrollEnchLeft_sp0_",
+    "form_id": "0500FB31|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Whispering Fang Troll Ench Left",
+    "string": "Colmillo Susurrante Troll Encantado Izquierda\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF60TrollEnchRight_sp0_",
+    "form_id": "0500FB2F|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Whispering Fang Troll Ench Right",
+    "string": "Colmillo Susurrante Troll Encantado Derecho\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF40SabrecatEnchRight_sp0_",
+    "form_id": "0500AA20|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Whispering Fang Sabrecat Ench Right",
+    "string": "Colmillo Susurrante Gato Sable Encantado Derecho\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF40SabrecatEnchLeft_sp0_",
+    "form_id": "0500AA22|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Whispering Fang Sabrecat Ench Left",
+    "string": "Colmillo Susurrante Gato Sable Encantado Izquierda\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF20BearEnchRight_sp0_",
+    "form_id": "0500AA13|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Whispering Fang Bear Ench Right",
+    "string": "Colmillo Susurrante Oso Encantado Derecho\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF20BearEnchLeft_sp0_",
+    "form_id": "0500AA15|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Whispering Fang Bear Ench Left",
+    "string": "Colmillo Susurrante Oso Encantado Izquierda\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF80DragonEnchLeft_sp0_",
+    "form_id": "0500FB3E|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Whispering Fang Dragon Ench Left",
+    "string": "Colmillo Susurrante Dragón Encantado Izquierda\n\n\n\n\n\n\n\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF10Mudcrab_sp0_",
+    "form_id": "0500AA0D|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Whispering Fang 2 (the Mudcrab)",
+    "string": "Colmillo Susurrante 2 (el Cangrejo de Arena)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAdvSkillCloak_sp0_",
+    "form_id": "05001835|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Martial Arts",
+    "string": "Artes Marciales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAdvSkillAimed_sp0_",
+    "form_id": "05001838|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Khajiit Adv Skill Aimed",
+    "string": "Habilidad Avanzada Khajiit Apuntada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF20Bear_sp0_",
+    "form_id": "0500AA1A|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Whispering Fang 3 (the Bear)",
+    "string": "Colmillo Susurrante 3 (el Oso)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitCrossesYourPath_sp0_",
+    "form_id": "050038BC|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Khajiit Crosses Your Path",
+    "string": "Khajiit Cruza Tu Camino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClaws20_sp0_",
+    "form_id": "0503835A|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Claws",
+    "string": "Garras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbSkoomaCraftingMsg_sp0_",
+    "form_id": "050038C1|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Skooma Crafting",
+    "string": "Fabricación de Skooma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClaws10_sp0_",
+    "form_id": "05038358|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Claws",
+    "string": "Garras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF00Skeever_sp0_",
+    "form_id": "050213AF|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Whispering Fang 1 (the Skeever)",
+    "string": "Colmillo Susurrante 1 (el Rata)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF20BearLeft_sp0_",
+    "form_id": "0500AA11|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Whispering Fang Bear Left",
+    "string": "Colmillo Susurrante Oso Izquierdo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClawsPS_sp0_",
+    "form_id": "05008461|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Claws",
+    "string": "Garras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbProtectiveMane_sp0_",
+    "form_id": "05001DA2|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Protective Mane",
+    "string": "Melena Protectora",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF40Sabrecat_sp0_",
+    "form_id": "0500AA27|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Whispering Fang 4 (the Sabre Cat)",
+    "string": "Colmillo Susurrante 4 (el Gato Sable)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF80Dragon_sp0_",
+    "form_id": "0500FB43|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Whispering Fang 6 (the Dragon)",
+    "string": "Colmillo Susurrante 6 (el Dragón)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbGotYourTongue_sp0_",
+    "form_id": "05002320|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Got Your Tongue",
+    "string": "Te Tienen la Lengua",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbNineLivesTrigger_sp0_",
+    "form_id": "0500389E|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Nine Lives",
+    "string": "Nueve Vidas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitMoonShadows_sp0_",
+    "form_id": "05002322|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Moon Shadows",
+    "string": "Sombras Lunares",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClaws00_sp0_",
+    "form_id": "05038356|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Claws",
+    "string": "Garras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF40SabrecatLeft_sp0_",
+    "form_id": "0500AA1E|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Whispering Fang Sabrecat Left",
+    "string": "Colmillo Susurrante Gato Sable Izquierda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbNineLivesRestoreHealth_sp0_",
+    "form_id": "0500389C|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Nine Lives",
+    "string": "Nueve Vidas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbNineLivesMenu_sp0_",
+    "form_id": "05056799|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Nine Lives",
+    "string": "Nueve Vidas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF60Troll_sp0_",
+    "form_id": "0500FB36|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Whispering Fang 5 (the Troll)",
+    "string": "Colmillo Susurrante 5 (el Troll)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF60TrollLeft_sp0_",
+    "form_id": "0500FB2D|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Whispering Fang Troll Left",
+    "string": "Colmillo Susurrante Trol Izquierdo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbCatwalk_sp0_",
+    "form_id": "05001DA6|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Catwalk",
+    "string": "Caminar de Gato",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbLandsOnFeet_sp0_",
+    "form_id": "0500288A|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Lands on Feet",
+    "string": "Cae de Pie",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClaws60_sp0_",
+    "form_id": "0503D45E|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Claws",
+    "string": "Garras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbCatSkills_sp0_",
+    "form_id": "0504765C|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Cat Skills",
+    "string": "Habilidades de Gato",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClaws80_sp0_",
+    "form_id": "0503D460|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Claws",
+    "string": "Garras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RaceKhajiitClaws_sp0_",
+    "form_id": "0500AA07|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Claws",
+    "string": "Garras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RaceKhajiitClaws_sp0_",
+    "form_id": "0500AA07|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "NOTE: Magic effect set to detrimental to remove the original Khajiit Claws damage.",
+    "string": "NOTA: El efecto mágico se establece como perjudicial para eliminar el daño original de las Garras Khajiit.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "sp0_RaceKhajiitClaws",
+    "form_id": "000AA01E|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Claws",
+    "string": "Garras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "sp0_RaceKhajiitClaws",
+    "form_id": "000AA01E|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Khajiit claws do <15> points of damage.",
+    "string": "Tus garras de khajiita infligen <15> puntos de daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF80DragonLeft_sp0_",
+    "form_id": "0500FB3A|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Whispering Fang Dragon Left",
+    "string": "Colmillo Susurrante Dragón Izquierdo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbClaws40_sp0_",
+    "form_id": "0503D45C|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Claws",
+    "string": "Garras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF00SkeeverLeft_sp0_",
+    "form_id": "05053DD1|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Whispering Fang Skeever Left",
+    "string": "Colmillo Susurrante Skeever Izquierdo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF10MudcrabLeft_sp0_",
+    "form_id": "0500AA04|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Whispering Fang Mudcrab Left",
+    "string": "Colmillo Susurrante Cangrejo del barro Izquierdo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAdvSkillOnHit_sp0_",
+    "form_id": "0500183B|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Khajiit Adv Skill On Hit",
+    "string": "Habilidad Avanzada Khajiit al Golpear",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitCourierNote_sp0_",
+    "form_id": "05000D63|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Amazing Race Tweaks! Khajiit",
+    "string": "¡Ajustes de la Carrera Asombrosa! Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitCourierNote_sp0_",
+    "form_id": "05000D63|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\n\r\nWelcome to\r\n\r\nAmazing Race Tweaks! Khajiit\r\n\r\nby Sp0ckrates\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\nTHANK YOU!\r\n\r\nThis one thanks you! Just wanted to show appreciation for downloading \"Amazing Race Tweaks! Khajiit\" by having the courier give you a guide to the mod. You may keep it for reference, or get rid of it. It's totally up to you.\r\n\r\nGood Hunting!\r\n\r\n- Sp0ckrates\r\n[pagebreak]\r\nCONTENTS\r\n\r\n* About the Mod\r\n* What's New\r\n* Please Rate and Comment\r\n* Important: Remember to Save and Restart\r\n* About the Tweaks\r\n* Enhanced Unarmed Combat\r\n* Using Unarmed Combat to Increase the One Handed Skill\r\n* The Whispering Fang (Epic Unarmed Attacks!)\r\n* Making Skooma\r\n* Compatibility and Disabling\r\n* About the Video\r\n* About the Series\r\n* Mods You Might Like\r\n* 4 Million Downloads\r\n* Supporting Our Work\r\n* Version History\r\n[pagebreak]\r\nABOUT THE MOD\r\n\r\n\"Amazing Race Tweaks! Khajiit\" is for new or existing player characters. It can safely be disabled any time. The mod is an improvement of the popular release from the Steam Skyrim Workshop, which adds new powers and abilities for Khajiit and Khajiit Vampire races:\r\n\r\n* Cat Skills (new ability)\r\n* Catwalk (new ability)\r\n* Claws (improved ability)\r\n* Khajiit Crosses Your Path (new once-daily power)\r\n* Khajiit Got Your Tongue (new ability)\r\n* Khajiit Lands on Feet (new ability)\r\n* Khajiit Protective Mane (new ability)\r\n* Moon Shadows (new once-daily power)\r\n* Nine Lives (new ability)\r\n* Skooma Crafting (new ability)\r\n* Whispering Fang (6 new lesser powers)\r\n[pagebreak]\r\nWHAT'S NEW\r\n\r\nPlease read, as the mod mechanics have changed.  Versions 2.4 and 2.5 have various enhancements: \r\n\r\n(1) ADDITION: Added the ability to make Moon Sugar and craft Skooma potions at a *cooking pot* (but not an alchemy table). The Skooma Crafting ability is also displayed in the Active Effects menu.\r\n\r\n(2) ENHANCEMENT: All Skooma in the game now increases stamina for 5 minutes, instead of merely restoring it. All Skooma in the game now also increases carry weight for 5 minutes. In addition, all Skooma also has the Redwater Skooma drugged visual effect, and increases the player character's speed by 50% (instead of slowing 50%) for 60 seconds.\r\n\r\n(3) CHANGE: Updated this guidebook.\r\n[pagebreak] \r\nPLEASE RATE AND COMMENT\r\n\r\nLike the mod? Want to see more like it? Please rate it! Feedback is also appreciated. We spend hours testing each mod, but it's possible something doesn't work as advertised. If you discover something - no matter how small - you may post comments here:\r\nhttps://bethesda.net/en/mods/skyrim/mod-detail/4050577\r\n[pagebreak]\r\nIMPORTANT: REMEMBER TO SAVE AND RESTART\r\n\r\nSaving and restarting your game is sometimes required after downloading the mod or adding a another Armsman perk (see, \"Whispering Fang - Epic Unarmed Attacks\").\r\n[pagebreak]\r\nABOUT THE TWEAKS\r\n\r\n* Khajiit Cat Skills. You learn Thief skills 20% faster, like the Thief Stone.\r\n\r\n* Khajiit Catwalk. Your steps make no noise, so you're harder to detect.\r\n\r\n* Khajiit Claws. (See, \"Enhanced Unarmed Combat\".)\r\n\r\n* Khajiit Crosses Your Path. Curse a foe once a day, reducing the foe's armor rating 25% and damaging her health 3 a second for 60 seconds.\r\n\r\n* Khajiit Got Your Tongue. Your hypnotic voice makes merchants give you 20% better prices.\r\n\r\n* Khajiit Has Nine Lives. You have a 9% chance to instantly be fully healed when your health is reduced to 9%.\r\n\r\n* Khajiit Lands on Feet. Your catlike agility gives you 50% less damage from falls when wearing light or no armor.\r\n\r\n* Khajiit Protective Mane. Your fur resists 10% of damage.\r\n\r\n* Moon Shadows. Once a day, the moons render you invisible for 1 minute.\r\n\r\n* Skooma Crafting. At any cooking pot, make the moon sugar ingredient and Skooma with the new effects. The strength of the Skooma is determined by the Alchemy skill perks the player has. (See, \"Skooma Crafting\".)\r\n\r\n* Whispering Fang. (see, \"Whispering Fang - Epic Unarmed Attacks\".)\r\n[pagebreak]\r\nENHANCED UNARMED COMBAT\r\n\r\nNOTE: Please read, as the damage adjustments have changed. The mod makes martial arts a real option. You can now play as a Khajiit monk, using only your claws! Or use a dagger or one-handed weapon in one hand and claws in the other. New with version 2.4: Unlike the unmodded game, the One Handed skill levels up with each unarmed hit. Plus, unarmed damage increases - instead of remaining 12 additional damage - as you add the One Handed skill Armsman perks (1 - 5) and Paralyzing Strike perk. Adding the perks also gives you special attacks (see \"Whispering Fang\").  \r\n\r\nTo add immersion, unarmed damage is also modified by armor worn. Since armor slows you down and restricts movement, you do more unarmed damage wearing light armor than when wearing heavy. Wearing no armor lets you do even more damage with your claws. Damages are comparable to steel, glass and daedric swords and increases similar to the increased damage when the weapons are improved at a griding wheel. \r\n\r\nFor example, wearing heavy armor with no Armsman perk will give your claws the same base damage as an unimproved steel sword. Wearing heavy armor with the Paralyzing Strike perk will increase the damage, so your claws do the base damage of a steel sword improved to legendary. Similarly, wearing light armor with no Armsman perk makes your claws do the same damage as an unimproved glass sword. Wearing light armor with the Paralyzing Strike perk makes them do the same damage as a glass sword improved to legendary. By comparison, wearing no armor with no Armsman perk makes your claws deal the same damage as an unimproved daedric sword, while wearing no armor with the Paralyzing Strike perk causes them to deal the same damage as a daedric sword smithed to legendary. The actual additional damages displayed in the Magic Active Effects menu:\r\n\r\nBase Unarmed Damage with No Perk\r\n--------------------------------\r\n* heavy armor: +0 (10 damage = unimproved dwarven sword)\r\n* light armor: +2 (12 damage = unimproved glass sword)\r\n* no armor: +4 (14 damage = unimproved daedric sword)\r\n\r\nBase Unarmed Damage with Armsman 1 \r\n(One Handed Skill Perk)\r\n-----------------------\r\n* heavy armor: +4 (14 base damage)\r\n* light armor: +6 (16 base damage)\r\n* no armor: +8 (18 base damage)\r\n\r\nBase Unarmed Damage with Armsman 2 \r\n(One Handed Level 20 Perk)\r\n--------------------------\r\n* heavy armor: +8 (18 damage)\r\n* light armor: +11 (21 damage)\r\n* no armor: +13 (23 damage)\r\n\r\nBase Unarmed Damage with Armsman 3 \r\n(One Handed Level 40 Perk)\r\n--------------------------\r\n* heavy armor: +16 (26 damage)\r\n* light armor: +20 (30 damage) \r\n* no armor: +22 (32 damage)\r\n\r\nBase Unarmed Damage with Armsman 4\r\n(One Handed Level 60 Perk)\r\n--------------------------\r\n* heavy armor: +24 (34 damage)\r\n* light armor: +29 (39 damage)\r\n* no armor: +34 (42 damage)\r\n\r\nBase Unarmed Damage with Armsman 5\r\nOne Handed Level 80 Perk)\r\n-------------------------\r\n* heavy armor: +37 (47 damage)\r\n* light armor: +43 (53 damage)\r\n* no armor: +47 (57 damage)\r\n\r\nBase Unarmed Damage with Paralyzing Strike\r\n(One Handed Level 100 Perk)\r\n---------------------------\r\n* heavy armor: +50 (60 damage = legendary improved dwarven sword)\r\n* light armor: +56 (66 damage = legendary improved glass sword)\r\n* no armor: +62 (72 damage = legendary improved daedric sword)\r\n[pagebreak]\r\nUSING UNARMED COMBAT TO INCREASE THE ONE HANDED SKILL\r\n\r\nSkill increase for unarmed attacks is equal to a certain percent of the actual damage done by the attack, with or without a Whispering Fang power active. The percent amount is based on the One Handed skill level, as follows.\r\n\r\n* One Handed skill less than 20: Skill increase = 90% of the unarmed damage done\r\n\r\n* One Handed skill > 20 and < 40: Skill increase = 70% of the unarmed damage done\r\n\r\n* One Handed skill > 40 and < 60: Skill increase = 50% of the unarmed damage done\r\n\r\n* One Handed skill > 60 and < 80: Skill increase = 40% of the unarmed damage done\r\n\r\n* One Handed skill > 80 and < 100: Skill increase = 30% of the unarmed damage done\r\n\r\nThe percent amount was determined by comparing the number of hits required for a weapon doing similar damage to level the One Handed skill. Testing was done using this mod, a damage monitor script, and God Mode enabled. Examples of testing with attacks against herds of mammoths follow.\r\n\r\n(1) A character with the Armsman 1 perk using a daedric sword smithed to fine required a mean average of 11 hits (doing an approximately of 30.2 damage each hit) to increase the One Handed skill from 24 to 25. The same character with the same perk took using only claws required a mean average of 11 hits (doing approximately 27.0 each hit) to level the One Handed skill from 24 to 25.\r\n\r\n(2) With the Armsman 2 perk using a daedric sword smithed to superior, the character required a mean average of 11 hits (doing approximately 39.5 damage each hit) to increase One Handed from 24 to 25. With the same perk using only claws, the character required a mean average of 12 hits (doing approximately 34.5 damage each hit) to increase One Handed from 24 to 25.\r\n\r\n(3) With the Armsman 3 perk using a daedric sword smithed to exquisite, the character required a mean average of 28 hits (doing approximately 53.6 damage each hit) to increase One Handed from 40 to 41. With the same perk using only claws, the character required a mean average of 27 hits (doing approximately 48.0 damage each hit) to increase One Handed from 40 to 41.\r\n\r\n(4) With the Armsman 4 perk using a daedric sword smithed to flawless, the character required a mean average of 64 hits (doing approximately 71.6 damage each hit) to increase One Handed from 60 to 61. With the same perk using only claws, the character required a mean average of 70 hits (doing approximately 63 damage each hit) to increase One Handed from 60 to 61. \r\n\r\n(5) With the Armsman 5 perk using a daedric sword smithed to epic, the character required a mean average of 117 hits (doing approximately 93.2 damage each hit) to increase One Handed from 80 to 81. With the same perk using only claws, the character required a mean average of 112 hits (doing approximately 85.5 damage each hit) to increase One Handed from 80 to 81.\r\n[pagebreak]\r\nTHE WHISPERING FANG (EPIC UNARMED ATTACKS!)\r\n\r\n\"He was a Khajiit monk, a master of the Whispering Fang style. But now he's dead... and I have a new loincloth.\"\r\n- Arnbjorn, Dark Brotherhood Assassin\r\n\r\nThe Khajiit martial art mentioned by Arnbjorn is now a thing! For 60 seconds at a time, get unarmed special effects, similar to weapon enchantments, which are applied to your character's claws. As you add Armsman perks, you master new powers. The powers appear in the menu only if you have the required perks (save and restart after adding a perk). Your character's claws glow when a Whispering Fang power is active. They are lesser powers, which may be used as often as you like, and you don't have to wait 60 seconds to use a different one. \r\n\r\n* Whispering Fang 1 (the Skeever). No perk. Unarmed swings are silent and 30% faster. Unarmed power hits stagger. (The following powers have these effects, plus others.)\r\n\r\n* Whispering Fang 2 (the Mudcrab). Armsman 1 required. Unarmed hits do +3 damage, ignoring armor. Unarmed power hits do +9 damage (+3 damage for 3 seconds), ignoring armor.\r\n\r\n* Whispering Fang 3 (the Bear). Armsman 2 required. Unarmed hits damage 20 Stamina and slow 50%. Unarmed power hits always stagger significantly more (like the second Unrelenting Force shout).\r\n\r\n* Whispering Fang 4 (the Sabre Cat). Armsman 3 required. Unarmed hits are even faster, damage 25 Magicka and have a small chance to disarm. Unarmed power hits have a 25% chance to knock down.\r\n\r\n* Whispering Fang 5 (the Troll). Armsman 4 required. Unarmed hits absorb 10 health. Unarmed power hits have a 25% chance to send foes flying back!\r\n\r\n* Whispering Fang 6 (the Dragon). Armsman 5 required. Unarmed hits are even faster and absorb 15 Health, Magicka and Stamina. Unarmed power hits always stagger significantly more, have a 25% chance to paralyze and a 5% chance to instantly kill!\r\n[pagebreak]\r\nMAKING SKOOMA\r\n\r\nSo, Khajiit are known for their manufacture, distribution and use of Skooma. Now you can be a Skooma user or dealer, too! The illegal substance causes adiction (as the player can witness in the Redwater Den), but according to lore, Khajiits are immune. Benefits of the mod:\r\n\r\n(1) Improved Skooma\r\n-------------------\r\nMaking Skooma hardly seems worth it if it's no better than a Restore Stamina potion! Right? So now it is better, with these improvements:\r\n\r\n* Fortifies Stamina. Instead of merely restoring Stamina, Skooma now increases it for 5 minutes, making you stronger than before.\r\n\r\n* Increases Carry Weight. The enhanced strength of Skooma now also increases your carry weight.\r\n\r\n* Drugged Visuals. Now all Skooma has the visual effects giving you the immersive sensation of being high. But this only lasts for a minute.\r\n\r\n* Increased Speed. Skooma no longer slows you down. Instead it gives you a rush of speed. For the first 60 seconds after drining it, your speed is increased 50%.\r\n\r\n\r\n(2) Effects of Skooma Found in the World\r\n----------------------------------------\r\nEffects of Skooma found or purchased in the game are:\r\n\r\n* Common Skooma: Fortifies Stamina by 40. Increases carry weight by 30.\r\n\r\n* Double-Distilled Skooma: Fortifies Stamina by 80. Increases carry weight by 50.\r\n\r\n* Kordir's Skooma: Fortifies Stamina by 80. Increases carry weight by 50.\r\n\r\n* Redwater Den Skooma: Fortifes stamina by 100. Increases carry weight by 60.\r\n\r\n\r\n(3) Crafting Skooma Yourself\r\n----------------------------\r\nThe lore says that Skooma is made from Moon Sugar and Nightshade. Since both of these ingredients already have four possible effects, they cannot be used to make Skooma at an alchemy table. The mod's solution to this is to let you used the two ingredients to distill skooma at any cooking pot. For immersion's sake, we can say the distillation  process is a closely guarded secret known only to a few Khajiits, and even fewer non-Khajiits such as the Redwater Den vampire alchemist.\r\n\r\n* Buying or finding the Ingredients. Moon Sugar can be purchased from Khajiit and sometimes from alchemists. Nightshade is sometimes sold by alchemists and can be found in graveyards, in the marshes north of Morthal and in the streets of Solitude. \r\n\r\n* Making Moon Sugar Yourself. Guards are fond of teasing, \"Let me guess: Someone stole your sweet roll!\" Now we know why! Sweet rolls are the main ingredient used to make Moon Sugar. Combining three sweet rolls with one Nightshade at a cooking pot will make one Moon Sugar.\r\n\r\n* Making Skooma. To distill Skooma at a cooking pot, combine two Moon Sugar with an additional Nightshade.\r\n\r\n(4) Effects of the Skooma You Make\r\n----------------------------------\r\nAs you add Alchemy perks, the effects of the Skooma you create will be stronger, and so will the value. Perks required, the effects and the base value of the Skooma created are:\r\n\r\n* No Alchemy perk: Stamina +20. Carry weight +10. Base value 420.\r\n\r\n* Physician perk: Stamina +20. Carry weight +20. Base value 511. (Same combined effects and value of the Potions of Enhance Stamina and Strength).\r\n\r\n* Alchemist 1 perk: Stamina +40. Carry weight +30. Base value 997. (Same combined effects and value of the Draughts of Enhanced Stamina and Strength).\r\n\r\n* Alchemist 2 perk: Stamina +60. Carry weight +40. Base value 1507. (Same combined effects and value of the Solutions of Enhanced Stamina and Strength.)\r\n\r\n* Alchemist 3 perk: Stamina +80. Carry weight +50. Base value 2035. (Same combined effects and value of the Philters of Enhanced Stamina and Strength.)\r\n\r\n* Alchemist 4 perk: Stamina +100. Carry weight +60. Base value 2575. (Same combined effects and value of the Elixirs of Enhanced Stamina and Strength.)\r\n\r\n* Alchemist 5 perk: Stamina +120. Carry weight +70. Base value 3125.\r\n\r\n* Purist perk: Stamina +140. Carry weight +80. Base value 3685.\r\n[pagebreak]\r\nCOMPATIBILITY AND DISABLING\r\n\r\nThe mod doesn't change Khajiit race. It uses hidden quests to add new abilities and powers. It does change the Claws ability. Most mods changing races or adding NPCs should be compatible. All mods by sp0ckrates are compatible. Disable the mod any time to return abilities and powers to normal.\r\n[pagebreak]\r\nABOUT THE VIDEO\r\n\r\nThe YouTube video on the mod's page on Bethesda.net is of the previous edition of the mod. Increased jump height will be added in another mod, which we hope to release soon and will be called \"BIG: Jump Height!\" The song for the video is by The Stray Cats.\r\n[pagebreak]\r\nABOUT THE SERIES\r\n\r\nAmazing Race Tweaks (ART) is a series of mods to make each race a truly amazing to play. Hey, if the mods don't make each race a unique and fun experience, they shouldn't be called Amazing Race Tweaks! Right?\r\n[pagebreak]\r\nMODS YOU MIGHT LIKE\r\n\r\n* BIG Jump 5X (Jump like the Khajiits in the YouTube videos for this mod)\r\n* BIG Jump 2X (For a more immersive, double jump height)\r\n* ART Argonian (Amazing Race Tweaks for Argonian player characters and NPCs)\r\n* ART Dark Elf (Amazing Race Tweaks for Dark Elf player characters and NPCs)\r\n* ART Nord (Amazing Race Tweaks for Nord player characters and NPCs)\r\n* ART Wood Elf (Amazing Race Tweaks for Wood Elf player characters)\r\n\r\nSearch for sp0ckrates (spelled with the number zero) or these series:\r\n* ART: Amazing Race Tweaks\r\n* BIG: Better Improvements for Gameplay\r\n* GET: Game Environment Tweaks\r\n* HUNT: Hunters of Unusual and New Trophies\r\n* SET: Skyrim Encounters and Themes\r\n* STAR: Superior Treasure and Rewards\r\n* WAR: Weapons, Armor or Robes\r\n[pagebreak]\r\nFOUR MILLION DOWNLOADS\r\n\r\nMy partner and I have more than 4,000,000 downloads of our 100+ Skyrim mods on Bethesda, plus more on Steam and Nexus.\r\n[pagebreak]\r\nSUPPORTING OUR WORK\r\n\r\nMuch time and expense went into making quality mods for SSE. If you appreciate the fun we give, you can give back! Use PayPal.com to make a donation to sp0ckrates@outlook.com (spockrates is spelled with a zero).\r\n[pagebreak]\r\nVERSION HISTORY\r\n\r\n* Version 1.1. Initial release.\r\n\r\n* Version 1.2. (1) Removed the duplicate \"Khajiit Claws\" ability. (2) Added the \"Khajiit Crosses Your Path\" and \"Khajiit Moon Shadows\" powers.\r\n\r\n* Version 1.3. Fix for an issue where the player sometimes could not attack in first person view while Whispering Fang was active. (2) Disabled activating Whispering Fang while a bow or crossbow was equipped, as this caused the issue. (3) Added notifications instructing the player to unequip a bow or crossbow before activating Whispering Fang. (4) Changed menu descriptions for some Whispering Fang powers.\r\n\r\n* Version 1.4. The courier delivers this guide to the player.\r\n\r\n* Version 1.5. (1) Updated this guide. (2) Made changes to the Whispering Fang powers:  (a) The Mudcrab. Unarmed power attacks now deal 3 damage a second for 3 seconds. (b) The Bear. Unarmed power attacks now stagger significantly (like the second Unrelenting Force shout) instead of having a chance to knock down. (c) The Sabre Cat. Unarmed attacks are even faster. Unarmed power attacks now have a chance to knock down, instead of instantly killing. (d)  The Troll. Normal attacks now absorb 10 health, instead of having a chance to instantly kill. (e) The Dragon. Normal attacks absorb 15 Health, Magicka and Stamina. Power attacks now have a chance to instantly kill, as well as paralyze.\r\n\r\n* Version 1.6. (1) Changed the name of a Whispering Fang power from \"the Crab\" to \"the Mudcrab\". (2) Changed the amount of Health, Magicka and Stamina absorbed from 10 to 15 for \"Whispering Fang (the Dragon)\".\r\n\r\n* Version 1.7. (1) The \"Khajiit Lands on Feet\" ability now only applies if the player is wearing light or no armor (players wearing heavy armor can still get the 50% less damage from falling by adding the Cushioned perk). (2) Fixed an issue that prevented the player from activating the \"Khajiit Crosses Your Path\" power. (3) Updated this guidebook.\r\n\r\n* Version 1.8. The Courier now delivers the guidebook for this mod only if the player character is a Khijiit or Khajiit Vampire race. (If your Khajiit character doesn't receive the guidebook the next time the Courier visits, save and exit the game, disable (do NOT delete!) this mod, load the save, save and exit the game, enable the mod, load the save. He should now deliver the guidebook after you fast travel.)\r\n\r\n* Version 1.9. Added the new ability called \"Khajiit Catskills\", which lets you learn all Thief skills 20% faster, like the Thief Guardian Stone.\r\n\r\n* Version 2.0. Added a fix for the \"Brawl Bug\" which is common with mods that dynamically attach scripts. The mod should no longer cause NPCs to draw their weapons after they accept your invitation for a fistfight. Quests affected: \"Fight, Fight!\" (side quest), \"Muscle for Hire\" (Companions radiant quest), \"Taking Care of Business\" (from the main quest line of the Thieves Guild), and \"Take Up Arms\" (from the main quest line of The Companions). The fix was tested as working for each quest except \"Muscle for Hire\" but is should work for that quest, too. Please leave a comment with any brawl bugs you think have not been fixed.\r\n\r\n* Version 2.1. Fixed a glitch inadvertently added with in version 2.0, which prevented the \"the Mud Crab\" and \"the Sabre Cat\" Whispering Fang effects from being applied to the left hand.\r\n\r\n* Version 2.2. Fixed a glitch caused by a previous update that prevented the One Handed skill from increasing when using unarmed attacks.\r\n\r\n* Version 2.3. (1) Added a new ability \"Khajiit Has Nine Lives\", which gives the player character a 9% chance to instantly be fully healed when health is reduced to 9% or lower. (2) Corrected the descriptions in this guidebook of the \"Khajiit Crosses Your Path\" and \"Khajiit Moon Shadows\" powers.\r\n\r\n* Version 2.4. (1) Using claws now increase the One Handed skill (special thanks to devonoel for reporting the issue). (2) Adjusted the claws damage for each Armsman perk (see, \"Unarmed Enhancements\"). (3) Fixed a glitch where bow or spell sometimes would temporarily be unusable after activating a Whispering Fang power. (4) NPCs the player meets no longer say, \"Look at the colors!\", \"Keep that magic away from me!\" and similar statements. (5) Changed menu art and descriptions from some of the new powers and abilities.\r\n\r\n* Version 2.5. Updated this guidebook.\r\n[pagebreak]\r\n</p>",
+    "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n\r\n\r\n¡Bienvenido a\r\n\r\nAmazing Race Tweaks! Khajiit\r\n\r\npor Sp0ckrates\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\n¡GRACIAS!\r\n\r\n¡Este agradece! Solo quería mostrar mi agradecimiento por descargar \"Amazing Race Tweaks! Khajiit\" haciendo que el mensajero te dé una guía del mod. Puedes guardarla para referencia, o deshacerte de ella. Depende totalmente de ti.\r\n\r\n¡Buena caza!\r\n\r\n- Sp0ckrates\r\n[pagebreak]\r\nCONTENIDOS\r\n\r\n* Acerca del Mod\r\n* Qué hay de nuevo\r\n* Por favor califica y comenta\r\n* Importante: Recuerda guardar y reiniciar\r\n* Acerca de las Modificaciones\r\n* Combate sin armas mejorado\r\n* Usar el combate sin armas para aumentar la habilidad de una mano\r\n* La Garra Susurrante (¡Ataques Épicos sin armas!)\r\n* Hacer Skooma\r\n* Compatibilidad y Desactivación\r\n* Acerca del Video\r\n* Acerca de la Serie\r\n* Mods que podrías gustarte\r\n* 4 millones de descargas\r\n* Apoyando nuestro trabajo\r\n* Historial de versiones\r\n[pagebreak]\r\nACERCA DEL MOD\r\n\r\n\"Amazing Race Tweaks! Khajiit\" es para personajes nuevos o existentes. Se puede desactivar de manera segura en cualquier momento. El mod es una mejora del popular lanzamiento del Steam Skyrim Workshop, que agrega nuevos poderes y habilidades para las razas Khajiit y Khajiit Vampiro:\r\n\r\n* Habilidades de Gato (nueva habilidad)\r\n* Caminata de Gato (nueva habilidad)\r\n* Garras (habilidad mejorada)\r\n* Khajiit Cruza tu Camino (nuevo poder diario)\r\n* Khajiit Te Tiene la Lengua (nueva habilidad)\r\n* Khajiit Cae de Pie (nueva habilidad)\r\n* Melena Protectora de Khajiit (nueva habilidad)\r\n* Sombras de Luna (nuevo poder diario)\r\n* Nueve Vidas (nueva habilidad)\r\n* Fabricación de Skooma (nueva habilidad)\r\n* Garra Susurrante (6 nuevos poderes menores)\r\n[pagebreak]\r\nQUÉ HAY DE NUEVO\r\n\r\nPor favor lee, ya que la mecánica del mod ha cambiado. Las versiones 2.4 y 2.5 tienen varias mejoras:\r\n\r\n(1) ADICIÓN: Se añadió la capacidad de hacer Azúcar de Luna y fabricar pociones de Skooma en un *caldero de cocina* (pero no en una mesa de alquimia). La habilidad de Fabricación de Skooma también se muestra en el menú de Efectos Activos.\r\n\r\n(2) MEJORA: Todo el Skooma en el juego ahora aumenta la resistencia durante 5 minutos, en lugar de solo restaurarla. Todo el Skooma ahora también aumenta el peso que puedes cargar durante 5 minutos. Además, todo el Skooma ahora tiene el efecto visual de droga de Redwater Skooma, y aumenta la velocidad del personaje en un 50% (en lugar de ralentizar un 50%) durante 60 segundos.\r\n\r\n(3) CAMBIO: Se actualizó esta guía.\r\n[pagebreak]\r\nPOR FAVOR CALIFICA Y COMENTA\r\n\r\n¿Te gusta el mod? ¿Quieres ver más como este? ¡Por favor califícalo! También se agradecen los comentarios. Pasamos horas probando cada mod, pero es posible que algo no funcione como se anuncia. Si descubres algo, no importa cuán pequeño sea, puedes dejar comentarios aquí:\r\nhttps://bethesda.net/en/mods/skyrim/mod-detail/4050577\r\n[pagebreak]\r\nIMPORTANTE: RECUERDA GUARDAR Y REINICIAR\r\n\r\nGuardar y reiniciar tu juego es a veces necesario después de descargar el mod o añadir otro talento de Armsman (ver, \"Garra Susurrante - ¡Ataques Épicos sin armas!\").\r\n[pagebreak]\r\nACERCA DE LAS MODIFICACIONES\r\n\r\n* Habilidades de Gato de Khajiit. Aprendes habilidades de ladrón un 20% más rápido, como la Piedra de Ladrón.\r\n\r\n* Caminata de Gato de Khajiit. Tus pasos no hacen ruido, por lo que eres más difícil de detectar.\r\n\r\n* Garras de Khajiit. (Ver, \"Combate sin armas mejorado\".)\r\n\r\n* Khajiit Cruza tu Camino. Maldita a un enemigo una vez al día, reduciendo su calificación de armadura un 25% y dañando su salud 3 por segundo durante 60 segundos.\r\n\r\n* Khajiit Te Tiene la Lengua. Tu voz hipnótica hace que los comerciantes te den precios un 20% mejores.\r\n\r\n* Khajiit Tiene Nueve Vidas. Tienes un 9% de probabilidad de curarte instantáneamente cuando tu salud se reduce al 9%.\r\n\r\n* Khajiit Cae de Pie. Tu agilidad felina reduce el daño de las caídas un 50% cuando llevas armaduras ligeras o ninguna.\r\n\r\n* Melena Protectora de Khajiit. Tu pelaje resiste un 10% del daño.\r\n\r\n* Sombras de Luna. Una vez al día, las lunas te vuelven invisible durante 1 minuto.\r\n\r\n* Fabricación de Skooma. En cualquier caldero de cocina, haz el ingrediente de azúcar de luna y Skooma con los nuevos efectos. La fuerza del Skooma se determina por las habilidades de Alquimia que tenga el jugador. (Ver, \"Fabricación de Skooma\".)\r\n\r\n* Garra Susurrante. (Ver, \"Garra Susurrante - ¡Ataques Épicos sin armas!\".)\r\n[pagebreak]\r\nCOMBATE SIN ARMAS MEJORADO\r\n\r\nNOTA: Por favor lee, ya que los ajustes de daño han cambiado. El mod convierte las artes marciales en una opción real. Ahora puedes jugar como un monje Khajiit, ¡usando solo tus garras! O usar un daga o arma de una mano en una mano y garras en la otra. Nuevo con la versión 2.4: A diferencia del juego sin modificar, la habilidad de una mano sube con cada golpe sin armas. Además, el daño sin armas aumenta, en lugar de quedarse en 12 de daño adicional, a medida que añades las habilidades de Armsman de una mano (1 - 5) y la habilidad de Golpe Paralizante. Añadir estas habilidades también te da ataques especiales (ver \"Garra Susurrante\").\r\n\r\nPara agregar inmersión, el daño sin armas también es modificado por la armadura que llevas. Dado que la armadura te ralentiza y restringe el movimiento, haces más daño sin armas usando armaduras ligeras que usando armaduras pesadas. No llevar armadura te permite hacer aún más daño con tus garras. Los daños son comparables a las espadas de acero, vidrio y daédrico y aumentan de manera similar al daño aumentado cuando las armas son mejoradas en la rueda de afilar.\r\n\r\nPor ejemplo, usar armadura pesada sin la habilidad Armsman te dará las mismas estadísticas de daño base que una espada de acero sin mejorar. Usar armadura pesada con la habilidad Golpe Paralizante aumentará el daño, así tus garras harán el mismo daño que una espada de acero mejorada a legendario. Similarmente, usar armadura ligera sin la habilidad Armsman hará que tus garras hagan el mismo daño que una espada de vidrio sin mejorar, mientras que usar armadura ligera con la habilidad Golpe Paralizante hará que tus garras hagan el mismo daño que una espada de vidrio mejorada a legendario. Al compararlo, no llevar armadura sin la habilidad Armsman hará que tus garras hagan el mismo daño que una espada daédrica sin mejorar, mientras que no llevar armadura con la habilidad Golpe Paralizante hará que tus garras hagan el mismo daño que una espada daédrica forjada a legendario. El daño adicional real se muestra en el menú de Efectos Activos de Magia:\r\n\r\nDaño Base sin Armas sin Habilidad\r\n--------------------------------\r\n* armadura pesada: +0 (10 de daño = espada enana sin mejorar)\r\n* armadura ligera: +2 (12 de daño = espada de vidrio sin mejorar)\r\n* sin armadura: +4 (14 de daño = espada daédrica sin mejorar)\r\n\r\nDaño Base sin Armas con Armsman 1\r\n(Habilidad de Una Mano)\r\n-----------------------\r\n* armadura pesada: +4 (14 de daño base)\r\n* armadura ligera: +6 (16 de daño base)\r\n* sin armadura: +8 (18 de daño base)\r\n\r\nDaño Base sin Armas con Armsman 2\r\n(Habilidad de Una Mano Nivel 20)\r\n--------------------------\r\n* armadura pesada: +8 (18 de daño)\r\n* armadura ligera: +11 (21 de daño)\r\n* sin armadura: +13 (23 de daño)\r\n\r\nDaño Base sin Armas con Armsman 3\r\n(Habilidad de Una Mano Nivel 40)\r\n--------------------------\r\n* armadura pesada: +16 (26 de daño)\r\n* armadura ligera: +20 (30 de daño)\r\n* sin armadura: +22 (32 de daño)\r\n\r\nDaño Base sin Armas con Armsman 4\r\n(Habilidad de Una Mano Nivel 60)\r\n--------------------------\r\n* armadura pesada: +24 (34 de daño)\r\n* armadura ligera: +29 (39 de daño)\r\n* sin armadura: +34 (42 de daño)\r\n\r\nDaño Base sin Armas con Armsman 5\r\n(Habilidad de Una Mano Nivel 80)\r\n-------------------------\r\n* armadura pesada: +37 (47 de daño)\r\n* armadura ligera: +44 (54 de daño)\r\n* sin armadura: +50 (60 de daño)\r\n\r\nDaño Base sin Armas con Golpe Paralizante\r\n(Habilidad de Una Mano Nivel 100)\r\n---------------------------\r\n* armadura pesada: +50 (60 de daño = espada enana legendaria mejorada)\r\n* armadura ligera: +60 (70 de daño = espada de cristal legendaria mejorada)\r\n* sin armadura: +70 (80 de daño = espada daédrica legendaria mejorada)\r\n[pagebreak]\r\nUSO DEL COMBATE SIN ARMAS PARA AUMENTAR LA HABILIDAD DE UNA MANO\r\n\r\nEl aumento de habilidad para ataques sin armas es igual a un cierto porcentaje del daño real causado por el ataque, con o sin el poder Colmillo Susurrante activo. El porcentaje se basa en el nivel de habilidad de Una Mano, como se indica a continuación.\r\n\r\n* Habilidad de una mano menor a 20: aumento de habilidad = 90 % del daño infligido sin armas\r\n\r\n* Habilidad de una mano > 20 y < 40: aumento de habilidad = 70 % del daño infligido sin armas\r\n\r\n* Habilidad de una mano > 40 y < 60: aumento de habilidad = 50 % del daño infligido sin armas\r\n\r\n* Habilidad de una mano > 60 y < 80: aumento de habilidad = 40 % del daño infligido sin armas\r\n\r\n* Habilidad de una mano > 80 y < 100: aumento de habilidad = 30 % del daño infligido sin armas\r\n\r\nLa cantidad de porcentaje se determinó comparando el número de golpes necesarios para una arma que hace un daño similar al de subir la habilidad de una mano. Las pruebas se realizaron utilizando este mod, un script de monitoreo de daño y con el Modo Dios activado. A continuación se presentan ejemplos de las pruebas realizadas con ataques contra manadas de mamuts.\r\n\r\n(1) Un personaje con la habilidad de Perk \"Armsman 1\" usando una espada daédrica forjada a calidad fina requirió un promedio de 11 golpes (haciendo aproximadamente 30.2 de daño por golpe) para subir la habilidad de una mano del nivel 24 al 25. El mismo personaje con el mismo perk usando solo garras requirió un promedio de 11 golpes (haciendo aproximadamente 27.0 de daño por golpe) para subir la habilidad de una mano del nivel 24 al 25.\r\n\r\n(2) Con el Perk \"Armsman 2\" usando una espada daédrica forjada a calidad superior, el personaje requirió un promedio de 11 golpes (haciendo aproximadamente 39.5 de daño por golpe) para subir la habilidad de una mano del nivel 24 al 25. Con el mismo perk usando solo garras, el personaje requirió un promedio de 12 golpes (haciendo aproximadamente 34.5 de daño por golpe) para subir la habilidad de una mano del nivel 24 al 25.\r\n\r\n(3) Con el Perk \"Armsman 3\" usando una espada daédrica forjada a calidad exquisita, el personaje requirió un promedio de 28 golpes (haciendo aproximadamente 53.6 de daño por golpe) para subir la habilidad de una mano del nivel 40 al 41. Con el mismo perk usando solo garras, el personaje requirió un promedio de 27 golpes (haciendo aproximadamente 48.0 de daño por golpe) para subir la habilidad de una mano del nivel 40 al 41.\r\n\r\n(4) Con el Perk \"Armsman 4\" usando una espada daédrica forjada a calidad impecable, el personaje requirió un promedio de 64 golpes (haciendo aproximadamente 71.6 de daño por golpe) para subir la habilidad de una mano del nivel 60 al 61. Con el mismo perk usando solo garras, el personaje requirió un promedio de 70 golpes (haciendo aproximadamente 63 de daño por golpe) para subir la habilidad de una mano del nivel 60 al 61.\r\n\r\n(5) Con el Perk \"Armsman 5\" usando una espada daédrica forjada a calidad épica, el personaje requirió un promedio de 117 golpes (haciendo aproximadamente 93.2 de daño por golpe) para subir la habilidad de una mano del nivel 80 al 81. Con el mismo perk usando solo garras, el personaje requirió un promedio de 112 golpes (haciendo aproximadamente 85.5 de daño por golpe) para subir la habilidad de una mano del nivel 80 al 81.\r\n[pagebreak]\r\nTHE WHISPERING FANG (¡ATAQUES DESNUDOS EPICOS!)\r\n\r\n\"Él era un monje Khajiit, un maestro del estilo Whispering Fang. Pero ahora está muerto... y yo tengo un nuevo taparabos.\"\r\n- Arnbjorn, Asesino de la Hermandad Oscura\r\n\r\n¡El arte marcial Khajiit mencionado por Arnbjorn ahora es una realidad! Durante 60 segundos a la vez, obtén efectos especiales desarmados, similares a los encantamientos de armas, que se aplican a las garras de tu personaje. A medida que añades habilidades de Armsman, dominas nuevos poderes. Los poderes solo aparecen en el menú si tienes los perks requeridos (guarda y reinicia después de agregar un perk). Las garras de tu personaje brillan cuando un poder de Whispering Fang está activo. Son poderes menores, que se pueden usar tantas veces como quieras, y no necesitas esperar 60 segundos para usar uno diferente.\r\n\r\n* Whispering Fang 1 (el Skeever). Sin perk. Los golpes desarmados son silenciosos y un 30% más rápidos. Los golpes de poder desarmados aturden. (Los siguientes poderes tienen estos efectos, entre otros.)\r\n\r\n* Whispering Fang 2 (el Cangrejo de barro). Se requiere Armsman 1. Los golpes desarmados hacen +3 de daño, ignorando la armadura. Los golpes de poder desarmados hacen +9 de daño (+3 de daño durante 3 segundos), ignorando la armadura.\r\n\r\n* Whispering Fang 3 (el Oso). Se requiere Armsman 2. Los golpes desarmados dañan 20 de aguante y ralentizan un 50%. Los golpes de poder desarmados siempre aturden más significativamente (como el segundo grito de Fuerza imparable).\r\n\r\n* Whispering Fang 4 (el Gato sable). Se requiere Armsman 3. Los golpes desarmados son aún más rápidos, dañan 25 de Magia y tienen una pequeña posibilidad de desarmar. Los golpes de poder desarmados tienen un 25% de posibilidad de derribar.\r\n\r\n* Whispering Fang 5 (el Troll). Se requiere Armsman 4. Los golpes desarmados absorben 10 de salud. Los golpes de poder desarmados tienen un 25% de posibilidad de lanzar a los enemigos hacia atrás.\r\n\r\n* Whispering Fang 6 (el Dragón). Se requiere Armsman 5. Los golpes desarmados son aún más rápidos y absorben 15 de Salud, Magia y Aguante. Los golpes de poder desarmados siempre aturden significativamente más, tienen un 25% de posibilidad de paralizar y un 5% de posibilidad de matar al instante.\r\n[pagebreak]\r\nHACER SKOOMA\r\n\r\nAsí que los Khajiit son conocidos por su fabricación, distribución y uso de Skooma. ¡Ahora tú también puedes ser un usuario o distribuidor de Skooma! La sustancia ilegal causa adicción (como el jugador puede ser testigo en la Redwater Den), pero según la tradición, los Khajiits son inmunes. Beneficios del mod:\r\n\r\n(1) Skooma mejorado\r\n--------------------\r\nHacer Skooma parece que no vale la pena si no es mejor que una poción de Restauración de Aguante, ¿verdad? ¡Ahora es mejor, con estas mejoras:\r\n\r\n* Fortifica el Aguante. En lugar de solo restaurar el Aguante, el Skooma ahora lo aumenta durante 5 minutos, haciéndote más fuerte que antes.\r\n\r\n* Aumenta el Peso que puedes llevar. La fuerza mejorada del Skooma ahora también aumenta tu peso máximo.\r\n\r\n* Visuales drogadas. Ahora todo el Skooma tiene los efectos visuales que te dan la sensación inmersiva de estar drogado. Pero esto solo dura un minuto.\r\n\r\n* Aumento de Velocidad. El Skooma ya no te ralentiza. En cambio, te da un aumento de velocidad. Durante los primeros 60 segundos después de beberlo, tu velocidad aumenta un 50%.\r\n\r\n\r\n(2) Efectos del Skooma Encontrado en el Mundo\r\n----------------------------------------\r\nLos efectos del Skooma encontrado o comprado en el juego son:\r\n\r\n* Skooma Común: Aumenta la Resistencia en 40. Aumenta el peso que se puede cargar en 30.\r\n\r\n* Skooma Doble Destilado: Aumenta la Resistencia en 80. Aumenta el peso que se puede cargar en 50.\r\n\r\n* Skooma de Kordir: Aumenta la Resistencia en 80. Aumenta el peso que se puede cargar en 50.\r\n\r\n* Skooma de Redwater Den: Aumenta la Resistencia en 100. Aumenta el peso que se puede cargar en 60.\r\n\r\n\r\n(3) Fabricar Skooma Tú Mismo\r\n----------------------------\r\nLa tradición dice que el Skooma se elabora a partir de Azúcar Lunar y Acónito. Dado que ambos ingredientes ya tienen cuatro efectos posibles, no se pueden usar para hacer Skooma en una mesa de alquimia. La solución del mod a esto es permitirte usar los dos ingredientes para destilar Skooma en cualquier caldero de cocina. Por razones de inmersión, podemos decir que el proceso de destilación es un secreto muy guardado conocido solo por algunos Khajiit, y aún menos no-Khajiit, como el alquimista vampiro de Redwater Den.\r\n\r\n* Comprar o encontrar los Ingredientes. El Azúcar Lunar se puede comprar a los Khajiit y, a veces, a los alquimistas. El Acónito se vende algunas veces por los alquimistas y se puede encontrar en cementerios, en los pantanos al norte de Morthal y en las calles de Solitude.\r\n\r\n* Fabricar Azúcar Lunar Tú Mismo. A los guardias les gusta burlarse, \"¡Déjame adivinar: alguien te robó tu rollo de dulce!\" ¡Ahora sabemos por qué! Los rollos de dulce son el ingrediente principal para hacer Azúcar Lunar. Combina tres rollos de dulce con un Acónito en un caldero de cocina para hacer un Azúcar Lunar.\r\n\r\n* Hacer Skooma. Para destilar Skooma en un caldero de cocina, combina dos Azúcares Lunares con un Acónito adicional.\r\n\r\n(4) Efectos del Skooma que Fabricas\r\n----------------------------------\r\nA medida que agregas ventajas de Alquimia, los efectos del Skooma que creas serán más fuertes, al igual que su valor. Las ventajas requeridas, los efectos y el valor base del Skooma creado son:\r\n\r\n* Sin ventaja de Alquimia: Resistencia +20. Peso de carga +10. Valor base 420.\r\n\r\n* Ventaja de Médico: Resistencia +20. Peso de carga +20. Valor base 511. (Mismos efectos combinados y valor de las Pociones de Resistencia Mejorada y Fuerza).\r\n\r\n* Ventaja de Alquimista 1: Resistencia +40. Peso de carga +30. Valor base 997. (Mismos efectos combinados y valor de las Bebidas de Resistencia Mejorada y Fuerza).\r\n\r\n* Ventaja de Alquimista 2: Resistencia +60. Peso de carga +40. Valor base 1507. (Mismos efectos combinados y valor de las Soluciones de Resistencia Mejorada y Fuerza.)\r\n\r\n* Ventaja de Alquimista 3: Resistencia +80. Peso de carga +50. Valor base 2035. (Mismos efectos combinados y valor de los Filtros de Resistencia Mejorada y Fuerza.)\r\n\r\n* Ventaja de Alquimista 4: Resistencia +100. Peso de carga +60. Valor base 2575. (Mismos efectos combinados y valor de los Elixires de Resistencia Mejorada y Fuerza.)\r\n\r\n* Ventaja de Alquimista 5: Resistencia +120. Peso de carga +70. Valor base 3125.\r\n\r\n* Ventaja de Purista: Resistencia +140. Peso de carga +80. Valor base 3685.\r\n[pagebreak]\r\nCOMPATIBILIDAD Y DESACTIVACIÓN\r\n\r\nEl mod no cambia la raza Khajiit. Utiliza misiones ocultas para añadir nuevas habilidades y poderes. Sí cambia la habilidad de Garras. La mayoría de los mods que cambian razas o añaden NPCs deberían ser compatibles. Todos los mods de sp0ckrates son compatibles. Desactiva el mod en cualquier momento para devolver las habilidades y poderes a la normalidad.\r\n[pagebreak]\r\nSOBRE EL VIDEO\r\n\r\nEl video de YouTube en la página del mod en Bethesda.net es de la edición anterior del mod. La altura del salto aumentada se añadirá en otro mod, que esperamos lanzar pronto y se llamará \"BIG: ¡Altura del Salto!\". La canción del video es de The Stray Cats.\r\n[pagebreak]\r\nSOBRE LA SERIE\r\n\r\nAmazing Race Tweaks (ART) es una serie de mods para hacer que cada raza sea verdaderamente increíble de jugar. Oye, si los mods no hacen que cada raza sea una experiencia única y divertida, ¡no deberían llamarse Amazing Race Tweaks! ¿Verdad?\r\n[pagebreak]\r\nMODS QUE TE PUEDEN GUSTAR\r\n\r\n* BIG Jump 5X (Salta como los Khajiit en los videos de YouTube para este mod)\r\n* BIG Jump 2X (Para una altura de salto más inmersiva, doble)\r\n* ART Argonian (Amazing Race Tweaks para personajes jugadores y NPCs Argonianos)\r\n* ART Dark Elf (Amazing Race Tweaks para personajes jugadores y NPCs Elfos Oscuros)\r\n* ART Nord (Amazing Race Tweaks para personajes jugadores y NPCs Nórdicos)\r\n* ART Wood Elf (Amazing Race Tweaks para personajes jugadores Elfos del Bosque)\r\n\r\nBusca sp0ckrates (escrito con el número cero) o estas series:\r\n* ART: Amazing Race Tweaks\r\n* BIG: Mejoras para un Mejor Juego\r\n* GET: Ajustes del Entorno del Juego\r\n* HUNT: Cazadores de Trofeos Nuevos y Extraordinarios\r\n* SET: Encuentros y Temas de Skyrim\r\n* STAR: Tesoro y Recompensas Superiores\r\n* WAR: Armas, Armaduras o Túnicas\r\n[pagebreak]\r\nCUATRO MILLONES DE DESCARGAS\r\n\r\nMi compañero y yo tenemos más de 4,000,000 de descargas de nuestros 100+ mods de Skyrim en Bethesda, además de más en Steam y Nexus.\r\n[pagebreak]\r\nAPOYA NUESTRO TRABAJO\r\n\r\nSe invirtió mucho tiempo y dinero en la creación de mods de calidad para SSE. Si aprecias la diversión que te damos, ¡puedes devolver algo! Usa PayPal.com para hacer una donación a sp0ckrates@outlook.com (sp0ckrates se escribe con un cero).\r\n[pagebreak]\r\nHISTORIAL DE VERSIONES\r\n\r\n* Versión 1.1. Lanzamiento inicial.\r\n\r\n* Versión 1.2. (1) Se eliminó la habilidad duplicada \"Khajiit Claws\". (2) Se añadieron los poderes \"Khajiit Crosses Your Path\" y \"Khajiit Moon Shadows\".\r\n\r\n* Versión 1.3. Arreglo para un problema en el que el jugador a veces no podía atacar en vista en primera persona mientras \"Whispering Fang\" estaba activo. (2) Se desactivó la activación de \"Whispering Fang\" mientras se tenía un arco o ballesta equipada, ya que esto causaba el problema. (3) Se añadieron notificaciones para instruir al jugador a desactivar un arco o ballesta antes de activar \"Whispering Fang\". (4) Se cambiaron las descripciones de menú para algunos poderes de \"Whispering Fang\".\r\n\r\n* Versión 1.4. El mensajero ahora entrega esta guía al jugador.\r\n\r\n* Versión 1.5. (1) Se actualizó esta guía. (2) Se hicieron cambios en los poderes de \"Whispering Fang\":  (a) El Cangrejo. Los ataques de poder desarmados ahora hacen 3 de daño por segundo durante 3 segundos. (b) El Oso. Los ataques de poder desarmados ahora hacen que el enemigo se tambalee significativamente (como el segundo grito de \"Unrelenting Force\") en lugar de tener una oportunidad de derribar. (c) El Gato Sable. Los ataques desarmados ahora son aún más rápidos. Los ataques de poder desarmados ahora tienen una posibilidad de derribar, en lugar de matar instantáneamente. (d) El Troll. Los ataques normales ahora absorben 10 de salud, en lugar de tener la oportunidad de matar instantáneamente. (e) El Dragón. Los ataques normales absorben 15 de Salud, Magia y Estamina. Los ataques de poder ahora tienen una posibilidad de matar instantáneamente, así como de paralizar.\r\n\r\n* Versión 1.6. (1) Se cambió el nombre de un poder de \"Whispering Fang\" de \"el Cangrejo\" a \"el Cangrejo de Barro\". (2) Se cambió la cantidad de Salud, Magia y Estamina absorbida de 10 a 15 para \"Whispering Fang (el Dragón)\".\r\n\r\n* Versión 1.7. (1) La habilidad \"Khajiit Lands on Feet\" ahora solo se aplica si el jugador lleva una armadura ligera o ninguna (los jugadores con armadura pesada aún pueden recibir el 50% menos de daño por caída al añadir la habilidad \"Cushioned\"). (2) Se solucionó un problema que impedía al jugador activar el poder \"Khajiit Crosses Your Path\". (3) Se actualizó este manual.\r\n\r\n* Versión 1.8. El mensajero ahora entrega el manual de este mod solo si el personaje jugador es de la raza Khajiit o Vampiro Khajiit. (Si tu personaje Khajiit no recibe el manual la próxima vez que el mensajero lo visite, guarda y sal del juego, desactiva (¡NO elimines!) este mod, carga la partida, guarda y sal del juego, activa el mod, carga la partida. Ahora debería entregar el manual después de que viajes rápido).\r\n\r\n* Versión 1.9. Se añadió la nueva habilidad llamada \"Khajiit Catskills\", que permite al jugador aprender todas las habilidades de ladrón un 20% más rápido, como la Piedra Guardiana del Ladrón.\r\n\r\n* Versión 2.0. Se añadió una corrección para el \"Brawl Bug\", que es común con mods que adjuntan scripts dinámicamente. El mod ya no debería causar que los NPCs saquen sus armas después de aceptar tu invitación a una pelea a puñetazos. Misiones afectadas: \"Fight, Fight!\" (misión secundaria), \"Muscle for Hire\" (misión radiante de los Compañeros), \"Taking Care of Business\" (de la línea principal de la Hermandad de Ladrones), y \"Take Up Arms\" (de la línea principal de los Compañeros). La corrección fue probada y funciona para todas las misiones excepto \"Muscle for Hire\", pero debería funcionar también para esa misión. Por favor, deja un comentario si encuentras algún error en las peleas que no haya sido solucionado.\r\n\r\n* Versión 2.1. Se corrigió un error añadido inadvertidamente en la versión 2.0, que impedía que los efectos de \"el Cangrejo de Barro\" y \"el Gato Sable\" de \"Whispering Fang\" se aplicaran a la mano izquierda.\r\n\r\n* Versión 2.2. Se corrigió un error causado por una actualización anterior que impedía que la habilidad de una mano aumentara al usar ataques desarmados.\r\n\r\n* Versión 2.3. (1) Se añadió una nueva habilidad \"Khajiit Has Nine Lives\", que da al personaje jugador un 9% de posibilidad de curarse completamente cuando su salud se reduce al 9% o menos. (2) Se corrigieron las descripciones en este manual de los poderes \"Khajiit Crosses Your Path\" y \"Khajiit Moon Shadows\".\r\n\r\n* Versión 2.4. (1) Usar garras ahora aumenta la habilidad de una mano (gracias especiales a devonoel por reportar el problema). (2) Se ajustó el daño de las garras por cada habilidad Armsman (ver, \"Mejoras Desarmadas\"). (3) Se corrigió un error donde el arco o hechizo a veces quedaba temporalmente inutilizable después de activar un poder de \"Whispering Fang\". (4) Los NPCs con los que se encuentra el jugador ya no dicen, \"¡Mira los colores!\", \"¡Mantén esa magia lejos de mí!\" y declaraciones similares. (5) Se cambiaron las imágenes de menú y descripciones de algunos de los nuevos poderes y habilidades.\r\n\r\n* Versión 2.5. Se actualizó este manual.\r\n[pagebreak]\r\n</p>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF10CrabClawLeft_sp0_",
+    "form_id": "0500AA0C|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Whispering Fang Claws (the Crab)",
+    "string": "Garras Colmillo Susurrante (el Cangrejo de Arena)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF60TrollClawLeft_sp0_",
+    "form_id": "0500FB35|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Whispering Fang Claws (the Troll)",
+    "string": "Garras Colmillo Susurrante (el Troll)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitTestElvenSword11_sp0_",
+    "form_id": "0503D465|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Elven Sword Test 11 Damage sp0",
+    "string": "Prueba de Espada Élfica 11 Daño sp0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF00SkeeverClawRight_sp0_",
+    "form_id": "0500CFA1|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Whispering Fang Skeever Claw Right",
+    "string": "Garra Derecha Colmillo Susurrante Skeever ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF00SkeeverClawLeft_sp0_",
+    "form_id": "05006963|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Whispering Fang Claws (the Skeever)",
+    "string": "Garras Colmillo Susurrante (el Skeeverl)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitTestEbonySword13_sp0_",
+    "form_id": "0503D467|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Ebony Sword Test 13 Damage sp0",
+    "string": "Prueba de Espada Ébano 13 Daño sp0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitTestDwarvenSword10_sp0_",
+    "form_id": "0503D464|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dwarven Sword Test 10 Damage sp0",
+    "string": "Prueba de Espada Enana 10 Daño sp0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitTestSteelSword08_sp0_",
+    "form_id": "0503D462|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Steel Sword Test 08 Damage sp0",
+    "string": "Prueba de Espada de Acero 08 Daño sp0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF60TrollClawRight_sp0_",
+    "form_id": "0500FB34|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Whispering Fang Troll Claw Right",
+    "string": "Garra Derecha Colmillo Susurrante Trol ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitTestDaedricSword14_sp0_",
+    "form_id": "0503D468|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Sword Test 14 Damage sp0",
+    "string": "Prueba de Espada Daédrica 14 Daño sp0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF40SabrecatClawRight_sp0_",
+    "form_id": "0500AA25|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Whispering Fang Sabrecat Claw Right",
+    "string": "Garra Derecha Colmillo Susurrante Gato Sable",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitTestOrcishSword09_sp0_",
+    "form_id": "0503D463|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Orcish Sword Test 09 Damage sp0",
+    "string": "Prueba de Espada Orca 09 Daño sp0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF80DragonClawLeft_sp0_",
+    "form_id": "0500FB42|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Whispering Fang Claws (the Dragon)",
+    "string": "Garras Colmillo Susurrante (el Dragón)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF40SabrecatClawLeft_sp0_",
+    "form_id": "0500AA26|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Whispering Fang Claws (the Sabre Cat)",
+    "string": "Garras Colmillo Susurrante (el Gato Sable)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF80DragonClawRight_sp0_",
+    "form_id": "0500FB41|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Whispering Fang Dragon Claw Right",
+    "string": "Garra Derecha Colmillo Susurrante Dragón ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitTestGlassSword12_sp0_",
+    "form_id": "0503D466|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Glass Sword Test 12 Damage sp0",
+    "string": "Prueba de Espada de Cristal 12 Daño sp0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IronSword72_sp0_",
+    "form_id": "05029049|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "sp0 Test 72",
+    "string": "sp0 Test 72",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IronSword57_sp0_",
+    "form_id": "05029048|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "sp0 Test 57",
+    "string": "sp0 Test 57",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IronSword42_sp0_",
+    "form_id": "05029047|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "sp0 Test 42",
+    "string": "sp0 Test 42",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IronSword32_sp0_",
+    "form_id": "05029046|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "sp0 Test 32",
+    "string": "sp0 Test 32",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IronSword23_sp0_",
+    "form_id": "05029045|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "sp0 Test 23",
+    "string": "sp0 Test 23",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IronSword18_sp0_",
+    "form_id": "05029044|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "sp0 Test 18",
+    "string": "sp0 Test 18",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IronSword14_sp0_",
+    "form_id": "05029043|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "sp0 Test 14",
+    "string": "sp0 Test 14",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF20BearClawLeft_sp0_",
+    "form_id": "0500AA19|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Whispering Fang Claws (the Bear)",
+    "string": "Garras Colmillo Susurrante (el Oso)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF20BearClawRight_sp0_",
+    "form_id": "0500AA18|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Whispering Fang Bear Claw Right",
+    "string": "Garra Derecha Colmillo Susurrante Oso ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF10CrabClawRight_sp0_",
+    "form_id": "0500AA0B|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Whispering Fang Crab Claw Right",
+    "string": "Garra Derecha Colmillo Susurrante Cangrejo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmDoubleDistilledSkoomaOriginal_sp0_",
+    "form_id": "05038351|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Double-Distilled Skooma sp0",
+    "string": "Skooma de doble destilación sp0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1RedwaterDenSkoomaOriginal_sp0_",
+    "form_id": "05038359|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Redwater Skooma sp0",
+    "string": "Skooma de Aguas Rojas sp0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "sp0_Skooma",
+    "form_id": "00057A7A|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Skooma",
+    "string": "Skooma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "sp0_FreeformAngasMillKordirsSkooma",
+    "form_id": "00057A7B|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Kordir's Skooma",
+    "string": "Skooma de Kordir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformAngasMillKordirsSkoomaOriginal_sp0_",
+    "form_id": "05038355|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Kordir's Skooma sp0",
+    "string": "Skooma de Kordir sp0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "sp0_DLC1RedwaterDenSkooma",
+    "form_id": "0201391D|Dawnguard.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Redwater Skooma",
+    "string": "Skooma de Aguas Rojas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Skooma00_sp0_",
+    "form_id": "05042566|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Skooma",
+    "string": "Skooma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Skooma01_sp0_",
+    "form_id": "05042568|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Skooma",
+    "string": "Skooma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Skooma02_sp0_",
+    "form_id": "0504256A|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Skooma",
+    "string": "Skooma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Skooma03_sp0_",
+    "form_id": "0504256C|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Skooma",
+    "string": "Skooma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Skooma04_sp0_",
+    "form_id": "0504256E|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Skooma",
+    "string": "Skooma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Skooma07_sp0_",
+    "form_id": "05042574|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Skooma",
+    "string": "Skooma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Skooma06_sp0_",
+    "form_id": "05042572|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Skooma",
+    "string": "Skooma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Skooma05_sp0_",
+    "form_id": "05042570|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Skooma",
+    "string": "Skooma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "sp0_WindhelmDoubleDistilledSkooma",
+    "form_id": "0003F4BD|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Double-Distilled Skooma",
+    "string": "Skooma de doble destilación",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkoomaOriginal_sp0_",
+    "form_id": "05038353|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Skooma sp0",
+    "string": "Skooma sp0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitPlayerQuest05_sp0_",
+    "form_id": "0500AA0E|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Khajiit Player Quest 05",
+    "string": "Misión del Jugador Khajiit 05",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitPlayerQuest00_sp0_",
+    "form_id": "05001833|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Khajiit Player Quest 00",
+    "string": "Misión del Jugador Khajiit 00",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitPlayerQuest10_sp0_",
+    "form_id": "0500FB1F|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Khajiit Player Quest 10",
+    "string": "Misión del Jugador Khajiit 10",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WICommentMagicColorful",
+    "form_id": "000A9B1D|Skyrim.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Player has non-dangerous on going magic effect on",
+    "string": "Player has non-dangerous on going magic effect on",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitPlayerQuest20_sp0_",
+    "form_id": "0500FB20|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Khajiit Player Quest 20",
+    "string": "Misión del Jugador Khajiit 20",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitPlayerQuest40_sp0_",
+    "form_id": "0500FB21|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Khajiit Player Quest 40",
+    "string": "Misión del Jugador Khajiit 40",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitPlayerQuest60_sp0_",
+    "form_id": "0500FB22|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Khajiit Player Quest 60",
+    "string": "Misión del Jugador Khajiit 60",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitPlayerQuest80_sp0_",
+    "form_id": "0500FB23|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Khajiit Player Quest 80",
+    "string": "Misión del Jugador Khajiit 80",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitCourierQuest_sp0_",
+    "form_id": "05000D62|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Welcome to Amazing Race Tweaks! Khajiit",
+    "string": "¡Bienvenido a los Ajustes de la Carrera Asombrosa! Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitCourierQuest_sp0_",
+    "form_id": "05000D62|art_khajiit_sp0ckrates.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Read <Alias=Note>",
+    "string": "Leer <Alias=Note>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF00SkeeverLeftPerk_sp0_",
+    "form_id": "05001D94|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Whispering Fang Skeever Perk",
+    "string": "Colmillo Susurrante Perk Rata\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF00SkeeverLeftPerk_sp0_",
+    "form_id": "05001D94|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Adds effect to left unarmed attack.",
+    "string": "Añade efecto al ataque desarmado izquierdo.\n\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF60TrollLeftPerk_sp0_",
+    "form_id": "0500FB2B|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Whispering Fang Troll Perk",
+    "string": "Colmillo Susurrante Perk Troll\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF60TrollLeftPerk_sp0_",
+    "form_id": "0500FB2B|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Adds effect to left unarmed attack.",
+    "string": "Añade efecto al ataque desarmado izquierdo.\n\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbLandOnFeetPerk_sp0_",
+    "form_id": "05002888|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Khajiit Land on Feet",
+    "string": "Khajiit Caída sobre Pies\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbLandOnFeetPerk_sp0_",
+    "form_id": "05002888|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Half damage from falling when wearing Light Armor or no armor.",
+    "string": "Mitad de daño por caídas al usar armadura ligera o no usar armadura.\n\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF40SabrecatLeftPerk_sp0_",
+    "form_id": "0500AA1C|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Whispering Fang Sabarecat Perk",
+    "string": "Colmillo Susurrante Perk Gato Sable\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF40SabrecatLeftPerk_sp0_",
+    "form_id": "0500AA1C|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Adds effect to left unarmed attack.",
+    "string": "Añade efecto al ataque desarmado izquierdo.\n\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbProtectiveManePerk_sp0_",
+    "form_id": "05001DA5|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Khajiit Protective Mane",
+    "string": "Khajiit Melena Protectora\n\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF10CrabLeftPerk_sp0_",
+    "form_id": "0500AA02|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Whispering Fang Crab Perk",
+    "string": "Colmillo Susurrante Perk Cangrejo\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF10CrabLeftPerk_sp0_",
+    "form_id": "0500AA02|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Adds effect to left unarmed attack.",
+    "string": "Añade efecto al ataque desarmado izquierdo.\n\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF20BearLeftPerk_sp0_",
+    "form_id": "0500AA0F|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Whispering Fang Bear Perk",
+    "string": "Colmillo Susurrante Perk Oso\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF20BearLeftPerk_sp0_",
+    "form_id": "0500AA0F|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Adds effect to left unarmed attack.",
+    "string": "Añade efecto al ataque desarmado izquierdo.\n\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitAbCatSkillsPerk_sp0_",
+    "form_id": "0504765B|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Thief",
+    "string": "Ladrón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF80DragonLeftPerk_sp0_",
+    "form_id": "0500FB38|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Whispering Fang Dragon Perk",
+    "string": "Colmillo Susurrante Perk Dragón\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KhajiitWF80DragonLeftPerk_sp0_",
+    "form_id": "0500FB38|art_khajiit_sp0ckrates.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Adds effect to left unarmed attack.",
+    "string": "Añade efecto al ataque desarmado izquierdo.\n\n",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,65 @@
+EDITOR DE TABLA BBCode — Compendio de Krou
+===========================================
+
+QUÉ ES
+  Ventana gráfica para editar la tabla de traducciones (ID, FOMOD, Formato,
+  Nombre, Link trad, Link Mod) y generar el BBCode de la descripción del
+  Compendio en Nexus Mods. Reproduce exactamente el generador original:
+  mismos colores, mismos textos, versión completa y compacta (verificado
+  byte a byte con los 188 mods actuales).
+
+INICIO RÁPIDO
+  1. Doble clic en EditorTablaBBCode.exe.
+     · La primera vez, Windows SmartScreen puede avisar: "Más información"
+       → "Ejecutar de todas formas" (normal en .exe sin firma digital).
+  2. La tabla viene precargada con los 188 mods de tu Excel.
+     · Doble clic (o Enter) sobre una fila para editarla.
+     · "Agregar" crea un mod nuevo · "Eliminar" borra lo seleccionado.
+     · "⬆/⬇" (o Alt+flechas) reordenan la fila seleccionada.
+     · La caja "Buscar:" filtra por nombre, ID o formato.
+  3. "Importar Excel…" recarga todo desde tu "Lista de traducciones.xlsx"
+     (queda una copia .bak del estado anterior):
+     · Si el Excel tiene varias hojas con datos, pide cuál usar (prefiere
+       «Hoja1» y muestra cuántos encabezados reconoce en cada una).
+     · Si la hoja tiene varias tablas (bloques de celdas separados por
+       filas o columnas vacías), pide cuál; también puedes «unir todas».
+     · Antes de importar confirmas qué columna va a cada campo (ID, FOMOD,
+       Formato, Nombre, Link trad, Link Mod), si la primera fila son los
+       encabezados, y si se reemplaza la tabla o se añade al final. La
+       vista previa muestra las primeras filas al vuelo.
+     · Los enlaces pueden estar como texto o como hipervínculos de Excel.
+  4. "Colores…" cambia los colores de ESP / DSD / Otro.
+  5. "Plantilla…" edita la descripción completa: los marcadores {TABLA} y
+     {LEYENDA} se reemplazan al generar; la lista del compendio también se
+     edita ahí.
+  6. "Generar BBCode":
+     · Completa → con columna ID, colores duales y «Link Traducción»/
+       «Link Original» (equivale a descripcion_compendio_bbcode.txt).
+     · Compacta → respaldo por si Nexus rechaza la completa por tamaño:
+       sin columna ID y textos de enlace cortos (< 65.535 bytes).
+     · "Vista previa (HTML)" abre una simulación del tema de Nexus.
+     · "Copiar al portapapeles" → pégalo en la descripción de tu mod.
+     La barra inferior muestra caracteres, bytes y la verificación
+     automática (filas, celdas, símbolos FOMOD, tags balanceados).
+
+ARCHIVOS
+  EditorTablaBBCode.exe   Lanzador (no requiere instalación)
+  runtime\                Python 3.11.9 portable que usa el lanzador
+  EditorTablaBBCode.py    Código fuente del editor
+  tabla_mods.json         Los datos de la tabla (se guarda automáticamente)
+  plantilla.txt           La descripción completa con {TABLA} y {LEYENDA}
+  Construir_EXE.bat       OPCIONAL: compila un .exe de archivo único con
+                          PyInstaller. Requiere instalar Python una vez
+                          (https://www.python.org/downloads/, con la
+                          casilla "Add Python to PATH"). El .exe resultante
+                          reemplaza al lanzador y ya no usa la carpeta
+                          runtime (tabla_mods.json y plantilla.txt deben
+                          seguir a su lado).
+
+NOTAS
+  · Mantén todos los archivos en la misma carpeta; puedes mover la carpeta
+    completa a un pendrive u otro PC y seguirá funcionando.
+  · tabla_mods.json.bak es la copia de seguridad automática.
+  · Si algo falla, revisa error.log (se crea en la misma carpeta).
+  · Límite teórico de una descripción de Nexus: 65.535 bytes UTF-8; el
+    editor lo muestra siempre y la versión compacta existe para eso.

@@ -1,0 +1,254 @@
+[
+  {
+    "editor_id": "AlchDamageMagicka",
+    "form_id": "0003A2B6|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Damage Magicka",
+    "string": "Daño a la Magia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchDamageMagicka",
+    "form_id": "0003A2B6|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Damages the target's Magicka by <mag> points.",
+    "string": "Daña la Magia del objetivo en <mag> puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchDamageStamina",
+    "form_id": "0003A2C6|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Damage Stamina",
+    "string": "Daño a la Resistencia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchDamageStamina",
+    "form_id": "0003A2C6|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Damages the target's Stamina by <mag> points.",
+    "string": "Daña la Resistencia del objetivo en <mag> puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchWaterbreathing",
+    "form_id": "0003AC2D|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Waterbreathing",
+    "string": "Respiración acuática",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchWaterbreathing",
+    "form_id": "0003AC2D|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Can breathe underwater for <dur> seconds.",
+    "string": "Puedes respirar bajo el agua durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchFortifyBarter",
+    "form_id": "0003EB23|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Barter",
+    "string": "Fortificar Comercio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchFortifyBarter",
+    "form_id": "0003EB23|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You haggle for <mag>% better prices for <dur> seconds.",
+    "string": "Regatea para obtener precios un <mag>% mejores durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchDamageHealth",
+    "form_id": "0003EB42|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Damage Health",
+    "string": "Daño a la Salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchDamageHealth",
+    "form_id": "0003EB42|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Damages the target's Health by <mag> points.",
+    "string": "Daña la Salud del objetivo en <mag> puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchDamageMagickaRate",
+    "form_id": "00073F2B|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Damage Magicka Regen",
+    "string": "Daño a la regeneración de Magia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchDamageMagickaRate",
+    "form_id": "00073F2B|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Decreases the target's Magicka regeneration by <mag>% for <dur> seconds.",
+    "string": "Disminuye la regeneración de Magia del objetivo en <mag>% durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchDamageStaminaRate",
+    "form_id": "00073F2C|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Damage Stamina Regen",
+    "string": "Daño a la regeneración de Resistencia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchDamageStaminaRate",
+    "form_id": "00073F2C|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Decreases the target's Stamina regeneration by <mag>% for <dur> seconds.",
+    "string": "Disminuye la regeneración de Resistencia del objetivo en <mag>% durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchCureDisease",
+    "form_id": "000AE722|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cure Disease",
+    "string": "Curar enfermedad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchCureDisease",
+    "form_id": "000AE722|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Cures all diseases.",
+    "string": "Cura todas las enfermedades.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchFortifyPersuasion",
+    "form_id": "000D6947|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Persuasion",
+    "string": "Fortificar Persuasion",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchFortifyPersuasion",
+    "form_id": "000D6947|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Increases Speech skill by <mag> points for <dur> seconds.",
+    "string": "Aumenta la habilidad de Elocuencia en <mag> puntos durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchCurePoison",
+    "form_id": "00109ADD|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cure Poison",
+    "string": "Curar veneno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchCurePoison",
+    "form_id": "00109ADD|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Stops poison's continuing effects.",
+    "string": "Detiene los efectos continuos del veneno.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchDamageHealthDuration",
+    "form_id": "0010AA4A|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Lingering Damage Health",
+    "string": "Daño prolongado a la Salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchDamageHealthDuration",
+    "form_id": "0010AA4A|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Drains the target's Health by <mag> points per second for <dur> seconds.",
+    "string": "Drena la Salud del objetivo en <mag> puntos por segundo durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchDamageStaminaDuration",
+    "form_id": "0010DE5E|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Lingering Damage Stamina",
+    "string": "Daño prolongado a la Resistencia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchDamageStaminaDuration",
+    "form_id": "0010DE5E|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Drains the target's Stamina by <mag> points per second for <dur> seconds.",
+    "string": "Drena la Resistencia del objetivo en <mag> puntos por segundo durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchDamageMagickaDuration",
+    "form_id": "0010DE5F|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Lingering Damage Magicka",
+    "string": "Daño prolongado a la Magia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchDamageMagickaDuration",
+    "form_id": "0010DE5F|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Drains the target's Magicka by <mag> points per second for <dur> seconds.",
+    "string": "Drena la Magia del objetivo en <mag> puntos por segundo durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchWaterWalking",
+    "form_id": "010390E1|Dragonborn.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Waterwalking",
+    "string": "Caminar sobre el agua",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlchWaterWalking",
+    "form_id": "010390E1|Dragonborn.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Walk on the surface of water for <dur> seconds.",
+    "string": "Camina sobre la superficie del agua durante <dur> segundos.",
+    "status": "TranslationComplete"
+  }
+]

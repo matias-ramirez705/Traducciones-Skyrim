@@ -1,0 +1,65 @@
+[
+  {
+    "editor_id": "NoMoonPearl",
+    "form_id": "0300089A|SailorMoonClub.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You don't have any moon pearls.",
+    "string": "Lamentablemente, ya no quedan perlas lunares.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SMC_PlaceSwordMessage",
+    "form_id": "030008AB|SailorMoonClub.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A sword could be placed here, if you had the right sword.",
+    "string": "Si Khajiit tuviera la espada adecuada, podría colocarla aquí, en efecto. Ay...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SMC_NoClaim",
+    "form_id": "03000C2E|SailorMoonClub.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You cannot claim this area while there are still enemies.",
+    "string": "Quizá este debería eliminar primero a todos los enemigos antes de reclamar esta zona, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SMC_ClaimMessage",
+    "form_id": "03000C2F|SailorMoonClub.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Raising a banner here will allow you to claim Silent Moons Camp for Whiterun Hold, for the Empire, or for the Stormcloaks. What banner will you raise?",
+    "string": "Alzar un estandarte aquí permitirá a Khajiit reclamar Campamento de las Lunas Silenciosas para la Comarca de Carrera Blanca, el Imperio Imperial o los rebeldes Capa de la Tormenta.\r\n\r\n¿Cuál estandarte sería el más sabio, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SMC_ClaimMessage",
+    "form_id": "03000C2F|SailorMoonClub.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Whiterun",
+    "string": "Comarca de Carrera Blanca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SMC_ClaimMessage",
+    "form_id": "03000C2F|SailorMoonClub.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "The Empire",
+    "string": "El Imperio Imperial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SMC_ClaimMessage",
+    "form_id": "03000C2F|SailorMoonClub.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "The Stormcloaks",
+    "string": "Los rebeldes Capa de la Tormenta",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "editor_id": "ccMTYSSE001_CrusaderRelicsShrine",
+    "form_id": "0500084F|ccmtysse001-knightsofthenine.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Debido a tus crímenes, no puedes seguir llevando las Reliquias del cruzado. Ve en peregrinación para arrepentirte de tus pecados y granjearte de nuevo el favor de los dioses.\r\n",
+    "string": "Los crímenes recientes han hecho que Khajiit no sea digno de portar las Reliquias del Cruzado.  \r\n\r\nQuizás realizar una peregrinación para expiar estos pecados le otorgará nuevamente el favor de los dioses, hmm?  \r\n",
+    "status": "TranslationComplete"
+  }
+]

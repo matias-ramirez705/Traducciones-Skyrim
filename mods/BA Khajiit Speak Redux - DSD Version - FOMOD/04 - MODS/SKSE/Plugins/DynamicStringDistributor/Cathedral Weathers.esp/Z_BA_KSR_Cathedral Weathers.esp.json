@@ -1,0 +1,65 @@
+[
+  {
+    "editor_id": "CathedralClimateMESG4",
+    "form_id": "0400081F|Cathedral Weathers.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Alter the climate by prayer.",
+    "string": "Quizá el clima pueda cambiar si este Khajiit reza a las Lunas, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CathedralClimateMESG4",
+    "form_id": "0400081F|Cathedral Weathers.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Sombre",
+    "string": "Oración Sombría",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CathedralClimateMESG4",
+    "form_id": "0400081F|Cathedral Weathers.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Normal",
+    "string": "Oración Normal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CathedralWorldViewMESG0",
+    "form_id": "04000D62|Cathedral Weathers.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You may have multiple of varying strength.      \"Clear\" restores to normal.",
+    "string": "Variaciones de Fuerza: (\"Clear\" restablece a normal)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CathedralSeasonalPerspectiveMESG1",
+    "form_id": "04145E39|Cathedral Weathers.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Alter how seasons affect your perception.",
+    "string": "Visuales Estacionales:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CathedralNocturnalSightMESG2",
+    "form_id": "0414AF3A|Cathedral Weathers.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Alter how you see at night.",
+    "string": "Visuales Nocturnos:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CathedralInteriorVisionMESG3",
+    "form_id": "0414AF3B|Cathedral Weathers.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Alter how you see indoors.",
+    "string": "Visuales de Interior:",
+    "status": "TranslationComplete"
+  }
+]

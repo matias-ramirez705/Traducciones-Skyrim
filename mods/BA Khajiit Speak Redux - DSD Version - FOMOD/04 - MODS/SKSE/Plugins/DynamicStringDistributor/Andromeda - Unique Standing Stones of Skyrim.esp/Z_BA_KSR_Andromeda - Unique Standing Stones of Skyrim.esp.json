@@ -1,0 +1,263 @@
+[
+  {
+    "editor_id": "null",
+    "form_id": "00109C29|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Mage, hmm? This one says each walks their own path. It is not for this one to judge, no.",
+    "string": "Mago, hmm? Este dice que cada uno camina su propio camino. No es para este juzgar, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00109C2A|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Thief, hmm? This one says it is never too late to take hold of one's own fate, yes?",
+    "string": "Ladrón, hmm? Este dice que nunca es demasiado tarde para tomar control del propio destino, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00109C2B|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Warrior, good! Those stars will guide you to honor and glory, yes.",
+    "string": "Guerrero, ¡bien! Esas estrellas te guiarán hacia el honor y la gloria, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00109C24|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Mage, hmm? This one says each walks their own path. It is not for this one to judge, no.",
+    "string": "Mago, hmm? Este dice que cada uno camina su propio camino. No es para este juzgar, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00109C25|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Thief, hmm? This one says it is never too late to take hold of one's own fate, yes?",
+    "string": "Ladrón, hmm? Este dice que nunca es demasiado tarde para tomar control del propio destino, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00109C26|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Warrior, good! This one knew you did not belong on that cart the moment these eyes saw you, yes.",
+    "string": "Guerrero, ¡bien! Este supo que no pertenecías a ese carro en el momento en que estos ojos te vieron, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_AtronachStone_Message_Ab_CorruptedArcana_Fail",
+    "form_id": "03000A2D|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The Atronach still slumbers...",
+    "string": "El Atronach aún duerme...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_Mechanics_Message_YouAreWinner",
+    "form_id": "03000A2E|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Great Moons! All thirteen Standing Stones have been found!\r\n\r\nIf memory serves, accepting a blessing will also grant an additional power!",
+    "string": "¡Grandes Lunas! ¡Las trece Menhires han sido encontradas!\r\n\r\nSi la memoria sirve a este, aceptar una bendición también otorgará un poder adicional!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_LoverStone_Message_Ab_1_Resurrect",
+    "form_id": "03000A32|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This one says love transcends even death, yes?",
+    "string": "Este dice que el amor trasciende incluso la muerte, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_LoverStone_Message_Ab_1_SetEssential",
+    "form_id": "03000A33|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Khajiit is infused with the power of Love!",
+    "string": "¡Khajiit está imbuido con el poder del Amor!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_ShadowStone_Message_ShadowStep_Cost",
+    "form_id": "03000A34|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "More Stamina is needed, indeed.",
+    "string": "Se necesita más Aguante, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_LordStone_Message_Gifts",
+    "form_id": "03000A35|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Ah, yes... a gift from The Lord!",
+    "string": "Ah, sí... ¡un regalo de El Señor!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_RitualStone_Message_LifeSwap_Harm",
+    "form_id": "03000A36|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Khajiit has lost %.0f Health, and the target has gained %.0f Health!",
+    "string": "¡Khajiit ha perdido %.0f de Salud, y el objetivo ha ganado %.0f de Salud!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_RitualStone_Message_LifeSwap_Heal",
+    "form_id": "03000A37|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Khajiit has gained %.0f Health, and the target has lost %.0f Health!",
+    "string": "¡Khajiit ha ganado %.0f de Salud, y el objetivo ha perdido %.0f de Salud!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_LadyStone_Message_Ab_FamiliarRespawned",
+    "form_id": "03000A38|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The Lady has blessed this one with a faithful companion it seems...",
+    "string": "La Dama ha bendecido a este con un compañero fiel, al parecer...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_ThiefStone_Message_BloodMoney_GoldBet",
+    "form_id": "03000A39|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Septims (%.0f) Bet",
+    "string": "Septims (%.0f) apostados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_ThiefStone_Message_BloodMoney_GoldGained",
+    "form_id": "03000A3A|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Ajo [awesome]! The bet paid off! (%0.0f septims gained)",
+    "string": "¡Ajo [asombroso]! ¡La apuesta resultó! (%0.0f septims ganados)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_WarriorStone_Message_WarriorsPath",
+    "form_id": "03000A3B|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The Warrior Stone will allow this one to learn a chosen skill 20%% faster.\r\n\r\nNow... decisions, decisions:",
+    "string": "La Piedra del Guerrero permitirá a este aprender una habilidad elegida un 20%% más rápido.\r\n\r\nAhora... decisiones, decisiones:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_MageStone_Message_MagesPath",
+    "form_id": "03000A3C|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The Mage Stone allows this one to learn a chosen skill 20%% faster.\r\n\r\nWhat school of magicka should be boosted, hmm? ",
+    "string": "La Piedra del mago permite a este aprender una habilidad elegida un 20%% más rápido.\r\n\r\n¿Qué escuela de magia debería ser potenciada, hmm? ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_LordStone_Message_Stonewalk",
+    "form_id": "03000A40|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The Lord Stone will grant the wish of an additional stone from a random set of three. \r\n\r\nNow to choose which standing stone to gain, hmm? ",
+    "string": "La Piedra del Señor concederá el deseo de una piedra adicional de un conjunto aleatorio de tres. \r\n\r\nAhora este debe elegir qué piedra erguida obtener, hmm? ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_ThiefStone_Message_ThiefsPath",
+    "form_id": "03000A41|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The Thief Stone will allow this one to learn a chosen skill 20%% faster.\r\n\r\nAll these skills are simple enough for a Khajiit, but which one should be gained faster, hmm?  ",
+    "string": "La Piedra del ladrón permitirá a este aprender una habilidad elegida un 20%% más rápido.\r\n\r\nTodas estas habilidades son lo bastante simples para un Khajiit, pero ¿cuál debería este aprender más rápido, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_WarriorStone_Message_StarOfTheWest",
+    "form_id": "03000A42|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "%.0f Health and %.0f Stamina has been granted from the Warrior constellation!",
+    "string": "%.0f de Salud y %.0f de Aguante han sido otorgados por la constelación del Guerrero!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_ShadowStone_Message_ShadowStep_Fail",
+    "form_id": "03000A43|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dark Moons! The Teleport was obstructed!",
+    "string": "¡Lunas Oscuras! ¡El teletransporte fue obstruido!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_LoverStone_Message_Ab_2_SecretAdmirer",
+    "form_id": "03000A16|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Twin Moons! A gift from the Lover...",
+    "string": "¡Lunas Gemelas! Un regalo del Amante...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_ApprenticeStone_Message_Ab_Returned",
+    "form_id": "03000A20|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Ah, yes. Khajiit remembers now!",
+    "string": "Ah, sí. ¡Khajiit recuerda ahora!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_ThiefStone_Message_CombatTrick_Fail",
+    "form_id": "03000A21|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The target must first be engaged in combat, no?",
+    "string": "El objetivo debe estar primero en combate, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_ApprenticeStone_Message_Ab_Forgotten",
+    "form_id": "03000A22|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Clearly something was forgotten, yes?",
+    "string": "Claramente algo fue olvidado, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_ApprenticeStone_Message_Ab_WildSurge_SideEffect_D03",
+    "form_id": "03000A25|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Lightning has erupted!",
+    "string": "¡Un relámpago ha estallado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aur_ApprenticeStone_Message_Ab_WildSurge_Fail",
+    "form_id": "03000A2C|Andromeda - Unique Standing Stones of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A valid spell is needed for this, silly cat...",
+    "string": "Se necesita un hechizo válido para esto, gato tonto...",
+    "status": "TranslationComplete"
+  }
+]

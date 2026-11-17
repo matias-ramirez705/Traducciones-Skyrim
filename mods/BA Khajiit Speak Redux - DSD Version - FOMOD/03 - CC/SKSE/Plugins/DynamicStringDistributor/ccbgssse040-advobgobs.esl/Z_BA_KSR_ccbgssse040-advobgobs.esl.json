@@ -1,0 +1,452 @@
+[
+  {
+    "editor_id": "ccBGSSSE040_Branch02Topic",
+    "form_id": "05000AEC|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "De acuerdo, pues. Vamos.",
+    "string": "Muy bien. Acompaña a este uno...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000AFE|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sígueme. Me vendría bien tu ayuda.",
+    "string": "Acompaña a este uno en algunas aventuras, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_Branch03Topic",
+    "form_id": "05000AF0|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Adiós.",
+    "string": "Azúcar y arenas para ti, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_Branch01TopicA",
+    "form_id": "05000AF1|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Estás bien?",
+    "string": "¿Estás bien, amigo?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_Branch01TopicB",
+    "form_id": "05000AF2|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Has matado tú a todos estos trasgos?",
+    "string": "¿Mataste a todos estos goblins, amigo?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_Branch01TopicC",
+    "form_id": "05000AF3|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Te habrás dado cuenta de que ese orco no era un dios.",
+    "string": "Claramente, entendiste que el Orsimer no era un dios, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_Branch01TopicD",
+    "form_id": "05000AF4|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Un momento, ¿qué hago hablando con un trasgo?",
+    "string": "Espera, ¿por qué habla Khajiit con un goblin?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_Branch01TopicE",
+    "form_id": "05000AF5|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Está claro que eres la única persona cuerda aquí.",
+    "string": "Claramente, eres la única persona cuerda aquí, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_Branch02TopicA",
+    "form_id": "05000AF8|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Querrías venir conmigo?",
+    "string": "Deseas seguir a <Alias=Player>, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_Branch02TopicB",
+    "form_id": "05000AF9|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Veo que sabes pelear. Me vendría bien alguien como tú.",
+    "string": "Claramente, eres capaz de luchar, amigo. Este uno podría usar a alguien como tú.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_Branch02TopicC",
+    "form_id": "05000AFA|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Pareces amable, aunque los osos también lo parecen antes de arrancarte la cara de un bocado.",
+    "string": "Ciertamente pareces amistoso... pero también lo parece un oso hasta que empieza a morderte la cara, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_Branch02TopicD",
+    "form_id": "05000AFB|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Siempre quise tener un amigo trasgo. ¿Qué me dices?",
+    "string": "<Alias=Player> siempre deseó un amigo goblin. ¿Qué dices, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_Branch02TopicG",
+    "form_id": "05000AFC|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No sé por qué, tengo la sensación de que vas a salir de aquí conmigo.",
+    "string": "Los sentidos de Khajiit detectan que planeas seguir a <Alias.PronounObj=Player> fuera de aquí...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_TradeTopic",
+    "form_id": "05000B08|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Quiero hablar sobre tu lanza.",
+    "string": "Khajiit desea ‘lanzar' una pregunta hacia ti, amigo. Esto es divertido, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_SpearTopic",
+    "form_id": "05000B0A|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tenemos que intercambiar cosas.",
+    "string": "<Alias=Player> necesita intercambiar algunas cosas contigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000B0C|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Me has dado una calavera.",
+    "string": "Le diste a este uno un cráneo...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_TradeTopicA",
+    "form_id": "05000B0E|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Dónde la has encontrado?",
+    "string": "¿Dónde lo encontraste, exactamente?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_TradeTopicB",
+    "form_id": "05000B0F|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Puedo probarla?",
+    "string": "<Alias=Player> intentará esto, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_TradeTopicC",
+    "form_id": "05000B10|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Tiene alguna propiedad especial?",
+    "string": "¿Tiene alguna habilidad especial? Por ejemplo, ¿puede realizar la Danza de las Dos Lunas?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_TradeTopicD",
+    "form_id": "05000B11|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Tiene nombre tu lanza?",
+    "string": "Khajiit tiene curiosidad... ¿Tu lanza tiene nombre?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_TradeTopicV",
+    "form_id": "05000B13|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No comprendo.",
+    "string": "Khajiit no entiende.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_TradeTopicW",
+    "form_id": "05000B14|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Esto es una pérdida de tiempo.",
+    "string": "Esto es una pérdida de tiempo. Una pérdida de tiempo aburrida, improductiva, y que hace tirarse del pelo de la cola.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_TradeTopicX",
+    "form_id": "05000B15|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "La verdad es que no sé por qué esperaba una respuesta.",
+    "string": "<Alias=Player> no está seguro de por qué <Alias.Pronoun=Player> esperaba una respuesta REAL...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_TradeTopicY",
+    "form_id": "05000B16|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Muy interesante. Qué buena conversación.",
+    "string": "Eso es interesante, amigo. Esto fue muy esclarecedor, ciertamente.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_TradeTopicZ",
+    "form_id": "05000B17|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Enseñarán a hablar trasgo en el Colegio de Bardos?",
+    "string": "Khajiit tiene curiosidad si enseñan goblin en el Colegio de Bardos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_TradeTopicU",
+    "form_id": "05000B1A|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Entiendo que eso es un \"no\".",
+    "string": "<Alias=Player> aventurará una suposición descabellada y dirá que es un “no”, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_DismissTopic",
+    "form_id": "05000B56|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Es el momento de que nos separemos.",
+    "string": "Khajiit debe seguir un camino diferente, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_FavorStateTopic",
+    "form_id": "05000B5A|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Necesito que hagas algo.",
+    "string": "Khajiit desea un favor.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_FollowTopic",
+    "form_id": "05000B5C|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sígueme. Necesito tu ayuda.",
+    "string": "Acompaña a Khajiit, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000B5E|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sígueme.",
+    "string": "Sigue el paso, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_WaitTopic",
+    "form_id": "05000B60|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Espera aquí.",
+    "string": "Espera aquí, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000B63|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(chillido)",
+    "string": "(chilla)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000B64|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000B65|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(gruñido)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000BA1|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(gruñido)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000BA2|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(bufido)",
+    "string": "(resopla)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_ContinueFavorState",
+    "form_id": "05000B66|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sí. Te lo demostraré.",
+    "string": "Sí, ciertamente. Permite que este uno te muestre, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_SpearTopicA",
+    "form_id": "05000BA9|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Con lo de comerciar no me refería a eso.",
+    "string": "Eso no es lo que <Alias=Player> quiso decir con intercambiar, exactamente.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_SpearTopicB",
+    "form_id": "05000BAA|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Eso quiere decir que no quieres comerciar?",
+    "string": "¿Significa eso que no deseas intercambiar?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_SpearTopicC",
+    "form_id": "05000BAB|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Gracias. Te agradezco el gesto.",
+    "string": "Gracias, amigo. El gesto es apreciado, ciertamente.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_SpearTopicD",
+    "form_id": "05000BAC|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Vale, vale. Tus cosas son tuyas.",
+    "string": "Khajiit entiende, sí. “No metas tus bigotes en lugares donde no pertenecen” es la declaración, ¿no?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_SpearTopicE",
+    "form_id": "05000BB1|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, en serio. Dame tus cosas.",
+    "string": "En serio... Dale tus cosas a este uno. Ahora.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_ArmorTopic",
+    "form_id": "05000BB5|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Necesito que cambies de equipo.",
+    "string": "Necesitas un cambio de equipo, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_ArmorTopicA",
+    "form_id": "05000BB6|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Vamos a cambiarte de yelmo.",
+    "string": "Quizá otro casco, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_ArmorTopicB",
+    "form_id": "05000BB7|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Vamos a cambiarte de armadura.",
+    "string": "Tu armadura necesita un cambio.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_ArmorTopicA3",
+    "form_id": "05000BBD|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Máscara de calavera.",
+    "string": "Máscara de cráneo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_ArmorTopicD",
+    "form_id": "05000BBE|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ya está.",
+    "string": "Eso es todo, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_ArmorTopicB3",
+    "form_id": "05000BC4|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sin armadura.",
+    "string": "Sin armadura.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE040_Branch02TopicF",
+    "form_id": "05000BD3|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Llevarte de acompañante sería mala idea.",
+    "string": "Tenerte como compañero sería una mala idea, ciertamente. Incluso peor que cuando Khajiit saltó a un lago para evitar un dragón.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000C6B|ccbgssse040-advobgobs.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sin yelmo.",
+    "string": "Sin casco.  ",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "editor_id": "BerserkerAmulet",
+    "form_id": "01000D66|BerserkerArmor.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Berserker Amulet",
+    "string": "Amuleto de berserker",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BerserkerBoots",
+    "form_id": "01000D67|BerserkerArmor.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Berserker Boots",
+    "string": "Botas de berserker",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BerserkerCuirass",
+    "form_id": "01000D68|BerserkerArmor.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Berserker Armor",
+    "string": "Armadura de berserker",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BerserkerGauntlets",
+    "form_id": "01000D69|BerserkerArmor.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Berserker Gauntlets",
+    "string": "Guantes de berserker",
+    "status": "TranslationComplete"
+  }
+]

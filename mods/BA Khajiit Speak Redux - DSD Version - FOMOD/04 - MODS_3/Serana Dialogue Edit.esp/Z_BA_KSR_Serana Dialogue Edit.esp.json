@@ -1,0 +1,2837 @@
+[
+  {
+    "editor_id": "DLC1VQ03HunterSeranaWhoNow",
+    "form_id": "02003203|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You took a big risk coming here.",
+    "string": "¡Serana, corriste un gran riesgo al venir aquí! Un solo paso en falso y habrías perdido la vida. Khajiit no desea perder a <Alias.PronounPosObj=Player> amiga...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200C61A|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How can we get in without your father noticing?",
+    "string": "¿Cómo piensas entrar sin que Harkon lo note, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelBrushOff",
+    "form_id": "020049C4|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm used to a little more quiet on my journeys.",
+    "string": "Khajiit está acostumbrado a viajes más silenciosos...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelAtTheEndOfAllThings",
+    "form_id": "020049C5|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm glad you're with me.",
+    "string": "Este Khajiit se alegra de que estés con <Alias.PronounObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelKillingHarkonTopic1b",
+    "form_id": "020049D3|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let me know if you need anything.",
+    "string": "Informa a <Alias=Player> si necesitas algo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelKillingHarkonTopic1a",
+    "form_id": "020049D4|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's a good way to be thinking.",
+    "string": "Buena idea, amiga. Mantener distancia de los lazos emocionales permite concentrarse mejor, sin duda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelHarkonHunterside1b",
+    "form_id": "020049D8|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "As long as you're ready to kill him, that's all that matters.",
+    "string": "Bueno, mientras estés preparada para matar a Harkon, eso es lo único que importa. <Alias=Player> cree que el dicho es \"matar o morir\", ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelHarkonVampireSide4b",
+    "form_id": "020049DA|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Then we'll have to take care of him.",
+    "string": "Entonces quizá sea prudente encargarse del asunto. \"No dejar cabos sueltos\", así dice el dicho, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelHarkonVampireSideTopic2b",
+    "form_id": "020049DF|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We'll celebrate our victory.",
+    "string": "Por fin todos celebrarán una victoria que llevaba siglos esperando, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelHarkonVampireSideTopic1a",
+    "form_id": "020049E2|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why would it matter more to me?",
+    "string": "¿Por qué eso le importaría más a <Alias=Player>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelFamilyHistoryPush",
+    "form_id": "020049E7|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you still feel lonely?",
+    "string": "Khajiit siente curiosidad... ¿Todavía te sientes sola, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelSeranaRecoverTopicB3",
+    "form_id": "020049F6|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I think I'd feel more comfortable.",
+    "string": "Khajiit se sentiría más tranquilo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02004A64|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So you take a major decision for me, and make it all about you?",
+    "string": "Entonces, ¿tomas una decisión tan importante por Khajiit y haces que todo gire en torno a ti?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelCureSeranaBranchTopic",
+    "form_id": "020049FC|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have you thought about getting cured of vampirism?",
+    "string": "¿Has pensado en curarte del vampirismo, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02004A1B|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm not talking about this with you any more.",
+    "string": "Khajiit no volverá a hablar de esto contigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelLetMeHelp",
+    "form_id": "02005038|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want to come with you.",
+    "string": "Khajiit desea acompañarte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ05ValericaIntroBranchTopic01",
+    "form_id": "02005848|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've been keeping her safe.",
+    "string": "Khajiit ha mantenido a Serana a salvo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02014747|Dawnguard.esm",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "This is no ruse. I want to keep her safe.",
+    "string": "Khajiit no engaña. <Alias.Pronoun=Player> solo desea mantener a Serana a salvo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ02SeranaBackground3D",
+    "form_id": "0200B656|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's impressive.",
+    "string": "¡Lunas Gemelas! Eso sí que es impresionante, amiga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ02SeranaBackground3C",
+    "form_id": "0200B657|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why didn't you tell me it was so huge?",
+    "string": "Khajiit se siente humilde ante tu modestia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ02SeranaBackground3B",
+    "form_id": "0200B658|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Someone you don't want to see?",
+    "string": "¿Alguien a quien tus ojos no desean ver, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ02SeranaBackground3A",
+    "form_id": "0200B659|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why wouldn't you be safe there?",
+    "string": "Khajiit siente curiosidad... ¿Por qué no estarías segura allí? Parece un castillo formidable y fácil de defender, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ02SeranaBackground2Topic",
+    "form_id": "0200B65B|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why were you locked away?",
+    "string": "Khajiit siente curiosidad... ¿Por qué te encerraron?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ04RNPCStartBranchTopic00a",
+    "form_id": "0200BDDA|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can't it wait?",
+    "string": "Quizá en otro momento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ04RNPCLabBookFoundViewTopic06",
+    "form_id": "0200CCBA|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You share her blood.",
+    "string": "Comparten la misma sangre, ¿no? Tal vez pueda usarse.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200CCCA|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmmm. Not bad. We'd better hope that's good enough. Mistakes with these kind of portals can be... gruesome.",
+    "string": "Hmm. Nada mal. Será mejor esperar que eso sea suficiente. Los errores con esta clase de portales pueden ser... espantosos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ04RNPCBiteMeBranchTopic03c",
+    "form_id": "0200D3C4|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's just get it over with.",
+    "string": "Ha llegado la hora.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ04RNPCBiteMeBranchTopic03b",
+    "form_id": "0200D3C5|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I understand.",
+    "string": "Khajiit comprende.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ04RNPCBiteMeBranchTopic03a",
+    "form_id": "0200D3C6|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "In that case, I'm glad you're the one doing it.",
+    "string": "En ese caso, este Khajiit se alegra de que seas tú quien lo haga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ04RNPCLabQuestionsEndBranchTopic",
+    "form_id": "0200D3D0|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We won't know until we find her.",
+    "string": "Se sabrá más cuando encontremos a Valerica, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ04RNPCLabQuestionsBranchTopic01c",
+    "form_id": "0200D3D1|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It sounds like she was pretty selfish.",
+    "string": "A oídos de Khajiit, parece que tu guardiana estaba siendo egoísta, quizá.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200D3D9|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "She wasn't, always. But I think you're right.",
+    "string": "No siempre fue así. Pero creo que tienes razón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200D3D9|Dawnguard.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Like she didn't just want to stop my father... she wanted to stick it to him, too.",
+    "string": "Como si no solo quisiera detener a mi padre... también quisiera darle una lección.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ04RNPCValericaViewTopic",
+    "form_id": "0200D7D7|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Were you and Valerica close?",
+    "string": "Tú y Valerica eran cercanas, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ04RNPCLaboatoryBranchTopic",
+    "form_id": "0200D880|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Your mother maintained quite a laboratory.",
+    "string": "Valerica tenía un laboratorio bastante completo, sin duda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ04RNPCSoulBranchTopic03c",
+    "form_id": "0200E86B|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's just get this over with.",
+    "string": "Ha llegado la hora.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ04RNPCSoulBranchTopic03b",
+    "form_id": "0200E86C|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Don't worry about it.",
+    "string": "No te preocupes por esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ04RNPCSoulBranchTopic03a",
+    "form_id": "0200E86D|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I trust you completely.",
+    "string": "Khajiit confía plenamente en ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ05ValericaIntroBranchTopic01aab",
+    "form_id": "0200F844|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm just here for the Elder Scroll.",
+    "string": "Este Khajiit solo ha venido por el Elder Scroll.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ03RNPCElderScrolls3",
+    "form_id": "0200FFD2|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you saying you want to learn more about me?",
+    "string": "¿Estás diciendo que deseas saber más sobre Khajiit, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ03RNPCElderScrolls2",
+    "form_id": "0200FFD3|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I guess we'll have to keep looking for that Moth Priest, then.",
+    "string": "Está claro que la búsqueda del sacerdote de las polillas debe continuar, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ03HunterSeranaWhyMe",
+    "form_id": "0200FFD9|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's all this have to do with the Dawnguard?",
+    "string": "¿Qué tiene que ver esto con la Dawnguard, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ01RNPCWhereTo",
+    "form_id": "020118F6|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Where do you need to go?",
+    "string": "¿Adónde necesitas viajar exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelMyGuiltConfoundsMe",
+    "form_id": "02013783|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You're right. I shouldn't have brought it up.",
+    "string": "Perdona, amiga. Khajiit nunca debió mencionarlo, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelAdulteryZOMG",
+    "form_id": "02013784|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You're the one who matters to me.",
+    "string": "Eres la única que le importa a Khajiit... Eso es bien sabido, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelNoBut",
+    "form_id": "02013785|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No. I was just curious.",
+    "string": "¿Qué? No... Khajiit solo sentía curiosidad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelYesAnd",
+    "form_id": "02013786|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I was hoping you might want to talk about it.",
+    "string": "Quizá quieras hablar de esto, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02010DCC|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There you are, father!",
+    "string": "¡Ahí estás, padre!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelDismissTopic",
+    "form_id": "0201508B|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I think we should part ways.",
+    "string": "<Alias=Player> siente que ha llegado el momento de separar nuestros caminos, amiga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ07RNPCVampireOnlyTLBranchTopic",
+    "form_id": "020156F2|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's ironic that we're \"helping\" these priests.",
+    "string": "Es irónico que Khajiit \"ayude\" a estos sacerdotes, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ05PostValericaHarkonDeadBranchTopic03",
+    "form_id": "020159F1|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He died by my hand.",
+    "string": "Ese follaovejas murió a manos de este Khajiit.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ02RNPCYouOK",
+    "form_id": "02015A71|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you all right?",
+    "string": "¿Estás bien, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ02RNPCPlayerJerk",
+    "form_id": "02015A72|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is it now?",
+    "string": "¿Qué ocurre ahora, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02015A94|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fine, don't worry about it. When we get in, you won't have to babysit me any more.",
+    "string": "Está bien, no te preocupes. Cuando entremos ya no tendrás que hacer de niñera de Khajiit.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ06SeranaTLKnifeBranchTopic",
+    "form_id": "02015CD1|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Got any ideas about the knife?",
+    "string": "¿Qué puedes decirle a Khajiit sobre el cuchillo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02017F6B|Dawnguard.esm",
+    "index": 3,
+    "type": "INFO RNAM",
+    "original": "What do I do with the knife?",
+    "string": "¿Qué debería hacer <Alias=Player> con el cuchillo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ06SeranaCompleteBranchTopic01c",
+    "form_id": "02015F9C|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Never mind that... it worked!",
+    "string": "Solo un poco de pelo chamuscado, amiga... pero olvida eso. ¡Funcionó! ¡El pergamino funcionó!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ06SeranaCompleteBranchTopic01",
+    "form_id": "02015F9E|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Don't worry, I'm fine.",
+    "string": "No te preocupes por <Alias=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ06SeranaCompleteBranchTopic",
+    "form_id": "02015F9F|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That was interesting.",
+    "string": "Eso fue... interesante. Khajiit necesita un momento...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ03HunterSeranaStage5Topic2a",
+    "form_id": "020163C2|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What about you?",
+    "string": "¿Y tú qué, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ05RelationshipBranchTopic4c",
+    "form_id": "02017691|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It sounds like they were both being selfish.",
+    "string": "A oídos de Khajiit, parece que ambos estaban siendo egoístas, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ05RelationshipBranchTopic4a",
+    "form_id": "02017694|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You shouldn't blame yourself.",
+    "string": "No debes culparte, Serana.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ04RNPCSoundsLonely",
+    "form_id": "0201769A|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That sounds pretty lonely.",
+    "string": "Eso suena muy solitario para los oídos de Khajiit...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ04RNPCWeirdKid",
+    "form_id": "0201769B|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You sound like you were a weird little kid.",
+    "string": "Eras una pequeña bastante extraña, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020176B3|Dawnguard.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But I think I turned out ok.",
+    "string": "Pero creo que al final salí bastante bien...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02004B63|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They used to call Windhelm, \"the City of Kings.\" In my books, anyway.",
+    "string": "En mis libros llamaban a esta ciudad \"La Ciudad de los Reyes\". Khajiit se pregunta cómo sería Windhelm en aquella época.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02004B67|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What a curious city. It's so... open.",
+    "string": "Whiterun es realmente una ciudad curiosa. Se siente tan... abierta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02004B6A|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This place makes me a little uneasy.",
+    "string": "Khajiit se siente un poco incómodo aquí. Todos parecen muy reservados, pero no de la buena manera.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02004B72|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Rocks and valley, crevices and hiding places. This is the kind of place where hermits and fanatics dwell.",
+    "string": "Rocas y valles, grietas y escondites. Este es el tipo de lugar donde viven ermitaños y fanáticos. Tú encajarías perfectamente... ¡Khajiit bromea!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02004B76|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've never seen leaves this color.",
+    "string": "Aunque a Khajiit no le agrada Riften, la Rift es realmente otra cosa. Basta con mirar estas hojas. No suelen verse en ningún otro lugar de Skyrim.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ04RNPCStartBranchTopic04b",
+    "form_id": "020191F5|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We can't waste time on cryptic clues.",
+    "string": "No hay tiempo que perder con pistas crípticas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelVampireLongWay4b",
+    "form_id": "020194F4|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you all right?",
+    "string": "¿Estás bien, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelVampireLongWay4a",
+    "form_id": "020194F5|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you ever think about curing yourself?",
+    "string": "¿Alguna vez has pensado en curarte, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelBeingAVampireLongWay3b",
+    "form_id": "020194F6|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It sounds like you weren't thinking clearly.",
+    "string": "Está claro que tu cerebro no funcionaba muy bien en ese momento, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201950F|Dawnguard.esm",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Let's just... move on from here, ok?",
+    "string": "Simplemente... sigamos adelante, ¿de acuerdo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelBeingAVampireLongWay2b",
+    "form_id": "020194F8|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you regret becoming a vampire?",
+    "string": "Khajiit siente curiosidad... ¿Alguna vez te arrepientes de haberte convertido en vampira?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelBeingAVampireLongWay1b",
+    "form_id": "020194FB|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I would guess it came from a daedric lord.",
+    "string": "Si Khajiit tuviera que adivinar... <Alias.Pronoun=Player> supondría que provino de un Príncipe Daédrico, quizá.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelBeingAVampireLongWay1a",
+    "form_id": "020194FC|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't know much about it.",
+    "string": "Khajiit no tiene conocimiento de eso, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02019508|Dawnguard.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Molag Bal is a powerful daedric lord, and his will is made reality. ",
+    "string": "Molag Bal es un poderoso Príncipe Daédrico, y su voluntad se convierte en realidad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelBeingAVampireShortWay1d",
+    "form_id": "020194FD|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I admire your devotion.",
+    "string": "<Alias=Player> admira tu devoción. Rivaliza incluso con la propia devoción de <Alias.PronounPosObj=Player> por la sangre...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelBeingAVampireShortWay1c",
+    "form_id": "020194FE|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm a follower of Molag Bal, myself.",
+    "string": "<Alias=Player> sigue a Molag Bal, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelBeingAVampireShortWay1a",
+    "form_id": "02019501|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The daedric princes disgust me.",
+    "string": "Este Khajiit siente repulsión por los Príncipes Daédricos, sí. Ahora bien, las Lunas son otra historia...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelBeingAVampimreShortWay",
+    "form_id": "02019502|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Spare me the details.",
+    "string": "Ahórrale a Khajiit los detalles aburridos, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelBeingAVampireLongWay",
+    "form_id": "02019503|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want to hear it.",
+    "string": "Khajiit desea saber más. Cuéntalo todo, amiga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ08HarkonReturnBranchTopic05c",
+    "form_id": "02019F4C|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The bow belongs to me now.",
+    "string": "El arco ahora pertenece a <Alias=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ08HarkonReturnBranchTopic05a",
+    "form_id": "02019F4E|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I would never use Serana like that.",
+    "string": "¡Khajiit jamás usaría a Serana de esa manera!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ08HarkonReturnBranchTopic04a",
+    "form_id": "02019F51|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I would never harm Serana. She's too important to me.",
+    "string": "¡Khajiit jamás dañaría a alguien tan importante como Serana!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ08SeranaWhatNextVampire01c",
+    "form_id": "02019F72|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We should honor our agreement with him.",
+    "string": "Khajiit siente que el acuerdo debe respetarse.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ08SeranaWhatNextVampire01b",
+    "form_id": "02019F73|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We have the bow, he'll listen to us.",
+    "string": "Tener el arco convencerá a Harkon de escuchar con sus propios oídos, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ08SeranaWhatNextDawnguard01c",
+    "form_id": "02019F77|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's run as far from him as we can.",
+    "string": "<Alias=Player> cree que lo más sensato sería huir de todo esto... tan lejos y tan rápido como sea posible, ¿sí? ¡El último en llegar será un cadáver calcinado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1VQ08SeranaWhatNextDawnguard01b",
+    "form_id": "02019F78|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Maybe we can reason with him.",
+    "string": "¿Tu guardiana no confiaba en ti, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0401AE1B|Dragonborn.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I can not return to the village until I have found the source of this evil. Will you come with me, further into this accursed temple?",
+    "string": "Este no puede regresar a la aldea hasta encontrar el origen de este mal. ¿Vendrás con este, más adentro de este templo maldito?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2MQ02FreaStage60Response2",
+    "form_id": "0401CB54|Dragonborn.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Somehow, reading this book took me to where he was.",
+    "string": "De algún modo, Khajiit fue llevado... adonde estaba Miraak... después de leer este libro...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2MQ02FreaStage25Response2",
+    "form_id": "0401CB57|Dragonborn.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This Miraak tried to have me killed.",
+    "string": "¿Miraak, hmm? ¡Ese follaovejas intentó matar a este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2MQ05NelothGreetB1",
+    "form_id": "0401D99F|Dragonborn.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He wants the \"secrets of the Skaal\" in exchange for teaching me the third Word.",
+    "string": "Hermaeus Mora exige los \"secretos de los Skaal\" a cambio de enseñar la tercera Palabra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0401D9A7|Dragonborn.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmph. What secrets could they have worth keeping from old Mora? Sounds like a bargain to me.",
+    "string": "(resopla) ¿Qué secretos podrían tener que valga la pena ocultarle al viejo Mora? A Khajiit le parece un buen trato.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2MQ07FreaGreet2A2",
+    "form_id": "04038A63|Dragonborn.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't need your advice.",
+    "string": "Los consejos no pedidos son como una flecha en la rodilla, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2MQ07FreaGreet2A1",
+    "form_id": "04038A64|Dragonborn.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sure, what is it?",
+    "string": "Las orejas de Khajiit escuchan...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0602901E|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Woah!",
+    "string": "¡Whoa!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0602E124|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Woah!",
+    "string": "¡Whoa!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0602E129|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Woah!",
+    "string": "¡Whoa!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0602E12E|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Woah!",
+    "string": "¡Whoa!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0603323A|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmmm... This is too important. I don't know how the Dawnguard will react.",
+    "string": "Hmm... Esto es demasiado importante. Este no sabe cómo reaccionará la Dawnguard.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ02HowAreYouBranchT1A",
+    "form_id": "06065D31|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How are you feeling?",
+    "string": "¿Cómo te sientes, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ02HowAreYouBranchT2A",
+    "form_id": "06065D32|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's get you back home so we can sort this out.",
+    "string": "Habrá tiempo para resolver esto cuando regreses a casa, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ02HowAreYouBranchT3A",
+    "form_id": "06065D33|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm sorry... I didn't mean to press.",
+    "string": "Muchas disculpas, amigo. Este no pretendía presionarte tanto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ02HowAreYouBranchT3B",
+    "form_id": "06065D34|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "There is no need to be a bitch about it.",
+    "string": "No hay necesidad de ser un isozeva wafiit [idiota de cola corta] por ello, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ03HChaseBranchT1A",
+    "form_id": "0608435F|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's hard to imagine that we are going through all this trouble for some priest.",
+    "string": "Es difícil imaginar que todos estos problemas sean por un sacerdote de las polillas, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ03HChaseBranchT2A",
+    "form_id": "06084360|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Oh, the stories that will be told about our glorious adventure! (Sarcasm)",
+    "string": "¡Oh, qué increíbles historias se cantarán sobre estas grandiosas aventuras! (sonríe con suficiencia)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ03HChaseBranchT3A",
+    "form_id": "06084361|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I was thinking the title would have been \"The Two Adventurers Seeing the World.\"",
+    "string": "<Alias=Player> cree que el título debió ser \"¡Khajiit y Amigos Aventuran por el Mundo!\", ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ03HChaseBranchT3B",
+    "form_id": "06084362|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Then you must read some really boring stories.",
+    "string": "Entonces debes leer historias realmente aburridas, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ03HPostBranchT1A",
+    "form_id": "0608946A|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you sure there aren't any other insect themed priests we need to find?",
+    "string": "Quizá haya otros sacerdotes revoloteadores con aspecto de insecto por descubrir y perseguir, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0608946B|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ha ha... Come on, let's go home.",
+    "string": "Ja, ja... Vamos, volvamos a casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ03VChaseBranchT1A",
+    "form_id": "0608946E|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's hard to imagine that we are going through all this trouble for some priest.",
+    "string": "Es difícil imaginar que todos estos problemas sean por un sacerdote de las polillas, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ03VChaseBranchT2A",
+    "form_id": "0608946F|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Oh, the stories that will be told about our glorious adventure! (Sarcasm)",
+    "string": "¡Oh, qué increíbles historias se cantarán sobre estas grandiosas aventuras! (sonríe con suficiencia)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ03VChaseBranchT3A",
+    "form_id": "06089470|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I was thinking the title would have been \"The Two Adventurers Seeing the World.\"",
+    "string": "<Alias=Player> cree que el título debió ser \"¡Khajiit y Amigos Aventuran por el Mundo!\", ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ03VChaseBranchT3B",
+    "form_id": "06089471|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Then you must read some really boring stories.",
+    "string": "Entonces debes leer historias realmente aburridas, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ03VPostBranchT1A",
+    "form_id": "06089478|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you sure there aren't any other insect themed priests we need to find.",
+    "string": "¿Seguro que no hay otros sacerdotes temáticos de insectos que deban encontrarse, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06089479|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ha ha... Come on, let's go home.",
+    "string": "Ja, ja... Vamos, volvamos a casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ06SpidersBranchT1A",
+    "form_id": "060A7A83|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Right now, I am happy we didn't have to rescue some kind of Spider Priest.",
+    "string": "¡Este solo agradece a las lunas que la misión fuera rescatar a un Sacerdote de las Polillas y no a un Sacerdote de las Arañas, en efecto!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ06FlirtBranchT1A",
+    "form_id": "060A7A87|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have been wanting to ask you something for a while now.",
+    "string": "Este ha querido hacerte una pregunta desde hace un tiempo, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ06FlirtBranchT2A",
+    "form_id": "060A7A89|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Remember when we talked about what you knew of the Elder Scroll...?",
+    "string": "¿Recuerdas la conversación sobre lo que sabías del Elder Scroll, quizá...?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ06FlirtBranchT3A",
+    "form_id": "060A7A8A|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Were you really trying to make a pass at me?",
+    "string": "¿Intentabas coquetear con Khajiit, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060ACB8D|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ha Ha... And I thought my father was the delusional one.",
+    "string": "Ja, ja... Y este que pensaba que su padre era el delirante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060B6D90|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Maybe... Hmmm... A little bit...",
+    "string": "Quizá... Hmm... Un poco...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060B6D91|Serana Dialogue Edit.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "(Deep Breath) I was... Why?",
+    "string": "(respira hondo) Lo estaba... ¿Por qué?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ06FlirtBranchT4A",
+    "form_id": "060B6D92|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am never going to get a straight answer, am I?",
+    "string": "¡Rajhin kodesh! ¿Escucharán alguna vez las orejas de Khajiit una respuesta directa?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ06FlirtBranchT4B",
+    "form_id": "060B6D93|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am really getting tired of all this cryptic nonsense.",
+    "string": "<Alias=Player> ya se está cansando de tantos acertijos, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ06FlirtBranchT4C",
+    "form_id": "060BBE95|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Just something to look forward to.",
+    "string": "Algo que esperar con ilusión, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060BBE9B|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, wow. Alright, well...",
+    "string": "Oh, vaya. Está bien, bueno...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ06FlirtBranchT4D",
+    "form_id": "060BBE96|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I appreciate the flattery.",
+    "string": "Khajiit agradece el halago, en efecto. <Alias.Pronoun=Player> también acepta septims como muestra de admiración, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ06FlirtBranchT4E",
+    "form_id": "060BBE97|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's try and keep this professional.",
+    "string": "Khajiit prefiere mantener esto profesional, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060BBE9D|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alright, if you say so.",
+    "string": "Está bien, si tú lo dices.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ07FalmerPalaceBranchT1A",
+    "form_id": "060BBEA2|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a bad feeling about this place.",
+    "string": "Khajiit tiene un mal presentimiento sobre este lugar...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ07DGBowBranchT1A",
+    "form_id": "060BBEA6|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am kind of surprised that Gelebor is willing to give up the bow so easily.",
+    "string": "<Alias=Player> está un poco sorprendido de que Gelebor esté dispuesto a entregar el arco tan fácilmente...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ07DGBowBranchT2A",
+    "form_id": "060BBEA7|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That kind of terrifies me.",
+    "string": "¡Eso da mucho miedo, en efecto!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ07DGBowBranchT3A",
+    "form_id": "060BBEA8|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "If Gelebor is this nonchalant about whoever kills Vyrthur... what if I did accept Harkon's \"gift.\"",
+    "string": "Si a Gelebor le da igual quién mate a Vyrthur... entonces, ¿qué pasaría si Khajiit aceptara el \"regalo\" de Harkon, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ07DGBowBranchT4A",
+    "form_id": "060BBEA9|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You see now?",
+    "string": "Tus ojos ya ven, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ08PreFinalBranchT2A",
+    "form_id": "060C0FB3|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "There is something I need to say.",
+    "string": "Hay algo que <Alias=Player> debe decir, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ08PreFinalBranchT3A",
+    "form_id": "060C0FB4|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "But if something should happen...",
+    "string": "Pero Khajiit tiene curiosidad... ¿y si algo ocurre, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ08PreFinalBranchT4A",
+    "form_id": "060C0FB5|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Just know that no matter what happens, I am glad to have met you.",
+    "string": "Pase lo que pase, amigo, que sepas que Khajiit se siente honrado de haberte conocido, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ08PreFinalBranchT4B",
+    "form_id": "060C0FB6|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "(Remain silent)",
+    "string": "(Permanecer en silencio)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ08PreFinalBranchT4C",
+    "form_id": "060C0FB7|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Forget I said anything.",
+    "string": "Olvida que Khajiit mencionó algo... No hay nada que tus orejas deban oír aquí, ¿sí? Sigue tu camino...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060C0FC1|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh. Alright then.",
+    "string": "Oh. Está bien, entonces.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ08PreFinalBranchT3B",
+    "form_id": "060C0FBA|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Alright, I won't press.",
+    "string": "Está bien, Khajiit no insistirá más con este tema tan delicado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ03FGBranchT1A",
+    "form_id": "060E46D8|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I guess this is the place.",
+    "string": "Este parece ser el lugar, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ03FGBranchT2A",
+    "form_id": "060E46D9|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's rescue this Moth Priest.",
+    "string": "Ahora a rescatar a este Sacerdote de las Polillas, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ03FGBranchT2B",
+    "form_id": "060E46DA|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, but I don't really have a choice. Now do I?",
+    "string": "No, pero Khajiit no tiene muchas opciones, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEAdmireFGBranchT1A",
+    "form_id": "060EE8F4|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You look like you have something to say.",
+    "string": "¿Te gustaría decir algo, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEAdmireFGBranchT2A",
+    "form_id": "060EE8F6|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "For you, always.",
+    "string": "Por ti... siempre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEAdmireFGBranchT2B",
+    "form_id": "060EE8F7|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Of course. What's on your mind?",
+    "string": "En efecto. ¿Qué ocupa tu mente, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEAdmireFGBranchT2C",
+    "form_id": "060EE8F8|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can it wait?",
+    "string": "Quizá en otro momento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEAdmireFGBranchT3A",
+    "form_id": "060EE8FC|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Because you are a vampire?",
+    "string": "Porque eres una vampira, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEAdmireFGBranchT3B",
+    "form_id": "060EE8FD|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Because of your father?",
+    "string": "¿Por tu guardiana, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEAdmireFGBranchT3C",
+    "form_id": "060EE8FE|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Because of your past?",
+    "string": "¿Por tu pasado, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEAdmireFGBranchT4A",
+    "form_id": "060EE902|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How bad was it?",
+    "string": "¿Qué tan malo fue, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEAdmireFGBranchT5A",
+    "form_id": "060EE904|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Your past doesn't matter to me. I only care about who are now and in the future.",
+    "string": "Tu pasado no le importa a este, amiga. A <Alias=Player> solo le importa quién eres ahora, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEAdmireFGBranchT5B",
+    "form_id": "060EE905|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We all have done things we regret. Do you think you can overcome your past?",
+    "string": "Todos han hecho cosas de las que se arrepienten, ¿sí? ¿Crees que puedes superar tu pasado y cambiar tu destino, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEAdmireFGBranchT5C",
+    "form_id": "060EE906|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You are a means to an end. Don't overthink this.",
+    "string": "Solo eres un medio para un fin, amiga. No imagines más de la cuenta, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDespiseFGBranchT1A",
+    "form_id": "060F3A0D|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You look like you have something to say.",
+    "string": "¿Te gustaría decir algo, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDespiseFGBranchT2A",
+    "form_id": "060F3A0F|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why are you so angry?",
+    "string": "¿Por qué estás tan enojada, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "060F3A14|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't tell me your that naive.",
+    "string": "No me digas que eres tan ingenua.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDespiseFGBranchT2B",
+    "form_id": "060F3A10|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This is a really bad time to talk about this. Let's talk later.",
+    "string": "Este es un momento realmente terrible para hablar de esto, ¿no? Quizá en otra ocasión.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDespiseFGBranchT2C",
+    "form_id": "060F3A11|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't need to hear this from you.",
+    "string": "Las orejas de Khajiit no necesitan oír esto de ti, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDespiseFGBranchT3A",
+    "form_id": "060F3A15|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm serious.",
+    "string": "<Alias=Player> habla en serio, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDespiseFGBranchT4A",
+    "form_id": "060F3A17|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Like your father?",
+    "string": "¿Como tu guardiana, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDespiseFGBranchT5A",
+    "form_id": "060F3A19|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm sorry. I'll try and make things better with you.",
+    "string": "Disculpas. Khajiit intentará mejorar todo contigo, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDespiseFGBranchT5B",
+    "form_id": "060F3A1A|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I guess your father seems to have the right of it then.",
+    "string": "Claramente, parece que tu guardiana tenía razón después de todo, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ04PostTCBranchT1A",
+    "form_id": "060FDC21|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you... regret it?",
+    "string": "¿Te arrepientes, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ04PostTCBranchT2A",
+    "form_id": "06102D24|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Because neither do I.",
+    "string": "<Alias=Player> tampoco, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06102D26|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh.  Alright then.",
+    "string": "Oh. Está bien, entonces.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ04PostTCBranchT2B",
+    "form_id": "06102D28|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Just curious since you said it was intimate for vampires.",
+    "string": "Khajiit tiene curiosidad, porque mencionaste que era algo \"íntimo\" para los vampiros, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06102D2A|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes it is. But... I'd... rather not get into that with you. If that's alright.",
+    "string": "Sí, lo es. Pero... yo... preferiría no hablar de eso contigo. Si no te molesta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ04PostTCBranchT2C",
+    "form_id": "06102D2B|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Because I do.",
+    "string": "Porque Khajiit sí, ¿hmm? ¿Qué? ¡\"Porque sí\" es una razón perfectamente válida!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ04PostSTCBranchT1A",
+    "form_id": "06102D31|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I didn't expect Soul Trapping me would weaken me this much here.",
+    "string": "Khajiit no esperaba que una Trampa de Almas debilitara tanto a <Alias.PronounObj=Player>, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ04PostSTCBranchT2A",
+    "form_id": "06102D33|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Don't ever blame yourself. This was my decision.",
+    "string": "Nunca te culpes, amiga. Esta decisión la tomó Khajiit, y solo Khajiit, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ04PostSTCBranchT2B",
+    "form_id": "06102D35|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's not your fault. I knew the risks going in.",
+    "string": "No es culpa tuya, amiga. Khajiit conocía los riesgos, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ04PostSTCBranchT2C",
+    "form_id": "06102D36|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You should be sorry.",
+    "string": "Deberías lamentarlo, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ04PostNCBranchT1A",
+    "form_id": "06102D3B|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm curious.",
+    "string": "Khajiit tiene curiosidad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ04PostNCBranchT2A",
+    "form_id": "06102D3D|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Turning someone... Is that... A personal thing for vampires?",
+    "string": "Khajiit siente curiosidad por cuando convierten a alguien... ¿Es algo personal para los vampiros, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ04PostNCBranchT3A",
+    "form_id": "06102D3F|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It should have been you who turned me instead of your father in the first place.",
+    "string": "Debiste ser tú quien convirtiera a <Alias=Player>, en lugar de tu claramente inestable guardiana, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ04PostNCBranchT3B",
+    "form_id": "06107E43|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Like I said, just curious.",
+    "string": "Como ya dijo este, <Alias.Pronoun=Player> solo siente curiosidad, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06107E44|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, alright then.",
+    "string": "Oh, está bien entonces.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ04PostNCBranchT3C",
+    "form_id": "06107E45|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I would have enjoyed getting to know you on that level.",
+    "string": "A este le habría gustado conocerte a ese nivel, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC1VQ04PostNCBranchT3D",
+    "form_id": "06107E48|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm glad we didn't have to share such a bond.",
+    "string": "<Alias=Player> se alegra de que tú y <Alias.Pronoun=Player> no tuvieran que compartir un vínculo así, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHKitchenBranchT1A",
+    "form_id": "0611204F|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Since we have a kitchen...",
+    "string": "Bueno, ya que hay una cocina...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHKitchenBranchT2A",
+    "form_id": "06112053|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I was thinking we can make some food. What were you thinking?",
+    "string": "Este estaba pensando qué comida preparar, amiga. ¿Y tú en qué pensabas, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHKitchenBranchT2B",
+    "form_id": "06112055|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You heard me! (Joke)",
+    "string": "¡Tus orejas escucharon a Khajiit! (risita)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06112056|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ha ha... I can't do everything for you.",
+    "string": "Ja, ja... Este no puede hacerlo todo por ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHKitchenBranchT2C",
+    "form_id": "06112058|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Well, you are a woman.",
+    "string": "Khajiit no da por sentado el género de los demás, pero <Alias.Pronoun=Player> te clasificaría como mujer, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHKitchenBranchT2D",
+    "form_id": "0611205A|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Well, we are both women... I am just the stronger one.",
+    "string": "Bueno, compartes algunos rasgos físicos con Khajiit, ¿sí? Pero <Alias=Player> es el más fuerte, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHTrophyBranchT1A",
+    "form_id": "0611205E|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I think this house will be a great place to decorate with stuff from our adventures.",
+    "string": "Esta casa será un gran lugar para decorar con cosas de todas estas aventuras, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06117162|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmmm... Not bad.",
+    "string": "Hmm... Nada mal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06117162|Serana Dialogue Edit.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Let's not waste anymore time, then.",
+    "string": "Entonces no perdamos más tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06117163|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmmm... Not bad.",
+    "string": "Hmm... Nada mal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06117163|Serana Dialogue Edit.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Let's not waste anymore time, then.",
+    "string": "Entonces no perdamos más tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06117164|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmmm... Not bad.",
+    "string": "Hmm... Nada mal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06117164|Serana Dialogue Edit.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Let's not waste anymore time, then.",
+    "string": "Entonces no perdamos más tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHBedroomBranchT1A",
+    "form_id": "06117167|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This is it. Home sweet home.",
+    "string": "Ah, hogar, dulce hogar, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHBedroomBranchT2A",
+    "form_id": "0611716B|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I guess this is the perfect place to get to know me.",
+    "string": "Este es el lugar perfecto para conocer mejor a <Alias=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0611716D|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, I get it... ha ha.",
+    "string": "Oh, ya entiendo... ja, ja.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0611716E|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, I get it... ha ha.",
+    "string": "Oh, ya entiendo... ja, ja.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHAlchemyBranchT1A",
+    "form_id": "06117171|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You think your mother would enjoy the Alchemy Lab here?",
+    "string": "¿Crees que tu guardiana disfrutaría del Laboratorio de Alquimia de aquí, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHAlchemyBranchT2A",
+    "form_id": "06117175|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It will be one big happy family! (Joke)",
+    "string": "Será una gran tribu feliz, ¿sí? (risita)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06117177|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ha ha... No.",
+    "string": "Ja, ja... No.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHAlchemyBranchT2B",
+    "form_id": "06117176|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I thought that you would want to get reacquainted with your mother.",
+    "string": "¿Deseas volver a conocer a tu guardiana, no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHAlchemyBranchT3A",
+    "form_id": "06117179|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "But your father is gone. You and her can start again.",
+    "string": "Pero tu guardiana ya no está, ¿sí? Ustedes dos deberían empezar de nuevo, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHGreenhouseBranchT1A",
+    "form_id": "0611717D|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Anything you would like to see in the Greenhouse?",
+    "string": "¿Hay algo en particular que desees ver en el Invernadero?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHGreenhouseBranchT2A",
+    "form_id": "0611717E|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I think something can be arranged.",
+    "string": "Algo podría arreglarse, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHGreenhouseBranchT2B",
+    "form_id": "0611717F|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Flowers? How boring.",
+    "string": "¿Flores, hmm? Qué absolutamente... aburrido...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHLakeviewWhatBranchT1A",
+    "form_id": "06117189|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you think of the property around Lakeview Manor?",
+    "string": "¿Cuál es tu opinión sobre los terrenos de Lakeview Manor, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHWinstadWhatBranchT1A",
+    "form_id": "0611718B|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you think of the property around Windstad Manor?",
+    "string": "¿Cuál es tu opinión sobre los terrenos de Windstad Manor, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHHeljarchenWhatBranchT1A",
+    "form_id": "0611718D|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you think of the property around Heljarchen Hall?",
+    "string": "¿Cuál es tu opinión sobre los terrenos de Heljarchen Hall, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHLakeviewIThinkBranchT1A",
+    "form_id": "06117193|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I think Lakeview Manor will make a great home for us.",
+    "string": "Lakeview Manor sería un excelente hogar, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHWinstadIThinkBranchT1A",
+    "form_id": "06117195|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I think Windstad Manor will make a great home for us.",
+    "string": "Windstad Manor será un hogar maravilloso, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEBYOHHeljarchenIThinkBranchT1A",
+    "form_id": "06117197|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I think Heljarchen Hall will make a great home for us.",
+    "string": "Quizá Heljarchen Hall sea un gran hogar, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEPostDadBranchT1A",
+    "form_id": "0611C29E|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "With your father gone...",
+    "string": "Con tu guardiana ausente...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEPostMomFGBranchT1A",
+    "form_id": "061213A2|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You look like you have something to say.",
+    "string": "¿Te gustaría decir algo, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEPostMomFGBranchT2A",
+    "form_id": "061213A4|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "For what?",
+    "string": "¿Por qué, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEPostMomFGBranchT2B",
+    "form_id": "061264A8|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you think you will be spending more time with your mother?",
+    "string": "¿Crees que pasarás más tiempo con tu guardiana, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEPostDadBranchT2A",
+    "form_id": "061264AB|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Should we let Valerica know?",
+    "string": "¿Debería decírsele a Valerica, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEPostDadBranchT3A",
+    "form_id": "061264AD|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I think you deserve a chance in some happiness.",
+    "string": "Mereces una oportunidad para ser feliz, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEPostDadBranchT3B",
+    "form_id": "061264AE|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't know either.",
+    "string": "<Alias=Player> tampoco...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01PFBranchT1A",
+    "form_id": "061264B5|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Serana? Are you alright?",
+    "string": "¿Serana? Estás bien, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "061264B6|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That... wasn't as unpleasant as I thought it would be. Are you alright?",
+    "string": "Eso... no fue tan desagradable como este pensó. ¿Estás bien?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01PFBranchT2A",
+    "form_id": "061264B7|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm fine for now. But look at this. Seems like this 'Miraak' wants my head.",
+    "string": "Khajiit está bien, ¿sí? Pero parece que ese tal \"Miraak\" quiere la cabeza de este, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "061264B8|Serana Dialogue Edit.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Wait. What was it... Something to do with Dragons, I think.",
+    "string": "Espera. ¿Qué era...? Algo relacionado con dragones, cree este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01PFBranchT3A",
+    "form_id": "061264BB|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's fine.",
+    "string": "Esto está bien, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01PFBranchT3B",
+    "form_id": "061264BC|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I haven't got a clue who this 'Miraak' is.",
+    "string": "<Alias=Player> no tiene idea de quién es ese tal \"Miraak\", en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01PFBranchT4A",
+    "form_id": "061264BF|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I know you want to head home, but I need to know what this is all about.",
+    "string": "¿Deseas volver a casa, sí? Entonces Khajiit desea saber de qué trata todo esto, ¿hmm? ¿Intercambiarán deseos, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01PFBranchT4B",
+    "form_id": "061264C0|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Well, we can't really abandon finding this Moth Priest, now can we?",
+    "string": "Bueno, ese Sacerdote de las Polillas aún debe encontrarse, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01PFBranchT4C",
+    "form_id": "061264C1|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you alright with going off to deal with this?",
+    "string": "¿Estás preparado para afrontar esto, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01PFBranchT4D",
+    "form_id": "061264C2|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't know. But between this 'Miraak' and your father...",
+    "string": "Khajiit no lo sabe, amigo. Pero entre ese tal \"Miraak\" y tu guardiana...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01PFBranchT4E",
+    "form_id": "061264C3|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Well, you did want to see the world... why not start with Solstheim?",
+    "string": "Bueno, deseabas que tus ojos vieran el mundo, ¿sí? ¿Por qué no empezar por Solstheim, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "061264C8|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ha ha... Come on, I'm right behind you.",
+    "string": "Ja, ja... Vamos, este va justo detrás de ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01PFBranchT5A",
+    "form_id": "061264C9|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Of course.",
+    "string": "En efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01PFBranchT5B",
+    "form_id": "061264CA|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll think about it.",
+    "string": "Khajiit lo considerará, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01PFBranchT5C",
+    "form_id": "061264CB|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Of course, we could always go beyond Skyrim to find a Moth Priest.",
+    "string": "Viajar más allá de Skyrim para encontrar a un Sacerdote de las Polillas siempre es una opción, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "061264CE|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmmm... Another adventure.",
+    "string": "Hmm... Otra aventura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01SWBranchT1A",
+    "form_id": "061357D5|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So, this is Solstheim...",
+    "string": "Así que este es Solstheim, ¿hmm? <Alias=Player> ha visto lugares mucho mejores, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0613F9DE|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmph... not very impressive, is it?",
+    "string": "(resopla) No es muy impresionante, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0613F9DE|Serana Dialogue Edit.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Is... everything alright here?",
+    "string": "¿Está... todo bien aquí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01SWBranchT2A",
+    "form_id": "0613F9DF|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You agreed to come.",
+    "string": "Aceptaste unirte a Khajiit, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01SWBranchT2B",
+    "form_id": "06144AE2|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Any beauty it had was robbed by that. (Points to Red Mountain)",
+    "string": "Cualquier belleza que tuviera le fue arrebatada por eso, en efecto. (Señala Red Mountain)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01SWBranchT2C",
+    "form_id": "06144AE4|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I was attacked by a bunch of cultists that came from this island.",
+    "string": "Khajiit fue atacado por una vil banda de cultistas que surgió de esta misma isla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01SWBranchT2D",
+    "form_id": "06144AE6|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's none of your business.",
+    "string": "Eso no es asunto tuyo, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01SWBranchT2E",
+    "form_id": "06144AE9|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't see you with any better ideas.",
+    "string": "Los ojos de Khajiit no te han visto con mejores ideas, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01SWBranchT2F",
+    "form_id": "06144AEC|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I know, but I got attacked by a bunch of cultists and they came from this area. I have to find this out.",
+    "string": "Khajiit lo sabe, ¿sí? Sin embargo, <Alias.Pronoun=Player> fue atacado por un grupo de cultistas varzeva [de cola de azúcar] de esta región, y ahora este tiene su rastro...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01SWBranchT3A",
+    "form_id": "06144AEE|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am the 'Dragonborn.' Have you heard of it?",
+    "string": "Khajiit es el Sangre de Dragón, amigo. Has oído hablar de eso, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01SWBranchT3B",
+    "form_id": "06144AF0|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You've heard my shouting, I am the Dragonborn.",
+    "string": "Tus orejas escucharon el Grito de Khajiit, ¿sí? Este es el Sangre de Dragón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01SWBranchT3C",
+    "form_id": "06144AF2|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's none of your business.",
+    "string": "Eso no es asunto tuyo, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01SWBranchT3D",
+    "form_id": "06144AF4|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "If you must know, I have been attacked by a bunch of cultists because of who I am.",
+    "string": "Si tanto deseas saberlo, <Alias=Player> fue atacado por varios terroristas cultistas solo por ser quien <Alias.Pronoun=Player> es, sí. Es una tristeza, en efecto... y será vengada, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01SWBranchT3E",
+    "form_id": "06144AF6|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You're right. Let's get you to your parent's home.",
+    "string": "Tienes razón, ¿sí? Ahora quizá sea hora de encontrar el hogar de tu guardiana, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01SWBranchT3F",
+    "form_id": "06144AF8|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can do whatever I want.",
+    "string": "Este hace lo que <Alias.Pronoun=Player> desea, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01SWBranchT3G",
+    "form_id": "06144AFA|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Of course!",
+    "string": "¡En efecto!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01SWBranchT3H",
+    "form_id": "06144AFB|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll think about it...",
+    "string": "Khajiit lo considerará, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01SWBranchT4A",
+    "form_id": "06149BFF|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's fine. It's actually nice to meet someone that isn't fawning over some name.",
+    "string": "Está bien, ¿sí? De hecho, es agradable conocer a alguien que no se deslumbre por un nombre, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ01SWBranchT4B",
+    "form_id": "06149C00|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you mean you have never heard of me? Were you sleeping under a rock for a long time?",
+    "string": "¿Qué quieres decir con que nunca habías oído hablar de <Alias=Player>, hmm? ¿Estuviste durmiendo bajo una roca durante mucho tiempo, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ03PSCBranchT1A",
+    "form_id": "0614ED07|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So that's the power of Hermaeus Mora's ancient knowledge...",
+    "string": "Así que este es el antiguo conocimiento de Hermaeus Mora, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0614ED08|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmph... not very impressive, is it?",
+    "string": "(resopla) No es muy impresionante, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ03PSCBranchT2A",
+    "form_id": "0614ED09|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We'll see. Let's head back to the Skaal Village. We need to find Storn.",
+    "string": "El tiempo lo dirá, en efecto. Lo mejor será volver primero a Skaal Village y encontrar a Storn, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ03PSCBranchT2B",
+    "form_id": "0614ED0A|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "One word cleansed a stone. Imagine what all three could do.",
+    "string": "¿Una sola Palabra purificó una piedra, hmm? Khajiit imagina que las tres harían mucho más, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ03PSCBranchT3A",
+    "form_id": "0614ED0B|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Huh?",
+    "string": "¿Hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ04DPBranchT1A",
+    "form_id": "0614ED12|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This is a dark path I'm going down.",
+    "string": "Este es un sendero oscuro por el que Khajiit camina, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ04DPBranchT2A",
+    "form_id": "0614ED14|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm trying. But I have the feeling... this will cost me my soul.",
+    "string": "<Alias=Player> lo intenta, ¿sí? ¡Pero <Alias.Pronoun=Player> tiene el presentimiento de que esto le costará a <Alias.PronounObj=Player> el alma!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ04BPBranchT1A",
+    "form_id": "0614ED19|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me something.",
+    "string": "Dile algo a <Alias=Player>, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ04BPBranchT2A",
+    "form_id": "0614ED1C|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Does it look painful? When I'm reading those books?",
+    "string": "¿Parece doloroso cuando Khajiit lee esos libros, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ04BPBranchT3A",
+    "form_id": "0614ED1E|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Well... it does.",
+    "string": "Bueno... sí que lo es.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ02TTBranchT1A",
+    "form_id": "0615E029|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's wrong?",
+    "string": "¿Qué ocurre, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ02TTBranchT2A",
+    "form_id": "0616D32E|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Between the people in a trance and the really creepy temple... I can't blame you.",
+    "string": "Entre la gente en trance y ese templo tan espeluznante... Khajiit ciertamente no te culpa, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ02TTBranchT2B",
+    "form_id": "0616D331|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't think it's that bad.",
+    "string": "No es \"tan\" malo, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ02BTBranchT1A",
+    "form_id": "0616D336|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "A book?",
+    "string": "¿Un libro, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ02BTBranchT2A",
+    "form_id": "0616D338|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's just a book.",
+    "string": "Solo es un libro, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ02BTBranchT2B",
+    "form_id": "0616D33A|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Another Black Book? In a place dedicated to Miraak? Definitely not a coincidence.",
+    "string": "¿Otro Libro Negro, hmm? ¿En un lugar dedicado a Miraak, sí? Esto realmente no es una coincidencia, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ02BTBranchT2C",
+    "form_id": "0616D33C|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This is giving me flashbacks of that one book.",
+    "string": "Esto le está provocando a Khajiit desagradables recuerdos de ese libro, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ02BTBranchT2D",
+    "form_id": "0616D33D|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Everything here reeks of Hermaeus Mora doing.",
+    "string": "Todo aquí apesta a Hermaeus Mora, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ02BTBranchT2E",
+    "form_id": "0616D340|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I guess I should read this book.",
+    "string": "Quizá Khajiit debería leer este libro, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ03BSCBranchT1A",
+    "form_id": "06172449|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's weird that all I am doing is just screaming at a bunch of rocks.",
+    "string": "Es extraño gritarle a un montón de rocas, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ03BSCBranchT3A",
+    "form_id": "0617244B|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You said crystals. You meant stones.",
+    "string": "Dijiste \"cristales\"... ¿Querías decir \"piedras\", quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ03PTBranchT1A",
+    "form_id": "06177554|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That was surreal.",
+    "string": "Eso fue surrealista, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06177555|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you alright? That looked painful.",
+    "string": "¿Estás bien? Eso parecía doloroso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ03PTBranchT2A",
+    "form_id": "06177556|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Miraak... he's trying to return to Solstheim. He wants to take it over.",
+    "string": "¡Miraak... intenta regresar a Solstheim! Desea conquistarlo y controlarlo todo, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ03PTBranchT3A",
+    "form_id": "06177558|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Maybe. But I think Miraak has more power than your father.",
+    "string": "Quizá, sí. Pero <Alias=Player> cree que Miraak tiene más poder que tu guardiana, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ03PTBranchT3B",
+    "form_id": "06177559|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Maybe. But Miraak's a lot stronger than I am...",
+    "string": "Quizá, sí. Pero Miraak es mucho más poderoso que <Alias=Player>...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ03PTBranchT4A",
+    "form_id": "0617755C|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have to stop him, but I don't know how.",
+    "string": "Hay que detenerlo, ¿sí? Pero ¿cómo, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05DTBranchT1A",
+    "form_id": "06177561|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This isn't going to end well.",
+    "string": "Esto no acabará bien, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05DTBranchT2A",
+    "form_id": "06177563|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Maybe you should not be near me.",
+    "string": "Quizá no deberías estar cerca de este...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05DTBranchT2B",
+    "form_id": "06177565|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We are playing into Mora's hands.",
+    "string": "Estas acciones están jugando directamente a favor de Mora, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05DTBranchT3B",
+    "form_id": "06177569|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What about me?",
+    "string": "¿Y qué hay de <Alias=Player>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0617756A|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you alright?",
+    "string": "¿Estás bien?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05DTBranchT4A",
+    "form_id": "0617756B|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You stubborn woman.",
+    "string": "¡Qué pielsuave tan testaruda eres, en efecto!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05DTBranchT4B",
+    "form_id": "0617756C|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't want you hurt.",
+    "string": "<Alias=Player> no desea que salgas herida, amiga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05DTBranchT4C",
+    "form_id": "0617756F|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You stay focused and I'll worry about me",
+    "string": "Deberías concentrarte en ti misma, y Khajiit se concentrará en <Alias.PronounRef=Player>, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05DTBranchT4D",
+    "form_id": "06177571|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No... I'm not.",
+    "string": "Khajiit no lo está, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ06PTBranchT1A",
+    "form_id": "0617C678|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hey stranger...",
+    "string": "Lunas Brillantes, forastero...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ06PTBranchT2A",
+    "form_id": "0617C679|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can hardly believe it myself.",
+    "string": "A <Alias=Player> apenas le cuesta creerlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ06PTBranchT2B",
+    "form_id": "0617C67A|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me too.",
+    "string": "Khajiit también.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ06PTBranchT2C",
+    "form_id": "0617C67B|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's get out of here.",
+    "string": "¿Hora de abandonar este lugar, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0617C680|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh. Alright then...",
+    "string": "Oh. Está bien entonces...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05RTBranchT1A",
+    "form_id": "06181785|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I wonder if Miraak notices what I have done.",
+    "string": "Khajiit se pregunta si Miraak habrá notado lo que <Alias.Pronoun=Player> ha hecho.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05RTBranchT2A",
+    "form_id": "06181786|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Which means he will try to send more threats after me.",
+    "string": "Lo que significa que intentará enviar más amenazas contra Khajiit, ¿hmm? (suspira) Nuevo día, el mismo Skyrim de siempre, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05BTBranchT1A",
+    "form_id": "0618688D|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You look like you have something to say.",
+    "string": "¿Te gustaría decir algo, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05BTBranchT2A",
+    "form_id": "0618688E|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Of course. What is it?",
+    "string": "En efecto, amigo. ¿Qué ocurre, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05BTBranchT3A",
+    "form_id": "0618688F|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I still need to take you home.",
+    "string": "Este aún debe llevarte de vuelta a tu hogar, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05BTBranchT3B",
+    "form_id": "06186890|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We still have to find that Priest and read that scroll.",
+    "string": "Ese sacerdote de los insectos sigue por ahí en alguna parte, junto con el pergamino que debe leerse, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05BTBranchT3C",
+    "form_id": "06186891|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We still have to find your mother.",
+    "string": "Tu guardiana materna aún debe encontrarse, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05BTBranchT3D",
+    "form_id": "06186892|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We still have to get that scroll.",
+    "string": "Aún queda un pergamino por encontrar, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05BTBranchT3E",
+    "form_id": "06186893|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We still have to find that bow.",
+    "string": "El arco aún debe encontrarse, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05BTBranchT3F",
+    "form_id": "06186894|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We still have to face your father.",
+    "string": "Tu guardián paterno aún debe ser enfrentado, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05BTBranchT3G",
+    "form_id": "06186895|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Goodbye.",
+    "string": "Que las Lunas iluminen tu camino.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05BTBranchT4A",
+    "form_id": "06186896|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Serana, you know you can't come with me. Not this time.",
+    "string": "Serana, sabes que no puedes acompañar a <Alias=Player>, ¿sí? No esta vez, amiga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05BTBranchT5A",
+    "form_id": "06186897|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I haven't been able to take you with me before.",
+    "string": "Khajiit no ha podido llevarte con <Alias.PronounObj=Player> antes, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05BTBranchT6A",
+    "form_id": "06186898|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hey. It's alright.",
+    "string": "Arenas cálidas. Esto está bien, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05BTBranchT6B",
+    "form_id": "06186899|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We could just walk away, you know?",
+    "string": "Aún hay tiempo para simplemente marcharse, ¿sí? Huir también es una opción, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SDEDLC2MQ05BTBranchT6C",
+    "form_id": "0618689A|Serana Dialogue Edit.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I still have to show you the rest of the world.",
+    "string": "Pero Khajiit aún debe mostrarte el resto del mundo, ¿sí?",
+    "status": "TranslationComplete"
+  }
+]

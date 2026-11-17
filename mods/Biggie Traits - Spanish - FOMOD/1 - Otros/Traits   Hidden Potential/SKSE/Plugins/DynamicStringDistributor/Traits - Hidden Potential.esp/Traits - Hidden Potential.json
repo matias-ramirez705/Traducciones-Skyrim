@@ -1,0 +1,38 @@
+[
+  {
+    "editor_id": "Traits_HiddenPotentialMGEF",
+    "form_id": "02000802|Traits - Hidden Potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Third trait",
+    "string": "Tercer rasgo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HiddenPotentialPerk",
+    "form_id": "02000800|Traits - Hidden Potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Hidden Potential",
+    "string": "Potencial oculto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HiddenPotentialPerk",
+    "form_id": "02000800|Traits - Hidden Potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Discover new things about yourself. You can pick a new character trait. Costs 3 perk points.",
+    "string": "Descubre cosas nuevas sobre ti mismo. Puedes elegir un nuevo rasgo de personaje. Cuesta 3 puntos de ventaja.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HiddenPotentialNoPointsMsg",
+    "form_id": "02000804|Traits - Hidden Potential.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Not enough perk points. Perk is removed.",
+    "string": "No tienes suficientes puntos de ventaja. La ventaja se elimina.",
+    "status": "TranslationComplete"
+  }
+]

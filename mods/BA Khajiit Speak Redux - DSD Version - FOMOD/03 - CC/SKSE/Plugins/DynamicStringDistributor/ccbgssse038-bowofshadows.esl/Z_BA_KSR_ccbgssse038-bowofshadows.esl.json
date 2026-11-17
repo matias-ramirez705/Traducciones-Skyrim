@@ -1,0 +1,20 @@
+[
+  {
+    "editor_id": "ccBGSSSE038_QuestBranch01Topic",
+    "form_id": "05000810|ccbgssse038-bowofshadows.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Necesitas algo?",
+    "string": "¿Hay algo que necesite de este, amigo?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500082D|ccbgssse038-bowofshadows.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "He encontrado al asesino y me he ocupado de él.",
+    "string": "Khajiit encontró al asesino y lo convenció de \"tomar una larga siesta\"... entiende este dicho, ¿sí?  ",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "editor_id": "MTSE_Message_WaxingCrescent",
+    "form_id": "0405BB62|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Moon phase is waxing crescent tonight",
+    "string": "La fase de la Luna es: CRECIENTE CRESCENTE.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_FirstQuarter",
+    "form_id": "0405BB63|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Moon phase is first quarter tonight",
+    "string": "La fase de la Luna es: CUARTO CRECIENTE.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_WaxingGibbous",
+    "form_id": "0405BB64|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Moon phase is waxing gibbous tonight",
+    "string": "La fase de la Luna es: GIBOSA CRECIENTE.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_LunarTransformMenu",
+    "form_id": "04065D6E|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Lunar Transformations\r\nCycle with the next and previous buttons.\r\nBack will save your selections.",
+    "string": "Transformaciones Lunares\r\nCambia con los botones de siguiente y anterior.\r\nAtrás guardará las selecciones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_LunarTransformPresets",
+    "form_id": "0406AE6F|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Lunar Transformation Presets\r\nCycle with the next and previous buttons.\r\nBack will cancel your selection. Hit select to save.",
+    "string": "Preajustes de Transformación Lunar\r\nCambia con los botones de siguiente y anterior.\r\nAtrás cancelará la selección. Presiona seleccionar para guardar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_FullMoonRising",
+    "form_id": "041170EA|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Full Moon Rising damage resistance added",
+    "string": "Resistencia al daño de Luna Llena Ascendente añadida...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_FullMoonRisingFaded",
+    "form_id": "041170EB|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Full Moon Rising damage resistance faded",
+    "string": "La resistencia al daño de Luna Llena Ascendente se ha desvanecido...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_LunarTransformExtend",
+    "form_id": "0412B4FA|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Bloodlust extended under the influence of the moon",
+    "string": "La sed de sangre se extiende bajo la influencia de la Luna...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_FeedPoint",
+    "form_id": "0412B4FB|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Soul claimed, werewolf perk progress increased",
+    "string": "¡Alma reclamada, progreso de ventaja de hombre lobo incrementado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_HuntersSense",
+    "form_id": "0413570D|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You may only use Hunter's Sense during the night",
+    "string": "El Sentido de Cazador solo puede usarse de noche, ¡gato tonto!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_NotWerewolf1",
+    "form_id": "0413A811|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Be one with the beast world once again",
+    "string": "¡Sé uno con el mundo de la bestia una vez más!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_Rejuvenation1",
+    "form_id": "0419AB63|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Rejuvenation was already used this transformation",
+    "string": "La Rejuveneción ya fue usada en esta transformación...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_GeneralSettings_004_004",
+    "form_id": "041A4D7A|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "General Settings\r\nCycle with the next and previous buttons.\r\nBack will save your selections.",
+    "string": "Ajustes Generales\r\nCambia con los botones de siguiente y anterior.\r\nAtrás guardará las selecciones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_CombatSettings",
+    "form_id": "041A4D7C|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Combat Settings\r\nCycle with the next and previous buttons.\r\nBack will save your selections.",
+    "string": "Ajustes de Combate\r\nCambia con los botones de siguiente y anterior.\r\nAtrás guardará las selecciones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_NPCSettings_001_003",
+    "form_id": "041A4D7E|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "NPC Settings\r\nCycle with the next and previous buttons.\r\nBack will save your selections.",
+    "string": "Ajustes de NPC\r\nCambia con los botones de siguiente y anterior.\r\nAtrás guardará las selecciones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_NPCSettings_004_004",
+    "form_id": "041A4D7F|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "NPC Settings\r\nCycle with the next and previous buttons.\r\nBack will save your selections.",
+    "string": "Ajustes de NPC\r\nCambia con los botones de siguiente y anterior.\r\nAtrás guardará las selecciones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_AppearanceWerewolf_000_006",
+    "form_id": "0402E19A|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose your appearance!\r\nCycle with the next and previous buttons.\r\nBack will cancel your selection. Hit select to save.",
+    "string": "¡Elige una apariencia de hombre oso!\r\nCambia con los botones de siguiente y anterior.\r\nAtrás cancelará la selección. Presiona seleccionar para guardar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_AppearanceWerewolf_007_013",
+    "form_id": "0402E19B|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose your appearance!\r\nCycle with the next and previous buttons.\r\nBack will cancel your selection. Hit select to save.",
+    "string": "¡Elige una apariencia de hombre oso!\r\nCambia con los botones de siguiente y anterior.\r\nAtrás cancelará la selección. Presiona seleccionar para guardar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_AppearanceWerewolf_014_020",
+    "form_id": "0402E19C|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose your appearance!\r\nCycle with the next and previous buttons.\r\nBack will cancel your selection. Hit select to save.",
+    "string": "¡Elige una apariencia de hombre oso!\r\nCambia con los botones de siguiente y anterior.\r\nAtrás cancelará la selección. Presiona seleccionar para guardar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_AppearanceWerewolf_021_027",
+    "form_id": "0402E19D|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose your werewolf's appearance!\r\nCycle with the next and previous buttons.\r\nBack will cancel your selection. Hit select to save.",
+    "string": "¡Elige una apariencia de hombre oso!\r\nCambia con los botones de siguiente y anterior.\r\nAtrás cancelará la selección. Presiona seleccionar para guardar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_AppearanceWerewolf_028_028",
+    "form_id": "0402E19E|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose your werewolf's appearance!\r\nCycle with the next and previous buttons.\r\nBack will cancel your selection. Hit select to save.",
+    "string": "¡Elige una apariencia de hombre oso!\r\nCambia con los botones de siguiente y anterior.\r\nAtrás cancelará la selección. Presiona seleccionar para guardar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_AppearanceWerebear_000_006",
+    "form_id": "0403839F|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose your appearance!\r\nCycle with the next and previous buttons.\r\nBack will cancel your selection. Hit select to save.",
+    "string": "¡Elige una apariencia de hombre oso!\r\nCambia con los botones de siguiente y anterior.\r\nAtrás cancelará la selección. Presiona seleccionar para guardar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_AppearanceWerebear_007_013",
+    "form_id": "040383A2|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose your appearance!\r\nCycle with the next and previous buttons.\r\nBack will cancel your selection. Hit select to save.",
+    "string": "¡Elige una apariencia de hombre oso!\r\nCambia con los botones de siguiente y anterior.\r\nAtrás cancelará la selección. Presiona seleccionar para guardar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_AppearanceWerebear_014_014",
+    "form_id": "040383A3|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose your werewolf's appearance!\r\nCycle with the next and previous buttons.\r\nBack will cancel your selection. Hit select to save.",
+    "string": "¡Elige una apariencia de hombre oso!\r\nCambia con los botones de siguiente y anterior.\r\nAtrás cancelará la selección. Presiona seleccionar para guardar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_GeneralSettings_001_003",
+    "form_id": "04051949|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "General Settings\r\nCycle with the next and previous buttons.\r\nBack will save your selections.",
+    "string": "Ajustes Generales\r\nCambia con los botones de siguiente y anterior.\r\nAtrás guardará las selecciones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_BecomeWerewolf",
+    "form_id": "0405BB4C|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Become a werewolf with the same attributes as you would be with the Companion's guild. This will not interfere with the Companion questline. You will have to close the menus and return to the game. Wait a few seconds for the changes to take place. Are you sure?",
+    "string": "Conviértete en un hombre lobo con los mismos atributos que otorgaría el Gremio de los Compañeros. Esto no interferirá con la línea de misiones de los Compañeros. Cierra los menús y regresa al juego. Espera unos segundos para que los cambios surtan efecto. ¿Es esto lo que Khajiit desea, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_Cure",
+    "form_id": "0405BB4D|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You will be cured from being a werewolf. This does not interfere with the Companion questline. You will have to close the menus and return to the game. Wait a few seconds for the changes to take place. Are you sure?",
+    "string": "Esto curará la Licantropía. Esto no interfiere con la línea de misiones de los Compañeros. Cierra los menús y regresa al juego. Espera unos segundos para que los cambios surtan efecto. ¿Es esto lo que Khajiit desea, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_FullMoon",
+    "form_id": "0405BB5B|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "It's a full moon tonight",
+    "string": "La fase de la Luna es: LUNA LLENA.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_LunarTransform",
+    "form_id": "0405BB5C|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You shift into a beast under the influence of the moon",
+    "string": "La Luna influye en Khajiit para transformarse en una bestia verdadera.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_AlmostFullMoon",
+    "form_id": "0405BB5D|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The moon is almost full tonight",
+    "string": "La fase de la Luna es: CASI LLENA.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_WaningGibbous",
+    "form_id": "0405BB5E|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Moon phase is waning gibbous tonight",
+    "string": "La fase de la Luna es: GIBOSA MENGUANTE.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_LastQuarter",
+    "form_id": "0405BB5F|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Moon phase is last quarter tonight",
+    "string": "La fase de la Luna es: CUARTO MENGUANTE.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_WaningCrescent",
+    "form_id": "0405BB60|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Moon phase is waning crescent tonight",
+    "string": "La fase de la Luna es: MENGUANTE.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_NewMoon",
+    "form_id": "0405BB61|Moonlight Tales Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "It's a new moon tonight",
+    "string": "La fase de la Luna es: NUEVA.",
+    "status": "TranslationComplete"
+  }
+]

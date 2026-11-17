@@ -1,0 +1,11 @@
+[
+  {
+    "editor_id": "ccBGSSSE016_UmbraInvulnerableMsg",
+    "form_id": "0200271C|ccbgssse016-umbra.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Tu ataque no tiene efecto.",
+    "string": "Lamentablemente, el ataque no tuvo ningún efecto.",
+    "status": "TranslationComplete"
+  }
+]

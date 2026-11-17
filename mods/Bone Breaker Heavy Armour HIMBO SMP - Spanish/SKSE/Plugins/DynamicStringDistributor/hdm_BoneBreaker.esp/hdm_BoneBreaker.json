@@ -1,0 +1,191 @@
+[
+  {
+    "editor_id": "00BBR001BoneBreakerChestBelt",
+    "form_id": "01000801|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bone Breaker Chestbelt",
+    "string": "Cinturón Pectoral de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00BBR001BoneBreakerPauldronL",
+    "form_id": "01000803|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bone Breaker Pauldron Left",
+    "string": "Hombrera Izquierda de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00BBR001BoneBreakerPauldronR",
+    "form_id": "01000805|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bone Breaker Pauldron Right",
+    "string": "Hombrera Derecha de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00BBR001BoneBreakerArmletL",
+    "form_id": "01000807|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bone Breaker Armlet Left",
+    "string": "Brazalete Izquierdo de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00BBR001BoneBreakerArmletLAlt",
+    "form_id": "01000809|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bone Breaker Armlet Plain Left",
+    "string": "Brazalete Izquierdo Simple de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00BBR001BoneBreakerArmletR",
+    "form_id": "0100080C|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bone Breaker Armlet Right",
+    "string": "Brazalete Derecho de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00BBR001BoneBreakerArmletRAlt",
+    "form_id": "0100080D|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bone Breaker Armlet Plain Right",
+    "string": "Brazalete Derecho Simple de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00BBR001BoneBreakerBoots",
+    "form_id": "0100080F|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bone Breaker Boots",
+    "string": "Botas de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00BBR001BoneBreakerBootsAlt",
+    "form_id": "01000811|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bone Breaker Boots Plain",
+    "string": "Botas Simples de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00BBR001BoneBreakerGauntlets",
+    "form_id": "01000813|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bone Breaker Gauntlets",
+    "string": "Guanteletes de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00BBR001BoneBreakerGauntletsAlt",
+    "form_id": "01000815|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bone Breaker Gauntlets Plain",
+    "string": "Guanteletes Simples de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00BBR001BoneBreakerHelmet",
+    "form_id": "01000818|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bone Breaker Helmet of Crushing",
+    "string": "Casco de Aplastamiento de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00BBR001BoneBreakerHelmetAlt",
+    "form_id": "01000819|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bone Breaker Helmet of Rage",
+    "string": "Casco de Furia de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00BBR001BoneBreakerArmorWaist",
+    "form_id": "0100081B|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bone Breaker Waistbelt",
+    "string": "Cinturón de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00BBR001BoneBreakerArmorWaistAlt",
+    "form_id": "0100081D|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bone Breaker Waistbelt Plain",
+    "string": "Cinturón Simple de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00BBR001BoneBreakerSubligar",
+    "form_id": "0100081F|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bone Breaker Subligar",
+    "string": "Subligar de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00BBR001BoneBreakerBelly",
+    "form_id": "01000821|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bone Breaker Belly Plackart",
+    "string": "Placa Abdominal de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00BBR001BoneBreakerAmulet1",
+    "form_id": "01000823|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bone Breaker Amulet of Rage",
+    "string": "Amuleto de Furia de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00BBR001BoneBreakerAmulet2",
+    "form_id": "01000825|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bone Breaker Amulet of Crushing",
+    "string": "Amuleto de Aplastamiento de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BBRBoneBreakerDagger",
+    "form_id": "0100084F|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Bone Breaker Cruel Blade",
+    "string": "Hoja Cruel de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BBRBoneBreakerSword",
+    "form_id": "01000853|hdm_BoneBreaker.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Bone Breaker Crusher Blade",
+    "string": "Hoja Aplastante de Rompehuesos  \r\n",
+    "status": "TranslationComplete"
+  }
+]

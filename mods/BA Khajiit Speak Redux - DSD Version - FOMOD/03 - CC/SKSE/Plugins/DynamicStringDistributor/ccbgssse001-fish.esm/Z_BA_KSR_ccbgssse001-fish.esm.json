@@ -1,0 +1,1415 @@
+[
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ1_StartBranchTopic2",
+    "form_id": "0500099C|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría aprender a pescar mejor. ¿Puedes enseñarme alguna cosa?",
+    "string": "Este desea volverse un mejor pescador. Ustedes instruirán a Khajiit, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ1_StartBranch3",
+    "form_id": "0500099E|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Una lista entera de peces que pescar? ¡Pero si acabo de aprender!",
+    "string": "Khajiit acaba de aprender a pescar, ¡y ya fuerzan toda una lista de peces que <Alias.PronounObj=Player> debe atrapar, hmm? ¡Ziss!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ1_StartBranchTopic4Why",
+    "form_id": "050009A0|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Te los cocino también, ya que estamos?",
+    "string": "¿Quiere Khajiit cocinarlos para ustedes también? ¿Prefieren que se sirvan en un brillante plato de plata, tal vez? ¿La ironía y el sarcasmo se hunden, amigos?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ1_StartBranchTopic4Sure",
+    "form_id": "050009A2|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Los traeré pronto.",
+    "string": "<Alias=Player> los traerá de vuelta pronto, amigos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ1_StartBranchTopic4Why2",
+    "form_id": "050009A4|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Calma, era broma.",
+    "string": "¡Ja! Khajiit estaba bromeando, amigos. No suelten una bola de pelo por esto, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ1_TurnInBranchTopic",
+    "form_id": "050009A6|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Aquí tienes los peces que me pedías.",
+    "string": "Aquí están los peces que pidieron, amigos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ1StartBranchTopic4Later",
+    "form_id": "050009A8|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Haré lo que pueda. No prometo nada.",
+    "string": "<Alias=Player> hará lo mejor de <Alias.PronounPosObj=Player>, sí. Sin promesas, amigos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ1_StartBranchStudy",
+    "form_id": "050009AA|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Los peces que cuidas en el caladero deben de ser muy importantes para ti.",
+    "string": "Claramente, los peces que cuidan son muy importantes para ustedes, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ1_PlayerExplain",
+    "form_id": "050009B3|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Entiendo. Encargaste a alguien buscar un cangrejo del barro joven, pero no volvió.",
+    "string": "Khajiit entiende, sí. Ustedes contrataron a alguien para atrapar un cangrejo de barro juvenil, pero nunca regresó, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ1_IllDoIt",
+    "form_id": "050009B5|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No me importaría ocuparme yo del encargo.",
+    "string": "Khajiit hará esto.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ1_NoThanks",
+    "form_id": "050009B7|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ahora mismo no tengo tiempo para ayudarte. Quizá en otro momento.",
+    "string": "<Alias=Player> no tiene tiempo para esto. Quizás en otro momento, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ1_StillLooking",
+    "form_id": "050009BD|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Todavía no he encontrado ningún cangrejo del barro joven.",
+    "string": "El cangrejo de barro juvenil no ha sido encontrado aún, no.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Whiterun_GiveFishBranchTopic",
+    "form_id": "050009BF|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Recibí tu carta. Y tengo aquí un nuevo compañero para tu amigo de colores.",
+    "string": "Khajiit recibió su carta, amigos. Aquí hay un nuevo compañero para su amigo dorado...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Falkreath_ZariaGiveFishTopic",
+    "form_id": "050009D0|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Aquí tienes el pez de cristal que pedías.",
+    "string": "Aquí están los peces de cristal que pidieron en su recompensa. Son difíciles de ver, los ojos de Khajiit casi miraron a través de ellos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Falkreath_GiveFishTopic2",
+    "form_id": "050009D2|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Gracias por el oro. Y... ¿una nota del jarl?",
+    "string": "Muchas gracias por la moneda... y... la nota del jarl, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ2_StartBranchTopic",
+    "form_id": "05000A62|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Quiero enfrentarme al siguiente reto de pesca.",
+    "string": "<Alias=Player> está preparado para el próximo desafío de pesca.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ2_StartBranchTopic2Yes",
+    "form_id": "05000A64|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ya veo, estos peces salen cuando llueve. Y... ¿has perdido tu sombrero de pesca de la suerte?",
+    "string": "Entonces, estos peces salieron con la lluvia... y... ustedes perdieron su sombrero de pesca de la suerte, ¿hmm? Estas cosas no cuadran...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ2_TurnInBranchTopic",
+    "form_id": "05000A67|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Aquí tienes los peces que buscabas. También he encontrado tu sombrero de pesca de la suerte.",
+    "string": "Aquí, tomen esto, amigos. <Alias=Player> desea decir, \"muchas gracias\".  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ2_StartBranchTopic3",
+    "form_id": "05000A70|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Vale, volveré pronto con los peces. Y el sombrero.",
+    "string": "Muy bien, amigos. Khajiit regresará pronto con los peces... y el sombrero, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ1_StartAfterTopic",
+    "form_id": "05000AC2|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría ocuparme del encargo del cangrejo del barro joven.",
+    "string": "<Alias=Player> desea hacerse cargo de la recompensa por el cangrejo de barro juvenil.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ2_TurnInBranchTopic",
+    "form_id": "05000ACB|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Los cangrejos del barro han muerto. El causante de su furia era un nigromante.",
+    "string": "Los cangrejos de barro han sido eliminados, sí. Fueron llevados a la furia por un nigromante. Entonces, uno podría decir que estaban ‘muertos en el agua', hmm? (risa)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ1_Done1Topic",
+    "form_id": "05000AD1|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He conseguido encontrar un cangrejo del barro joven para que lo puedas estudiar. Aquí tienes.",
+    "string": "<Alias=Player> ha encontrado un cangrejo de barro juvenil para que lo estudien, amigos. Impresionante, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ2_StartBranchTopic4YesAggressive",
+    "form_id": "05000AD2|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tú mándame adonde haya algo con garras, y yo lo mato.",
+    "string": "Apunten a este hacia algo con garras, y <Alias.Pronoun=Player> lo desgarra... permanentemente.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ2_StartBranchTopic4Yes",
+    "form_id": "05000AD9|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Siempre me apetecen tus dilemas con cangrejos.",
+    "string": "Sus dilemas con cangrejos son dilemas de Khajiit con cangrejos, amigos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven_GiveSchematicBranchTopic",
+    "form_id": "05000AEB|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Los pescadores han visto objetos brillantes que quizá sirvan para activarla, pero no han sido capaces de sacarlos.",
+    "string": "Hubo algunos pescadores que hallaron unos objetos brillantes - que pueden activarlo, pero no lograron recuperarlos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven_GetRodBranchTopic",
+    "form_id": "05000AEE|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He vuelto. ¿Está terminada la caña de pescar enana?",
+    "string": "Khajiit ha regresado y ansía sostener una nueva caña de pescar Enana, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven_GetRodBranchTopic4",
+    "form_id": "05000AF2|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Puedes dar la recompensa por pagada del todo. Probaré a usar esto cerca de la Cueva del Agua de Bronce.",
+    "string": "Consideren la recompensa pagada en su totalidad, amigos. <Alias=Player> simplemente intentará usar esto cerca de la Cueva del Agua de Bronce, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven_GiveSchematicBranchTopic2",
+    "form_id": "05000AF6|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "A cambio de los planos, ¿podrías construirme una caña de pescar enana?",
+    "string": "Khajiit tiene planos, si ustedes tienen la habilidad de construir una caña de pescar Enana, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven_GiveSchematicTopic01a",
+    "form_id": "05000B1D|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Pensaban que podría venirles bien una caña de pescar enana. Aquí están los planos.",
+    "string": "Los pescadores creen que usar una caña de pescar Enana podría funcionar. Estos son los planos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven_GiveSchematic00",
+    "form_id": "05000B1F|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He investigado la Cueva del Agua de Bronce y he descubierto un mecanismo enano inactivo.",
+    "string": "La investigación de la Cueva del Agua de Bronce reveló un mecanismo Dwemer inactivo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Morthal_WagerBranchTopic",
+    "form_id": "05000B4C|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Vengo por la competición de pesca. ¿Quieres empezar ya?",
+    "string": "Khajiit está aquí para comer pastelillos y patear traseros en el concurso de pesca... Y <Alias.Pronoun=Player> acaba de quedarse sin pastelillos... ¿Están preparados para presenciar grandeza, tal vez?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Morthal_WagerBranchJerkTopic",
+    "form_id": "05000B4E|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Tú eres Brutius? Esperaba encontrarme a alguien más joven. No eres más que un anciano enclenque.",
+    "string": "Ustedes son Brutius, hmm? <Alias=Player> esperaba a alguien... bueno, más joven. Ustedes son simplemente unos ancianos débiles.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Morthal_WaterBranchTopicBet",
+    "form_id": "05000B50|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Hacemos una apuesta, entonces?",
+    "string": "¿Quieren “hacer esto interesante”, tal vez?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Morthal_WagerBranchTopicBet100",
+    "form_id": "05000B52|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "100 de oro.",
+    "string": "100 septims.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000B54|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "100 de oro. (Mentir)",
+    "string": "100 septims. (Mentira)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Morthal_WagerBranchTopicBet500",
+    "form_id": "05000B55|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "500 de oro.",
+    "string": "500 septims.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000B57|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "500 de oro. (Mentir)",
+    "string": "500 septims. (Mentira)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Morthal_WagerBranchTopicBet1000",
+    "form_id": "05000B58|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¡1000 de oro!",
+    "string": "¡1,000 septims!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000B5A|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¡1000 de oro! (Mentir)",
+    "string": "¡1,000 septims! (Mentira)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Morthal_WhereAt",
+    "form_id": "05000B5B|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Dónde vamos a celebrar la competición?",
+    "string": "¿Dónde debería celebrarse el concurso, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Markarth_OfferLessonBranchTopic",
+    "form_id": "05000B5D|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Eres tú quien busca un profesor de pesca?",
+    "string": "Entonces, están buscando a un instructor de pesca, ¿hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Markarth_OfferLessonBranchTopic2",
+    "form_id": "05000B5F|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Conozco un sitio perfecto. Podemos pescar en los muelles que hay junto a las madrigueras.",
+    "string": "Khajiit conoce este lugar, sí. Tal vez pescar desde los muelles cerca de las Madrigueras sería sabio, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Markarth_DoneBranchTopic2",
+    "form_id": "05000B63|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Te ha gustado la lección?",
+    "string": "¿Disfrutaron la lección, amigos? La prosperidad es importante para este, sí.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_MiscQuests_GiveQuestTopic",
+    "form_id": "05000BA5|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Sabes de alguien que ofrezca trabajo de pesca en Skyrim?",
+    "string": "¿Saben de alguien que necesite habilidades de pesca en Skyrim, tal vez?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Falkreath_GuardGivePotionTopic",
+    "form_id": "05000BBA|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Aquí tienes una botella de skooma que me he encontrado tirada por ahí. Confío en que la guardes.",
+    "string": "Aquí, tomen esta botella de skooma que Khajiit encontró ‘tirada por ahí', ¿sí? Ustedes la guardarán bajo llave, ¿hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Falkreath_ZariaSuccessDeadTopic",
+    "form_id": "05000BC9|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No creo que vaya a volver a tomar skooma. Ni a respirar, realmente.",
+    "string": "Khajiit les asegura que no volverá a consumir skooma, amigos. De hecho, no consumirá mucho de nada, hmm? (hace gesto en la garganta con el dedo)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Falkreath_SuccessPotionTopic2",
+    "form_id": "05000BD0|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No creo que ese guardia vaya a volver a tomar skooma.",
+    "string": "Ese guardia difícilmente volverá a consumir skooma...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Falkreath_GuardManipulateTopic",
+    "form_id": "05000BD6|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Parece que no te importa relajarte mientras estás de guardia.",
+    "string": "Hmm... Parece que ustedes tienen buen control de sus acciones mientras están de guardia, amigos. Impresionante.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Falkreath_GuardManipulateTopic2",
+    "form_id": "05000BD9|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Toma esto. Es mi forma de darte las gracias.",
+    "string": "Aquí, tomen esto, amigos. <Alias=Player> desea decir, \"muchas gracias\".  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Falkreath_ZariaStartTaskTopic",
+    "form_id": "05000BDB|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Entregaré la poción camuflada a cambio del anillo del jarl.",
+    "string": "Khajiit intercambiará la poción disfrazada por el anillo del jarl, sí.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Falkreath_ZariaStartTask2",
+    "form_id": "05000BE1|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Volveré cuando haya terminado. Espero que aprenda la lección.",
+    "string": "Khajiit regresará una vez que el trabajo esté hecho, amigos. Ojalá aprenda una lección de esto, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Windhelm_FinishBranchTopic",
+    "form_id": "05000C24|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Colmillo Canino ha muerto.",
+    "string": "Colmillo Colmado ha sido abatido, sí. Una tristeza, tal vez.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Windhelm_FinishBranchTopic2",
+    "form_id": "05000C26|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Los viajeros ya no deberían temer nada. Al menos de los horkers vampíricos gigantes.",
+    "string": "Los viajeros deberían estar seguros ahora, amigos. Bueno, al menos de morsas vampiro gigantes...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Windhelm_FinishBranchTopic2Jerk",
+    "form_id": "05000C27|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Vale, he cumplido mi parte del trato. Te toca pagar.",
+    "string": "Muy bien, amigos. Khajiit regresará pronto con los peces... y el sombrero, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Khajiit_FoundBottlesBranchTopic",
+    "form_id": "05000C48|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Aquí tienes todas las botellas de flin añejo que perdiste en el río.",
+    "string": "Aquí están todas las botellas de Flin Añejo que perdieron en el río, amigos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Windhelm_FinishBranch1b",
+    "form_id": "05000C52|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Parece ser que el poder de Colmillo Canino provenía de un anillo que tenía en las entrañas.",
+    "string": "La fuente de poder parece haber sido un anillo encantado incrustado en las entrañas de Fangtusk. Extraño, ¿no?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Markarth_CastItBranchStart",
+    "form_id": "05000C5A|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, vamos a comenzar.",
+    "string": "No, amigos. Comiencen...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Markarth_CastItBranchPole",
+    "form_id": "05000C5B|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me he dejado la caña de pescar. ¿Me prestas la tuya?",
+    "string": "Khajiit olvidó la caña de pescar de <Alias.PronounPosObj=Player>, amigos. ¿Podría <Alias.Pronoun=Player> prestar la suya, tal vez?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Radiant_1_FinishBountyTopic",
+    "form_id": "05000C69|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Aquí tienes los peces que me pedías.",
+    "string": "Aquí están los peces que pidieron, amigos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000C71|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Aquí tienes la lubina de río que me pediste.",
+    "string": "Aquí están los róbalos de arroyo que pidieron, amigos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000C72|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Aquí tienes el salmón que me pediste.",
+    "string": "Aquí están los salmones que pidieron, amigos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000C73|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Aquí tienes el pez gato que me pediste.",
+    "string": "Aquí están los bagres que pidieron, amigos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000C74|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Aquí tienes las truchas alpinas que me pediste.",
+    "string": "Aquí están los tímalos árticos que pidieron, amigos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Markarth_DoneBranchTopic2Jerk",
+    "form_id": "05000C6F|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me encanta pescar, pero tengo otras cosas que hacer. Págame.",
+    "string": "Pescar es divertido, en verdad. Pero Khajiit tiene otras cosas que hacer, amigos. Ahora, paguen, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven_GiveSchematicBranchTopic2Jerk",
+    "form_id": "05000C7A|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Vas a ayudarme a conseguir lo que sea que haya en el fondo de ese lago. ¿Entendido?",
+    "string": "Ustedes ayudarán a este a descubrir qué hay en el fondo de ese lago... Entienden, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000C88|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Aquí tienes el pez sol enano para tu próximo experimento.",
+    "string": "Aquí está el pez sol pigmeo para su próximo experimento. ¡Esto debería ser emocionante, en verdad!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000C89|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Aquí tienes las larvas de pejesapo para tu próximo experimento.",
+    "string": "Aquí están las larvas de rape para su próximo experimento. Los ojos de Khajiit esperan con ansias ver esto...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000C8A|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Aquí tienes el pez perla para tu próximo experimento.",
+    "string": "Aquí está el pez perla para su próximo experimento. ¿Cuándo comienza, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000C8B|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Aquí tienes el pez espátula para tu próximo experimento.",
+    "string": "Aquí está el pez pala para su próximo experimento. Está 'casi' no muerto...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Radiant_3_CollectBountyTopic",
+    "form_id": "05000C8F|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He limpiado las aguas de <Alias=Town>.",
+    "string": "<Alias=Player> ha limpiado el agua alrededor de <Alias=Town>, sí.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_RadiantQuestsStartTopic",
+    "form_id": "05000E58|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Busco trabajo.",
+    "string": "<Alias=Player> está buscando trabajo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_WhiterunPartOne_GiveFishBranchTopic",
+    "form_id": "05000E6A|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me he enterado de que te gustan los peces de colores. ¿Qué te parece este?",
+    "string": "Las orejas de Khajiit oyeron que querían un pez dorado como mascota, ¿sí? ¿Les gusta este, tal vez?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_WhiterunPartOne_GiveFishTopic2",
+    "form_id": "05000E6C|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Claro, toma.",
+    "string": "Por supuesto, amigos. Aquí...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_WhiterunPartOne_GiveFishReject",
+    "form_id": "05000E6E|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "De eso nada. Solo quería enseñártelo.",
+    "string": "No. Khajiit solo quería que sus ojos lo vieran, amigos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ2_StartBranchTopicHelpMe",
+    "form_id": "05000E76|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Sabes de alguien que ofrezca trabajo de pesca en Skyrim?",
+    "string": "¿Dónde podría Khajiit poner en uso las habilidades de pesca de <Alias.PronounPosObj=Player> alrededor de Skyrim, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ1_PreStartTopic",
+    "form_id": "05000E7A|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Qué sucede?",
+    "string": "¿Qué sucede, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ4_StartBranchTopicA",
+    "form_id": "05000E8F|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Quiero enfrentarme al siguiente reto de pesca.",
+    "string": "<Alias=Player> está preparado para el próximo desafío de pesca.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ4_TurnInBranchTopic",
+    "form_id": "05000E97|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Aquí tienes los peces que me pedías.",
+    "string": "Aquí están los peces que pidieron, amigos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ3_StartBranchTopicA",
+    "form_id": "05000E99|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Quiero enfrentarme al siguiente reto de pesca.",
+    "string": "Khajiit está preparado para el próximo desafío de pesca.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05033A3E|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "He recibido tu carta. Quiero enfrentarme al siguiente reto de pesca.",
+    "string": "<Alias=Player> recibió su carta, y <Alias.Pronoun=Player> está preparado para el próximo desafío de pesca.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0504D045|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Crees que estoy en condiciones de intentar el siguiente reto de pesca?",
+    "string": "¿De verdad creen que Khajiit está listo para el próximo desafío de pesca, amigos?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ3_TurnInBranchTopicDUPLICATE001",
+    "form_id": "05000E9B|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Aquí tienes los peces que me pedías.",
+    "string": "Aquí están los peces que pidieron, amigos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ5_StartBranchTopic",
+    "form_id": "05000E9D|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Quiero enfrentarme al siguiente reto de pesca.",
+    "string": "Este está preparado para el próximo desafío de pesca.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0502E925|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Puedes darme más retos de pesca?",
+    "string": "¿Hay más desafíos de pesca por completar?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ5_TurnInBranchTopic",
+    "form_id": "05000EA3|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No ha sido fácil, pero aquí está el pescado que querías.",
+    "string": "Aquí están los peces que pidieron, amigos. ¡Eso fue más difícil que perseguir a una rata de alcantarilla voladora!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ3_GiveDeedTopic",
+    "form_id": "05000EC2|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Aquí tienes todo lo que necesitas para construir un puesto en la plaza.",
+    "string": "Aquí está todo lo que necesitan para construir un puesto en la plaza, amigos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ3_GiveDeedTopic2",
+    "form_id": "05000EC6|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me pasaré mañana por la plaza cuando lo tengas todo listo.",
+    "string": "Este pasará por la plaza mañana una vez que lo hayan montado, amigos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ3_VisitTopic",
+    "form_id": "05000ECB|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Parece que ya lo tienes todo a punto.",
+    "string": "Claramente, ya lo tienen todo listo, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ3_VisitTopic3",
+    "form_id": "05000ECF|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Buena suerte, Viriya. Espero que te vaya todo bien con el nuevo negocio.",
+    "string": "Buena fortuna para ustedes, Viriya. Este espera que su nuevo emprendimiento sea afortunado, en verdad.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ3_Viriya",
+    "form_id": "05000EE6|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Entonces iré a hablar con Viriya.",
+    "string": "Tal vez Viriya sabrá más, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ3_StartBranchTopicB1",
+    "form_id": "05000EE8|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Vale. Volveré pronto con los peces.",
+    "string": "Muy bien, amigos. Khajiit regresará con los peces, sí.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ3_StartBranchTopicB2",
+    "form_id": "05000EEA|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Puede que tarde más en esto. Tendré que prepararme para el frío.",
+    "string": "Esto puede tardar un poco más, amigos. <Alias=Player> necesitará prepararse...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ4_StartBranchTopicB1",
+    "form_id": "05000EEC|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Exploraré bajo tierra y te traeré los peces que necesitas.",
+    "string": "<Alias=Player> explorará bajo tierra y traerá los peces que necesitan, amigos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ4_StartBranchTopicB2",
+    "form_id": "05000EEE|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Las cuevas son sitios peligrosos. Tienes suerte de que me ocupe yo por ti.",
+    "string": "Las cuevas son peligrosas, en verdad. Son muy afortunados de tener a un Khajiit tan hábil, consumado y asombrosamente magnífico liderando, ¿hmm? Oh, y humilde también, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ5A1",
+    "form_id": "05000EF2|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Volveré pronto con la pesca.",
+    "string": "Khajiit regresará pronto... con muchas capturas raras a cuestas.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ5A2",
+    "form_id": "05000EF4|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Esto promete ser un verdadero reto. Haré lo que pueda.",
+    "string": "Esto parece ser todo un desafío, en verdad. Khajiit necesitará erizar el pelaje de <Alias.PronounPosObj=Player> para este trabajo...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ2_StartBranchTopic3B",
+    "form_id": "0502471C|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me pondré manos a la obra. Pero ojalá no tuviera que empaparme.",
+    "string": "Khajiit no disfrutará estar mojado, no. Pero <Alias.Pronoun=Player> hará esto.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ2_PlayerWow",
+    "form_id": "0502E937|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Gracias por la caña argoniana y el dinero. Les daré buen uso.",
+    "string": "Muchas gracias por la caña de pescar argoniana... y la moneda, amigo. Khajiit sin duda hará buen uso de ambas, en verdad.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ2_TurnInBranchTopic4",
+    "form_id": "0502E93C|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Esta caña alik'ri es digna de un maestro de la pesca. Gracias, Viriya.",
+    "string": "Esta caña de Alik'r es digna de un maestro pescador, en verdad. Una bondad, Viriya.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ4_PostBattleBranchTopic",
+    "form_id": "05042DFE|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Desde luego algo así no se ve todos los días.",
+    "string": "Eso ciertamente no es algo que los ojos de Khajiit vean todos los días, en verdad...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ4_PostBattleBranch2Topic",
+    "form_id": "05042E00|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me alegro de que se haya acabado.",
+    "string": "¡Uff! ¡Gracias a las Lunas que eso terminó!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ4_PostBattleGoodbye",
+    "form_id": "05042E03|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Le contaré al jarl que hemos vencido. Buena suerte en el viaje de vuelta a Riften.",
+    "string": "Khajiit informará al jarl de este éxito, sí. Buena fortuna en su viaje de regreso a Riften, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_MiscQuests_CrabBranchTopic",
+    "form_id": "05047F25|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Parece que tu cangrejo del barro joven crece rápido.",
+    "string": "¡Ah! Parece que su cangrejo de barro juvenil está creciendo rápido, en verdad.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ3_JobBranchTopic",
+    "form_id": "0504D040|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Sabes de alguien que ofrezca trabajo de pesca en Skyrim?",
+    "string": "<Alias=Player> busca trabajo de pesca en Skyrim, amigo. ¿Alguna idea de dónde podría <Alias.Pronoun=Player> encontrarlo, tal vez?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ3_JobBranchTopic2",
+    "form_id": "0504D042|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Entonces iré a hablar con Nada en Aguas Profundas.",
+    "string": "Tal vez Khajiit preguntará a Nada-Entre-Aguas-Profundas entonces, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ2_PlayerWow2",
+    "form_id": "050C6E10|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Una caña de pescar argoniana? Gracias. Voy a darle un buen uso.",
+    "string": "¿Una caña de pescar argoniana, hmm? Ustedes hacen a este una bondad, amigos. Khajiit la usará sabiamente, en verdad.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Solitude_TableServiceBranchTopic",
+    "form_id": "050D1015|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Espero que todo sea de tu gusto. Disfruta de la comida.",
+    "string": "Ojalá todo sea de su agrado, amigos. Por favor, disfruten su comida.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Fish_MQ2_TurnInBranch2LeadIn",
+    "form_id": "050EA5D7|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Aquí tienes el pescado del reto. Tu gorro de pesca no he podido encontrarlo. (Mentir)",
+    "string": "Aquí están los peces para el desafío. Pero Khajiit no pudo encontrar su sombrero de pesca de la suerte... (Mentira)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ2_TurnInBranchTopic1a",
+    "form_id": "050F9B40|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Seviur los atrajo a la costa usando su magia, pero luego no pudo controlarlos.",
+    "string": "Seviur intentó atraerlos a la costa usando magia, pero fracasó miserablemente.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ4_PostBattleBranch3Topic",
+    "form_id": "051223C0|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¡Por una batalla así escribirán canciones como si nada!",
+    "string": "Seguramente, se escribirán canciones sobre una batalla como esa, ¿sí? Tal vez se llame \"La Balada del Cangrejo y el Gato\", hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FishingMapQuestBranchTopic",
+    "form_id": "051223D8|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Dónde puedo comprar mapas de las zonas de pesca cercanas?",
+    "string": "¿Dónde podría un Khajiit encontrar mapas que muestren todos los lugares de pesca cercanos, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Crab_MQ4_JarlRewardBranchTopic",
+    "form_id": "051223E3|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Las hordas de cangrejos del barro no volverán a amenazar a la gente de Lucero del Alba.",
+    "string": "Las hordas de cangrejos de barro ya no deberían amenazar a la gente de Lucero del Alba. Tenía que hacerse, y Khajiit se siente 'garrafal' por eso, en verdad... (risita)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_DecorationDialogueBranchSolitudeTopic",
+    "form_id": "0513175B|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría comprar más adornos para mi casa.",
+    "string": "<Alias=Player> desea comprar decoraciones adicionales para la casa de <Alias.PronounPosObj=Player>, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_DecorationDialogueSolitudeFishTank",
+    "form_id": "0513175F|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tanque para peces. (<Global=ccBGSSSE001_HDSolitudeFishTank> de oro)",
+    "string": "Pecera. (<Global=ccBGSSSE001_HDSolitudeFishTank> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_DecorationDialogueSolitudeFishPlaques",
+    "form_id": "05131760|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Placas para peces. (<Global=ccBGSSSE001_HDSolitudeFishPlaques> de oro)",
+    "string": "Placas de peces. (<Global=ccBGSSSE001_HDSolitudeFishPlaques> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_DecorationDialogueSolitudeNevermind",
+    "form_id": "05131767|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Olvídalo. No quiero comprar ninguna decoración ahora mismo.",
+    "string": "No importa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FishPlaqueSuccessMsg",
+    "form_id": "05000F4F|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Pez montado.",
+    "string": "¡Pez montado!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishTankHostileFishMsg",
+    "form_id": "05001000|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No puedes meter peces agresivos en este tanque.",
+    "string": "No se permiten peces agresivos en esta pecera. Esto se sabe.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishTankHostileFishMsg",
+    "form_id": "05001000|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Tanque para peces",
+    "string": "Pecera  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_CraftingUnlockedSmithing",
+    "form_id": "05000AE7|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Ahora puedes crear equipo en las forjas.",
+    "string": "¡Nuevo equipo está disponible en las forjas!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_HelpFishingLong",
+    "form_id": "0504D034|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Usa suministros de pesca para comenzar a pescar. Los encontrarás cerca del agua en ciudades, pueblos, campamentos y muchos otros lugares. Para poder pescar debes llevar equipada una caña de pescar.\r\n\r\nCuando estés pescando, pulsa [Activate] para recoger sedal. Si lo haces cuando haya tirones fuertes del sedal, recogerás la pesca.\r\n\r\nLas ondulaciones del agua al lanzar el sedal indican que hay peces cerca. Si el agua está en calma cuando lanzas el sedal es que no quedan peces que pescar en el lugar. Estos volverán al punto de pesca al cabo de un día.\r\n\r\nPuedes pescar más peces y aumentar las probabilidades de conseguir peces más esquivos al amanecer y al anochecer.",
+    "string": "Usen los suministros de pesca para comenzar a pescar. Se debe equipar una caña de pescar para poder pescar.  \r\n\r\nLos suministros de pesca se encuentran cerca del agua en ciudades, pueblos, campamentos y muchos otros lugares.  \r\n\r\nMientras pescan, presionen [Activar] para enrollar la línea. Enrollar cuando hay un fuerte tirón en la línea traerá la captura.  \r\n\r\nLas ondas en la superficie al lanzar la línea provienen de peces cercanos. Si el agua está calma cuando se lanza la línea, no hay más peces para atrapar. Los peces regresarán al lugar de pesca en un (1) día.  \r\n\r\nPISTA: Las probabilidades de atrapar más peces, así como peces más esquivos, son mayores al amanecer y al anochecer.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_HelpFishingLong",
+    "form_id": "0504D034|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Pesca",
+    "string": "Pesca  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishMapChoiceMsg",
+    "form_id": "051274E6|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¿Qué quieres hacer?",
+    "string": "¿Qué ahora, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishMapChoiceMsg",
+    "form_id": "051274E6|ccbgssse001-fish.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Añadir zonas de pesca al mapa",
+    "string": "Agregar lugares de pesca al mapa  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishMapChoiceMsg",
+    "form_id": "051274E6|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Borrar zonas de pesca del mapa",
+    "string": "Quitar lugares de pesca del mapa  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_ErrorNoFishSitting",
+    "form_id": "05000845|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No puedes pescar mientras estés usando otro objeto.",
+    "string": "Multitareas es difícil, en verdad. Tal vez pescar debería esperar, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishTankFirstTimeLargeMsg",
+    "form_id": "05000FA9|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Los peces grandes que metas aquí se colocarán en el tanque.",
+    "string": "Todos los peces grandes colocados aquí se mantendrán dentro de la pecera.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishTankFirstTimeLargeMsg",
+    "form_id": "05000FA9|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Tanque para peces",
+    "string": "Pecera  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_ErrorNoFishJumping",
+    "form_id": "05000846|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No puedes pescar mientras estás en el aire.",
+    "string": "La pesca debería hacerse en el suelo, no en el aire, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_CrabMQ4InvulnerableMsg",
+    "form_id": "0517DDB4|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Tu ataque no tiene efecto.",
+    "string": "El ataque no tuvo efecto...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishingEarlyReelNibble",
+    "form_id": "0503DCD6|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has recogido sedal demasiado pronto.",
+    "string": "La línea fue enrollada demasiado pronto. ¡Ziss!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_ItemsRemovedMsg",
+    "form_id": "0502E939|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Objeto(s) retirado(s)",
+    "string": "Objeto(s) retirado(s)...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_CrabMQ4NoPots",
+    "form_id": "0504D03D|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Necesitas una olla llameante para usar esto.",
+    "string": "Se necesita una olla encendida para usar esto, sí.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_HelpFishingLongXbox",
+    "form_id": "0504D035|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Usa suministros de pesca para comenzar a pescar. Los encontrarás cerca del agua en ciudades, pueblos, campamentos y muchos otros lugares. Para poder pescar debes llevar equipada una caña de pescar.\r\n\r\nCuando estés pescando, pulsa [Activate] para recoger sedal. Si lo haces cuando haya tirones fuertes del sedal, recogerás la pesca.\r\n\r\nLas ondulaciones del agua al lanzar el sedal indican que hay peces cerca. Si el agua está en calma cuando lanzas el sedal es que no quedan peces que pescar en el lugar. Estos volverán al punto de pesca al cabo de un día.\r\n\r\nPuedes pescar más peces y aumentar las probabilidades de conseguir peces más esquivos al amanecer y al anochecer.",
+    "string": "Usen los suministros de pesca para comenzar a pescar. Se debe equipar una caña de pescar para poder pescar.  \r\n\r\nLos suministros de pesca se encuentran cerca del agua en ciudades, pueblos, campamentos y muchos otros lugares.  \r\n\r\nMientras pescan, presionen [Activar] para enrollar la línea. Enrollar cuando hay un fuerte tirón en la línea traerá la captura.  \r\n\r\nLas ondas en la superficie al lanzar la línea provienen de peces cercanos. Si el agua está calma cuando se lanza la línea, no hay más peces para atrapar. Los peces regresarán al lugar de pesca en un (1) día.  \r\n\r\nPISTA: Las probabilidades de atrapar más peces, así como peces más esquivos, son mayores al amanecer y al anochecer.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_HelpFishingLongXbox",
+    "form_id": "0504D035|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Pesca",
+    "string": "Pesca  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishingEarlyReel",
+    "form_id": "05033A52|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "En el sedal no había nada.",
+    "string": "No había nada en la línea...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishTankFirstTimeSmallMsg",
+    "form_id": "05000FA8|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Los peces pequeños que metas aquí se colocarán en el tanque.",
+    "string": "Todos los peces pequeños colocados aquí se mantendrán dentro de la pecera.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishTankFirstTimeSmallMsg",
+    "form_id": "05000FA8|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Tanque para peces",
+    "string": "Pecera  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FishPlaqueOnlyOneItemMsg",
+    "form_id": "05000F1B|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Solo puedes montar un pez en cada placa.",
+    "string": "Claramente, solo hay espacio para un pez en esta placa, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_ErrorNoFishMounted",
+    "form_id": "0500084A|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No puedes pescar mientras cabalgas.",
+    "string": "Pescar montado es intrigante, en verdad. Pero no es posible, no.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishTankNoMoreRoomMsg",
+    "form_id": "05000FAF|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No puedes meter tantos peces en este tanque.",
+    "string": "Claramente, la pecera no contendrá tantos pececillos, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishTankNoMoreRoomMsg",
+    "form_id": "05000FAF|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Tanque para peces",
+    "string": "Pecera  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_ErrorNoFishCombat",
+    "form_id": "05000847|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No puedes pescar mientras combates.",
+    "string": "¡Ja! ¡Pesca de combate no es una habilidad, gato tonto!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_ReelLinePrompt",
+    "form_id": "0500084C|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Pulsa [Activate] para recoger sedal",
+    "string": "Presionen [Activar] para enrollar la línea.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_CraftingUnlockedDwarven",
+    "form_id": "05000AE6|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Ahora puedes crear equipo con herrería enana.",
+    "string": "¡Nuevo equipo está disponible a través de Herrería Enana!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_DLC2dweDynamoActivatorMSG",
+    "form_id": "05000B21|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Se requiere un núcleo de dinamo de Aeterius.",
+    "string": "¿Se requiere un Núcleo Dinamo de Aeterio, no?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_DLC2dweDynamoActivatorMSG",
+    "form_id": "05000B21|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Se requiere un núcleo de dinamo de Aeterius.",
+    "string": "Núcleo Dinamo de Aeterio requerido  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishingHooked",
+    "form_id": "05033A53|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¡Tu anzuelo ha enganchado algo!",
+    "string": "¡Algo ha mordido el anzuelo!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_CatchPrompt",
+    "form_id": "05038BD2|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Pulsa [Activate] para recoger la pesca.",
+    "string": "Presionen [Activar] para tirar de la captura.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishTankLargeFishOnlyMsg",
+    "form_id": "05000FB1|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "En este tanque solo puedes meter peces grandes.",
+    "string": "Solo se permiten peces grandes en esta pecera.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishTankLargeFishOnlyMsg",
+    "form_id": "05000FB1|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Tanque para peces",
+    "string": "Pecera  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishTankRoomLeftMsg",
+    "form_id": "05000FB2|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Puedes meter %.0f peces más en este tanque.",
+    "string": "Esta pecera contendrá %.0f peces más.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishTankRoomLeftMsg",
+    "form_id": "05000FB2|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Estantería",
+    "string": "Estante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishingLostCatch",
+    "form_id": "05033A51|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has perdido la pesca.",
+    "string": "La captura se perdió, tristemente.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_ErrorRodRequired",
+    "form_id": "05000848|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Debes llevar una caña de pescar equipada para usar esto.",
+    "string": "Quizás equipar una caña de pescar sería sabio primero, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishTankSmallFishOnlyMsg",
+    "form_id": "05000FB0|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "En este tanque solo puedes meter peces pequeños.",
+    "string": "Solo se permiten peces pequeños en esta pecera.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_fishTankSmallFishOnlyMsg",
+    "form_id": "05000FB0|ccbgssse001-fish.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Tanque para peces",
+    "string": "Pecera  ",
+    "status": "TranslationComplete"
+  }
+]

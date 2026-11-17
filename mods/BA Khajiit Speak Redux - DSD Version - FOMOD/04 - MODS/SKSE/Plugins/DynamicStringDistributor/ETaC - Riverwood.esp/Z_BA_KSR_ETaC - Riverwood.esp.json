@@ -1,0 +1,803 @@
+[
+  {
+    "editor_id": "MJBRiverwoodDialogueRosalie_TownTopic",
+    "form_id": "0694042A|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What can you tell me about Riverwood?",
+    "string": "¿Qué puedes decirle a Khajiit sobre el pueblo de Cauce Boscoso, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueRosalie_SuppliesTopic01",
+    "form_id": "0694045D|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Know of anywhere I can buy supplies?",
+    "string": "¿Sabrías dónde este podría comprar algunas provisiones, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVendorBrandulfTopic",
+    "form_id": "0694090F|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you have for sale?",
+    "string": "¿Qué tienes en venta, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVendorNesbjornTopic",
+    "form_id": "06940913|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have anything to trade?",
+    "string": "Khajiit está interesado en comerciar bienes, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_VendorTopic",
+    "form_id": "06940915|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have any fish to sell?",
+    "string": "¿Tienes pescaditos deliciosos en venta, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueDynara_SelfTopic03B",
+    "form_id": "06940925|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've not, no.",
+    "string": "<Alias=Player> no lo ha hecho, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueIsgerdr_TownTopic",
+    "form_id": "0694093B|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What can you tell me about Riverwood?",
+    "string": "¿Qué puedes decirle a Khajiit sobre el pueblo de Cauce Boscoso, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueBasil_SelfTopic01",
+    "form_id": "06940944|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you do around here?",
+    "string": "¿Cuáles son tus habilidades en este pueblo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueBasil_TownTopic01",
+    "form_id": "06940946|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What can you tell me about Riverwood?",
+    "string": "¿Qué puedes decirle a Khajiit sobre el pueblo de Cauce Boscoso, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0694094E|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Caminda and I have lived here 15 years now. My boy was born here, but we're originally from Anvil, in Cyrodiil. ",
+    "string": "Caminda y yo hemos vivido aquí quince años ya. Mi chico nació aquí, pero somos originalmente de Anvil, en Cyrodiil. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueBasil_TownTopic02A",
+    "form_id": "0694094A|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Caminda?",
+    "string": "¿Quién es esta Caminda, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueBasil_TownTopic02B",
+    "form_id": "0694094B|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why did you leave Anvil?",
+    "string": "¿Por qué dejaste Anvil, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueBasil_TownTopic03",
+    "form_id": "0694094C|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sour how?",
+    "string": "<Alias=Player> lo sabe demasiado bien, amigo. ¡La leche agria es lo peor! Las uvas agrias quedan en segundo lugar, ¿sí? De eso hablas, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueBasil_TownTopic04",
+    "form_id": "0694094D|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "There are Thalmor here, too.",
+    "string": "Khajiit debería advertirte, amigo. Los Thalmor también están aquí, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueDynara_TownTopic01",
+    "form_id": "06940960|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What can you tell me about Riverwood?",
+    "string": "¿Qué puedes decirle a Khajiit sobre el pueblo de Cauce Boscoso, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06940969|ETaC - Riverwood.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "even though that hold has two mills of its own. In fact, the mill was here before the town, going back... Oh, a hundred years or so.",
+    "string": "...aunque ese territorio tiene dos molinos propios. De hecho, el molino estaba aquí antes que el pueblo, remontándose a... Oh, unos cien años o así.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueDynara_TownTopic02",
+    "form_id": "06940966|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Usually? Is there trouble now?",
+    "string": "¿Usualmente? ¿Hay problemas ahora, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueDynara_TownTopic03A",
+    "form_id": "06940967|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Actually, I've already taken care of those bandits.",
+    "string": "De hecho, <Alias=Player> ya se ha encargado de esos bandidos, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueDynara_TownTopic03B",
+    "form_id": "06940968|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll see what I can do.",
+    "string": "Khajiit hará esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueDynara_SelfTopic01",
+    "form_id": "06940970|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you do around here?",
+    "string": "¿Cuáles son tus habilidades en este pueblo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06940971|ETaC - Riverwood.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "It's a simple, straightforward life but it's satisfying and suits us very well.",
+    "string": "Es una vida simple y directa, pero es satisfactoria y nos queda muy bien.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueDynara_SelfTopic02",
+    "form_id": "06940973|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Your husband?",
+    "string": "Tu pareja, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueBasil_InnTopic",
+    "form_id": "0694097B|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Know of anywhere I could stay?",
+    "string": "Khajiit busca un lugar para descansar un rato, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueIsgerdr_SelfTopic",
+    "form_id": "0694098B|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you do around here?",
+    "string": "¿Cuáles son tus habilidades en este pueblo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06940A47|ETaC - Riverwood.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "gather ingredients where I can find them, and make monthly trips to Whiterun for some of the more exotic components.",
+    "string": "...recojo ingredientes donde puedo encontrarlos, y hago viajes mensuales a Carrera Blanca por algunos de los componentes más exóticos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueBasil_SuppliesTopic",
+    "form_id": "06940991|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Know of anywhere I can buy supplies?",
+    "string": "¿Sabrías dónde este podría comprar algunas provisiones, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueOdulf_FavorJobsTopic",
+    "form_id": "06940998|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have firewood to sell.",
+    "string": "<Alias=Player> tiene leña para vender, amigo. Dicen que cuando un árbol cae, no hace sonido... pero este se quejó bastante fuerte, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0694099C|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm, so you do. I guess this is reasonable enough quality. Fine. Take your gold, off with you now.",
+    "string": "Hmm, así que sí. Supongo que esto es de calidad razonable. Bien. Toma tu oro, y vete ya.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueOdulf_DragonTopic",
+    "form_id": "0694099E|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Did you, umm, see a dragon fly over earlier?",
+    "string": "Khajiit siente curiosidad... Tus ojos, umm... ¿vieron un dragón volar antes, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueOdulf_TownTopic",
+    "form_id": "069409A1|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What can you tell me about Riverwood?",
+    "string": "¿Qué puedes decirle a Khajiit sobre el pueblo de Cauce Boscoso, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueOdulf_SelfTopic01",
+    "form_id": "069409A4|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you do around here?",
+    "string": "¿Cuáles son tus habilidades en este pueblo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueOdulf_SelfTopic02A",
+    "form_id": "069409A5|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I�ll leave you to it then.",
+    "string": "<Alias=Player> te permitirá volver al trabajo, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueOdulf_SuppliesTopic01",
+    "form_id": "069409A7|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Know of anywhere I can buy supplies?",
+    "string": "¿Sabrías dónde este podría comprar algunas provisiones, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueOdulf_SuppliesTopic02A",
+    "form_id": "069409A8|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Golden claw?",
+    "string": "¿Garra dorada, hmm? ¿Qué es esto, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueOdulf_SelfTopic02B",
+    "form_id": "069409A9|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you need any help with that?",
+    "string": "¿Podría Khajiit ayudarte con eso, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueOdulf_SuppliesTopic02B",
+    "form_id": "069409AF|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ahh, yes. I've heard all about the golden claw.",
+    "string": "<Alias=Player> sí ha oído de esta garra dorada antes, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueNesbjorn_SelfTopic01",
+    "form_id": "069409BD|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you do around here?",
+    "string": "¿Cuáles son tus habilidades en este pueblo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueNesbjorn_SelfTopic02A",
+    "form_id": "069409BE|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's good hunting here?",
+    "string": "Khajiit disfruta el deporte de la caza, en verdad. ¿Hay buena presa en este lugar, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "069409C1|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh absolutely. The valley is teeming with game - both the sort you can hunt and the sort that will hunt you. I really like it here.",
+    "string": "Oh, absolutamente. El valle está lleno de presas, tanto de las que puedes cazar como de las que te cazarán a ti. A este le gusta mucho este lugar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueNesbjorn_SelfTopic02B",
+    "form_id": "069409BF|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Rosalie?",
+    "string": "¿Quién es esa \"Rosalie\" de la que hablas, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueIsgerdr_InnTopic",
+    "form_id": "069409C9|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Know of anywhere I could stay?",
+    "string": "Khajiit busca un lugar para descansar un rato, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueNesbjorn_TownTopic01",
+    "form_id": "069409E3|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What can you tell me about Riverwood?",
+    "string": "¿Qué puedes decirle a Khajiit sobre el pueblo de Cauce Boscoso, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueBrandulf_SpellsTopic",
+    "form_id": "069409F0|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you know where I can learn some spells?",
+    "string": "¿Sabrías dónde <Alias=Player> podría aprender algunos hechizos, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueNesbjorn_TownTopic02",
+    "form_id": "06940A34|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You grew up here then?",
+    "string": "Creciste aquí, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueDynara_InnTopic",
+    "form_id": "06940A38|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Know of anywhere I could stay?",
+    "string": "Khajiit busca un lugar para descansar un rato, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueDynara_SuppliesTopic",
+    "form_id": "06940A3A|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Know of anywhere I can buy supplies?",
+    "string": "¿Sabrías dónde este podría comprar algunas provisiones, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueDynara_FavorJobsTopic",
+    "form_id": "06940A3E|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have produce to sell.",
+    "string": "<Alias=Player> tiene productos para vender por tesoros brillantes, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueIsgerdr_SuppliesTopic",
+    "form_id": "06940A40|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Know of anywhere I can buy supplies?",
+    "string": "¿Sabrías dónde este podría comprar algunas provisiones, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06940A4D|ETaC - Riverwood.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "and, of course, if you need potions speak to Brandulf.",
+    "string": "...y, por supuesto, si necesitas pociones habla con Brandulf.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueDynara_SelfTopic03A",
+    "form_id": "06940A91|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have had that pleasure, yes.",
+    "string": "En efecto. Khajiit ya los ha conocido, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06940AA3|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Come in. Come in. I might have just the thing for that problem you're having.",
+    "string": "¡Pasa! ¡Pasa! Puede que tenga justo lo que necesitas para ese problema que tienes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06940AAE|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm?",
+    "string": "¿Hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueBrandulf_PCSickTopic",
+    "form_id": "06940AA7|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What? How did you know about my... problem?",
+    "string": "¿Qué problema, hmm? Khajiit no tiene problemas ni causa problemas - <Alias.PronounObj=Player> resuelve problemas, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueBrandulf_PCHealthyTopic",
+    "form_id": "06940AA9|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What problem? There's nothing wrong with me.",
+    "string": "¿Qué problema, hmm? Khajiit no tiene problemas ni causa problemas - <Alias.PronounObj=Player> resuelve problemas, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueOdulf_InnTopic",
+    "form_id": "06940AAC|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Know of anywhere I could stay?",
+    "string": "Khajiit busca un lugar para descansar un rato, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06940AB4|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Get out. Now.",
+    "string": "Fuera. ¡Ahora!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06940AB7|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mmm.",
+    "string": "Hmm.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06940AE1|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good hunting.",
+    "string": "¡Buena caza!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06940ABB|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's locked for a reason.",
+    "string": "Está cerrado por una razón...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06940ABE|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Get away from me.",
+    "string": "¡Aléjate de mí!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueRosalie_InnTopic",
+    "form_id": "06940AC7|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Know of anywhere I could stay?",
+    "string": "Khajiit busca un lugar para descansar un rato, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueRosalie_SelfTopic01",
+    "form_id": "06940ACB|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you do around here?",
+    "string": "¿Cuáles son tus habilidades en este pueblo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueRosalie_SelfTopic02A",
+    "form_id": "06940ACC|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I see.",
+    "string": "Este lo entiende, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueRosalie_SelfTopic02B",
+    "form_id": "06940ACD|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Seems to be a fine one.",
+    "string": "Parece ser uno bueno, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueRosalie_SelfTopic03",
+    "form_id": "06940ACE|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you mean?",
+    "string": "¿Qué quieres decir, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueRosalie_SelfTopic04A",
+    "form_id": "06940ACF|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is books?",
+    "string": "¿Libros, hmm? ¿Qué son estos?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueRosalie_SelfTopic04B",
+    "form_id": "06940AD0|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I too enjoy a good read.",
+    "string": "Khajiit disfruta un buen libro, en verdad. Perderse en una historia, y viajar por todas partes sin dar un solo paso. Es verdaderamente maravilloso, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "06940AD6|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ahh, a kindred spirit. Nothing beats losing yourself in a good story!",
+    "string": "Ah, un alma afín. ¡Nada supera perderse en una buena historia!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueNesbjorn_SuppliesTopic",
+    "form_id": "06940ADA|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Know of anywhere I can buy supplies?",
+    "string": "¿Sabrías dónde este podría comprar algunas provisiones, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueNesbjorn_InnTopic",
+    "form_id": "06940ADD|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Know of anywhere I can stay?",
+    "string": "Khajiit busca un lugar para descansar un rato, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_TownTopic01",
+    "form_id": "06940AE7|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What can you tell me about Riverwood?",
+    "string": "¿Qué puedes decirle a Khajiit sobre el pueblo de Cauce Boscoso, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_TownTopic02",
+    "form_id": "06940AE9|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Where would I go for news?",
+    "string": "¿Dónde encontraría un Khajiit noticias, rumores o chismes jugosos, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_InnTopic01",
+    "form_id": "06940AEC|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Know of anywhere I can stay the night?",
+    "string": "Khajiit siente curiosidad si hay un lugar donde <Alias.PronounObj=Player> pueda descansar un rato, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_InnTopic02",
+    "form_id": "06940AED|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "...Something wrong with Delphine?",
+    "string": "...¿Pasa algo con Delphine, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_SuppliesTopic",
+    "form_id": "06940AF2|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Know of anywhere I buy supplies?",
+    "string": "¿Sabrías dónde este podría comprar algunas provisiones, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_SelfTopic01",
+    "form_id": "06940AF5|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you do around here?",
+    "string": "¿Cuáles son tus habilidades en este pueblo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_SelfTopic02",
+    "form_id": "06940AF6|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How do you fill your days?",
+    "string": "Khajiit siente curiosidad... ¿Cómo ocupas tus días, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_SelfTopic03",
+    "form_id": "06940AF7|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Uncertain times, you think?",
+    "string": "Tiempos inciertos, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_SelfTopic04",
+    "form_id": "06940AF8|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How is the river?",
+    "string": "¿Cómo va el río de madera hoy, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_SelfTopic05",
+    "form_id": "06940AF9|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Always, yes. How is it you come to be in this place?",
+    "string": "Siempre, ¿sí? ¿Cómo es que llegaste a este lugar, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_SelfTopic06",
+    "form_id": "06940AFA|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is this a good place to wait?",
+    "string": "¿Es este río de madera un buen lugar para quedarse, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_SelfTopic07",
+    "form_id": "06940AFB|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What brought you to this place?",
+    "string": "¿Qué te trajo a Cauce Boscoso, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_SelfTopic08",
+    "form_id": "06940AFC|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I hear what you say. Thank you.",
+    "string": "Khajiit sabe que tus palabras son sabias, ¿sí? Muchas gracias, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_SelfTopic09",
+    "form_id": "06940AFD|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are the fish biting?",
+    "string": "¿Están picando los peces, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_SelfTopic10",
+    "form_id": "06940AFE|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I suppose so. That sounds a little... deep.",
+    "string": "Khajiit está de acuerdo. Sin duda tienes una perspectiva profunda, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_SelfTopic11",
+    "form_id": "06940AFF|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "If you say so. Never really thought about it.",
+    "string": "Una perspectiva interesante, otra vez, amigo. <Alias=Player> no lo había considerado antes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_SelfTopic12",
+    "form_id": "06940B00|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, I guess you're right.",
+    "string": "Quizá tengas razón... Quizá eres un mentiroso que miente... Solo las Lunas lo saben, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_SelfTopic13",
+    "form_id": "06940B01|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You seem far from home.",
+    "string": "Pareces estar lejos de casa, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MJBRiverwoodDialogueVeekas_SelfTopic14",
+    "form_id": "06940B02|ETaC - Riverwood.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Where had you lived before?",
+    "string": "Khajiit siente curiosidad... ¿Dónde estabas antes de llegar a este río de madera, hmm?",
+    "status": "TranslationComplete"
+  }
+]

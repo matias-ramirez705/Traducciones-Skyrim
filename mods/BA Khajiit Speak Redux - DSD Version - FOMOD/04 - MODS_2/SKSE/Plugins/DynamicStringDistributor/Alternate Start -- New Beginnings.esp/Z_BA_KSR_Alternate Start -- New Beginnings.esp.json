@@ -1,0 +1,380 @@
+[
+  {
+    "editor_id": "AFLOLALAddictBranchTopic",
+    "form_id": "07005903|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am an addict in a skooma den.",
+    "string": "Este Khajiit es un adicto a la skooma y reside en una guarida de skooma al azar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALBeggarBranchTopic",
+    "form_id": "07014C0C|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am a beggar.",
+    "string": "Este Khajiit mendiga en la calle para ganarse la vida.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALVampireBranchTopic",
+    "form_id": "0702E11C|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I was slain by a vampire and laid to rest.",
+    "string": "Khajiit fue recientemente asesinado por un vampiro y fue puesto a descansar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALVampireRandom",
+    "form_id": "07033225|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Surprise me.",
+    "string": "Sorprende a este Khajiit con la ubicación.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALAlchemistBranchTopic",
+    "form_id": "0705183D|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am an alchemist camping in the wilderness.",
+    "string": "Este Khajiit es un alquimista hábil, acampando en la naturaleza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALTempleBranchTopic",
+    "form_id": "0705695D|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am a pilgrim to a temple.",
+    "string": "Este Khajiit es un simple peregrino, en camino a un templo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALTempleDivines",
+    "form_id": "0705695F|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Temple of the Divines in Solitude.",
+    "string": "El Templo de los Divinos. (Soledad)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALTempleDibellaTopic",
+    "form_id": "07056961|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Temple of Dibella in Markarth.",
+    "string": "El Templo de Dibella. (Markarth)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALTempleKynarethTopic",
+    "form_id": "07056963|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Temple of Kynareth in Whiterun.",
+    "string": "El Templo de Kynareth. (Carrera Blanca)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALTempleMaraTopic",
+    "form_id": "07056965|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Temple of Mara in Riften.",
+    "string": "El Templo de Mara. (Riften)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALTempleTalosTopic",
+    "form_id": "07056967|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Temple of Talos in Windhelm.",
+    "string": "El Templo de Talos. (Ventalia)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALTempleRandomTopic",
+    "form_id": "07056969|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Surprise me.",
+    "string": "Sorprende a este Khajiit con la ubicación.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALAdventureBranchTopic",
+    "form_id": "07060B64|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am an adventurer in a Dwemer ruin.",
+    "string": "Este Khajiit es un aventurero, explorando una ruina Dwemer.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALWerewolfBranchTopic",
+    "form_id": "07065C6A|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am a werewolf at Frostmoon Crag.",
+    "string": "Khajiit se ha convertido en un hombre lobo y reside en Risco de la Luna Helada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALWitchBranchTopic",
+    "form_id": "0706AD71|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am a witch in a secluded lair.",
+    "string": "Este Khajiit es una bruja en una guarida aislada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALWarlockBranchTopic",
+    "form_id": "0706AD74|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am a warlock in a secluded lair.",
+    "string": "Este Khajiit es un hechicero en una guarida aislada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALJailBranchTopic",
+    "form_id": "0707F183|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have been thrown into jail.",
+    "string": "Una serie de desafortunados eventos ha resultado en que este Khajiit sea arrojado a la cárcel.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALJailEastmarchBranch",
+    "form_id": "0707F186|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Eastmarch [Windhelm].",
+    "string": "Marca Oriental. (Ventalia)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALJailHaafingarBranch",
+    "form_id": "0707F18A|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Haafingar [Solitude].",
+    "string": "Haafingar. (Soledad)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALJailHjaalmarchTopic",
+    "form_id": "0707F18D|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hjaalmarch [Morthal].",
+    "string": "Marca de Hjaal. (Morthal)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALJailPaleBranch",
+    "form_id": "0707F18F|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Pale [Dawnstar].",
+    "string": "El Pálido. (Lucero del Alba)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALJailReachBranch",
+    "form_id": "0707F191|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Reach [Markarth].",
+    "string": "La Cuenca. (Markarth)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALJailRiftBranch",
+    "form_id": "0707F193|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Rift [Riften].",
+    "string": "La Grieta. (Riften)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALJailRandom",
+    "form_id": "0707F199|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Surprise me.",
+    "string": "Sorprende a este Khajiit con la ubicación.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALThalmorBranchTopic",
+    "form_id": "0707F19E|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I was imprisoned by the Thalmor.",
+    "string": "Khajiit ha sido encarcelado por los Thalmor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALDragonBranchTopic",
+    "form_id": "0707F1A3|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I was attacked by a dragon.",
+    "string": "Khajiit fue recientemente atacado por un dragón y dejado por muerto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALBeggarRiftenTopic",
+    "form_id": "070842AD|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Beggar's Row in Riften.",
+    "string": "Callejón del Mendigo. (Riften)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALBeggarMarkarthTopic",
+    "form_id": "070842AE|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Warrens in Markarth.",
+    "string": "Las madrigueras. (Markarth)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALSacredBranchTopic",
+    "form_id": "0708E4BD|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am a pilgrim to a sacred site.",
+    "string": "Khajiit está en una peregrinación hacia un sitio mítico y sagrado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALStendarrHallTopic",
+    "form_id": "0708E4BF|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Hall of the Vigilant.",
+    "string": "El Salón de los Vigilantes. (El Pálido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALStendarrBeaconTopic",
+    "form_id": "0708E4C1|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Stendarr's Beacon.",
+    "string": "El Faro de Stendarr. (La Grieta)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALAzuraTopic",
+    "form_id": "0708E4D7|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Shrine of Azura.",
+    "string": "El Santuario de Azura. (Hibernalia)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALBoethiahTopic",
+    "form_id": "0708E4D9|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Sacellum of Boethiah.",
+    "string": "El Próstilo de Boethiah. (Marca Oriental)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALEldergleamTopic",
+    "form_id": "0708E4DB|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Eldergleam Sanctuary.",
+    "string": "El Santuario del Brillo de los Antiguos. (Marca Oriental)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALPeryiteTopic",
+    "form_id": "0708E4DD|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Shrine of Peryite.",
+    "string": "Capilla de Peryite. (La Cuenca)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALMeridiaTopic",
+    "form_id": "070935E5|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Statue to Meridia.",
+    "string": "La Estatua de Meridia. (Haafingar)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALDagonTopic",
+    "form_id": "070935E7|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Shrine of Mehrunes Dagon.",
+    "string": "Capilla de Mehrunes Dagon. (El Pálido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALMerchantBranchTopic",
+    "form_id": "070A2935|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am a wandering merchant traveling to Skyrim.",
+    "string": "Khajiit es un comerciante respetado, viajando por Skyrim.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALMerchantRandomTopic",
+    "form_id": "070A293F|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Surprise me.",
+    "string": "Sorprende a este Khajiit con la ubicación.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALMercBranchTopic",
+    "form_id": "070A2942|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am a wandering mercenary traveling to Skyrim.",
+    "string": "Este Khajiit es un mercenario, viajando a Skyrim en busca de trabajo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALMercRandomTopic",
+    "form_id": "070A294C|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Surprise me.",
+    "string": "Sorprende a este Khajiit con la ubicación.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AFLOLALAngiBranchTopic",
+    "form_id": "070B6D54|Alternate Start -- New Beginnings.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have arrived at Angi's camp in Falkreath Hold.",
+    "string": "Khajiit acaba de llegar al campamento de Angi en Comarca de Falkreath...",
+    "status": "TranslationComplete"
+  }
+]

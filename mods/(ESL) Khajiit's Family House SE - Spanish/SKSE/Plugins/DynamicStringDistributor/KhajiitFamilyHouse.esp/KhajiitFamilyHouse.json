@@ -1,0 +1,4277 @@
+[
+  {
+    "editor_id": "KhajitChild",
+    "form_id": "05000817|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "CLAS FULL",
+    "original": "KhajitChild",
+    "string": "KhajitChild",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_ChaurusFaction",
+    "form_id": "05000894|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Chaurus Faction",
+    "string": "Facción de cauro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HairKhajiit00",
+    "form_id": "000EE85C|Skyrim.esm",
+    "index": 1,
+    "type": "HDPT FULL",
+    "original": "MaleHeadKhajit",
+    "string": "MaleHeadKhajit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "8_WereTigerRaceFollower",
+    "form_id": "0500080A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "WereTiger",
+    "string": "Hombre Tigre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_dragonlingrace",
+    "form_id": "0500081B|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragonling",
+    "string": "Dragoncillo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_FlyableChaurusHunterRace",
+    "form_id": "05000830|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "ChaurusFlyer",
+    "string": "Cauro volador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SabreCatRaceTigerFollower",
+    "form_id": "0500083C|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Tiger",
+    "string": "Tigre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SabreCatRideArmoredTigerRaceSummon",
+    "form_id": "05000842|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Armored Tiger",
+    "string": "Tigre Blindado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_ChaurusHunterRace",
+    "form_id": "05000843|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "ChaurusFlyer",
+    "string": "Cauro volador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_RatRace",
+    "form_id": "05000867|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Rat",
+    "string": "Rata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_RideLeatherArmoredTigerRace",
+    "form_id": "05000869|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Armored Tiger",
+    "string": "Tigre Blindado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_OwlRace",
+    "form_id": "0500089D|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Owl",
+    "string": "Búho",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_OwlRaceFollower",
+    "form_id": "050008AA|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Owl",
+    "string": "Búho",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_WolfFollowerRace",
+    "form_id": "050008AC|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Wolf",
+    "string": "Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_FlyableDragonlingRaceSummon",
+    "form_id": "05000917|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragonling",
+    "string": "Dragoncillo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3_cliffracerraceFlying",
+    "form_id": "0500093C|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Cliff Racer",
+    "string": "Asolador de acantilados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3_cliffracerrace",
+    "form_id": "05000946|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Cliff Racer",
+    "string": "Asolador de acantilados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_FlyableGiantWaspRaceSummon",
+    "form_id": "05000978|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Giant Wasp",
+    "string": "Avispa Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_KhajiitFemaleRaceChild",
+    "form_id": "050009D8|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Khajiit  child",
+    "string": "Niño Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_KhajiitFemaleRaceChild",
+    "form_id": "050009D8|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Hailing from the province of Elsweyr, they are intelligent, quick, and agile.  They make excellent thieves due to their natural stealthiness. All Khajiit can see in the dark at will and have unarmed claw attacks.",
+    "string": "Naturales de la provincia de Elsweyr, son inteligentes, rápidos y ágiles. Resultan ladrones excelentes debido a su sigilo natural. Todos los khajiitas pueden ver en la oscuridad a voluntad y sus ataques con las garras resultan mortales.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_cyrodiilwolfrace",
+    "form_id": "050009DF|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Wolf",
+    "string": "Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "8_WereTigerRaceTransform",
+    "form_id": "05000A18|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "WereTiger",
+    "string": "Hombre Tigre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "8_WereLionessRaceTransform",
+    "form_id": "05000A1A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "WereLioness",
+    "string": "Hembra León Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "8_WereLionRaceTransform",
+    "form_id": "05000A3B|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "WereLion",
+    "string": "León Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "8_WerePantherRaceTransform",
+    "form_id": "05000A3F|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "WerePanther",
+    "string": "Pantera Loba",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "9_curseddollrace",
+    "form_id": "05000A5A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Cursed Doll Race",
+    "string": "Raza Muñeca Maldita",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "11_DollRaceGrey",
+    "form_id": "05000A7A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Doll Race",
+    "string": "Raza Muñeca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "11_DollRaceSepia",
+    "form_id": "05000A9B|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Doll Race",
+    "string": "Raza Muñeca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "11_DollDollRaceGrey",
+    "form_id": "05000AB7|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Doll Race",
+    "string": "Raza Muñeca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "11_DollDollRaceSepia",
+    "form_id": "05000AB8|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Doll Race",
+    "string": "Raza Muñeca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "13_beerace",
+    "form_id": "05000AF1|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Bee",
+    "string": "Abeja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "14_batrace",
+    "form_id": "05000AFB|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Bat",
+    "string": "Murciélago",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "14_BatraceFollowerBis",
+    "form_id": "05000B0E|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Bat",
+    "string": "Murciélago",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_dragonlingrace",
+    "form_id": "05000B3D|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragonling",
+    "string": "Dragoncillo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_FlyableGiantWasp2RaceSummon",
+    "form_id": "05000B45|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Giant Wasp",
+    "string": "Avispa Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_KhajiitMaleRaceChild",
+    "form_id": "05000D63|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Khajiit  child",
+    "string": "Niño Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_KhajiitMaleRaceChild",
+    "form_id": "05000D63|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "RACE DESC",
+    "original": "Hailing from the province of Elsweyr, they are intelligent, quick, and agile.  They make excellent thieves due to their natural stealthiness. All Khajiit can see in the dark at will and have unarmed claw attacks.",
+    "string": "Naturales de la provincia de Elsweyr, son inteligentes, rápidos y ágiles. Resultan ladrones excelentes debido a su sigilo natural. Todos los khajiitas pueden ver en la oscuridad a voluntad y sus ataques con las garras resultan mortales.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "14_BatEggMGEF",
+    "form_id": "05000803|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Hatch Bat",
+    "string": "Huevo de Murciélago",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_dragonlingfireballFF",
+    "form_id": "05000820|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dragonling Fireball",
+    "string": "Dragoncito Bola de Fuego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3_CliffRacerEggMGEF",
+    "form_id": "0500085D|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Hatch Cliff Racer",
+    "string": "Huevo de Asolador de Acantilados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "9_CursedDollEggMGEF",
+    "form_id": "0500085E|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Hatch Cursed Doll",
+    "string": "Huevo de Muñeca Maldita",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_DragonlingEggMGEF",
+    "form_id": "0500085F|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Hatch Dragonling",
+    "string": "Huevo de Dragoncito",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_WaspAEggMGEF",
+    "form_id": "05000860|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Hatch Wasp A",
+    "string": "Huevo de Avispa A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SummonsLeatherArmoredTiger",
+    "form_id": "0500086A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Leather Armored Tiger",
+    "string": "Tigre con Armadura de Cuero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SummonsLeatherArmoredTiger",
+    "form_id": "0500086A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons Leather Armored Tiger for <dur> seconds wherever the caster is pointing.",
+    "string": "Invoca un Tigre con Armadura de Cuero durante <dur> segundos en la dirección que apunte el lanzador.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "8_WerewolfChangeFXEffectTRANSFORMTiger",
+    "form_id": "0500086D|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Beast Form",
+    "string": "Forma bestial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "8_WerewolfChangeFXEffectTRANSFORMTiger",
+    "form_id": "0500086D|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Take on the form of the WereTiger.\r\n",
+    "string": "Adoptar la forma del Hombre-Tigre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SummonDragonling",
+    "form_id": "05000889|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dragonling",
+    "string": "Dragoncillo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SummonDragonling",
+    "form_id": "05000889|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons Dragonling for <dur> seconds wherever the caster is pointing.",
+    "string": "Invoca un Dragoncito durante <dur> segundos en la dirección que apunte el lanzador.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_dragonlingflamesfx",
+    "form_id": "050008B7|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dragonling Flames",
+    "string": "Llamas del Dragoncito",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_dragonlingflamesfx",
+    "form_id": "050008B7|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "<mag> points of damage for <dur> seconds.",
+    "string": "<mag> puntos de daño durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_dragonlingwings0",
+    "form_id": "050008C8|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "SprigganFX Ability",
+    "string": "SprigganFX Ability",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_DismissSummonedCreatures",
+    "form_id": "05000925|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dismiss Summoned Creatures",
+    "string": "Descartar Criaturas Invocadas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_DismissSummonedCreatures",
+    "form_id": "05000925|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "To Dismiss your summoned creatures.",
+    "string": "Para descartar tus criaturas invocadas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SummonCliffRacer",
+    "form_id": "05000941|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cliff Racer",
+    "string": "Asolador de acantilados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SummonCliffRacer",
+    "form_id": "05000941|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons Cliff Racer for <dur> seconds wherever the caster is pointing.",
+    "string": "Invoca un Asolador de Acantilados durante <dur> segundos en la dirección que apunte el lanzador.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_SummonRatBlack",
+    "form_id": "0500095C|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Rat Black",
+    "string": "Rata Negra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_SummonRatWhite",
+    "form_id": "0500095D|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Rat White",
+    "string": "Rata Blanca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SummonGiantWasp",
+    "form_id": "05000969|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Giant Wasp",
+    "string": "Avispa Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SummonGiantWasp",
+    "form_id": "05000969|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons Giant Wasp for <dur> seconds wherever the caster is pointing.",
+    "string": "Invoca Avispa Gigante durante <dur> segundos en la dirección que apunte el lanzador.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_SummonRatBrown",
+    "form_id": "050009C6|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Rat Brown",
+    "string": "Rata Marrón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_SummonRatBrownLight",
+    "form_id": "050009C7|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Rat Brown Light",
+    "string": "Rata Marrón Claro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_SummonRatGrey",
+    "form_id": "050009CA|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Rat Grey",
+    "string": "Rata Gris",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_SummonRatGrey2",
+    "form_id": "050009CB|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Rat Grey2",
+    "string": "Rata Gris2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_SummonWolf1",
+    "form_id": "050009EF|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Wolf",
+    "string": "Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_SummonWolf2",
+    "form_id": "050009F0|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Wolf",
+    "string": "Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_SummonWolf3",
+    "form_id": "050009F1|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Wolf",
+    "string": "Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_SummonWolf4",
+    "form_id": "050009F2|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Wolf",
+    "string": "Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "8_WerewolfChangeFXEffectTRANSFORMLioness",
+    "form_id": "05000A1F|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Beast Form",
+    "string": "Forma bestial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "8_WerewolfChangeFXEffectTRANSFORMLioness",
+    "form_id": "05000A1F|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Take on the form of the WereLioness.\r\n",
+    "string": "Adoptar la forma de la Hombre-Leona.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "8_WerewolfChangeFXEffectTRANSFORMPanther",
+    "form_id": "05000A21|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Beast Form",
+    "string": "Forma bestial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "8_WerewolfChangeFXEffectTRANSFORMPanther",
+    "form_id": "05000A21|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Take on the form of the WerePanther.\r\n",
+    "string": "Adoptar la forma de la Pantera Hombre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "8_WerewolfChangeFXEffectTRANSFORMLion",
+    "form_id": "05000A3A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Beast Form",
+    "string": "Forma bestial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "8_WerewolfChangeFXEffectTRANSFORMLion",
+    "form_id": "05000A3A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Take on the form of the WereLion.\r\n",
+    "string": "Adoptar la forma del Hombre-León.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SummonsLeatherSaddledTiger",
+    "form_id": "05000AE2|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Leather Saddled Tiger",
+    "string": "Tigre con Silla de Cuero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SummonsLeatherSaddledTiger",
+    "form_id": "05000AE2|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons Leather Saddled Tiger for <dur> seconds wherever the caster is pointing.",
+    "string": "Invoca un Tigre con Silla de Cuero durante <dur> segundos en la dirección que apunte el lanzador.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SummonsIronArmoredTiger",
+    "form_id": "05000AE5|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Iron Armored Tiger",
+    "string": "Tigre con Armadura de Hierro\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SummonsIronArmoredTiger",
+    "form_id": "05000AE5|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons Iron Armored Tiger for <dur> seconds wherever the caster is pointing.",
+    "string": "Invoca un Tigre con Armadura de Hierro durante <dur> segundos en la dirección que apunte el lanzador.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SummonsDawnguardArmoredTiger",
+    "form_id": "05000AE8|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dawnguard Armored Tiger",
+    "string": "Tigre con Armadura de la Guardia del Amanecer",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SummonsDawnguardArmoredTiger",
+    "form_id": "05000AE8|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons Dawnguard Armored Tiger for <dur> seconds wherever the caster is pointing.",
+    "string": "Invoca un Tigre con Armadura de la Guardia del Amanecer durante <dur> segundos en la dirección que apunte el lanzador.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "13_SummonGiantBee",
+    "form_id": "05000AF5|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Giant Bee",
+    "string": "Abeja Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "13_SummonGiantBee",
+    "form_id": "05000AF5|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons Giant Bee for <dur> seconds wherever the caster is pointing.",
+    "string": "Invoca una Abeja Gigante durante <dur> segundos en la dirección que apunte el lanzador.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "14_SummonGiantBat",
+    "form_id": "05000AF8|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Giant Bat",
+    "string": "Murciélago Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "14_SummonGiantBat",
+    "form_id": "05000AF8|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons Giant Bat for <dur> seconds wherever the caster is pointing.",
+    "string": "Invoca un Murciélago Gigante durante <dur> segundos en la dirección que apunte el lanzador.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_dragonlingfireballFF",
+    "form_id": "05000B38|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dragonling Fireball",
+    "string": "Dragoncito Bola de Fuego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_SummonDragonlingB",
+    "form_id": "05000B3F|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dragonling B",
+    "string": "Dragoncito B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_SummonDragonlingA",
+    "form_id": "05000B40|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dragonling A",
+    "string": "Dragoncito A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SummonGiantWasp3",
+    "form_id": "05000B4A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Giant Wasp",
+    "string": "Avispa Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SummonGiantWasp3",
+    "form_id": "05000B4A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons Giant Wasp for <dur> seconds wherever the caster is pointing.",
+    "string": "Invoca Avispa Gigante durante <dur> segundos en la dirección que apunte el lanzador.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_WaspBEggMGEF",
+    "form_id": "05000B50|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Hatch Wasp B",
+    "string": "Huevo de Avispa B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_darkhatdoparade",
+    "form_id": "05000807|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Parade Dar'Khat-Do",
+    "string": "Desfile Dar'khat-do",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_darkhatdoarmor",
+    "form_id": "05000812|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Armor Dar'Khat-Do",
+    "string": "Armadura Dar'Khat-Do",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_darkhatdoforce",
+    "form_id": "05000B05|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Strength Dar'Khat-Do",
+    "string": "Fuerza Dar'khat-do",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_darkhatdotalent",
+    "form_id": "0500080F|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Talent Dar'Khat-Do",
+    "string": "Talento de Dar'Khat-Do",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_darkhatdoboethia",
+    "form_id": "05000810|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dar'Khat-Do's boethia",
+    "string": "Boethia de Dar'Khat-Do",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_dragonlingfireball",
+    "form_id": "0500081F|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dragonling Poison",
+    "string": "Veneno de Dragonling",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_abdragonling",
+    "form_id": "05000822|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Chaurus effects",
+    "string": "Efectos de cauro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3_abcliffracer",
+    "form_id": "05000825|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Chaurus effects",
+    "string": "Efectos de cauro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "14_abbat",
+    "form_id": "0500083F|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flame Atronach abilities",
+    "string": "Aptitudes del atronach de las llamas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "8_WerewolfChangeFXTRANSFORMTiger",
+    "form_id": "0500084B|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Beast Form",
+    "string": "Forma bestial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_ConjureLeatherArmoredTiger",
+    "form_id": "0500086B|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Leather Armored Tiger",
+    "string": "Invocar Tigre con Armadura de Cuero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "13_abbeehive",
+    "form_id": "05000888|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Spriggan abilities",
+    "string": "Aptitudes de spriggan",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_ConjureDragonling",
+    "form_id": "0500088A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Dragonling",
+    "string": "Invocar Dragoncito",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_dragonlingflames",
+    "form_id": "050008B6|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dragonling Flames",
+    "string": "Llamas del Dragoncito",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_DismissSummonedCreaturesSpell",
+    "form_id": "05000927|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dismiss Summoned Creatures",
+    "string": "Descartar Criaturas Invocadas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_ConjureCliffRacer",
+    "form_id": "05000942|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Cliff Racer",
+    "string": "Invocar Asolador de Acantilados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_RatsSpellBW",
+    "form_id": "0500095E|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Two Rats Black and White",
+    "string": "Invocar Dos Ratas Negra y Blanca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_RatsSpellBW",
+    "form_id": "0500095E|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Conjure Rats",
+    "string": "Invocar Ratas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_ConjureGiantWaspA",
+    "form_id": "0500096A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Giant Wasp A",
+    "string": "Invocar Avispa Gigante A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_RatsSpellBB",
+    "form_id": "050009C8|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Two Rats Brown",
+    "string": "Invocar Dos Ratas Marrón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_RatsSpellBB",
+    "form_id": "050009C8|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Conjure Rats",
+    "string": "Invocar Ratas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_RatsSpellGG",
+    "form_id": "050009CC|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Two Rats Grey",
+    "string": "Invocar Dos Ratas Gris",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_RatsSpellGG",
+    "form_id": "050009CC|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Conjure Rats",
+    "string": "Invocar Ratas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_WolfSpellA",
+    "form_id": "050009F3|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Two Wolves A",
+    "string": "Invocar Dos Lobos A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_WolfSpellA",
+    "form_id": "050009F3|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Conjure Wolves",
+    "string": "Invocar Lobos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_WolfSpellB",
+    "form_id": "050009F4|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Two Wolves B",
+    "string": "Invocar Dos Lobos B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_WolfSpellB",
+    "form_id": "050009F4|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Conjure Wolves",
+    "string": "Invocar Lobos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "8_WerewolfChangeFXTRANSFORMLioness",
+    "form_id": "05000A20|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Beast Form",
+    "string": "Forma bestial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "8_WerewolfChangeFXTRANSFORMPanther",
+    "form_id": "05000A22|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Beast Form",
+    "string": "Forma bestial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "8_WerewolfChangeFXTRANSFORMLion",
+    "form_id": "05000A3E|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Beast Form",
+    "string": "Forma bestial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_ConjureLeatherSaddledTiger",
+    "form_id": "05000AE3|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Leather Saddled Tiger",
+    "string": "Invocar Tigre con Silla de Cuero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_ConjureIronArmoredTiger",
+    "form_id": "05000AE6|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Iron Armored Tiger",
+    "string": "Invocar Tigre con Armadura de Hierro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_ConjureDawnguardArmoredTiger",
+    "form_id": "05000AE9|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Dawnguard Armored Tiger",
+    "string": "Invocar Tigre con Armadura de la Guardia del Amanecer",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "13_ConjureGiantBee",
+    "form_id": "05000AF6|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Giant Bee",
+    "string": "Invocar Abeja Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "14_ConjureGiantBat",
+    "form_id": "05000AF9|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Giant Bat",
+    "string": "Invocar Murciélago Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_Fireboltdragonling",
+    "form_id": "05000B34|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Firebolt",
+    "string": "Proyectil ígneo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_abdragonling",
+    "form_id": "05000B37|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Chaurus effects",
+    "string": "Efectos de cauro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_dragonlingfireball",
+    "form_id": "05000B39|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Chaurus Poison",
+    "string": "Veneno de cauro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_DragonlingsSpell",
+    "form_id": "05000B41|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Two Dragonlings",
+    "string": "Invocar Dos Dragoncitos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_DragonlingsSpell",
+    "form_id": "05000B41|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Conjure Dragonlings",
+    "string": "Invocar Dragoncito",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_ConjureGiantWaspB",
+    "form_id": "05000B4B|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Giant Wasp B",
+    "string": "Invocar Avispa Gigante B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "14_BatEggIncubated",
+    "form_id": "05000804|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Incubated Bat Egg",
+    "string": "Huevo de Murciélago Incubado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "14_BatEggIncubated",
+    "form_id": "05000804|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SCRL DESC",
+    "original": "The egg can hatch with the heat of the forge.",
+    "string": "El huevo puede eclosionar con el calor de la forja.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3_CliffRacerEggIncubated",
+    "form_id": "05000861|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Incubated Cliff Racer Egg",
+    "string": "Huevo de Asolador de Acantilados Incubado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3_CliffRacerEggIncubated",
+    "form_id": "05000861|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SCRL DESC",
+    "original": "The egg can hatch with the heat of the forge.",
+    "string": "El huevo puede eclosionar con el calor de la forja.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "9_CursedDollEggIncubated",
+    "form_id": "05000862|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Incubated Cursed Doll Egg",
+    "string": "Huevo de Muñeca Maldita Incubado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "9_CursedDollEggIncubated",
+    "form_id": "05000862|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SCRL DESC",
+    "original": "The egg can hatch with the heat of the forge.",
+    "string": "El huevo puede eclosionar con el calor de la forja.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_DragonlingEggIncubated",
+    "form_id": "05000863|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Incubated Dragonling Egg",
+    "string": "Huevo de Dragonling Incubado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_DragonlingEggIncubated",
+    "form_id": "05000863|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SCRL DESC",
+    "original": "The egg can hatch with the heat of the forge.",
+    "string": "El huevo puede eclosionar con el calor de la forja.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_WaspAEggIncubated",
+    "form_id": "05000938|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Incubated Wasp A Egg",
+    "string": "Huevo de Avispa A Incubado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_WaspAEggIncubated",
+    "form_id": "05000938|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SCRL DESC",
+    "original": "The egg can hatch with the heat of the forge.",
+    "string": "El huevo puede eclosionar con el calor de la forja.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_WaspBEggIncubated",
+    "form_id": "05000B51|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Incubated Wasp B Egg",
+    "string": "Huevo de Avispa B Incubado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_WaspBEggIncubated",
+    "form_id": "05000B51|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "SCRL DESC",
+    "original": "The egg can hatch with the heat of the forge.",
+    "string": "El huevo puede eclosionar con el calor de la forja.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "9_DollDead",
+    "form_id": "05000821|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Child's Doll",
+    "string": "Muñeca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "9_DollDead",
+    "form_id": "05000821|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Search",
+    "string": "Buscar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_darkhatdobracelets",
+    "form_id": "05000800|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bracelets Dar'Khat-Do",
+    "string": "Brazaletes Dar'Khat-Do",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_darkhatdobottes",
+    "form_id": "05000801|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Boots Dar'Khat-Do",
+    "string": "Botas Dar'Khat-Do",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_darkhatdoarmure",
+    "form_id": "05000802|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Armor Dar'Khat-Do",
+    "string": "Armadura Dar'Khat-Do",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_Skindragonling",
+    "form_id": "0500081D|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dragonling",
+    "string": "Dragoncillo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SkinLeatherArmoredTIGER",
+    "form_id": "05000866|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Tiger",
+    "string": "Tigre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_SkinRatBlack",
+    "form_id": "050008D1|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Rat",
+    "string": "Rata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3_Skincliffracer",
+    "form_id": "0500093D|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Cliff Racer",
+    "string": "Asolador de acantilados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SkinGiantWasp",
+    "form_id": "05000967|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Giant Wasp",
+    "string": "Avispa Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_SkinRatWhite",
+    "form_id": "050009B1|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Rat",
+    "string": "Rata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_SkinRatBrown",
+    "form_id": "050009BE|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Rat",
+    "string": "Rata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_SkinRatBrownLight",
+    "form_id": "050009BF|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Rat",
+    "string": "Rata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_SkinRatGrey",
+    "form_id": "050009C0|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Rat",
+    "string": "Rata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_SkinRatGrey2",
+    "form_id": "050009C1|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Rat",
+    "string": "Rata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SkinDawnguardArmoredTIGER",
+    "form_id": "05000ADA|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Tiger",
+    "string": "Tigre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SkinLeatherSaddleTIGER",
+    "form_id": "05000ADD|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Tiger",
+    "string": "Tigre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SkinIronArmoredTIGER",
+    "form_id": "05000AE0|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Tiger",
+    "string": "Tigre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "13_Skinbee",
+    "form_id": "05000AF2|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bee",
+    "string": "Abeja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "14_SkinBat",
+    "form_id": "05000AFC|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bat",
+    "string": "Murciélago",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_dragonlingskin",
+    "form_id": "05000B3B|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dragonling",
+    "string": "Dragoncillo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SkinGiantWasp2",
+    "form_id": "05000B44|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Giant Wasp",
+    "string": "Avispa Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SkinGiantWasp3",
+    "form_id": "05000B47|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Giant Wasp",
+    "string": "Avispa Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_DarKhatDoNote",
+    "form_id": "0500081A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Note",
+    "string": "Nota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_DarKhatDoNote",
+    "form_id": "0500081A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face=\"$HandwrittenFont\">\r\nVisitor of passage ... You are welcome in my house !\r\n\r\nDar'Khat-Do\r\n\r\n</font>",
+    "string": "<font face=\"$HandwrittenFont\">\r\n¡Visitante del paso... ¡Eres bienvenido en mi casa!\r\n\r\nDar'Khat-Do\r\n</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SpellTomeLeatherArmoredTiger",
+    "form_id": "0500086C|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Leather Armored Tiger",
+    "string": "Tomos de Hechizo: Invocar Tigre Blindado de Cuero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SpellTomeLeatherArmoredTiger",
+    "form_id": "0500086C|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Familiar",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjurar familiar\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SpellTomeDragonling",
+    "form_id": "0500088B|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Dragonling",
+    "string": "Tomos de Hechizo: Invocar Dragoncito",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SpellTomeDragonling",
+    "form_id": "0500088B|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Familiar",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjurar familiar\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SpellTomeDismissSummonedCreature",
+    "form_id": "05000926|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Dismiss Summoned Creatures",
+    "string": "Tomos de Hechizo: Despedir Criaturas Invocadas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SpellTomeDismissSummonedCreature",
+    "form_id": "05000926|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nDismiss Summoned Creatures",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nDescartar Criaturas Invocadas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SpellTomeCliffRacer",
+    "form_id": "05000943|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Cliff Racer",
+    "string": "Tomos de Hechizo: Invocar Asolador de Acantilados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SpellTomeCliffRacer",
+    "form_id": "05000943|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Familiar",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjurar familiar\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_SpellTomeTwoRatsBW",
+    "form_id": "0500095F|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Two Rats Black and White",
+    "string": "Tomos de Hechizo: Invocar Dos Ratas Negra y Blanca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_SpellTomeTwoRatsBW",
+    "form_id": "0500095F|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Rats",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjurar ratas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SpellTomeGiantWaspA",
+    "form_id": "0500096B|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Giant Wasp A",
+    "string": "Tomos de Hechizo: Invocar Avispa Gigante A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SpellTomeGiantWaspA",
+    "form_id": "0500096B|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Familiar",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjurar familiar\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_SpellTomeTwoRatsBB",
+    "form_id": "050009C9|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Two Rats Brown",
+    "string": "Tomos de Hechizo: Invocar Dos Ratas Marrón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_SpellTomeTwoRatsBB",
+    "form_id": "050009C9|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Rats",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjurar ratas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_SpellTomeTwoRatsGG",
+    "form_id": "050009CD|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Two Rats Grey",
+    "string": "Tomos de Hechizo: Invocar Dos Ratas Gris",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_SpellTomeTwoRatsGG",
+    "form_id": "050009CD|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Rats",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjurar ratas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_SpellTomeTwoWolvesA",
+    "form_id": "050009F5|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Two Wolves A",
+    "string": "Tomos de Hechizo: Invocar Dos Lobos A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_SpellTomeTwoWolvesA",
+    "form_id": "050009F5|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Wolves",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjurar lobos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_SpellTomeTwoWolvesB",
+    "form_id": "050009F6|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Two Wolves B",
+    "string": "Tomos de Hechizo: Invocar Dos Lobos B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_SpellTomeTwoWolvesB",
+    "form_id": "050009F6|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Wolves",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjurar lobos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SpellTomeLeatherSaddledTiger",
+    "form_id": "05000AE4|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Leather Saddled Tiger",
+    "string": "Tomos de Hechizo: Invocar Tigre con Silla de Cuero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SpellTomeLeatherSaddledTiger",
+    "form_id": "05000AE4|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Familiar",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjurar familiar\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SpellTomeIronArmoredTiger",
+    "form_id": "05000AE7|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Iron Armored Tiger",
+    "string": "Tomos de Hechizo: Invocar Tigre Blindado de Hierro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SpellTomeIronArmoredTiger",
+    "form_id": "05000AE7|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Familiar",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjurar familiar\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SpellTomeDawnguardArmoredTiger",
+    "form_id": "05000AEA|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Dawnguard Armored Tiger",
+    "string": "Tomos de Hechizo: Invocar Tigre Blindado de la Guardia del Amanecer",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_SpellTomeDawnguardArmoredTiger",
+    "form_id": "05000AEA|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Familiar",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjurar familiar\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "13_SpellTomeGiantBee",
+    "form_id": "05000AF7|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Giant Bee",
+    "string": "Tomos de Hechizo: Invocar Abeja Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "13_SpellTomeGiantBee",
+    "form_id": "05000AF7|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Familiar",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjurar familiar\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "14_SpellTomeGiantBat",
+    "form_id": "05000AFA|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Giant Bat",
+    "string": "Tomos de Hechizo: Invocar Murciélago Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "14_SpellTomeGiantBat",
+    "form_id": "05000AFA|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Familiar",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjurar familiar\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_SpellTomeTwoDragonlings",
+    "form_id": "05000B42|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Two Dragonlings",
+    "string": "Tomos de Hechizo: Invocar Dos Dragoncitos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_SpellTomeTwoDragonlings",
+    "form_id": "05000B42|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Familiar",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjurar familiar\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SpellTomeGiantWaspB",
+    "form_id": "05000B4C|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Giant Wasp B",
+    "string": "Tomos de Hechizo: Invocar Avispa Gigante B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_SpellTomeGiantWaspB",
+    "form_id": "05000B4C|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Familiar",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjurar familiar\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MerchantRiverwoodTraderChest",
+    "form_id": "00078C0C|Skyrim.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MerchantRiverwoodSleepingGiantChest",
+    "form_id": "00078C0E|Skyrim.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MerchantRiftenBeeandBarbChest",
+    "form_id": "000A0703|Skyrim.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MerchantRiftenRaggedFlagonChest",
+    "form_id": "000A29AE|Skyrim.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MerchantRiftenElgrimsElixirsChest",
+    "form_id": "000A31AE|Skyrim.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MerchantRiftenGrandPlazaMariseChest",
+    "form_id": "000A31B6|Skyrim.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_PlayerHouseChest",
+    "form_id": "0500089C|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "01_SpitPotClosedLoose01",
+    "form_id": "05000960|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Pot",
+    "string": "Vasija",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_THMailbox",
+    "form_id": "05000813|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Mailbox",
+    "string": "Buzón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_InvisibleDoor",
+    "form_id": "05000920|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Invisible Door",
+    "string": "Puerta invisible",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_RecluseDoorExt",
+    "form_id": "05000D64|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "Puerta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "14_BatEgg",
+    "form_id": "05000835|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Bat Egg",
+    "string": "Huevo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_DragonlingEgg",
+    "form_id": "05000844|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Dragonling Egg",
+    "string": "Huevo de dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_WaspAEgg",
+    "form_id": "05000845|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Wasp A Egg",
+    "string": "Huevo de Avispa A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_OwlFeathers",
+    "form_id": "050008B5|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Owl Feathers",
+    "string": "Plumas de búho",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_dragonlingfoot",
+    "form_id": "050008B8|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Dragonling Paw",
+    "string": "Garra de Dragoncito",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_CliffRacerEgg",
+    "form_id": "05000939|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Cliff Racer Egg",
+    "string": "Huevo de Asolador de Acantilados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_OwlFeathersBrown",
+    "form_id": "05000947|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Owl Feathers",
+    "string": "Plumas de búho",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_RatTail",
+    "form_id": "050009B9|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Rat Tail",
+    "string": "Cola de rata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "9_CursedDollEgg",
+    "form_id": "05000A69|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Cursed Doll Egg",
+    "string": "Huevo de Muñeca Maldita",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_WaspBEgg",
+    "form_id": "05000B4D|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Wasp B Egg",
+    "string": "Huevo de Avispa B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_inkwell",
+    "form_id": "05000815|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Inkwell",
+    "string": "Tintero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_WolfPeltcyro",
+    "form_id": "0500082F|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Cyrodiilian Wolf Pelt",
+    "string": "Piel de Lobo de Cyrodiil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_BottledShipLarge",
+    "form_id": "05000928|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Large Ship in Bottle",
+    "string": "Barco Grande en Botella",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_BottledShipLargeKatariah",
+    "form_id": "05000929|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Katariah in Bottle",
+    "string": "Katariah en Botella",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_BottledShipLongBoat",
+    "form_id": "0500092A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Long Boat in Bottle",
+    "string": "Barco Largo en Botella",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_BottledShipWooden",
+    "form_id": "0500092B|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wooden Ship in Bottle",
+    "string": "Barco de Madera en Botella",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_ShipToyWooden",
+    "form_id": "0500092C|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wooden Boat Toy",
+    "string": "Juguete de Barco de Madera",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_SkoomaPipe",
+    "form_id": "050009FA|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Skooma Pipe",
+    "string": "Pipa de Skooma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "9_BYOHChildrensDoll",
+    "form_id": "05000A65|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Children's Doll",
+    "string": "Muñeca Infantil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_Ammonite",
+    "form_id": "05000B1A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ammonite",
+    "string": "Ammonite",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_Archaeopteryx",
+    "form_id": "05000B1C|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Archaeopteryx",
+    "string": "Archaeopteryx",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_Bee",
+    "form_id": "05000B20|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bee",
+    "string": "Abeja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_Ginkgobiloba",
+    "form_id": "05000B22|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ginkgo biloba",
+    "string": "Ginkgo biloba",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_Pterodactylus",
+    "form_id": "05000B24|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Pterodactylus",
+    "string": "Pterodactylus",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_Trilobite",
+    "form_id": "05000B26|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Trilobite",
+    "string": "Trilobite",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_Geode",
+    "form_id": "05000B29|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Geode",
+    "string": "Geoda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_SharkTooth",
+    "form_id": "05000B2C|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Shark Tooth",
+    "string": "Diente de Tiburón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_Sequoia",
+    "form_id": "05000B2F|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Sequoia",
+    "string": "Secuoya",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "9_InvisibleCursedDoll",
+    "form_id": "05000A66|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Kitchen Knife",
+    "string": "Cuchillo de cocina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_RikaNPC",
+    "form_id": "05000806|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rika",
+    "string": "Rika",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_RikaNPC",
+    "form_id": "05000806|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Rika",
+    "string": "Rika",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "8_EncWereTigerFollower",
+    "form_id": "0500080B|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "WereTiger",
+    "string": "Hombre Tigre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "14_EncGiantBatSummon",
+    "form_id": "0500081E|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Giant Bat",
+    "string": "Murciélago Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_Audiotemplatedragonling",
+    "form_id": "05000824|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Audio Template Dragonling",
+    "string": "Audio Template Dragonling",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_cyrodillianwolf3",
+    "form_id": "05000829|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cyrodiilian Wolf",
+    "string": "Lobo de Cyrodiil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_cyrodillianwolf4",
+    "form_id": "0500082A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cyrodiilian Wolf",
+    "string": "Lobo de Cyrodiil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_cyrodillianwolfalpha",
+    "form_id": "0500082B|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cyrodiilian Wolf",
+    "string": "Lobo de Cyrodiil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_cyrodillianwolfalpha2",
+    "form_id": "0500082C|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cyrodiilian Wolf",
+    "string": "Lobo de Cyrodiil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_cyrodillianwolfalpha3",
+    "form_id": "0500082D|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cyrodiilian Wolf",
+    "string": "Lobo de Cyrodiil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_cyrodillianwolfalpha4",
+    "form_id": "0500082E|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cyrodiilian Wolf",
+    "string": "Lobo de Cyrodiil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_EncDragonlingSummon",
+    "form_id": "05000831|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dragonling",
+    "string": "Dragoncillo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_NelkarFemaleChildNPC",
+    "form_id": "05000832|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Nelkar",
+    "string": "Nelkar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_NelkarFemaleChildNPC",
+    "form_id": "05000832|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Nelkar",
+    "string": "Nelkar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3_AudioTemplatecliffracer",
+    "form_id": "0500083D|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Audio Template Clff Racer",
+    "string": "Audio Template Clff Racer",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_EncLeatherArmoredTIGERfollower",
+    "form_id": "05000841|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Leather Armored Tiger",
+    "string": "Tigre con Armadura de Cuero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "9_CursedDollSound",
+    "form_id": "0500084A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "AudioTemplate Cursed Doll",
+    "string": "AudioTemplate Cursed Doll",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "9_EncCursedDollEgg",
+    "form_id": "0500084E|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cursed Doll",
+    "string": "Muñeca Maldita",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_EncDragonlingEgg",
+    "form_id": "0500084F|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dragonling",
+    "string": "Dragoncillo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_EncWaspAEgg",
+    "form_id": "05000850|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wasp",
+    "string": "Avispa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_EncRideLeatherArmoredTiger",
+    "form_id": "05000868|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Leather Armored Tiger",
+    "string": "Tigre con Armadura de Cuero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_Owl1",
+    "form_id": "05000871|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Owl",
+    "string": "Búho",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_OwlFollowerBrown",
+    "form_id": "05000872|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Owl",
+    "string": "Búho",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_Owl2",
+    "form_id": "0500088F|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Owl",
+    "string": "Búho",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_Owl3",
+    "form_id": "05000890|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Owl",
+    "string": "Búho",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_Owl4",
+    "form_id": "05000891|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Owl",
+    "string": "Búho",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_Owl5",
+    "form_id": "05000892|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Owl",
+    "string": "Búho",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3_cliffracerSUMMON",
+    "form_id": "05000898|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cliff Racer",
+    "string": "Asolador de acantilados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3_cliffracerNPC",
+    "form_id": "05000899|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cliff Racer",
+    "string": "Asolador de acantilados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_OwlTer",
+    "form_id": "050008A0|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Owl",
+    "string": "Búho",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_OwlFollower",
+    "form_id": "050008AB|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Owl",
+    "string": "Búho",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_Wolf1FollowerRika",
+    "form_id": "050008B3|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cyrodiilian Wolf",
+    "string": "Lobo de Cyrodiil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_KhajiitRatBlack",
+    "form_id": "050008D2|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rat",
+    "string": "Rata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "13_beehivesoundtemplate",
+    "form_id": "050008D4|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Sound Bee",
+    "string": "Sonido Abeja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "14_EncBatFollower",
+    "form_id": "05000918|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bat",
+    "string": "Murciélago",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_EncGiantWaspNPC",
+    "form_id": "0500091F|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Giant Wasp",
+    "string": "Avispa Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3_EncCliffracerEgg",
+    "form_id": "0500093E|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cliff Racer",
+    "string": "Asolador de acantilados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_audiotemplateWasp",
+    "form_id": "05000962|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Audio Template Wasp",
+    "string": "Audio Template Wasp",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_EncGiantWaspSummon",
+    "form_id": "05000968|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Giant Wasp",
+    "string": "Avispa Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_TaliNPC",
+    "form_id": "05000998|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Tali",
+    "string": "Tali",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_TaliNPC",
+    "form_id": "05000998|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Tali",
+    "string": "Tali",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_VharjeTheKidNPC",
+    "form_id": "0500099A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Vharje Kid",
+    "string": "Niño de Vharje",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_VharjeTheKidNPC",
+    "form_id": "0500099A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Vharje",
+    "string": "Vharje",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_KhajiitRatWhite",
+    "form_id": "050009B2|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rat",
+    "string": "Rata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_RatBlack",
+    "form_id": "050009B5|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rat",
+    "string": "Rata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_RatWhite",
+    "form_id": "050009B6|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rat",
+    "string": "Rata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_RatBrown",
+    "form_id": "050009C2|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rat",
+    "string": "Rata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_RatBrownLight",
+    "form_id": "050009C3|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rat",
+    "string": "Rata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_RatGrey",
+    "form_id": "050009C4|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rat",
+    "string": "Rata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_RatGrey2",
+    "form_id": "050009C5|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rat",
+    "string": "Rata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_cyrodillianwolf",
+    "form_id": "050009E2|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cyrodiilian Wolf",
+    "string": "Lobo de Cyrodiil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_Wolf3FollowerRika",
+    "form_id": "050009EB|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cyrodiilian Wolf",
+    "string": "Lobo de Cyrodiil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_Wolf4FollowerRika",
+    "form_id": "050009EC|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cyrodiilian Wolf",
+    "string": "Lobo de Cyrodiil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_Wolf2Follower",
+    "form_id": "050009F7|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cyrodiilian Wolf",
+    "string": "Lobo de Cyrodiil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_ShanirNPC",
+    "form_id": "05000A11|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Shanir",
+    "string": "Shanir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_ShanirNPC",
+    "form_id": "05000A11|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Shanir",
+    "string": "Shanir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "10_RecluseKhajiitF1",
+    "form_id": "05000A40|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Recluse",
+    "string": "Recluso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "10_RecluseKhajiitM1",
+    "form_id": "05000A41|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Recluse",
+    "string": "Recluso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "10_RecluseKhajiitM2",
+    "form_id": "05000A42|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Recluse",
+    "string": "Recluso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "10_RecluseKhajiitF2",
+    "form_id": "05000A43|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Recluse",
+    "string": "Recluso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "9_CursedDollNPC",
+    "form_id": "05000A5C|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cursed Doll",
+    "string": "Muñeca Maldita",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "9_DollChildFollower",
+    "form_id": "05000A60|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Nelkar's Doll",
+    "string": "Muñeca de Nelkar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "6_cyrodillianwolf2",
+    "form_id": "05000A67|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cyrodiilian Wolf",
+    "string": "Lobo de Cyrodiil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "11_DollGreyFollower",
+    "form_id": "05000A88|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Doll",
+    "string": "Muñeca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "11_DollSepiaFollower",
+    "form_id": "05000A90|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Doll",
+    "string": "Muñeca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "11_DollRedFollower",
+    "form_id": "05000AA3|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Doll",
+    "string": "Muñeca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "11_DollYellowFollower",
+    "form_id": "05000AAB|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Doll",
+    "string": "Muñeca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "11_DollBlueFollower",
+    "form_id": "05000AAD|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Doll",
+    "string": "Muñeca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "11_DollGreenFollower",
+    "form_id": "05000AB3|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Doll",
+    "string": "Muñeca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "11_DollPurpleFollower",
+    "form_id": "05000AB5|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Doll",
+    "string": "Muñeca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_EncRideDawnguardArmoredTiger",
+    "form_id": "05000ADB|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dawnguard Armored Tiger",
+    "string": "Tigre con Armadura de la Guardia del Amanecer",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_EncRideLeatherSaddledTiger",
+    "form_id": "05000ADE|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Leather Saddled Tiger",
+    "string": "Tigre con Silla de Cuero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "7_EncRideIronArmoredTiger",
+    "form_id": "05000AE1|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Iron Armored Tiger",
+    "string": "Tigre con Armadura de Hierro\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "13_EncGiantBeeSummon",
+    "form_id": "05000AF3|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Giant Bee",
+    "string": "Abeja Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "14_bataudiotemplate",
+    "form_id": "05000AFD|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "AudioTemplate Bat",
+    "string": "AudioTemplate Bat",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_EncdragonlingNPC",
+    "form_id": "05000AFE|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dragonling",
+    "string": "Dragoncillo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "14_EncGiantBatNPC",
+    "form_id": "05000B01|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Giant Bat",
+    "string": "Murciélago Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "14_EncBatEgg",
+    "form_id": "05000B04|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bat",
+    "string": "Murciélago",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_LiaraNPC",
+    "form_id": "05000B06|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Liara",
+    "string": "Liara",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_LiaraNPC",
+    "form_id": "05000B06|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Liara",
+    "string": "Liara",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_AudioTemplateDragonling",
+    "form_id": "05000B35|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "AudioTemplateDragonling",
+    "string": "AudioTemplateDragonling",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_dragonlingDual",
+    "form_id": "05000B3A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dragonling",
+    "string": "Dragoncillo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_EncDragonlingSummonDual",
+    "form_id": "05000B3E|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dragonling",
+    "string": "Dragoncillo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_EncGiantWasp3Summon",
+    "form_id": "05000B48|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Giant Wasp",
+    "string": "Avispa Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_EncWaspBEgg",
+    "form_id": "05000B49|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wasp",
+    "string": "Avispa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_RatBrownBIS",
+    "form_id": "05000C28|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rat",
+    "string": "Rata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "5_RatGreyBIS",
+    "form_id": "05000C29|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rat",
+    "string": "Rata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_DarKhatDoNPC",
+    "form_id": "05000D62|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dar'Khat-Do",
+    "string": "Dar'Khat-Do",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "4_DarKhatDoNPC",
+    "form_id": "05000D62|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Dar'Khat-Do",
+    "string": "Dar'Khat-Do",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3_cliffracertail",
+    "form_id": "05000886|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cliffracer Tail",
+    "string": "Cola de Asolador de Acantilados  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3_cliffracerfood",
+    "form_id": "05000887|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cliffracer Stew",
+    "string": "Estofado de Asolador de Acantilados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "3_CliffRacerEggPROJ",
+    "form_id": "05000859|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "PROJ FULL",
+    "original": "Cliff Racer Egg",
+    "string": "Huevo de Asolador de Acantilados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "9_CursedDollEggPROJ",
+    "form_id": "0500085A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "PROJ FULL",
+    "original": "Cursed Doll Egg",
+    "string": "Huevo de Muñeca Maldita",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_DragonlingEggPROJ",
+    "form_id": "0500085B|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "PROJ FULL",
+    "original": "Dragonling Egg",
+    "string": "Huevo de dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_WaspAEggPROJ",
+    "form_id": "0500085C|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "PROJ FULL",
+    "original": "Wasp A Egg",
+    "string": "Huevo de Avispa A",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_WaspBEggPROJ",
+    "form_id": "05000B4E|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "PROJ FULL",
+    "original": "Wasp B Egg",
+    "string": "Huevo de Avispa B",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "14_BatEggPROJ",
+    "form_id": "05000D65|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "PROJ FULL",
+    "original": "Bat Egg",
+    "string": "Huevo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_Cellar",
+    "form_id": "05000B55|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Cellar",
+    "string": "Bodega",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_DarKhatDoHouse",
+    "form_id": "050008D5|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dar'Khat-Do House",
+    "string": "Casa Dar'Khat-Do",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "1_ReclusetInt",
+    "form_id": "05000A24|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Recluse Room",
+    "string": "Habitación del Recluso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "Skyrim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500091D|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "REFR FULL",
+    "original": "Dar'Khat-Do House",
+    "string": "Casa de Dar'Khat-Do",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2SolstheimWorld",
+    "form_id": "04000800|Dragonborn.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Solstheim",
+    "string": "Solstheim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerFavorStateTopic",
+    "form_id": "00026E0E|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need you to do something.",
+    "string": "Necesito que hagas algo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BF|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bat",
+    "string": "Murciélago",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BF|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need you to do something",
+    "string": "Necesito que hagas algo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AE|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wolf",
+    "string": "Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AE|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need you to do something",
+    "string": "Necesito que hagas algo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000873|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Owl new",
+    "string": "Búho nuevo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000873|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need you to do something",
+    "string": "Necesito que hagas algo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009A4|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Child Khajiit Male",
+    "string": "Niño Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009A4|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need you to do something",
+    "string": "Necesito que hagas algo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009DA|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Child Khajiit Female",
+    "string": "Niña Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009DA|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need you to do something",
+    "string": "Necesito que hagas algo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A8B|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Doll Grey",
+    "string": "Muñeca gris",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A8B|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need you to do something",
+    "string": "Necesito que hagas algo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A97|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Doll Sepia",
+    "string": "Muñeca sepia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A97|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need you to do something",
+    "string": "Necesito que hagas algo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000837|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Tiger",
+    "string": "Tigre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000837|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need you to do something",
+    "string": "Necesito que hagas algo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A09|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "WereTiger",
+    "string": "Hombre Tigre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A09|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need you to do something",
+    "string": "Necesito que hagas algo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerDismissTopic",
+    "form_id": "0005C80C|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's time for us to part ways.",
+    "string": "Es el momento de que nos separemos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BE|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bat",
+    "string": "Murciélago",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BE|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "See you later",
+    "string": "Hasta luego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AD|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wolf",
+    "string": "Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AD|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "See you later",
+    "string": "Hasta luego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000874|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Owl ",
+    "string": "Búho",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000874|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "See you later",
+    "string": "Hasta luego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009A3|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Child Khajiit Male",
+    "string": "Niño Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009A3|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "See you later",
+    "string": "Hasta luego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009D9|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Child Khajiit Female",
+    "string": "Niña Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009D9|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "See you later",
+    "string": "Hasta luego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A8A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Doll Grey",
+    "string": "Muñeca gris",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A8A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "See you later",
+    "string": "Hasta luego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A96|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Doll Sepia",
+    "string": "Muñeca sepia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A96|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "See you later",
+    "string": "Hasta luego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000836|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Tiger",
+    "string": "Tigre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000836|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "See you later",
+    "string": "Hasta luego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A08|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "WereTiger",
+    "string": "Hombre Tigre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A08|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "See you later",
+    "string": "Hasta luego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerTradeTopic",
+    "form_id": "00060020|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need to trade some things with you.",
+    "string": "Tenemos que intercambiar cosas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C1|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bat",
+    "string": "Murciélago",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C1|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need to trade with you",
+    "string": "Necesito comerciar contigo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B0|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wolf",
+    "string": "Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B0|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need to trade with you",
+    "string": "Necesito comerciar contigo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000875|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Owl new",
+    "string": "Búho nuevo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000875|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need to trade some things with you",
+    "string": "Tenemos que intercambiar cosas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009A6|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Child Khajiit Male",
+    "string": "Niño Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009A6|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need to trade some things with you",
+    "string": "Tenemos que intercambiar cosas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009DC|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Child Khajiit Female",
+    "string": "Niña Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009DC|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need to trade some things with you",
+    "string": "Tenemos que intercambiar cosas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A8D|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Doll Grey",
+    "string": "Muñeca gris",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A8D|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need to trade some things with you",
+    "string": "Tenemos que intercambiar cosas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A99|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Doll Sepia",
+    "string": "Muñeca sepia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A99|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need to trade some things with you",
+    "string": "Tenemos que intercambiar cosas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000839|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Tiger",
+    "string": "Tigre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000839|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need to trade with you",
+    "string": "Necesito comerciar contigo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A0B|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "WereTiger",
+    "string": "Hombre Tigre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A0B|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need to trade with you",
+    "string": "Necesito comerciar contigo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerFollowTopic",
+    "form_id": "00075083|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Follow me.",
+    "string": "Sígueme.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C0|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bat",
+    "string": "Murciélago",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C0|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Follow me",
+    "string": "Sígueme",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AF|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wolf",
+    "string": "Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AF|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Follow me",
+    "string": "Sígueme",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000876|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Owl new",
+    "string": "Búho nuevo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000876|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Come with me",
+    "string": "Ven conmigo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009A5|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Child Khajiit Male",
+    "string": "Niño Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009A5|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Come with me",
+    "string": "Ven conmigo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009DB|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Child Khajiit Female",
+    "string": "Niña Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009DB|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Come with me",
+    "string": "Ven conmigo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A8C|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Doll Grey",
+    "string": "Muñeca gris",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A8C|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Come with me",
+    "string": "Ven conmigo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A98|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Doll Sepia",
+    "string": "Muñeca sepia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A98|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Come with me",
+    "string": "Ven conmigo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000838|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Tiger",
+    "string": "Tigre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000838|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Follow me",
+    "string": "Sígueme",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A0A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "WereTiger",
+    "string": "Hombre Tigre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A0A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Follow me",
+    "string": "Sígueme",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerWaitTopic",
+    "form_id": "00075084|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Wait here.",
+    "string": "Espera aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C2|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bat",
+    "string": "Murciélago",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C2|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Wait here ",
+    "string": "Espera aquí ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B1|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wolf",
+    "string": "Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B1|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Wait here ",
+    "string": "Espera aquí ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000877|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Owl new",
+    "string": "Búho nuevo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000877|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Wait here",
+    "string": "Espera aquí",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009A7|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Child Khajiit Male",
+    "string": "Niño Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009A7|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Wait here",
+    "string": "Espera aquí",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009DD|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Child Khajiit Female",
+    "string": "Niña Khajiit",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050009DD|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Wait here",
+    "string": "Espera aquí",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A8E|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Doll Grey",
+    "string": "Muñeca gris",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A8E|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Wait here",
+    "string": "Espera aquí",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A9A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Doll Sepia",
+    "string": "Muñeca sepia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A9A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Wait here",
+    "string": "Espera aquí",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Tiger",
+    "string": "Tigre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083A|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Wait here",
+    "string": "Espera aquí",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A0C|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "WereTiger",
+    "string": "Hombre Tigre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A0C|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Wait here",
+    "string": "Espera aquí",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "OffersTrainingTopic",
+    "form_id": "000E3A35|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like training in Alchemy.",
+    "string": "Quiero que me entrenes en alquimia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E3A3A|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can teach you, but I won't be held responsible for what you do with the knowledge.",
+    "string": "Puedo enseñarte, pero no seré responsable de lo que hagas con ese conocimiento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E3A3A|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'd like training in Destruction Magic.",
+    "string": "Me gustaría entrenarme con la magia de destrucción.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000B17|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can teach you, but I won't be held responsible for what you do with the knowledge.",
+    "string": "Puedo enseñarte, pero no seré responsable de lo que hagas con ese conocimiento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000B17|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'd like training in Destruction Magic.",
+    "string": "Me gustaría entrenarme con la magia de destrucción.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000ADA42|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All right, but if you get arrested don't blame it on me.",
+    "string": "De acuerdo, pero si te detienen, no me eches la culpa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000ADA42|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need some training in Lockpicking.",
+    "string": "Necesito aprender a abrir cerraduras.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000B18|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All right, but if you get arrested don't blame it on me.",
+    "string": "De acuerdo, pero si te detienen, no me eches la culpa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000B18|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I need some training in Lockpicking.",
+    "string": "Necesito aprender a abrir cerraduras.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000ADAED|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can show you a few things, but anyone asks, and my name never comes up. Understand?",
+    "string": "Puedo enseñarte unas cuantas cosas, pero si alguien te pregunta, nunca digas mi nombre. ¿Entendido?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000ADAED|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Can you train me to Sneak?",
+    "string": "¿Puedes entrenarme en la discreción?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000B19|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can show you a few things, but anyone asks, and my name never comes up. Understand?",
+    "string": "Puedo enseñarte unas cuantas cosas, pero si alguien te pregunta, nunca digas mi nombre. ¿Entendido?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000B19|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Can you train me to Sneak?",
+    "string": "¿Puedes entrenarme en la discreción?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_UkcSouls",
+    "form_id": "05000A07|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Ukc Mudcrab Souls",
+    "string": "Almas de Cangrejo de Barro Ukc",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "00_UkcSouls",
+    "form_id": "05000A07|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You can have two creatures.",
+    "string": "Puedes tener dos criaturas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_DarKhatDoHouseLocation",
+    "form_id": "0500086E|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Dar-Khat-Do House",
+    "string": "Casa de Dar'Khat-Do",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalMessageTiger",
+    "form_id": "05000816|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The tiger is now following.",
+    "string": "El tigre ahora te sigue.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalMessageWolf",
+    "form_id": "0500084C|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The wolf is now following.",
+    "string": "El lobo ahora te sigue.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalMessageBat",
+    "form_id": "050008C5|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The bat is now following.",
+    "string": "El murciélago ahora te sigue.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalMessageBird",
+    "form_id": "050009A1|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The owl is now following.",
+    "string": "El búho ahora te sigue.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalMessageChild",
+    "form_id": "050009A2|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The child is now following.",
+    "string": "El niño ahora te sigue.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_NoxyGame_KeyMenu",
+    "form_id": "050009A8|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This menu allows to re-configure the default key settings.\r\nClick the option to change and then hold the key to be mapped to for 2-8 seconds.",
+    "string": "Este menú permite volver a configurar la configuración de la tecla predeterminada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_NoxyGame_KeyMenu",
+    "form_id": "050009A8|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Key Config Menu",
+    "string": "Menú de configuración de tecla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_NoxyGame_KeyMenu",
+    "form_id": "050009A8|KhajiitFamilyHouse.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Up",
+    "string": "Arriba",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_NoxyGame_KeyMenu",
+    "form_id": "050009A8|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Down",
+    "string": "Abajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_NoxyGame_KeyMenu",
+    "form_id": "050009A8|KhajiitFamilyHouse.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Left",
+    "string": "Izquierda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_NoxyGame_KeyMenu",
+    "form_id": "050009A8|KhajiitFamilyHouse.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Right",
+    "string": "Derecha",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_NoxyGame_KeyMenu",
+    "form_id": "050009A8|KhajiitFamilyHouse.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Forward",
+    "string": "Hacia delante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_NoxyGame_KeyMenu",
+    "form_id": "050009A8|KhajiitFamilyHouse.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Backward",
+    "string": "Volver",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_NoxyGame_KeyMenu",
+    "form_id": "050009A8|KhajiitFamilyHouse.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Exit Menu",
+    "string": "Salir del menú",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_NoxyGame_KeyInfo",
+    "form_id": "05000A38|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Hold the key for at least 2-10 seconds",
+    "string": "Mantenga la tecla durante al menos 2-10 segundos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "0_NoxyGame_KeyInfo",
+    "form_id": "05000A38|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Hold key",
+    "string": "Mantener la tecla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalMessageDoll",
+    "form_id": "05000A8F|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The doll is now following.",
+    "string": "La muñeca ahora te sigue.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalDismissMessage",
+    "form_id": "000FF23B|Skyrim.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your companion heads home.",
+    "string": "Tu compañero vuelve a casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AnimalMessageWereTiger",
+    "form_id": "0500080D|KhajiitFamilyHouse.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The weretiger is now following.",
+    "string": "El weretiger ahora te sigue.",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "editor_id": "ccBGSSSE067_AyleidLichBossAmbush",
+    "form_id": "02000B73|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Norion the Undying",
+    "string": "Norion el Inmortal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_AyleidLichBossAmbush",
+    "form_id": "02000B73|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Norion",
+    "string": "Norion",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightMelee2H",
+    "form_id": "02029D17|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightMelee2H",
+    "form_id": "02029D17|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightAmbushWarlock",
+    "form_id": "02029D1C|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightAmbushWarlock",
+    "form_id": "02029D1C|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightAmbushMelee1H",
+    "form_id": "02029D1D|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightAmbushMelee1H",
+    "form_id": "02029D1D|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightAmbushMissile",
+    "form_id": "02029D1E|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightAmbushMissile",
+    "form_id": "02029D1E|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightMissileHoldPosition256",
+    "form_id": "02029D20|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightMissileHoldPosition256",
+    "form_id": "02029D20|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightMelee1H",
+    "form_id": "02029D21|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightMelee1H",
+    "form_id": "02029D21|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightAmbushMelee2H",
+    "form_id": "02057A40|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightAmbushMelee2H",
+    "form_id": "02057A40|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlWightMeleeAllMale",
+    "form_id": "020B8A16|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlWightMeleeAllMale",
+    "form_id": "020B8A16|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_ConjureEncAyleidLich",
+    "form_id": "02147D97|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ayleid Lich",
+    "string": "Ayleid Lich",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlWightMissileAllMale",
+    "form_id": "02175AD7|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlWightMissileAllMale",
+    "form_id": "02175AD7|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightMelee1HLord",
+    "form_id": "021B2CC6|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wight Lord",
+    "string": "Señor de las Criaturas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightMelee1HLord",
+    "form_id": "021B2CC6|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightAmbushWarlockLord",
+    "form_id": "021B2CC7|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wight Lord",
+    "string": "Señor de las Criaturas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightAmbushWarlockLord",
+    "form_id": "021B2CC7|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightMelee2HLord",
+    "form_id": "021B2CC8|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wight Lord",
+    "string": "Señor de las Criaturas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightMelee2HLord",
+    "form_id": "021B2CC8|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightAmbushMelee2HLord",
+    "form_id": "021B2CC9|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wight Lord",
+    "string": "Señor de las Criaturas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightAmbushMelee2HLord",
+    "form_id": "021B2CC9|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightAmbushMissileStay",
+    "form_id": "021C215E|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_LvlAyleidWightAmbushMissileStay",
+    "form_id": "021C215E|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Wight",
+    "string": "Criatura",
+    "status": "TranslationComplete"
+  }
+]

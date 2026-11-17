@@ -1,0 +1,308 @@
+[
+  {
+    "editor_id": "MGR01Stage10AcceptedTopic",
+    "form_id": "000266E7|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What did you say you were missing?",
+    "string": "¿Qué dijiste que te hacía falta, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00026C2E|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A book of mine. I was at least halfway through, and wanted to finish it, but apparently I put it down somewhere.",
+    "string": "Un libro de este Khajiit. Iba al menos por la mitad, y deseaba terminarlo, pero al parecer, lo dejó en algún lugar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00028A0C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Here's the soul gem you asked for.",
+    "string": "Aquí está la gema de alma que pediste.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0005AE8D|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We have, of course, severed all ties with the mage in question, but the Jarl isn't appeased.",
+    "string": "Este Khajiit, por supuesto, ha cortado todo lazo con el mago en cuestión, pero el jarl no está satisfecho.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0005AE8D|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "So, the mage needs to be \"taken care of\", if you understand me.",
+    "string": "Así que el mago debe ser \"atendido\" - si entiendes a este Khajiit.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MGRejoinInitialBranchTopic",
+    "form_id": "0005AE88|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is there anything I should be aware of?",
+    "string": "¿Hay algo de lo que <Alias=Player> debería estar al tanto, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0005AE8B|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I'm afraid so. There's a problem with one of the Jarls here in Skyrim.",
+    "string": "Este teme que sí. Hay un problema con uno de los jarls aquí en Skyrim.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0005AE8B|Skyrim.esm",
+    "index": 3,
+    "type": "INFO RNAM",
+    "original": "You look worried about something.",
+    "string": "Pareces preocupado por algo, amigo. Confía en Khajiit, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MGRejoinFinalBranchTopic",
+    "form_id": "0005CA07|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Jarl has been appeased.",
+    "string": "El jarl ha sido apaciguado. No fue tarea sencilla, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformCollegeAFinalBranchTopic",
+    "form_id": "0005D2DC|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Here are the notes you wanted.",
+    "string": "Aquí están las notas que pediste, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0005D2E6|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Alright, this should be enough to figure out what she's up to. Then I can make sure it doesn't work.",
+    "string": "Muy bien, esto debería ser suficiente para averiguar qué trama ella. Entonces este Khajiit se asegurará de que no funcione.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformFrostRiverInitialBranchTopic",
+    "form_id": "000681C7|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How's business?",
+    "string": "¿Cómo marchan los negocios, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000681C9|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Need me to deliver any more mead?",
+    "string": "¿Desea que <Alias=Player> entregue más hidromiel, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RunilTroubledBranch02Topic",
+    "form_id": "0009373F|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Go on.",
+    "string": "Los oídos de Khajiit están atentos...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0009374B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Although I have not practiced in a long time I was once a wizard. Even when I was young my magic was undeniably powerful.",
+    "string": "Aunque este no ha practicado en mucho tiempo, en otro tiempo fue mago. Incluso cuando era joven, su magia era innegablemente poderosa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UruinilTroubledTopic",
+    "form_id": "00093740|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Some of your friends feel you're troubled.",
+    "string": "Khajiit cree que tú estás... inquieto, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00093748|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Your journal suggests you're troubled about your past.",
+    "string": "Tu diario sugiere que estás inquieto por tu pasado, ¿no es así?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DRRDrahffBranchTopic02",
+    "form_id": "00095C2D|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've killed dozens like you. (Intimidate)",
+    "string": "Khajiit ha matado a docenas como tú. Uno más sería cosa sencilla... (Intimidar)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E7A98|Skyrim.esm",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "So now we're rich and now I'm chief.",
+    "string": "Así que ahora somos ricos y ahora este es jefe.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformWinterholdCollegeBFinalBranchTopic",
+    "form_id": "000E3379|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I found all of the missing apprentices.",
+    "string": "Khajiit ha encontrado a los aprendices desaparecidos. Impresionante, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformWinterholdCollegeBStage10BranchTopic",
+    "form_id": "000E3510|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Any word from the missing apprentices?",
+    "string": "¿Tienes alguna noticia de los aprendices desaparecidos, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E3533|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Any word from the rest of the missing Apprentices?",
+    "string": "¿Tienes alguna información sobre los otros aprendices desaparecidos, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformWinterholdCollegeInitialBranchTopic",
+    "form_id": "000E3521|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You said something about missing apprentices?",
+    "string": "Mencionaste aprendices desaparecidos, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E3541|Skyrim.esm",
+    "index": 4,
+    "type": "INFO RNAM",
+    "original": "You posted a notice about some missing apprentices?",
+    "string": "Publicaste un aviso sobre algunos aprendices desaparecidos, ¿sí? Khajiit desea ayudar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NarzulburFreeFormWifeQuestUglarzQuestion1",
+    "form_id": "0B015DDA|cutting room floor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you from Narzulbur?",
+    "string": "¿Eres de Narzulbur, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NarzulburFreeFormWifeQuestUglarzQuestion2",
+    "form_id": "0B015DDC|cutting room floor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you know Mauhulakh?",
+    "string": "¿Conoces a Mauhulakh, tal vez?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NarzulburFreeFormWifeQuestUglarzResponse1",
+    "form_id": "0B015DDE|cutting room floor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He became chief of Narzulbur.",
+    "string": "Aquel llegó a ser jefe de Narzulbur, en verdad. Confía en Khajiit, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NarzulburFreeFormWifeQuestUglarzResponse2",
+    "form_id": "0B015DE0|cutting room floor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He managed to get the Ebony mine working again.",
+    "string": "Lograron poner en marcha nuevamente la mina de ébano. Las Lunas velan por ellos, sin duda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NarzulburFreeFormWifeQuestChiefBranchTopic",
+    "form_id": "0B015DE5|cutting room floor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How are things in Narzulbur?",
+    "string": "Khajiit siente curiosidad... ¿Cómo van las cosas en Narzulbur?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NarzulburFreeFormWifeQuestWifeQuestion1",
+    "form_id": "0B015DE7|cutting room floor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You've never married?",
+    "string": "Nunca te has casado, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NarzulburFreeFormWifeQuestChiefMineQuestion",
+    "form_id": "0B015DE9|cutting room floor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Has the mine always been this profitable?",
+    "string": "Khajiit se pregunta... ¿Siempre ha sido tan rentable la mina?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NarzulburFreeFormWifeQuestWifeQuestion2",
+    "form_id": "0B015DEB|cutting room floor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have you thought about anyone else?",
+    "string": "¿Has pensado en alguien más, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NarzulburFreeFormWifeQuestWifeResponse",
+    "form_id": "0B015DED|cutting room floor.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "If I find Uglarz I'll talk to her.",
+    "string": "Si <Alias=Player> encuentra a Uglarz, tendrán una conversación profunda y significativa, en verdad, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CRFAlreadyHaveThisPower",
+    "form_id": "0B0AB871|cutting room floor.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The stone is cold to the touch. You already have this power.",
+    "string": "Quizá la piedra esté fría al tacto porque ya ha otorgado todo su poder, ¿no?",
+    "status": "TranslationComplete"
+  }
+]

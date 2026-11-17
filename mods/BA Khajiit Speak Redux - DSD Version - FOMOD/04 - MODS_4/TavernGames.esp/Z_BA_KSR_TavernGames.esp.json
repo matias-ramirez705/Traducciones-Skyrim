@@ -1,0 +1,434 @@
+[
+  {
+    "editor_id": "_SAG_Activ_BuyGameCatalogTopicTopic",
+    "form_id": "020012C6|TavernGames.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want to know more about tavern games, do you have any rulebook to sell? (2 Septims)",
+    "string": "Este Khajiit desea conocer mejor los juegos de taberna, amigo. ¿Tienes un libro de reglas, quizá? (2 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_LetsPlayBlackJackTopic",
+    "form_id": "02002312|TavernGames.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's play a game of Dice Jack.",
+    "string": "Los Dados del Veintiuno suenan divertidos para los oídos de Khajiit.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_Activ_LotteryQuestBuyTicketTopic",
+    "form_id": "020043BB|TavernGames.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you organize lotteries? I wish to buy a ticket. (50 Septims)",
+    "string": "Este Khajiit siente curiosidad... ¿Organizas loterías, quizá? Desea comprar un boleto. (50 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_Activ_LotteryQuestClaimPrizeTopic",
+    "form_id": "020043BE|TavernGames.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a winning ticket! Can I have my prize?",
+    "string": "¡Este Khajiit tiene el boleto ganador! Ahora, hablemos de ese premio...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_DiceMoreEqualLessGameQuestBoardGameTopic",
+    "form_id": "02005F96|TavernGames.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you want to play the Daedra's Challenge? (10 Septims)",
+    "string": "¿Desea jugar al Desafío Daédrico, amigo? (10 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_TavernRoom_FreeRental_Voucher_UseTopic",
+    "form_id": "02009014|TavernGames.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I would like to use my voucher for three free nights.",
+    "string": "<Alias=Player> desea canjear este vale por tres noches gratis, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_LetsPlayCards_QuestLetsPlayCardsTopicDUPLICATE001",
+    "form_id": "0200C551|TavernGames.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Shall we play a game of Battle of Heroes?",
+    "string": "Este Khajiit desea jugar a Batalla de Héroes. ¿Qué tal suena eso, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_DiceMoreEqualLessGameQuestWannaPlaySomethingProposalTopic",
+    "form_id": "0200C619|TavernGames.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to play something.",
+    "string": "<Alias=Player> tiene interés en jugar a algo, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_DiceMoreEqualLessGameQuestLetsplAydiceTopic",
+    "form_id": "0200C61C|TavernGames.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's play a game of Prophet's Dice.",
+    "string": "Una partida de Dados del Profeta podría traer buena fortuna, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_DiceActiv_PlayerLost",
+    "form_id": "0200C616|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your dice: %.0f.\r\n<Alias=Opponent>'s dice: %.0f.\r\nYou lost %.0f Septims to <Alias=Opponent>.",
+    "string": "<Alias=Player> obtiene: %.0f.\n<Alias=Opponent> obtiene: %.0f.\n¡<Alias=Player> ha perdido %.0f septims frente a <Alias=Opponent>!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_DiceActiv_PlayerWon",
+    "form_id": "0200C615|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Congratulations!\r\nYou won %.0f Septims from <Alias=Opponent>.",
+    "string": "¡Felicidades, amigo!\n¡<Alias=Player> ha ganado %.0f septims de <Alias=Opponent>!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_PlaceYourBet_LocalizationMessage",
+    "form_id": "02003E12|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Place your bet!\r\nMaximum bet: %.0f Septims.",
+    "string": "¡Hagan sus apuestas ahora!\nApuesta máxima: %.0f septims.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_PC_Bets",
+    "form_id": "0200C5A6|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Player>'s bet: %.0f Septims.\r\n<Alias=Opponent>'s bet: %.0f Septims.\r\n\r\nPrize to win: %.0f Septims.",
+    "string": "Apuesta de <Alias=Player>: %.0f septims.\nApuesta de <Alias=Opponent>: %.0f septims.\n\nPremio en juego: %.0f septims.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_activ_bjdice_OpponentTurn",
+    "form_id": "02002314|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Tails! Your opponent throws the dice first.",
+    "string": "¡Cruz! <Alias=Opponent> lanzará los dados primero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_OpponentGotAnswerRightMessage",
+    "form_id": "0200854D|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Opponent> got the right answer!",
+    "string": "¡<Alias=Opponent> ha elegido la respuesta correcta!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_activ_bjdice_PlayerTurn",
+    "form_id": "02002315|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Head! You throw the dice first.",
+    "string": "¡Cara! ¡<Alias=Player> lanzará los dados primero!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_PC_EnemyDicesResult",
+    "form_id": "0200C5A7|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Opponent>'s team of adventurers scored %.0f Attack Points, but <Alias=Opponent> decided to boost it by %.0f.\r\nBy doing so, <Alias=Opponent> lost %.0f Septims, which you won.",
+    "string": "El equipo \"<Alias=Opponent>\" ha conseguido %.0f puntos de ataque, pero <Alias=Opponent> decidió aumentarlos en %.0f.\nAl hacerlo, ¡<Alias=Opponent> ha perdido %.0f septims frente a <Alias=Player>!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_Activ_BJdice_PlayerPerfectDice",
+    "form_id": "0200230F|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "With a perfect score of %.0f, you won twice the initial bet.\r\nYou won %.0f Septims.",
+    "string": "¡Con una puntuación perfecta de %.0f, <Alias=Player> ha ganado el doble (2x) de la apuesta inicial!\n(%.0f septims ganados)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_Activ_BJDice_ExAequo",
+    "form_id": "02002310|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Neither did you or <Alias=Opponent> win the prize pool of %.0f Septims.",
+    "string": "Ni <Alias=Player> ni <Alias=Opponent> han ganado el bote de %.0f septims.\nQué tristeza...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_PC_PlayAgainMessage",
+    "form_id": "0200C5C4|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Play with <Alias=Opponent> again?\r\nYou have %.0f remaining Septims.\r\n<Alias=Opponent>'s remaining Septims: %.0f.",
+    "string": "¿Desea jugar otra vez con <Alias=Opponent>, quizá?\nSeptims disponibles para <Alias=Player>: %.0f.\nSeptims disponibles para <Alias=Opponent>: %.0f.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_PC_ThrowDicesMessage",
+    "form_id": "0200C5A4|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Player>, will you throw the dice to boost your hand's power?\r\nDoing so will cost you %.0f Septims, which will go to <Alias=Opponent>.",
+    "string": "¿Debería Khajiit lanzar los dados para aumentar el poder de esta mano, quizá?\nHacerlo costará %.0f septims, que se entregarán a <Alias=Opponent>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_PC_ThrowDicesMessage",
+    "form_id": "0200C5A4|TavernGames.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Don't throw the dice",
+    "string": "No lanzar los dados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_Activ_BJdice_OpponentPerfectDice",
+    "form_id": "0200230E|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "With a perfect score of %.0f, <Alias=Opponent> won twice the initial bet.\r\nYou lost %.0f Septims.",
+    "string": "¡Con una puntuación perfecta de %.0f, <Alias=Opponent> ha ganado el doble (2x) de la apuesta inicial!\n(%.0f septims perdidos)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_Activ_BJdice_MaxScoreMessage",
+    "form_id": "02002307|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The dice scored %.0f. The maximum score you cannot exceed is thrice this score.\r\nMaximum score: %.0f.",
+    "string": "Los dados han obtenido %.0f. \nLa puntuación máxima permitida es el triple de esta cantidad.\nPuntuación máxima: %.0f.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_Activ_BoardPlayAgain",
+    "form_id": "02009ADD|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Play again?",
+    "string": "¿Desea jugar otra partida, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_Activ_BoardGame_PlayerWon",
+    "form_id": "02009ADC|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You won! Here is a gift for you...",
+    "string": "<Alias=Player> ha ganado y recibe un regalo extraordinario...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_PC_EnemyResult",
+    "form_id": "0200C5A8|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Opponent>'s team of adventurers scored %.0f Attack Points.",
+    "string": "El equipo \"<Alias=Opponent>\" ha conseguido %.0f puntos de ataque.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_CG_OpponentNoMoreGold_Message",
+    "form_id": "0200C5E4|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Opponent> has no more gold.",
+    "string": "¡<Alias=Opponent> ya no tiene más septims para apostar!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_PC_PlayerWon",
+    "form_id": "0200C5AA|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your team's score: %.0f.\r\n<Alias=Opponent>'s team's score: %.0f.\r\n\r\nCongratulations!\r\nYou won %.0f Septims.",
+    "string": "Puntuación del equipo \"<Alias=Player>\": %.0f.\nPuntuación del equipo \"<Alias=Opponent>\": %.0f.\n\n¡Felicidades, ganador!\n(%.0f septims ganados)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_PC_ShowStats",
+    "form_id": "0200C5BD|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Player>'s bet: %.0f Septims.\r\n<Alias=Opponent>'s bet: %.0f Septims.\r\nPrize: %.0f Septims\r\n<Alias=Player>'s current score: %.0f Attack Points.\r\n<Alias=Opponent>'s current score: %.0f Attack Points.\r\n",
+    "string": "Apuesta de <Alias=Player>: %.0f septims.\nApuesta de <Alias=Opponent>: %.0f septims.\nPremio: %.0f septims\nPuntuación actual de <Alias=Player>: %.0f puntos de ataque.\nPuntuación actual de <Alias=Opponent>: %.0f puntos de ataque.\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_Activ_BJdice_ThrowAgain",
+    "form_id": "02002308|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Do you want to throw the dice again to increase your score?\r\nYour current score: %.0f (%.0f dice throwing).\r\n<Alias=Opponent>'s score: %.0f (%.0f dice throwing)\r\nMaximum score: %.0f.",
+    "string": "¿Debería Khajiit volver a lanzar los dados para aumentar la puntuación total, quizá?\nPuntuación actual: %.0f (%.0f lanzamientos de dados).\nPuntuación de <Alias=Opponent>: %.0f (%.0f lanzamientos de dados)\nPuntuación máxima: %.0f.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_Activ_BJdice_ThrowAgain",
+    "form_id": "02002308|TavernGames.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Don't throw",
+    "string": "No lanzar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_Activ_BJdice_OpponentWOn",
+    "form_id": "02002309|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "With a score of %.0f and without exceeding the maximum score of %.0f, <Alias=Opponent> won the game.\r\nYour score: %.0f.\r\nYou lost %.0f Septims.",
+    "string": "¡Con una puntuación de %.0f y sin superar el máximo de %.0f, <Alias=Opponent> ha ganado la partida!\nPuntuación de <Alias=Player>: %.0f.\n(%.0f septims perdidos)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_Activ_BJdice_PlayerWOn",
+    "form_id": "0200230A|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "With a score of %.0f, and without exceeding the maximum score of %.0f, you won the game.\r\n<ALias=Opponent>'s score: %.0f.\r\nYou won %.0f Septims.",
+    "string": "¡Con una puntuación de %.0f y sin superar el máximo de %.0f, <Alias=Player> ha ganado la partida!\nPuntuación de <Alias=Opponent>: %.0f.\n(%.0f septims ganados)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_Activ_BJdice_OpponentDiceFail",
+    "form_id": "0200230B|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "With a score of %.0f, which exceeds the maximum score of %.0f, <Alias=Opponent> lost the game.\r\nYou won twice the initial bet, which is %.0f Septims.",
+    "string": "¡Con una puntuación de %.0f, que supera el máximo de %.0f, <Alias=Opponent> ha perdido la partida!\n¡<Alias=Player> gana el doble (2x) de la apuesta inicial!\n(%.0f septims ganados)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_Activ_BJdice_PlayerDiceFail",
+    "form_id": "0200230C|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Exceeding the maximum score of %.0f with a score of %.0f, you lost the game against <Alias=Opponent>.\r\nYou lost twice the initial bet, which is %.0f Septims.",
+    "string": "¡Al superar el máximo de %.0f con una puntuación de %.0f, <Alias=Player> ha perdido la partida contra <Alias=Opponent>!\n¡Se pierde el doble (2x) de la apuesta inicial!\n(%.0f septims perdidos)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_Activ_ThatPerson_NotEnoughGold",
+    "form_id": "0200B0AB|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "That person has not enough gold.",
+    "string": "No tienen suficientes septims. Qué desgracia, desde luego.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_Activ_BJdice_PlayAgain",
+    "form_id": "0200230D|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Would you like to play again?\r\nYour gold: %.0f.\r\n<Alias=Opponent>'s gold: %.0f.",
+    "string": "¿Quizá Khajiit debería jugar otra vez, hmm?\nSeptims disponibles para <Alias=Player>: %.0f.\nSeptims disponibles para <Alias=Opponent>: %.0f.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_activ_boardGameAskQuestionAboutMagic_MessageBox",
+    "form_id": "02005A2F|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A wrong answer to this question will make you go back to the beginning.\r\nWhat school does the spell <Alias=NameHolder> belong to?",
+    "string": "Responder incorrectamente a esta pregunta hará que Khajiit vuelva al principio, así es.\n¿A qué escuela pertenece el hechizo <Alias=NameHolder>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_PC_EnemyWon",
+    "form_id": "0200C5A9|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your team's score: %.0f.\r\n<Alias=Opponent>'s team's score: %.0f.\r\n\r\nYou lost the game. <Alias=Opponent> won %.0f Septims.",
+    "string": "Puntuación del equipo \"<Alias=Player>\": %.0f.\nPuntuación del equipo \"<Alias=Opponent>\": %.0f.\n\n¡<Alias=Opponent> ha ganado la partida!\n(%.0f septims perdidos)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_PC_CaughtCheating",
+    "form_id": "0200C5C2|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Opponent> caught you cheating!\r\nFor your lack of fair-play, <Alias=Opponent> took a part of the prize, which is %.0f Septims.",
+    "string": "¡<Alias=Opponent> ha descubierto a <Alias=Player> haciendo trampas!\nComo castigo por no jugar limpiamente, <Alias=Opponent> se ha quedado con parte del premio.\n(%.0f septims retirados del bote)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_PC_NoOneWon",
+    "form_id": "0200C5AB|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your team's score: %.0f.\r\n<Alias=Opponent>'s team's score: %.0f.\r\n\r\nUnfortunately, neither you or <Alias=Opponent> won the game.",
+    "string": "Puntuación del equipo \"<Alias=Player>\": %.0f.\nPuntuación del equipo \"<Alias=Opponent>\": %.0f.\n\nPor desgracia, ni <Alias=Player> ni <Alias=Opponent> han ganado la partida...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_PC_AllCardsOptimized",
+    "form_id": "0200C5C3|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "All of your cards are already optimized!",
+    "string": "¡Todas las cartas ya están optimizadas!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_Activ_WrongAnswerMagicCorrection",
+    "form_id": "02005F93|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Wrong answer! The spell <Alias=NameHolder> is from the magic school of <Alias=MagicSchool>.",
+    "string": "¡Respuesta incorrecta! ¡El hechizo <Alias=NameHolder> pertenece a la escuela de magia <Alias=MagicSchool>!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_PC_DicesResult",
+    "form_id": "0200C5A5|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You boosted your team's power by %.0f Attack Points. Your team's power is now %.0f.",
+    "string": "¡El equipo \"<Alias=Player>\" ha aumentado su poder en %.0f puntos de ataque!\nPoder total: %.0f.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_CG_PlayerScoreHelpmMessage",
+    "form_id": "0200C5A3|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Player>'s team of adventurers scored <font color='#00FF00'>%.0f</font>.",
+    "string": "El equipo \"<Alias=Player>\" ha conseguido <font color='#00FF00'>%.0f</font>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_DiceActiv_PlayAgain",
+    "form_id": "0200C617|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Play again?\r\nYour Septims: %.0f\r\n<Alias=Opponent>'s Septims: %.0f",
+    "string": "¿Otra partida, quizá?\nSeptims disponibles para <Alias=Player>: %.0f\nSeptims disponibles para <Alias=Opponent>: %.0f",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SAG_Dice_Activ_Question",
+    "form_id": "0200C614|TavernGames.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your score: %.0f.\r\nDo you think <Alias=Opponent> will score less, more or equal?\r\nChoosing \"Equal\" will triple the bet.",
+    "string": "Puntuación de <Alias=Player>: %.0f.\n¿<Alias=Opponent> obtendrá MENOS, MÁS o LO MISMO que esta cantidad, hmm?\nElegir \"LO MISMO\" triplicará (3x) la apuesta...",
+    "status": "TranslationComplete"
+  }
+]

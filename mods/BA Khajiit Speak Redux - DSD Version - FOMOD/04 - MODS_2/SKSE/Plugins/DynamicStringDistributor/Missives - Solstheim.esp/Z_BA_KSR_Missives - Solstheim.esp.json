@@ -1,0 +1,326 @@
+[
+  {
+    "editor_id": "_M_QuestSolstheimCourierLetterHighAcceptTopic",
+    "form_id": "06000801|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimCourierLetterHighDeliverTopic",
+    "form_id": "06000802|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=Player> tiene una carta para ti de <Alias=QuestGiver> de <Alias=City>. Está mojada por la lluvia. Este Khajiit ciertamente no la dejó caer accidentalmente al río...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimCourierLetterLowAcceptTopic",
+    "form_id": "06000803|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimCourierLetterLowDeliverTopic",
+    "form_id": "06000804|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=Player> tiene una carta para ti de <Alias=QuestGiver> de <Alias=City>. Está mojada por la lluvia. Este Khajiit ciertamente no la dejó caer accidentalmente al río...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimCourierLetterMedAcceptTopic",
+    "form_id": "06000805|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimCourierLetterMedDeliveryTopic",
+    "form_id": "06000806|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=Player> tiene una carta para ti de <Alias=QuestGiver> de <Alias=City>. Está mojada por la lluvia. Este Khajiit ciertamente no la dejó caer accidentalmente al río...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimCourierWeaponHighAcceptTopic",
+    "form_id": "06000807|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimCourierWeaponHighDeliveryTopic",
+    "form_id": "06000808|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma que <Alias=QuestGiver> de <Alias=City> quiso enviarte. Recuerda usar el lado puntiagudo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimCourierWeaponLowAcceptTopic",
+    "form_id": "06000809|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimCourierWeaponLowDeliveryTopic",
+    "form_id": "0600080A|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma que <Alias=QuestGiver> de <Alias=City> quiso enviarte. Recuerda usar el lado puntiagudo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimCourierWeaponMedAcceptTopic",
+    "form_id": "0600080B|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimCourierWeaponMedDeliveryTopic",
+    "form_id": "0600080C|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma que <Alias=QuestGiver> de <Alias=City> quiso enviarte. Recuerda usar el lado puntiagudo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimGatherIngrHighRewardTopic",
+    "form_id": "0600080D|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimGatherIngrLowRewardTopic",
+    "form_id": "0600080E|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimGatherIngrMedRewardTopic",
+    "form_id": "0600080F|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimGatherInnRewardTopic",
+    "form_id": "06000810|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you needed.",
+    "string": "El <Alias=Item> que ordenaste está aquí, amigo. Siempre es alegre recibir regalos, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimGatherOreHighRewardTopic",
+    "form_id": "06000811|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimGatherOreLowRewardTopic",
+    "form_id": "06000812|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimGatherOreMedRewardTopic",
+    "form_id": "06000813|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimGatherOreVeryHighRewardTopic",
+    "form_id": "06000814|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Este Khajiit tiene algunos <Alias=Item>s para ti. Estaban así cuando <Alias.Pronoun=Player> los recogió. Confía en este, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimGatherSoulGemHighRewardTopic",
+    "form_id": "06000815|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimGatherSoulGemLowRewardTopic",
+    "form_id": "06000816|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Este Khajiit tiene algunos <Alias=Item>s para ti. Estaban así cuando <Alias.Pronoun=Player> los recogió. Confía en este, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimGatherSoulGemMedRewardTopic",
+    "form_id": "06000817|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Este Khajiit tiene algunos <Alias=Item>s para ti. Estaban así cuando <Alias.Pronoun=Player> los recogió. Confía en este, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimKillAnimalRewardTopic",
+    "form_id": "06000818|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias=Dungeon> has been cleared, I'm here for the bounty.",
+    "string": "<Alias=Dungeon> ha sido limpiado, amigo. Este Khajiit cree que con algo de pintura y un poco de arte, podría ser una mazmorra un poco menos horrible...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimKillBanditRewardTopic",
+    "form_id": "06000819|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The leader of <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El líder de <Alias=Dungeon> está muerto, sí. ¿Hay compensación adicional por cada esbirro que <Alias=Player> también haya eliminado, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimKillDragonRewardTopic",
+    "form_id": "0600081A|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The dragon at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El dragón en <Alias=Dungeon> ha tenido su “revisión de cuello a cabeza”... ¡y este Khajiit le ha dado un certificado limpio de muerte, en efecto! ¿Gracioso, no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimKillRieklingsRewardTopic",
+    "form_id": "0600081B|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The rieklings at <Alias=Dungeon> are dead, I'm here for the bounty.",
+    "string": "Los Rieklings en <Alias=Dungeon> están guardados de forma segura en el Vacío. Aquí está tu comprobante de recogida... (Entregar recibo de recompensa)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimRetrieveHideoutRewardTopic",
+    "form_id": "0600081C|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Un <Alias.BaseName=Item> para ti, amigo! Recién salido del... umm... asunto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimRetrieveRuinsRewardTopic",
+    "form_id": "0600081D|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimRetrieveWildernessRewardTopic",
+    "form_id": "0600081E|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Un <Alias.BaseName=Item> para ti, amigo! Recién salido del... umm... asunto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimCourierPotionHighAcceptTopic",
+    "form_id": "060008B0|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimCourierPotionHighDeliveryTopic",
+    "form_id": "060008B2|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Esta poción fue enviada desde <Alias=QuestGiver> en <Alias=City> para ti. Por cierto, sabe terrible... no es que este Khajiit haya probado un poco... dos veces...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimCourierPotionLowAcceptTopic",
+    "form_id": "060008B3|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimCourierPotionLowDeliveryTopic",
+    "form_id": "060008B5|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Esta poción fue enviada desde <Alias=QuestGiver> en <Alias=City> para ti. Por cierto, sabe terrible... no es que este Khajiit haya probado un poco... dos veces...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimCourierPotionMedAcceptTopic",
+    "form_id": "060008B6|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestSolstheimCourierPotionMedDeliveryTopic",
+    "form_id": "060008B8|Missives - Solstheim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Esta poción fue enviada desde <Alias=QuestGiver> en <Alias=City> para ti. Por cierto, sabe terrible... no es que este Khajiit haya probado un poco... dos veces...",
+    "status": "TranslationComplete"
+  }
+]

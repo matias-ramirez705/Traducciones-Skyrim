@@ -1,0 +1,11 @@
+[
+  {
+    "editor_id": "BGSSSE018_ShadowrendLordAndBeastMessage",
+    "form_id": "03000D95|ccbgssse018-shadowrend.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Tu sombra está dormida durante la transformación.",
+    "string": "Khajiit ya no proyecta sombra mientras está transformado!",
+    "status": "TranslationComplete"
+  }
+]

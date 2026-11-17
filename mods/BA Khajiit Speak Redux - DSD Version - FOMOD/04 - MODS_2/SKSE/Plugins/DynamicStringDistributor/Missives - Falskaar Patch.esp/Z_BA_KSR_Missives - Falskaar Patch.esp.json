@@ -1,0 +1,317 @@
+[
+  {
+    "editor_id": "_M_QuestFalskaarCourierLetterHighAcceptTopic",
+    "form_id": "0400086B|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarCourierLetterHighDeliverTopic",
+    "form_id": "0400086C|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=QuestGiver> de <Alias=City> te ha enviado esta carta, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarCourierLetterLowAcceptTopic",
+    "form_id": "0400086D|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarCourierLetterLowDeliverTopic",
+    "form_id": "0400086E|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=QuestGiver> de <Alias=City> te ha enviado esta carta, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarCourierLetterMedAcceptTopic",
+    "form_id": "0400086F|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarCourierLetterMedDeliveryTopic",
+    "form_id": "04000870|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=QuestGiver> de <Alias=City> te ha enviado esta carta, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarCourierWeaponHighAcceptTopic",
+    "form_id": "04000871|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarCourierWeaponHighDeliveryTopic",
+    "form_id": "04000872|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí hay un arma para ti de <Alias=QuestGiver>. Este Khajiit la cargó desde <Alias=City> hasta aquí, amigo. Las patas de <Alias.PronounPosObjCap=Player> están cansadas, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarCourierWeaponLowAcceptTopic",
+    "form_id": "04000873|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarCourierWeaponLowDeliveryTopic",
+    "form_id": "04000874|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí hay un arma para ti de <Alias=QuestGiver>. Este Khajiit la cargó desde <Alias=City> hasta aquí, amigo. Las patas de <Alias.PronounPosObjCap=Player> están cansadas, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarCourierWeaponMedAcceptTopic",
+    "form_id": "04000875|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarCourierWeaponMedDeliveryTopic",
+    "form_id": "04000876|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí hay un arma para ti de <Alias=QuestGiver>. Este Khajiit la cargó desde <Alias=City> hasta aquí, amigo. Las patas de <Alias.PronounPosObjCap=Player> están cansadas, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarGatherIngrHighRewardTopic",
+    "form_id": "04000877|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí está tu entrega, amigo. Si tus ojos han visto un <Alias=Item>, entonces los han visto todos, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarGatherIngrLowRewardTopic",
+    "form_id": "04000878|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí está tu entrega, amigo. Si tus ojos han visto un <Alias=Item>, entonces los han visto todos, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarGatherIngrMedRewardTopic",
+    "form_id": "04000879|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí está tu entrega, amigo. Si tus ojos han visto un <Alias=Item>, entonces los han visto todos, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarGatherInnRewardTopic",
+    "form_id": "0400087A|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you needed.",
+    "string": "Este Khajiit tiene el <Alias=Item> que necesitabas, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarGatherOreHighRewardTopic",
+    "form_id": "0400087B|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí está tu entrega, amigo. Si tus ojos han visto un <Alias=Item>, entonces los han visto todos, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarGatherOreLowRewardTopic",
+    "form_id": "0400087C|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí está tu entrega, amigo. Si tus ojos han visto un <Alias=Item>, entonces los han visto todos, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarGatherOreMedRewardTopic",
+    "form_id": "0400087D|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí está tu entrega, amigo. Si tus ojos han visto un <Alias=Item>, entonces los han visto todos, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarGatherOreVeryHighRewardTopic",
+    "form_id": "0400087E|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Estos <Alias=Item>s son para ti. Son molestos de cargar en tales cantidades, y este Khajiit está feliz de deshacerse de ellos, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarGatherSoulGemHighRewardTopic",
+    "form_id": "0400087F|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí está tu entrega, amigo. Si tus ojos han visto un <Alias=Item>, entonces los han visto todos, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarGatherSoulGemLowRewardTopic",
+    "form_id": "04000880|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Estos <Alias=Item>s son para ti. Son molestos de cargar en tales cantidades, y este Khajiit está feliz de deshacerse de ellos, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarGatherSoulGemMedRewardTopic",
+    "form_id": "04000881|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Estos <Alias=Item>s son para ti. Son molestos de cargar en tales cantidades, y este Khajiit está feliz de deshacerse de ellos, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarKillAnimalRewardTopic",
+    "form_id": "04000882|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias=Dungeon> has been cleared, I'm here for the bounty.",
+    "string": "<Alias=Dungeon> ha sido limpiado. Este Khajiit no entiende por qué alguien querría limpiar un lugar hecho de tierra...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarKillBanditRewardTopic",
+    "form_id": "04000883|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The leader of <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El líder de <Alias=Dungeon> ha encontrado su rival, en efecto. Por 'rival', este Khajiit quiere decir que <Alias.Pronoun=Player> lo quemó vivo y lo vio gritar lentamente hasta morir. ¿Demasiada información, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarKillGiantRewardTopic",
+    "form_id": "04000885|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The giant at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El Gigante en <Alias=Dungeon> está muerto. Este Khajiit está aquí por la recompensa, y alguien interesado en comprar estos enormes dedos del pie...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarRetrieveHideoutRewardTopic",
+    "form_id": "04000886|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "Aquí está tu <Alias.BaseName=Item>, amigo. Por cierto, esto tiene alta demanda entre bandidos. Al menos eso dijeron mientras intentaban robárselo a este...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarRetrieveRuinsRewardTopic",
+    "form_id": "04000887|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí está tu entrega, amigo. Si tus ojos han visto un <Alias=Item>, entonces los han visto todos, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarRetrieveWildernessRewardTopic",
+    "form_id": "04000888|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "Aquí está tu <Alias.BaseName=Item>, amigo. Por cierto, esto tiene alta demanda entre bandidos. Al menos eso dijeron mientras intentaban robárselo a este...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarCourierPotionLowAcceptTopic",
+    "form_id": "0400088F|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarCourierPotionLowDeliveryTopic",
+    "form_id": "04000890|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=QuestGiver> de <Alias=City> te envía sus mejores deseos... y esta poción, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarCourierPotionHighAcceptTopic",
+    "form_id": "04000892|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarCourierPotionMedAcceptTopic",
+    "form_id": "04000893|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarCourierPotionHighDeliveryTopic",
+    "form_id": "04000895|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=QuestGiver> de <Alias=City> te envía sus mejores deseos... y esta poción, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalskaarCourierPotionMedDeliveryTopic",
+    "form_id": "04000897|Missives - Falskaar Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=QuestGiver> de <Alias=City> te envía sus mejores deseos... y esta poción, ¿sí?",
+    "status": "TranslationComplete"
+  }
+]

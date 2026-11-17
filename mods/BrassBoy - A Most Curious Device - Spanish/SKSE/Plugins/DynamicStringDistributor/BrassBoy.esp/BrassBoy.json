@@ -1,0 +1,371 @@
+[
+  {
+    "editor_id": "BrassBoyCalmEffect",
+    "form_id": "03000850|BrassBoy.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Absorbed in Play",
+    "string": "Absorbido en el juego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyCalm",
+    "form_id": "03000851|BrassBoy.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Absorbed in Play",
+    "string": "Absorbido en el juego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyQuestNote",
+    "form_id": "03000D6B|BrassBoy.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Crumpled Note",
+    "string": "Nota arrugada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyQuestNote",
+    "form_id": "03000D6B|BrassBoy.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "Day four. Skeg never came.\r\n\r\nThe toy came with a brass plate, with a strange little picture on the front. There must be more of them out there, the thing keeps humming like it wants to show me the way.\r\n\r\nI'm getting dizzy, I'm staring at this thing so much. One more game, then I'll head down and look for the other plates.",
+    "string": "Cuarto día. Skeg nunca llegó.\n\nEl juguete venía con una placa de latón, con un pequeño dibujo extraño en la parte delantera. Debe de haber más por ahí, el aparato no deja de zumbar como si quisiera mostrarme el camino.\n\nMe estoy mareando de tanto mirar esta cosa. Una partida más y luego bajaré a buscar las otras placas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyQuestLeadNote",
+    "form_id": "03000D65|BrassBoy.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Message to Skeg",
+    "string": "Mensaje para Skeg",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyQuestLeadNote",
+    "form_id": "03000D65|BrassBoy.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "Skeg,\r\n\r\nYou won't believe what I've got. Some Dwemer toy or something, lifted it off some boffin in a tavern. Fence wouldn't touch it, said it's a rusty piece of junk, but forget about selling it : it shows pictures and lights, and it makes music! I can't stop staring at the thing.\r\n\r\nCome find me at the old tower east of Markarth, it's quiet up there. Bring bread. And more wine.\r\n\r\nAnd DON'T TELL MA about this!\r\n\r\nSkog",
+    "string": "Skeg:\n\nNo vas a creer lo que tengo. Una especie de juguete dwemer o algo así, se lo quité a un cerebrito en una taberna. El perista no quiso aceptarlo, dijo que era un pedazo de chatarra oxidada, pero olvídate de venderlo: ¡muestra imágenes, luces y hasta hace música! No puedo dejar de mirarlo.\n\nVen a buscarme a la antigua torre al este de Markarth, allí arriba hay tranquilidad. Trae pan. Y más vino.\n\n¡Y NO LE CUENTES NADA A MAMÁ!\n\nSkog",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyConsole",
+    "form_id": "03000810|BrassBoy.esp",
+    "index": 1,
+    "type": "LIGH FULL",
+    "original": "Strange Dwemer Device",
+    "string": "Extraño dispositivo dwemer",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyCart00",
+    "form_id": "03000900|BrassBoy.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Blank Memory Plate",
+    "string": "Placa de memoria en blanco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyCart01",
+    "form_id": "03000901|BrassBoy.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Blank Memory Plate",
+    "string": "Placa de memoria en blanco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyCart02",
+    "form_id": "03000902|BrassBoy.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Blank Memory Plate",
+    "string": "Placa de memoria en blanco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyCart03",
+    "form_id": "03000903|BrassBoy.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Blank Memory Plate",
+    "string": "Placa de memoria en blanco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyCart04",
+    "form_id": "03000904|BrassBoy.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Blank Memory Plate",
+    "string": "Placa de memoria en blanco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyCart05",
+    "form_id": "03000905|BrassBoy.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Blank Memory Plate",
+    "string": "Placa de memoria en blanco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyCart06",
+    "form_id": "03000906|BrassBoy.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Blank Memory Plate",
+    "string": "Placa de memoria en blanco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyCart07",
+    "form_id": "03000907|BrassBoy.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Blank Memory Plate",
+    "string": "Placa de memoria en blanco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyCart08",
+    "form_id": "03000908|BrassBoy.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Blank Memory Plate",
+    "string": "Placa de memoria en blanco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyCart09",
+    "form_id": "03000909|BrassBoy.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Blank Memory Plate",
+    "string": "Placa de memoria en blanco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyCart10",
+    "form_id": "0300090A|BrassBoy.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Blank Memory Plate",
+    "string": "Placa de memoria en blanco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyCart11",
+    "form_id": "0300090B|BrassBoy.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Blank Memory Plate",
+    "string": "Placa de memoria en blanco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyCart12",
+    "form_id": "0300090C|BrassBoy.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Blank Memory Plate",
+    "string": "Placa de memoria en blanco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyCart13",
+    "form_id": "0300090D|BrassBoy.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Blank Memory Plate",
+    "string": "Placa de memoria en blanco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyCart14",
+    "form_id": "0300090E|BrassBoy.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Blank Memory Plate",
+    "string": "Placa de memoria en blanco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyFallenThief",
+    "form_id": "03000D68|BrassBoy.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Fallen Thief",
+    "string": "Ladrón caído",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TelMithryn",
+    "form_id": "02017787|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Tel Mithryn",
+    "string": "Tel Mithryn",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmNewGnisisCornerclub",
+    "form_id": "0001677F|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "New Gnisis Cornerclub",
+    "string": "Garito de la esquina de Nueva Gnisis",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthHalloftheDead",
+    "form_id": "00023FD4|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Hall of the Dead",
+    "string": "Salón de los Muertos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeBardsCollege",
+    "form_id": "00016A0C|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Bards College",
+    "string": "Colegio de Bardos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RRTheRetchingNetch",
+    "form_id": "02017EC0|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Retching Netch",
+    "string": "Netch de las Arcadas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Kagrenzel01",
+    "form_id": "00052FEB|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Kagrenzel",
+    "string": "Kagrenzel",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Mzinchaleft01",
+    "form_id": "0001523D|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Mzinchaleft",
+    "string": "Mzinchaleft",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "Skyrim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2SolstheimWorld",
+    "form_id": "02000800|Dragonborn.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Solstheim",
+    "string": "Solstheim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyPlateQuest",
+    "form_id": "03000D62|BrassBoy.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "A Most Curious Device",
+    "string": "Un dispositivo de lo más curioso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyPlateQuest",
+    "form_id": "03000D62|BrassBoy.esp",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I found a brass plate etched with strange markings. Stamped on its back is a tower on a crag. Could it be that old Dwemer spire in the Reach?",
+    "string": "Encontré una placa de latón grabada con extrañas marcas. En su reverso hay estampada una torre sobre un risco. ¿Podría ser aquella antigua aguja dwemer de la Cuenca?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyPlateQuest",
+    "form_id": "03000D62|BrassBoy.esp",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "A courier mistakenly delivered a letter meant for someone else. Its writer was hiding out at an old tower east of Markarth with what sounds like an interesting Dwemer device.",
+    "string": "Un mensajero entregó por error una carta destinada a otra persona. Su autor se escondía en una antigua torre al este de Markarth con lo que parece ser un interesante dispositivo dwemer.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyPlateQuest",
+    "form_id": "03000D62|BrassBoy.esp",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "At the foot of the tower at Reachwind Eyrie, a body lay beside a strange brass device, still humming. Perhaps I can make it work?",
+    "string": "Al pie de la torre de Nido del Águila de Vientovelo, yacía un cadáver junto a un extraño dispositivo de latón que aún emitía un zumbido. ¿Quizás pueda hacerlo funcionar?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyPlateQuest",
+    "form_id": "03000D62|BrassBoy.esp",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "The device still works! Its last owner thought there were more plates to go with it, and the device seems able to point the way to them somehow.",
+    "string": "¡El dispositivo todavía funciona! Su último propietario creía que había más placas que lo acompañaban, y el dispositivo parece ser capaz de señalar de algún modo el camino hacia ellas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyPlateQuest",
+    "form_id": "03000D62|BrassBoy.esp",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I have found every memory plate. The device has reacted to this, as I can now read its text and it has shown me new functions. The collection is complete.",
+    "string": "He encontrado todas las placas de memoria. El dispositivo ha reaccionado ante ello, pues ahora puedo leer su texto y me ha mostrado nuevas funciones. La colección está completa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyPlateQuest",
+    "form_id": "03000D62|BrassBoy.esp",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Investigate the tower overlooking the river east of Markarth",
+    "string": "Investiga la torre que domina el río al este de Markarth",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyPlateQuest",
+    "form_id": "03000D62|BrassBoy.esp",
+    "index": 7,
+    "type": "QUST NNAM",
+    "original": "Find a way to activate the strange device",
+    "string": "Encuentra una forma de activar el extraño dispositivo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BrassBoyPlateQuest",
+    "form_id": "03000D62|BrassBoy.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Retrieve all the Memory Plates: <Global=BrassBoyPlatesFound>/<Global=BrassBoyPlatesTotal>",
+    "string": "Recupera todas las placas de memoria: <Global=BrassBoyPlatesFound>/<Global=BrassBoyPlatesTotal>",
+    "status": "TranslationComplete"
+  }
+]

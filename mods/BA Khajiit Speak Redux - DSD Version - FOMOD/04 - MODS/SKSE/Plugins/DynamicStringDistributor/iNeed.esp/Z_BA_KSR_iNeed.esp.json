@@ -1,0 +1,308 @@
+[
+  {
+    "editor_id": "_SNPriestCureTopic",
+    "form_id": "05032BFD|iNeed.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Please cure me of my disease. (<Global=_SNPriestCureCost> gold)",
+    "string": "Por favor, cure este Khajiit de su enfermedad. (<Global=_SNPriestCureCost> de oro)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigRecategorizeMsg",
+    "form_id": "05057228|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "After enabling this option, any item you consume will bring up an option to categorize it. Return to this menu and turn this option off after you've finished categorizing.",
+    "string": "Después de habilitar esta opción, cualquier objeto que consumas mostrará una opción para categorizarlo. Regresa a este menú y desactiva esta opción después de haber terminado de categorizar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterSaltMsg",
+    "form_id": "050587B7|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Salt water can be reduced to a Salt Pile at a Cooking Pot.",
+    "string": "El agua salada puede reducirse a un Montón de sal en una Olla de cocina.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyMsg",
+    "form_id": "05058D1E|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What would you like to do?",
+    "string": "¿Qué desea hacer este Khajiit?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyDrinkUnknownMsg",
+    "form_id": "05058D1F|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The water here looks questionable...",
+    "string": "El agua aquí se ve cuestionable...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsPerspectiveMsg",
+    "form_id": "05059283|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Set the perspective of your text notifications.\r\n\r\n1st Person: 'I am feeling well sated.'\r\n2nd Person: 'You are feeling well sated.'\r\nDefault: 2nd Person",
+    "string": "Establece la perspectiva de las notificaciones de texto de este Khajiit.\r\n\r\n1ara Persona: 'Este Khajiit se siente bien saciado.'\r\n2da Persona: 'Te sientes bien saciado.'\r\nPredeterminado: 2da Persona",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffAdrenalineMsg",
+    "form_id": "0505B2D3|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This is a mechanic to help make your needs less irksome and to encourage preparation before dungeon diving.\r\n\r\nIn unsafe interiors you will have the Adrenaline buff, which slows down the rate of your needs by half. However, after exiting, you will be afflicted with Weariness, which doubles the rate of your needs for half of the time you spent under Adrenaline.\r\n\r\nThis mechanic doesn't apply to hybrid vampires.\r\nDefault: On",
+    "string": "Este es un mecanismo para ayudar a que las necesidades sean menos molestas y fomentar la preparación antes de adentrarse en mazmorras.\r\n\r\nEn interiores inseguros este Khajiit tendrá el beneficio Adrenalina, que reduce a la mitad la velocidad de las necesidades. Sin embargo, al salir, este Khajiit será afectado por Cansancio, que duplica la velocidad de las necesidades durante la mitad del tiempo pasado bajo Adrenalina.\r\n\r\nEste mecanismo no se aplica a los vampiros híbridos.\r\nPredeterminado: Activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodSaltMsg",
+    "form_id": "05037782|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Salted meat will not spoil and can be safely eaten but will increase Thirst.",
+    "string": "La carne salada no se echará a perder y puede comerse sin problema, pero aumentará la Sed.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterUnknownMsg",
+    "form_id": "0503B2CE|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This water looks questionable but can be purified at a Cooking Pot or emptied out by accessing it from your inventory.",
+    "string": "Esta agua se ve cuestionable, pero puede purificarse en una Olla de cocina o vaciarse accediendo a ella desde tu inventario.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast2Msg",
+    "form_id": "0507173E|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What would you like to roast?",
+    "string": "¿Qué desea asar este Khajiit?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast1Msg",
+    "form_id": "0507173D|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What would you like to roast?",
+    "string": "¿Qué desea asar este Khajiit?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHarvestMsg",
+    "form_id": "05043982|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What would you like to do?",
+    "string": "¿Qué desea hacer este Khajiit?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterKegMsg",
+    "form_id": "050459DA|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This object will always face towards you when initially placed.",
+    "string": "Este objeto siempre se orientará hacia usted cuando se coloque inicialmente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateHungerMsg",
+    "form_id": "05053C46|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "At a setting of 4, you should feel the need to eat 2-3 times per day, regardless of timescale, provided that you are consuming full meals. Lower this value to decrease the rate at which your hunger requires attention.\r\nDefault: 4",
+    "string": "Con una configuración de 4, este Khajiit debería sentir la necesidad de comer 2-3 veces al día, independientemente de la escala de tiempo, siempre que consuma comidas completas. Reduce este valor para disminuir la frecuencia con la que el hambre requiere atención.\r\nPredeterminado: 4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateThirstMsg",
+    "form_id": "05053C47|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "At a setting of 4, you should feel the need to drink 2-3 times per day, regardless of timescale, provided that you are consuming full drinks. Lower this value to decrease the rate at which your thirst requires attention.\r\nDefault: 4",
+    "string": "Con una configuración de 4, este Khajiit debería sentir la necesidad de beber 2-3 veces al día, independientemente de la escala de tiempo, siempre que consuma bebidas completas. Reduce este valor para disminuir la frecuencia con la que la sed requiere atención.\r\nPredeterminado: 4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateFatigueMsg",
+    "form_id": "05053C48|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "At a setting of 4, you should feel the need to sleep once per day, regardless of timescale, provided that you are getting at least 7 hours of sleep. Lower this value to decrease the rate at which your fatigue requires attention.\r\nDefault: 4",
+    "string": "Con una configuración de 4, este Khajiit debería sentir la necesidad de dormir una vez al día, independientemente de la escala de tiempo, siempre que duerma al menos 7 horas. Reduce este valor para disminuir la frecuencia con la que la fatiga requiere atención.\r\nPredeterminado: 4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolHungerMsg",
+    "form_id": "05053C49|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Grumbling stomach noises will play more frequently as your hunger becomes more urgent.\r\nDefault: 5",
+    "string": "Los sonidos de estómago gruñendo se reproducirán con más frecuencia a medida que el hambre se vuelva más urgente.\r\nPredeterminado: 5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolThirstMsg",
+    "form_id": "05053C4A|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Coughing noises will play more frequently as your thirst becomes more urgent.\r\nDefault: 5",
+    "string": "Los sonidos de tos se reproducirán con más frecuencia a medida que la sed se vuelva más urgente.\r\nPredeterminado: 5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolFatigueMsg",
+    "form_id": "05053C4B|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Yawning noises will play more frequently as your fatigue becomes more urgent.\r\nDefault: 5",
+    "string": "Los sonidos de bostezo se reproducirán con más frecuencia a medida que la fatiga se vuelva más urgente.\r\nPredeterminado: 5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsAutoMsg",
+    "form_id": "05053C4D|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You will automatically eat or drink when needed. Just keep your inventory stocked! The most effective drinks will always be selected first but alcohol will never be automatically consumed. Automatic refills of your waterskins will occur when standing in fresh water.\r\nDefault: Off",
+    "string": "Este Khajiit comerá o beberá automáticamente cuando sea necesario. ¡Solo mantén el inventario abastecido! Las bebidas más efectivas siempre serán seleccionadas primero, pero el alcohol nunca será consumido automáticamente. Las recargas automáticas de los odres de agua ocurrirán al estar de pie en agua dulce.\r\nPredeterminado: Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigTimescaleMsg",
+    "form_id": "05053C4E|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Set how fast the in-game time passes. For every minute in real life, X minutes pass in-game, which means that the lower the value, the slower time passes in-game.\r\nDefault: 20",
+    "string": "Establece qué tan rápido pasa el tiempo en el juego. Por cada minuto en la vida real, pasan X minutos en el juego, lo que significa que cuanto menor sea el valor, más lento pasa el tiempo en el juego.\r\nPredeterminado: 20",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsHorseMsg",
+    "form_id": "05053C4F|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "If you own a horse and are standing in front of it, you will be able to feed it by activating it. Feeding your horse at least once every 3 hours gives it a slight stamina regeneration buff. Since your horse likely grazes when you're not around, there are no penalties for not feeding it.\r\nDefault: On",
+    "string": "Si este Khajiit posee un caballo y está frente a él, podrá alimentarlo al activarlo. Alimentar al caballo al menos una vez cada 3 horas le otorga una ligera regeneración de resistencia. Como el caballo probablemente pasta cuando este Khajiit no está cerca, no hay penalización por no alimentarlo.\r\nPredeterminado: Activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscCannibalMsg",
+    "form_id": "050A4149|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You will be able to feed/gather meat from dead NPCs provided that you remove their chest armor/clothing first. You will also be able to eat raw meat without any negative consequences. This feature is primarily aimed at those who are roleplaying characters who can eat raw meat or have the Ring of Namira equipped.\r\nDefault: Off",
+    "string": "Este Khajiit podrá alimentarse o recolectar carne de NPCs muertos siempre que primero se quite su armadura/ropa de pecho. También podrá comer carne cruda sin consecuencias negativas. Esta función está dirigida principalmente a quienes interpretan personajes que pueden comer carne cruda o que llevan equipado el Anillo de Namira.\r\nPredeterminado: Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscVisWaterskinMsg",
+    "form_id": "05053C50|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A waterskin will be visible on your character provided that you have one in your inventory. Adjust the position below.\r\nDefault: Off",
+    "string": "Un odre de agua será visible en el personaje siempre que este Khajiit tenga uno en el inventario. Ajusta la posición abajo.\r\nPredeterminado: Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffReducedCarryMsg",
+    "form_id": "05053C51|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Could you really carry all of that in real life? Set the magnitude at which your carry weight will be reduced.\r\nDefault: 0",
+    "string": "¿De verdad podría este Khajiit cargar todo eso en la vida real? Establece la magnitud en la que el peso de carga será reducido.\r\nPredeterminado: 0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigGuideMsg",
+    "form_id": "05053C52|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "1: Tending Needs\r\n2:  Buffs/Debuffs\r\n3: Adrenaline/Weariness\r\n4. Alcohol/Skooma\r\n5. Waterskins\r\n6: Water Barrels/Kegs\r\n7. Water Buckets\r\n8. Snow Hydration\r\n9. Refills",
+    "string": "1: Atención a necesidades\r\n2: Buffs/Debuffs\r\n3: Adrenalina/Cansancio\r\n4: Alcohol/Skooma\r\n5: Odres de agua\r\n6: Barriles de agua/Cubas\r\n7: Cubetas de agua\r\n8: Hidratación por nieve\r\n9: Recargas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscVampireMsg",
+    "form_id": "05053C53|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "These options only apply if you're a vampire.\r\n\r\nMortal: You are a regular mortal except feeding and 'Potions of Blood' will also lower hunger/thirst/fatigue.\r\n\r\nHybrid: Hunger/thirst are of no concern. You are slow to fatigue but also slow to recover when sleeping. Feeding and 'Potions of Blood' will also lower fatigue. This is the default option.\r\n\r\nPure: Only feeding and 'Potions of Blood' will lower hunger/thirst/fatigue.",
+    "string": "Estas opciones solo se aplican si este Khajiit es un vampiro.\r\n\r\nMortal: Este Khajiit es un mortal normal excepto que alimentarse y las 'Pociones de Sangre' también reducen hambre/sed/fatiga.\r\n\r\nHíbrido: hambre y sed no son problema. Este Khajiit se fatiga lentamente, pero también se recupera lentamente al dormir. Alimentarse y las 'Pociones de Sangre' también reducen la fatiga. Esta es la opción predeterminada.\r\n\r\nPuro: solo alimentarse y las 'Pociones de Sangre' reducen hambre/sed/fatiga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffUnknownAllMsg",
+    "form_id": "050B854B|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Unknown water comes from an unknown source, may be contaminated enough to make you sick, and are usually found in dungeons. This option makes all bodies of water potentially contaminated. Unknown water can be purified at a Cooking Pot.\r\nDefault: Off",
+    "string": "El agua desconocida proviene de una fuente desconocida, puede estar contaminada lo suficiente como para enfermar a este Khajiit, y normalmente se encuentra en mazmorras. Esta opción hace que todas las masas de agua sean potencialmente contaminadas. El agua desconocida puede purificarse en una Olla de cocina.\r\nPredeterminado: Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffMsg",
+    "form_id": "05054716|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "These are extra options to configure the difficulty of your experience.",
+    "string": "Estas son opciones adicionales para configurar la dificultad de su experiencia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffFoodRemovalMsg",
+    "form_id": "05054717|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "There's too much food in Skyrim!\r\n\r\nContainers: Most food in barrels/sacks will be removed or replaced with Salt Piles or Garlic.\r\n\r\nInteriors: Food will be disabled from all interiors based on a several factors. Wealthier, more inhabited locations will be more likely to retain their food. Dungeons will have all food and drinks removed.\r\n\r\nWarning: These features are permanent. Disabling these features after they've been enabled will have no effect (Containers) or will only affect newly discovered locations (Interiors).\r\nDefault: Off",
+    "string": "¡Hay demasiada comida en Skyrim!\r\n\r\nContenedores: la mayoría de la comida en barriles/sacos será eliminada o reemplazada por Montones de sal o ajo.\r\n\r\nInteriores: la comida será deshabilitada en todos los interiores según varios factores. Los lugares más ricos y habitados tendrán más probabilidades de conservar su comida. Las mazmorras tendrán toda la comida y bebidas eliminadas.\r\n\r\nAdvertencia: estas funciones son permanentes. Deshabilitarlas después de activarlas no tendrá efecto (Contenedores) o solo afectará ubicaciones recién descubiertas (Interiores).\r\nPredeterminado: Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffDeathMsg",
+    "form_id": "05054718|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your health, magicka and stamina will degrade by random values every hour after about 2 days without water or 3 days without sleep until death.\r\nDefault: Off",
+    "string": "La salud, magia y resistencia de este Khajiit se degradarán en valores aleatorios cada hora después de aproximadamente 2 días sin agua o 3 días sin dormir hasta la muerte.\r\nPredeterminado: Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffAlcoholMsg",
+    "form_id": "05054719|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Drinking alcohol will decrease thirst temporarily but will also cause your thirst to rise faster over the next two hours.\r\nDefault: Off",
+    "string": "Beber alcohol reducirá la sed temporalmente, pero también hará que la sed aumente más rápido durante las siguientes dos horas.\r\nPredeterminado: Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsMsg",
+    "form_id": "0505471B|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Adjust the rate that your needs need attending to, the volume of the sound effects, automate your needs, change the written perspective of your notifications, and toggle follower/horse needs.",
+    "string": "Ajusta la frecuencia con la que deben atenderse tus necesidades, el volumen de los efectos de sonido, automatiza tus necesidades, cambia la perspectiva escrita de tus notificaciones y activa o desactiva las necesidades de seguidores/caballo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscAnimationsMsg",
+    "form_id": "05056CC5|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Eating or drinking animations will play after eating or drinking. Animations while sitting will only play if you are sitting in a chair. It is not recommended that you enable this if you have 'Automate Eating/Drinking' enabled. These animations only play if your weapons are sheathed.\r\nDefault: Eat/Drink Off\r\n\r\nA refill animation will play when refilling or drinking from a body of water. This animation only plays if your weapons are sheathed.\r\nDefault: Refill On\r\n\r\nForce Camera: Force the camera into third and then back into first-person after the animation finishes.\r\nDefault: Force Camera On",
+    "string": "Las animaciones de comer o beber se reproducirán después de hacerlo. Las animaciones al estar sentado solo se reproducirán si este Khajiit está sentado en una silla. No se recomienda activar esto si 'Automatizar Comer/Beber' está activado. Estas animaciones solo se reproducen si las armas están envainadas.\r\n\r\nSe reproducirá una animación de recarga al llenar o beber de una masa de agua. Esta animación solo se reproduce si las armas están envainadas.\r\nPredeterminado: Recarga Activada\r\n\r\nForzar cámara: fuerza la cámara a tercera persona y luego vuelve a primera persona después de que la animación termine.\r\nPredeterminado: Forzar cámara Activado",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,686 @@
+[
+  {
+    "editor_id": "ccVSVSSE002_PetControlQuest_Spider_BranchWebTopic",
+    "form_id": "05000823|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¡Teje una trampa!",
+    "string": "¡Teje una trampa de telaraña!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DE|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Gruñe)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_PetControlQuest_Rabbit_BranchRecruitTopic",
+    "form_id": "050008A0|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hola, Cardo. ¿Quieres un premio?",
+    "string": "Hola, Cardo. ¿Quieres un premio?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A1|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Chilla)",
+    "string": "(chilla)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A2|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Chilla)",
+    "string": "(chilla)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A2|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Eh, amiguito, ¿tienes hambre?",
+    "string": "Hola, pequeñín, ¿tienes hambre, quizá?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_PetControlQuest_Rabbit_BranchFetchTopic",
+    "form_id": "050008A3|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¡Búscame un ingrediente!",
+    "string": "¡Rápido, encuentra un ingrediente!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A4|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Gruñe)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_PetControlQuest_Skeever_BranchFetchTopic",
+    "form_id": "050008A5|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¡Búscame comida!",
+    "string": "¡Encuentra algo de comida!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A6|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Gruñe)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_PetControlQuest_Rabbit_BranchFoundItemTopic",
+    "form_id": "050008A7|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Qué es eso que tienes ahí?",
+    "string": "Khajiit desea saber qué tienes ahí, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A8|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Chilla)",
+    "string": "(chilla)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_PetControlQuest_Skeever_BranchFindItemTopic",
+    "form_id": "050008A9|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Qué es eso que tienes ahí?",
+    "string": "¿Qué es eso, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AA|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Chilla)",
+    "string": "(chilla)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_PetControlQuest_Spider_BranchCollectVenomTopic",
+    "form_id": "050008AB|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Recoger veneno",
+    "string": "(Cosechar veneno)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AC|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Gruñe)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AC|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a extraer algo de veneno.",
+    "string": "¡Hora de cosechar veneno!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_PetControlQuest_Fox_BranchRecruitTopic",
+    "form_id": "050008AD|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hola, Panecilla. ¿Quieres un premio?",
+    "string": "Hola, Pastelito. ¿Quieres un premio?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AE|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Chilla)",
+    "string": "(chilla)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AF|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Chilla)",
+    "string": "(chilla)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AF|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Eh, amiguito, ¿tienes hambre?",
+    "string": "Hola, pequeñín, ¿tienes hambre, quizá?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_PetControlQuest_Fox_BranchFoundItemTopic",
+    "form_id": "050008B0|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Qué es eso que tienes ahí?",
+    "string": "¿Qué llevas ahí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B1|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Chilla)",
+    "string": "(chilla)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_PetControlQuest_Fox_BranchFetchTopic",
+    "form_id": "050008B2|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¡Búscame algo de valor!",
+    "string": "¡Trae algo valioso!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B3|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Gruñe)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_PetControlQuest_Goat_BranchCollectMilkTopic",
+    "form_id": "050008B4|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ordeñar leche",
+    "string": "Recolecta leche.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B5|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Gruñe)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B5|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a por un poco de leche.",
+    "string": "Recolecta un poco de leche, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_FarmerDialogueQuest_BranchBuyGoatTopic",
+    "form_id": "050008B6|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Puedo comprarte la cabra?",
+    "string": "Khajiit tiene monedas para cabras.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_FarmerDialogueQuest_AcceptTopic",
+    "form_id": "050008B8|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Te ofrezco esto... (<Global=ccVSVSSE002_GoatPrice> de oro)",
+    "string": "Khajiit ofrece <Global=ccVSVSSE002_GoatPrice> septims. Esto es bueno, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BA|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Pues no tengo bastante dinero.",
+    "string": "En realidad, <Alias=Player> no tiene suficientes monedas.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_FarmerDialogueQuest_RejectTopic",
+    "form_id": "050008BB|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Pensándolo mejor, da igual.",
+    "string": "Pensándolo bien, olvídalo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_PetControlQuest_Goat_BranchRecruitTopic",
+    "form_id": "050008BD|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hola, chica. ¿Quieres venir conmigo?",
+    "string": "Hola, pequeño amigo. ¿Disfrutarías viajar con Khajiit, quizá?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BE|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(¡Bee!)",
+    "string": "(balidos)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_PetControlQuest_Goat_BranchEquip2Topic",
+    "form_id": "050008E2|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Equipar alforja",
+    "string": "(Equipar mochila)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008ED|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(¡Bee!)",
+    "string": "(balidos)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008ED|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a ponerte la alforja.",
+    "string": "Ponte tu mochila, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000913|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Gruñe)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000913|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a quitarte la alforja.",
+    "string": "Quita tu collar.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_PetControlQuest_Skeever_BranchEquip2Topic",
+    "form_id": "05000917|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Equipar alforja",
+    "string": "(Equipar mochila)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000933|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Ladra)",
+    "string": "(aúlla)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000933|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a ponerte la alforja.",
+    "string": "Ponte tu mochila, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000934|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Gruñe)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000934|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a quitarte la alforja.",
+    "string": "Quita tu collar.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_PetControlQuest_Skeever_BranchEquipTopic",
+    "form_id": "05000924|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Equipar objeto",
+    "string": "(Equipar objeto)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000925|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Ladra)",
+    "string": "(aúlla)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000925|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a ponerte el collar.",
+    "string": "Equipa tu collar, pequeñín.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000926|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Gruñe)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000926|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a quitarte el collar.",
+    "string": "Quita tu collar.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_PetControlQuest_Rabbit_BranchEquipTopic",
+    "form_id": "05000928|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Equipar objeto",
+    "string": "(Equipar objeto)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000929|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Gruñe)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000929|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a ponerte el collar.",
+    "string": "Equipa tu collar, pequeñín.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500092A|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Gruñe)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500092A|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a quitarte el collar.",
+    "string": "Quita tu collar.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_PetControlQuest_Fox_BranchEquipTopic",
+    "form_id": "0500092C|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Equipar objeto",
+    "string": "(Equipar objeto)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500092D|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Ladra)",
+    "string": "(aúlla)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500092D|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a ponerte el collar.",
+    "string": "Equipa tu collar, pequeñín.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500092E|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Gruñe)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500092E|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a quitarte el collar.",
+    "string": "Quita tu collar.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_PetControlQuest_Goat_BranchEquipTopic",
+    "form_id": "05000930|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Equipar collar",
+    "string": "(Equipar collar)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000931|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(¡Bee!)",
+    "string": "(balidos)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000931|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a ponerte el collar.",
+    "string": "Equipa tu collar, pequeñín.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000932|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Gruñe)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000932|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a quitarte el collar.",
+    "string": "Quita tu collar.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_msg_QuestDone_Skeever",
+    "form_id": "050008FE|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¡<Alias=AliasSkeever> el skeever ya está disponible para reclutarlo como mascota!\r\nPuedes ordenar a <Alias=AliasSkeever> que te guíe hacia alimentos cercanos. Además, puede encontrar un alimento cada día.",
+    "string": "<Alias=AliasSkeever> la rata gigante ahora está disponible para ser reclutada como mascota!  \r\n\r\n<Alias=AliasSkeever> puede recibir la orden de buscar comida cercana.  \r\n\r\n<Alias=AliasSkeever> también tiene la posibilidad de encontrar comida al azar una vez por día.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_msg_QuestDone_Fox",
+    "form_id": "050008FF|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¡<Alias=AliasFox> el zorro ya está disponible para reclutarlo como mascota!\r\nPuedes ordenar a <Alias=AliasFox> que te lleve a los objetos de valor que haya cerca. Además, puede encontrar un objeto reluciente cada día.",
+    "string": "<Alias=AliasFox> el zorro ahora está disponible para ser reclutado como mascota!  \r\n\r\n<Alias=AliasFox> puede recibir la orden de buscar objetos valiosos cercanos.  \r\n\r\n<Alias=AliasFox> también tiene la posibilidad de encontrar un objeto brillante al azar una vez por día!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_msg_FetchFailed_skeever",
+    "form_id": "05000900|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=PetSkeever> no ha encontrado nada...",
+    "string": "<Alias=PetSkeever> no encontró nada...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_msg_QuestDone_Rabbit",
+    "form_id": "05000901|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¡<Alias=AliasRabbit> el conejo ya está disponible para reclutarlo como mascota!\r\nPuedes ordenar a <Alias=AliasRabbit> que te guíe hacia ingredientes cercanos. Además, puede encontrar un ingrediente cada día.",
+    "string": "<Alias=AliasRabbit> el conejo ahora está disponible para ser reclutado como mascota!  \r\n\r\n<Alias=AliasRabbit> puede recibir la orden de encontrar ingredientes cercanos.  \r\n\r\n<Alias=AliasRabbit> también tiene la posibilidad de encontrar un ingrediente al azar una vez por día.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_msg_FoundItem_goat",
+    "form_id": "050008F6|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¡<Alias=PetGoat> tiene leche para ordeñar!",
+    "string": "<Alias=PetGoat> tiene leche para recolectar! ¡Yummy jimetith!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_msg_FetchFailed_rabbit",
+    "form_id": "050008F7|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=PetRabbit> no ha encontrado nada...",
+    "string": "<Alias=PetRabbit> no pudo encontrar nada... una tristeza.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_msg_NoCombatUse",
+    "form_id": "050008F8|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No puedes usar eso en combate.",
+    "string": "¡Ja! Esa no es un arma de combate!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_msg_FetchFailed_fox",
+    "form_id": "050008F9|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=PetFox> no ha encontrado nada...",
+    "string": "<Alias=PetFox> no encontró nada...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_msg_QuestDone_Goat",
+    "form_id": "050008FA|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¡<Alias=AliasGoat> la cabra ya está disponible para reclutarla como mascota!\r\n<Alias=AliasGoat> puede transportar muchos objetos y puedes equiparle unas alforjas para que lleve más todavía. Además, puede darte una jarra de leche al día.",
+    "string": "<Alias=AliasGoat> la cabra ahora está disponible para ser reclutada como mascota!  \r\n\r\n<Alias=AliasGoat> puede cargar varios objetos, y se le puede equipar con una mochila para llevar aún más!  \r\n\r\nUn jarro de jimetith [leche] también puede recolectarse de <Alias=AliasGoat> una vez por día.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_msg_NotFollowing_Spider",
+    "form_id": "050008FB|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=PetSpider> debe acompañarte para poder darle órdenes.",
+    "string": "Quizá sea mejor hacer de <Alias=PetSpider> un compañero primero antes de maullar órdenes, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_msg_CommandFailed_Spider",
+    "form_id": "050008FC|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=PetSpider> no ha podido tejer una trampa ahí...",
+    "string": "<Alias=PetSpider> no logró tejer una trampa de telaraña ahí...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_msg_QuestDone_Spider",
+    "form_id": "050008FD|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¡<Alias=AliasSpider> la araña ya está disponible para reclutarla como mascota!\r\nPuedes ordenar a <Alias=AliasSpider> que teja una trampa para ralentizar a los enemigos. Además, podrás extraerle un potente veneno cada día.",
+    "string": "<Alias=AliasSpider> la araña ahora está disponible para ser reclutada como mascota!  \r\n\r\n<Alias=AliasSpider> puede recibir la orden de tejer una trampa pegajosa de telaraña para ralentizar a los enemigos.  \r\n\r\nUn veneno potente también puede recolectarse de <Alias=AliasSpider> una vez por día.",
+    "status": "TranslationComplete"
+  }
+]

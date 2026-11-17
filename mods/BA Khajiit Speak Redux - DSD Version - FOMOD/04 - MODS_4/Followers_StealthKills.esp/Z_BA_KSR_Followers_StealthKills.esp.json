@@ -1,0 +1,56 @@
+[
+  {
+    "editor_id": "StealthAttack_FollowerPrepareTopic",
+    "form_id": "01000D64|Followers_StealthKills.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Take down the enemy silently when you are ready",
+    "string": "Acaba con ese cuando quieras, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "StealthAttack_FollowerTakeSpellTopic",
+    "form_id": "01006E5B|Followers_StealthKills.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Prepare to take the enemy down. I'll give a sign.",
+    "string": "Prepárate para atacar a ese, amigo. Khajiit te avisará cuando llegue el momento, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FollowerStealthFailed",
+    "form_id": "010022F2|Followers_StealthKills.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Stealth attack failed",
+    "string": "El ataque sigiloso ha fallado. Qué tristeza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FollowerStealthNoTarget",
+    "form_id": "010022F3|Followers_StealthKills.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Can't identify the target",
+    "string": "El seguidor no puede identificar al objetivo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FollowerStealthPrepareMessage",
+    "form_id": "010022F1|Followers_StealthKills.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Need some more time to prepare",
+    "string": "El seguidor necesita un poco más de tiempo para prepararse...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FollowerStealthNoLOS",
+    "form_id": "01006E5D|Followers_StealthKills.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Follower must see you or the target",
+    "string": "El seguidor debe tener a Khajiit o al objetivo a la vista, ¿no?",
+    "status": "TranslationComplete"
+  }
+]

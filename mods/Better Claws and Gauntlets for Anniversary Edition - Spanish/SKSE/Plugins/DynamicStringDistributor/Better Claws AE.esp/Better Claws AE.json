@@ -1,0 +1,29 @@
+[
+  {
+    "editor_id": "ccBGSSSE058_ArmorBladesGauntlets",
+    "form_id": "05000802|ccbgssse058-ba_steel.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Steel Soldier Gauntlets",
+    "string": "Guanteletes de Soldado de Acero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE058_ArmorBladesGauntletsEnchanted",
+    "form_id": "0500083C|ccbgssse058-ba_steel.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Steel Soldier Gauntlets",
+    "string": "Guanteletes de Soldado de Acero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE051_ArmorDaedricMailGauntlets",
+    "form_id": "06000802|ccbgssse051-ba_daedricmail.esl",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Daedric Mail Gauntlets",
+    "string": "Guanteletes de Malla Daedrica",
+    "status": "TranslationComplete"
+  }
+]

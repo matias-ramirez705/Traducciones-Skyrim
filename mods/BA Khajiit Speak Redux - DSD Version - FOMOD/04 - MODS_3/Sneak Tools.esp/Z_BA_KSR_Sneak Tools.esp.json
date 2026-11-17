@@ -1,0 +1,47 @@
+[
+  {
+    "editor_id": "SneakToolsDialUseMenus",
+    "form_id": "03064FC8|Sneak Tools.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I prefer to think twice and always be able to reconsider my actions.",
+    "string": "<Alias=Player> prefiere el viejo dicho: «piensa dos veces y saca las garras una sola vez», ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SneakToolsDialUseNoMenus",
+    "form_id": "03064FCA|Sneak Tools.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Speed is of the essence. It is important to act swiftly and without pause.",
+    "string": "La velocidad es lo esencial, en efecto. Es importante actuar con rapidez y sin detenerse, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SneakToolsDialKillingTopic",
+    "form_id": "030695CA|Sneak Tools.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Killing",
+    "string": "Matar. Es la mejor manera de quitarse de la mente las tensiones cotidianas que presenta la vida, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SneakToolsAllowKillEssential",
+    "form_id": "030695CC|Sneak Tools.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes. Someone unable to defend himself can never be vital for Skyrim anyway.",
+    "string": "Alguien incapaz de defenderse jamás será vital para Skyrim de todos modos, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SneakToolsDontAllowKillEssential",
+    "form_id": "030695CE|Sneak Tools.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No. I might be able to benefit from such a person later myself.",
+    "string": "Este Khajiit podría beneficiarse más adelante de alguien así <Alias.PronounRef=Player>, ¿no?",
+    "status": "TranslationComplete"
+  }
+]

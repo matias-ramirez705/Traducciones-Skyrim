@@ -1,0 +1,2126 @@
+[
+  {
+    "editor_id": "MASTarenDialogWhoTopic",
+    "form_id": "020063DD|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who are you?",
+    "string": "¿Y quién eres tú...?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020063DE|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm Taren, the older, better looking Darrosa twin. So if you ever need to tell us apart, just go \"Hey, which one is more handsome?\" Then you'll know.",
+    "string": "Este es Taren, el gemelo Darrosa mayor y más apuesto. Así que, si alguna vez necesitas distinguirnos, solo di: \"Oye, ¿cuál es el más guapo?\" Entonces lo sabrás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTarenDialogLook",
+    "form_id": "02006964|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You both look exactly the same to me...",
+    "string": "Para los ojos de Khajiit, ambos lucen exactamente iguales...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTarenDialogVillageTopic",
+    "form_id": "02006967|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can you tell me about the village?",
+    "string": "Dile a <Alias=Player> algo único sobre la aldea, hmm.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTarenDialogAnyoneTopic",
+    "form_id": "0200696A|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Has anyone passed through the village lately?",
+    "string": "¿Alguien ha pasado por la aldea últimamente? ¿Quizá alguien inusual?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTarenDialogHelpTopic",
+    "form_id": "0200696E|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you need help with anything?",
+    "string": "Este ayudará si es necesario, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200696F|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That would be a question for the less handsome Darrosa. He's the \"doing things\" guy.",
+    "string": "Esa sería una pregunta para el Darrosa menos apuesto. Él es el que 'hace cosas'.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTarenDialogByeTopic",
+    "form_id": "02006971|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I should be off.",
+    "string": "<Alias=Player> debería irse, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTorenDialogWhoTopic",
+    "form_id": "020079A1|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who are you?",
+    "string": "¿Y quién eres tú...?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020079AE|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm Toren, the useful Darrosa twin. So if you ever need to tell us apart, just go \"Which one is actually being productive?\" Then you'll know.",
+    "string": "Este es Toren, el gemelo Darrosa útil. Así que, si alguna vez necesitas distinguirnos, solo di: \"¿Cuál está siendo realmente productivo?\" Entonces lo sabrás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTorenDialogVillageTopic",
+    "form_id": "020079A3|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can you tell me about the village?",
+    "string": "Dile a <Alias=Player> algo único sobre la aldea, hmm.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTorenDialogAnyoneTopic",
+    "form_id": "020079A5|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Has anyone passed through the village lately?",
+    "string": "¿Alguien ha pasado por la aldea últimamente? ¿Quizá alguien inusual?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTorenHelpTopic",
+    "form_id": "020079A7|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you need help with anything?",
+    "string": "Este ayudará si es necesario, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTorenDialogDeliveredTopic",
+    "form_id": "020079A9|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I delivered your order.",
+    "string": "<Alias=Player> entregó tu pedido, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTorenDialogByeTopic",
+    "form_id": "020079AD|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need to get going.",
+    "string": "Khajiit está en un horario ajustado, y debe marcharse.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTorenDialogLazy",
+    "form_id": "020079AF|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is your brother really that lazy?",
+    "string": "¿Tu hermano es realmente así de perezoso?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTorenDialogName",
+    "form_id": "020079B2|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why is this place called Little Vivec?",
+    "string": "¿Cómo obtuvo este lugar el nombre \"Pequeño Vivec\", exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTorenDialogServices",
+    "form_id": "020079B4|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What services does the village offer?",
+    "string": "¿La aldea ofrece algún servicio, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTorenDialogVillagers",
+    "form_id": "020079B6|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who else lives in the village?",
+    "string": "¿Quién vive en la aldea, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020079B7|MoonAndStar_MAS.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Then there's Belvadyr...and...well, like my brother says, the only thing Belvadyr is good for is his wife.",
+    "string": "Luego está Belvadyr... y... bueno, como dice mi hermano, lo único para lo que Belvadyr sirve es para su esposa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTorenDialogTopic",
+    "form_id": "020079B8|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to ask about something else.",
+    "string": "<Alias=Player> preguntará sobre otra cosa ahora, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTorenDialogAccept",
+    "form_id": "020079BD|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No problem.",
+    "string": "Ningún problema, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020079BE|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Great. Just drop it off in the Order Chest by the mill, and next time you drop by, I'll have some Septims ready for you.",
+    "string": "Perfecto. Solo déjalo en el Cofre de Pedidos junto al molino, y la próxima vez que vengas, este tendrá algunos septims listos para ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTorenDialogGreed",
+    "form_id": "02008484|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "For the right price.",
+    "string": "Por el precio adecuado, quizás. Ahora, habla con este...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008485|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Now here's someone who knows how the world works. How's a hundred Septims sound?",
+    "string": "Ahora aquí hay alguien que entiende cómo funciona el mundo. ¿Qué tal suenan 100 septims?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTorenDialogDecline",
+    "form_id": "02008486|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sorry, not interested.",
+    "string": "Disculpas, pero Khajiit no está interesado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTorenDialogGreedAccept",
+    "form_id": "02008488|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sounds just fine.",
+    "string": "Esto suena bien para los oídos de Khajiit.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02008489|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Then we've got a deal. Drop this off in the Order Chest by the mill, and you'll have your Septims",
+    "string": "Entonces hay trato. Déjalo en el Cofre de Pedidos junto al molino, y tendrás tus septims.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTorenDialogGreedier",
+    "form_id": "0200848A|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sounds like you're cheap.",
+    "string": "Claramente, eres de segunda categoría, de poca monta, barato, de dos monedas, sin valor, cazamonedas, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200848B|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's Riverwood, not Winterhold. I could probably get Albert to do it if it wouldn't mean a beating from Selyse. A hundred fifty, final offer.",
+    "string": "Es Cauce Boscoso, no Hibernalia. Probablemente podría conseguir que Albert lo hiciera si no significara una paliza de Selyse. Ciento cincuenta, oferta final.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTorenDialogGreedierAccept",
+    "form_id": "0200848C|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's better.",
+    "string": "Eso es mejor, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200848D|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Then we've got a deal. Drop this off in the Order Chest by the mill, and you'll have your Septims.",
+    "string": "Entonces hay trato. Déjalo en el Cofre de Pedidos junto al molino, y tendrás tus septims.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASTorenDialogGreedierDecline",
+    "form_id": "0200848E|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "My time's worth more than that.",
+    "string": "Khajiit cobra por minuto, y desea ser pagado por los últimos dos minutos desperdiciados escuchando estas tonterías...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASVelynaDialogWhoTopic",
+    "form_id": "02009A27|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who are you?",
+    "string": "¿Y quién eres tú...?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02009A30|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm Velyna Rathvasi. You've probably already met my husband, Belvadyr. He so loves greeting all of our visitors.",
+    "string": "Este es Velyna Rathvasi. Probablemente ya has conocido a mi esposo, Belvadyr. Le encanta saludar a todos nuestros visitantes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASVelynaDialogVillageTopic",
+    "form_id": "02009A29|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can you tell me about the village?",
+    "string": "Dile a <Alias=Player> algo único sobre la aldea, hmm.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASVelynaDialogHelpTopic",
+    "form_id": "02009A2B|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you need help with anything?",
+    "string": "Este ayudará si es necesario, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASVelynaDialogAnyoneTopic",
+    "form_id": "02009A2D|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Has anyone passed through the village lately?",
+    "string": "¿Alguien ha pasado por la aldea últimamente? ¿Quizá alguien inusual?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASVelynaDialogByeTopic",
+    "form_id": "02009A2F|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I ought to be going.",
+    "string": "Este debe marcharse, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASVelynaDialogName",
+    "form_id": "02009A32|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why is this place called Little Vivec?",
+    "string": "¿Cómo obtuvo este lugar el nombre \"Pequeño Vivec\", exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02009A33|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh...such a...just...charming name isn't it? It was all my husband's idea. He's so creative.",
+    "string": "Oh... qué nombre tan... simplemente... encantador, ¿no es así? Fue idea de mi esposo. Es tan creativo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASVelynaDialogServices",
+    "form_id": "02009A34|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What services does the village offer?",
+    "string": "¿La aldea ofrece algún servicio, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASVelynaDialogVillagers",
+    "form_id": "02009A36|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who else lives in the village?",
+    "string": "¿Quién vive en la aldea, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02009A37|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Naturally I live here with my dear husband, Selyse and her...ah...ward Albert live in Selyse's shop, Bal-Ran has that hut of his.",
+    "string": "Naturalmente, vivo aquí con mi querido esposo. Selyse y su... eh... pupilo Albert viven en la tienda de Selyse, Bal-Ran tiene su cabaña.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASVelynaDialogTopic",
+    "form_id": "02009A38|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to ask about something else.",
+    "string": "<Alias=Player> preguntará sobre otra cosa ahora, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASAlbertDialogWhoTopic",
+    "form_id": "02009A43|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hi there, who are you?",
+    "string": "Lunas Brillantes, amigo. ¿Quién eres?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASAlbertDialogParentsTopic",
+    "form_id": "02009A45|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Where are your parents? I don't see any Nords here.",
+    "string": "¿Dónde están tus guardianes, hmm? Los ojos de Khajiit no ven Nórdicos por aquí, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02009A4F|MoonAndStar_MAS.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I got lost, but then I found Selyse, and she said she's like my mom now and she's real real nice, so I guess my parent is in the shop over there. ",
+    "string": "Me perdí, pero luego encontré a Selyse, y dijo que ahora es como mi mamá y es muy, muy amable, así que supongo que mi padre está en la tienda de allá.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASAlbertDialogWhatTopic",
+    "form_id": "02009A47|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What are you doing?",
+    "string": "¿Qué estás haciendo exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASAlbertDialogDogsTopic",
+    "form_id": "02009A49|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I found the three dogs.",
+    "string": "<Alias=Player> encontró a los tres perros, ¿sí? Pulgas y todo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASAlbertDialogLoneTopic",
+    "form_id": "02009A4B|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Still playing apocadypse?",
+    "string": "¿Sigues jugando apocadypse, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02009A57|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yeah, but you can't  play anymore. I'm a lone warrior now! I work alone!",
+    "string": "Sí, pero ya no puedes jugar. ¡Ahora soy un guerrero solitario! ¡Trabajo solo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASAlbertDialogByeTopic",
+    "form_id": "02009A4D|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have to go now. Bye.",
+    "string": "Este se retira... Caza veloz.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASAlbertDialogAccept",
+    "form_id": "02009A52|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can I play?",
+    "string": "Khajiit jugará, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASAlbertDialogDecline",
+    "form_id": "02009A54|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Well, uh, have fun.",
+    "string": "Bueno, eh... diviértete entonces, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogShopTopic",
+    "form_id": "0200C024|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can I see what you have for sale?",
+    "string": "Los ojos de Khajiit desean ver tus artículos en venta, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogVillageTopic",
+    "form_id": "0200C027|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to know more about this village.",
+    "string": "<Alias=Player> desea saber más sobre esta aldea, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogVisitorsTopic",
+    "form_id": "0200C029|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have you had many visitors lately?",
+    "string": "¿Han tenido muchos visitantes últimamente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogHelpTopic",
+    "form_id": "0200C02B|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you need help with anything?",
+    "string": "Este ayudará si es necesario, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogCompleteTopic",
+    "form_id": "0200C02D|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I collected all the items you needed.",
+    "string": "Este ha reunido todos los objetos que necesitabas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogVisitor2Topic",
+    "form_id": "0200C02F|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Bal-Ran told me a powerful man passed through here. Know anything?",
+    "string": "Bal-Ran le dijo a Khajiit que una persona poderosa pasó por aquí. ¿Sabrías algo, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200C053|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmm�if Bal told you...look, I'll say this. ",
+    "string": "Hmm... si Bal te lo dijo... escucha, este dirá esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogNerevarineAliveTopic",
+    "form_id": "0200C031|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I found the man I was looking for. Did you know who he was?",
+    "string": "Khajiit encontró a quien <Alias.Pronoun=Player> buscaba, ¿sí? ¿Sabías quién era, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogNerevarineDeadTopic",
+    "form_id": "0200C033|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I found the man I was looking for. I slew him.",
+    "string": "<Alias=Player> los encontró y los envió al Vacío, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogByeTopic",
+    "form_id": "0200C035|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need to get going.",
+    "string": "Khajiit está en un horario ajustado, y debe marcharse.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogName",
+    "form_id": "0200C038|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why is this village called Little Vivec?",
+    "string": "¿Por qué \"Pequeño Vivec\", hmm? ¿Existe un Vivec más grande, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200C039|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ugh...by Azura...you had to ask, didn't you? Just hearing the words gives me a headache.",
+    "string": "Ugh... por Azura... tenías que preguntar, ¿no? Solo oírlo le da dolor de cabeza a este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogBelvadyr",
+    "form_id": "0200C03A|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You don't get along with Belvadyr, I take it.",
+    "string": "Claramente, tú y Belvadyr no son amigos, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200C03B|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No one gets along with Belvadyr. We take him about as seriously as a mudcrab. Well...not quite. At least mudcrabs have claws.",
+    "string": "Nadie se lleva bien con Belvadyr. Lo tomamos tan en serio como a un cangrejo del fango. Bueno... no tanto. Al menos los cangrejos del fango tienen garras.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200C03B|MoonAndStar_MAS.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Even his wife thinks he's a buffoon. I guess she doesn't mind...and neither do the twins. Yes, both of them.",
+    "string": "Incluso su esposa cree que es un bufón. Supongo que no le molesta... y a los gemelos tampoco. Sí, a ambos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogServices",
+    "form_id": "0200C03C|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What services does this village provide?",
+    "string": "¿Qué servicios podría encontrar un Khajiit aquí, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogDunmer",
+    "form_id": "0200C03E|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is this a Dunmer village?",
+    "string": "¿Es esta una aldea Dunmer, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogVillagers",
+    "form_id": "0200C040|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who else lives in the village?",
+    "string": "¿Quién vive en la aldea, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200C041|MoonAndStar_MAS.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "There's Bal-Ran, who hunts, fishes and protects the village. Velyna's...around...",
+    "string": "Está Bal-Ran, que caza, pesca y protege la aldea. Velyna... está por ahí...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200C041|MoonAndStar_MAS.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "And Belvadyr struts around like a Jarl when if we had a leader at all, it would obviously be Bal-Ran. Bal's too shy to admit it, though.",
+    "string": "Y Belvadyr se pasea como un jarl cuando, si tuviéramos líder, obviamente sería Bal-Ran. Pero Bal es demasiado tímido para admitirlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogTopic",
+    "form_id": "0200C042|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's all I need to know about the village.",
+    "string": "Eso es todo lo que este desea saber sobre la aldea, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogPowerful",
+    "form_id": "0200C044|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm looking for someone. Someone powerful and dangerous.",
+    "string": "Khajiit busca a alguien... alguien poderoso y peligroso, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogBribe",
+    "form_id": "0200C046|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Surely we could work out some sort of deal...",
+    "string": "Seguramente se podría hacer un trato, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogRespect",
+    "form_id": "0200C048|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can respect that.",
+    "string": "<Alias=Player> respetará eso, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogSlick",
+    "form_id": "0200C04A|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No reason.",
+    "string": "Sin razón... Khajiit solo siente curiosidad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogAccept",
+    "form_id": "0200C04D|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sure.",
+    "string": "Ciertamente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200C04E|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Great! Here's a list of what I need. Bring me that and you're three hundred Septims richer, plus a bonus for quality.",
+    "string": "¡Perfecto! Aquí tienes una lista de lo que necesito. Tráeme eso y serás 300 septims más rico, más un bono por calidad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASSelyseDialogDecline",
+    "form_id": "0200C04F|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm too busy right now.",
+    "string": "Khajiit no tiene tiempo para esto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogWhoTopic",
+    "form_id": "0200C06C|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who are you?",
+    "string": "¿Y quién eres tú...?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogVillageTopic",
+    "form_id": "0200C06E|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can you tell me about the village?",
+    "string": "Dile a <Alias=Player> algo único sobre la aldea, hmm.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogVisitorsTopic",
+    "form_id": "0200C070|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have any visitors passed through the village lately?",
+    "string": "¿Algún visitante ha pasado por la aldea últimamente, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogHelpTopic",
+    "form_id": "0200C072|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you need help with anything?",
+    "string": "Este ayudará si es necesario, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogCompleteTopic",
+    "form_id": "0200C074|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Here is the bandit leader's helm, but all the bandits were dead when I arrived.",
+    "string": "Aquí está el yelmo del líder bandido. Pero todos los bandidos ya estaban muertos cuando Khajiit llegó. Honestamente. Confía en este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogTrainingTopic",
+    "form_id": "0200C076|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can you train me to be better at Archery?",
+    "string": "¿Entrenarías a este para ser mejor en Arquería, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogNerevarineAliveTopic",
+    "form_id": "0200C078|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I found the man I was looking for, did you know who he was?",
+    "string": "Khajiit encontró a quien <Alias.Pronoun=Player> buscaba, ¿sí? ¿Sabías quién era, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogNerevarineDeadTopic",
+    "form_id": "0200C07A|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I found the man I was looking for. I killed him.",
+    "string": "<Alias=Player> los encontró y los envió al Vacío, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogByeTopic",
+    "form_id": "0200C07C|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need to get going.",
+    "string": "Khajiit está en un horario ajustado, y debe marcharse.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogName",
+    "form_id": "0200C080|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why is this place called Little Vivec?",
+    "string": "¿Cómo obtuvo este lugar el nombre \"Pequeño Vivec\", exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogClever",
+    "form_id": "0200C082|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you find it clever?",
+    "string": "¿Te parece ingenioso, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogServices",
+    "form_id": "0200C084|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What services does the village provide?",
+    "string": "¿Qué servicios podría encontrar un Khajiit aquí, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogDunmer",
+    "form_id": "0200C086|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is this a Dunmer village?",
+    "string": "¿Es esta una aldea Dunmer, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogLake",
+    "form_id": "0200C088|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why did you choose to settle on the lake?",
+    "string": "¿Por qué elegiste asentarte en el lago, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogVillagers",
+    "form_id": "0200C08A|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who else lives in the village?",
+    "string": "¿Quién vive en la aldea, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogTopic",
+    "form_id": "0200C08C|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to discuss something else.",
+    "string": "Khajiit desea preguntar sobre otra cosa...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogProd",
+    "form_id": "0200C08F|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who were the ones \"of note?\"",
+    "string": "¿Quiénes eran estos \"de importancia\", hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogThanks",
+    "form_id": "0200C091|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I see, thank you.",
+    "string": "Este entiende, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogAccept",
+    "form_id": "0200C095|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Consider it done.",
+    "string": "Este hará que así sea, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogIncentive",
+    "form_id": "0200C097|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need incentive.",
+    "string": "Khajiit necesita... incentivo. (extiende la pata)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogReluctant",
+    "form_id": "0200C099|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Very well, I accept.",
+    "string": "Muy bien, <Alias=Player> acepta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogDecline",
+    "form_id": "0200C09B|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sorry, your hunt is your own.",
+    "string": "Disculpas, pero tu cacería es tuya, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogInvestigate",
+    "form_id": "0200C09E|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You know who did this? Who was it?",
+    "string": "Sabes quién hizo esto, ¿sí? ¿Quién fue, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200C09F|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I may, but...no, you tried to do our village a service. You have a right to know.",
+    "string": "Puede que sí, pero... no, intentaste hacerle un servicio a nuestra aldea. Tienes derecho a saber.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogInfo1",
+    "form_id": "0200C0A0|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Please, can you tell me where he went? It's very important.",
+    "string": "¿Podrías decirle a Khajiit adónde fue, quizá? Es muy importante, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogPoliteEnd",
+    "form_id": "0200C0A2|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That is enough, thank you.",
+    "string": "Eso es suficiente, muchas gracias.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogRudeEnd",
+    "form_id": "0200C0A4|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I suppose that will do.",
+    "string": "Eso bastará... quizá...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200C0A5|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And I suppose I will have to trust your judgement, traveler. The man you seek...he is more than you can imagine. Act wisely.",
+    "string": "Y supongo que tendré que confiar en tu juicio, viajero. El hombre que buscas... es más de lo que puedes imaginar. Actúa con sabiduría.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogDemandMore",
+    "form_id": "0200C0A6|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I knew you knew something! Tell me where he is.",
+    "string": "¡Los sentidos de Khajiit sabían que sabías algo! Ahora, \"derrama los frijoles por todo el suelo\", hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogDemand1",
+    "form_id": "0200C0A8|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You know something. Spit it out.",
+    "string": "Claramente, sabes algo... Khajiit cree que la frase es \"escúpelo hacia afuera\", ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrDialogWhoTopic",
+    "form_id": "0200C61B|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who are you?",
+    "string": "¿Y quién eres tú...?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrDialogVillageTopic",
+    "form_id": "0200C61F|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can you tell me about the village?",
+    "string": "Dile a <Alias=Player> algo único sobre la aldea, hmm.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrDialogVisitorsTopic",
+    "form_id": "0200C621|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Has anyone passed through the village lately?",
+    "string": "¿Alguien ha pasado por la aldea últimamente? ¿Quizá alguien inusual?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrDialogHelpTopic",
+    "form_id": "0200C623|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you need help with anything?",
+    "string": "Este ayudará si es necesario, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrDialogCompleteTopic",
+    "form_id": "0200C625|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I delivered your proclamations.",
+    "string": "<Alias=Player> ha entregado tus proclamaciones, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrDialogByeTopic",
+    "form_id": "0200C627|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I ought to get going.",
+    "string": "<Alias=Player> se marchará ahora, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrDialogName",
+    "form_id": "0200C62B|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why is this place called Little Vivec?",
+    "string": "¿Cómo obtuvo este lugar el nombre \"Pequeño Vivec\", exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrDialogWelp",
+    "form_id": "0200C62D|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Wow...that was...certainly a lot of words.",
+    "string": "Vaya... eso fue... muchas, muchas, muchas palabras innecesarias, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrDialogFlatter",
+    "form_id": "0200C62F|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Golly, you sound like a true visionary.",
+    "string": "¡Suenas como un verdadero visionario para los oídos de Khajiit, en efecto!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrDialogServices",
+    "form_id": "0200C631|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What services does the village offer?",
+    "string": "¿La aldea ofrece algún servicio, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrDialogVillagers",
+    "form_id": "0200C633|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who else lives in the village?",
+    "string": "¿Quién vive en la aldea, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrDialogTopic",
+    "form_id": "0200C635|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to ask about something else.",
+    "string": "<Alias=Player> preguntará sobre otra cosa ahora, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrDialogPowerful",
+    "form_id": "0200C638|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, someone powerful.",
+    "string": "Alguien poderoso, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200C639|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmm...well, there was one gentleman who passed through..he wore armor made in Morrowind, and carried a pair of beautiful blades.",
+    "string": "Hmm... bueno, hubo un caballero que pasó por aquí... llevaba armadura hecha en Morrowind, y portaba un par de hermosas hojas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrDialogSlick",
+    "form_id": "0200C63A|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, just curious.",
+    "string": "No, Khajiit solo tiene curiosidad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrDialogAccept",
+    "form_id": "0200C63E|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "All right, why not?",
+    "string": "Muy bien... ¿por qué no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrDialogGreed",
+    "form_id": "0200C640|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "An official courier deserves official payment.",
+    "string": "Un mensajero oficial merece pago oficial, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200C641|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What? The honor is not enough for you? Very well, I shall offer you fifty Septims, but absolutely no more than that!",
+    "string": "¿Qué? ¿El honor no es suficiente para ti? Muy bien, te ofreceré 50 septims, ¡pero absolutamente no más que eso!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrDialogDecline",
+    "form_id": "0200C642|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Uh, no thanks.",
+    "string": "Khajiit no está interesado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200C643|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What? How dare...I mean, erm, very well. Carry on then.",
+    "string": "¿Qué? ¿Cómo te atreves...? quiero decir, eh, muy bien. Continúa entonces.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrFavorBalRanTopic",
+    "form_id": "0200C648|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a proclamation for you from Belvadyr.",
+    "string": "<Alias=Player> tiene una proclamación para ti de Belvadyr.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrFavorSelyseTopic",
+    "form_id": "0200C650|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a proclamation for you from Belvadyr.",
+    "string": "<Alias=Player> tiene una proclamación para ti de Belvadyr.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200C651|MoonAndStar_MAS.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "By Azura...if only you could sell hot air. We'd be the wealthiest village in Skyrim",
+    "string": "Por Azura... si tan solo pudieras vender aire caliente. ¡Seríamos la aldea más rica de Skyrim!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBelvadyrFavorTorenTopic",
+    "form_id": "0200C653|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a proclamation for you from Belvadyr.",
+    "string": "<Alias=Player> tiene una proclamación para ti de Belvadyr.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestWhoTopic",
+    "form_id": "0200E251|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who are you?",
+    "string": "¿Y quién eres tú...?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestHelp",
+    "form_id": "0200E253|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Anything I can help with?",
+    "string": "¿Hay algo en lo que Khajiit pueda ayudar?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestCourierTopic",
+    "form_id": "0200E256|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I believe you sent for me.",
+    "string": "Mandaste llamar a este, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200E262|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So I did, Dragonborn. Hmm...amazing. You possess so much power, and no one could tell by looking at you.",
+    "string": "Así fue, Sangre de Dragón. Hmm... asombroso. Posees tanto poder, y nadie lo diría al mirarte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestAgainTopic",
+    "form_id": "0200E258|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me again about this job of yours.",
+    "string": "Explica este trabajo a Khajiit otra vez, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestWritTopic",
+    "form_id": "0200E25A|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are all Morag Tong agents easily robbed, or just ones hunting the Nerevarine?",
+    "string": "¿Todos los agentes de la Morag Tong son tan fáciles de robar... o solo los que cazan al Nerevarino, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200E7E8|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What? When did you? Hmm...well, you've removed my mask, so I suppose I must be direct.",
+    "string": "¿Qué? ¿Cuándo hiciste...? Hmm... bueno, has quitado mi máscara, así que supongo que debo ser directo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestManynByeTopic",
+    "form_id": "0200E25C|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I should get going.",
+    "string": "Khajiit debería marcharse ahora...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMandynDragonborn",
+    "form_id": "0200E25E|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Would the Dragonborn suffice?",
+    "string": "Seguramente el Sangre de Dragón sería suficiente, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMandynWimp",
+    "form_id": "0200E260|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ah...well, good luck finding someone.",
+    "string": "Ah... bueno, buena fortuna encontrando a alguien...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMandynJustice",
+    "form_id": "0200E263|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "If it is a matter of justice, then I will gladly help.",
+    "string": "Si es cuestión de justicia, entonces Khajiit estaría honrado de ayudar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200E264|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Excellent. You are as noble as they say. Nonetheless I would feel guilty without rewarding such valor. Five hundred Septims await you if you succeed.",
+    "string": "Excelente. Eres tan noble como dicen. Aun así, me sentiría culpable sin recompensar tal valor. 500 septims te esperan si tienes éxito.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMandynFee",
+    "form_id": "0200E265|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This hero comes with a fee.",
+    "string": "Este héroe viene con tarifa. Montones de tarifas brillantes, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200E266|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And a fee this hero shall have. Does a thousand Septims pique your interest?",
+    "string": "Y una tarifa este héroe tendrá. ¿1,000 septims despiertan tu interés?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestDecline",
+    "form_id": "0200E267|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sorry, do your own dirty work.",
+    "string": "¿Haz tu propio trabajo sucio, hmm? Khajiit tiene estándares, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestFeeAccepted",
+    "form_id": "0200E26A|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That it does.",
+    "string": "Así es, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestHaggler",
+    "form_id": "0200E26C|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm a really, really good hero.",
+    "string": "<Alias=Player> es un muy, muy buen héroe, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestHagglingAccepted",
+    "form_id": "0200E26E|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's better.",
+    "string": "Eso es mejor, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestTooGreedy",
+    "form_id": "0200E270|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I said \"hero\" not \"charity.\"",
+    "string": "<Alias=Player> cree que confundiste \"héroe\" con \"caridad\", ¿sí? Khajiit trabaja por jah [moneda], amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestInfo",
+    "form_id": "0200E272|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you have any other information about the criminal?",
+    "string": "¿Tienes alguna otra información sobre el criminal, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMandynMeantime",
+    "form_id": "0200E274|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What will you do in the meantime?",
+    "string": "¿Qué harás mientras tanto, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestGetStarted",
+    "form_id": "0200E276|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd better get started.",
+    "string": "Este debería comenzar, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestFeeInfo",
+    "form_id": "0200E278|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you have any other information about the criminal?",
+    "string": "¿Tienes alguna otra información sobre el criminal, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestFeeMeantime",
+    "form_id": "0200E279|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What will you do in the meantime?",
+    "string": "¿Qué harás mientras tanto, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestFeeStart",
+    "form_id": "0200E27A|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd better get started.",
+    "string": "Este debería comenzar, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestGreedInfo",
+    "form_id": "0200E27E|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you have any other information about the criminal?",
+    "string": "¿Tienes alguna otra información sobre el criminal, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestGreedMeantime",
+    "form_id": "0200E27F|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What will you do in the meantime?",
+    "string": "¿Qué harás mientras tanto, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestGreedStarted",
+    "form_id": "0200E280|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd better get started.",
+    "string": "Este debería comenzar, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMTAccept",
+    "form_id": "0200E7E9|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I will.",
+    "string": "<Alias=Player> lo hará, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMTAcceptMeantime",
+    "form_id": "0200E7EB|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What will you do in the meantime?",
+    "string": "¿Qué harás mientras tanto, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMTAcceptStarted",
+    "form_id": "0200E7ED|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd better get started.",
+    "string": "Este debería comenzar, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMTFee",
+    "form_id": "0200E7EF|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "For a fee.",
+    "string": "Por una tarifa, sí. Khajiit no trabaja gratis, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200E7F0|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I will grant you a thousand Septims for this criminal's death, and as you now know my nature, I can offer a relic of the Morag tong as well.",
+    "string": "Te concederé 1,000 septims por la muerte de este criminal, y como ahora conoces mi naturaleza, puedo ofrecer también una reliquia de la Morag Tong.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMTGreed",
+    "form_id": "0200E7F1|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's all? This is the Nerevarine, not a common thug.",
+    "string": "Oh, ¿eso es todo, hmm? Este es el Nerevarino, no un matón común...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200E7F2|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Very well, two thousand Septims. That is all I can offer...but the Morag Tong may be more grateful in the future.",
+    "string": "Muy bien, 2,000 septims. Eso es todo lo que puedo ofrecer... pero la Morag Tong podría estar más agradecida en el futuro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMTFeeMeantime",
+    "form_id": "0200E7F3|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What will you do in the meantime?",
+    "string": "¿Qué harás mientras tanto, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMTFeeStart",
+    "form_id": "0200E7F5|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd better get started.",
+    "string": "Este debería comenzar, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMTGreedMeantime",
+    "form_id": "0200E7F7|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What will you do in the meantime?",
+    "string": "¿Qué harás mientras tanto, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMtGreedStart",
+    "form_id": "0200E7F9|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd better get started.",
+    "string": "Este debería comenzar, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMTDuel",
+    "form_id": "0200E7FB|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No way.",
+    "string": "¡De ninguna manera! ¿En serio?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMoreInfoTopic",
+    "form_id": "0200E801|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have you found any more information on the person we seek?",
+    "string": "¿Has descubierto más información sobre ellos, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestExpectingTopic",
+    "form_id": "0200E806|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Expecting me?",
+    "string": "¿Esperabas a este, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestNerevarineBioTopic",
+    "form_id": "0200E808|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who are you?",
+    "string": "¿Y quién eres tú...?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestNerevarineWhoTopic",
+    "form_id": "0200E80A|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You know who I am?",
+    "string": "Sabes quién es este, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestNerevarineWhyTopic",
+    "form_id": "0200E80C|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why are you here?",
+    "string": "¿Por qué estás aquí, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200E81C|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The answer to that lies in the name of these ruins. Kagrenar, named after the Dwemer's Chief Tonal Architect, Lord Kagrenac.",
+    "string": "La respuesta yace en el nombre de estas ruinas. Kagrenar, nombradas en honor al Arquitecto Tonal jefe Dwemer, Lord Kagrenac.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestDisappeared",
+    "form_id": "0200E80F|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Nerevarine? You were supposed to have disappeared.",
+    "string": "¿El Nerevarino, hmm? Se suponía que habías desaparecido, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestBioWhy",
+    "form_id": "0200E811|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why did you leave?",
+    "string": "¿Por qué te fuiste, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200E812|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A thirst for adventure...and no small amount of hubris.",
+    "string": "Una sed de aventura... y no poca arrogancia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200E812|MoonAndStar_MAS.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "After I defeated Hircine on the isle of Solstheim, Tamriel felt so empty. I'd beaten a daedra lord. Nothing else could challenge me. So I left.",
+    "string": "Después de derrotar a Hircine en la isla de Solstheim, Tamriel se sintió tan vacío. Había vencido a un señor Daedra. Nada más podía desafiarme. Así que me fui.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestBioReturn",
+    "form_id": "0200E813|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "When did you return, and how does no one know?",
+    "string": "Khajiit solo tiene una pregunta: ¿Cuándo regresaste? ¿Qué hora era? ¿Quién estaba allí? ¿Por qué volviste? ¿Cómo es que nadie sabe de esto?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestBioWandering",
+    "form_id": "0200E815|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What have you been doing since you returned?",
+    "string": "¿Qué has estado haciendo desde que regresaste, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestNerevarineTopic",
+    "form_id": "0200E817|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let us speak of the present.",
+    "string": "Quizá sea mejor quedarse con el presente, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestNerevarineShame",
+    "form_id": "0200E819|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What does a legendary hero have to be ashamed of?",
+    "string": "¿Qué tiene de qué avergonzarse un héroe legendario, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200E81A|MoonAndStar_MAS.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "When the Red Mountain ravaged Morrowind, when daedra invaded all of Tamriel, where was I? Where was the mighty Nerevarine?",
+    "string": "Cuando Montaña Roja devastó Morrowind, cuando los Daedra invadieron todo Tamriel, ¿dónde estaba yo? ¿Dónde estaba el poderoso Nerevarino?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestNumidium",
+    "form_id": "0200E81D|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "And you think he left something here?",
+    "string": "¿Y crees que dejó algo aquí, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestNumidiumSkip",
+    "form_id": "0200E81F|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Spare me the history lesson.",
+    "string": "Ahorra a este la lección de historia aburrida, ¿sí? Inicio, medio, final... ve.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestAid",
+    "form_id": "0200E821|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You have my aid, Nerevarine.",
+    "string": "Tienes la ayuda de este, Nerevarino.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestNerevarineDestroy",
+    "form_id": "0200ED85|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's you I've been sent to destroy.",
+    "string": "Felicidades, amigo. Estás a punto de presenciar el Vacío en persona. Emocionante, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestNerevarineConvince",
+    "form_id": "0200ED87|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Fair point...I suppose you have my help.",
+    "string": "Buen punto, amigo... <Alias=Player> ayudará.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestHEAVENORHELL",
+    "form_id": "0200ED89|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "My employer's morals aren't my concern. Today your legend ends, Nerevarine.",
+    "string": "Khajiit no se preocupa por cosas simples como la moralidad o el propósito divino, no. A este se le pagó por un trabajo, y ese trabajo es tu cabeza, Nerevarino.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestNotNumidiumTopic",
+    "form_id": "0200ED8C|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "If not a Numidium, then what was it?",
+    "string": "Si no era un Numidium, entonces ¿qué era, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestYayTopic",
+    "form_id": "0200ED8F|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm glad I could help.",
+    "string": "Khajiit se sintió honrado de ayudar en esto, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200ED90|MoonAndStar_MAS.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I have no riches to offer you as payment, but I can give you a weapon instead. Which would you prefer: a bow, a greatsword, or a one-handed mace?",
+    "string": "No tengo riquezas para ofrecerte como pago, pero puedo darte un arma en su lugar. ¿Qué prefieres: un arco, una gran espada o una maza de una mano ?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestRewardTopic",
+    "form_id": "0200ED92|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "A great battle deserves a great reward, don't you think?",
+    "string": "Una gran batalla merece una gran recompensa, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200ED93|MoonAndStar_MAS.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": " I have no riches to offer you as payment, but I can give you a weapon instead. Which would you prefer: a bow, a greatsword, or a one-handed mace?",
+    "string": "No tengo riquezas para ofrecerte como pago, pero puedo darte un arma en su lugar. ¿Qué prefieres: un arco, una gran espada o una maza de una mano?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestBow",
+    "form_id": "0200ED94|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "A bow.",
+    "string": "¿Un arco, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200ED95|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Very well. Thank you again, dragonborn. If you ever need advice, seek me out at the Shrine of Azura. Farewell.",
+    "string": "Muy bien. Gracias de nuevo, Sangre de Dragón. Si alguna vez necesitas consejo, búscame en el Santuario de Azura. Adiós.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestSword",
+    "form_id": "0200ED96|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "A greatsword.",
+    "string": "Una gran espada, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200ED97|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Very well. Thank you again, dragonborn. If you ever need advice, seek me out at the Shrine of Azura. Farewell.",
+    "string": "Muy bien. Gracias de nuevo, Sangre de Dragón. Si alguna vez necesitas consejo, búscame en el Santuario de Azura. Adiós.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMace",
+    "form_id": "0200ED98|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "A mace.",
+    "string": "Una maza, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200ED99|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Very well. Thank you again, dragonborn. If you ever need advice, seek me out at the Shrine of Azura. Farewell.",
+    "string": "Muy bien. Gracias de nuevo, Sangre de Dragón. Si alguna vez necesitas consejo, búscame en el Santuario de Azura. Adiós.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestTHEWHEELOFFATEISTURNING",
+    "form_id": "0200ED9A|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "And miss this chance to kill a legend? I don't think so.",
+    "string": "¿Y perder esta oportunidad de matar a una leyenda? ¡Ja! <Alias=Player> no lo cree, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASBalRanDialogAlreadyDone",
+    "form_id": "02010E0A|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sounds like someone I met in some Dwemer ruins.",
+    "string": "Esto suena a oídos de Khajiit como alguien que este conoció en una ruina Dwemer, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMandynHowTopic",
+    "form_id": "02010E0E|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How did you find me?",
+    "string": "¿Cómo encontraste a Khajiit, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMandynGiveTopic",
+    "form_id": "02010E11|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Here, take it.",
+    "string": "Aquí, tómalo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMandynKeepTopic",
+    "form_id": "02010E13|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's payment for not telling me who my target was.",
+    "string": "Considéralo pago por no explicar quién era el objetivo, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMTWhoTopic",
+    "form_id": "02010E16|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How did you find me?",
+    "string": "¿Cómo encontraste a Khajiit, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02010E17|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A silly question, when you already know who I serve.",
+    "string": "Una pregunta tonta, cuando ya sabes a quién sirvo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestGiveGoodGuyTopic",
+    "form_id": "02010E1B|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Here, take it.",
+    "string": "Aquí, tómalo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestRefuseAgain",
+    "form_id": "02010E1D|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't think so.",
+    "string": "Khajiit no lo cree, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02010E1E|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A pity. Whatever lay in those ruins must have taken its toll on your mind as well as your body. For the Dragonborn to die in such a state...tragic.",
+    "string": "Una lástima. Lo que sea que yacía en esas ruinas debió afectar tu mente tanto como tu cuerpo. Que el Sangre de Dragón muera en tal estado... trágico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASNerevarineShrineDialogWhyTopic",
+    "form_id": "0201138F|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why are you at the Shrine of Azura?",
+    "string": "¿Por qué estás en el Santuario de Azura, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASNerevarineShrineDialogAdviceTopic",
+    "form_id": "02011391|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I came for advice.",
+    "string": "<Alias=Player> está aquí por consejo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASNerevarineShrineDialogTrainingTopic",
+    "form_id": "02011393|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can you train me to better use One-Handed weapons?",
+    "string": "Entrenarás a Khajiit para usar mejor armas de una mano, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASNerevarineShrineDialogBookTopic",
+    "form_id": "02011395|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I found this Dwemer book in Kagrenar. Could you translate it for me?",
+    "string": "Khajiit encontró este libro Dwemer en Kagrenar. ¿Podrías traducirlo, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02011906|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Interesting...this appears to have been written by Lord Kagrenac himself. Quite a find.",
+    "string": "Interesante... esto parece haber sido escrito por el propio Lord Kagrenac. Un gran hallazgo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASNerevarineShrineDialogByeTopic",
+    "form_id": "02011397|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I must be going.",
+    "string": "Este debe marcharse, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASNerevarineShrineDialogScrolls",
+    "form_id": "020118FD|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is it like being a hero chosen by the Elder Scrolls?",
+    "string": "Khajiit siente curiosidad... ¿cómo es ser un héroe elegido por los Elder Scrolls?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASNerevarineShrineDialogTrust",
+    "form_id": "020118FF|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How will I know who to trust?",
+    "string": "¿Cómo sabrá <Alias=Player> en quién confiar, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02011900|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You are the only one who can controls your fate, Dragonborn. Those who understand that may be friends.",
+    "string": "Tú eres el único que puede controlar tu destino, Sangre de Dragón. Aquellos que entienden eso pueden ser amigos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02011900|MoonAndStar_MAS.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Those who would take that from you may simply be misguided...or they may be hidden foes. It is hard to say.",
+    "string": "Aquellos que intentarían arrebatarte eso pueden simplemente estar equivocados... o pueden ser enemigos ocultos. Es difícil de decir.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASNerevarineShrineDialogWar",
+    "form_id": "02011901|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you think of the Skyrim Civil War?",
+    "string": "¿Qué piensa Khajiit sobre la guerra civil de Skyrim, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASNerevarineShrineDialogTopic",
+    "form_id": "02011903|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to speak of something else.",
+    "string": "<Alias=Player> desea saber algo más...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASMainQuestMTFeeAccept",
+    "form_id": "02012EDB|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That will do.",
+    "string": "Eso bastará, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASNerevarineShrineDialogBook2Topic",
+    "form_id": "02013A0E|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have you translated the book I found?",
+    "string": "¿Has traducido el libro, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASAzuraCurseImpossibleTopic",
+    "form_id": "0201A5AC|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I saw you die!",
+    "string": "Espera... ¡los ojos de Khajiit te vieron morir!?!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MASAzuraCurseSnarkTopic",
+    "form_id": "0201A5AE|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You're persistent, I'll give you that.",
+    "string": "Bueno... eres persistente... Khajiit debe concederte eso, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0202F878|MoonAndStar_MAS.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "God or man, you shall fall!",
+    "string": "¡Dios o Hombre, caerás!",
+    "status": "TranslationComplete"
+  }
+]

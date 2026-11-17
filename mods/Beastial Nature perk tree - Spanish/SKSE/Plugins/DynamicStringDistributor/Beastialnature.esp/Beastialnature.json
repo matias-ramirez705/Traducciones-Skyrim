@@ -1,0 +1,164 @@
+[
+  {
+    "editor_id": "ZZZbeastialstrenth",
+    "form_id": "01000808|Beastialnature.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "zFortify Unarmed Damage",
+    "string": "zFortify Unarmed Damage",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzspeedmult",
+    "form_id": "0100080D|Beastialnature.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Beastial Endurance",
+    "string": "Beastial Endurance",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zbeastialstrength",
+    "form_id": "01000807|Beastialnature.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Beastial Strength",
+    "string": "Fuerza Bestial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zbeastialstrength",
+    "form_id": "01000807|Beastialnature.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Increased unarmed damage from your savage nature.",
+    "string": "Aumenta el daño desarmado gracias a tu naturaleza salvaje.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zStrengthofthemoonsability",
+    "form_id": "0100080B|Beastialnature.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Strength of the moons",
+    "string": "Fuerza de las Lunas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzplaceholder2",
+    "form_id": "0100080E|Beastialnature.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Beastial Endurance",
+    "string": "Resistencia Bestial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzBeastialNature",
+    "form_id": "01000800|Beastialnature.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Beastial Nature",
+    "string": "Naturaleza Bestial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzBeastialNature",
+    "form_id": "01000800|Beastialnature.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Power attacks do 10% more damage in both human and beast form. Eating raw deer or rabbit heals 5 times as much.",
+    "string": "Los ataques poderosos infligen 10% mas daño tanto en forma humana como en forma bestial. Comer carne cruda de ciervo o conejo cura 5 veces mas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzBeastialEndurance",
+    "form_id": "01000801|Beastialnature.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Beastial Endurance",
+    "string": "Resistencia Bestial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzBeastialEndurance",
+    "form_id": "01000801|Beastialnature.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Sprinting speed is 10% faster and your power attacks cost 10% less stamina in both Beast and human form.",
+    "string": "La velocidad al esprintar es 10% mas rapida y tus ataques poderosos cuestan 10% menos de estamina tanto en forma bestial como humana.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzBeastialStrength",
+    "form_id": "01000802|Beastialnature.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Beastial Strength",
+    "string": "Fuerza Bestial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zzzBeastialStrength",
+    "form_id": "01000802|Beastialnature.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Unarmed power attacks do 10 additional points of damage and ignore 25% of armor rating.",
+    "string": "Los ataques poderosos desarmados infligen 10 puntos adicionales de daño e ignoran 25% del valor de armadura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zBeastialform",
+    "form_id": "01000803|Beastialnature.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Beastial Form",
+    "string": "Forma Bestial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zBeastialform",
+    "form_id": "01000803|Beastialnature.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Your armor rating is increased by 25 and your stamina regenerates 10% faster.",
+    "string": "Tu valor de armadura aumenta en 25 y tu estamina se regenera 10% mas rapido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zBeastialformr2",
+    "form_id": "01000804|Beastialnature.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Beastialform",
+    "string": "Beastialform",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zBeastialformr2",
+    "form_id": "01000804|Beastialnature.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Your armor rating is increased by 50 and your stamina in increased by 10 and regenerates 20% faster.",
+    "string": "Tu valor de armadura aumenta en 50 y tu estamina aumenta en 10 y se regenera 20% mas rapido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zStrengthofthemoons",
+    "form_id": "0100080C|Beastialnature.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Strength of the moons",
+    "string": "Fuerza de las Lunas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zStrengthofthemoons",
+    "form_id": "0100080C|Beastialnature.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Your health is increased by 25 during the day and 50 and night.",
+    "string": "Tu salud aumenta en 25 durante el dia y en 50 durante la noche.",
+    "status": "TranslationComplete"
+  }
+]

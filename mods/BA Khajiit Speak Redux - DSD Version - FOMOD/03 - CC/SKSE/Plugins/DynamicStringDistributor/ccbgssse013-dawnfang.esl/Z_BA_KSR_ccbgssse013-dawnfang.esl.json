@@ -1,0 +1,47 @@
+[
+  {
+    "editor_id": "ccBGSSSE013_ShieldActMSG",
+    "form_id": "0500099B|ccbgssse013-dawnfang.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Una barrera mágica bloquea el camino.",
+    "string": "Una barrera mágica bloquea el camino. ¡Ziss!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_EndGame02MSG",
+    "form_id": "05000CC0|ccbgssse013-dawnfang.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "La cámara está sellada.",
+    "string": "La cámara está sellada. ¡Esos pobres objetos brillantes están atrapados!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_LockedDoorMSG",
+    "form_id": "05000BA9|ccbgssse013-dawnfang.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Esta puerta se controla desde otro lugar.",
+    "string": "Claramente, esta puerta se controla desde otro lugar.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_LockedDoorMagicMSG",
+    "form_id": "05000F89|ccbgssse013-dawnfang.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Esta puerta se controla por magia.",
+    "string": "Esta puerta está controlada por algún tipo de magia.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_GuardianHitMSG",
+    "form_id": "05000D58|ccbgssse013-dawnfang.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Tu ataque no tiene efecto.",
+    "string": "Lamentablemente, el ataque no tiene efecto.  ",
+    "status": "TranslationComplete"
+  }
+]

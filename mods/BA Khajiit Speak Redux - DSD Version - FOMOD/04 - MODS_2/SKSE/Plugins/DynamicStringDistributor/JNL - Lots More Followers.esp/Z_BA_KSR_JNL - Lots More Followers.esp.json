@@ -1,0 +1,200 @@
+[
+  {
+    "editor_id": "JNLBQ01QuestTopicTopic",
+    "form_id": "02003E09|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm looking for work. Have any?",
+    "string": "Khajiit está buscando trabajo, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JNLBQ01QuestStarterBranchTopic",
+    "form_id": "02003E0E|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm looking for work.",
+    "string": "Khajiit está buscando trabajo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JNLBQ01UpdateBranchTopic",
+    "form_id": "02005E6C|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "About the bounty letter...",
+    "string": "Khajiit desea hablar sobre la carta de recompensa...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JNLBQ01Notyet",
+    "form_id": "02005E6E|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, not yet.",
+    "string": "Aún no, no. Este Khajiit todavía necesita manejar la situación.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02005E6F|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alright then.",
+    "string": "Muy bien entonces.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JNLBQ01Yes",
+    "form_id": "02005E70|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes! The bandit leader at <Alias=BountyLocation> is dead.",
+    "string": "¡En efecto! El líder bandido en <Alias=BountyLocation> está muerto, junto con todos sus otros bandidos de cola dulce wafiits...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02005E72|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's really great we're friends.  I'm truly grateful.  Please accept this as a token of my appreciation.",
+    "string": "Es realmente bueno que seamos amigos. Este Khajiit está verdaderamente agradecido. Por favor acepta esto como muestra de apreciación.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02005E72|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Yes, we did it! We killed the bandit leader!",
+    "string": "¡Guau! ¡Está hecho, amigo! El líder bandido está muerto, y este apenas perdió nada del pelaje de <Alias.PronounPosObj=Player> en el proceso!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JNLOrcFollowerMainBranchTopic",
+    "form_id": "02007977|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You look troubled.",
+    "string": "Te ves preocupado, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JNLOrcFollowerWhat",
+    "form_id": "02007979|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is it?",
+    "string": "¿Qué pasa, hmm? Confía en Khajiit.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JNLOrcFollowerRead",
+    "form_id": "0200797B|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What troubles you?",
+    "string": "¿Qué te preocupa, hmm? Este no es de la misma tribu, pero aún podría ayudar, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JNLOrcFollowerQSMainBranchTopic",
+    "form_id": "02007981|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm looking for work. Know any?",
+    "string": "Khajiit está buscando trabajo, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JNLOrcFollowerTaskDoneTopic",
+    "form_id": "02007984|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "About your note...",
+    "string": "Khajiit está buscando trabajo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JNLOrcFollowerLater",
+    "form_id": "02007986|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sorry, I'll have to work on it later.",
+    "string": "Lo siento, pero este Khajiit no está interesado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JNLOrcFollowerYes",
+    "form_id": "02007988|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll do it for you.",
+    "string": "Khajiit hará esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JNLOrcFollowerDone",
+    "form_id": "0200798A|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The task is done. The leader at <Alias=BountyLocation> is dead.",
+    "string": "El contrato ha sido completado. El líder en <Alias=BountyLocation> está muerto... y no solo parcialmente muerto, sino completamente muerto, en efecto. Sabes la diferencia, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200798B|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Looks like you're still in one piece. ",
+    "string": "Parece que sigues entero. Y más importante aún, el libro también. Gracias.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JNLMC01QuestBranchTopic",
+    "form_id": "020126FA|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have a note for you from Glaum. Mira may be on her way for another attack.",
+    "string": "<Alias=Player> tiene una nota para ti de Glaum. ¡Parece que Mira podría volver para otro ataque! No es que este Khajiit haya leído la nota... umm...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020126FB|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "By the Gods!  I'm going up there to stop her! This cycle must end!",
+    "string": "¡Por los dioses! ¡Este subirá allá para detenerla! ¡Este ciclo debe terminar!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JNLMC01GoGoTopic",
+    "form_id": "02012703|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll help you take down Mira. Let's go!",
+    "string": "Khajiit desea ayudar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JNLMC01NoGoTopic",
+    "form_id": "02012708|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need some time before I decide to help you.",
+    "string": "Khajiit necesita un momento...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JNLMC01ThankYouTopic",
+    "form_id": "02013200|JNL - Lots More Followers.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This feud you have with Mira is finally over.",
+    "string": "Es bueno para los ojos de Khajiit ver que esta interminable disputa con Mira finalmente terminó, amigo.",
+    "status": "TranslationComplete"
+  }
+]

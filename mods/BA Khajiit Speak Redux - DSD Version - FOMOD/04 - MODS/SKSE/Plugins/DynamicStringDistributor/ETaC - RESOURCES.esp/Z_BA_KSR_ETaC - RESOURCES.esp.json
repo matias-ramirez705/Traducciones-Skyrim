@@ -1,0 +1,11 @@
+[
+  {
+    "editor_id": "mjb_BathMessage",
+    "form_id": "050100C1|ETaC - RESOURCES.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You feel refreshed. Bonus granted to health, magicka and stamina.",
+    "string": "¡Ah! Refrescante, en verdad. (bonificación otorgada a salud, magia y aguante)",
+    "status": "TranslationComplete"
+  }
+]

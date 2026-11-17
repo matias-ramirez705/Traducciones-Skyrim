@@ -1,0 +1,54 @@
+$NAME_Aemar the Unworthy	Aemar el Indigno
+$DESC_Aemar the Unworthy	Derrota al jefe de Túmulo Sangrehelada
+$NAME_The Wolf of Solitude	El lobo de Soledad
+$DESC_The Wolf of Solitude	Derrota al jefe de las catacumbas inferiores de Soledad
+$NAME_Above the Garden	Sobre el jardín
+$DESC_Above the Garden	Derrota al jefe del Mirador del Jardín de Piedra
+$NAME_Seat of the Spiders	El refugio de las arañas
+$DESC_Seat of the Spiders	Derrota al jefe del Templo de Cronvangr
+$NAME_Frozen Coven	Aquelarre helado
+$DESC_Frozen Coven	Derrota a los jefes de la Fosa de Bjorn y Fryse
+$NAME_Condemned to the Depths	Condenados a las profundidades
+$DESC_Condemned to the Depths	Derrota a los jefes de Túmulo de Medianoche y la Arboleda Subterránea
+$NAME_Cavern of Nightmares	Caverna de las pesadillas
+$DESC_Cavern of Nightmares	Derrota al jefe de la Cueva del Clamatormentas
+$NAME_Legacy of the Lothid	Legado de los Lothid
+$DESC_Legacy of the Lothid	Derrota a los jefes de las Profundidades de Vientofilo y los Ciegos
+$NAME_Behold the Berne	Contempla a los Berne
+$DESC_Behold the Berne	Derrota al jefe de las Cuevas de Varstaad
+$NAME_Horrors From the Void	Horrores del Vacío
+$DESC_Horrors From the Void	Derrota al jefe de la Hondonada Sin Luz
+$NAME_The Bloodfire Amulet	El amuleto de Fuegosangre
+$DESC_The Bloodfire Amulet	Consigue el amuleto de Fuegosangre
+$NAME_Silence the Spy	Silencia al espía
+$DESC_Silence the Spy	Mata a Domna Magia
+$NAME_A Tale of Blood and Snow	Un relato de sangre y nieve
+$DESC_A Tale of Blood and Snow	Decide el futuro de los vampiros de Skyrim
+$NAME_Savior of Skyrim	Salvador de Skyrim
+$DESC_Savior of Skyrim	Ayuda a Ciirta Antabolis a proteger Skyrim
+$NAME_Might of the Quarra	El poder de los Quarra
+$DESC_Might of the Quarra	Decide el futuro de los Quarra
+$NAME_Superiority of the Spiders	Supremacía de las arañas
+$DESC_Superiority of the Spiders	Decide el futuro de los Cronvangr
+$NAME_Highly Specialized	Altamente especializado
+$DESC_Highly Specialized	Completa una misión especial de facción
+$NAME_Seeker of Specalties	Buscador de especialidades
+$DESC_Seeker of Specalties	Completa dos misiones especiales de facción
+$NAME_Superior Specialist	Especialista superior
+$DESC_Superior Specialist	Completa tres misiones especiales de facción
+$NAME_Skyrim's Supreme Specialist	El especialista supremo de Skyrim
+$DESC_Skyrim's Supreme Specialist	Completa cuatro misiones especiales de facción
+$NAME_Playing Favorites	Con favoritos
+$DESC_Playing Favorites	Completa una misión de favor
+$NAME_Highly Favored	Muy favorecido
+$DESC_Highly Favored	Completa tres misiones de favor
+$NAME_Full of Favors	Lleno de favores
+$DESC_Full of Favors	Completa cinco misiones de favor
+$NAME_Loyal Cronvangr	Lealtad a los Cronvangr
+$DESC_Loyal Cronvangr	Completa 50 misiones radiantes para los Cronvangr
+$NAME_Quality Quarra	Excelencia Quarra
+$DESC_Quality Quarra	Completa 50 misiones radiantes para los Quarra
+$NAME_Virtuous Vigilant	Vigilante virtuoso
+$DESC_Virtuous Vigilant	Completa 50 misiones radiantes para los Vigilantes de Ciirta
+$NAME_The Truth of the Tale	La verdad del relato
+$DESC_The Truth of the Tale	Descubre toda la historia de boca de Viatrix

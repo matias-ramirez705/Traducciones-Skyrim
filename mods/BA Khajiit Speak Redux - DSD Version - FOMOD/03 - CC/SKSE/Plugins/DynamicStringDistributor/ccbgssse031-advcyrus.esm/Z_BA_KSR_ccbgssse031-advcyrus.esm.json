@@ -1,0 +1,56 @@
+[
+  {
+    "editor_id": "ccBGSSSE031_QUEST_BribeTopic",
+    "form_id": "05000FCA|ccbgssse031-advcyrus.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Quiero echar un vistazo por esta celda. ¿Basta con esto para abrirla? (<BribeCost> de oro)",
+    "string": "Khajiit desea investigar esta celda. Esto es suficiente para abrirla, ¿sí? (<BribeCost> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE031_QUEST_PersuadeTopic",
+    "form_id": "05000FCC|ccbgssse031-advcyrus.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tengo que examinar esta celda. ¿Me la puedes abrir? (Persuadir)",
+    "string": "Khajiit debe inspeccionar esta celda. Ábranla, ¿sí? (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE031_QUEST_IntimidateTopic",
+    "form_id": "05000FD0|ccbgssse031-advcyrus.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Quiero algo que hay en esta celda. O la abres, o te rajo. (Intimidar)",
+    "string": "Khajiit desea algo que está en esta celda. Así que ábranla, o <Alias=Player> los abrirá. (Intimidar)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGS_QUESTPersuade01Topic",
+    "form_id": "05000FD3|ccbgssse031-advcyrus.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tengo que examinar esta celda. ¿Me la puedes abrir? (Persuadir)",
+    "string": "Khajiit debe inspeccionar esta celda. Ábranla, ¿sí? (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGS_QUESTIntimidateTopic",
+    "form_id": "05000FD7|ccbgssse031-advcyrus.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Quiero algo que hay en esta celda. O la abres, o te rajo. (Intimidar)",
+    "string": "Khajiit desea algo que está en esta celda. Así que ábranla, o <Alias=Player> los abrirá. (Intimidar)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGS_QUESTBribeTopic",
+    "form_id": "05000FDA|ccbgssse031-advcyrus.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Quiero echar un vistazo por esta celda. ¿Basta con esto para abrirla? (100 de oro)",
+    "string": "Khajiit desea investigar esta celda. ¿Será esto suficiente para abrirla, quizás? (100 septims)  ",
+    "status": "TranslationComplete"
+  }
+]

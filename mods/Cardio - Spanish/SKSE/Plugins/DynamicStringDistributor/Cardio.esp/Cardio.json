@@ -1,0 +1,119 @@
+[
+  {
+    "editor_id": "ZoruCardioRegenEffect",
+    "form_id": "02000D6D|Cardio.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cardio Regenerate Stamina",
+    "string": "Cardio Regeneración de Aguante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZoruCardioRegenEffect",
+    "form_id": "02000D6D|Cardio.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Stamina regenerates <mag>% fastser.",
+    "string": "El aguante se regenera un <mag>% más rápido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZoruCardioFortify",
+    "form_id": "02000D6B|Cardio.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cardio Fortify Stamina",
+    "string": "Cardio Fortalecer Aguante ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZoruCardioRank2",
+    "form_id": "02000D63|Cardio.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fair Cardio",
+    "string": "Cardio Decente",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZoruCardioRank2",
+    "form_id": "02000D63|Cardio.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Your cardio has improved. You feel like you have more endurance, but it still can be improved. (+10 Stamina Points)",
+    "string": "Tu resistencia ha mejorado. Sientes que tienes más aguante, aunque todavía puedes mejorar. (+10 puntos de Aguante)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZoruCardioRank3",
+    "form_id": "02000D65|Cardio.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Great Cardio",
+    "string": "Cardio Excelente",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZoruCardioRank3",
+    "form_id": "02000D65|Cardio.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Your cardio has improved further. You feel more in shape and you feel yourself recover faster (+25 Stamina and 5% Stamina Regen)",
+    "string": "Tu resistencia ha mejorado aún más. Te sientes en mejor forma y te recuperas más rápido. (+25 de Aguante y +5% de regeneración de Aguante)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZoruCardioRank4",
+    "form_id": "02000D67|Cardio.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Superb Cardio",
+    "string": "Cardio Excepcional",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZoruCardioRank4",
+    "form_id": "02000D67|Cardio.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You cardio is exceptional. You also feel like you can recover even faster. (+50 Stamina Points and +10% Stamina Regen)",
+    "string": "Tu resistencia es sobresaliente. También sientes que puedes recuperarte incluso más rápido. (+50 puntos de Aguante y +10% de regeneración de Aguante)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZoruCardioRank5",
+    "form_id": "02000D69|Cardio.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Unmatched Cardio",
+    "string": "Cardio Inigualable",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZoruCardioRank5",
+    "form_id": "02000D69|Cardio.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You may have the best cardio in Tamriel except for those couriers. You recover at fast speeds as well. (+100  Stamina and +25% Stamina Regen)",
+    "string": "Tal vez tengas la mejor resistencia de todo Tamriel, salvo por esos mensajeros. También te recuperas con gran velocidad. (+100 de Aguante y +25% de regeneración de Aguante)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZoruCardioRank1",
+    "form_id": "02000D62|Cardio.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Poor Cardio",
+    "string": "Cardio Deficiente",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZoruCardioRank1",
+    "form_id": "02000D62|Cardio.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "My cardio is poor. If I run around, maybe I can improve it.",
+    "string": "Mi resistencia es pobre. Tal vez si corro un poco, pueda mejorarla.",
+    "status": "TranslationComplete"
+  }
+]

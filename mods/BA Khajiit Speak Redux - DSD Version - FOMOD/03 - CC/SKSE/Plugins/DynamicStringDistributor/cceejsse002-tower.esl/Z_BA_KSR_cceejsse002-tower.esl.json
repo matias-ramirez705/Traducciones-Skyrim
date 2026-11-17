@@ -1,0 +1,20 @@
+[
+  {
+    "editor_id": "ccEEJSSE002_DisplayLackMsg",
+    "form_id": "05000CAB|cceejsse002-tower.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No tienes el objeto requerido.",
+    "string": "Claramente, algo falta aquí...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE002_DoorUnlockedMsg",
+    "form_id": "05000D1C|cceejsse002-tower.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Unas fuerzas misteriosas han abierto la puerta de la torre.",
+    "string": "La puerta de la torre fue desbloqueada por fuerzas misteriosas... Inquietante, ¿no?",
+    "status": "TranslationComplete"
+  }
+]

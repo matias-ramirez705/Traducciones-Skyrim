@@ -1,0 +1,335 @@
+[
+  {
+    "editor_id": "_M_QuestMidwoodKillAnimalRewardTopic",
+    "form_id": "07000804|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias=Dungeon> has been cleared, I'm here for the bounty.",
+    "string": "<Alias=Dungeon> ha sido limpiado, amigo. Este Khajiit cree que con algo de pintura y un poco de arte, podría ser una mazmorra un poco menos horrible...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodGatherIngrLowRewardTopic",
+    "form_id": "07000805|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodRetrieveWildernessRewardTopic",
+    "form_id": "07000806|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Un <Alias.BaseName=Item> para ti, amigo! Recién salido del... umm... asunto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodGatherIngrMedRewardTopic",
+    "form_id": "07000807|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodGatherIngrHighRewardTopic",
+    "form_id": "07000808|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodGatherInnRewardTopic",
+    "form_id": "07000809|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you needed.",
+    "string": "El <Alias=Item> que ordenaste está aquí, amigo. Siempre es alegre recibir regalos, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodGatherSoulGemLowRewardTopic",
+    "form_id": "0700080A|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Este Khajiit tiene algunos <Alias=Item>s para ti. Estaban así cuando <Alias.Pronoun=Player> los recogió. Confía en este, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodGatherSoulGemMedRewardTopic",
+    "form_id": "0700080B|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Este Khajiit tiene algunos <Alias=Item>s para ti. Estaban así cuando <Alias.Pronoun=Player> los recogió. Confía en este, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodGatherSoulGemHighRewardTopic",
+    "form_id": "0700080C|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodCourierLetterLowAcceptTopic",
+    "form_id": "0700080D|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodCourierLetterLowDeliverTopic",
+    "form_id": "0700080E|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=Player> tiene una carta para ti de <Alias=QuestGiver> de <Alias=City>. Está mojada por la lluvia. Este Khajiit ciertamente no la dejó caer accidentalmente al río...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodCourierWeaponLowAcceptTopic",
+    "form_id": "0700080F|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodCourierWeaponLowDeliverTopic",
+    "form_id": "07000810|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma que <Alias=QuestGiver> de <Alias=City> quiso enviarte. Recuerda usar el lado puntiagudo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodGatherOreLowRewardTopic",
+    "form_id": "07000811|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodGatherOreMedRewardTopic",
+    "form_id": "07000812|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodGatherOreHighRewardTopic",
+    "form_id": "07000813|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodGatherOreVeryHighRewardTopic",
+    "form_id": "07000814|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Este Khajiit tiene algunos <Alias=Item>s para ti. Estaban así cuando <Alias.Pronoun=Player> los recogió. Confía en este, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodCourierLetterMedAcceptTopic",
+    "form_id": "07000815|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodCourierLetterMedDeliverTopic",
+    "form_id": "07000816|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=Player> tiene una carta para ti de <Alias=QuestGiver> de <Alias=City>. Está mojada por la lluvia. Este Khajiit ciertamente no la dejó caer accidentalmente al río...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodCourierLetterHighAcceptTopic",
+    "form_id": "07000817|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodCourierLetterHighDeliveryTopic",
+    "form_id": "07000818|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=Player> tiene una carta para ti de <Alias=QuestGiver> de <Alias=City>. Está mojada por la lluvia. Este Khajiit ciertamente no la dejó caer accidentalmente al río...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodCourierWeaponMedAcceptTopic",
+    "form_id": "07000819|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodCourierWeaponMedDeliveryTopic",
+    "form_id": "0700081A|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma que <Alias=QuestGiver> de <Alias=City> quiso enviarte. Recuerda usar el lado puntiagudo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodCourierWeaponHighAcceptTopic",
+    "form_id": "0700081B|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodCourierWeaponHighDeliveryTopic",
+    "form_id": "0700081C|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma que <Alias=QuestGiver> de <Alias=City> quiso enviarte. Recuerda usar el lado puntiagudo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodKillBanditRewardTopic",
+    "form_id": "0700081D|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The leader of <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El líder de <Alias=Dungeon> está muerto, sí. ¿Hay compensación adicional por cada esbirro que <Alias=Player> también haya eliminado, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodKillGiantRewardTopic",
+    "form_id": "0700081E|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The giant at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El Gigante en <Alias=Dungeon> está muerto. Este Khajiit está aquí por la recompensa, y alguien interesado en comprar estos enormes dedos del pie...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodKillDragonRewardTopic",
+    "form_id": "0700081F|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The dragon at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El dragón en <Alias=Dungeon> ha tenido su “revisión de cuello a cabeza”... ¡y este Khajiit le ha dado un certificado limpio de muerte, en efecto! ¿Gracioso, no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodRetrieveHideoutRewardTopic",
+    "form_id": "07000820|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Un <Alias.BaseName=Item> para ti, amigo! Recién salido del... umm... asunto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodRetrieveRuinsRewardTopic",
+    "form_id": "07000821|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodTrackThiefRewardTopic",
+    "form_id": "0700082A|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Un <Alias.BaseName=Item> para ti, amigo! Recién salido del... umm... asunto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodCourierPotionLowAcceptTopic",
+    "form_id": "0700082B|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodCourierPotionLowDeliverTopic",
+    "form_id": "0700082D|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Esta poción fue enviada desde <Alias=QuestGiver> en <Alias=City> para ti. Por cierto, sabe terrible... no es que este Khajiit haya probado un poco... dos veces...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodCourierPotionHighAcceptTopic",
+    "form_id": "0700082E|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodCourierPotionMedAcceptTopic",
+    "form_id": "0700082F|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodCourierPotionHighDeliveryTopic",
+    "form_id": "07000831|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Esta poción fue enviada desde <Alias=QuestGiver> en <Alias=City> para ti. Por cierto, sabe terrible... no es que este Khajiit haya probado un poco... dos veces...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestMidwoodCourierPotionMedDeliveryTopic",
+    "form_id": "07000833|Missives - Midwood Isle.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Esta poción fue enviada desde <Alias=QuestGiver> en <Alias=City> para ti. Por cierto, sabe terrible... no es que este Khajiit haya probado un poco... dos veces...",
+    "status": "TranslationComplete"
+  }
+]

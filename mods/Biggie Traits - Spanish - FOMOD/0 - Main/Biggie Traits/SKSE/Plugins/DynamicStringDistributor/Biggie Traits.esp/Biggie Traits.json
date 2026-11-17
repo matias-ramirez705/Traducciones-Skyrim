@@ -1,0 +1,2198 @@
+[
+  {
+    "editor_id": "Traits_SpriggansFaction",
+    "form_id": "050000B1|Biggie Traits.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Tree people.",
+    "string": "Gente árbol.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MudcrabFaction",
+    "form_id": "0500004A|Biggie Traits.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Crab people... Crab people...",
+    "string": "Gente cangrejo... Gente cangrejo...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_PickTraitEffect",
+    "form_id": "05000003|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Select Traits",
+    "string": "Seleccionar Rasgos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MovespeedBuff",
+    "form_id": "05000007|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Light Foot Movement Speed Buff",
+    "string": "Rasgo: Buff de Velocidad de Movimiento de Pie Ligero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MoveNoiseBuff",
+    "form_id": "05000008|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Light Foot Movement Noise",
+    "string": "Rasgo: Ruido de Movimiento de Pie Ligero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MovespeedDebuffEffect",
+    "form_id": "05000009|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Light Foot Movement Speed",
+    "string": "Rasgo: Velocidad de Movimiento de Pie Ligero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_UnboundHandsPos1",
+    "form_id": "0500000B|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Unbound Hands Unarmed",
+    "string": "Rasgo: Manos Desatadas Desarmado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_UnboundHandsNeg1",
+    "form_id": "0500000C|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Unbound Hands Unarmed",
+    "string": "Rasgo: Manos Desatadas Desarmado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_SwimmerPos1",
+    "form_id": "0500000D|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Swimmer",
+    "string": "Rasgo: Nadador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_SwimmerPos2",
+    "form_id": "0500000E|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Swimmer",
+    "string": "Rasgo: Nadador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_SwimmerPos3",
+    "form_id": "0500000F|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Swimmer",
+    "string": "Rasgo: Nadador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_SwimmerNeg1",
+    "form_id": "05000010|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Swimmer",
+    "string": "Rasgo: Nadador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_SwimmerNeg2",
+    "form_id": "05000012|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Swimmer",
+    "string": "Rasgo: Nadador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_FastShotPos1",
+    "form_id": "05000014|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Fast Shot",
+    "string": "Rasgo: Disparo Rápido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_DisciplinedNeg1",
+    "form_id": "05000017|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Disciplined",
+    "string": "Rasgo: Disciplinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AuNaturelNeg1",
+    "form_id": "05000018|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Au Naturel Negative 1",
+    "string": "Rasgo: Al Natural Negativo 1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AuNaturelNeg2",
+    "form_id": "0500001A|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Au Naturel Negative 2",
+    "string": "Rasgo: Al Natural Negativo 2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AdrenalineRushPos1",
+    "form_id": "0500001C|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Adrenaline Rush",
+    "string": "Rasgo: Subidón de adrenalina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BulwarkPos1",
+    "form_id": "05000022|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Bulwark",
+    "string": "Rasgo: Murallas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BulwarkPos2",
+    "form_id": "05000023|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Bulwark",
+    "string": "Rasgo: Murallas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BulwarkNeg1",
+    "form_id": "05000025|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Bulwark",
+    "string": "Rasgo: Murallas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_PacifistPos1",
+    "form_id": "05000027|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Pacifist",
+    "string": "Rasgo: Pacifista",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BadNaturedNeg1",
+    "form_id": "05000029|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Bad Natured Effect Proc",
+    "string": "Rasgo: Efecto de Mala Naturaleza",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_FocusedPos1",
+    "form_id": "0500002C|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Focused",
+    "string": "Rasgo: Enfoque",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_FocusedPos2",
+    "form_id": "0500002D|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Focused",
+    "string": "Rasgo: Enfoque",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Witcher",
+    "form_id": "05000030|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Witcher",
+    "string": "Rasgo: Brujo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_WitcherSlot1",
+    "form_id": "05000033|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Traits Potion Toxicity Slot 1",
+    "string": "Ranura de Toxicidad de Poción de Rasgos 1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_WitcherSlot2",
+    "form_id": "05000034|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Traits Potion Toxicity Slot 2",
+    "string": "Ranura de Toxicidad de Poción de Rasgos 2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_WitcherSlot3",
+    "form_id": "05000035|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Traits Potion Toxicity Slot 3",
+    "string": "Ranura de Toxicidad de Poción de Rasgos 3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Nosferatu",
+    "form_id": "0500003A|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Nosferatu",
+    "string": "Rasgo: Nosferatu",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_NosferatuPos1",
+    "form_id": "0500003B|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Restore Health & Stamina",
+    "string": "Restaurar Salud y Estamina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_NosferatuPos1",
+    "form_id": "0500003B|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Restore <mag> health & stamina for <dur> seconds.",
+    "string": "Restaurar <mag> salud y estamina durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_NosferatuPos2",
+    "form_id": "0500003C|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Restore Magicka",
+    "string": "Restaurar magia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_NosferatuPos2",
+    "form_id": "0500003C|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Restore <mag> magicka for <dur> seconds.",
+    "string": "Restaurar <mag> magia durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_NosferatuPos3",
+    "form_id": "0500003D|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Movement Speed",
+    "string": "Velocidad de Movimiento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_NosferatuPos3",
+    "form_id": "0500003D|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Movement speed is increased by <mag> for <dur> seconds.",
+    "string": "La velocidad de movimiento aumenta en <mag> durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Skilled",
+    "form_id": "0500003E|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Skilled",
+    "string": "Rasgo: Hábil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Addict",
+    "form_id": "05000041|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Addict",
+    "string": "Rasgo: Adicto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MasterofDestiny",
+    "form_id": "05000044|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Permanent Trait: Master of Destiny",
+    "string": "Rasgo Permanente: Maestro del Destino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AddictMonitorEffect",
+    "form_id": "05000045|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait Addict Monitor Effect",
+    "string": "Efecto de Monitoreo de Rasgo: Adicto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AddictNeg1",
+    "form_id": "05000048|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Addict Stagger",
+    "string": "Adicto Aturdido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_DovahTinvaak",
+    "form_id": "0500004B|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Dovah Tinvaak",
+    "string": "Rasgo: Dovah Tinvaak",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_WayoftheVoice",
+    "form_id": "0500004E|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Way of the Voice",
+    "string": "Rasgo: Camino de la Voz",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BadNaturedNeg1DamageEffect",
+    "form_id": "05000056|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Bad Natured Health Damage Effect",
+    "string": "Rasgo: Efecto de Daño a la Salud de Mala Naturaleza",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BadNaturedNeg1DamageEffect",
+    "form_id": "05000056|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Wearing a divine amulet hurts you <mag> damage per second.",
+    "string": "Llevar un amuleto divino te hace daño de <mag> por segundo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_ElementalConduit",
+    "form_id": "05000057|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Elemental Conduit",
+    "string": "Rasgo: Conducto Elemental",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MarathonRunner",
+    "form_id": "0500005A|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Marathon Runner",
+    "string": "Rasgo: Corredor de Maratón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MarathonRunnerPos1",
+    "form_id": "0500005C|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Marathon Runner Positive",
+    "string": "Rasgo: Corredor de Maratón Positivo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Giantkin",
+    "form_id": "0500005D|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Giantkin",
+    "string": "Rasgo: Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MarathonRunnerNeg1",
+    "form_id": "0500005E|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Marathon Runner Negative",
+    "string": "Rasgo: Corredor de Maratón Negativo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_RemoveTraitFX",
+    "form_id": "05000069|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "SFX for trait removal",
+    "string": "Efecto SFX para eliminación de rasgo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Angler",
+    "form_id": "0500006E|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Angler",
+    "string": "Rasgo: Pescador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AnglerNeg1",
+    "form_id": "05000070|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Weakness to Shock",
+    "string": "Debilidad a la descarga",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Druid",
+    "form_id": "05000079|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Druid",
+    "string": "Rasgo: Druida",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_DruidNeg1",
+    "form_id": "0500007A|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Weakness to Fire",
+    "string": "Debilidad al fuego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MasterofOne",
+    "form_id": "05000083|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Permanent Trait: Master of One",
+    "string": "Rasgo permanente: Maestro de una sola disciplina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Autodidact",
+    "form_id": "05000085|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Autodidact",
+    "string": "Rasgo: Autodidacta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GamblerStackingBuffEffect01",
+    "form_id": "0500008F|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Gambler: Stacking Buff 01",
+    "string": "Apostador: Buff Acumulativo 01",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GamblerStackingBuffEffect02",
+    "form_id": "05000090|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Gambler: Stacking Buff 02",
+    "string": "Apostador: Buff Acumulativo 02",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GamblerStackingBuffEffect03",
+    "form_id": "05000091|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Gambler: Stacking Buff 03",
+    "string": "Apostador: Buff Acumulativo 03",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GamblerStackingBuffEffect04",
+    "form_id": "05000092|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Gambler: Stacking Buff 04",
+    "string": "Apostador: Buff Acumulativo 04",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GamblerStackingBuffEffect05",
+    "form_id": "05000093|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Gambler: Stacking Buff 05",
+    "string": "Apostador: Buff Acumulativo 05",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Homeowner",
+    "form_id": "050000B4|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Permanent Trait: Homeowner",
+    "string": "Rasgo Permanente: Propietario",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HomeownerEndVisit",
+    "form_id": "050000C5|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Let me out!",
+    "string": "¡Déjame salir!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HomeownerVisitHouseEffect",
+    "form_id": "050000CB|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Visit House Script Effect",
+    "string": "Efecto del guion de visita a la casa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HiddenPotentialEffect",
+    "form_id": "050000D0|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Hidden Potential",
+    "string": "Potencial Oculto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HiddenPotentialEffect",
+    "form_id": "050000D0|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "A rare brew that unlocks new facets of your being. Drinking this elixir allows you to choose an extra trait, shaping your destiny further.",
+    "string": "Una bebida rara que desbloquea nuevas facetas de tu ser. Al beber este elixir, puedes elegir un rasgo adicional, moldeando aún más tu destino.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BlankSlateEffect",
+    "form_id": "050000D1|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Blank Slate",
+    "string": "Pizarra en Blanco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BlankSlateEffect",
+    "form_id": "050000D1|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "A potent concoction that washes away all defining traits, leaving you a blank canvas once more.",
+    "string": "Una poderosa mezcla que elimina todos los rasgos definitorios, dejándote como un lienzo en blanco una vez más.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Introvert",
+    "form_id": "050000D5|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Introvert",
+    "string": "Rasgo: introvertido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AnglerAttackEffect",
+    "form_id": "050000D7|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Angler trait attack script",
+    "string": "Script de ataque de rasgo de pescador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GollumPos1Effect",
+    "form_id": "050000E1|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Restore Health",
+    "string": "Restaurar la salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GollumPos1Effect",
+    "form_id": "050000E1|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Restore <mag> points of Health.",
+    "string": "Restaura <mag> puntos de salud.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Gollum",
+    "form_id": "050000E2|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Gollum",
+    "string": "Rasgo: Gollum",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AuNaturel",
+    "form_id": "05000800|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Au Naturel",
+    "string": "Rasgo: Al Natural",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_FortifyPickpocketPowerModifier",
+    "form_id": "05000801|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Pickpocket Power Modifier",
+    "string": "Fortificar Modificador de Poder de Robo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_DrainHealthRegeneration",
+    "form_id": "05000802|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Drain Health Regeneration",
+    "string": "Drenar Regeneración de Salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_DrainMagickaRegeneration",
+    "form_id": "05000803|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Drain Magicka Regeneration",
+    "string": "Drenar Regeneración de Magia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_DrainStaminaRegeneration",
+    "form_id": "05000804|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Drain Stamina Regeneration",
+    "string": "Drenar Regeneración de Estamina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_NosferatuNeg1",
+    "form_id": "05000805|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Nosferatu",
+    "string": "Rasgo: Nosferatu",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AuNaturelPos3",
+    "form_id": "05000807|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Traits_AuNaturelEffect3",
+    "string": "Traits_AuNaturelEffect3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AuNaturelPos4",
+    "form_id": "05000808|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Traits_AuNaturelEffect4",
+    "string": "Traits_AuNaturelEffect4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Disbeliever",
+    "form_id": "05000849|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Disbeliever",
+    "string": "Rasgo: Descreído",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_WitcherSlot4",
+    "form_id": "05000936|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Traits Potion Toxicity Slot 4",
+    "string": "Ranura de Toxicidad de Poción de Rasgos 4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_LightFoot",
+    "form_id": "05000D63|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Light Foot",
+    "string": "Rasgo: Pie Ligero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_UnboundHands",
+    "form_id": "05000D64|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Unbound Hands",
+    "string": "Rasgo: Manos Desatadas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Glutton",
+    "form_id": "05000D65|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Glutton",
+    "string": "Rasgo: Glotón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Swimmer",
+    "form_id": "05000D66|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Swimmer",
+    "string": "Rasgo: Nadador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GoodNatured",
+    "form_id": "05000D67|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Good Natured",
+    "string": "Rasgo: Buen Corazón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BadNatured",
+    "form_id": "05000D68|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Bad Natured",
+    "string": "Rasgo: Mala Naturaleza",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Hoarder",
+    "form_id": "05000D69|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Hoarder",
+    "string": "Rasgo: Acumulador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_JackofAllSpells",
+    "form_id": "05000D6A|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Jack of All Spells",
+    "string": "Rasgo: Maestro de Todos los Hechizos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_OldFashioned",
+    "form_id": "05000D6B|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Old Fashioned",
+    "string": "Rasgo: A la Antigua",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_FastShot",
+    "form_id": "05000D6C|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Fast Shot",
+    "string": "Rasgo: Disparo Rápido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Disciplined",
+    "form_id": "05000D6D|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Disciplined",
+    "string": "Rasgo: Disciplinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AdrenalineRush",
+    "form_id": "05000D6E|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Adrenaline Rush",
+    "string": "Rasgo: Subidón de adrenalina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Rage",
+    "form_id": "05000D6F|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Rage",
+    "string": "Rasgo: Ira",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Focused",
+    "form_id": "05000D70|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Focused",
+    "string": "Rasgo: Enfoque",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_SoulReaver",
+    "form_id": "05000D71|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Soul Reaver",
+    "string": "Rasgo: Recolector de Almas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BaneoftheWicked",
+    "form_id": "05000D72|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Bane of the Wicked",
+    "string": "Rasgo: Azote de los Malvados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Defiler",
+    "form_id": "05000D73|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Defiler",
+    "string": "Rasgo: Profanador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_KingofWorms",
+    "form_id": "05000D74|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: King of Worms",
+    "string": "Rasgo: Rey de los Gusanos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Pacifist",
+    "form_id": "05000D75|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Pacifist",
+    "string": "Rasgo: Pacifista",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Bulwark",
+    "form_id": "05000D76|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Bulwark",
+    "string": "Rasgo: Murallas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Gambler",
+    "form_id": "05000D77|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Gambler",
+    "string": "Rasgo: Jugador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AuNaturelPos1",
+    "form_id": "05000DA5|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Traits_AuNaturelEffect1",
+    "string": "Traits_AuNaturelEffect1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AuNaturelPos2",
+    "form_id": "05000DA6|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Traits_AuNaturelEffect2",
+    "string": "Traits_AuNaturelEffect2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_PacifistNeg1",
+    "form_id": "05000DA7|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Pacifist",
+    "string": "Rasgo: Pacifista",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_SelectionSpell",
+    "form_id": "05000004|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Select Traits",
+    "string": "Seleccionar Rasgos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_WitcherAb",
+    "form_id": "05000032|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Witcher",
+    "string": "Brujo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_WitcherAb",
+    "form_id": "05000032|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Potions and poisons you craft are <20%> more effective, and consuming raw ingredients grants double the effect. However, you can only benefit from up to <four> active potion effects at a time.",
+    "string": "Las pociones y venenos que crees son un <20%> más efectivos, y consumir ingredientes crudos otorga el doble de efecto. Sin embargo, solo puedes beneficiarte de hasta <cuatro> efectos de poción activos a la vez.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Witcher_ToxicitySlot1Ab",
+    "form_id": "05000036|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Slot 1",
+    "string": "Espacio 1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Witcher_ToxicitySlot2Ab",
+    "form_id": "05000037|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Slot 2",
+    "string": "Espacio 2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Witcher_ToxicitySlot3Ab",
+    "form_id": "05000038|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Slot 3",
+    "string": "Espacio 3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_NosferatuAb",
+    "form_id": "05000039|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Nosferatu",
+    "string": "Nosferatu",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_NosferatuAb",
+    "form_id": "05000039|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You're an ugly sight and live in the sewers. <-50> speech, no health, magicka or stamina regen outdoors. Eating skeever meat, tail, or hide gives you a <20%> speed boost and restores <5> health, magicka and stamina per second for <3> minutes.",
+    "string": "Eres un espectáculo desagradable y vives en las alcantarillas. <-50> de Elocuencia, sin regeneración de salud, magia ni aguante al aire libre. Comer carne, cola o piel de skeever te otorga un <20%> de velocidad y restaura <5> puntos de salud, magia y aguante por segundo durante <3> minutos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_SkilledAb",
+    "form_id": "0500003F|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Skilled",
+    "string": "Habilidoso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_SkilledAb",
+    "form_id": "0500003F|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Reading skill books grants an extra skill point and trainers cost <50%> less, however every <5> levels you don't gain a perk point.",
+    "string": "Leer libros de habilidad otorga un punto de habilidad adicional y los entrenadores cuestan un <50%> menos, sin embargo, cada <5> niveles que no ganes un punto de habilidad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AddictStagger",
+    "form_id": "05000049|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Addict Stagger",
+    "string": "Adicto Aturdido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_DovahTinvaakAb",
+    "form_id": "0500004C|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dovah Tinvaak",
+    "string": "Dovah Tinvaak",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_DovahTinvaakAb",
+    "form_id": "0500004C|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You are fluent in Dragon speech and as such can shout <30%> more often, at <30%> reduced effectiveness.",
+    "string": "Hablas fluido el lenguaje de los dragones y, por lo tanto, puedes gritar un <30%> más a menudo, con una efectividad reducida en un <30%>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_WayoftheVoiceAb",
+    "form_id": "05000050|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Way of the Voice",
+    "string": "Camino de la Voz",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_WayoftheVoiceAb",
+    "form_id": "05000050|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You follow the pacifist creed of the Greybeards, and as such your hostile shouts are <30%> less effective, but using non-hostile shouts has a <20%> chance reset the shout cooldown.",
+    "string": "Sigues el credo pacifista de los Barbas Grises, y como tal tus gritos hostiles son <30%> menos efectivos, pero usar gritos no hostiles tiene un <20%> de probabilidad de reiniciar el tiempo de recarga del grito.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BadNaturedNeg1Ab",
+    "form_id": "05000055|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Bad Natured",
+    "string": "Mal Corazón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_ElementalConduitAb",
+    "form_id": "05000058|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Elemental Conduit",
+    "string": "Conducto Elemental",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_ElementalConduitAb",
+    "form_id": "05000058|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Fire spells are more powerful in sunny weather but lose potency in the rain. \nShock spells are enhanced during rain but are less effective in snowy conditions. \nFrost spells excel in snowy weather but weaken under sunny skies.",
+    "string": "Los hechizos de fuego son más poderosos en clima soleado, pero pierden potencia con la lluvia.\r\nLos hechizos de choque se mejoran con la lluvia, pero son menos efectivos en condiciones nevadas.\r\nLos hechizos de escarcha son excelentes en clima nevado, pero pierden efectividad bajo cielos soleados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MarathonRunnerAb",
+    "form_id": "0500005B|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Marathon Runner",
+    "string": "Corredor de Maratón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MarathonRunnerAb",
+    "form_id": "0500005B|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You regenerate <10> stamina per second while sprinting. However, you will not be able to gain any stamina while running or standing still.",
+    "string": "Regeneras <10> puntos de aguante por segundo mientras esprintas. Sin embargo, no podras recuperar aguante mientras corren o permanecen quietos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GiantkinAb",
+    "form_id": "0500005F|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Giantkin",
+    "string": "Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GiantkinAb",
+    "form_id": "0500005F|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Descended from the mighty giants; you gain <10%> magic resistance and damage with blunt weapons, however you cannot read skill books, or use scrolls and staves.",
+    "string": "Descendiente de los poderosos gigantes; obtienes <10%> de resistencia mágica y daño con armas contundentes, sin embargo, no puedes leer libros de habilidad, ni usar pergaminos y bastones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_RemoveTraitSpell",
+    "form_id": "0500006A|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Remove Trait SFX Spell",
+    "string": "Eliminar Rasgo SFX Hechizo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MasterofDestinyAb",
+    "form_id": "0500006D|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Master of Destiny",
+    "string": "Maestro del Destino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MasterofDestinyAb",
+    "form_id": "0500006D|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You reject the influence of fate and star signs. Standing Stones cannot be used, but you begin the game with <3> additional perk points and a permanent <+5> boost to all skills.",
+    "string": "Rechazas la influencia del destino y los signos estelares. No se pueden usar las Piedras de los Sabios, pero comienzas el juego con <3> puntos de habilidad adicionales y un aumento permanente de <+5> a todas las habilidades.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AnglerAb",
+    "form_id": "05000071|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Angler",
+    "string": "Pescador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AnglerAb",
+    "form_id": "05000071|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Your bond with the sea grants unique benefits. Mudcrabs and slaughterfish become friendly toward you. Fishing yields more valuable items. Fishing rods deal double damage and have a chance to summon a mudcrab to fight at your side. The summoned mudcrab becomes stronger if you're carrying an insect or small fish. Fishing rods can be enchanted. However, your affinity with the waters leaves you <25%> more vulnerable to shock damage.",
+    "string": "Tu vínculo con el mar otorga beneficios únicos. Los cangrejos de barro y los peces asesinos se vuelven amistosos contigo. La pesca produce objetos más valiosos. Las cañas de pescar infligen el doble de daño y tienen una probabilidad de invocar un cangrejo de barro para que luche a tu lado. El cangrejo invocado se vuelve más fuerte si llevas un insecto o un pez pequeño. Las cañas de pescar pueden ser encantadas. Sin embargo, tu afinidad con las aguas te deja un <25%> más vulnerable al daño eléctrico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Witcher_ToxicitySlot4Ab",
+    "form_id": "05000074|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Slot 4",
+    "string": "Espacio 4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_DruidAb",
+    "form_id": "0500007C|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Druid",
+    "string": "Druida",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_DruidAb",
+    "form_id": "0500007C|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Druids are attuned to nature, making spriggans friendly and reducing the cost of druidic spells by up to <30%>. You can craft <Lifebloom Essence> from Taproot and Spriggan Sap for powerful regeneration. However, your bond with the wild leaves you <25%> more vulnerable to fire and axes.",
+    "string": "Los druidas están sintonizados con la naturaleza, haciendo que los spriggans sean amigables y reduciendo el costo de los hechizos druídicos en hasta un <30%>. Puedes crear <Esencia de Flor de Vida> de Raíz y Savia de Spriggan para una poderosa regeneración. Sin embargo, tu vínculo con la naturaleza te deja <25%> más vulnerable al fuego y hachas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MasterofOneAb",
+    "form_id": "05000084|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Master of One",
+    "string": "Maestro de una sola disciplina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MasterofOneAb",
+    "form_id": "05000084|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You can pick one skill, it's raised to 100 and you receive all the perks in that skill. However you will not receive any more perk points upon leveling up.",
+    "string": "Puedes elegir una habilidad; esta se eleva a 100 y recibes todas las ventajas de esa habilidad. Sin embargo, ya no recibirás más puntos de ventaja al subir de nivel.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AutodidactAb",
+    "form_id": "0500009B|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Autodidact",
+    "string": "Autodidacta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AutodidactAb",
+    "form_id": "0500009B|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "When you reach levels <25>, <50>, <75>, or <100> in any magic school, you automatically learn every spell of that school up to your current mastery level. However, because you're self-taught, your technique is unrefined. All spells cost <25%> more to cast, and professional mages look down on your unconventional training, increasing purchase prices at all magic vendors by <35%>.",
+    "string": "Al alcanzar los niveles <25>, <50>, <75> o <100> en cualquier escuela de magia, aprendes automáticamente todos los hechizos de esa escuela hasta tu nivel actual de dominio. Sin embargo, como eres autodidacta, tu técnica no está refinada. Todos los hechizos cuestan un <25%> más de magia al lanzarse, y los magos profesionales desprecian tu entrenamiento poco convencional, lo que aumenta los precios de compra en todos los vendedores de magia en un <35%>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_NosferatuBuffSpell",
+    "form_id": "0500009E|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Blessing of Skeever",
+    "string": "Bendición del Skeever",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HomeownerAb",
+    "form_id": "050000B5|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Homeowner",
+    "string": "Propietario",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HomeownerAb",
+    "form_id": "050000B5|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You've secured a place to call your own, choosing one of Skyrim's fine homes to settle in. However, comfort comes at a cost: each week, you must make a mortgage payment based on the home's value.",
+    "string": "Has asegurado un lugar al que llamar tuyo, eligiendo una de las hermosas casas de Skyrim para establecerte. Sin embargo, la comodidad tiene un precio: cada semana, debes realizar un pago hipotecario basado en el valor de la casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HomeownerEndVisitShout",
+    "form_id": "050000C6|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Time to go",
+    "string": "Hora de partir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HomeownerVisitHouseAB",
+    "form_id": "050000CC|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Visit House Ab",
+    "string": "Visitar Casa Ab",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_IntrovertAb",
+    "form_id": "050000D4|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Introvert",
+    "string": "Introvertido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_IntrovertAb",
+    "form_id": "050000D4|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You thrive in solitude but falter in the crowd. When facing three or fewer enemies, you deal <15%> more damage, whether with weapons or Destruction magic. Against four or more, your nerves get the better of you, and you deal <10%> less.",
+    "string": "Prosperas en la soledad pero flaqueas en la multitud. Cuando enfrentas a tres o menos enemigos, infliges <15%> más de daño, ya sea con armas o magia de Destrucción. Contra cuatro o más, los nervios te dominan y haces <10%> menos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AnglerAttackSpell",
+    "form_id": "050000D8|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Angler Attack Contact Spell",
+    "string": "Hechizo de contacto de ataque de pescador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GollumAb",
+    "form_id": "050000DF|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Lurker",
+    "string": "Acechador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GollumAb",
+    "form_id": "050000DF|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "When not wearing any clothes sneak attacks deal <2.5> times more damage and can sneak <25%> better, and are 100% immune to disease. Eating fish when it's raw and wriggling triggers a powerful healing effect that lasts <10> minutes. However, armor provides no protection, cooked food offers no benefits, and weapons with a weight above 10 will deal no damage.",
+    "string": "Cuando no llevas ninguna ropa los ataques furtivos infligen <2.5> veces más daño y puedes escabullirte <25%> mejor, además eres 100% inmune a las enfermedades. Comer pescado cuando está crudo y retorciéndose activa un poderoso efecto de curación que dura <10> minutos. Sin embargo, la armadura no proporciona protección, la comida cocinada no ofrece beneficios y las armas con un peso superior a 10 no infligirán daño.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GollumPos1Spell",
+    "form_id": "050000E3|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Lurker Healing",
+    "string": "Curación del acecho",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AddictAb",
+    "form_id": "050000E4|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Addict",
+    "string": "Adicto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AddictAb",
+    "form_id": "050000E4|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Addict: You've developed some bad habits. Skooma and alcohol benefits last <2x> as long and you can craft skooma at cooking pot. When not under the effects of alcohol or skooma, you have a <25%> chance to get staggered when hit.",
+    "string": "Has desarrollado algunos malos hábitos. Los beneficios del skooma y el alcohol duran <2x> más y puedes fabricar skooma en una olla de cocina. Cuando no estás bajo los efectos del alcohol o del skooma, tienes un <25%> de probabilidad de tambalearte al recibir un golpe.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AuNaturelScalingEffectAb",
+    "form_id": "0500080C|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Au Naturel Scaling Effect",
+    "string": "Efecto de Escalado Al Natural",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_DisbelieverAb",
+    "form_id": "0500084A|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Disbeliever",
+    "string": "Incrédulo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_DisbelieverAb",
+    "form_id": "0500084A|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You reject the influence of gods, placing your faith in logic and reason instead. Dwemer weapons and armor are <25%> stronger, but you cannot receive blessings from shrines or divines.",
+    "string": "Rechazas la influencia de los dioses, poniendo tu fe en la lógica y la razón. Las armas y armaduras Dwemer son un <25%> más fuertes, pero no puedes recibir bendiciones de los santuarios o los divinos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AdrenalineRushAb",
+    "form_id": "05000D78|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Adrenaline Rush",
+    "string": "Subida de adrenalina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AdrenalineRushAb",
+    "form_id": "05000D78|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You possess a natural flight response. When at less than <20%> health, you move< 20%> faster and regenerate <0.5> stamina per second but also deal <20%> less damage when below this threshold.",
+    "string": "Posees una respuesta natural de vuelo. Cuando tu salud está por debajo del <20%>, te mueves un <20%> más rápido y regeneras <0.5> de resistencia por segundo, pero también haces un <20%> menos de daño cuando estás por debajo de este umbral.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_LightFootAb",
+    "form_id": "05000D79|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Light Foot",
+    "string": "Pies ligeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_LightFootAb",
+    "form_id": "05000D79|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You've never felt comfortable in footwear. When not wearing boots/shoes, your movement is muffled, you move <5%> faster and suffer half fall damage. When wearing boots/shoes you move <10%> slower.",
+    "string": "Nunca te has sentido cómodo con el calzado. Cuando no llevas botas/zapatos, tu movimiento es amortiguado, te mueves un <5%> más rápido y sufres la mitad de daño por caídas. Cuando llevas botas/zapatos, te mueves un <10%> más lento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AuNaturelAb",
+    "form_id": "05000D7B|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Au Naturel",
+    "string": "Al Natural",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AuNaturelAb",
+    "form_id": "05000D7B|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Embrace your divine gifts! Start with <+100> health, magicka, and stamina. For each piece of armor or clothing you wear, you lose <40> from each attribute (up to a maximum loss of <-160> with four pieces equipped). Additionally, you gain +1 to health, magicka, and stamina per level for each empty armor slot (head, chest, hands, and feet).",
+    "string": "¡Abraza tus dones divinos! Comienza con <+100> de salud, magia y resistencia. Por cada pieza de armadura o ropa que lleves, pierdes <40> de cada atributo (hasta un máximo de <-160> con cuatro piezas equipadas). Además, ganas +1 a salud, magia y resistencia por nivel por cada ranura vacía de armadura (cabeza, pecho, manos y pies).\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_UnboundHandsAb",
+    "form_id": "05000D7D|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Unbound Hands",
+    "string": "Manos Desatadas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_UnboundHandsAb",
+    "form_id": "05000D7D|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Handwear constricts you. Spells are <15%> stronger and unarmed attacks do <+15> more damage when not wearing gloves/gauntlets. However, they suffer the opposite effect when wearing gloves/gauntlets.",
+    "string": "Las prendas ajustan tus manos. Los hechizos son un <15%> más fuertes y los ataques sin armas hacen <+15> más daño cuando no usas guantes/guanteletes. Sin embargo, sufren el efecto contrario cuando los usas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GluttonAb",
+    "form_id": "05000D7F|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Glutton",
+    "string": "Glotón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GluttonAb",
+    "form_id": "05000D7F|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You LOVE food but hate medicine. Food benefits are twice as strong, but potions have only <50%> their efficiency.",
+    "string": "Te ENCANTA la comida pero odias la medicina. Los beneficios de la comida son el doble de fuertes, pero las pociones tienen solo un <50%> de su eficiencia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_SwimmerAb",
+    "form_id": "05000D81|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Swimmer",
+    "string": "Nadador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_SwimmerAb",
+    "form_id": "05000D81|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You prefer life on the water. In water, you swim <20%> faster, can breath underwater and regenerate health, stamina and magicka by a flat <0.25> per second. On land, you suffer <50%> less health, stamina and magicka regeneration.",
+    "string": "Prefieres la vida sobre el agua. En el agua, nadas <20%> más rápido, puedes respirar bajo el agua y regeneras salud, resistencia y magia a un ritmo fijo de <0.25> por segundo. En tierra, sufres <50%> menos regeneración de salud, resistencia y magia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GoodNaturedAb",
+    "form_id": "05000D83|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Good Natured",
+    "string": "Bien Corazón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GoodNaturedAb",
+    "form_id": "05000D83|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You have a good heart. Deal <20%> less damage with weapons and Destruction spells. However, while wearing an amulet of the divines beneficial spells and potions last <20%> longer and you take <20%> less damage.",
+    "string": "Tienes un buen corazón. Haces un <20%> menos de daño con armas y hechizos de Destrucción. Sin embargo, mientras lleves un amuleto de los divinos, los hechizos y pociones beneficiosas duran un <20%> más y recibes un <20%> menos de daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BadNaturedAb",
+    "form_id": "05000D85|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Bad Natured",
+    "string": "Mal Corazón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BadNaturedAb",
+    "form_id": "05000D85|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You were born into wickedness. Your attacks while being crouched deals <20%> more and you're better at pickpocketing. However, attacks while standing up do <20%> less and wearing a divine amulet will hurt you.",
+    "string": "Naciste en la maldad. Tus ataques mientras estés agachado hacen un <20%> más de daño y eres mejor en el robo. Sin embargo, los ataques de pie hacen un <20%> menos de daño y llevar un amuleto divino te hace daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HoarderAb",
+    "form_id": "05000D87|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Hoarder",
+    "string": "Acumulador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HoarderAb",
+    "form_id": "05000D87|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You love carrying stuff around, even if it's junk. Gain <+100> carryweight. Selling prices are <50%> worse.",
+    "string": "Te encanta cargar cosas, incluso si son desechos. Ganas <+100> de peso de carga. Los precios de venta son <50%> peores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_JackofAllSpellsAb",
+    "form_id": "05000D89|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Jack of All Spells",
+    "string": "Domine todos los hechizos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_JackofAllSpellsAb",
+    "form_id": "05000D89|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "But master of none. Novice, Apprentice and Adept spells are <20%> stronger or longer lasting, expert and master spells are <20%> weaker or shorter.",
+    "string": "Pero maestro de ninguno. Los hechizos Novato, Aprendiz y Adepto son un <20%> más fuertes o duran más, mientras que los hechizos experto y maestro son un <20%> más débiles o duran menos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_OldFashionedAb",
+    "form_id": "05000D8B|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Old Fashioned",
+    "string": "Antiguo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_OldFashionedAb",
+    "form_id": "05000D8B|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "If it ain't broke, don't fix it. Weapons, armor and magical staves made of iron, wood, steel, fur or hide are <25%> stronger. Otherwise, they are <10%> weaker.",
+    "string": "Si no está roto, no lo arregles. Las armas, armaduras y bastones mágicos hechos de hierro, madera, acero, piel o cuero son un <25%> más fuertes. De lo contrario, son un <10%> más débiles.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_FastShotAb",
+    "form_id": "05000D8D|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fast Shot",
+    "string": "Disparo Rápido\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_FastShotAb",
+    "form_id": "05000D8D|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You'd rather shoot fast than shoot hard. Bows draw <30%> faster, crossbows reload <30%> faster. However, bows and crossbows deal <30%> less damage.",
+    "string": "Prefieres disparar rápido que disparar fuerte. Los arcos se tensan un <30%> más rápido, las ballestas recargan un <30%> más rápido. Sin embargo, los arcos y las ballestas hacen <30%> menos daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_DisciplinedAb",
+    "form_id": "05000D8F|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Disciplined",
+    "string": "Disciplinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_DisciplinedAb",
+    "form_id": "05000D8F|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Shoot to kill. Bows and crossbows deal <20%> more damage. However, they draw/reload <25%> slower.",
+    "string": "Disparar para matar. Los arcos y las ballestas hacen un <20%> más de daño. Sin embargo, se tensan o recargan un <25%> más lento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_RageAb",
+    "form_id": "05000D91|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Rage",
+    "string": "Furia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_RageAb",
+    "form_id": "05000D91|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You posses a natural fight response. When at less than <20%> health, you deal <20%> more damage and take <20%> less damage. However, you move <20%> slower when below this threshold.",
+    "string": "Posees una respuesta natural de lucha. Cuando tu salud está por debajo del <20%>, haces un <20%> más de daño y recibes un <20%> menos de daño. Sin embargo, te mueves un <20%> más lento cuando estás por debajo de este umbral.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_FocusedAb",
+    "form_id": "05000D93|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Focused",
+    "string": "Enfocado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_FocusedAb",
+    "form_id": "05000D93|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "When in danger, you think before acting. When at less than <20%> health, you regenerate <0.5> magicka per second and absorb <10%> of incoming spells. However, you take <10%> more damage when below this threshold.",
+    "string": "Cuando estás en peligro, piensas antes de actuar. Cuando tu salud está por debajo del <20%>, regeneras <0.5> de magia por segundo y absorbes un <10%> de los hechizos entrantes. Sin embargo, recibes un <10%> más de daño cuando estás por debajo de este umbral.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_SoulReaverAb",
+    "form_id": "05000D95|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Soul Reaver",
+    "string": "Rebaño de Almas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_SoulReaverAb",
+    "form_id": "05000D95|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You've claimed countless souls for your gain. Weapon and armor enchantments are <10%> stronger and use <10%> less charge. Armor rating and weapon damage is reduced by <10%>.",
+    "string": "Has reclamado incontables almas para tu propio beneficio. Los encantamientos de armas y armaduras son <10%> más fuertes y usan <10%> menos carga. La clasificación de armadura y el daño de las armas se reducen en un <10%>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BaneoftheWickedAb",
+    "form_id": "05000D97|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Bane of the Wicked",
+    "string": "Azote de los Malvados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BaneoftheWickedAb",
+    "form_id": "05000D97|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You are an enemy to all things abhorrent. Deal <20%> more damage to undead, daedra and werewolves. However, do <10%> less damage to other beings.",
+    "string": "Eres enemigo de todas las cosas abominables. Haces un <20%> más de daño a los no-muertos, Daedra y hombres lobo. Sin embargo, haces un <10%> menos de daño a otros seres.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_DefilerAb",
+    "form_id": "05000D99|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Defiler",
+    "string": "Profanador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_DefilerAb",
+    "form_id": "05000D99|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "The only use you have for the living is to resurrect them in death. Deal <20%> more damage to playable races. However, do <10%> less damage to other beings.",
+    "string": "El único uso que tienes para los vivos es resucitarlos en la muerte. Haces un <20%> más de daño a las razas jugables. Sin embargo, haces un <10%> menos de daño a otros seres.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_KingofWormsAb",
+    "form_id": "05000D9B|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "King of Worms",
+    "string": "Rey de los Gusanos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_KingofWormsAb",
+    "form_id": "05000D9B|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You've gained hidden insight into necromantic arts. You can have <1> additional summon or undead thrall. However, the duration of summon and resurrecting spells is reduced by <50%>.",
+    "string": "Has ganado una visión oculta en las artes necrománticas. Puedes tener <1> invocación adicional o siervo no-muerto. Sin embargo, la duración de los hechizos de invocación y resurrección se reduce en un <50%>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_PacifistAb",
+    "form_id": "05000D9D|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pacifist",
+    "string": "Pacifista",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_PacifistAb",
+    "form_id": "05000D9D|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "When your arms are lowered you restore <1> magicka and stamina per second. However, raising your hands in combat will have the opposite effect. Those born under the sign of the Atronach do not gain any benefits.",
+    "string": "Cuando tus brazos están bajos, restauras <1> de magia y resistencia por segundo. Sin embargo, levantar tus manos en combate tendrá el efecto contrario. Los nacidos bajo el signo de Atronach no ganan beneficios.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BulwarkAb",
+    "form_id": "05000D9F|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Bulwark",
+    "string": "Murallas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BulwarkAb",
+    "form_id": "05000D9F|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "When walking or standing still, you gain <100> armor rating and reflect <10%> physical damage. You drain <1> additional stamina per second while sprinting and <0.25> when running.",
+    "string": "Cuando caminas o permaneces quieto, obtienes <100> de armadura y reflejas <10%> del daño físico. Drenas <1> de aguante adicional por segundo al esprintar y <0.25> al correr.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GamblerAb",
+    "form_id": "05000DA1|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Gambler",
+    "string": "Apostador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GamblerAb",
+    "form_id": "05000DA1|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You go in all or nothing. Gain <50%> chance to critical hit. However, overall weapon damage is reduced by <25%>. When you land a critical hit, your attacks do <10%> more damage for <30> seconds (stackable up to <5> times).",
+    "string": "Vas a por todo o nada. Obtienes un <50%> de probabilidad de golpe crítico. Sin embargo, el daño general de las armas se reduce en un <25%>. Cuando realizas un golpe crítico, tus ataques hacen un <10%> más de daño durante <30> segundos (acumulable hasta <5> veces).",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HomeownerMortgagePaper",
+    "form_id": "050000CA|Biggie Traits.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mortgage Papers",
+    "string": "Documentos de Hipoteca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_CookedSkeeverTail",
+    "form_id": "05000042|Biggie Traits.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Skeever Tail",
+    "string": "Cola de Skeever Cocida  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_LifebloomEssence",
+    "form_id": "0500007F|Biggie Traits.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Lifebloom Essence",
+    "string": "Esencia de Flor de Vida ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BlankSlatePotion",
+    "form_id": "050000CE|Biggie Traits.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Potion of Blank Slate",
+    "string": "Poción de Mente en Blanco  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HiddenPotentialPotion",
+    "form_id": "050000CF|Biggie Traits.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Elixir of Hidden Potential",
+    "string": "Elixir del Potencial Oculto  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HiddenPotentialPotion_0",
+    "form_id": "050000D2|Biggie Traits.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Elixir of Hidden Potential",
+    "string": "Elixir del Potencial Oculto  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BlankSlatePotion_0",
+    "form_id": "050000D3|Biggie Traits.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Potion of Blank Slate",
+    "string": "Poción de Mente en Blanco  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunBreezehome",
+    "form_id": "000165A8|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Breezehome",
+    "string": "Hogar de la Brisa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthVlindrelHall",
+    "form_id": "00016DFA|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Vlindrel Hall",
+    "string": "Salón de Vlindrel",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaMarkers",
+    "form_id": "0005EAC7|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Marker Storage Unit",
+    "string": "Unidad de almacenaje de marcas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmHjerim",
+    "form_id": "00016778|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Hjerim",
+    "string": "Hjerim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeProudspireManor",
+    "form_id": "00016A06|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Proudspire Manor",
+    "string": "Mansión Espira Orgullosa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenHoneyside",
+    "form_id": "00016BDD|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Honeyside",
+    "string": "Villa Melosa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Quest",
+    "form_id": "05000001|Biggie Traits.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Traits Selection Quest",
+    "string": "Misión de Selección de Rasgos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Witcher_Quest",
+    "form_id": "0500002F|Biggie Traits.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Potion Toxicity Manager",
+    "string": "Administrador de Toxicidad de Pociones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MCM",
+    "form_id": "05000054|Biggie Traits.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "MCM for Biggie Traits mod",
+    "string": "MCM para el mod Biggie Traits",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_PlayerLoadGameQuest",
+    "form_id": "05000061|Biggie Traits.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Handles load game event for various traits",
+    "string": "Gestiona el proceso de carga del juego para varios rasgos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_ResetManager",
+    "form_id": "05000065|Biggie Traits.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Handles the menu for resetting traits",
+    "string": "Gestiona el menú para restablecer rasgos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HomeownerQuest",
+    "form_id": "050000B3|Biggie Traits.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Manage Homeowner Quest",
+    "string": "Gestiona el menú para restablecer rasgos\r\nGestionar la misión de Propietario",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AnglerExplosion",
+    "form_id": "050000DB|Biggie Traits.esp",
+    "index": 1,
+    "type": "EXPL FULL",
+    "original": "Claw Impact",
+    "string": "Impacto de garra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_RemovedMsg",
+    "form_id": "05000068|Biggie Traits.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Chosen trait was removed.",
+    "string": "El rasgo seleccionado ha sido eliminado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MasterofDestinyOnTouchMsg",
+    "form_id": "0500006B|Biggie Traits.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The stones does not respond to your touch.",
+    "string": "Las piedras no responden a tu toque.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MasterOfOneConfirmMsg",
+    "form_id": "05000086|Biggie Traits.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure about choosing this skill?",
+    "string": "¿Estás seguro de elegir esta habilidad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MasterOfOneConfirmMsg",
+    "form_id": "05000086|Biggie Traits.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "No, Go Back",
+    "string": "No, regresa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MasterOfOneConfirmMsg",
+    "form_id": "05000086|Biggie Traits.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Yes, Select This Skill",
+    "string": "Sí, selecciona esta habilidad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MasterOfOneNoneMsg",
+    "form_id": "05000087|Biggie Traits.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You have not selected any skill.",
+    "string": "No has seleccionado ninguna habilidad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MasterOfOneNoneMsg",
+    "form_id": "05000087|Biggie Traits.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Regresar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MasterOfOneNoneMsg",
+    "form_id": "05000087|Biggie Traits.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Remove The Trait",
+    "string": "Eliminar el rasgo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_NoneSelectionMsg",
+    "form_id": "05000005|Biggie Traits.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You have not selected any traits. Are you sure?",
+    "string": "No has seleccionado ningún rasgo. ¿Estás seguro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_NoneSelectionMsg",
+    "form_id": "05000005|Biggie Traits.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Wait, go back!",
+    "string": "Espera, ¡regresa!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_NoneSelectionMsg",
+    "form_id": "05000005|Biggie Traits.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Yes, no traits for me.",
+    "string": "Sí, no quiero rasgos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MasterOfOneFinishMsg",
+    "form_id": "0500009D|Biggie Traits.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Finished adding perks, %.0f perks added.",
+    "string": "Se terminaron de agregar las ventajas. Se agregaron %.0f ventajas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_ShrineTouchMsg",
+    "form_id": "050000AE|Biggie Traits.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The shrine does not react to your touch.",
+    "string": "El santuario no reacciona a tu toque.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HomeownerEndVisitMsg",
+    "form_id": "050000C7|Biggie Traits.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Press [Shout] key to exit.",
+    "string": "Presiona la tecla [Grito] para salir.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HomeownerNotEnoughGoldMsg",
+    "form_id": "050000CD|Biggie Traits.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Not enough gold.",
+    "string": "No tienes suficiente oro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HomeownerPayMsg",
+    "form_id": "0500084E|Biggie Traits.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Outstanding mortgage balance due. No further entry permitted until payment of %.0f gold is received.",
+    "string": "Saldo de hipoteca pendiente. No se permitirá más acceso hasta que se reciba el pago de %.0f de oro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HomeownerPayMsg",
+    "form_id": "0500084E|Biggie Traits.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "Cancelar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HomeownerPayMsg",
+    "form_id": "0500084E|Biggie Traits.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Pay",
+    "string": "Pagar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_ResetConfirmMsg",
+    "form_id": "05000066|Biggie Traits.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Do you want to spend a dragon soul to remove this trait?",
+    "string": "¿Quieres gastar un alma de dragón para eliminar este rasgo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_ResetConfirmMsg",
+    "form_id": "05000066|Biggie Traits.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "No",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_ResetConfirmMsg",
+    "form_id": "05000066|Biggie Traits.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "Sí",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MasterOfOneGuideMsg",
+    "form_id": "0500009C|Biggie Traits.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Master of One\r\n\r\nSkills menu will open now. When you're on the desired skill, press the Ready Weapon key to choose that skill.",
+    "string": "Maestro de Uno\r\n\r\nAhora se abrirá el menú de habilidades. Cuando estés en la habilidad deseada, presiona la tecla Desenfundar arma para elegir esa habilidad.",
+    "status": "TranslationComplete"
+  }
+]

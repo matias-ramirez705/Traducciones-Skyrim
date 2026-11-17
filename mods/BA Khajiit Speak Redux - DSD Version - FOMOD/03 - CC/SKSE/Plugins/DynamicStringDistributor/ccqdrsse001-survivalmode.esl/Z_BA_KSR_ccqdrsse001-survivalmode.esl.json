@@ -1,0 +1,605 @@
+[
+  {
+    "editor_id": "Survival_DisWitbane3Message",
+    "form_id": "050009BE|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído un atontamiento incapacitante.",
+    "string": "Ziss! Khajiit ha contraído Deficiencia Debilitante!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisWitbane2Message",
+    "form_id": "050009BD|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído un atontamiento grave.",
+    "string": "Lunas Oscuras! Este ha contraído Deficiencia Severa!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisRockjoint3Message",
+    "form_id": "050009BC|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído un anquilosamiento incapacitante.",
+    "string": "Cola de Merrunz! Este ha contraído Fiebre Rompehuesos Debilitante!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisBrownRot2",
+    "form_id": "050009B3|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído una putrefacción marrón grave.",
+    "string": "Maldición de Molagh! Khajiit ha contraído Pudrición Parda Severa!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Cold3MessageDecreasing",
+    "form_id": "050008CA|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Sientes más calor, pero aún tienes mucho frío.",
+    "string": "Khajiit se siente mas caliente, si. Pero aun esta MUY FRIO, de hecho!  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_AfflictionAddledMsg",
+    "form_id": "05000934|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Estás confuso a causa de la fatiga.",
+    "string": "Khajiit se ha ATONTADO de fatiga...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_AfflictionWeakenedMsg",
+    "form_id": "05000933|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Estás exánime a causa del hambre.",
+    "string": "Khajiit se ha DEBILITADO de hambre...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisBrainRot2Message",
+    "form_id": "050009B0|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído un pudrir cerebro grave.",
+    "string": "Ziss! Khajiit ha contraído Pudrición Cerebral Severa!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisDroops3Message",
+    "form_id": "050009B1|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído un marchitamiento incapacitante.",
+    "string": "Cola de Merrunz! Este ha contraído Flacidez Debilitante!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisDroops2Message",
+    "form_id": "050009B2|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído un marchitamiento grave.",
+    "string": "Lunas Oscuras! Este ha contraído Flacidez Severa!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisRockjoint2Message",
+    "form_id": "050009BB|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído un anquilosamiento grave.",
+    "string": "Red de Jones! Este ha contraído Fiebre Rompehuesos Severa!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisBrownRot3",
+    "form_id": "050009B4|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído una putrefacción marrón incapacitante.",
+    "string": "Ziss! Khajiit ha contraído Pudrición Parda Debilitante!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisGreenspore2",
+    "form_id": "050009B5|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído una espora verde grave.",
+    "string": "Cola de Merrunz! Este ha contraído Espora Verde Severa!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisGreenspore3",
+    "form_id": "050009B6|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído una espora verde incapacitante.",
+    "string": "Maldición de Molagh! Khajiit ha contraído Espora Verde Debilitante!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Hunger3MessageDecreasing",
+    "form_id": "050008C2|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Te sientes mejor, pero aún tienes hambre.",
+    "string": "Khajiit se siente un poco mejor, pero aun un poco HAMBRIENTO...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Cold3Message",
+    "form_id": "050008D7|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Tienes mucho frío.",
+    "string": "Este esta MUY FRIO!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Cold4MessageDecreasing",
+    "form_id": "050008D6|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Sientes más calor, pero aún estás helado.",
+    "string": "Khajiit esta mas caliente, pero aun esta CONGELANDOSE!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Exhaustion3MessageDecreasing",
+    "form_id": "050008C6|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Te despiertas sintiéndote mejor, pero aún cansado.",
+    "string": "Esa si fue una buena siesta de gato, de hecho. Pero este aun esta un poco CANSADO, si.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisGutworm2",
+    "form_id": "050009B7|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído una tenia grave.",
+    "string": "Lunas Oscuras! Este ha contraído un gusano intestinal severo!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisGutworm3",
+    "form_id": "050009B8|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído una tenia incapacitante.",
+    "string": "Colmillos de Sangiin! Khajiit ha contraído un gusano intestinal Debilitante!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisBoneBreakFever2Message",
+    "form_id": "050009C8|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído una fiebre quebrantahuesos grave.",
+    "string": "Red de Jones! Este ha contraído Fiebre Rompehuesos Severa.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Hunger1MessageDecreasing",
+    "form_id": "05000941|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Te sientes mejor y ahora estás satisfecho.",
+    "string": "Khajiit se siente mejor, y ahora esta SATISFECHO, si.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Cold2MessageDecreasing",
+    "form_id": "050008D4|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Sientes más calor, pero aún tienes frío.",
+    "string": "Khajiit esta mas caliente, pero aun un poco HELADO.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Cold1MessageDecreasing",
+    "form_id": "05000942|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Sientes más calor y ahora estás cómodo.",
+    "string": "Este se siente mas caliente, si. Quizás incluso COMODO, si?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Hunger2MessageDecreasing",
+    "form_id": "050008BA|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Te sientes mejor, pero aún tienes un poco de hambre.",
+    "string": "Khajiit se siente un poco mejor, pero aun un poco ANTOJADO...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisGutworm",
+    "form_id": "0500093C|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído una tenia.",
+    "string": "¡Jones Lattice! ¡Éste ha cogido gusano intestinal!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_ColdConditionStage1",
+    "form_id": "0500093D|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Aquí el aire es agradable.",
+    "string": "Este encuentra el aire de este lugar agradable.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisBoneBreakFever3Message",
+    "form_id": "050009C7|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído una fiebre quebrantahuesos incapacitante.",
+    "string": "Lunas Oscuras! Este ha contraído Fiebre Rompehuesos Debilitante!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_FoodPoisoningMsg",
+    "form_id": "0500093F|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído intoxicación alimentaria.",
+    "string": "Por las escamas de Alkosh! Khajiit ha contraído Intoxicación Alimentaria!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Hunger2Message",
+    "form_id": "050008CD|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Tienes poca hambre.",
+    "string": "Khajiit tiene un poco de ANTOJO, si.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_ColdConditionStage2",
+    "form_id": "05000940|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Aquí el aire es frío.",
+    "string": "El aire es frió aquí...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Exhaustion4Message",
+    "form_id": "050008C7|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Estás exhausto.",
+    "string": "Este esta AGOTADO...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Cold4Message",
+    "form_id": "050008CB|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Estás helado.",
+    "string": "Este esta CONGELANDOSE!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Exhaustion2MessageDecreasing",
+    "form_id": "050008C8|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Te despiertas sintiéndote mejor, pero aún agotado.",
+    "string": "Esa si fue una buena siesta de gato, de hecho. Pero este aun esta un poco DRENADO, si.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisBrainRot3Message",
+    "form_id": "050009C4|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído un pudrir cerebro incapacitante.",
+    "string": "Cola de Merrunz! Este ha contraído Pudrición Cerebral Debilitante!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_ColdWarmingUpMessage",
+    "form_id": "050008D3|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Estás entrando en calor.",
+    "string": "Este comienza a calentarse al parecer...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisAtaxia2Message",
+    "form_id": "050009C2|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído una ataxia grave.",
+    "string": "Maldición de Molagh! Khajiit ha contraído Ataxia Severa!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisAtaxia3Message",
+    "form_id": "050009C3|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído una ataxia incapacitante.",
+    "string": "Colmillos de Sangiin! Khajiit ha contraído Ataxia Debilitante!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_ColdConditionStage4",
+    "form_id": "05000939|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Aquí el aire es gélido.",
+    "string": "El aire es glacial aquí, si.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Exhaustion2Message",
+    "form_id": "050008D0|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Estás agotado.",
+    "string": "Este esta DRENADO!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Exhaustion4MessageDecreasing",
+    "form_id": "050008C9|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Te despiertas sintiéndote mejor, pero aún exhausto.",
+    "string": "Esa si fue una buena siesta de gato, de hecho. Pero este aun esta un poco AGOTADO, si.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_ColdConditionStage3",
+    "form_id": "05000938|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Aquí el aire es muy frío",
+    "string": "El aire es muy frió aquí, de hecho.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_ColdConditionStage0",
+    "form_id": "0500093B|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Aquí el aire es cálido.",
+    "string": "El aire es cálido aquí...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_AfflictionFrostbittenMsg",
+    "form_id": "05000932|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Estás congelado a causa del frío.",
+    "string": "Ziss! Khajiit se ha CONGELADO por el frió! ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisBrownRot",
+    "form_id": "0500093A|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído una putrefacción marrón.",
+    "string": "Colmillos de Sangiin! Khajiit ha contraído Pudrición Parda!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_OblivionAreaMessage",
+    "form_id": "05000937|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Aquí no sientes hambre, extenuación ni frío.",
+    "string": "Extrañamente, este lugar no causa hambre, agotamiento, o frió...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisRattles3Message",
+    "form_id": "050009C0|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído unos estertores incapacitantes.",
+    "string": "Ziss! Khajiit ha contraído Estertores Debilitantes!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisRattles2Message",
+    "form_id": "050009BF|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído unos estertores graves.",
+    "string": "Colmillos de Sangiin! Khajiit ha contraído Estertores Severos!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_DisGreenspore",
+    "form_id": "05000936|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has contraído una espora verde.",
+    "string": "Lunas Oscuras! Khajiit ha contraído Espora Verde!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Exhaustion1MessageDecreasing",
+    "form_id": "05000935|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Te despiertas sintiéndote recuperado.",
+    "string": "Esa siesta hizo a este RENOVADO.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Hunger4MessageDecreasing",
+    "form_id": "050008BC|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Te sientes mejor, pero sigues famélico.",
+    "string": "Khajiit se siente un poco mejor, pero aun un poco FAMELICO...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Cold0Message",
+    "form_id": "050008DA|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has entrado en calor.",
+    "string": "Este esta CALIENTE, si.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Hunger1Message",
+    "form_id": "050008D8|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Estás satisfecho.",
+    "string": "Khajiit esta SATISFECHO con eso, si.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Hunger3Message",
+    "form_id": "050008B8|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Tienes hambre.",
+    "string": "Ahí esta ese estomago gruñendo otra vez... Quizás Khajiit esta HAMBRIENTO, si?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_ShrineGoldOfferingMessage",
+    "form_id": "050008BE|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Debes realizar una ofrenda de %.0f de oro para recibir la bendición de esta capilla.\r\n\r\n¿Quieres realizar una ofrenda?",
+    "string": "Una ofrenda de %.0f septims debe hacerse para recibir una bendición de este santuario, hmm?  \r\n\r\nHacer una ofrenda?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Cold1Message",
+    "form_id": "050008D9|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Estás cómodo.",
+    "string": "Khajiit se siente COMODO.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Hunger5Message",
+    "form_id": "050008BB|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¡Te mueres de hambre!",
+    "string": "Khajiit esta MURIENDO DE HAMBRE!!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Hunger0Message",
+    "form_id": "050008C1|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Estás bien alimentado.",
+    "string": "Se siente bien estar BIEN ALIMENTADO, de hecho.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Exhaustion5Message",
+    "form_id": "050008BD|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¡Estás debilitado!",
+    "string": "Este esta DEBILITADO! Oh no!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_WaterFreezingMessage",
+    "form_id": "050008D1|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¡Esta agua está helada!",
+    "string": "Esta agua esta h-h-h-helada!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Exhaustion3Message",
+    "form_id": "050008CE|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Estás cansado.",
+    "string": "Khajiit esta CANSADO...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Cold2Message",
+    "form_id": "050008CC|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Tienes frío.",
+    "string": "Khajiit esta HELADO...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Cold5Message",
+    "form_id": "050008D2|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¡Estás entumecido!",
+    "string": "Khajiit se ha ENTUMECIDO!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Hunger4Message",
+    "form_id": "050008B6|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Estás famélico.",
+    "string": "Este esta FAMELICO! ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_Exhaustion1Message",
+    "form_id": "050008CF|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Estás recuperado.",
+    "string": "Eso estuvo bien, si. Este esta RENOVADO.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_ColdConditionStage5",
+    "form_id": "050008DC|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "El aire es peligrosamente frío.",
+    "string": "El aire esta traicioneramente frió, de hecho!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Survival_ShrineNotEnoughGoldMessage",
+    "form_id": "050008B9|ccqdrsse001-survivalmode.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No tienes oro suficiente para realizar la ofrenda.",
+    "string": "Khajiit no tiene suficientes septims para esta ofrenda, no.  ",
+    "status": "TranslationComplete"
+  }
+]

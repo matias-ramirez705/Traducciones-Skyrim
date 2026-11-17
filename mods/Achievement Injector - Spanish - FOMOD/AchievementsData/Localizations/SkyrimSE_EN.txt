@@ -1,0 +1,114 @@
+$NAME_Unbound	Sin cadenas
+$DESC_Unbound	Completa "Sin cadenas"
+$NAME_Bleak Falls Barrow	Túmulo de las Cataratas Lúgubres
+$DESC_Bleak Falls Barrow	Completa "Túmulo de las Cataratas Lúgubres"
+$NAME_The Way of the Voice	La senda de la Voz
+$DESC_The Way of the Voice	Completa "La senda de la Voz"
+$NAME_Diplomatic Immunity	Inmunidad diplomática
+$DESC_Diplomatic Immunity	Completa "Inmunidad diplomática"
+$NAME_Alduin's Wall	El muro de Alduin
+$DESC_Alduin's Wall	Completa "El muro de Alduin"
+$NAME_Elder Knowledge	Conocimiento antiguo
+$DESC_Elder Knowledge	Completa "Conocimiento antiguo"
+$NAME_The Fallen	El caído
+$DESC_The Fallen	Completa "El caído"
+$NAME_Dragonslayer	Matadragones
+$DESC_Dragonslayer	Completa "Matadragones"
+$NAME_Take Up Arms	Toma las armas
+$DESC_Take Up Arms	Únete a los Compañeros
+$NAME_Blood Oath	Juramento de sangre
+$DESC_Blood Oath	Conviértete en miembro del Círculo
+$NAME_Glory of the Dead	Gloria de los muertos
+$DESC_Glory of the Dead	Completa "Gloria de los muertos"
+$NAME_Gatekeeper	Guardián
+$DESC_Gatekeeper	Únete al Colegio de Hibernalia
+$NAME_Revealing the Unseen	Revelando lo oculto
+$DESC_Revealing the Unseen	Completa "Revelando lo oculto"
+$NAME_The Eye of Magnus	El Ojo de Magnus
+$DESC_The Eye of Magnus	Completa "El Ojo de Magnus"
+$NAME_Taking Care of Business	Asuntos pendientes
+$DESC_Taking Care of Business	Únete al Gremio de Ladrones
+$NAME_Darkness Returns	El regreso de la oscuridad
+$DESC_Darkness Returns	Completa "El regreso de la oscuridad"
+$NAME_One with the Shadows	Uno con las sombras
+$DESC_One with the Shadows	Devuelve al Gremio de Ladrones su antigua gloria
+$NAME_With Friends Like These	Con amigos como estos
+$DESC_With Friends Like These	Únete a la Hermandad Oscura
+$NAME_Bound Until Death	Unidos hasta la muerte
+$DESC_Bound Until Death	Completa "Unidos hasta la muerte"
+$NAME_Hail Sithis!	¡Salve, Sithis!
+$DESC_Hail Sithis!	Completa "¡Salve, Sithis!"
+$NAME_Taking Sides	Tomar partido
+$DESC_Taking Sides	Únete a los Capas de la Tormenta o al Ejército Imperial
+$NAME_War Hero	Héroe de guerra
+$DESC_War Hero	Conquista el fuerte Sungard o el fuerte Muro Verde
+$NAME_Hero of Skyrim	Héroe de Skyrim
+$DESC_Hero of Skyrim	Conquista Soledad o Ventalia
+$NAME_Sideways	Por otro camino
+$DESC_Sideways	Completa 10 misiones secundarias
+$NAME_Hero of the People	Héroe del pueblo
+$DESC_Hero of the People	Completa 50 objetivos varios
+$NAME_Hard Worker	Trabajador incansable
+$DESC_Hard Worker	Corta leña, extrae mineral y cocina comida
+$NAME_Thief	Ladrón
+$DESC_Thief	Fuerza 50 cerraduras y roba en 50 bolsillos
+$NAME_Snake Tongue	Lengua de serpiente
+$DESC_Snake Tongue	Persuade, soborna e intimida con éxito
+$NAME_Blessed	Bendecido
+$DESC_Blessed	Elige la bendición de una piedra guardiana
+$NAME_Standing Stones	Piedras guardianas
+$DESC_Standing Stones	Encuentra las 13 piedras guardianas
+$NAME_Citizen	Ciudadano
+$DESC_Citizen	Compra una casa
+$NAME_Wanted	Se busca
+$DESC_Wanted	Escapa de la cárcel
+$NAME_Married	Casado
+$DESC_Married	Cásate
+$NAME_Artificer	Artífice
+$DESC_Artificer	Fabrica un objeto en la forja, un objeto encantado y una poción
+$NAME_Master Criminal	Criminal maestro
+$DESC_Master Criminal	Alcanza una recompensa de 1000 de oro en las nueve comarcas
+$NAME_Golden Touch	Toque de oro
+$DESC_Golden Touch	Ten 100 000 de oro
+$NAME_Delver	Explorador de mazmorras
+$DESC_Delver	Despeja 50 mazmorras
+$NAME_Skill Master	Maestro de habilidades
+$DESC_Skill Master	Lleva una habilidad al nivel 100
+$NAME_Explorer	Explorador
+$DESC_Explorer	Descubre 100 lugares
+$NAME_Reader	Lector
+$DESC_Reader	Lee 50 libros de habilidades
+$NAME_Daedric Influence	Influencia daédrica
+$DESC_Daedric Influence	Consigue un artefacto daédrico
+$NAME_Oblivion Walker	Peregrino del Olvido
+$DESC_Oblivion Walker	Reúne 15 artefactos daédricos
+$NAME_Dragon Soul	Alma de dragón
+$DESC_Dragon Soul	Absorbe un alma de dragón
+$NAME_Dragon Hunter	Cazador de dragones
+$DESC_Dragon Hunter	Absorbe 20 almas de dragón
+$NAME_Words of Power	Palabras de poder
+$DESC_Words of Power	Aprende las tres palabras de un grito
+$NAME_Thu'um Master	Maestro del Thu'um
+$DESC_Thu'um Master	Aprende 20 gritos
+$NAME_Apprentice	Aprendiz
+$DESC_Apprentice	Alcanza el nivel 5
+$NAME_Adept	Oficial
+$DESC_Adept	Alcanza el nivel 10
+$NAME_Expert	Experto
+$DESC_Expert	Alcanza el nivel 25
+$NAME_Master	Maestro
+$DESC_Master	Alcanza el nivel 50
+$Guardian Stones	Las piedras guardianas
+$Apprentice Stone	La piedra del aprendiz
+$Atronach Stone		La piedra del Atronach
+$Lady Stone			La piedra de la Dama
+$Lord Stone			La piedra del Señor
+$Lover Stone		La piedra del Amante
+$Mage Stone			La piedra del Mago
+$Ritual Stone		La piedra del Ritual
+$Serpent Stone		La piedra de la Serpiente
+$Shadow Stone		La piedra de la Sombra
+$Steed Stone		La piedra del Corcel
+$Thief Stone		La piedra del Ladrón
+$Tower Stone		La piedra de la Torre
+$Warrior Stone		La piedra del Guerrero

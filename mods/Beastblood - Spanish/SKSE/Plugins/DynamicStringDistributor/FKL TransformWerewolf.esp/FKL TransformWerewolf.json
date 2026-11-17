@@ -1,0 +1,2036 @@
+[
+  {
+    "editor_id": "FKLFactionNoUse",
+    "form_id": "04000818|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "不要加入",
+    "string": "No unirse",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerebearBeastRace",
+    "form_id": "0400082C|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Werebear",
+    "string": "Hombre Oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerewolfBeastRace",
+    "form_id": "040008A4|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Werewolf",
+    "string": "Hombre Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWereWolfChangeFXEffect",
+    "form_id": "04000800|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Werewolf Form",
+    "string": "Forma de Hombre Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWereWolfChangeFXEffect",
+    "form_id": "04000800|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Transform into a werewolf.",
+    "string": "Transformarse en Hombre Lobo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformWerewolfScript80",
+    "form_id": "04000801|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Ability to transform into a werewolf",
+    "string": "Habilidad de transformarse en un hombre lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformProtection",
+    "form_id": "04000802|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Transformation protection",
+    "string": "Protección de transformación",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformWerewolfScript100",
+    "form_id": "04000805|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Ability to transform into a werewolf",
+    "string": "Habilidad de transformarse en un hombre lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformWerewolfScript50",
+    "form_id": "04000806|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Ability to transform into a werewolf",
+    "string": "Habilidad de transformarse en un hombre lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformWerewolfScript30",
+    "form_id": "04000807|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Ability to transform into a werewolf",
+    "string": "Habilidad de transformarse en un hombre lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLGrantWerewlofAbility",
+    "form_id": "0400080C|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Give Wolf Blood",
+    "string": "Dar sangre de lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLControlWerewolfAI",
+    "form_id": "04000810|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "ControlWerewolf",
+    "string": "Control de Hombre Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerewolfBloodEffect",
+    "form_id": "0400081C|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Wolf blood",
+    "string": "Lobo de sangre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWereBearBloodEffect",
+    "form_id": "0400081D|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Bear Blood",
+    "string": "Oso de sangre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerebearChangeFXEffect",
+    "form_id": "0400081E|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Werebear form",
+    "string": "Forma de Hombre oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerebearChangeFXEffect",
+    "form_id": "0400081E|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Transform into a werebear.",
+    "string": "Transformarse en Hombre oso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformWerebearScript30",
+    "form_id": "0400081F|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Transforming into Werebear Ability",
+    "string": "Habilidad de transformación en hombre oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformWerebearScript50",
+    "form_id": "04000821|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Transforming into Werebear Ability",
+    "string": "Habilidad de transformación en hombre oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformWerebearScript80",
+    "form_id": "04000822|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Transforming into Werebear Ability",
+    "string": "Habilidad de transformación en hombre oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformWerebearScript100",
+    "form_id": "04000823|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Transforming into Werebear Ability",
+    "string": "Habilidad de transformación en hombre oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLGrantWerebearAbility",
+    "form_id": "04000828|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Give Bear Blood",
+    "string": "Dar sangre de oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerewolfFearEffect",
+    "form_id": "0400082E|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Werewolf Fear Howl",
+    "string": "Aullido de Miedo de Hombre Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLDLC1HowlWerewolfFearEffect",
+    "form_id": "0400082F|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "DLCWerewolf Fear Howl",
+    "string": "Aullido de Miedo de Hombre Lobo (DLC)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLSlowFFSelfArea100",
+    "form_id": "04000831|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Reduce speed",
+    "string": "Reducir velocidad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLSlowFFSelfArea100",
+    "form_id": "04000831|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Fear reduces your movement speed by<mag>%;",
+    "string": "El miedo reduce tu velocidad de movimiento en un <mag>%;",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLDamageStaminaRateEffect",
+    "form_id": "04000832|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Slow down physical recovery",
+    "string": "Ralentizar la recuperación física",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLDamageStaminaRateEffect",
+    "form_id": "04000832|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "The speed of physical recovery has decreased by<mag>%.",
+    "string": "La velocidad de recuperación física ha disminuido en un <mag>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLDamageHealRateEffect",
+    "form_id": "04000835|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Slow down the recovery of life",
+    "string": "Ralentizar la recuperación de vida",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLDamageHealRateEffect",
+    "form_id": "04000835|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "The speed of life recovery has decreased by<mag>%.",
+    "string": "La velocidad de recuperación de vida ha disminuido en un <mag>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKSWerewolfFearShoutAI",
+    "form_id": "04000836|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "FearShoutAIUse",
+    "string": "Uso de Aullido de Miedo por IA ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWereBeastFearTotem",
+    "form_id": "04000837|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "FearTotem",
+    "string": "Tótem del Miedo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKSWerebearFearShoutAI",
+    "form_id": "0400083A|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "FearShoutAIUse",
+    "string": "Uso de Aullido de Miedo por IA ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLGrantWerebearTotemEffect",
+    "form_id": "0400083D|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Endow Werebear Totem",
+    "string": "Otorgar Tótem del Hombre Oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLGrantWerebearTotemEffect",
+    "form_id": "0400083D|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Assign the target Bear Man totem, and the target will be able to use the corresponding totem War Roar. The totems are Fear Totem, Bloodline Totem, and Hunting Totem, respectively, for fear power, summoning power, and motivation power. The target must have Bear Man bloodline, and can only activate one totem at a time. Reusing them can remove previously added totems.",
+    "string": "Asignar el tótem del Hombre Oso al objetivo, y el objetivo podrá usar el correspondiente Rugido de Guerra de tótem. Los tótems son Tótem del Miedo, Tótem de Linaje, y Tótem de Caza, respectivamente, para el poder del miedo, el poder de invocación, y el poder de motivación. El objetivo debe tener linaje de Hombre Oso, y solo puede activar un tótem a la vez. Reutilizarlos puede eliminar los tótems añadidos previamente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLGrantWerewolfTotemEffect",
+    "form_id": "04000840|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Endow werewolf totems",
+    "string": "Otorgar tótems de Hombre Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLGrantWerewolfTotemEffect",
+    "form_id": "04000840|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Assign the target werewolf totem, and the target will be able to use the corresponding totem battle roar. The totems are fear totem, blood kinship totem, and hunting totem, respectively, for fear power, summoning power, and motivation power. The target must have werewolf bloodline, and can only activate one totem at a time. Reusing them can remove previously added totems.",
+    "string": "Asignar el tótem del hombre lobo al objetivo, y el objetivo podrá usar el correspondiente rugido de guerra de tótem. Los tótems son tótem del miedo, tótem de parentesco de sangre, y tótem de caza, respectivamente, para el poder del miedo, el poder de invocación, y el poder de motivación. El objetivo debe tener linaje de hombre lobo, y solo puede activar un tótem a la vez. Reutilizarlos puede eliminar los tótems añadidos previamente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerewolfSummonWolvesEffect1",
+    "form_id": "04000845|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Summon Wolves 1",
+    "string": "Invocar lobos 1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerewolfSummonWolvesEffect1",
+    "form_id": "04000845|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Werewolves howl and summon companions.",
+    "string": "Los hombres lobo aúllan y convocan compañeros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerewolfSummonWolvesEffect2",
+    "form_id": "04000849|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Summon Wolves 2",
+    "string": "Invocar lobos 2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerewolfSummonWolvesEffect2",
+    "form_id": "04000849|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Werewolves howl and summon companions.",
+    "string": "Los hombres lobo aúllan y convocan compañeros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerewolfSummonWolvesEffect3",
+    "form_id": "0400084B|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Summon Wolves 3",
+    "string": "Invocar lobos 3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerewolfSummonWolvesEffect3",
+    "form_id": "0400084B|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Werewolves howl and summon companions.",
+    "string": "Los hombres lobo aúllan y convocan compañeros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWereBeastBloodTotem",
+    "form_id": "0400084D|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "BloodTotem",
+    "string": "Tótem de Sangre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerewolfSummonAI",
+    "form_id": "0400084F|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "HowlWerewolfSummonAI",
+    "string": "Aullido de Hombre Lobo - Invocación IA",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerebearSummonWolvesEffect1",
+    "form_id": "04000855|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Summon Wolves 1",
+    "string": "Invocar lobos 1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerebearSummonWolvesEffect1",
+    "form_id": "04000855|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "The Werebear howled and summoned his companions.",
+    "string": "El Hombre Oso aulló y convocó a sus compañeros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerebearSummonWolvesEffect2",
+    "form_id": "04000856|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Summon Wolves 2",
+    "string": "Invocar lobos 2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerebearSummonWolvesEffect2",
+    "form_id": "04000856|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "The Werebear howled and summoned his companions.",
+    "string": "El Hombre Oso aulló y convocó a sus compañeros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerebearSummonWolvesEffect3",
+    "form_id": "04000857|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Summon Wolves 3",
+    "string": "Invocar lobos 3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerebearSummonWolvesEffect3",
+    "form_id": "04000857|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "The Werebear howled and summoned his companions.",
+    "string": "El Hombre Oso aulló y convocó a sus compañeros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerebearSummonAI",
+    "form_id": "04000859|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "HowlWerebearSummonAI",
+    "string": "Aullido de Hombre oso - Invocación IA",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLFortifyHealthEffect",
+    "form_id": "0400085C|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Strengthening Life",
+    "string": "Fortalecer la vida",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLFortifyHealthEffect",
+    "form_id": "0400085C|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Increase health by<mag>points;",
+    "string": "Aumenta la salud en <mag> puntos;",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLFortifyStaminaEffect",
+    "form_id": "0400085D|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Strengthen physical strength",
+    "string": "Fortalecer la fuerza física",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLFortifyStaminaEffect",
+    "form_id": "0400085D|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Increase physical strength by<mag>points;",
+    "string": "Aumenta la fuerza física en <mag> puntos;",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLFortifyHealthRateEffect",
+    "form_id": "0400085E|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Strengthen the recovery system",
+    "string": "Fortalecer el sistema de recuperación",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLFortifyHealthCombatRateMultEffect",
+    "form_id": "0400085F|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Strengthen combat life recovery",
+    "string": "Fortalecer la recuperación de vida en combate",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLFortifyStaminaRateMultEffect",
+    "form_id": "04000861|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Strengthen physical recovery",
+    "string": "Fortalecer la recuperación física",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLFortifyStaminaRateMultEffect",
+    "form_id": "04000861|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "The speed of physical recovery has increased by<mag>%.",
+    "string": "La velocidad de recuperación física ha aumentado en un <mag>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLFortifyOneHandedEffect",
+    "form_id": "04000863|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Strengthening One Hand",
+    "string": "Fortalecer con una mano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLFortifyOneHandedEffect",
+    "form_id": "04000863|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "One handed skill improvement<mag>points;",
+    "string": "Mejora de habilidad con una mano <mag> puntos;",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLFortifyTwoHandedEffect",
+    "form_id": "04000864|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Two-Handed",
+    "string": "Fortalecer con dos manos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLFortifyTwoHandedEffect",
+    "form_id": "04000864|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Improve hand skills by<mag>points;",
+    "string": "Mejora de habilidades con las manos en <mag> puntos;",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLFortifyMarksmanEffect",
+    "form_id": "04000865|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Strengthen archery skills",
+    "string": "Fortalecer habilidades de arquería",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLFortifyMarksmanEffect",
+    "form_id": "04000865|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Arrow skill improvement<mag>points;",
+    "string": "Mejora de habilidades con arco <mag> puntos;",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLInfluenceAggUpFFSelfArea1",
+    "form_id": "04000866|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "暴乱术",
+    "string": "Hechizo de Caos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLInfluenceAggUpFFSelfArea1",
+    "form_id": "04000866|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Causes creatures and humans up to level <mag> to attack any nearby target for <dur> seconds.",
+    "string": "Hace que criaturas y humanos de hasta nivel <mag> ataquen a cualquier objetivo cercano durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLInfluenceConfUpFFSelfArea",
+    "form_id": "04000867|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "重振术",
+    "string": "Hechizo de Coraje",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLInfluenceConfUpFFSelfArea",
+    "form_id": "04000867|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "The target will not escape and will gain additional life and stamina for<dur>seconds.",
+    "string": "El objetivo no huirá y obtendrá vida y resistencia adicionales durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWereBeastCourageTotem",
+    "form_id": "04000868|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "CourageTotem",
+    "string": "Tótem del Coraje",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKSWerebearCourageShoutAI",
+    "form_id": "0400086B|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "CourageShoutAIUse",
+    "string": "Uso de Grito de Coraje por IA",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKSWerewolfCourageShoutAI",
+    "form_id": "0400086C|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "CourageShoutAIUse",
+    "string": "Uso de Grito de Coraje por IA",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLInfluenceAggUpFFSelfArea2",
+    "form_id": "0400086D|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "暴乱术",
+    "string": "Hechizo de Caos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLInfluenceAggUpFFSelfArea2",
+    "form_id": "0400086D|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Causes creatures and humans up to level <mag> to attack any nearby target for <dur> seconds.",
+    "string": "Hace que criaturas y humanos de hasta nivel <mag> ataquen a cualquier objetivo cercano durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerebearSummonWolvesEffect4",
+    "form_id": "04000878|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Summon Wolves 4",
+    "string": "Invocar lobos 4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerebearSummonWolvesEffect4",
+    "form_id": "04000878|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "The Werebear howled and summoned his companions.",
+    "string": "El Hombre Oso aulló y convocó a sus compañeros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLSummonWerebearBoss",
+    "form_id": "0400087F|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Hunter Trial",
+    "string": "Prueba del Cazador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLSummonWerebearBoss",
+    "form_id": "0400087F|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Start a Hunter Trial and summon a Halsin Hunter in front of you to battle against them. After the first victory, you will gain the ability to transform into a Bear Man, which can be challenged multiple times. Currently, there are no other rewards for subsequent challenges. The level of the hunter grows with the player, and if the first hunter is not defeated, they will continue to hover in the spawn area. Successfully defeated<Global=FKLWerebearBossDeathCount>hunters.",
+    "string": "Inicia una Prueba del Cazador y convoca a un Cazador Halsin frente a ti para luchar contra él. Tras la primera victoria, obtendrás la habilidad de transformarte en Hombre Oso, lo que se puede desafiar múltiples veces. Actualmente, no hay otras recompensas por desafíos posteriores. El nivel del cazador crece con el jugador, y si el primer cazador no es derrotado, continuará rondando en el área de aparición. Cazadores derrotados exitosamente: <Global=FKLWerebearBossDeathCount>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLBossDeathCountEffect",
+    "form_id": "04000888|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "DeathCount",
+    "string": "Conteo de Muertes ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTurnNordRaceBack",
+    "form_id": "04000889|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "TurnNordRaceBack",
+    "string": "Restaurar Raza Nórdica",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTurnNordRaceBack",
+    "form_id": "04000889|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Become human again.",
+    "string": "Volver a ser humano.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTurnBackForce",
+    "form_id": "0400088D|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Compulsory termination",
+    "string": "Terminación forzada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTurnBackForce",
+    "form_id": "0400088D|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "If the target remains stuck in werewolf form indefinitely due to a bug, use this spell to forcibly revert them to human form. (Note: Use only when confirmed as a bug; if transformation fails, first check the target's health status.) Currently supports vanilla races only.",
+    "string": "Si el objetivo permanece atascado en forma de hombre lobo indefinidamente debido a un error, usa este hechizo para forzarlo a volver a la forma humana. (Nota: Usar solo cuando se confirme como error; si la transformación falla, primero verifica el estado de salud del objetivo). Actualmente solo compatible con razas vanilla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLRevertSpell",
+    "form_id": "04000893|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Release transformation",
+    "string": "Liberar transformación",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLRevertSpell",
+    "form_id": "04000893|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Early release of target transformation, only applicable to those who want to release transformation in advance, cannot fix the bug of not returning to humans after timeout, no longer required in the new version",
+    "string": "Liberación anticipada de la transformación del objetivo, solo aplicable a quienes deseen liberar la transformación por adelantado, no puede corregir el error de no volver a humanos tras el tiempo límite, ya no es necesario en la nueva versión.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAutoDismissTransformWerebear",
+    "form_id": "0400089A|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Release from battle and transform",
+    "string": "Salir del combate y transformarse",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLBodyCleanScript",
+    "form_id": "0400089B|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Clean up the boss's body",
+    "string": "Limpiar el cuerpo del jefe",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAutoDismissTransformWerewolf",
+    "form_id": "0400089C|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Release from battle and transform",
+    "string": "Salir del combate y transformarse",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLRevertSpellSelf",
+    "form_id": "0400089D|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Release transformation",
+    "string": "Liberar transformación",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLRevertSpellSelf",
+    "form_id": "0400089D|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Release target transformation",
+    "string": "Liberar transformación del objetivo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerebeastKillmoveEffect",
+    "form_id": "0400089F|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "狼人处决",
+    "string": "Ejecución de hombre lobo ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerebeastSprintAttackEffect",
+    "form_id": "040008A1|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "狼人扑击",
+    "string": "Embestida de hombre lobo ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerewolfKnockbackEffect",
+    "form_id": "040008A3|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "狼人击退效果",
+    "string": "Efecto de retroceso de hombre lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWereBeastClaw",
+    "form_id": "04000879|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Beast Claws ",
+    "string": "Garras de Bestia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformWerewolfSpell",
+    "form_id": "04000803|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "TransformWerewolf",
+    "string": "Transformarse en Hombre Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformWerewolfAbility80",
+    "form_id": "04000804|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Werewolf bloodline",
+    "string": "Linaje de hombre lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformWerewolfAbility100",
+    "form_id": "04000809|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Werewolf bloodline",
+    "string": "Linaje de hombre lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformWerewolfAbility50",
+    "form_id": "0400080A|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Werewolf bloodline",
+    "string": "Linaje de hombre lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformWerewolfAbility30",
+    "form_id": "0400080B|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Werewolf bloodline",
+    "string": "Linaje de hombre lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLGrantWerewolfBlood",
+    "form_id": "0400080F|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Give Wolf Blood",
+    "string": "Dar sangre de lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLGrantWerewolfBlood",
+    "form_id": "0400080F|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Imbues the target with werewolf blood, granting them the ability to transform into a werewolf. During combat, the target may assume beast form. After combat ends, if not in a downed/bleeding state and with at least 10% health remaining, they will revert to human form within 5 seconds. Recasting this spell on the target removes the werewolf blood.",
+    "string": "Imbuye al objetivo con sangre de hombre lobo, otorgándole la habilidad de transformarse en hombre lobo. Durante el combate, el objetivo puede asumir forma de bestia. Al finalizar el combate, si no está en estado de derribo/sangrado y tiene al menos un 10% de salud restante, volverá a la forma humana dentro de 5 segundos. Reutilizar este hechizo en el objetivo elimina la sangre de hombre lobo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerewolfUnarmedDamage",
+    "form_id": "04000814|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Werewolf Claw",
+    "string": "Garra de hombre lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerewolfBodyAbility",
+    "form_id": "04000815|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "The body of a werewolf",
+    "string": "El cuerpo de un hombre lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerewolfDamageResist",
+    "form_id": "04000816|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Werewolf Physical Resistance",
+    "string": "Resistencia física de hombre lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerewolfMagicResist",
+    "form_id": "04000817|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Werewolf Magic Resistance",
+    "string": "Resistencia mágica de hombre lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformWerebearSpell",
+    "form_id": "04000820|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "TransformWerebear",
+    "string": "Transformarse en Hombre Oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformWerebearAbility100",
+    "form_id": "04000824|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Werebear bloodline",
+    "string": "Linaje de hombre oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformWerebearAbility80",
+    "form_id": "04000825|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Werebear bloodline",
+    "string": "Linaje de hombre oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformWerebearAbility50",
+    "form_id": "04000826|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Werebear bloodline",
+    "string": "Linaje de hombre oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformWerebearAbility30",
+    "form_id": "04000827|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Werebear bloodline",
+    "string": "Linaje de hombre oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLGrantWerebearBlood",
+    "form_id": "0400082B|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Give Bear Blood",
+    "string": "Dar sangre de oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLGrantWerebearBlood",
+    "form_id": "0400082B|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Imbues the target with Werebear blood, granting them the ability to transform into a Werebear. During combat, the target may assume beast form. After combat ends, if not in a downed/bleeding state and with at least 10% health remaining, they will revert to human form within 5 seconds. Recasting this spell on the target removes the Werebear blood.",
+    "string": "Imbuye al objetivo con sangre de Hombre Oso, otorgándole la habilidad de transformarse en Hombre Oso. Durante el combate, el objetivo puede asumir forma de bestia. Al finalizar el combate, si no está en estado de derribo/sangrado y tiene al menos un 10% de salud restante, volverá a la forma humana dentro de 5 segundos. Reutilizar este hechizo en el objetivo elimina la sangre de Hombre Oso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerewolfFear",
+    "form_id": "0400082D|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fear roars",
+    "string": "Rugidos de miedo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerebearFear",
+    "form_id": "04000830|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fear roars",
+    "string": "Rugidos de miedo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerewolfFearTotemAbility",
+    "form_id": "04000838|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fear Totem (Werewolf)",
+    "string": "Tótem del Miedo (Hombre Lobo)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerebearFearTotemAbility",
+    "form_id": "04000839|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fear Totem (Werebear)",
+    "string": "Tótem del Miedo (Hombre oso)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLGrantWerebearTotem",
+    "form_id": "04000842|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Endow Werebear Totem",
+    "string": "Otorgar Tótem del Hombre Oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLGrantWerewolfTotem",
+    "form_id": "04000843|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Endow werewolf totems",
+    "string": "Otorgar tótems de Hombre Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerewolfBloodTotemAbility",
+    "form_id": "0400084E|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Bloodline Totem (Werewolf)",
+    "string": "Tótem de Linaje (Hombre Lobo)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerewolfSummonWolves",
+    "form_id": "04000850|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Group roar",
+    "string": "Rugido grupal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerebearBloodTotemAbility",
+    "form_id": "04000858|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Bloodline Totem (Werebear)",
+    "string": "Tótem de Linaje (Hombre oso)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerebearSummonWolves",
+    "form_id": "0400085A|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Group roar",
+    "string": "Rugido grupal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerebearCourageTotemAbility",
+    "form_id": "04000869|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Hunting Totem (Werebear)",
+    "string": "Tótem de Caza (Hombre Oso)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerewolfCourageTotemAbility",
+    "form_id": "0400086A|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Hunting Totem (Werewolf)",
+    "string": "Tótem de Caza (Hombre Lobo)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerebearCourage",
+    "form_id": "0400086E|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "The leader roared",
+    "string": "El líder rugió",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerewolfCourage",
+    "form_id": "0400086F|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "The leader roared",
+    "string": "El líder rugió",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLDeathCountAbility",
+    "form_id": "0400088A|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "DeathCount",
+    "string": "Conteo de Muertes ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLCallWildHunterChallenge",
+    "form_id": "0400088B|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Hunter Trial",
+    "string": "Prueba del Cazador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTurnBackAbility",
+    "form_id": "0400088C|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Become human again",
+    "string": "Volver a ser humano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLForceRevertHuman",
+    "form_id": "04000890|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Humanoid repair",
+    "string": "Reparación humanoide",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTransformWerebearAbility40",
+    "form_id": "04000892|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Werebear bloodline",
+    "string": "Linaje de hombre oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLRevertHuman",
+    "form_id": "04000894|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Release transformation",
+    "string": "Liberar transformación",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLRevertHumanSelf",
+    "form_id": "0400089E|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Release transformation",
+    "string": "Liberar transformación",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerebeastKillmoveAbility",
+    "form_id": "040008A0|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "狼人处决",
+    "string": "Ejecución de hombre lobo ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerewolfKnockbackSpell",
+    "form_id": "040008A2|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "StaggerFun",
+    "string": "Diversión de tambaleo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTestRing",
+    "form_id": "04000813|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Repair the ring",
+    "string": "Reparar el anillo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLTestRing",
+    "form_id": "04000813|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "If there is a bug that cannot revert back to a human state no matter how long it takes, wearing this ring can grant the ability to forcibly release the state. (Only used in case of bugs!!!)",
+    "string": "Si hay un error que impide volver al estado humano sin importar cuánto tiempo pase, usar este anillo otorga la habilidad de forzar la liberación del estado. (¡Solo usar en caso de bugs!)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHircinesTestRing",
+    "form_id": "04000844|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Hircines Trial Ring",
+    "string": "Anillo de Prueba de Hircine",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHircinesTestRing",
+    "form_id": "04000844|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "Wear the ring to gain the ability to initiate the Hunter Trial, and defeat the summoned hircines Hunter to gain the ability to transform NPCs into Werebear.",
+    "string": "Usa el anillo para obtener la habilidad de iniciar la Prueba del Cazador, y derrota al cazador de Hircine invocado para obtener la habilidad de transformar NPCs en hombres oso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHircinesRing01",
+    "form_id": "0400087A|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Beast Ring",
+    "string": "Anillo de Bestia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHircinesRing01",
+    "form_id": "0400087A|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "Damage increased by 50 points in Beast state.",
+    "string": "El daño aumenta en 50 puntos en estado Bestia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLArmorStormcloakBearHelmet",
+    "form_id": "0400087D|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Bear skin hat",
+    "string": "Sombrero de piel de oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLSkinNakedWereBearBeastLight",
+    "form_id": "04000896|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "熊人皮肤",
+    "string": "Piel de hombre oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLSkinNakedWereBearBeastHeavy",
+    "form_id": "04000897|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "熊人皮肤",
+    "string": "Piel de hombre oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLSkinNakedWerewolfBeastLight",
+    "form_id": "04000898|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "狼人皮肤",
+    "string": "Piel de hombre lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLSkinNakedWerewolfBeastHeavy",
+    "form_id": "04000899|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "狼人皮肤",
+    "string": "Piel de hombre lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLSpellTomeGrantWerewolfBlood",
+    "form_id": "04000873|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Book: Bloodline Sharing",
+    "string": "Libro de hechizos: Compartir Linaje",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLSpellTomeGrantWerewolfBlood",
+    "form_id": "04000873|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nBloodline sharing",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nCompartir linaje",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLSpellTomeGrantWerewolfTotem",
+    "form_id": "04000874|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Book: Werewolf Totem",
+    "string": "Libro de hechizos: Tótem de Hombre Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLSpellTomeGrantWerewolfTotem",
+    "form_id": "04000874|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nBloodline sharing",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nCompartir linaje",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLSpellTomeGrantWerebearTotem",
+    "form_id": "04000875|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Book: Werebear Totem",
+    "string": "Libro de hechizos: Tótem de Hombre Oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLSpellTomeGrantWerebearTotem",
+    "form_id": "04000875|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nBloodline sharing",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nCompartir linaje",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLSpellTomeReturnSpell",
+    "form_id": "04000895|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Forced Reversion",
+    "string": "Libro de hechizo: Reversión forzada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLSpellTomeReturnSpell",
+    "form_id": "04000895|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nBloodline sharing",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nCompartir linaje",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLEnchNordicDaggerAbsorbS05",
+    "form_id": "04000885|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "诺德积累匕首",
+    "string": "Daga Nórdica de Acumulación",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlSummonWolf",
+    "form_id": "04000847|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bloodline Grey Wolf",
+    "string": "Linaje de Lobo Gris",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlSummonIceWolf",
+    "form_id": "04000848|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bloodline Ice Wolf",
+    "string": "Linaje de Lobo de Hielo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlSummonWerewolf",
+    "form_id": "0400084C|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bloodline werewolf",
+    "string": "Linaje de Hombre Lobo\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlSummonbear",
+    "form_id": "04000852|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bloodline Grizzly Bear",
+    "string": "Linaje de Oso Grizzly",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlSummonBearSnow",
+    "form_id": "04000853|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bloodline Snow Bear",
+    "string": "Linaje de Oso de Nieve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlSummonWerebear",
+    "form_id": "04000854|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bloodline Werebear",
+    "string": "Linaje de Hombre Oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlSummonWerebearboss",
+    "form_id": "04000877|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bloodline Werebear",
+    "string": "Linaje de Hombre Oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerebearBoss",
+    "form_id": "0400087C|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Hircine's Hunter",
+    "string": "Cazador de Hircine",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerebearBossClone",
+    "form_id": "04000880|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Hircine's Hunter",
+    "string": "Cazador de Hircine",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunJorrvaskrBasement",
+    "form_id": "0007947A|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Jorrvaskr Living Quarters",
+    "string": "Alojamientos de Jorrvaskr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccPlaceholder13Interior01",
+    "form_id": "010030EB|Update.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "创意俱乐部空间",
+    "string": "Espacio del Club de Creación ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccPlaceholder12Interior01",
+    "form_id": "010030EC|Update.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "创意俱乐部空间",
+    "string": "Espacio del Club de Creación ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunUnderforge",
+    "form_id": "000165A6|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Underforge",
+    "string": "Forja Subterránea",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWerewolfControlQuest",
+    "form_id": "04000812|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Werewolf behavior control",
+    "string": "Control de comportamiento de hombre lobo  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLGhostBeastPerk",
+    "form_id": "04000846|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Ghost Physics Half Damage",
+    "string": "Física fantasmal mitad de daño  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLWereBeastCouragePerk",
+    "form_id": "04000872|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Hunting Incentive Totem",
+    "string": "Tótem de incentivo de caza ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddAbilityMenu01",
+    "form_id": "0400080D|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "When do you want the target to transform into a werewolf in battle?",
+    "string": "¿Cuándo quieres que el objetivo se transforme en hombre lobo durante la batalla?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddAbilityMenu01",
+    "form_id": "0400080D|FKL TransformWerewolf.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Blood volume 30%",
+    "string": "Volumen de sangre 30%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddAbilityMenu01",
+    "form_id": "0400080D|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Blood volume 50%",
+    "string": "Volumen de sangre 50%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddAbilityMenu01",
+    "form_id": "0400080D|FKL TransformWerewolf.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Blood volume 80%",
+    "string": "Volumen de sangre 80%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddAbilityMenu01",
+    "form_id": "0400080D|FKL TransformWerewolf.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "just in Combatstate",
+    "string": "solo en estado de combate  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddAbilityMenu01",
+    "form_id": "0400080D|FKL TransformWerewolf.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Not giving wolf blood",
+    "string": "No dar sangre de lobo ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLRemoveAbilityMenu01",
+    "form_id": "0400080E|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Do you want to clear the target's wolf blood",
+    "string": "¿Quieres eliminar la sangre de lobo del objetivo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLRemoveAbilityMenu01",
+    "form_id": "0400080E|FKL TransformWerewolf.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "clean up",
+    "string": "Limpiar ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLRemoveAbilityMenu01",
+    "form_id": "0400080E|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Do not clear",
+    "string": "No limpiar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddAbilityMenu02",
+    "form_id": "04000829|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "When do you want the target to transform into Werebear in battle?",
+    "string": "¿Cuándo quieres que el objetivo se transforme en Hombre Oso durante la batalla?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddAbilityMenu02",
+    "form_id": "04000829|FKL TransformWerewolf.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Blood volume 30%",
+    "string": "Volumen de sangre 30%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddAbilityMenu02",
+    "form_id": "04000829|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Blood volume 50%",
+    "string": "Volumen de sangre 50%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddAbilityMenu02",
+    "form_id": "04000829|FKL TransformWerewolf.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Blood volume 80%",
+    "string": "Volumen de sangre 80%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddAbilityMenu02",
+    "form_id": "04000829|FKL TransformWerewolf.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "just in Combatstate",
+    "string": "solo en estado de combate  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddAbilityMenu02",
+    "form_id": "04000829|FKL TransformWerewolf.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Not giving bear blood",
+    "string": "No dar sangre de oso ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLRemoveAbilityMenu02",
+    "form_id": "0400082A|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Do you want to clear the target's bear blood",
+    "string": "¿Quieres eliminar la sangre de oso del objetivo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLRemoveAbilityMenu02",
+    "form_id": "0400082A|FKL TransformWerewolf.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "clean up",
+    "string": "Limpiar ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLRemoveAbilityMenu02",
+    "form_id": "0400082A|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Do not clear",
+    "string": "No limpiar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddTotemMenu02",
+    "form_id": "0400083E|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What totem do you want to add to the target?",
+    "string": "¿Qué tótem quieres agregar al objetivo? ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddTotemMenu02",
+    "form_id": "0400083E|FKL TransformWerewolf.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Werebear fear totems",
+    "string": "Tótems de miedo del Hombre Oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddTotemMenu02",
+    "form_id": "0400083E|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Werebear Bloodline Totem",
+    "string": "Tótem de linaje del Hombre Oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddTotemMenu02",
+    "form_id": "0400083E|FKL TransformWerewolf.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Werebear Hunting Totem",
+    "string": "Tótem de caza del Hombre Oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddTotemMenu02",
+    "form_id": "0400083E|FKL TransformWerewolf.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "leave",
+    "string": "salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLRemoveTotemMenu",
+    "form_id": "0400083F|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Do you want to remove the current totem of the target",
+    "string": "¿Quieres eliminar el tótem actual del objetivo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLRemoveTotemMenu",
+    "form_id": "0400083F|FKL TransformWerewolf.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "remove",
+    "string": "eliminar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLRemoveTotemMenu",
+    "form_id": "0400083F|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Do not remove",
+    "string": "No eliminar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddTotemMenu01",
+    "form_id": "04000841|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What totem do you want to add to the target?",
+    "string": "¿Qué tótem quieres agregar al objetivo? ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddTotemMenu01",
+    "form_id": "04000841|FKL TransformWerewolf.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Werewolf Fear Totem",
+    "string": "Tótem de miedo del Hombre Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddTotemMenu01",
+    "form_id": "04000841|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Werewolf Bloodline Totem",
+    "string": "Tótem de linaje del Hombre Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddTotemMenu01",
+    "form_id": "04000841|FKL TransformWerewolf.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Werewolf Hunting Totem",
+    "string": "Tótem de caza del Hombre Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLAddTotemMenu01",
+    "form_id": "04000841|FKL TransformWerewolf.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "leave",
+    "string": "salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHumanRaceMenu",
+    "form_id": "0400088E|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Please select the original race of the target before transformation",
+    "string": "Por favor selecciona la raza original del objetivo antes de la transformación  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHumanRaceMenu",
+    "form_id": "0400088E|FKL TransformWerewolf.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Argonian",
+    "string": "Argoniano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHumanRaceMenu",
+    "form_id": "0400088E|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Breton",
+    "string": "Bretón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHumanRaceMenu",
+    "form_id": "0400088E|FKL TransformWerewolf.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "DarkElf",
+    "string": "Elfo oscuro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHumanRaceMenu",
+    "form_id": "0400088E|FKL TransformWerewolf.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "HighElf",
+    "string": "Alto Elfo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHumanRaceMenu",
+    "form_id": "0400088E|FKL TransformWerewolf.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Imperial",
+    "string": "Imperial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHumanRaceMenu",
+    "form_id": "0400088E|FKL TransformWerewolf.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Khajiit",
+    "string": "Khajiita",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHumanRaceMenu",
+    "form_id": "0400088E|FKL TransformWerewolf.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Nord",
+    "string": "Nórdico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHumanRaceMenu",
+    "form_id": "0400088E|FKL TransformWerewolf.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "Orc",
+    "string": "Orco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHumanRaceMenu",
+    "form_id": "0400088E|FKL TransformWerewolf.esp",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "Redguard",
+    "string": "Guardia rojo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHumanRaceMenu",
+    "form_id": "0400088E|FKL TransformWerewolf.esp",
+    "index": 9,
+    "type": "MESG ITXT",
+    "original": "WoodElf",
+    "string": "Elfo del bosque",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLNOUsefulTarget",
+    "form_id": "0400088F|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Ineffective targets",
+    "string": "Objetivos no válidos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerewolfFearShout",
+    "form_id": "0400083B|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SHOU FULL",
+    "original": "Fear roars",
+    "string": "Rugidos de miedo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerewolfFearShout",
+    "form_id": "0400083B|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SHOU DESC",
+    "original": "Werewolf howl and spread fear to all nearby living creatures.",
+    "string": "El hombre lobo aúlla y esparce miedo a todas las criaturas vivas cercanas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerebearFearShout",
+    "form_id": "0400083C|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SHOU FULL",
+    "original": "Fear roars",
+    "string": "Rugidos de miedo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerebearFearShout",
+    "form_id": "0400083C|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SHOU DESC",
+    "original": "Werebear howled and spread fear to all nearby living creatures.",
+    "string": "El Hombre Oso aulló y esparció miedo a todas las criaturas vivas cercanas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerewolfSummonWolvesShout",
+    "form_id": "04000851|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SHOU FULL",
+    "original": "Group roar",
+    "string": "Rugido grupal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerewolfSummonWolvesShout",
+    "form_id": "04000851|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SHOU DESC",
+    "original": "Werewolves howl and summon companions.",
+    "string": "Los hombres lobo aúllan y convocan compañeros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerebearSummonWolvesShout",
+    "form_id": "0400085B|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SHOU FULL",
+    "original": "Group roar",
+    "string": "Rugido grupal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerebearSummonWolvesShout",
+    "form_id": "0400085B|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SHOU DESC",
+    "original": "The Werebear howled and summoned his companions.",
+    "string": "El Hombre Oso aulló y convocó a sus compañeros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerebearCourageShout",
+    "form_id": "04000870|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SHOU FULL",
+    "original": "The leader roared",
+    "string": "El líder rugió",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerebearCourageShout",
+    "form_id": "04000870|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SHOU DESC",
+    "original": "Werebear howl and spread chaos to all nearby living creatures, while inspiring allies.",
+    "string": "El Hombre Oso aúlla y esparce caos a todas las criaturas vivas cercanas, mientras inspira a los aliados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerewolfCourageShout",
+    "form_id": "04000871|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SHOU FULL",
+    "original": "The leader roared",
+    "string": "El líder rugió",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FKLHowlWerewolfCourageShout",
+    "form_id": "04000871|FKL TransformWerewolf.esp",
+    "index": 1,
+    "type": "SHOU DESC",
+    "original": "The werewolf howls and spreads chaos to all nearby living creatures, while inspiring allies.",
+    "string": "El hombre lobo aúlla y esparce caos a todas las criaturas vivas cercanas, mientras inspira a los aliados.",
+    "status": "TranslationComplete"
+  }
+]

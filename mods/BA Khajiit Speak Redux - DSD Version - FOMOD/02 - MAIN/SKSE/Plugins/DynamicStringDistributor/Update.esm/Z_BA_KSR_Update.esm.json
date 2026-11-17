@@ -1,0 +1,1397 @@
+[
+  {
+    "editor_id": "sLegendaryResetConfirm",
+    "form_id": "010009D9|Update.esm",
+    "index": 1,
+    "type": "GMST DATA",
+    "original": "Al convertir una habilidad en legendaria, esta pasa a valer 15 otra vez y se te devuelven sus ventajas. ¿Seguro que quieres hacerlo? ",
+    "string": "Convertirse en poseedor de una habilidad legendaria hará que Khajiit olvide la mayor parte de esta habilidad (reiniciada a 15 puntos) y los perks junto con ella. ¿Continuar con este olvido, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "sLegendaryResetSecondConfirm",
+    "form_id": "010009D8|Update.esm",
+    "index": 1,
+    "type": "GMST DATA",
+    "original": "¿Seguro que quieres convertir esta habilidad en legendaria?",
+    "string": "¿Hacer esta habilidad Legendaria, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "sKinectAllyTooFarToTrade",
+    "form_id": "0100094F|Update.esm",
+    "index": 1,
+    "type": "GMST DATA",
+    "original": "El seguidor está demasiado lejos para intercambiar cosas con él.",
+    "string": "El maldito seguidor está demasiado lejos para comerciar... ¡¡HEY TÚ!!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueRiftenAsbjornBranchTopic",
+    "form_id": "00021CE0|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Eres muy joven para ser un herrero.",
+    "string": "Pareces joven... para un herrero.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DGCrimeGoToJail",
+    "form_id": "000267DD|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me rindo. Llévame a la cárcel.",
+    "string": "<Alias=Player> se somete. Llévate a <Alias.PronounObj=Player> a una de esas frías celdas.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00092A41|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No volverás a ver la luz del día. Nadie escapa de la mina de Cidhna. Nadie.",
+    "string": "Nunca volverás a ver el sol. Nadie escapa de la Mina de Cidhna. Nadie.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS12QuintusRepairingPhialBranchTopic",
+    "form_id": "0002C24C|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tengo los materiales que me pediste.",
+    "string": "Este uno tiene los materiales que pediste.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MG04Stage20AncanoHallBranchTopic",
+    "form_id": "0002C8C1|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Qué quieres que haga?",
+    "string": "¿Qué deseas que haga <Alias=Player>?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DB07AstridCiceroDeadYesChoice",
+    "form_id": "000350DC|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "DB07AstridCiceroDeadYesChoice",
+    "string": "DB07AstridCiceroDeadYesChoice  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000350E1|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sí, Cicerón ha muerto.",
+    "string": "Cicerón está muerto, si.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueRiftenUngrienBlackBriarBranchTopic04",
+    "form_id": "000369CD|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me alegro de que estés tan contento.",
+    "string": "<Alias=Player> está feliz de que estés feliz, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueRiftenUngrienBlackBriarBranchTopic03",
+    "form_id": "000369CF|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Anda, toma y dime la verdad. (<BribeCost> de oro)",
+    "string": "Aquí... ahora dile a <Alias=Player> la verdad. (<BribeCost> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueRiftenUngrienBlackBriarBranchTopic01",
+    "form_id": "000369D1|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Vamos, puedes contarme la verdad. (Persuadir)",
+    "string": "Vamos, suelta tu carga. Confía en Khajiit. (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueRiftenUngrienBlackBriarBranchTopic",
+    "form_id": "000369D2|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Háblame de Maven Espino Negro.",
+    "string": "Cuéntale a este uno sobre Maven Espino Negro.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00016CA2|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Espero de verdad que mamá y papá vengan a buscarme pronto. Desde que se fue ese Avento, este lugar es una locura.",
+    "string": "Espero que mamá y papá vengan pronto a buscarme. Desde que ese chico Aventus se fue, este lugar se ha vuelto loco.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00016CA4|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Cuando Avento se largó, cuando dijo esas cosas sobre matar a Grelod... nunca imaginé que fuera en serio...",
+    "string": "Cuando Aventus se fue, cuando dijo esas... cosas, sobre matar a Grelod... nunca imaginé que hablaba en serio...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000A402C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Grelod... asesinada. Aquí. Yo... necesito... aire... Tú... tú... ¡márchate de aquí! ¡Largo!",
+    "string": "Grelod... asesinada. Aquí. Necesito aire... ¡Tú... tú, sal de aquí! ¡Sal!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS06StyrrAdvice03a",
+    "form_id": "0004158D|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Espera, ¿quieres que haga esto sin ayuda?",
+    "string": "Espera, quieres que <Alias=Player> haga esto solo?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0004158E|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sí. He hecho que Falk te volviese a llamar porque tú viste la invocación y ahora tienes una conexión con Potema. Debes enfrentarte a ella.",
+    "string": "Sí. Hice que Falk te llamara de vuelta porque estuviste en la invocación, ahora tienes conexión con Potema. Debes ocuparte de ella.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0004158E|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Sin embargo, puedo ofrecerte ayuda para combatir a sus esbirros. Esto debería ayudarte a sobrevivir a las catacumbas.",
+    "string": "Puedo ofrecerte ayuda con sus esbirros, sin embargo. Esto debería ayudarte a enfrentarte a las Catacumbas mismas.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0004BCA7|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡He acertado! Siempre imaginé que el gran Gastrónomo sería un elfo del bosque. Está claro: solo alguien que conozca bien las hierbas del bosque podría combinar...",
+    "string": "¡Adiviné bien! Siempre imaginé que el gran Gourmet era un Elfo del Bosque. Verás, solo alguien con conocimiento de hierbas silvestres podría combinar...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0004BCA7|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Sí?",
+    "string": "Sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0004BC9D|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Eres un alto elfo! Quién lo hubiera dicho... Muchas de tus recetas están pensadas para la gente normal y corriente. Parece...",
+    "string": "¡Eres un Alto Elfo! Oh... nunca lo habría adivinado. Muchas de tus recetas claramente están dirigidas al pueblo común. Solo parece...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0004BC9D|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Sí?",
+    "string": "Sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0004BCC1|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Es solo que... Bueno... ¡Eres un orco! ¡Ja, ja, ja! ¡Si supieran los del Imperio! Ahora entiendo a qué venía tanto secretismo. La mayoría habría...",
+    "string": "Es solo que... Bueno... ¡eres un Orco! ¡Ja-ja-ja! Si la gente del Imperio supiera! Ahora entiendo tu necesidad de secreto. La mayoría...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0004BCC1|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Sí?",
+    "string": "¿Sí? ¿Qué es, hmm? Suéltalo con tu boca...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0004BCB8|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Eres nórdico! ¡Nunca lo hubiera imaginado! ¿Se puede saber dónde aprendiste a cocinar así? ¿Aquí en Skyrim? O tal vez en algún lugar menos...",
+    "string": "Hmm. ¡Eres un Nórdico! Nunca lo habría adivinado. Pero, ¿dónde aprendiste a cocinar así? ¿Aquí en Skyrim? ¿O tal vez en algún lugar menos...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0004BCB8|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Sí?",
+    "string": "Sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA02BoethiahDeadFriendSlain",
+    "form_id": "0004D88F|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He matado a <Alias=DeadFriend> para ganar tu favor.",
+    "string": "Khajiit ha matado a <Alias=DeadFriend> para ganarte favor. Esto es bueno, si?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00074DB1|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Por qué estás aquí? Matar a Gayo Maro solo es el primer paso de tu contrato. También tienes que dejar en su cuerpo la carta incriminatoria...",
+    "string": "¿Por qué estás aquí? Matar a Gaius Maro es solo el primer paso de tu contrato - también debes plantar la carta incriminatoria en su cuerpo...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA02BoethiahSlayFriendReasonsPrivate",
+    "form_id": "00060512|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tengo mis razones.",
+    "string": "Khajiit tiene <Alias.PronounPosObj=Player> razones.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FFRiftenThaneReturnViewTopic",
+    "form_id": "000659F7|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He comprado Villa Melosa.",
+    "string": "Khajiit ha comprado Honeyside.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00065AFB|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Mmm? ¿De qué se trata este asunto?",
+    "string": "Hmm? ¿De qué se trata esto?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00065AFB|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Ah, sí, claro... Todo ese tema del título de thane, lo había olvidado. Si todo está dispuesto, ¿podemos acabar con este asunto de una vez?",
+    "string": "Oh, sí, claro... lo del thane. Lo había olvidado. Si estás listo, ¿podemos resolver esto de una vez?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FFRiftenThaneContBranchTopic",
+    "form_id": "000659FA|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Será un honor aceptar.",
+    "string": "<Alias=Player> se sentiria honrado de aceptar.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FFRiftenThaneDoneBranchTopic01",
+    "form_id": "00065AA9|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Gracias.",
+    "string": "Khajiit esta agradecido.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00065AE6|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Soy yo quien debe dar las gracias. Me has solucionado más problemas en el poco tiempo que has estado aquí que ningún miembro de la corte a lo largo de toda su carrera.",
+    "string": "Debería ser yo quien te agradezca. Has resuelto más problemas en el corto tiempo que llevas aquí que cualquiera en mi corte en toda su carrera.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00065AE6|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Has supuesto un rayo de esperanza para mi pueblo en estos tiempos oscuros, y nunca lo olvidaré.",
+    "string": "Has sido un faro de esperanza en estos tiempos oscuros para mi gente y nunca lo olvidaré.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00065AE6|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Por lo tanto, por mi autoridad como jarl, te nombro thane de Riften y te otorgo todos los beneficios que corresponden a tu rango. Enhorabuena.",
+    "string": "Por lo tanto, por mi autoridad como jarl, te proclamo Thane de Riften y te otorgo todos los beneficios correspondientes a tu cargo. Felicidades.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00065AE7|Skyrim.esm",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "Espero que te mantengas al margen de los asuntos de Estado. En otras palabras, no metas las narices en mis asuntos y nos llevaremos bien.",
+    "string": "Espero que te mantengas alejado de los asuntos del estado. En otras palabras, mantén tu nariz fuera de mis asuntos y todo irá bien.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00065AE7|Skyrim.esm",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "No olvides que solo eres un miembro de mi corte, lo cual no te convierte en mi familia.",
+    "string": "Solo recuerda que eres solo parte de mi corte. Esto no te hace parte de la familia.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00065AE7|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Supongo que ya solo queda conceder el título. ¿Cuáles eran las palabras?",
+    "string": "Supongo que lo único que queda es otorgarte el título. ¿Cuáles eran esas palabras otra vez?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00065AE7|Skyrim.esm",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "No importa... El título es suyo. Por la presente, te nombro thane de Riften. No me decepciones.",
+    "string": "No importa... el título es tuyo. Por la presente te nombro Thane de Riften. No me decepciones.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00065AE7|Skyrim.esm",
+    "index": 6,
+    "type": "INFO RNAM",
+    "original": "He comprado Villa Melosa.",
+    "string": "Khajiit ha comprado Honeyside.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FFRiftenThaneJarlBranchTopic01",
+    "form_id": "00065AAA|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿En relación con qué, mi señora?",
+    "string": "¿Qué significa <Alias.PronounPosObj=Player> dama, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00065AED|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, ahórrate tu modestia. Hablo sobre tu nuevo papel de adalid. Al parecer, has tomado a mi pueblo bajo tu protección.",
+    "string": "Oh, no finjas modestia. Estoy hablando de tu nuevo rol como campeón. Aparentemente, has tomado a mi gente bajo tu protección.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00065AED|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Si crees que puedes robarme el trono conquistando los corazones de la gente, te equivocas. No lo olvides.",
+    "string": "Si crees que puedes robar mi trono ganándote los corazones del pueblo, ahí te equivocas. Tenlo presente.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00065AED|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Sin embargo, ya que no me correspondería hacerte desaparecer, prefiero tenerte a mi lado como thane de Riften.",
+    "string": "Sin embargo, como no me conviene hacerte desaparecer, prefiero tenerte a mi lado como Thane de Riften.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FFRiftenThaneJarlBranchTopic",
+    "form_id": "00065AD6|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Puedo hacer algo para ayudar a Riften?",
+    "string": "¿Puede Khajiit ayudar en algo mas, talvez?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00065AF0|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, aquí estás. Me preguntaba si volverías a visitarnos.",
+    "string": "Ah, ahí estás. Me preguntaba cuándo nos visitarías de nuevo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00065AF0|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Mi administrador me ha informado de que has causado una grata impresión en la Grieta. Muchos de nuestros ciudadanos han expresado su admiración.",
+    "string": "Mi mayordomo me informó que has causado una gran impresión en La Grieta; varios de nuestros ciudadanos han expresado su admiración.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00065AF1|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Últimamente tu nombre suena muy a menudo en la corte.",
+    "string": "Así que he estado escuchando tu nombre en la corte bastante últimamente.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00065AF1|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Mi administrador me ha comunicado que están impresionados contigo en la Grieta; la gente no deja de decir chorradas sobre ti.",
+    "string": "Mi mayordomo me informó que has causado una gran impresión en La Grieta; la gente no deja de hablar de ti.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000B990B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Uggh...",
+    "string": "Ugh...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00016CA5|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Avento Aretino. Lo trajeron a vivir aquí cuando su madre murió. Se escapó. Y...",
+    "string": "Aventus Aretino. Fue enviado a vivir aquí después de que su madre murió. Escapó. Y... ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00016CA5|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Antes de irse, dijo que iba a hacer el Sacramento Negro. Ya sabes, para llamar a la Hermandad Oscura. ¡Y que vinieran a matar a la vieja Grelod!",
+    "string": "Antes de irse, dijo que iba a realizar el Sacramento Negro. Ya sabes, para llamar a la Hermandad Oscura. ¡Así vendrían a matar a la vieja Grelod! ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00016CA5|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Dicen por ahí que volvió su casa de Ventalia, y que han oído extraños cánticos saliendo de allí. ¡Parece que realmente lo ha hecho!",
+    "string": "Se dice en la calle que volvio a su casa en Ventalia, y que la gente ha oido canticos extraños desde su casa. ¡Parece que de verdad lo hizo!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00016CA5|Skyrim.esm",
+    "index": 3,
+    "type": "INFO RNAM",
+    "original": "¿Quién es Avento?",
+    "string": "¿Quién es este Avento, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00016CA6|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Un muchacho que vivía aquí. Avento Aretino. Era muy agradable, pero muy callado y triste porque su madre acababa de morir.",
+    "string": "Un niñito que vivía aquí. Aventus Aretino. Era amable, pero muy callado, y triste, porque su madre acababa de morir.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00016CA6|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Huyó. Volvió a su hogar, en Ventalia. Samuel me dijo que estaba intentando contratar a unos asesinos. Para que vinieran a cargarse a Grelod. ¿Al final lo hizo?",
+    "string": "Huyo. Regreso a su hogar en Ventalia. Samuel me dijo que estaba tratando de conseguir que unos asesinos vengan aqui y maten a Grelod. ¿De verdad lo hizo?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00016CA6|Skyrim.esm",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "¿Quién es Avento?",
+    "string": "¿Quién es este Avento, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00016CA7|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, Avento Aretino. Lo mandaron aquí cuando murió su madre, pero se escapó.",
+    "string": "Oh, Aventus Aretino. Fue enviado aqui cuando su madre murio, pero huyo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00016CA7|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "He oído que volvió a su casa de Ventalia para intentar que la Hermandad Oscura viniera a matar a Grelod. Y... ¡resulta que lo consiguió!",
+    "string": "Escuche que regreso a su casa en Ventalia, para intentar que la Hermandad Oscura venga a asesinar a Grelod. Y... ¡en realidad lo logro!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00016CA7|Skyrim.esm",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "¿Quién es Avento?",
+    "string": "¿Quién es este Avento, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00016CA8|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Avento Aretino? Solo vivió aquí una temporada. Creo que su madre se puso enferma y murió o algo así. Pero ahora ha vuelto a casa. Bueno, se escapó.",
+    "string": "Aventus Aretino? Solo vivió aquí un tiempo. Creo que su madre se enfermó y murió o algo así. De todos modos, se fue. Huyó. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00016CA8|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Samuel me dijo que se volvió a su casa de Ventalia e hizo algún tipo de ritual siniestro. Llamó a unos asesinos para que matasen a la vieja Grelod. Nos salvó a todos.",
+    "string": "Pero Samuel me dijo que esta de vuelta en su casa en Ventalia, e hizo algun tipo de ritual oscuro. Invoco asesinos para matar a la vieja Grelod. Nos ha salvado a todos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00016CA8|Skyrim.esm",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "¿Quién es Avento?",
+    "string": "¿Quién es este Avento, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0009CCCB|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No... No, eso es todo. Ahora... Por favor... De pronto me encuentro muy cansada.",
+    "string": "No... no, eso es todo. Ahora... ahora por favor. Me siento muy cansado de repente.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0009CCCB|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Alguna cosa más?",
+    "string": "Hay algo mas, tal vez?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunOlavaReadingTopic1",
+    "form_id": "0009CCC9|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "WhiterunOlavaReadingTopic1",
+    "string": "Carrera BlancaOlavaReadingTopic1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0009CCCE|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hum. Sí. Sí, claro que puedo. No es algo que haga a la ligera, ¿eh? Y no es tan detallado como te gustaría, pero sí, puedo hacerlo.",
+    "string": "(se burla) Sí. Sí, seguro que puedo. No es algo que haga a la ligera, y no es tan específico como quisieras. Pero sí. Lo haré por ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0009CCCE|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Por favor, relájate. Libera la mente. Sí, eso es...",
+    "string": "Por favor, relajate. Libera tu mente. Si, asi es...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0009CCCE|Skyrim.esm",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "Me han dicho que podías ver mi futuro.",
+    "string": "Khajiit escucho que podias vislumbrar el futuro de <Alias.PronounPosObj=Player>, si?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0009CCCD|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Un obsequio, dices? Déjame ver.",
+    "string": "¿Una ficha, dices? Dejame ver.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0009CCCD|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Ah, caramba. Entonces Gabriella es amiga tuya, ¿no? Bueno, supongo que sabemos por qué estás aquí.",
+    "string": "Oh, cielos. Entonces eres amigo de Gabriella. Bueno, supongo que ambos sabemos por que estas aqui.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0009CCCD|Skyrim.esm",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "Tengo este obsequio para ti.",
+    "string": "Khajiit tiene esta ficha para ti, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS06StyrrHelloTopic",
+    "form_id": "0009DFFB|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Falk me ha enviado a hablar contigo acerca de Potema.",
+    "string": "Falk envió a este a hablar contigo sobre Potema.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS06StyrrAdvice03b",
+    "form_id": "0009DFFD|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Puedo encargarme.",
+    "string": "Khajiit hará esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS06StyrrAdvice02",
+    "form_id": "0009DFFE|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Y ahora que ha regresado Potema?",
+    "string": "¿Y qué pasará ahora que Potema ha regresado, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HousePurchaseResponse1",
+    "form_id": "000A7B18|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Lo haré.",
+    "string": "Khajiit lo tomará.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PerkInvestorReply2",
+    "form_id": "000ABD87|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "A ver qué puedes hacer con esto. (<Global=InvestAmount> de oro)",
+    "string": "Primero muéstrale a este lo que puedes hacer con esto, ¿sí? Luego Khajiit estará dispuesto a discutir arreglos a largo plazo, quizás. (<Global=InvestAmount> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PerkInvestorReply1",
+    "form_id": "000ABD88|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Pensándolo bien, quizá invierta en otra ocasión.",
+    "string": "Khajiit invertirá en otro momento, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PerkInvestorBranch1Topic1",
+    "form_id": "000ABD89|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría invertir en tu negocio.",
+    "string": "Khajiit desea invertir en tu negocio, amigo. ¿Buscas un socio, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000B9944|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Aggh!",
+    "string": "Argh! ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CW00TulliusForcegreetTopic",
+    "form_id": "000D5116|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hola.",
+    "string": "Saludos.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BardsCollegeFluteEndTopic",
+    "form_id": "000D93D2|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He recuperado tu flauta.",
+    "string": "Khajiit ha recuperado tu flauta, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CW03BalgruufAxeTopic",
+    "form_id": "000DA20A|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Tienes una tarea para mí?",
+    "string": "¿Tienes una tarea para <Alias=Player>, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CW03BalgruufTopic",
+    "form_id": "000DA228|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Entonces tengo un mensaje importante para ti.",
+    "string": "<Alias=Player> tiene un mensaje importante para ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000DA25A|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Seguro que solicita guarnecer a sus hombres en mi castillo. ¿Cuántas veces tengo que decirle que no?",
+    "string": "Sin duda quiere acuartelar a sus hombres en mi castillo. ¿Cuántas veces debo negarme?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000DA25A|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "¿Bien? Suéltalo.",
+    "string": "Bueno? Dilo de una vez.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000DA25A|Skyrim.esm",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "Tengo un mensaje importante del general Tulio.",
+    "string": "Khajiit tiene un mensaje importante del General Tullius.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000DA25B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Podemos hablar de ese asunto una vez nos hayamos ocupado del dragón.",
+    "string": "Podemos hablar de eso una vez que se ocupe de este dragón.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000DA25B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sobre ese mensaje del general...",
+    "string": "Khajiit tiene curiosidad por ese mensaje del General...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000DA25C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, sí. He estudiado esos documentos... Muy interesantes...",
+    "string": "Ah sí. He estudiado esos documentos... Muy interesante...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000DA25C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sobre ese mensaje del general...",
+    "string": "Khajiit tiene curiosidad por ese mensaje del General...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E40AD|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¿Te lo pidió? Tengo que reconocer que el hombre es insistente.",
+    "string": "¿De veras? Ese hombre es persistente, eso le concedo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E40AD|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "El jarl Ulfric Capa de la Tormenta me ha pedido que te entregue esta hacha.",
+    "string": "Jarl Ulfric Capa de la Tormenta pidió a este servir que te entregara este hacha.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E40AE|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Podemos hablar de ese asunto una vez nos hayamos ocupado del dragón.",
+    "string": "Podemos hablar de eso una vez que se ocupe de este dragón.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E40AE|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sobre ese mensaje de Ulfric...",
+    "string": "Khajiit tiene curiosidad por ese mensaje de Ulfric...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E40AF|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, sí.",
+    "string": "Ah sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E40AF|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Supongo que es hora de responderle...",
+    "string": "Supongo que es hora de darle una respuesta...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E40AF|Skyrim.esm",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "Acerca de ese mensaje del jarl...",
+    "string": "Khajiit tiene curiosidad por ese mensaje del jarl...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "OffersTrainingTopic",
+    "form_id": "000E3A35|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Quiero que me entrenes en alquimia.",
+    "string": "<Alias=Player> desea aprender Alquimia, y aprender a hechizar la mente, atrapar los sentidos, embotellar fama, preparar gloria, e incluso poner un tapón a la muerte, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000ADA2C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Úsala bien, y no notarás nada.",
+    "string": "Úsalo bien, y no sentirás nada.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000ADA2C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Puedes entrenarme para usar mejor la armadura pesada?",
+    "string": "¿Puedes entrenar a <Alias=Player> para proteger mejor <Alias.PronounRef=Player> con Armadura Pesada, sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DecorateWindhelmKillerClutter",
+    "form_id": "000F726A|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Limpiar el desastre de ese asesino. (<Global=HDWindhelmKiller> de oro)",
+    "string": "¿Harás los arreglos para limpiar ese desastre del asesinato, sí? (<Global=HDWindhelmKiller> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_BranchWaitResumeTopic",
+    "form_id": "01002EEA|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¡Ven conmigo!",
+    "string": "Khajiit guiará!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F0A|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(chillido)",
+    "string": "(chilla)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_BranchHomeCurrLocTopic",
+    "form_id": "01002EEB|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Quédate aquí. Este es tu nuevo hogar.",
+    "string": "Quédate aquí., ¿sí? Este es tu nuevo hogar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F04|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_InventoryTopic",
+    "form_id": "01002EEC|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Necesito que lleves algo...",
+    "string": "<Alias=Player> desea que cargues algo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F09|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_BranchWaitTopic",
+    "form_id": "01002EED|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Espera aquí.",
+    "string": "Espere aquí, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F0B|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F12|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_SendPetWindstad",
+    "form_id": "01002EEF|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Mansión Ventera",
+    "string": "Mansión Windstad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F08|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_SendPetVilendral",
+    "form_id": "01002EF0|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Salón de Vlindrel",
+    "string": "Vlindrel Hall",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F0F|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_SendPetDLC2Severin",
+    "form_id": "01002EF1|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Mansión Severin",
+    "string": "Manor Severin",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F13|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_SendPetProudspire",
+    "form_id": "01002EF2|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Mansión Espira Orgullosa",
+    "string": "Manor Proudspire",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F18|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_SendPetLakeview",
+    "form_id": "01002EF3|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Mansión de Vista Lacustre",
+    "string": "Lakeview Manor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F07|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_SendPetHoneyside",
+    "form_id": "01002EF4|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Villa Melosa",
+    "string": "Honeyside",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F16|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_SendPetHeljarchen",
+    "form_id": "01002EF5|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Mansión de Heljarchen",
+    "string": "Heljarchen Hall",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F11|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F17|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F05|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F03|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F15|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F10|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F19|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F0C|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F0D|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F14|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(refunfuña)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_BranchDismiss_HomeTopic",
+    "form_id": "01002EFF|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Espérame en casa...",
+    "string": "Espera a <Alias=Player> en casa...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F0E|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(gemido)",
+    "string": "(llora)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_BranchDismiss_HoldTopic",
+    "form_id": "01002F00|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Espérame en la ciudad...",
+    "string": "Espera a <Alias=Player> en la ciudad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F02|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(gemido)",
+    "string": "(llora)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_BranchRecruitTopic",
+    "form_id": "01002F01|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¡Ven conmigo!",
+    "string": "Khajiit guiará!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01002F06|Update.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(chillido)",
+    "string": "(chilla)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CCHorseArmorDialogueQuestArmorSteelFREE",
+    "form_id": "010030A6|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Armadura de acero (<Global=CCHorseArmorCostSwapOnly> de oro)",
+    "string": "Armadura de acero, quizás. (<Global=CCHorseArmorCostSwapOnly> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CCHorseArmorDialogueQuestArmorElvenFREE",
+    "form_id": "010030A7|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Armadura élfica (<Global=CCHorseArmorCostSwapOnly> de oro)",
+    "string": "Armadura élfica, quizás. (<Global=CCHorseArmorCostSwapOnly> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CCHorseArmorDialogueQuestArmorCANCEL",
+    "form_id": "010030A8|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No importa.",
+    "string": "Quizás en otra ocasión.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CCHorseArmorDialogueQuestArmorREMOVE",
+    "form_id": "010030A9|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Quita la armadura.",
+    "string": "¿Quitarás la armadura para <Alias=Player>, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CCHorseArmorDialogueQuestArmorELVEN",
+    "form_id": "010030AA|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Armadura élfica (<Global=CCHorseArmorCost> de oro)",
+    "string": "Armadura élfica, quizás. (<Global=CCHorseArmorCost> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CCHorseArmorDialogueQuestArmorSTEEL",
+    "form_id": "010030AB|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Armadura de acero (<Global=CCHorseArmorCost> de oro)",
+    "string": "Armadura de acero, quizás. (<Global=CCHorseArmorCost> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CCHorseArmorDialogueQuestArmorBranchTopic",
+    "form_id": "010030AC|Update.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría ponerle armadura a mi caballo.",
+    "string": "<Alias=Player> desea armar a su caballo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_PetMaxReachedMessage",
+    "form_id": "01002F2B|Update.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Debes despedir a una de tus mascotas para poder reclutar a otra.",
+    "string": "La primera mascota debe ser despedida antes de invocar otra, si?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PetFramework_PetDismissMessage",
+    "form_id": "01002F26|Update.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "La mascota estará esperando en la ubicación especificada.",
+    "string": "Esta mascota esperará en la ubicación especificada...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HelpSprintLong",
+    "form_id": "000170EF|Skyrim.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Pulsa [Sprint] para esprintar. Esprintar te consumirá aguante.",
+    "string": "Presiona [Sprint] para correr. Correr consume aguante con el tiempo. Una vez agotado, correr se detiene.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HelpSprintLong",
+    "form_id": "000170EF|Skyrim.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Esprint",
+    "string": "Corriendo  ",
+    "status": "TranslationComplete"
+  }
+]

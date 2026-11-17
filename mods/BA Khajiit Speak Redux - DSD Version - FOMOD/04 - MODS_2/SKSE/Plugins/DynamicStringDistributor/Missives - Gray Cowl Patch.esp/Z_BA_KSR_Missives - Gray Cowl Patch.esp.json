@@ -1,0 +1,326 @@
+[
+  {
+    "editor_id": "_M_QuestAlikrBasinCourierLetterHighAcceptTopic",
+    "form_id": "06000874|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "¿Hay algún trabajo de entrega que necesite completarse, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinCourierLetterHighDeliveryTopic",
+    "form_id": "06000876|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Este Khajiit tiene una carta para ti de <Alias=QuestGiver> de <Alias=City>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinCourierLetterLowAcceptTopic",
+    "form_id": "06000877|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "¿Hay algún trabajo de entrega que necesite completarse, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinCourierLetterLowDeliverTopic",
+    "form_id": "06000879|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Este Khajiit tiene una carta para ti de <Alias=QuestGiver> de <Alias=City>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinCourierLetterMedAcceptTopic",
+    "form_id": "0600087A|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "¿Hay algún trabajo de entrega que necesite completarse, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinCourierLetterMedDeliverTopic",
+    "form_id": "0600087C|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Este Khajiit tiene una carta para ti de <Alias=QuestGiver> de <Alias=City>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinCourierPotionHighAcceptTopic",
+    "form_id": "0600087D|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "¿Hay algún trabajo de entrega que necesite completarse, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinCourierPotionHighDeliveryTopic",
+    "form_id": "0600087F|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí tienes una poción de <Alias=QuestGiver> de <Alias=City>. Esas pequeñas grietas en el frasco siempre estuvieron ahí. Confía en Khajiit.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinCourierPotionLowAcceptTopic",
+    "form_id": "06000880|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "¿Hay algún trabajo de entrega que necesite completarse, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinCourierPotionLowDeliverTopic",
+    "form_id": "06000882|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí tienes una poción de <Alias=QuestGiver> de <Alias=City>. Esas pequeñas grietas en el frasco siempre estuvieron ahí. Confía en Khajiit.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinCourierPotionMedAcceptTopic",
+    "form_id": "06000883|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "¿Hay algún trabajo de entrega que necesite completarse, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinCourierPotionMedDeliveryTopic",
+    "form_id": "06000885|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí tienes una poción de <Alias=QuestGiver> de <Alias=City>. Esas pequeñas grietas en el frasco siempre estuvieron ahí. Confía en Khajiit.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinCourierWeaponHighAcceptTopic",
+    "form_id": "06000886|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "¿Hay algún trabajo de entrega que necesite completarse, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinCourierWeaponHighDeliveryTopic",
+    "form_id": "06000888|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Este Khajiit tiene un arma para ti de <Alias=QuestGiver> de <Alias=City>. Es bastante impresionante, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinCourierWeaponLowAcceptTopic",
+    "form_id": "06000889|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "¿Hay algún trabajo de entrega que necesite completarse, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinCourierWeaponLowDeliverTopic",
+    "form_id": "0600088B|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Este Khajiit tiene un arma para ti de <Alias=QuestGiver> de <Alias=City>. Es bastante impresionante, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinCourierWeaponMedAcceptTopic",
+    "form_id": "0600088C|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "¿Hay algún trabajo de entrega que necesite completarse, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinCourierWeaponMedDeliveryTopic",
+    "form_id": "0600088E|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Este Khajiit tiene un arma para ti de <Alias=QuestGiver> de <Alias=City>. Es bastante impresionante, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinGatherIngrHighRewardTopic",
+    "form_id": "0600088F|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "<Alias=Player> tiene el <Alias=Item> que estabas buscando, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinGatherIngrLowRewardTopic",
+    "form_id": "06000890|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "<Alias=Player> tiene el <Alias=Item> que estabas buscando, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinGatherIngrMedRewardTopic",
+    "form_id": "06000891|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "<Alias=Player> tiene el <Alias=Item> que estabas buscando, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinGatherInnRewardTopic",
+    "form_id": "06000892|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you needed.",
+    "string": "Este Khajiit tiene el <Alias=Item> que necesitabas, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinGatherOreHighRewardTopic",
+    "form_id": "06000893|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "<Alias=Player> tiene el <Alias=Item> que estabas buscando, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinGatherOreLowRewardTopic",
+    "form_id": "06000894|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "<Alias=Player> tiene el <Alias=Item> que estabas buscando, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinGatherOreMedRewardTopic",
+    "form_id": "06000895|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "<Alias=Player> tiene el <Alias=Item> que estabas buscando, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinGatherOreVeryHighRewardTopic",
+    "form_id": "06000896|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Este Khajiit tiene estos <Alias=Item>s. ¿Los estabas esperando, quizás? Oh, y no hay cargo extra por la suciedad en ellos. Es tierra de montaña de alta calidad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinGatherSoulGemHighRewardTopic",
+    "form_id": "06000897|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "<Alias=Player> tiene el <Alias=Item> que estabas buscando, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinGatherSoulGemLowRewardTopic",
+    "form_id": "06000898|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Este Khajiit tiene estos <Alias=Item>s. ¿Los estabas esperando, quizás? Oh, y no hay cargo extra por la suciedad en ellos. Es tierra de montaña de alta calidad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinGatherSoulGemMedRewardTopic",
+    "form_id": "06000899|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Este Khajiit tiene estos <Alias=Item>s. ¿Los estabas esperando, quizás? Oh, y no hay cargo extra por la suciedad en ellos. Es tierra de montaña de alta calidad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinKillAnimalRewardTopic",
+    "form_id": "0600089A|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias=Dungeon> has been cleared, I'm here for the bounty.",
+    "string": "<Alias=Dungeon> ha sido limpiado. Este Khajiit no entiende por qué alguien querría limpiar un lugar hecho de tierra...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinKillBanditRewardTopic",
+    "form_id": "0600089B|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The leader of <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El líder de <Alias=Dungeon> aceptó su nuevo puesto como espantapájaros, amigo. ¡Ahora muestra a este Khajiit el jah [moneda]!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinKillDragonRewardTopic",
+    "form_id": "0600089C|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The dragon at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El dragón en <Alias=Dungeon> está derrotado. ¿Quién sabía que tenía un espíritu tan 'ardiente', hmm? Je-je-je... <Alias=Player> se toma a la ligera las situaciones mortales, en efecto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinKillGiantRewardTopic",
+    "form_id": "0600089D|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The giant at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El Gigante en <Alias=Dungeon> está muerto. Este Khajiit está aquí por la recompensa, y alguien interesado en comprar estos enormes dedos del pie...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinRetrieveHideoutRewardTopic",
+    "form_id": "0600089E|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "<Alias=Player> tiene tu <Alias.BaseName=Item> si tienes el pago.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinRetrieveRuinsRewardTopic",
+    "form_id": "0600089F|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "<Alias=Player> tiene el <Alias=Item> que estabas buscando, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestAlikrBasinRetrieveWildernessRewardTopic",
+    "form_id": "060008A0|Missives - Gray Cowl Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "<Alias=Player> tiene tu <Alias.BaseName=Item> si tienes el pago.",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "editor_id": "ccBGSSSE008_NoSteamMessage",
+    "form_id": "04000AB4|ccbgssse008-wraithguard.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No parece que por estas tuberías fluya ningún vapor.",
+    "string": "Claramente, no hay vapor fluyendo por estas tuberías, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_NoSteamMessage",
+    "form_id": "04000AB4|ccbgssse008-wraithguard.esl",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "No parece que por estas tuberías fluya ningún vapor.",
+    "string": "No parece haber vapor fluyendo por estas tuberías.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_BarredDoorMessage",
+    "form_id": "04000B0F|ccbgssse008-wraithguard.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Algún otro mecanismo controla esta puerta.",
+    "string": "Algún otro mecanismo parece controlar esta puerta. Ahora, ¿dónde está esa molestia...?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_NoResponseMessage",
+    "form_id": "04000B22|ccbgssse008-wraithguard.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No parece que pase nada.",
+    "string": "Nada pareció ocurrir. ¡Ziss!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_NoResponseMessage",
+    "form_id": "04000B22|ccbgssse008-wraithguard.esl",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "No parece que pase nada.",
+    "string": "Nada parece ocurrir.",
+    "status": "TranslationComplete"
+  }
+]

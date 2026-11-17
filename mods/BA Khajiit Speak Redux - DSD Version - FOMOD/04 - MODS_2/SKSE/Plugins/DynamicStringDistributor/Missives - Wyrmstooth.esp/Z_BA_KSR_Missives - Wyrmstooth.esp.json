@@ -1,0 +1,317 @@
+[
+  {
+    "editor_id": "_M_QuestWyrmstoothCourierLetterHighAcceptTopic",
+    "form_id": "0400081F|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothCourierLetterHighDeliveryTopic",
+    "form_id": "04000820|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Perdón por la interrupción, sera, pero este Khajiit tiene una correspondencia de <Alias=QuestGiver> de <Alias=City> para ti, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothCourierLetterLowAcceptTopic",
+    "form_id": "04000821|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothCourierLetterLowDeliveryTopic",
+    "form_id": "04000822|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Perdón por la interrupción, sera, pero este Khajiit tiene una correspondencia de <Alias=QuestGiver> de <Alias=City> para ti, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothCourierLetterMedAcceptTopic",
+    "form_id": "04000823|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothCourierLetterMedDeliveryTopic",
+    "form_id": "04000824|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Perdón por la interrupción, sera, pero este Khajiit tiene una correspondencia de <Alias=QuestGiver> de <Alias=City> para ti, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothCourierWeaponHighAcceptTopic",
+    "form_id": "04000825|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothCourierWeaponHighDeliveryTopic",
+    "form_id": "04000826|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "¡ARMA! ¡ARMA RECIÉN FORJADA AQUÍ! ¡VENGAN A RECLAMAR SU ARMA!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothCourierWeaponLowAcceptTopic",
+    "form_id": "04000827|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothCourierWeaponLowDeliveryTopic",
+    "form_id": "04000828|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "¡ARMA! ¡ARMA RECIÉN FORJADA AQUÍ! ¡VENGAN A RECLAMAR SU ARMA!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothCourierWeaponMedAcceptTopic",
+    "form_id": "04000829|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothCourierWeaponMedDeliveryTopic",
+    "form_id": "0400082A|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "¡ARMA! ¡ARMA RECIÉN FORJADA AQUÍ! ¡VENGAN A RECLAMAR SU ARMA!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothGatherIngrHighRewardTopic",
+    "form_id": "0400082B|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Este <Alias=Item> es el que deseabas, ¿sí? Una excelente elección, amigo. Este Khajiit tiene uno igual en casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothGatherIngrLowRewardTopic",
+    "form_id": "0400082C|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Este <Alias=Item> es el que deseabas, ¿sí? Una excelente elección, amigo. Este Khajiit tiene uno igual en casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothGatherIngrMedRewardTopic",
+    "form_id": "0400082D|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Este <Alias=Item> es el que deseabas, ¿sí? Una excelente elección, amigo. Este Khajiit tiene uno igual en casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothGatherInnRewardTopic",
+    "form_id": "0400082E|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you needed.",
+    "string": "Este <Alias=Item> es lo que buscas, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothGatherOreHighRewardTopic",
+    "form_id": "0400082F|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Este <Alias=Item> es el que deseabas, ¿sí? Una excelente elección, amigo. Este Khajiit tiene uno igual en casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothGatherOreLowRewardTopic",
+    "form_id": "04000830|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Este <Alias=Item> es el que deseabas, ¿sí? Una excelente elección, amigo. Este Khajiit tiene uno igual en casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothGatherOreMedRewardTopic",
+    "form_id": "04000831|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Este <Alias=Item> es el que deseabas, ¿sí? Una excelente elección, amigo. Este Khajiit tiene uno igual en casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothGatherOreVeryHighRewardTopic",
+    "form_id": "04000832|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Este Khajiit tiene estos <Alias=Item>s. ¿Los estabas esperando, quizás? Oh, y no hay cargo extra por la suciedad en ellos. Es tierra de montaña de alta calidad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothGatherSoulGemHighRewardTopic",
+    "form_id": "04000833|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Este <Alias=Item> es el que deseabas, ¿sí? Una excelente elección, amigo. Este Khajiit tiene uno igual en casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothGatherSoulGemLowRewardTopic",
+    "form_id": "04000834|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Este Khajiit tiene estos <Alias=Item>s. ¿Los estabas esperando, quizás? Oh, y no hay cargo extra por la suciedad en ellos. Es tierra de montaña de alta calidad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothGatherSoulGemMedRewardTopic",
+    "form_id": "04000835|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Este Khajiit tiene estos <Alias=Item>s. ¿Los estabas esperando, quizás? Oh, y no hay cargo extra por la suciedad en ellos. Es tierra de montaña de alta calidad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothKillAnimalRewardTopic",
+    "form_id": "04000836|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias=Dungeon> has been cleared, I'm here for the bounty.",
+    "string": "El <Alias=Dungeon> ha sido limpiado de maldad, ¡sí! Alabadas sean las Lunas porque esas paredes resistieron lo suficiente para que este Khajiit se fuera...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothKillBanditRewardTopic",
+    "form_id": "04000837|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The leader of <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El líder de <Alias=Dungeon> aceptó su nuevo puesto como espantapájaros, amigo. ¡Ahora muestra a este Khajiit el jah [moneda]!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothKillDragonRewardTopic",
+    "form_id": "04000838|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The dragon at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "¡Uf! El dragón en <Alias=Dungeon> está muerto, sí. Ahora, ¿qué limpiará mejor el líquido inflamable de esta armadura, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothRetrieveHideoutRewardTopic",
+    "form_id": "04000839|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "Un <Alias=BaseName=Item>, entregado como se prometió, ¿sí? Ahora, sobre la recompensa brillante, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothRetrieveRuinsRewardTopic",
+    "form_id": "0400083A|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Este <Alias=Item> es el que deseabas, ¿sí? Una excelente elección, amigo. Este Khajiit tiene uno igual en casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothRetrieveWildernessRewardTopic",
+    "form_id": "0400083B|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "Un <Alias=BaseName=Item>, entregado como se prometió, ¿sí? Ahora, sobre la recompensa brillante, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothCourierPotionLowAcceptTopic",
+    "form_id": "04000842|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothCourierPotionLowDeliveryTopic",
+    "form_id": "04000843|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Esta poción es para ti, amigo. Es de alguien llamado <Alias=QuestGiver> en <Alias=City>. La fecha de caducidad aún está bien, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothCourierPotionHighAcceptTopic",
+    "form_id": "04000845|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothCourierPotionMedAcceptTopic",
+    "form_id": "04000846|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothCourierPotionHighDeliveryTopic",
+    "form_id": "04000848|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Esta poción es para ti, amigo. Es de alguien llamado <Alias=QuestGiver> en <Alias=City>. La fecha de caducidad aún está bien, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWyrmstoothCourierPotionMedDeliveryTopic",
+    "form_id": "0400084A|Missives - Wyrmstooth.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Esta poción es para ti, amigo. Es de alguien llamado <Alias=QuestGiver> en <Alias=City>. La fecha de caducidad aún está bien, sí.",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "editor_id": "SCS_Mechanics_Message_AgeStageUp5",
+    "form_id": "03136332|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "VAMPIRIC AGE\r\n\r\nThe full potency of your Vampiric blood reveals itself with age. Mortals, Aedra and Daedra tremble before you, and you obey only one master, the Daedric Prince Molag Bal himself. You are now a Nightlord Vampire.\r\n\r\nSleep in a bed to reflect on your experiences and choose a new Vampiric ability or power.",
+    "string": "EDAD VAMPÍRICA\r\n\r\n¡Todo el poder de la sangre vampírica se revela con la edad!\r\n\r\n¡Mortales, Aedra y Daedra temblarán ante la presencia de este Khajiit, y solo hay un amo superior: el Príncipe Daédrico Molag Bal!\r\n\r\n¡Khajiit se ha convertido en un VAMPIRO SEÑOR DE LA NOCHE!\r\n\r\nQuizá sea prudente descansar y reflexionar sobre estas experiencias, para que al despertar pueda elegir una nueva habilidad o poder vampírico, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_AgeStageUp4",
+    "form_id": "03136331|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "VAMPIRIC AGE\r\n\r\nThe full potency of your Vampiric blood reveals itself with age. You have used your Vampiric powers to commit vile deeds of perversion or perform great acts of heroism. You are now a Nightstalker Vampire.\r\n\r\nSleep in a bed to reflect on your experiences and choose a new Vampiric ability or power.",
+    "string": "EDAD VAMPÍRICA\r\n\r\n¡Todo el poder de la sangre vampírica se revela con la edad!\r\n\r\nEstos poderes vampíricos se han usado para cometer actos heroicos o viles, y Khajiit ahora es un VAMPIRO ACECHADOR NOCTURNO.\r\n\r\nQuizá sea prudente descansar y reflexionar sobre estas experiencias, para que al despertar pueda elegir una nueva habilidad o poder vampírico, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_AgeStageUp3",
+    "form_id": "03136330|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "VAMPIRIC AGE\r\n\r\nThe full potency of your Vampiric blood reveals itself with age. You may still struggle with Vampiric existence, but you recognize the power of Lamae Bal's cursed blood flowing through your veins. You are now a Mistwalker Vampire.\r\n\r\nSleep in a bed to reflect on your experiences and choose a new Vampiric ability or power.",
+    "string": "EDAD VAMPÍRICA\r\n\r\n¡Todo el poder de la sangre vampírica se revela con la edad!\r\n\r\nLa lucha de la existencia vampírica ya es conocida, pero el poder de la sangre maldita de Lamae Bal es reconocido y respetado, ¡convirtiendo a Khajiit en un VAMPIRO CAMINANTE DE LA NIEBLA!\r\n\r\nQuizá sea prudente descansar y reflexionar sobre estas experiencias, para que al despertar pueda elegir una nueva habilidad o poder vampírico, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_AgeStageUp2",
+    "form_id": "0313632F|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "VAMPIRIC AGE\r\n\r\nThe full potency of your Vampiric blood reveals itself with age. You have learned the basics of Vampiric existence and experimented with your newfound powers, and are now a Blooded Vampire.\r\n\r\nSleep in a bed to reflect on your experiences and choose a new Vampiric ability or power.",
+    "string": "EDAD VAMPÍRICA\r\n\r\n¡Todo el poder de la sangre vampírica se revela con la edad!\r\n\r\nKhajiit ha aprendido y experimentado los fundamentos de la existencia vampírica, ¡y eso lo ha convertido en un VAMPIRO DE SANGRE!\r\n\r\nQuizá sea prudente descansar y reflexionar sobre estas experiencias, para que al despertar pueda elegir una nueva habilidad o poder vampírico, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Help_HungerStage2",
+    "form_id": "031274E0|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Vampiric thirst awakens the Beast within, but also weakens you.",
+    "string": "La sed ha despertado a la Bestia interior, pero también ha provocado una wapuna [debilidad]...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_Progression",
+    "form_id": "030D80D5|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You unlock a secret of the night.",
+    "string": "¡Un secreto de la noche ha sido revelado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NightPowerShrineMessage",
+    "form_id": "02009407|Dawnguard.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose your Night Power (power button).",
+    "string": "¿Poder nocturno, hmm?\r\n\r\n¿Cuál debería elegir Khajiit...?\r\n\r\nDecisiones, decisiones... (botón de poder)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_VampireFeed_Failed_PathObstructed",
+    "form_id": "03023374|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Unable to feed. Movement obstructed by terrain.",
+    "string": "No es posible alimentarse. El movimiento está bloqueado por el terreno.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_StrongBlood",
+    "form_id": "030FAB70|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Powerful blood runs through the veins of your victim.",
+    "string": "Los sentidos de Khajiit detectan sangre poderosa en las venas de esta víctima...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Age_Message_SummonToMolagsCourt",
+    "form_id": "03136322|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "SUMMON TO MOLAG'S COURT\r\n\r\nPower: (1/day) Send out a mental call across 150 feet, drawing the nearest person to you for 120 seconds, forcing them to follow you in a trance and allowing you to feed on the victim. Feeding resets the cooldown, allowing you to use it again.",
+    "string": "INVOCAR A LA CORTE DE MOLAG\r\n\r\nPoder: UNA VEZ AL DÍA\r\n\r\n- Emite una llamada mental en un radio de 150 pies, atrayendo a la persona más cercana durante 120 segundos.\r\n- En este estado transitorio, la víctima puede ser alimentada.\r\n- Alimentarse reinicia el tiempo de reutilización, permitiendo volver a usarlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Age_Message_DanceWithTheBeast",
+    "form_id": "03136321|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "DANCE WITH THE BEAST\r\n\r\nPassive: After entering a state of Wassail in combat, deal double attack damage and critical damage and take half attack damage until combat ends.",
+    "string": "BAILA CON LA BESTIA\r\n\r\nPoder: PASIVO\r\n\r\nTras entrar en un estado de Wassail durante el combate:\r\n- Todo el daño de ataque infligido y el daño crítico se duplican hasta que termine el combate.\r\n- Todo el daño de ataque recibido se reduce a la mitad hasta que termine el combate.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_VampireProgressionStage2",
+    "form_id": "030DA874|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "As you thirst, your vampiric charm fades.",
+    "string": "La sed ha hecho que el Encanto Vampírico se desvanezca...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_Wassail_Doomed",
+    "form_id": "0313631F|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "LOST TO WASSAIL\r\n\r\nThe Beast has seized control for the last time - and it will never let go again.\r\n\r\nYou may persist in this doomed timeline, but your final death is unavoidable. May Molag Bal have mercy on your soul.",
+    "string": "PERDIDO EN EL WASSAIL\r\n\r\n¡La Bestia ha tomado el control por última vez... y jamás volverá a soltarlo!\r\n\r\n¡Esta línea temporal está condenada, pues la muerte definitiva es inevitable, sin duda!\r\n\r\nMolag Bal no mostrará misericordia con esta alma maldita.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_Hate_End",
+    "form_id": "030C6B82|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You appear mortal once more.",
+    "string": "La mortalidad regresa...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_VampireSpells_Vanilla_Power_Message_Nightwalk_Fail",
+    "form_id": "03151714|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No one hears you.",
+    "string": "Nadie obedece la llamada. Qué tristeza...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_Wassail",
+    "form_id": "0313631D|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The Beast within you howls!",
+    "string": "¡La Bestia interior aúlla!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Help_GetHemomancyByFeeding",
+    "form_id": "031274DD|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Drain victims with [Activate] to learn Hemomancy Destruction spells.",
+    "string": "Drenar víctimas enseñará hechizos de Destrucción de Hemomancia...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_Progression_Done",
+    "form_id": "030D80D7|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You have unlocked all secrets of the night. Vampiric unlife has nothing more to teach you.",
+    "string": "Todos los secretos de la noche han sido revelados.\r\n\r\nParece que la no vida vampírica ya no tiene nada más que enseñar a Khajiit.\r\n\r\nPatético.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1BloodMagicShrineMessage",
+    "form_id": "02009406|Dawnguard.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose your Blood Magic (left hand attack).",
+    "string": "Ahora toca elegir qué tipo de Magia de Sangre usar en la mano izquierda:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_VampireProgressionStage4_HasMasquerade",
+    "form_id": "031274E2|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "As you thirst, the monster within threatens to seize the reins.",
+    "string": "La sed hace que la Bestia interior amenace con tomar el control...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1ReflexesReadyMessage",
+    "form_id": "02014CF4|Dawnguard.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The Reaping Ready",
+    "string": "¡La Siega está lista!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_VampireSpells_Vanilla_Power_Message_Mytherceria_Out",
+    "form_id": "0307C6CE|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The flow of time resumes.",
+    "string": "El flujo del tiempo continúa...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_VampireSpells_Vanilla_Power_Message_CanLamaesPyre",
+    "form_id": "0305EB01|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You must feed on a sleeping victim before you can unleash Lamae's Pyre.",
+    "string": "La Pira de Lamae requiere que la víctima esté dormida, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_VampireFeed",
+    "form_id": "000F69CE|Skyrim.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your vampiric charm returns as you feed.",
+    "string": "El Encanto Vampírico ha regresado tras alimentarse.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Abilities_VampireLord_Message_PowerIsPower",
+    "form_id": "030524A7|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose an attribute to improve by 100 points in Vampire Lord form.",
+    "string": "Elige un atributo para aumentar en +100 puntos en forma de Señor Vampiro:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_VampireFeed_LethalFeed_Threshold",
+    "form_id": "0302AA65|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "New insights in the art of Hemomancy reveal themselves.",
+    "string": "¡Nuevos conocimientos sobre el arte de la Hemomancia se han revelado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Age_Message_KingAmongKine_old",
+    "form_id": "0315665B|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "KING AMONG KINE\r\n\r\nPassive: You no longer lose any of your Vampiric powers when you feed. Does not apply to detrimental abilities such as Mockery of Life.",
+    "string": "REY ENTRE EL GANADO\r\n\r\nPODER: PASIVO\r\n\r\n- No se pierden poderes vampíricos al alimentarse.\r\n- Esto no afecta habilidades perjudiciales como Burla de la Vida.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_VampireProgressionStage4",
+    "form_id": "00105EE1|Skyrim.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "As a blood starved vampire, you are hated and feared.",
+    "string": "Los vampiros consumidos por la sed de sangre son odiados y temidos, sin duda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_VampireProgression",
+    "form_id": "000EB0CE|Skyrim.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your vampiric powers grow as you thirst.",
+    "string": "Los Poderes Vampíricos aumentan a medida que la sed de sangre se intensifica...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Age_Message_PathOfHumanity",
+    "form_id": "0313B295|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "PATH OF HUMANITY\r\n\r\nPassive: Chance to delay the progression of Vampiric thirst.",
+    "string": "CAMINO DE LA HUMANIDAD\r\n\r\nPODER: PASIVO\r\n\r\n- Probabilidad de retrasar el avance de la sed vampírica.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Age_Message_LamaesShroud_old",
+    "form_id": "03158E08|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "LAMAE'S SHROUD\r\n\r\nPower: (1/day) Become invisible for 15 seconds. Taking offensive actions or using objects does not break the invisibility. Feeding resets the cooldown, allowing you to use it again.",
+    "string": "MORTAJA DE LAMAE\r\n\r\nPoder: UNA VEZ AL DÍA\r\n\r\n- Khajiit se vuelve invisible durante 15 segundos.\r\n- Realizar acciones ofensivas o usar objetos no rompe la invisibilidad.\r\n- Alimentarse reinicia el tiempo de reutilización, permitiendo volver a usarlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Age_Message_Vicissitude",
+    "form_id": "0313B296|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "VICISSITUDE\r\n\r\nPassive: Casting the Blood Seed spell on a target amplifies the damage inflicted to the target by subsequent other Hemomancy spells such as Blood Brand by 50%%.",
+    "string": "VICISITUD\r\n\r\nPODER: PASIVO\r\n\r\n- Lanzar el hechizo Semilla de Sangre sobre un objetivo aumenta en un 50%% el daño que recibe de los siguientes hechizos de Hemomancia, como Marca de Sangre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Age_Message_EyesOfThePredator",
+    "form_id": "0313B297|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "EYES OF THE PREDATOR\r\n\r\nPower: (At will) The living can be seen through walls across very large distances, but only in a cone in front of you. Slowly drains Health when active. Cast again to turn off.",
+    "string": "OJOS DEL DEPREDADOR\r\n\r\nPoder: EN CUALQUIER MOMENTO (a voluntad)\r\n\r\n- Los seres vivos pueden verse a través de las paredes a enormes distancias (área cónica frontal).\r\n- Drena lentamente la Salud mientras está activo.\r\n- Lánzalo otra vez para desactivarlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Age_Message_WickedWind",
+    "form_id": "0313B298|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "WICKED WIND\r\n\r\nPower: (At will) Dash to a nearby location for 40 Magicka. This power can be used to cross gaps or access rooftops.",
+    "string": "VIENTO PERVERSO\r\n\r\nPODER: EN CUALQUIER MOMENTO (a voluntad)\r\n\r\n- Desplázate rápidamente a un lugar cercano por 40 de Magia.\r\n- Este poder puede usarse para cruzar huecos o acceder a tejados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Age_Message",
+    "form_id": "0313B299|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You may now choose a new Vampiric ability or power.",
+    "string": "¡Ahora puede elegirse una nueva habilidad o poder vampírico!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_VampireSpells_Vanilla_Power_Message_VampiresCall",
+    "form_id": "0312C438|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A mortal obeys your call.",
+    "string": "¡Un mortal ha obedecido la llamada!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_VampireSpells_Vanilla_Power_Message_VampiresCall_Fail",
+    "form_id": "0312C439|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No one hears you.",
+    "string": "Nadie obedece la llamada. Qué tristeza...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Abilities_Racial_Message_Imperial_Dispelled",
+    "form_id": "03020BC8|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Shrine blessing lost.",
+    "string": "Se ha perdido una bendición de santuario.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_VampireSpells_Vanilla_Power_Message_BloodIsPower_Fail",
+    "form_id": "03158DFA|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This power must be used in combat.",
+    "string": "Este poder debe usarse en combate, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_VampireProgressionStage3",
+    "form_id": "030DA873|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "As you thirst, a primal urge awakens in your mind.",
+    "string": "La sed ha despertado una furia primigenia...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Help_CantFeedOnEssential",
+    "form_id": "031274DC|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "People who will play an important role in the events of Skyrim are immortal and can't be Drained.",
+    "string": "Sin duda, alguien como esta persona es demasiado importante e inmortal para ser drenado, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Age_Message_OberonsGrail",
+    "form_id": "0313B294|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "OBERON'S GRAIL\r\n\r\nPassive: 75%% chance to avoid entering a state of Wassail in combat.",
+    "string": "CÁLIZ DE OBERON\r\n\r\nPODER: PASIVO\r\n\r\n- 75%% de probabilidad de evitar entrar en un estado de Wassail durante el combate.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_VampireFeed_Failed_Essential",
+    "form_id": "031274DB|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your victim is protected by a thread of prophecy.",
+    "string": "Esta víctima está protegida por un hilo de la profecía...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Age_Message_NightOfTheWolf",
+    "form_id": "0313B293|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "NIGHT OF THE WOLF\r\n\r\nPassive: Able to feed by Activating unaware people while sneaking.",
+    "string": "NOCHE DEL LOBO\r\n\r\nPODER: PASIVO\r\n\r\n- Permite alimentarse de personas desprevenidas mientras Khajiit se oculta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Age_Message_BloodBond",
+    "form_id": "0313B28E|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "BLOOD BOND\r\n\r\nPassive: Feeding on sleeping targets shares some of your blood, making them a lover and potential follower and marriage candidate.",
+    "string": "VÍNCULO DE SANGRE\r\n\r\nPODER: PASIVO\r\n\r\n- Al alimentarse de objetivos dormidos, Khajiit comparte parte de su sangre maldita con la víctima.\r\n- Esto la convierte en amante, posible seguidor o candidato para matrimonio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Age_Message_BloodKnight",
+    "form_id": "0313B28F|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "BLOOD KNIGHT\r\n\r\nPassive: Able to feed by Activating staggered people in combat for 100 Stamina. No effect on targets that are recovering from stagger.",
+    "string": "CABALLERO DE SANGRE\r\n\r\nPODER: PASIVO\r\n\r\n- Permite alimentarse de enemigos tambaleantes durante el combate.\r\n- No tiene efecto sobre objetivos que se están recuperando del tambaleo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Age_Message_CauldronOfFire",
+    "form_id": "0313B290|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "CAULDRON OF FIRE\r\n\r\nPassive: Deal double attack damage and critical damage and take half attack damage for 30 seconds after using your Blood Cauldron power.",
+    "string": "CALDERO DE FUEGO\r\n\r\nPODER: PASIVO\r\n\r\nDespués de activar Caldero de Sangre:\r\n- Todo el daño de ataque infligido y el daño crítico se duplican durante 30 segundos.\r\n- Todo el daño de ataque recibido se reduce a la mitad durante 30 segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Age_Message_HarvestMoon",
+    "form_id": "0313B291|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "HARVEST MOON\r\n\r\nPassive: Draining a victim to death grants a Potion of Blood that can be consumed to heal or feed.",
+    "string": "LUNA DE LA COSECHA\r\n\r\nPODER: PASIVO\r\n\r\n- Al drenar a una víctima hasta la muerte, Khajiit obtiene una Poción de Sangre.\r\n- La poción puede consumirse para curarse o satisfacer la necesidad de alimentarse.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_PlayerVampireQuest_WrongRace",
+    "form_id": "030282BB|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This race cannot become a vampire.",
+    "string": "Esta raza no puede convertirse en vampiro. Indigna, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Age_Message_KingAmongKine",
+    "form_id": "0313B292|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "KING AMONG KINE\r\n\r\nPassive: You no longer lose any of your Vampiric powers when you feed. Does not apply to detrimental abilities such as Mockery of Life.",
+    "string": "REY ENTRE EL GANADO\r\n\r\nPODER: PASIVO\r\n\r\n- No se pierden poderes vampíricos al alimentarse.\r\n- Esto no afecta habilidades perjudiciales como Burla de la Vida.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Abilities_Racial_Message_Breton_End",
+    "form_id": "030612A5|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The presence of an ancient stone fades.",
+    "string": "La presencia de la piedra ancestral se desvanece...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_FosterChilde",
+    "form_id": "03133B51|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You pour your cursed blood into the wound.",
+    "string": "Se vierte un poco de sangre maldita en la herida...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Abilities_Racial_Message_Breton_Start",
+    "form_id": "030612A4|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You feel the presence of an ancient stone.",
+    "string": "Los sentidos de Khajiit detectan la presencia de una piedra ancestral...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Abilities_VampireLord_Message_DragonAtMidnight",
+    "form_id": "030C43E0|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Perk Points Granted",
+    "string": "¡Puntos de ventaja otorgados!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_VampireSpells_Message_Tremble_Wait",
+    "form_id": "03048623|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Tremble Recharging",
+    "string": "¡Temblor se está recargando...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1ReflexesWaitMessage",
+    "form_id": "02014CF3|Dawnguard.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The Reaping Recharging",
+    "string": "¡La Siega se está recargando...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_VampireSpells_Message_Tremble_Ready",
+    "form_id": "03048622|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Tremble Ready",
+    "string": "¡Temblor está listo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1BloodPointsMsg",
+    "form_id": "0200A26D|Dawnguard.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Lifeblood absorbed",
+    "string": "¡La Sangre Vital ha sido absorbida!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_VampireProgressionStage5",
+    "form_id": "0310C0F0|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What a horrible night to have a curse.",
+    "string": "¡Ziss! Qué horrible noche para cargar con una maldición...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_HemomancyStageUp",
+    "form_id": "0305C342|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You unlock a secret of the blood.",
+    "string": "¡Un secreto de la sangre ha sido revelado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Help_StrongBlood",
+    "form_id": "031274DF|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Feed on individuals of great strength and renown to gain new Vampiric abilities.",
+    "string": "Alimentarse de víctimas de gran fuerza y renombre otorgará nuevas habilidades vampíricas...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_AgeStageUp",
+    "form_id": "03133B6D|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "VAMPIRIC AGE\r\n\r\nThe full potency of your Vampiric blood reveals itself with age. You have learned the basics of Vampiric existence and experimented with your newfound powers, and are now a Blooded Vampire.\r\n\r\nSleep in a bed to reflect on your experiences and choose a new Vampiric ability or power.",
+    "string": "EDAD VAMPÍRICA\r\n\r\n¡Todo el poder de la sangre vampírica se revela con la edad!\r\n\r\nKhajiit ha aprendido y experimentado los fundamentos de la existencia vampírica, ¡y eso lo ha convertido en un VAMPIRO DE SANGRE!\r\n\r\nQuizá sea prudente descansar y reflexionar sobre estas experiencias, para que al despertar pueda elegir una nueva habilidad o poder vampírico, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SCS_Mechanics_Message_AgeStageUp6",
+    "form_id": "03136333|Sacrosanct - Vampires of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "VAMPIRIC AGE\r\n\r\nThe full potency of your Vampiric blood reveals itself with age. You have watched kingdoms rise and fall, dragons be reborn and die and the writhing mass of kine go about their daily lives. You are now a Nightmaster Vampire.\r\n\r\nSleep in a bed to reflect on your experiences and choose a new Vampiric ability or power.",
+    "string": "EDAD VAMPÍRICA\r\n\r\n¡Todo el poder de la sangre vampírica se revela con la edad!\r\n\r\nMientras esta vida inmortal continúa, reinos se alzarán y caerán, los dragones renacerán y morirán, ¡y el resto de los patéticos insectos mortales seguirán correteando con sus aburridas e insignificantes vidas!\r\n\r\n¡Khajiit se ha convertido en un VAMPIRO MAESTRO DE LA NOCHE!\r\n\r\nQuizá sea prudente descansar y reflexionar sobre estas experiencias, para que al despertar pueda elegir una nueva habilidad o poder vampírico, ¿sí?",
+    "status": "TranslationComplete"
+  }
+]

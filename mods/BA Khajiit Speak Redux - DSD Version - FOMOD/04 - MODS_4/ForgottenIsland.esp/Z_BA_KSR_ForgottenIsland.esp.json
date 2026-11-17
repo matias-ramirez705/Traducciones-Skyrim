@@ -1,0 +1,362 @@
+[
+  {
+    "editor_id": "FIQuest1FishermanBranchTopic",
+    "form_id": "010557A6|ForgottenIsland.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I received a Letter from Engar it said you can get me to his island.",
+    "string": "Khajiit recibió una carta de Engar en la que decía que quizá podrías llevar a <Alias.PronounObj=Player> a esta isla, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010557A7|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes I can. If you climb in to my boat over there we will be on our way.",
+    "string": "Sí, puedo. Si subes a mi bote de allí, nos pondremos en marcha.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FIQuest1EngarMeetingBranchTopic",
+    "form_id": "01056566|ForgottenIsland.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I received Your note How can I help?",
+    "string": "<Alias=Player> recibió tu nota. ¿Cómo puede ayudar este Khajiit, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01056567|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've already told you!! Can You help us now?",
+    "string": "Ya te lo dije... ¿Puedes ayudarnos ahora?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01056567|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "What was it you needed?",
+    "string": "¿Qué necesitabas exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0106415F|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank the Gods you have come!",
+    "string": "¡Gracias a los dioses que has llegado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FIQuest1Engarbranch2",
+    "form_id": "01056568|ForgottenIsland.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is happening, why are people disappearing?",
+    "string": "¡Dark Moons! ¿Qué está pasando? ¿Por qué está desapareciendo la gente, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FIQuest1EngarYes",
+    "form_id": "0105656C|ForgottenIsland.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I will stop them. Where are they?",
+    "string": "Khajiit les pondrá fin. ¿Dónde están exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0105656D|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You must stop the bandits first. Here is a map I have marked the Bandits location.",
+    "string": "Primero debes detener a los bandidos. Aquí tienes un mapa. He marcado la ubicación de los bandidos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FIQuest1EngarReturnBranchTopic",
+    "form_id": "01058EA8|ForgottenIsland.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've stopped the bandits, now where are the Necromancers?",
+    "string": "<Alias=Player> detuvo a los bandidos. Ahora, ¿dónde están esos nigromantes, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FIQuest1captiveBranchTopic",
+    "form_id": "0105D35F|ForgottenIsland.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let me Help you.",
+    "string": "Khajiit desea ayudar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FIQuest1CaptiveFreedBranchTopic",
+    "form_id": "0105EEDB|ForgottenIsland.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are there anymore of you held prisoner?",
+    "string": "¿Hay más de ustedes que estén retenidos como prisioneros, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FIQuest1EngarFinalBranchTopic",
+    "form_id": "010625D9|ForgottenIsland.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "All is taken care of. They will no longer be a threat.",
+    "string": "Todo está resuelto, amigo. Ya no representarán una amenaza, desde luego.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010625DA|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The people of Skyrim can rest a little easier now. Thank You. This was Given to me by my Father I think you will have more use of it than I.",
+    "string": "La gente de Skyrim ahora puede descansar un poco más tranquila. Gracias. Esto me lo dio mi padre. Creo que te será más útil a ti que a mí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FIQuest1EngarNo",
+    "form_id": "0106415D|ForgottenIsland.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can't help right now.",
+    "string": "Este Khajiit no puede ayudar en este momento, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01072C27|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Didn't you say something about a treasure.",
+    "string": "Mencionaste algo sobre un tesoro, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FIEngarForceGreetHello1Topic",
+    "form_id": "01072C29|ForgottenIsland.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Possibly... What do you have in mind?",
+    "string": "Es posible... ¿Qué tienes en mente exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01072C2A|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Rumor has it that the Imperials used this island as a hidden base. There is said to be a large store of weapons and gold they were using to aid them with the war. I've searched and can't find it. The Island Flooded once perhaps its underwater.",
+    "string": "Se rumorea que los Imperiales usaron esta isla como base secreta. Dicen que allí guardaban una gran cantidad de armas y oro para ayudarlos en la guerra. He buscado, pero no logro encontrarlo. La isla se inundó una vez... quizá esté bajo el agua.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FIEngarForceGreetHello1bTopic",
+    "form_id": "01072C2F|ForgottenIsland.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can always use more weapons and gold.",
+    "string": "¡A Khajiit siempre le vendrían bien más armas y monedas, desde luego! Al fin y al cabo, nunca se tienen suficientes de ninguna de las dos cosas, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FIEngarForceGreetQuestHelloNoTopic",
+    "form_id": "010739EC|ForgottenIsland.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sounds Interesting, but maybe later.",
+    "string": "Esto suena interesante a los oídos de Khajiit, pero este tiene otros asuntos que atender por ahora, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010739ED|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Just come back when your ready.",
+    "string": "Regresa cuando estés listo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FIQuest2FinalBranchTopic",
+    "form_id": "010C40D7|ForgottenIsland.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I found the cave but it was practically empty. It seems your neighbor found a passage and cleared it out.",
+    "string": "<Alias=Player> sí encontró la cueva, pero estaba prácticamente vacía. Por desgracia, parece que tu vecino encontró un pasadizo y la saqueó.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0112DEC1|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hello there !",
+    "string": "¡Hola!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0112247B|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank You for removing the threat from our island. You should return to see the progress we have made restoring our homes.",
+    "string": "Gracias por eliminar la amenaza de nuestra isla. Deberías volver para ver cuánto hemos avanzado en la reconstrucción de nuestros hogares.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0113356D|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hello there",
+    "string": "¡Hola!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0113356E|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Best to you my friend",
+    "string": "Que te vaya bien, amigo mío.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01133570|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hi Friend",
+    "string": "Hola, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01133571|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good day Friend",
+    "string": "¡Buen día, amigo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01133573|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hello ! On your way to the docks for work I'd wager.",
+    "string": "¡Hola! Apostaría a que vas camino a los muelles para trabajar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01133575|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Best to you my friend",
+    "string": "Que te vaya bien, amigo mío.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01133576|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Another Time Traveler",
+    "string": "En otra ocasión, viajero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01133AE3|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good day Friend",
+    "string": "¡Buen día, amigo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01134053|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This will scare the fish for sure.....",
+    "string": "Esto seguro que espantará a los peces...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0113404E|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I know I heard that",
+    "string": "Lo sé, ya lo escuché.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0113404F|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That was quite unexpected",
+    "string": "Eso sí que fue inesperado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01134050|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hello ... Who is it?",
+    "string": "Hola... ¿Quién es?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01134051|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Who's there",
+    "string": "¿Quién anda ahí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01134054|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is this what you want huh...",
+    "string": "¿Es esto lo que quieres, eh?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01134056|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't kill me.... Please...",
+    "string": "No me mates... Por favor...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01134057|ForgottenIsland.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Please...No...",
+    "string": "Por favor... No...",
+    "status": "TranslationComplete"
+  }
+]

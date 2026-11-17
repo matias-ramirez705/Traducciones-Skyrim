@@ -1,0 +1,29 @@
+[
+  {
+    "editor_id": "CCO_LearningMessageForsworn_HA",
+    "form_id": "07044D47|PrvtI_HeavyArmory.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your understanding of Forsworn construction methods has increased.",
+    "string": "¡El conocimiento de construcción de los Renegados ha aumentado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CCO_LearningMessageDraugr_HA",
+    "form_id": "07044D50|PrvtI_HeavyArmory.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your understanding of Ancient Nordic construction methods has increased.",
+    "string": "¡El conocimiento de construcción nórdica antigua ha aumentado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CCO_LearningMessageFalmer_HA",
+    "form_id": "070591B8|PrvtI_HeavyArmory.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your understanding of Falmer construction methods has increased.",
+    "string": "¡El conocimiento de construcción Falmer ha aumentado!",
+    "status": "TranslationComplete"
+  }
+]

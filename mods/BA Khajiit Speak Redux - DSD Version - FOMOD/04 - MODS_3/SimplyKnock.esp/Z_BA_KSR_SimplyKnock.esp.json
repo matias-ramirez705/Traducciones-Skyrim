@@ -1,0 +1,110 @@
+[
+  {
+    "editor_id": "_SK_Diag_Normal_Persuade",
+    "form_id": "02002856|SimplyKnock.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "May I come in?",
+    "string": "¿Podría Khajiit pasar, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SK_Diag_Normal_Intimidate",
+    "form_id": "02002858|SimplyKnock.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Open up. I won't ask again. (Intimidate)",
+    "string": "¡Abre la puerta, ahora! ¡Khajiit no volverá a pedirlo! (Intimidar)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02004388|SimplyKnock.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "If you don't let me in, you'll get in trouble. Open the door. (Intimidate)",
+    "string": "Tendrás serios problemas si le niegas la entrada a Khajiit, ¿sí? Ahora, abre la puerta... (Intimidar)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02004389|SimplyKnock.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "If you don't let me in, you'll get in trouble. Open the door. (Intimidate)",
+    "string": "Tendrás serios problemas si le niegas la entrada a Khajiit, ¿sí? Ahora, abre la puerta... (Intimidar)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SK_Diag_Normal_Leave1",
+    "form_id": "0200334C|SimplyKnock.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "My mistake. I'll be going.",
+    "string": "Disculpas, amigo. Khajiit se marchará.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SK_Diag_Normal_Persuade2",
+    "form_id": "0200334F|SimplyKnock.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Please, it's urgent. (Persuade)",
+    "string": "Por favor, amigo. ¡Es un asunto urgente, en verdad! (Persuadir)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200438A|SimplyKnock.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "What about for a shiny gold coin? (Bribe)",
+    "string": "¿Y si este te diera una moneda reluciente, hmm? (Sobornar)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200438B|SimplyKnock.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "What about for a shiny gold coin? (Bribe)",
+    "string": "¿Y si este te diera una moneda reluciente, hmm? (Sobornar)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SK_Diag_Normal_Leave2",
+    "form_id": "02003353|SimplyKnock.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sorry to bother you.",
+    "string": "Disculpas por la interrupción, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SK_Diag_Friend",
+    "form_id": "02003356|SimplyKnock.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias.ShortName=Friend>, it's <Alias=Player>. May I come in?",
+    "string": "<Alias.ShortName=Friend>, es <Alias=Player>. ¿Podría Khajiit pasar, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SK_NoAnswerMsg",
+    "form_id": "02003355|SimplyKnock.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No answer.",
+    "string": "No hubo respuesta...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SK_AltMenu",
+    "form_id": "0200AF4C|SimplyKnock.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What would you like to do?",
+    "string": "Una puerta cerrada con llave. ¿Y ahora qué, hmm?",
+    "status": "TranslationComplete"
+  }
+]

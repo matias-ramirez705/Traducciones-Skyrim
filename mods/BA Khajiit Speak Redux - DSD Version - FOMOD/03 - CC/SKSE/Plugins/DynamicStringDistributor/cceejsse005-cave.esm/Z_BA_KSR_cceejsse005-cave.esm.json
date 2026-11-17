@@ -1,0 +1,155 @@
+[
+  {
+    "editor_id": "ccEEJSSE005_QuestBranchTopic",
+    "form_id": "050B7B30|cceejsse005-cave.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Vienes a la cena?",
+    "string": "¿Han venido por la cena, quizá?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050B7B4B|cceejsse005-cave.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Alguna idea?",
+    "string": "¿Algún pensamiento? ¿Sueños? ¿Aspiraciones?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050B7B59|cceejsse005-cave.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Han llegado todos los invitados?",
+    "string": "¿Ya están todos los invitados presentes ahora?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050B7B5A|cceejsse005-cave.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Crees que la comida estará buena?",
+    "string": "¿Creen que la comida será buena? Khajiit tiene un paladar sensible...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_StewardBranch01Topic",
+    "form_id": "050BCC63|cceejsse005-cave.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Te importaría indicarme cuál es mi asiento?",
+    "string": "Muestren a este dónde está la mesa de <Alias.PronounPosObj=Player>, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_StewardBranch02Topic",
+    "form_id": "050BCC65|cceejsse005-cave.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me muero de hambre, vamos a comer ya.",
+    "string": "Este tiene mucha hambre... es hora de comer, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Branch03Topic",
+    "form_id": "050BCC67|cceejsse005-cave.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría ver el menú, por favor.",
+    "string": "Muestren a este el menú, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Branch04Topic",
+    "form_id": "050BCC69|cceejsse005-cave.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Quiero ir a mi asiento. Ya.",
+    "string": "<Alias=Player> desea sentarse. Ahora.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest100talkTopic",
+    "form_id": "050DB2AF|cceejsse005-cave.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Todos los vampiros están muertos, y el testamento dice que la casa me pertenece.",
+    "string": "Los vampiros están todos muertos y el testamento dice que la casa ahora pertenece a Khajiit. Qué afortunado, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050DB2C3|cceejsse005-cave.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Los miembros de la Guardia del Alba y los nobles están muertos.",
+    "string": "La Guardia del Alba y los nobles están muertos, sí.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050DB2C5|cceejsse005-cave.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "La nota daba a entender que el último superviviente se quedaría con la casa.",
+    "string": "La nota implica que el último sobreviviente heredaría la casa.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050DB2C9|cceejsse005-cave.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Tenéis pensado quedaros?",
+    "string": "¿Su gente seguirá quedándose, quizá?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest100talkTopicC",
+    "form_id": "050DB2CA|cceejsse005-cave.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Pues ya sabes dónde está la puerta.",
+    "string": "Pues bien, asegúrense de que la puerta no golpee su cola bruscamente al salir. Así es el dicho, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest100talkTopic0",
+    "form_id": "050DB2CB|cceejsse005-cave.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Te lo agradezco.",
+    "string": "Este lo aprecia. De verdad.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_LackItemMSG",
+    "form_id": "0509E567|cceejsse005-cave.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Te falta el objeto necesario.",
+    "string": "Claramente, algo falta aquí...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_VampireFeedMessage",
+    "form_id": "050EA5DC|cceejsse005-cave.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¿Qué te gustaría hacer?",
+    "string": "¿Qué debería hacerse, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_VampireFeedMessage",
+    "form_id": "050EA5DC|cceejsse005-cave.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Alimentarse",
+    "string": "Alimentar",
+    "status": "TranslationComplete"
+  }
+]

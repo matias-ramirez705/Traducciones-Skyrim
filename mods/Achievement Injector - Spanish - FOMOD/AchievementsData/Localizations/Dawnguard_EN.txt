@@ -1,0 +1,21 @@
+$NAME_Awakening	Despertar
+$DESC_Awakening	Completa 'Despertar'
+$NAME_Beyond Death	Más allá de la muerte
+$DESC_Beyond Death	Completa 'Más allá de la muerte'
+$NAME_Kindred Judgment	Juicio fraternal
+$DESC_Kindred Judgment	Completa 'Juicio fraternal'
+$NAME_Lost to the Ages	Perdido en los eones
+$DESC_Lost to the Ages	Completa 'Perdido en los eones'
+$NAME_Soul Tear	Desgarro del alma
+$DESC_Soul Tear	Aprende las tres palabras de Desgarro del alma
+$NAME_Auriel's Bow	Arco de Auriel
+$DESC_Auriel's Bow	Usa el poder especial del Arco de Auriel
+$NAME_Werewolf Mastered	Licantropía dominada
+$DESC_Werewolf Mastered	Adquiere 11 ventajas de hombre lobo
+$NAME_Vampire Mastered	Vampirismo dominado
+$DESC_Vampire Mastered	Adquiere 11 ventajas de vampiro
+$NAME_A New You	Una nueva imagen
+$DESC_A New You	Cambia tu rostro
+$NAME_Legend	Leyenda
+$DESC_Legend	Derrota a un dragón legendario
+$Legendary Dragon	Dragón legendario

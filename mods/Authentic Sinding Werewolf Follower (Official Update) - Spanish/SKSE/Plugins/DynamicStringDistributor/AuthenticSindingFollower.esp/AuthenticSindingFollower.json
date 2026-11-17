@@ -1,0 +1,5069 @@
+[
+  {
+    "editor_id": "iSindingWerewolfBeastRace",
+    "form_id": "04000825|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Werewolf",
+    "string": "Hombre lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "iSindingWerewolfChangeFXEffect",
+    "form_id": "04000818|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Beast Form",
+    "string": "Forma de bestia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "iSindingWerewolfChangeFXEffect",
+    "form_id": "04000818|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Take on the form of the wolf.",
+    "string": "Asume la forma del lobo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingReleaseWolfSpiritEffect",
+    "form_id": "04000810|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Release Wolf Spirit",
+    "string": "Liberar espíritu de lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Lycan_Drainer_Sinding",
+    "form_id": "04000A1C|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Werewolf Curse",
+    "string": "Maldición de hombre lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Lycan_Drainer_Sinding",
+    "form_id": "04000A1C|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Werewolves are unable to cast spells.",
+    "string": "Los hombres lobo no pueden lanzar hechizos. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "iSindingWerewolfChangeFX",
+    "form_id": "04000819|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Beast Form",
+    "string": "Forma de bestia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingDogCollar",
+    "form_id": "04000830|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Werewolf Collar",
+    "string": "Collar de hombre lobo ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingDogCollar",
+    "form_id": "04000830|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "As long as Sinding wears this collar, citizens will not bat an eye while he's a beast.",
+    "string": "Mientras Sinding lleve este collar, los ciudadanos no se inmutarán mientras esté en forma de bestia. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05Sinding",
+    "form_id": "000136AC|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Sinding",
+    "string": "Sinding",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingWolfSpirit",
+    "form_id": "0400080F|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Sinding's Wolf Spirit",
+    "string": "Espíritu de lobo de Sinding",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ304Sinding",
+    "form_id": "0400099E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Sinding",
+    "string": "Sinding",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ304Sinding",
+    "form_id": "0400099E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Sinding",
+    "string": "Sinding",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FalkreathBarracksJail",
+    "form_id": "000EF324|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Falkreath Jail",
+    "string": "Prisión de Falkreath",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BloatedMansGrottoWorld",
+    "form_id": "0001FAE2|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Bloated Man's Grotto",
+    "string": "Gruta del Hombre Hinchado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Sovngarde",
+    "form_id": "0002EE41|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Sovngarde",
+    "string": "Sovngarde",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0001C5EA|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Never thought I'd see you again.",
+    "string": "Nunca pensé que te volvería a ver.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05SindingPostKillHuntersBranchTopic",
+    "form_id": "0002B37C|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The last of the hunters is dead.",
+    "string": "El último cazador ha muerto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0002B389|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you for your help. I will make my home here, away from anyone I might hurt.",
+    "string": "Gracias por tu ayuda. Me estableceré aquí, lejos de cualquiera al que pueda hacer daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0002B389|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "If you need my help, come find me when the moons are right. I'll be here.",
+    "string": "Si necesitas mi ayuda, búscame cuando las lunas estén bien. Aquí estaré.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00090CD9|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well met, hunter.",
+    "string": "Te saludo, adalid de la caza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "001097AE|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well met again, hunter.",
+    "string": "Te saludo de nuevo, cazador.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1NPCMentalModelBeingAVampireLongWay2a",
+    "form_id": "020194F9|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How did you actually become a vampire, then?",
+    "string": "¿Y cómo te convertiste en vampira?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02019514|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The ceremony was... degrading.",
+    "string": "La ceremonia era... degradante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02019514|Dawnguard.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Let's not revisit that. ",
+    "string": "Prefiero no recordarla. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02019514|Dawnguard.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "But we all took part in it. Not really wholesome family activity, but I guess it's something you do when you give yourselves to a daedric lord.",
+    "string": "Pero todos participamos en ella. No fue precisamente una actividad familiar saludable, pero supongo que es lo que acarrea entregarse a un señor daédrico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05ConvinceSindingOwe",
+    "form_id": "04000800|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You said you would be my ally. You owe me.",
+    "string": "Dijiste que serías mi aliado. Me lo debes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000803|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I suppose I did... But... what if I lose control again?",
+    "string": "Supongo que sí... Pero... ¿y si pierdo el control otra vez?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009CB|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You can't just stay here forever, you deserve to have a life too.",
+    "string": "No puedes quedarte aquí para siempre, tú también mereces tener una vida.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05ConvinceSinding02TopicWW",
+    "form_id": "04000801|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes! It's still new to me, but maybe we can figure things out together...?",
+    "string": "¡Sí! Todavía es algo nuevo para mí, pero tal vez podamos resolverlo juntos... ¿?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400082E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alright... Together then. But promise me, no more killing innocents.",
+    "string": "Muy bien... Entonces juntos. Pero prométeme, nada más de matar inocentes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05ConvinceSinding02TopicNonWW",
+    "form_id": "04000802|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The curse is over. I know you have no intention to harm people. (Persuade)",
+    "string": "La maldición ha terminado. Sé que no tienes intención de dañar a nadie. (Persuadir)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A18|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well.. Okay... If you say so. I hope you're right.",
+    "string": "Bueno... Está bien... Si tú lo dices. Espero que tengas razón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A19|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You don't know that. I wont risk it.",
+    "string": "No lo sabes. No voy a arriesgarme.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05ConvinceSindingToughGuy",
+    "form_id": "04000804|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can make sure you don't hurt any innocents. Trust me. (Intimidate)",
+    "string": "Puedo asegurarme de que no lastimes a ningún inocente. Confía en mí. (Intimidar)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400084A|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I would rather not be around kids... Gods know if I might lose control again.",
+    "string": "Preferiría no estar cerca de niños... Dios sabe si podría perder el control otra vez.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400084D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nature is so peaceful to me. This is where I'd rather stay, away from society.",
+    "string": "La naturaleza me resulta tan pacífica. Aquí es donde prefiero quedarme, alejado de la sociedad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400084B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "With my Beast Blood gone, I just feel great knowing that I will end up in Sovngarde when my time comes, thanks to your help.",
+    "string": "Con mi sangre de bestia desaparecida, me siento genial sabiendo que terminaré en Sovngarde cuando llegue mi momento, gracias a tu ayuda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400084E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have no love for the bandits that roam these lands. I could just unleash my inner beast and rip their heads off.",
+    "string": "No tengo cariño por los bandidos que rondan estas tierras. Podría desatar mi bestia interior y arrancarles las cabezas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000807|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey. You've got a minute?",
+    "string": "Oye. ¿Tienes un minuto?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000849|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Look what you got us into... guess we only have to serve our time in jail now.",
+    "string": "Mira en qué nos metiste... supongo que solo nos queda cumplir nuestra condena en la cárcel.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400084C|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I got a bad feeling about being back in Falkreath... What will Mathies say when he sees me after I escaped from prison?",
+    "string": "Tengo un mal presentimiento de estar de vuelta en Falkreath... ¿Qué dirá Mathies cuando me vea después de escapar de la prisión?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009E5|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What a strange little man. Wondering what he is carrying in that coffin. Says it's his mother, but I still wonder.",
+    "string": "Qué hombrecito tan extraño. Me pregunto qué lleva en ese ataúd. Dice que es su madre, pero sigo preguntándome.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCureTopicA",
+    "form_id": "04000809|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's on your mind, Sinding?",
+    "string": "¿Qué tienes en mente, Sinding?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400080A|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well... I overheard there might be a way to cure my lycanthropy, and I would like to follow you to that tomb.",
+    "string": "Bueno... escuché que podría haber una forma de curar mi licantropía, y me gustaría seguirte hasta esa tumba.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400095B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You've thought about it?",
+    "string": "¿Lo has pensado?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400095B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "About curing yourself...",
+    "string": "Sobre curarte...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AF0|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You've thought about it?",
+    "string": "¿Lo has pensado?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AF0|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "About curing yourself...",
+    "string": "Sobre curarte...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCureTopicB1",
+    "form_id": "0400080B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "There's no reason for you to stay in shame. I'll help you get cured.",
+    "string": "No hay razón para que sigas viviendo con vergüenza. Te ayudaré a curarte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400080C|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank the gods. Now let's move.",
+    "string": "Gracias a los dioses. Ahora vámonos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCureTopicB2",
+    "form_id": "0400080D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like some time to think about it, is that okay?",
+    "string": "Me gustaría tomarme un tiempo para pensarlo, ¿está bien?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400080E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As you wish.",
+    "string": "Como desees.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05ConvinceSindingBeastTopic",
+    "form_id": "04000813|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sinding, I want you to transform now!",
+    "string": "¡Sinding, quiero que te transformes ahora!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000816|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Grrr!",
+    "string": "¡Grrr!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A1B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Calm yourself, Sinding.",
+    "string": "Cálmate, Sinding.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingThoughtsOnCWTopic1",
+    "form_id": "04000814|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What are your thoughts on the war?",
+    "string": "¿Qué opinas sobre la guerra?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000977|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I think the war is pointless. As a Nord, I believe in the freedom of country which Ulfric Stormcloak offers.",
+    "string": "Creo que la guerra es inútil. Como nórdico, creo en la libertad del país que Ulfric Capa de la Tormenta ofrece.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000977|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But the Imperials offer peace and respect to all races, no prejudice among them.",
+    "string": "Pero los imperiales ofrecen paz y respeto a todas las razas, sin prejuicios entre ellas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingTransformedWerewolfBlockingHugTopic",
+    "form_id": "0400082D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "(Hug the beast)",
+    "string": "(Abrazar a la bestia)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaSindingFalkreathConfrontationGuardArrest_B",
+    "form_id": "04000835|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can explain...",
+    "string": "Puedo explicarlo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000838|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I know you had some part in Sinding's escape, don't deny it.",
+    "string": "Sé que participaste de alguna manera en la fuga de Sinding. No lo niegues.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000838|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "He was deemed guilty for the murder of a poor, defenseless child. And you think you can get away with any kinds of affiliation with him?",
+    "string": "Fue declarado culpable del asesinato de un niño pobre e indefenso. ¿Y tú crees que puedes tener cualquier tipo de relación con él sin consecuencias?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaSindingFalkreathConfrontationGuardArrest_C",
+    "form_id": "04000836|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Fine, I'll pay off Sinding's debts. (<CrimeGold> gold)",
+    "string": "Está bien, pagaré las deudas de Sinding. (<CrimeGold> de oro)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000839|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Smart move. We trust that you'll keep this monster of yours at bay from now on.",
+    "string": "Buena jugada. Confiamos en que mantendrás a esta bestia bajo control a partir de ahora.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaSindingFalkreathConfrontationGuardArrest_D",
+    "form_id": "0400083C|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sinding's a friend, he never meant to hurt anyone. (Persuade)",
+    "string": "Sinding es un amigo, nunca quiso hacerle daño a nadie. (Persuadir)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400083D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, if you say so. We trust that you'll keep this monster of yours at bay from now on.",
+    "string": "Bueno, si tú lo dices. Confiamos en que mantendrás a esta bestia bajo control a partir de ahora.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingOkayTopicTopic",
+    "form_id": "04000840|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You okay? Don't listen to them, I've got your back.",
+    "string": "¿Estás bien? No les hagas caso, yo te respaldo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000841|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mathies was right, I am a monster. I... doubt he'll ever forgive me... Neither will I.",
+    "string": "Mathies tenía razón, soy un monstruo. Yo... dudo que él alguna vez me perdone... Ni yo tampoco.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000841|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But I appreciate your help, to settle things down. Thank you.",
+    "string": "Pero agradezco tu ayuda para calmar las cosas. Gracias.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCureTopicB3",
+    "form_id": "04000842|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You know, I like you as you are, and I always find use of your bestial strength.",
+    "string": "Sabes, me gustas tal como eres, y siempre encuentro utilidad en tu fuerza bestial.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000843|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well... if you say so.",
+    "string": "Bueno... Si tú lo dices.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000837|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What's all the commotion?",
+    "string": "¿A qué viene tanto revuelo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaSindingFalkreathConfrontationGuardArrest_E",
+    "form_id": "04000845|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I refuse to be held responsible for Sinding's unintentional actions!",
+    "string": "¡Me niego a ser responsable por las acciones involuntarias de Sinding!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000846|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Then pay with your blood.",
+    "string": "Pues entonces, pagarás con tu sangre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000865|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Nothing at all, I'm innocent!",
+    "string": "No tengo nada que ocultar, ¡soy inocente!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaSindingFalkreathConfrontationGuardArrest_F",
+    "form_id": "04000847|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Whatever, just toss us in jail already.",
+    "string": "Lo que sea, ya métannos en la cárcel de una vez.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000848|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ha! Off to jail with you and your filthy friend.",
+    "string": "¡Ja! ¡A la cárcel tú y tu sucio amigo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400085A|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sinding... You monster!",
+    "string": "¡Sinding... monstruo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400085C|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You've got alot of nerve showing yourself in this town again! What do you have to say for yourself?",
+    "string": "¡Tienes mucha cara para aparecer de nuevo en esta ciudad! ¿Qué tienes que decir?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400085E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm sorry... My mind was just somewhere else. I want to beg your forgiveness... about what I did.",
+    "string": "Lo siento... Mi mente estaba en otra parte. Quiero pedirte perdón... por lo que hice.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000860|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Enough! You took away our precious daughter! And now you're going to pay. Guards! Trespasser!",
+    "string": "¡Basta! ¡Nos arrebataste a nuestra preciosa hija! Y ahora vas a pagar. ¡Guardias! ¡Intruso!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000862|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're making a mistake...",
+    "string": "Estás cometiendo un error...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingMortalityStartTopic",
+    "form_id": "0400086C|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "About your mortality, Sinding...",
+    "string": "Sobre tu mortalidad, Sinding...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000871|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes?",
+    "string": "¿Sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingMortalityEssentialTopic",
+    "form_id": "0400086D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Please don't die on me. (Make Essential)",
+    "string": "Por favor, no mueras. (Hacer Esencial)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000872|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know, I am glad to hear that I'm valued for once.",
+    "string": "Sabes, me alegra escuchar que al menos me valoran.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingMortalityProtectedTopic",
+    "form_id": "0400086E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Don't let anyone but me kill you. (Make Protected)",
+    "string": "No dejes que nadie excepto yo te mate. (Hacer Protegido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000873|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I guess I owe you my life. Very well... If I am to fall, it shall be by your blade.",
+    "string": "Supongo que te debo la vida. Muy bien... Si voy a caer, será por tu espada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingMortalityMortalTopic",
+    "form_id": "0400086F|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I will try my best to keep you alive. (Remove Essential/Protected status)",
+    "string": "Haré todo lo posible por mantenerte con vida. (Quitar estado Esencial/Protegido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000874|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So whenever we'll be in for some tough challenges, I trust that you will watch my back.",
+    "string": "Así que cuando enfrentemos desafíos difíciles, confío en que cuidarás mi espalda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingMortalityNevermindTopic",
+    "form_id": "04000870|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Nevermind.",
+    "string": "No importa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000875|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Got it.",
+    "string": "Lo tengo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400087A|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you need?",
+    "string": "¿Qué necesitas?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400087C|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Okay, got it.",
+    "string": "Vale, entendido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400087E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Can't do that. Sorry.",
+    "string": "No puedo hacer eso. Lo siento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000880|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Anything else?",
+    "string": "¿Algo más?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000882|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not for you. Not for anyone.",
+    "string": "Para ti no. Ni para nadie.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000908|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You lead, I'll follow.",
+    "string": "Ve tú primero, te sigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000909|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's get going, then.",
+    "string": "Sigamos adelante, pues.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000885|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Lead on.",
+    "string": "Guíame.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000884|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll just be here then.",
+    "string": "Entonces me quedaré aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009CC|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you my friend.",
+    "string": "Muchas gracias.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400089E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll bury you!",
+    "string": "¡Te enterraré!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040008F6|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Still need me to do something?",
+    "string": "¿Aún necesitas que haga algo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingTransformedWerewolfDialogueContinueFavorState",
+    "form_id": "040008F4|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes. Let me show you.",
+    "string": "Sí. Te lo demostraré.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040008F7|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's see it.",
+    "string": "Vamos a verlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingTransformedWerewolfDialogueEndFavorState",
+    "form_id": "040008F5|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No. Never mind.",
+    "string": "No. Da igual.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040008F8|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All right.",
+    "string": "Muy bien.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040008FD|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you alright?",
+    "string": "¿Estás bien?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCultistAttackDialogueResponse1",
+    "form_id": "040008FF|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, I-I'm alright.",
+    "string": "Sí, e-estoy bien.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000900|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why did those priests attack you?",
+    "string": "¿Por qué te atacaron esos sacerdotes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400088A|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ready to get going?",
+    "string": "¿Nos ponemos en marcha?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000887|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We heading out?",
+    "string": "¿Nos vamos ya?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000888|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm right behind you.",
+    "string": "Voy justo detrás de ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000889|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Still here.",
+    "string": "Sigo aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400088B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've got your back.",
+    "string": "Te cubro las espaldas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingTransformedWerewolfBlockingFavorTopic",
+    "form_id": "04000903|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need you to do something.",
+    "string": "Necesito que hagas algo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040008FB|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All right. What is it?",
+    "string": "Muy bien. ¿De qué se trata?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingTransformedWerewolfBlockingFollowTopic",
+    "form_id": "04000904|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Follow me.",
+    "string": "Sígueme.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040008FE|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's get going.",
+    "string": "Sigamos adelante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingTransformedWerewolfBlockingWaitTopic",
+    "form_id": "04000905|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Wait here.",
+    "string": "Espera aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000901|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You go on ahead.",
+    "string": "Ve tú delante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingTransformedWerewolfBlockingCalmTopic",
+    "form_id": "04000906|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Calm yourself, Sinding.",
+    "string": "Cálmate, Sinding.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCultistAttackDialogueResponse2",
+    "form_id": "0400090E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Not sure, they seemed upset that I'm a so-called Dragonborn. Said I was false.",
+    "string": "No estoy seguro, parecían molestos porque soy un supuesto Sangre de Dragón. Dijeron que era falso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400090F|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "False?",
+    "string": "¿Falso?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCultistAttackDialogueResponse3",
+    "form_id": "04000910|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "They mentioned that this 'Miraak' was the only true Dragonborn.",
+    "string": "Mencionaron que este “Miraak” era el único Sangre de Dragón verdadero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000911|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmmmm... this is something we definitely need to figure out why it happened.",
+    "string": "Hmm... esto es algo que definitivamente necesitamos descubrir por qué pasó.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingAnyFriendsTopic",
+    "form_id": "04000912|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you have any friends who live in Skyrim?",
+    "string": "¿Tienes algún amigo que viva en Skyrim?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000914|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have a friend named Erik who lives in Rorikstead. ",
+    "string": "Tengo un amigo llamado Erik que vive en Paraje de Rorik.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000914|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "My ma and his pa grew up together, and my ma was originally from Rorikstead before she married my pa and moved to the Rift.",
+    "string": "Mi mamá y su papá crecieron juntos, y mi mamá era originaria de Paraje de Rorik antes de casarse con mi papá y mudarse a La Grieta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000914|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Erik always pretended he was a fierce warrior and called himself Erik the Slayer.",
+    "string": "Erik siempre fingía ser un guerrero feroz y se llamaba a sí mismo Erik el Asesino.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000925|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No, I used to be friends with a girl named Sapphire, or at least that's what she called herself.",
+    "string": "No, solía ser amigo de una chica llamada Zafiro, o al menos así se llamaba.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000925|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "She lived on a nearby pig farm and always said she hated it but said she couldn't ever leave her parents.",
+    "string": "Ella vivía en una granja de cerdos cercana y siempre decía que la odiaba, pero nunca podía dejar a sus padres.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000925|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "We played a few times until one day it all stopped.",
+    "string": "Jugábamos varias veces hasta que un día todo terminó.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000925|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO RNAM",
+    "original": "Was Erik your only friend?",
+    "string": "¿Era Erik tu único amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingAnyFriendsResponse1",
+    "form_id": "04000913|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sounds like fun times.",
+    "string": "Suena divertido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000915|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "One time, when my ma and I were visiting Rorikstead, we snuck out to investigate the nearby Giant's camp.",
+    "string": "Una vez, cuando mi mamá y yo visitábamos Paraje de Rorik, nos escapamos para investigar el campamento de gigantes cercano.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000915|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Not a very wise thing to do but we made it home in one piece. But Erik's pa was expecting us.",
+    "string": "No fue muy sabio, pero llegamos a casa sanos y salvos. Pero el papá de Erik nos estaba esperando.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000915|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Ha ha ha... we had gotten in so much trouble, I think that was the last time we snuck out.",
+    "string": "Ja ja ja... nos metimos en tantos problemas, creo que fue la última vez que nos escapamos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400091B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sinding? Is that really you?",
+    "string": "¿Sinding? ¿Eres tú de verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400091D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes, it's me. And am I talking to Erik the Slayer?",
+    "string": "Sí, soy yo. ¿Y estoy hablando con Erik el Asesino?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400091F|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hehe. You still remember that, don't you? Well, hopefully our friend here will make that a reality for me.",
+    "string": "Jeje. Aún recuerdas eso, ¿verdad? Bueno, espero que nuestro amigo aquí lo haga realidad para mí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000922|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It would be an honor to adventure with you once more.",
+    "string": "Sería un honor aventurar contigo una vez más.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPlanForCureTopic",
+    "form_id": "04000923|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have you ever thought about seeing a priest to cure your lycanthropy?",
+    "string": "¿Alguna vez has pensado en ver a un sacerdote para curar tu licantropía?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000924|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have, but I honestly wouldn't know where to start.",
+    "string": "Lo he pensado, pero honestamente no sabría por dónde empezar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000924|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "My parents were devout worshippers of Talos. But while I also worshipped him, I'm not very religious with the other Eight Divines.",
+    "string": "Mis padres eran devotos adoradores de Talos. Pero aunque yo también lo adoraba, no soy muy religioso con los otros Ocho Divinos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000924|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I would be willing to meet someone to help me get rid of this curse.",
+    "string": "Estaría dispuesto a conocer a alguien que me ayude a deshacerme de esta maldición.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingAnyFriendsResponse3",
+    "form_id": "04000926|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened?",
+    "string": "¿Qué ha ocurrido?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000927|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "One day, my ma and I went to visit her, but the homestead had been destroyed and her family killed.",
+    "string": "Un día, mi mamá y yo fuimos a visitarla, pero la granja había sido destruida y su familia asesinada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000927|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "We searched everywhere for her but never found her. I assume that she was killed by whoever kidnapped her or she fled.",
+    "string": "La buscamos por todas partes, pero nunca la encontramos. Supongo que fue asesinada por quien la secuestró o que huyó.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingAnyFriendsResponse4",
+    "form_id": "0400092C|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "There's a woman in Riften named Sapphire, she hangs out in The Bee and the Barb.",
+    "string": "Hay una mujer en Riften llamada Zafiro, suele estar en La abeja y el dardo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400092D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gods above. Maybe she is alive!",
+    "string": "¡Dioses arriba! ¡Quizás esté viva!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000936|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Harbinger?",
+    "string": "Heraldo ?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000938|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes, boy?",
+    "string": "¿Sí, muchacho?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400093A|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've wanted to talk to you about a personal matter, sir. I have heard rumors that you and the Circle are werewolves, like me.",
+    "string": "Quería hablar contigo sobre un asunto personal, señor. He escuchado rumores de que tú y el Círculo son hombres lobo, como yo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400093C|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I knew from your arrival that you are one of us. What troubles you?",
+    "string": "Supe desde tu llegada que eres uno de nosotros. ¿Qué te preocupa?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400093E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Before I came here, I did something terrible due to the blood of the Wolf and I am trying to find peace with it.",
+    "string": "Antes de venir aquí, hice algo terrible debido a la sangre del Lobo y estoy tratando de encontrar paz con ello.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000940|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I assure you, that you are not alone in this battle and are safe here.",
+    "string": "Te aseguro que no estás solo en esta batalla y estás a salvo aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000942|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you, Harbinger.",
+    "string": "Gracias, heraldo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000948|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What's your story? By your smell I can tell you're not a vampire, but of the Wolf.",
+    "string": "¿Cuál es tu historia? Por tu olor puedo decir que no eres vampiro, sino del Lobo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400094A|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes, I am a werewolf. But it seems that you and I have a lot in common.",
+    "string": "Sí, soy un hombre lobo. Pero parece que tú y yo tenemos mucho en común.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400094C|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you mean?",
+    "string": "¿Qué quieres decir?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400094E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I was cursed by the Daedric Prince Hircine, and punished for trying to find a way to stop my transformations.",
+    "string": "Fui maldito por el Príncipe Daédrico Hircine y castigado por intentar encontrar una manera de detener mis transformaciones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000950|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "At least you had more choice in your curse, I had no choice in it as my father pushed my mother and I to have our Ritual to Molag Bal.",
+    "string": "Al menos tú tuviste más elección en tu maldición, yo no tuve elección porque mi padre obligó a mi madre y a mí a realizar nuestro ritual a Molag Bal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000952|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And I'm sorry that your father didn't give you a choice. You didn't deserve that. No girl deserves that.",
+    "string": "Y siento que tu padre no te haya dado opción. No merecías eso. Ninguna chica lo merece.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000954|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Err... thank you for your kind words. I'm sorry about your curse as well.",
+    "string": "Err... gracias por tus amables palabras. Siento lo de tu maldición también.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000956|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "To the Daedra, we are only pawns in their game.",
+    "string": "Para los Daedra, solo somos peones en su juego.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000958|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Maybe, but I don't plan on staying that way.",
+    "string": "Quizás, pero no planeo quedarme así.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000960|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "D-did you just consume a dragon's soul?",
+    "string": "¿A-acabas de consumir el alma de un dragón?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingFirstDragonKillTopic1",
+    "form_id": "0400095F|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes.",
+    "string": "Sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000961|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ever since I was a boy, I've only heard legends of dragons, and someone who shares the soul of a dragon.",
+    "string": "Desde que era niño, solo he escuchado leyendas de dragones y de alguien que comparte el alma de un dragón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000961|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I never thought I'd ever see such a thing.",
+    "string": "Nunca pensé que vería algo así.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingFirstDragonKillTopic2a",
+    "form_id": "04000963|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I might've said the same thing if I was in your place.",
+    "string": "Creo que habría dicho lo mismo si estuviera en tu lugar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingFirstDragonKillTopic2b",
+    "form_id": "04000964|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I only found out just now.",
+    "string": "Acabo de enterarme justo ahora.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingFirstDragonKillTopic2c",
+    "form_id": "04000965|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Like you, I have my secrets as well.",
+    "string": "Al igual que tú, yo también tengo mis secretos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400096C|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're not going to kill Paarthurnax, are you?",
+    "string": "No vas a matar a Paarthurnax, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPaarthurnaxCommentTopic1",
+    "form_id": "0400096D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What are your thoughts on this?",
+    "string": "¿Qué opinas de esto?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400096E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You spared my life in the Grotto, when you could've killed me for my crimes. But you didn't.",
+    "string": "Me perdonaste la vida en la Gruta, cuando pudiste haberme matado por mis crímenes. Pero no lo hiciste.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPaarthurnaxCommentTopic2",
+    "form_id": "0400096F|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, I didn't.",
+    "string": "No, no lo hice.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000970|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Like me, Paarthurnax did horrible things. But look how he is helping you and is willing to support your quest.",
+    "string": "Como yo, Paarthurnax hizo cosas horribles. Pero mira cómo te ayuda y está dispuesto a apoyar tu misión.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPaarthurnaxCommentTopic3a",
+    "form_id": "04000971|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "True, and the old Dragon only seeks for peace and to right his wrongs.",
+    "string": "Cierto, y el viejo dragón solo busca paz y enmendar sus errores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPaarthurnaxCommentTopic3b",
+    "form_id": "04000972|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Thank you for your thoughts, Sinding. I know what I must do now.",
+    "string": "Gracias por tus palabras, Sinding. Ahora sé lo que debo hacer.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000976|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sapphire?",
+    "string": "Zafiro ?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingThoughtsOnCWTopic2",
+    "form_id": "04000978|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Then what do you think should be done?",
+    "string": "Entonces, ¿qué crees que se debería hacer?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000979|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I think we should all band together and turn our eyes towards the Thalmor.",
+    "string": "Creo que todos deberíamos unirnos y voltear nuestros ojos hacia los Thalmor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000979|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "In truth, they started a war and kept feeding lies and taking away our worship. We should fight against them.",
+    "string": "En verdad, ellos iniciaron una guerra y siguieron alimentando mentiras y quitando nuestra adoración. Deberíamos luchar contra ellos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingThoughtsOnCWTopic3",
+    "form_id": "0400097A|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd be careful of what I'd say around the Thalmor.",
+    "string": "Tendría cuidado con lo que digo cerca de los Thalmor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400097B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I plan to, unless one comes between you with a blade to your throat, then I'd fight. ",
+    "string": "Planeo hacerlo, a menos que uno se interponga con una hoja en tu garganta, entonces lucharía.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000981|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Serana, are you alright?",
+    "string": "¿Serana, estás bien?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000983|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't know yet, I just killed my father. Yes, for the good of Skyrim, but he was still my father.",
+    "string": "No lo sé aún, acabo de matar a mi padre. Sí, por el bien de Skyrim, pero él seguía siendo mi padre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000983|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I just feel... numb.",
+    "string": "Solo me siento... entumecida.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000985|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, you aren't alone anymore.",
+    "string": "Bueno, ya no estás sola.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000987|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Our friend here, has been there for me many times. Even saved my life when someone else wanted me locked away or dead.",
+    "string": "Nuestro amigo aquí ha estado para mí muchas veces. Incluso me salvó la vida cuando alguien más quería encerrarme o matarme.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000989|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I take it you just need more time to grieve, and you're allowed to.",
+    "string": "Supongo que solo necesitas más tiempo para llorar, y se te permite.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400098B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And no one ever told me that I can grieve.",
+    "string": "Y nadie me dijo nunca que podía llorar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400098B|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Ever since the ceremony, I've been pushed from one parent to another, and never even been able to process my own loss of normal life as I knew it.",
+    "string": "Desde la ceremonia, me han pasado de un padre a otro y nunca he podido procesar mi propia pérdida de la vida normal como la conocía.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400098D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I appreciate your kind words...",
+    "string": "Agradezco tus amables palabras...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000992|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And thank you... for everything. I'd still be in the tomb or even sacrificed by my own father if not for you.",
+    "string": "Y gracias... por todo. Todavía estaría en la tumba o incluso sacrificada por mi propio padre si no fuera por ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingConsolesSeranaResponse",
+    "form_id": "04000991|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No need to thank me. It's what friends do.",
+    "string": "No necesitas darme las gracias. Es lo que hacen los amigos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000997|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A word?",
+    "string": "¿Una palabra?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingKodlaksDeathCommentTopic1",
+    "form_id": "04000998|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's on your mind?",
+    "string": "¿En qué estás pensando?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000999|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I-I can't believe Kodlak is really gone.",
+    "string": "No puedo creer que Kodlak realmente se haya ido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingKodlaksDeathCommentTopic2",
+    "form_id": "0400099A|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I know, I can't believe it either.",
+    "string": "Lo sé, yo tampoco puedo creerlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400099B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "He was good. And they took his life and treated him no more than a common dog. He never fullfilled his wishes.",
+    "string": "Era bueno. Y le quitaron la vida y lo trataron como a un perro común. Nunca cumplió sus deseos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingKodlaksDeathCommentTopic3",
+    "form_id": "0400099C|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We will avenge him. One way or another.",
+    "string": "Lo vengaremos. De una forma u otra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400099D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope you are right.",
+    "string": "Espero que tengas razón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingBackstoryQuesttionTopic",
+    "form_id": "040009A6|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want to ask you a question.",
+    "string": "Quiero hacerte una pregunta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009A7|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmm?",
+    "string": "Hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingBackstoryGrowUpTopic",
+    "form_id": "040009A8|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Where did you grow up, Sinding?",
+    "string": "¿Dónde creciste, Sinding?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009AD|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I lived on a small farm with my ma and pa when I was a boy. It was in between Shor's Stone and Ivarstead.",
+    "string": "Vivía en una pequeña granja con mi mamá y papá cuando era niño. Estaba entre Peñón de Shor e Paraje de Ivar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingBackstoryFamilyTopic",
+    "form_id": "040009A9|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened to your family?",
+    "string": "¿Qué le pasó a tu familia?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009AE|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Pa died during the Great War. I became a laborer to help support my ma and I.",
+    "string": "Papá murió durante la Gran Guerra. Me convertí en jornalero para ayudar a mantener a mi mamá y a mí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009AE|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "She was killed during a bandit raid on our farm.",
+    "string": "Ella fue asesinada durante una redada de bandidos en nuestra granja.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingBackstoryFamilyResponse",
+    "form_id": "040009AA|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm very sorry to hear that.",
+    "string": "Lamento mucho escuchar eso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009AF|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We all have our tragic pasts.",
+    "string": "Todos tenemos nuestros pasados trágicos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingBackstoryLycanTopic",
+    "form_id": "040009AB|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "When did you become a werewolf?",
+    "string": "¿Cuándo te convertiste en hombre lobo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009B0|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As a laborer, I'd travel from city to city to find work. Honest pay for honest work.",
+    "string": "Como jornalero, viajaba de ciudad en ciudad buscando trabajo. Pago honesto por trabajo honesto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009B0|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I was traveling from Falkreath to Whiterun, doing a bit of hunting, hoping to be able to trade some pelts for a few septims-",
+    "string": "Estaba viajando de Falkreath a Carrera Blanca, cazando un poco, esperando poder cambiar algunas pieles por unos septims-",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009B0|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "-when I heard the sound of a roar. I thought it was a bear.",
+    "string": "-cuando escuché un rugido. Pensé que era un oso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingBackstoryLycanResonse",
+    "form_id": "040009AC|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It wasn't a bear, was it?",
+    "string": "No fue un oso, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009B1|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No. A feral werewolf attacked me. I proved too strong for it and after a vicious fight, I had to kill it.",
+    "string": "No. Un hombre lobo salvaje me atacó. Resulté más fuerte y después de una pelea feroz, tuve que matarlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009B1|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But not before he had bitten me. And the rest of the story, you know well.",
+    "string": "Pero no antes de que me mordiera. Y el resto de la historia, ya la sabes bien.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009B5|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I-I can't believe it. You came back from Sovngarde?",
+    "string": "No puedo creerlo. ¿Volviste de Sovngarde?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPostMQComment1",
+    "form_id": "040009B6|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes. Alduin has been slain.",
+    "string": "Sí. Alduin ha sido derrotado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009B8|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You have truly saved us and all of Skyrim.",
+    "string": "Realmente nos has salvado a todos y a todo Skyrim.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPostMQComment2",
+    "form_id": "040009B7|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "There is still so much to live for. I refused to let Alduin take that from us.",
+    "string": "Aún hay mucho por lo que vivir. Me negué a dejar que Alduin nos arrebatara eso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009B9|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm very glad. And honored to be at your side, Dragonborn.",
+    "string": "Estoy muy contento. Y honrado de estar a tu lado, Sangre de Dragón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009BE|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "By the gods! Are you alright? I was worried about you.",
+    "string": "¡Por los dioses! ¿Estás bien? Me preocupaba por ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009BF|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you have a moment?",
+    "string": "¿Tienes un momento?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPostMQ201Topic1a",
+    "form_id": "040009C0|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm fine. A little shaken up from how close I was being caught but I'm alright.",
+    "string": "Estoy bien. Un poco alterado por lo cerca que estuve de ser atrapado, pero estoy bien.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009C1|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I should have been with you. I'm sure your friend Delphine could've arranged that.",
+    "string": "Debí haber estado contigo. Estoy seguro que tu amiga Delphine pudo haberlo arreglado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPostMQ201Topic1b",
+    "form_id": "040009C2|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I put myself at risk enough. I don't think I could've been able to risk you too.",
+    "string": "Ya me pongo en riesgo lo suficiente. No creo que hubiera podido arriesgarte a ti también.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009C3|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That's very kind of you, but still. I promised myself I wouldn't let anything happen to you.",
+    "string": "Es muy amable de tu parte, pero aún así, me prometí no dejar que te pasara nada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPostMQ201Topic2a",
+    "form_id": "040009C4|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's troubling you?",
+    "string": "¿Qué te preocupa?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009C5|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I want to apologize for getting angry with you. I always worry about you when you go on dangerous quests without me.",
+    "string": "Quiero disculparme por haberme enojado contigo. Siempre me preocupo cuando vas en misiones peligrosas sin mí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009C5|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I don't want anything to happen to you.",
+    "string": "No quiero que te pase nada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPostMQ201Topic2b",
+    "form_id": "040009C6|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I appreciate that.",
+    "string": "Te lo agradezco.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009C8|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You saved my life a few times and I want to repay you by always being by your side...",
+    "string": "Me has salvado la vida varias veces y quiero pagarte siempre estando a tu lado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009C8|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "...and if I had lost you...",
+    "string": "...y si te hubiera perdido...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009C8|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "(Sobbing)",
+    "string": "(Sollozar)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPostMQ201Topic2c",
+    "form_id": "040009C7|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd feel the same way if something happened to you. ",
+    "string": "Me sentiría igual si algo te pasara a ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009C9|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That means a lot to hear...",
+    "string": "Eso significa mucho oírlo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A4E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Werebears! Never in my years did I ever think I would see werebears!",
+    "string": "¡Hombres oso! Nunca en mis años pensé que vería hombres oso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009D4|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, Sinding! You too discarded the gift of the Wolf like my other shield brothers.",
+    "string": "¡Ah, Sinding! Tú también rechazaste el don del Lobo como mis otros hermanos de escudo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009D6|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm sorry Aela, but I feel more peace than I have in years since being a werewolf.",
+    "string": "Lo siento, Aela, pero siento más paz que en años desde que soy hombre lobo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009D8|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Pity, I would have liked to have had one of my brothers or sisters to partake in this path with me until our ends.",
+    "string": "Qué lástima, me hubiera gustado que uno de mis hermanos o hermanas participara en este camino conmigo hasta nuestro final.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009DA|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why did you stay a werewolf? Why didn't you cure yourself like the rest of us?",
+    "string": "¿Por qué te quedaste siendo hombre lobo? ¿Por qué no te curaste como el resto de nosotros?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009DC|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "In my mind I wasn't even cursed. But I hope to one day take part in The Great of Hunt in Hircine's realm of Oblivion.",
+    "string": "En mi mente ni siquiera estaba maldito. Pero espero algún día participar en La Gran Cacería en el reino de Hircine en Oblivion.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009DE|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "To hunt for eternity?",
+    "string": "¿Cazar por la eternidad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009E0|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes, and to see my dear friend Skjor again.",
+    "string": "Sí, y volver a ver a mi querido amigo Skjor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009E2|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So, it was true? About you and Skjor?",
+    "string": "¿Entonces era verdad? ¿Sobre tú y Skjor?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009E4|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Skjor was more than just my fellow Companion. He was much more than that. And I miss him dearly.",
+    "string": "Skjor fue más que solo mi compañero de los Compañeros. Fue mucho más que eso. Y lo extraño mucho.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009E7|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I will prefer if you're quiet... I just need some time to calm my nerves.",
+    "string": "Preferiría que guardaras silencio... solo necesito un tiempo para calmar mis nervios.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009EE|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ha ha ha ha ha! Of all the things we've been through together, you capturing a dragon was the most impressive!",
+    "string": "¡Ja ja ja ja! De todas las cosas que hemos pasado juntos, ¡capturar un dragón fue lo más impresionante!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009EF|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wait... You're not going to ride that dragon to Skuldafn, are you?",
+    "string": "Espera... No vas a montar ese dragón hasta Skuldafn, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingMQ301DialogueCapture1",
+    "form_id": "040009F0|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Most impressive? Sinding, you flatter me.",
+    "string": "¿Lo más impresionante? Sinding, me halagas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009F1|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You definitely are more than meets the eye.",
+    "string": "Definitivamente eres más de lo que aparentas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingMQ301DialogueTakeOff1",
+    "form_id": "040009F2|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes. I have to, if I'm going to defeat Alduin.",
+    "string": "Sí. Debo hacerlo, si voy a derrotar a Alduin.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009F3|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "But what if you don't come back? You're my friend, what will happen if you die out there?",
+    "string": "Pero, ¿y si no regresas? Eres mi amigo, ¿qué pasará si mueres allá afuera?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009F4|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "But what if you don't come back? I can't lose you... What will happen if you die out there?",
+    "string": "Pero, ¿y si no regresas? No puedo perderte... ¿qué pasará si mueres allá afuera?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingMQ301DialogueTakeOff2",
+    "form_id": "040009F5|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sinding, we will all die if I don't try to defeat Alduin.",
+    "string": "Sinding, todos moriremos si no intento derrotar a Alduin.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009F6|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I guess you are right.",
+    "string": "Supongo que tienes razón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009F6|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But come back safely, you hear?",
+    "string": "Pero regresa sano y salvo, ¿me escuchas?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingMQ301DialogueTakeOff3",
+    "form_id": "040009F7|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I plan to. Farewell, Sinding.",
+    "string": "Eso planeo. Adiós, Sinding.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009F8|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Farewell, my friend.",
+    "string": "Adiós, amigo mío.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009F9|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Farewell, my love.",
+    "string": "Adiós, mi amor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingBackstoryMillTopic",
+    "form_id": "040009FA|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How long were you working at the mill before your accident?",
+    "string": "¿Cuánto tiempo trabajaste en el molino antes de tu accidente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009FC|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "About two days. I thought everything was going fine since I had arrived at Falkreath.",
+    "string": "Unos dos días. Pensé que todo iba bien desde que llegué a Falkreath.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009FC|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I would have the strange transformations mostly when I was in the wild, but I knew if I could stay away from the lonely traveler or two, I'd be fine.",
+    "string": "Tenía las extrañas transformaciones sobre todo cuando estaba en la naturaleza, pero sabía que si podía mantenerme alejado de algún viajero solitario, estaría bien.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009FC|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I had gone without transforming for a few days when I came to Falkreath. I thought that I was 'safe' when I was working at the mill.",
+    "string": "Había pasado unos días sin transformarme cuando llegué a Falkreath. Pensé que estaba \"seguro\" cuando trabajaba en el molino.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009FC|AuthenticSindingFollower.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "I was wrong... and after two days of working at the mill, that's when I had my 'incident'.",
+    "string": "Estaba equivocado... y después de dos días trabajando en el molino, tuve mi \"incidente\".",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingBackstoryPrisonTopic",
+    "form_id": "040009FB|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How long were you in prison before I met you?",
+    "string": "¿Cuánto tiempo estuviste en prisión antes de que te conociera?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009FD|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I was locked in my cell for three days when you came. I didn't know what they were going to do.",
+    "string": "Estuve encerrado en mi celda tres días cuando llegaste. No sabía qué iban a hacer conmigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009FD|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Between the jeering guards and the cold stares, I didn't know what to expect when I saw... you.",
+    "string": "Entre las burlas de los guardias y las miradas frías, no sabía qué esperar cuando vi... a ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009FD|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I'm glad you did come though.",
+    "string": "Me alegra que hayas venido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009FF|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do I know you- wait, Sinding? You are still alive?",
+    "string": "¿Te conozco... espera, Sinding? ¿Sigues vivo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009FF|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I heard you had gotten yourself into some trouble in Falkreath and thought you were dead.",
+    "string": "Escuché que te metiste en problemas en Falkreath y pensé que estabas muerto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A01|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can say the same thing for you... especially after we searched for you, after your parents died.",
+    "string": "Puedo decir lo mismo de ti... especialmente después de que te buscamos, luego de que murieron tus padres.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A03|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You looked for me? Well, let's just say there were many times I wished I was dead.",
+    "string": "¿Me buscaron? Bueno, digamos que hubo muchas veces que deseé estar muerto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A05|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh Sapphire, I'm sorry-",
+    "string": "Oh, Zafiro, lo siento-",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A07|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You don't even know what happened to me. I was defiled and tortured by the men who killed my parents.",
+    "string": "Ni siquiera sabes lo que me pasó. Fui profanado y torturado por los hombres que mataron a mis padres.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A07|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I was hoping and praying for help, but not once did the Divines hear my pleads.",
+    "string": "Esperaba y rezaba por ayuda, pero los Divinos nunca escucharon mis súplicas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A09|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I...",
+    "string": "Yo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A0B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Look, I'm sorry I snapped. I've been carrying that with me for a long time.",
+    "string": "Mira, siento haberme enfadado. He cargado con eso por mucho tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A0B|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I've joined guild after guild, just to find somewhere I belong... along with some good coin.",
+    "string": "Me uní a gremios tras gremios, solo para encontrar un lugar al que pertenezca... junto con algo de buena moneda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A0D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, I'm sorry I didn't ever find you. Your not alone anymore.",
+    "string": "Bueno, siento no haberte encontrado antes. Ya no estás solo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A0F|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I appreciate it. See you around, Sinding.",
+    "string": "Lo aprecio. Nos vemos, Sinding.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingJealousPlayerTopic",
+    "form_id": "04000A11|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I hate to be that type, but... do you love Sapphire?",
+    "string": "Odio ser así, pero... ¿amas a Zafiro?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A12|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Haha, gods! Not like that.",
+    "string": "¡Ja ja, dioses! No es así.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A12|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Sure, I fancied her when we were children but that's what we were, children.",
+    "string": "Claro, me gustaba cuando éramos niños, pero eso es lo que éramos, niños.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A12|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "The way her life is now isn't the same as mine and we choose different paths.",
+    "string": "La vida que ella tiene ahora no es la misma que la mía y escogimos caminos diferentes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A12|AuthenticSindingFollower.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "I'll always let her know she has someone to count on, but it ends there.",
+    "string": "Siempre le haré saber que tiene a alguien en quien confiar, pero ahí termina.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingJealousPlayerResponse",
+    "form_id": "04000A13|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I thought you loved her.",
+    "string": "Pensé que la amabas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A14|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No. You're always my love, and my heart is yours.",
+    "string": "No. Siempre serás mi amor, y mi corazón es tuyo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A29|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Meeko! Settle down, boy, it's alright. There... Good boy.",
+    "string": "¡Meeko! Tranquilo, chico, está bien. Ahí... buen chico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A2B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Meeko! Settle down, boy, it's alright. There... Good boy.",
+    "string": "¡Meeko! Tranquilo, chico, está bien. Ahí... buen chico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A2D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'd watch who you are talking to?",
+    "string": "¿A quién le estás hablando?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A2F|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You do know that he is a Thane in Balgruuf's Court, and is also the Dragonborn? I'm pretty sure he DOES get to the Cloud District pretty often.",
+    "string": "¿Sabes que él es un Thane en la corte de Balgruuf y también el Sangre de Dragón? ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A31|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You do know that she is a Thane in Balgruuf's Court, and is also the Dragonborn? I'm pretty sure she DOES get to the Cloud District pretty often.",
+    "string": "¿Sabes que ella es una Thane en la corte de Balgruuf y también la Sangre de Dragón? Estoy segura que SÍ va mucho al Distrito de las Nubes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A32|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What did you just say?",
+    "string": "¿Qué acabas de decir?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A34|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well you have some nerve, speaking to me like that.",
+    "string": "Vaya, tienes mucho descaro para hablarme así.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A36|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All hail the Dragonborn!",
+    "string": "¡Larga vida al Sangre de Dragón!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A38|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well I, uhh... Oh, nevermind.",
+    "string": "Bueno, eh... Oh, olvídalo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A3F|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, that settles that.",
+    "string": "Bueno, eso resuelve eso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A84|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Isn't it such a beautiful day to be out and about?",
+    "string": "¿No es un día tan hermoso para estar fuera y pasear?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingNPCResonse1Nazeem",
+    "form_id": "04000A3D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Well, he's not wrong.",
+    "string": "Bueno, no se equivoca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A3E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What are you even talking about?",
+    "string": "¿De qué estás hablando?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingNPCResonse1NazeemSinding",
+    "form_id": "04000A40|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Thank you, Sinding.",
+    "string": "Gracias, Sinding.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A41|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Anytime, my friend. Got tired of his gloating.",
+    "string": "Cuando quieras, amigo. Me cansé de sus jactancias.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A42|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Anytime, my love. Got tired of his gloating.",
+    "string": "Cuando quieras, amor. Me cansé de sus jactancias.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A48|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you get to the Cloud District very often? Oh, what am I saying - of course you don't.",
+    "string": "¿Vas al Distrito de la nube muy a menudo? Ah, pero qué digo... Pues claro que no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingMathiesInitiateSceneTopic",
+    "form_id": "04000A4D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hey Mathies, I have brought someone special...",
+    "string": "Oye, Mathies, he traído a alguien especial...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCollarCommentTopic",
+    "form_id": "04000A51|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Looking good...",
+    "string": "Te ves bien...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A52|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Remind me... why do I have to wear this collar?",
+    "string": "ecuérdame... ¿por qué tengo que usar este collar?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCollarCommentDisguise",
+    "form_id": "04000A53|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Trust me, people will mistake you for a dog when you're a beast.",
+    "string": "Créeme, la gente te confundirá con un perro cuando seas una bestia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A55|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I guess I will have to believe you.",
+    "string": "Supongo que tendré que creerte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCollarCommentPuppy",
+    "form_id": "04000A54|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I do think it suits you well... pup.",
+    "string": "Creo que te queda bien... cachorro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A56|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heh. Very funny...",
+    "string": "Je. Muy gracioso...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A5B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Greetings, Thane!",
+    "string": "¡Saludos, Thane!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A5D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And greetings, Sinding.",
+    "string": "Y saludos, Sinding.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A5F|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Back from an adventure, I see?",
+    "string": "¿De regreso de una aventura, veo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A61|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Always an adventure with this one.",
+    "string": "Siempre hay una aventura con este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A63|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ha ha, that I see. Well, if you are ever in need of another set of hands, I'm always ready to serve.",
+    "string": "Ja ja, eso veo. Bueno, si alguna vez necesitas otra mano, siempre estoy listo para servir.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A65|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you, Lydia.",
+    "string": "Gracias, Lydia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A6B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Who enters, my children?",
+    "string": "¿Quién entra, hijos míos?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A6D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It is me, sir. Sinding.",
+    "string": "Soy yo, señor. Sinding.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A6D|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "We spoke when I was in the Falkreath jail.",
+    "string": "Hablamos cuando estaba en la cárcel de Falkreath.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A6F|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah yes, I remember. I visited your cell to speak to you, after what happened between you and Mathies's family.",
+    "string": "Ah, sí, lo recuerdo. Visité tu celda para hablar contigo, después de lo que pasó entre tú y la familia de Mathies.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A71|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes... I wanted to ask for the forgiveness of the gods, and to make an offering to the god Arkay, in atone of what I did.",
+    "string": "Sí... quería pedir el perdón de los dioses, y hacer una ofrenda al dios Arkay, en expiación por lo que hice.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A71|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I know I can never undo what I did, and have served my time in jail. But I want to do more...",
+    "string": "Sé que nunca podré deshacer lo que hice, y ya cumplí mi tiempo en la cárcel. Pero quiero hacer más...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A71|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "And I know that Mathies will never forgive me. But I, at least, want to make something right.",
+    "string": "Y sé que Mathies nunca me perdonará. Pero yo, al menos, quiero hacer algo bien.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A73|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What you are wishing to do, my child, is indeed a good deed. ",
+    "string": "Lo que deseas hacer, hijo mío, es sin duda una buena obra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A73|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Mathies may one day find in his heart to forgive you. But it is no longer your burden to bear.",
+    "string": "Quizá algún día Mathies encuentre en su corazón perdonarte. Pero ya no es tu carga para llevar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A73|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "By coming to me and asking the Gods' forgiveness, as been seen right in the eyes of our Lord Arkay, you may go in peace now.",
+    "string": "Al venir a mí y pedir el perdón de los Dioses, visto así ante los ojos de nuestro Señor Arkay, puedes ir en paz ahora.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A73|AuthenticSindingFollower.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Just be careful of what you do here in Falkreath.",
+    "string": "Solo ten cuidado con lo que haces aquí en Falkreath.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A73|AuthenticSindingFollower.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "While you have now atoned for your crimes with Arkay and the law, there are people here who will not be happy to see you. Just be careful.",
+    "string": "Aunque ahora has expiado tus crímenes con Arkay y la ley, hay personas aquí que no estarán felices de verte. Solo ten cuidado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A75|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you, sir. I promise not to cause trouble again.",
+    "string": "Gracias, señor. Prometo no causar más problemas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A7A|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah. I remember seeing you here in Falkreath before, helping some of our civilians.",
+    "string": "Ah. Recuerdo haberte visto aquí en Falkreath antes, ayudando a algunos de nuestros civiles.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A7A|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Are you friends with Sinding?",
+    "string": "¿Eres amigo de Sinding?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A79|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Regardless of what some of the people of this city say, I am glad.",
+    "string": "Independientemente de lo que diga la gente de esta ciudad, me alegra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A79|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The few times I spoke to Sinding when he first entered Falkreath and when I visited him in the jail, he seemed to be a good man-",
+    "string": "Las pocas veces que hablé con Sinding cuando llegó a Falkreath y cuando lo visité en la cárcel, parecía un buen hombre-",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A79|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "-who was mixed up in something terrible.",
+    "string": "-que estaba envuelto en algo terrible.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingRunilConversationResponse1",
+    "form_id": "04000A7B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, we are friends.",
+    "string": "Sí, somos amigos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A7D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Yes, you could say that. We're actually married.",
+    "string": "Sí, se podría decir eso. En realidad, estamos casados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingRunilConversationResponse2",
+    "form_id": "04000A7E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He was cursed by Hircine, sir.",
+    "string": "Fue maldito por Hircine, señor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A7F|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, was he now? That makes sense. Well, regardless, I am happy to see he is in good hands with you.",
+    "string": "¿Ah, sí? Eso tiene sentido. Bueno, de todas formas, me alegra verlo en buenas manos contigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A7F|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "You both stay safe, and Blessings of Arkay on you both.",
+    "string": "Cuídense ambos, y bendiciones de Arkay para los dos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A81|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, hello friend!",
+    "string": "¡Oh, hola amigo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A83|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "And hello, Sinding.",
+    "string": "Y hola, Sinding.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingNPCResponse1Ysolda",
+    "form_id": "04000A85|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It is. How are you doing, Ysolda?",
+    "string": "Sí. ¿Cómo estás, Ysolda?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A86|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can't complain. I've just been working hard, trying to save up enough money to eventually buy The Bannered Mare from Hulda.",
+    "string": "No me puedo quejar. He estado trabajando duro, tratando de juntar suficiente dinero para eventualmente comprar La Yegua Pregonera de Hulda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A88|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is Hulda wanting to retire?",
+    "string": "¿Hulda quiere retirarse?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A8A|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, best of luck to you.",
+    "string": "Bueno, te deseo suerte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A8C|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not at the moment. But we have discussed that she is willing to sell it to me when she's ready to.",
+    "string": "Por ahora no. Pero hemos hablado que está dispuesta a vendérmela cuando esté lista.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A8F|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Farewell.",
+    "string": "Hasta la vista.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A90|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmph.",
+    "string": "Mmm.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A91|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hircine go with you.",
+    "string": "Que Hircine te acompañe.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A92|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Goodbye, whelp.",
+    "string": "Adiós, cachorro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A97|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hello friend. I can smell the beast blood on you as well as your friend.",
+    "string": "Hola amigo. Puedo oler la sangre de bestia en ti y en tu amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A97|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "It is good to still find others like us in this world.",
+    "string": "Es bueno encontrar a otros como nosotros en este mundo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A99|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know we are of the beast blood?",
+    "string": "¿Saben que somos de sangre bestial?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A9B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aye. It isn't often when we meet others such as ourselves. You are both welcomed here.",
+    "string": "Sí. No es común encontrar a otros como nosotros. Son bienvenidos aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A9D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Greetings, friend.",
+    "string": "Saludos, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A9F|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes?",
+    "string": "¿Sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AA1|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hear you are Majni's brother?",
+    "string": "Escuché que eres hermano de Majni.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AA3|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yeah, he is better at talking though. Speak to him.",
+    "string": "Sí, él habla mejor. Habla con él.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AA5|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Reminds me a bit of Farkas, just less talkative.",
+    "string": "Me recuerda un poco a Farkas, solo que menos hablador.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AA7|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Greetings, Brother!",
+    "string": "Saludos, hermano !",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AA9|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Greetings.",
+    "string": "Saludos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AAB|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I met your friend here, is he your mate?",
+    "string": "Conocí a tu amigo aquí, ¿es tu pareja?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AAD|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I met your friend here, is she your mate?",
+    "string": "Conocí a tu amiga aquí, ¿es tu pareja?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AAE|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Eheh.. Yes, indeed. How could you tell?",
+    "string": "Eheh... Sí, de hecho. ¿Cómo lo supiste?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AB0|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Majni tells me I have good intuition about these sort of things, and I can tell by the way you act around each other. May Hircine Bless you.",
+    "string": "Majni me dice que tengo buena intuición para estas cosas, y lo veo por cómo se comportan el uno con el otro. Que Hircine los bendiga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AB2|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't know about Hircine's Blessing, but thank you.",
+    "string": "No sé sobre la bendición de Hircine, pero gracias.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AB4|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What is it?",
+    "string": "¿Qué pasa?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AB6|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I heard that your pack was killed by werebears. I am sorry to hear that.",
+    "string": "Escuché que tu manada fue asesinada por hombres oso. Siento mucho oír eso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AB8|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If I was in a different situation, I would thank you for your pity.",
+    "string": "Si estuviera en otra situación, te agradecería por tu lástima.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AB8|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But unfortunately, it is pity that has only hurt me in the past, and I'd rather not lose what I got.",
+    "string": "Pero desafortunadamente, la lástima sólo me ha hecho daño en el pasado, y prefiero no perder lo que tengo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000ABA|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I understand that.",
+    "string": "Lo entiendo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000ABC|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you see any werebears in the NorthEast, take a few down for me.",
+    "string": "Si ves algún hombre oso en el noreste, acaba con unos cuantos por mí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCollarCommentSilent",
+    "form_id": "04000ABF|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "(Say nothing)",
+    "string": "(No decir nada)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AC0|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Keep your secrets, then.",
+    "string": "Guarda tus secretos, entonces.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05ConvinceSindingWWStart",
+    "form_id": "04000AD4|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Well you see, I'm actually a werewolf too.",
+    "string": "Verás, en realidad yo también soy un hombre lobo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AD5|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Really?",
+    "string": "¿En serio?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05ConvinceSindingWWPro",
+    "form_id": "04000AD6|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes. Being a werewolf can be a gift. I can help you learn to control it.",
+    "string": "Sí. Ser un hombre lobo puede ser un don. Puedo ayudarte a aprender a controlarlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AD7|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alright, maybe you can help me. But that doesn't mean I'm into the idea of killing innocents.",
+    "string": "Está bien, tal vez puedas ayudarme. Pero eso no significa que me guste la idea de matar inocentes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AD9|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You see, after all this time we've spent together, I can sense how the beast within me has been tamed.",
+    "string": "Verás, después de todo este tiempo juntos, puedo sentir cómo la bestia dentro de mí ha sido domada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AD9|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But if there's a way to cure this curse...",
+    "string": "Pero si hay alguna forma de curar esta maldición...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AD9|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I just... I-I just want to be given a second chance after my accident with the poor girl back there...",
+    "string": "Solo... sólo quiero que me den una segunda oportunidad después de mi accidente con la pobre chica de allá atrás...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AD9|AuthenticSindingFollower.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "But we're in this together, right? What do you think of all this? What are you going to do?",
+    "string": "Pero estamos juntos en esto, ¿verdad? ¿Qué piensas de todo esto? ¿Qué vas a hacer?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000ADA|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "At this rate, I want no more to do with this curse...",
+    "string": "A este ritmo, no quiero nada más que ver con esta maldición...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000ADA|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I just... I-I just want to be given a second chance after my accident with the poor girl back there...",
+    "string": "Solo... sólo quiero que me den una segunda oportunidad después de mi accidente con la pobre chica de allá atrás...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000ADA|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I don't want Hircine to control me for the rest of my life, or in the next life...",
+    "string": "No quiero que Hircine me controle por el resto de mi vida, ni en la próxima...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000ADA|AuthenticSindingFollower.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "But we're in this together, right? Will you help me to get rid of my beast blood?",
+    "string": "Pero estamos juntos en esto, ¿verdad? ¿Me ayudarás a deshacerme de la sangre de la bestia?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCureLuvWuf",
+    "form_id": "04000ADB|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I love being a werewolf. It's who I am and I wouldn't change it for anything.",
+    "string": "Me encanta ser un hombre lobo. Es lo que soy y no lo cambiaría por nada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000ADC|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I see...",
+    "string": "Comprendo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCureNotYourFault",
+    "form_id": "04000ADD|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened wasn't your fault. You don't have to change anything to prove it.",
+    "string": "Lo que pasó no fue tu culpa. No tienes que cambiar nada para demostrarlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000ADE|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "But I...",
+    "string": "Pero yo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCureGood",
+    "form_id": "04000ADF|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You're kind and gentle. A good person, Sinding. I've seen it since we met.",
+    "string": "Eres amable y gentil. Una buena persona, Sinding. Lo he visto desde que nos conocimos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AE0|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Sobbing)",
+    "string": "(Sollozar)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCureMoveOn",
+    "form_id": "04000AE1|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You can't change the past. You just need to put it behind you and move on.",
+    "string": "No puedes cambiar el pasado. Solo tienes que dejarlo atrás y seguir adelante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AE2|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I guess so...",
+    "string": "Supongo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05ConvinceSindingGoAhead",
+    "form_id": "04000AE3|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "But if you want to be cured, it's your choice. I'm behind you, no matter what.",
+    "string": "Pero si quieres curarte, es tu decisión. Te apoyaré, pase lo que pase.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AEF|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you...",
+    "string": "gracias...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AEF|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "My choice... Funny, now that I think about it, how that makes all the difference.",
+    "string": "Mi elección... Curioso, ahora que lo pienso, lo que hace toda la diferencia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AEF|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "...Maybe being a werewolf doesn't make me a monster. You're no monster, and you chose this.",
+    "string": "...Quizás ser hombre lobo no me convierte en un monstruo. Tú no eres un monstruo, y tú elegiste esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AEF|AuthenticSindingFollower.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "I think.. I'll follow your lead. Maybe there is such a thing as a 'good' werewolf.",
+    "string": "Creo... que seguiré tu ejemplo. Tal vez exista algo como un \"hombre lobo bueno\".",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AE4|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you...",
+    "string": "gracias...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AE4|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "My choice... Funny, now that I think about it, how that makes all the difference.",
+    "string": "Mi elección... Curioso, ahora que lo pienso, lo que hace toda la diferencia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AE4|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "...Maybe being a werewolf doesn't make me a monster. You're no monster, and you chose this.",
+    "string": "...Quizás ser hombre lobo no me convierte en un monstruo. Tú no eres un monstruo, y tú elegiste esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AE4|AuthenticSindingFollower.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "But... Even so, I think I'd rather spend my afterlife in Sovngarde So, I've decided. I want to be cured.",
+    "string": "Pero... aun así, creo que preferiría pasar mi otra vida en Sovngarde. Así que he decidido. Quiero ser curado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AE5|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you...",
+    "string": "gracias...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AE5|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "My choice... Funny, now that I think about it, how that makes all the difference.",
+    "string": "Mi elección... Curioso, ahora que lo pienso, lo que hace toda la diferencia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AE5|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "...Maybe being a werewolf doesn't make me a monster. You're no monster, and you chose this... You chose me.",
+    "string": "...Quizás ser hombre lobo no me convierte en un monstruo. Tú no eres un monstruo, y tú elegiste esto... Tú me elegiste a mí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AE5|AuthenticSindingFollower.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "I think.. I'll follow your lead. Maybe there is such a thing as a 'good' werewolf.",
+    "string": "Creo... que seguiré tu ejemplo. Tal vez exista algo como un \"hombre lobo bueno\".",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AE5|AuthenticSindingFollower.esp",
+    "index": 4,
+    "type": "INFO RNAM",
+    "original": "But if you want to be cured, it's your choice. I still love you, no matter what.",
+    "string": "Pero si quieres ser curado, es tu elección. Te sigo amando, pase lo que pase.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCureStay",
+    "form_id": "04000AE6|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Please, stay with me.. I think I'm proof that not all werewolves are bad, right?",
+    "string": "Por favor, quédate conmigo... Creo que soy prueba de que no todos los hombres lobo son malos, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AE7|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes, my love. You most definitely are. And if staying with you means spending an eternity, defying Hircine in his Hunting Grounds, then so be it.",
+    "string": "Sí, mi amor. Definitivamente lo eres. Y si quedarme contigo significa pasar una eternidad desafiando a Hircine en sus terrenos de caza, que así sea.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AE7|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I am with you, forever and always.",
+    "string": "Estoy contigo, para siempre y siempre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AEE|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, I suppose you're right. Maybe.. Maybe it's time I stopped looking at it as a curse. Family... I hadn't thought of it that way.",
+    "string": "Bueno, supongo que tienes razón. Quizás... es hora de dejar de verlo como una maldición. Familia... no lo había pensado así.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AEE|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I... like the sound of that.",
+    "string": "Me gusta cómo suena eso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AEE|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "I'm proof that not all werewolves are bad, right? And we're family pack-brother!",
+    "string": "Soy la prueba de que no todos los hombres lobo son malos, ¿verdad? ¡Y somos familia, hermanos de manada!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCureYes",
+    "form_id": "04000AE8|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "But... I think Kodlak was right... I would like to end up in Sovngarde.",
+    "string": "Pero... creo que Kodlak tenía razón... Me gustaría terminar en Sovngarde.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AE9|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Me too.",
+    "string": "Yo también.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCureIDK",
+    "form_id": "04000AEA|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "But I'm.. not sure. I need some time to think about this. Is that okay?",
+    "string": "Pero... no estoy seguro. Necesito algo de tiempo para pensar en esto. ¿Está bien?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AEB|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes, of course. Take all the time you need.",
+    "string": "Sí, por supuesto. Tómate todo el tiempo que necesites.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCureDoIt",
+    "form_id": "04000AEC|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So let's do it. We'll both get cured.",
+    "string": "Entonces hagámoslo. Ambos nos curaremos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AED|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wonderful. Sovngarde awaits!",
+    "string": "¡Maravilloso! ¡Sovngarde nos espera!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AED|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But, hopefully.. not for a while yet.",
+    "string": "Pero, con suerte... aún no por un buen tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AF4|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, the College... always hidden away in their towers, studying dusty scrolls, or experimenting. I could never live that kind of life.",
+    "string": "Ah, el Colegio de Hibernalia... siempre oculto en sus torres, estudiando pergaminos polvorientos o haciendo experimentos. Yo jamás podría vivir esa clase de vida.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AF5|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Careful who you cross in Markarth. I've heard that one wrong look at the Silver-Bloods will end you up in Cidhna Mine...",
+    "string": "Ten cuidado con quién te cruzas en Markarth. He oído que con una mirada equivocada de los Sangre-de-Plata terminas en la Mina Cidhna...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AF6|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Watch yourself here, Markarth is not a kind city.",
+    "string": "Cuídate aquí, Markarth no es una ciudad amable.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AF7|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sure is cold here in Windhelm. Good thing the Nords are hardy folk. I do feel bad for all the refugees though...",
+    "string": "Hace un frío tremendo aquí en Ventalia. Menos mal que los nórdicos son gente resistente. Pero me da pena por todos los refugiados...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AF8|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Solitude, home of the Bard's College. Music may soothe some souls, but the symphony of howling winds and rustling leaves is enough for me.",
+    "string": "Soledad, hogar del Colegio de Bardos. Puede que la música tranquilice a algunas almas, pero para mí basta con la sinfonía de los vientos aullantes y el susurro de las hojas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AF9|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hope your coin pouch is well secured... Don't let anyone get too close around here.",
+    "string": "Espero que tengas bien asegurado el monedero... Que nadie se te acerque demasiado por aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AFA|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've heard the sorcerers in these parts use their victims bodies for... dark magic. I'd rather not comfirm the rumours.",
+    "string": "He oído que los hechiceros de estas tierras usan los cuerpos de sus víctimas para... magia oscura. Prefiero no confirmar los rumores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AFC|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hard to imagine that the draugr used to be people just like us.",
+    "string": "Difícil imaginar que los draugr fueron alguna vez personas como nosotros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AFD|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wonder what foul magic keeps them bound here beyond death...",
+    "string": "Me pregunto qué magia vil los mantiene atados aquí más allá de la muerte...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AFE|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's my hope that by giving them a second death, at least we're helping these poor souls finally find peace.",
+    "string": "Espero que al darles una segunda muerte, al menos ayudemos a estas pobres almas a encontrar la paz.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B22|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Careful... I don't think we're alone.",
+    "string": "Cuidado... no creo que estemos solos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B00|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bandits will get neither pity nor mercy from me. I've never seen them show either.",
+    "string": "Los bandidos no merecen ni lástima ni piedad de mí. Nunca los he visto mostrar ninguna.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B01|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bandits care for nothing but gold. But let's see how they feel about steel instead.",
+    "string": "Los bandidos sólo quieren oro. Pero veamos qué piensan del acero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B02|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Did you hear that? ...I thought I heard someone.",
+    "string": "¿Escuchaste eso? ...Creí oír a alguien.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000824|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's humbling to see such marvels of craftsmanship. Makes you wonder... How much have we forgotten over the centuries?",
+    "string": "Es impresionante ver tales maravillas de artesanía. Te hace pensar... ¿Cuánto hemos olvidado a lo largo de los siglos?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000868|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's hard to believe that such a proud and advanced civilization just disappeared.",
+    "string": "Es difícil creer que una civilización tan orgullosa y avanzada simplemente desapareciera.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B1E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's remarkable that so many of these ancient Dwemer creations still function.",
+    "string": "Es sorprendente que tantas creaciones antiguas dwemer aún funcionen.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B10|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "These halls and tunnels are all starting to blend together to me... You're sure you'll be able to find the way out again.. Right?",
+    "string": "Estos pasillos y túneles empiezan a confundirme... ¿Estás seguro de que podrás encontrar la salida otra vez?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000AFF|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Watch your footing. Crypts like these are riddled with traps.",
+    "string": "Cuida tu paso. Criptas como estas están llenas de trampas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B11|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The history in these ruins... It's almost as if the past still resonates within them. You can hear the echos whispering.. Or maybe that was a rat.",
+    "string": "La historia en estas ruinas... Es casi como si el pasado aún resonara dentro de ellas. Se escuchan susurros... O tal vez sólo fue una rata.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B21|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I feel a chill... Be prepared for danger.",
+    "string": "Siento un escalofrío... Prepárate para el peligro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B12|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be on guard. We never know what might awaken from slumber in places like this.",
+    "string": "Estén alerta. Nunca sabemos qué podría despertar del letargo en lugares como este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B13|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I prefer the open air and sunlight. But I suppose how many adventures are had out in the open on a nice sunny day?",
+    "string": "Prefiero el aire libre y la luz del sol. Pero supongo que cuántas aventuras se viven al aire libre en un día soleado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B17|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "These caves are a testament to the resilience of nature. They've stood the test of time, even as the world above them changes.",
+    "string": "Estas cuevas son un testimonio de la resistencia de la naturaleza. Han resistido la prueba del tiempo, incluso cuando el mundo sobre ellas cambia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B18|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Stay close and keep your weapons drawn.",
+    "string": "Mantente cerca y con las armas listas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B19|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gods it's cold down here. I could do with an extra set of fur...",
+    "string": "Dioses, qué frío hace aquí abajo. Necesitaría un juego extra de pieles...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B1A|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have to admit, I admire your courage. Most folk in Skyrim wouldn't go near a place like this.",
+    "string": "Tengo que admitir que admiro tu valentía. La mayoría de la gente de Skyrim jamás se acercaría a un lugar como este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B1B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Erik and I used to dare each other to delve caves like this... Neither of us ever made it past the entrance.",
+    "string": "Erik y yo solíamos retarnos a entrar a cuevas como esta... Ninguno de los dos pasó más allá de la entrada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B14|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've never actually been to High Hrothgar. I've debated going before, but... That's a lot of steps.",
+    "string": "Nunca he estado realmente en Alto Hrothgar. He pensado en ir, pero... son muchos escalones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B15|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The forests of the Rift are truly the most beautiful of Skyrim.",
+    "string": "Los bosques del Valle son realmente los más hermosos de Skyrim.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B16|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mining is a perilous occupation.",
+    "string": "La minería es un oficio peligroso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B1C|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Think we'll find any rare gems or precious ore down here?",
+    "string": "¿Crees que encontraremos gemas raras o minerales preciosos aquí abajo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B1D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm already looking forward to getting back above ground.",
+    "string": "La verdad es que estoy deseando volver a la superficie.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B1F|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Forsworn are as wild as wolves.",
+    "string": "Los Renegados son tan salvajes como lobos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B20|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's said that the Forsworn make dark pacts with the Hagravens, and that's why they can use magic. They must be desperate to resort to such darkness.",
+    "string": "Se dice que los Renegados hacen pactos oscuros con las brujas cuervo, y por eso pueden usar magia. Deben estar desesperados para recurrir a tal oscuridad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B23|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Any chance we can find somewhere to get out of this rain?",
+    "string": "¿Hay alguna chance de encontrar un lugar para refugiarnos de esta lluvia?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B24|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We should find a nice fire to dry out. I'd hate to be stuck smelling like wet dog.",
+    "string": "Deberíamos encontrar un buen fuego para secarnos. No quisiera oler a perro mojado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B25|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're going to catch cold if we stay out here too long.",
+    "string": "Vas a resfriarte si nos quedamos aquí afuera mucho tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B26|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Looks like rain soon... We should find some shelter.",
+    "string": "Parece que lloverá pronto... Debemos buscar refugio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B27|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The moon is so big tonight... It's beautiful.",
+    "string": "La luna está enorme esta noche... Es hermosa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B28|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you... feel the pull of the hunt?",
+    "string": "¿Sientes... el llamado de la cacería?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B29|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Tonight would be a good night for hunting.",
+    "string": "Esta noche sería buena para cazar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B2A|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Can we... get out of here? Somewhere... away from people?",
+    "string": "¿Podemos... salir de aquí? ¿Algún lugar... lejos de la gente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B07|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is it.. done?",
+    "string": "¿Está... hecho?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPostCureDialogueOK",
+    "form_id": "04000B08|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you ok?",
+    "string": "¿Estás bien?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B09|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I... I'm still processing everything...",
+    "string": "Aún... estoy procesando todo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B09|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "It feels strange to be free from the beast within me. I thought I would feel more elated, but instead, I'm a little... dazed.",
+    "string": "Se siente extraño estar libre de la bestia dentro de mí. Pensé que me sentiría más eufórico, pero en cambio estoy un poco... aturdido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B09|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "But I know I made the right choice. I didn't realize how consumed I had become by the curse.",
+    "string": "Pero sé que tomé la decisión correcta. No me había dado cuenta de cuánto me había consumido la maldición.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B09|AuthenticSindingFollower.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "It's strange.. I can feel the chill on my skin, the earth beneath my feet. It's all so... real. And I don't have that insatiable hunger any longer!",
+    "string": "Es extraño... puedo sentir el frío en mi piel, la tierra bajo mis pies. Todo es tan... real. ¡Y ya no tengo ese hambre insaciable!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B09|AuthenticSindingFollower.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "Gods... I can't believe it's over! I can't express how grateful I am.",
+    "string": "¡Dioses... no puedo creer que haya terminado! No sé cómo expresar lo agradecido que estoy.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B09|AuthenticSindingFollower.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "Thank you for saving me. I don't know what I would have done if you hadn't come along when you did.. I will never forget this.",
+    "string": "Gracias por salvarme. No sé qué habría hecho si no hubieras llegado cuando lo hiciste... Nunca lo olvidaré.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPostCureDialogueSrs",
+    "form_id": "04000B0A|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So, did it work?",
+    "string": "Entonces, ¿funcionó?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B0B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I... I'm still processing everything...",
+    "string": "Aún... estoy procesando todo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B0B|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "It feels strange to be free from the beast within me. I thought I would feel more elated, but instead, I'm a little... dazed. ",
+    "string": "Se siente extraño estar libre de la bestia dentro de mí. Pensé que me sentiría más eufórico, pero en cambio estoy un poco... aturdido. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B0B|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "But I know I made the right choice. I didn't realize how consumed I had become by the curse.",
+    "string": "Pero sé que tomé la decisión correcta. No me había dado cuenta de cuánto me había consumido la maldición.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B0B|AuthenticSindingFollower.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "It's strange.. I can feel the chill on my skin, the earth beneath my feet. It's all so... real. And I don't have that insatiable hunger any longer!",
+    "string": "Es extraño... puedo sentir el frío en mi piel, la tierra bajo mis pies. Todo es tan... real. ¡Y ya no tengo ese hambre insaciable!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B0B|AuthenticSindingFollower.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "Gods... I can't believe it's over! I can't express how grateful I am.",
+    "string": "¡Dioses... no puedo creer que haya terminado! No sé cómo expresar lo agradecido que estoy.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B0B|AuthenticSindingFollower.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "Thank you for saving me. I don't know what I would have done if you hadn't come along when you did.. I will never forget this.",
+    "string": "Gracias por salvarme. No sé qué habría hecho si no hubieras llegado cuando lo hiciste... Nunca lo olvidaré.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPostCureDialogueHappy",
+    "form_id": "04000B0C|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's wonderful! I'm so happy for you! ",
+    "string": "¡Eso es maravilloso! ¡Me alegro mucho por ti!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B0D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I owe you a debt that I can never repay. But I'll spend my life trying to, or for as long as you'll have me.",
+    "string": "Te debo una deuda que nunca podré pagar. Pero pasaré mi vida intentándolo, o mientras tú me quieras.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPostCureDialogueJerk",
+    "form_id": "04000B0E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Good for you. Now let's go.",
+    "string": "Bien por ti. Ahora vamos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B0F|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sorry... Right then, moving on.",
+    "string": "Lo siento... Bueno, sigamos adelante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPlanHircineRingTopic",
+    "form_id": "04000B36|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What was the plan if Hircine's Ring worked and helped you control your changes?",
+    "string": "¿Cuál era el plan si el Anillo de Hircine funcionaba y te ayudaba a controlar tus cambios?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B37|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I had heard in old tomes, that if you had Hircine's ring in your possession, that you would be able to control your transformations more.",
+    "string": "Había leído en antiguos tomos que, si tenías el Anillo de Hircine en tu poder, podrías controlar mejor tus transformaciones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B37|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Considering how much I wasn't able to control any of the transformations, I had taken it in hopes it would help me gain control over this curse.",
+    "string": "Considerando lo poco que podía controlar cualquiera de las transformaciones, lo tomé con la esperanza de que me ayudara a dominar esta maldición.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B37|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "But after I had taken it from Hircine's shrine, he was extremely angry, and made sure I would turn into a werewolf at the worst times.",
+    "string": "Pero después de tomarlo del santuario de Hircine, se enfureció muchísimo y se aseguró de que me transformara en hombre lobo en los peores momentos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B48|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What about it?",
+    "string": "¿Qué pasa con eso?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B48|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "About the Ring of Hircine....",
+    "string": "Sobre el Anillo de Hircine....",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPlanHircineRingResponse1",
+    "form_id": "04000B38|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What if I told you it's now possible to use the ring again, without the curse?",
+    "string": "¿Y si te dijera que ahora es posible usar el anillo otra vez, sin la maldición?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B39|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you mean?",
+    "string": "¿Qué quieres decir?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPlanHircineRingResponse2",
+    "form_id": "04000B3A|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "After we fought off the hunters, an aspect of Hircine showed up.",
+    "string": "Después de que derrotamos a los cazadores, un aspecto de Hircine apareció.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B3B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What did he say?",
+    "string": "¿Qué dijo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPlanHircineRingResponse3",
+    "form_id": "04000B3C|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He was pleased we killed the hunters, said it was enough to offer his blessing.",
+    "string": "Estaba complacido de que matáramos a los cazadores, dijo que era suficiente para otorgar su bendición.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B3D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "His blessing?",
+    "string": "¿Su bendición?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPlanHircineRingResponse4",
+    "form_id": "04000B3E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He removed the curse on the ring.",
+    "string": "Eliminó la maldición del anillo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B3F|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gods... he did?",
+    "string": "Por los dioses... ¿lo hizo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPlanHircineRingResponse5a",
+    "form_id": "04000B40|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, but if it's alright with you, I would like to keep the ring a bit longer.",
+    "string": "Sí, pero si estás de acuerdo, me gustaría quedarme con el anillo un poco más.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B41|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fair enough. After all you have done for me, I won't argue with you if you want to keep the ring.",
+    "string": "Está bien. Después de todo lo que has hecho por mí, no discutiré si quieres quedarte con el anillo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B49|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fair enough.",
+    "string": "Está bien.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B49|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I would like to keep it a bit longer.",
+    "string": "Me gustaría quedármelo un poco más.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPlanHircineRingResponse5b",
+    "form_id": "04000B42|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, would you like the ring back, to help you control your transformations?",
+    "string": "Sí, ¿te gustaría recuperar el anillo para ayudarte a controlar tus transformaciones?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B43|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You would offer this back to me? Why? ",
+    "string": "¿Me lo ofrecerías de nuevo? ¿Por qué?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPlanHircineRingResponse6",
+    "form_id": "04000B44|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Since your desire to wear it to protect others is noble so why would I stop you?",
+    "string": "Como tu deseo de usarlo para proteger a otros es noble, ¿por qué habría de detenerte?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B45|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I- I don't know what to say.",
+    "string": "N- no sé qué decir.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPlanHircineRingResponse7",
+    "form_id": "04000B46|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want you to have it, now that it's no longer cursed.",
+    "string": "Quiero que lo tengas, ahora que ya no está maldito.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B47|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you, my friend. I really have no other way to thank you for the mercy and now the kindness you have showed me. I will never forget this.",
+    "string": "Gracias, amigo mío. Realmente no tengo otra forma de agradecerte por la misericordia y ahora la bondad que me has mostrado. Nunca olvidaré esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingBeenToWhiterunTopic",
+    "form_id": "04000B4A|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have you ever been to Whiterun before?",
+    "string": "¿Alguna vez has estado en Carrera Blanca?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B4B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I haven't, but I had hoped to make a journey here one day.",
+    "string": "No lo he estado, pero esperaba hacer un viaje aquí algún día.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B4B|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Especially since as a laborer, I often traveled to each hold capital, but I have heard many stories of Whiterun.",
+    "string": "Especialmente porque, como trabajador, a menudo viajaba a cada capital de feudo, pero he escuchado muchas historias sobre Carrera Blanca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingBeenToWhiterunResponse1",
+    "form_id": "04000B4C|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What stories have you heard?",
+    "string": "¿Qué historias has escuchado?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B4D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have heard about how the Companions of legend have a home here, in Jorrvaskr.",
+    "string": "He oído que los Compañeros de la leyenda tienen un hogar aquí, en Jorrvaskr.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B4D|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "And that the skull of the dragon Numinex rests above the throne of the Jarl.",
+    "string": "Y que el cráneo del dragón Numinex descansa sobre el trono del Jarl.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B4D|AuthenticSindingFollower.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "And that the Gildergreen tree rests in the middle of Whiterun.",
+    "string": "Y que el árbol Verdeoro se encuentra en el centro de Carrera Blanca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingBeenToWhiterunResponse2",
+    "form_id": "04000B4E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, the city of Whiterun has so many wonders, I enjoy staying here.",
+    "string": "Sí, la ciudad de Carrera Blanca tiene muchas maravillas, disfruto quedarme aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B4F|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I believe I will too.",
+    "string": "Creo que yo también.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingSolitudeSpouseTopic",
+    "form_id": "04000B52|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It never ceases to surprise me how beautiful Solitude is.",
+    "string": "Nunca deja de sorprenderme lo hermosa que es Soledad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B53|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Indeed it is, it seems that the sky is always clear here. And even if it's raining, it never seems to last too long.",
+    "string": "Así es, parece que el cielo siempre está despejado aquí. E incluso cuando llueve, nunca parece durar mucho tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingSolitudeSpouseResponse",
+    "form_id": "04000B54|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's absolutely beautiful, and always seems to be so busy with life.",
+    "string": "Es absolutamente hermosa y siempre parece estar llena de vida.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B55|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have noticed that too. It would be a wonderful place to raise a family.",
+    "string": "También lo he notado. Sería un lugar maravilloso para formar una familia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingBackInFalkreathSpouseTopic",
+    "form_id": "04000B56|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you alright being back here in Falkreath, Sinding?",
+    "string": "¿Estás bien al estar de vuelta aquí en Falkreath, Sinding?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B57|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I think so... I do feel alot of remorse and guilt when I am here in Falkreath, for what I had done to Mathies and his family.",
+    "string": "Creo que sí... Siento mucho remordimiento y culpa cuando estoy aquí en Falkreath, por lo que le hice a Mathies y a su familia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingBackInFalkreathSpouseResponse",
+    "form_id": "04000B58|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Figured. But remember, your curse wasn't your fault, Hircine was to blame.",
+    "string": "Lo imaginaba. Pero recuerda, tu maldición no fue tu culpa, Hircine fue el responsable.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B59|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Always trying to help me feel better, my love. That is why I am glad I married you.",
+    "string": "Siempre tratando de hacerme sentir mejor, mi amor. Por eso me alegra haberte tomado por esposo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingThoughtsOfPaarthurnaxTopic",
+    "form_id": "04000B5A|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you think of Parthunaax, Sinding?",
+    "string": "¿Qué opinas de Parthunaax, Sinding?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B5B|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "After hearing all about the dragons, and even seeing dragons attack with my own eyes, seeing Paarthurnax has been both frightening, yet breathtaking.",
+    "string": "Después de escuchar todo sobre los dragones, e incluso verlos atacar con mis propios ojos, ver a Paarthurnax ha sido aterrador y a la vez impresionante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingThoughtsOfPaarthurnaxResponse",
+    "form_id": "04000B5C|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I understand what you mean, I felt the same way when I first met him.",
+    "string": "Entiendo lo que quieres decir, me sentí igual cuando lo conocí por primera vez.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B5D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "He seems very wise and kind. I think it makes sense that he is the leader of the Greybeards.",
+    "string": "Parece muy sabio y amable. Creo que tiene sentido que sea el líder de los Barbas Grises.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B5D|AuthenticSindingFollower.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Someone with such wisdom in a time like this, we definitely need it.",
+    "string": "Alguien con tanta sabiduría en un momento como este, definitivamente lo necesitamos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingAskStatusTopic",
+    "form_id": "04000B5E|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How are you feeling, Sinding? ",
+    "string": "¿Cómo te sientes, Sinding?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B60|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, my love... As long as I can travel Skyrim with you, I am always well.",
+    "string": "Bueno, mi amor... Mientras pueda viajar por Skyrim contigo, siempre estaré bien.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000B5F|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Can't complain, it is good to travel Skyrim with a friend.",
+    "string": "No puedo quejarme, es bueno viajar por Skyrim con un amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingBackstoryAllForNow",
+    "form_id": "04000B61|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's all for now.",
+    "string": "Eso es todo por ahora.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05ConvinceSinding01Topic",
+    "form_id": "04000D64|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why don't you come with me, Sinding?",
+    "string": "¿Por qué no vienes conmigo, Sinding?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04000A1A|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What? No... I should be alone. I don't want to hurt anyone else.",
+    "string": "¿Qué? No... Debo estar solo. No quiero lastimar a nadie más.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009CA|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why? I already told you, Skyrim is a safer place without me out there.",
+    "string": "¿Por qué? Ya te dije, Skyrim es un lugar más seguro sin mí afuera.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "040009CA|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I still think you should join me.",
+    "string": "Todavía creo que deberías unirte a mí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingMathiesConfrontQuest",
+    "form_id": "04000857|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Sinding's Confrontation",
+    "string": "Confrontación de Sinding ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCureQuest",
+    "form_id": "04000864|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Sinding's Cure",
+    "string": "Cura de Sinding",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingTransformedWerewolfDialogue",
+    "form_id": "04000878|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Blocking dialogue for transformed werewolves",
+    "string": "Diálogo bloqueado para hombres lobo transformados  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingCultistAttackDialogue",
+    "form_id": "040008F9|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Sinding concerned about Cultist ambush",
+    "string": "Sinding preocupado por la emboscada de los Cultistas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingFirstDragonKillQuest",
+    "form_id": "04000962|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "First dragon kill with Sinding",
+    "string": "Primera muerte de dragón con Sinding",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPaarthurnaxComment",
+    "form_id": "04000969|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Sinding's thougts of player being asked to kill Paarthurnax",
+    "string": "Opinión de Sinding sobre que el jugador sea pedido para matar a Paarthurnax",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingKodlaksDeathComment",
+    "form_id": "04000994|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Sinding's thoughts on Kodlak dead",
+    "string": "Opinión de Sinding sobre la muerte de Kodlak",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPostMQComment",
+    "form_id": "040009B2|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Sinding's comment on the Dragonborn returning from Sovngarde",
+    "string": "Comentario de Sinding sobre el regreso del Sangre de Dragón desde Sovngarde",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPostMQ201",
+    "form_id": "040009BB|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Sinding being upset for infiltrating the Thalmor embassy without her",
+    "string": "Sinding molesto por infiltrarse en la embajada Thalmor sin el",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingMQ301Dialogue",
+    "form_id": "040009EB|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Sinding's dialogue related to The Fallen",
+    "string": "Diálogo de Sinding relacionado con \"El Caído\" ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingNPCConversationScenes",
+    "form_id": "04000A1D|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Sinding's conversation scenes with NPCs",
+    "string": "Escenas de conversación de Sinding con NPCs",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingIdleDialogue",
+    "form_id": "04000AF2|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Sinding Idle Dialogue",
+    "string": "Diálogo inactivo de Sinding ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaSindingPostCureDialogue",
+    "form_id": "04000B03|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Sinding Post Cure Dialogue",
+    "string": "Diálogo de Sinding después de la cura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05ConvinceSinding",
+    "form_id": "04000D62|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Sinding Follower",
+    "string": "Seguidor Sinding ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "iSindingMessageBoxCure",
+    "form_id": "04000834|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cast a Glenmoril Witch's head into the Flame of the Harbinger, on Sinding's behalf? This will cure his lycanthropy forever.",
+    "string": "¿Lanzar la cabeza de una bruja de Glenmoril a la Llama del Heraldo, en nombre de Sinding?  Esto curará su licantropía para siempre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "iSindingMessageBoxCure",
+    "form_id": "04000834|AuthenticSindingFollower.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "Sí",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "iSindingMessageBoxCure",
+    "form_id": "04000834|AuthenticSindingFollower.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "No",
+    "status": "TranslationComplete"
+  }
+]

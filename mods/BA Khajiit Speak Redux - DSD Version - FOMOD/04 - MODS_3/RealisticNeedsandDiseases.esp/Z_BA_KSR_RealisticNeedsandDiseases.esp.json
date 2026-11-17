@@ -1,0 +1,479 @@
+[
+  {
+    "editor_id": "RND_InnWaterTopic",
+    "form_id": "0600EB46|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like some water. (<Global=RND_InnWaterCost> gold)",
+    "string": "Este quiere un poco de agua. (<Global=RND_InnWaterCost> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_InnWaterAllBottlesTopic",
+    "form_id": "0604090B|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need these bottles filled, water, please. (<Global=RND_InnWaterCostAll> gold)",
+    "string": "Estos recipientes vacíos necesitan llenarse. Agua, si eres tan amable. (<Global=RND_InnWaterCostAll> septims cada uno)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_HungerLevel02TimerMessage",
+    "form_id": "06002DF2|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I'm feeling a bit peckish.",
+    "string": "Este Khajiit se siente como un pájaro... con un poco de hambre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_HungerLevel03TimerMessage",
+    "form_id": "06002DF3|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I'm hungry.",
+    "string": "Este Khajiit tiene hambre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_HungerLevel04TimerMessage",
+    "form_id": "06002DF4|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I need to get some food soon.",
+    "string": "¡Este Khajiit tiene MUCHA hambre y necesita encontrar comida pronto!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_HungerLevel05TimerMessage",
+    "form_id": "06002DF5|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I'm starving!",
+    "string": "¡Este Khajiit se muere de hambre! ¡Qué agonía!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_ThirstLevel01TimerMessage",
+    "form_id": "06002E01|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I could use a drink.",
+    "string": "A este Khajiit le vendría bien algo de beber, desde luego.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_ThirstLevel02TimerMessage",
+    "form_id": "06002E02|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "My throat feels a bit dry.",
+    "string": "Este Khajiit tiene la garganta muy seca, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_ThirstLevel03TimerMessage",
+    "form_id": "06002E03|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I'm very thirsty.",
+    "string": "¡Este Khajiit tiene muchísima sed, desde luego!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_ThirstLevel04TimerMessage",
+    "form_id": "06002E04|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I feel like dying...I need water NOW!",
+    "string": "¡Este Khajiit se muere y necesita agua AHORA!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_HungerLevel00ConsumeMessage",
+    "form_id": "060053F5|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I have eaten too much.",
+    "string": "Este Khajiit ha comido demasiado. <Alias=Player> el Glotón, ¿mmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_HungerLevel01ConsumeMessage",
+    "form_id": "060053F6|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I'm full.",
+    "string": "Este Khajiit está lleno. Ahora, una siestecita...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_HungerLevel02ConsumeMessage",
+    "form_id": "060053F7|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I could have a bit more.",
+    "string": "Este Khajiit debió comer un poco más...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_HungerLevel03ConsumeMessage",
+    "form_id": "060053F8|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I'm still hungry.",
+    "string": "Este Khajiit todavía tiene hambre...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_HungerLevel04ConsumeMessage",
+    "form_id": "060053F9|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I need more food.",
+    "string": "Este Khajiit no comió lo suficiente y necesita más comida...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_ThirstLevel00ConsumeMessage",
+    "form_id": "06005ECC|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "My thirst has been quenched.",
+    "string": "Este Khajiit ya no tiene sed. Ah...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_ThirstLevel01ConsumeMessage",
+    "form_id": "06005ECD|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I can have a bit more water.",
+    "string": "A este Khajiit le vendría bien un poco más de agua, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_ThirstLevel02ConsumeMessage",
+    "form_id": "06005ECE|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I need more water.",
+    "string": "Este Khajiit necesita más agua.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_ThirstLevel03ConsumeMessage",
+    "form_id": "06005ECF|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I need more water.",
+    "string": "Este Khajiit necesita más agua.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_SleepLevel02TimerMessage",
+    "form_id": "0600BAC9|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I feel tired.",
+    "string": "Este Khajiit está cansado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_SleepLevel03TimerMessage",
+    "form_id": "0600BACA|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I really need to find a bed soon.",
+    "string": "Este Khajiit necesita encontrar un lugar para dormir pronto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_SleepLevel04TimerMessage",
+    "form_id": "0600BACB|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I feel like dropping dead...",
+    "string": "¡Este Khajiit está extremadamente cansado y DEBE dormir pronto!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_SleepLevel01TimerMessage",
+    "form_id": "0600BACC|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I could use a nap.",
+    "string": "A este Khajiit le hace falta una siesta de gato. Muy apropiado, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_RestedMessage",
+    "form_id": "060264E7|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You awaken feeling Rested.",
+    "string": "Este Khajiit ahora está Descansado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_WellRestedMessage",
+    "form_id": "060264E8|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You awaken feeling Well Rested.",
+    "string": "Este Khajiit ahora está Bien descansado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_MarriageRestedMessage",
+    "form_id": "060264E9|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You awaken feeling your Lover's Comfort.",
+    "string": "Este Khajiit está despierto y siente el Consuelo del Amante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_BeastBloodMessage",
+    "form_id": "060264EB|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your beast blood keeps you from restful sleep.",
+    "string": "La sangre de bestia ha impedido que este Khajiit descanse de verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_CampfireNeedsFirewood",
+    "form_id": "060326D0|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I need 3 pieces of firewood to start a campfire.",
+    "string": "Se necesitan tres (3) piezas de leña para una fogata.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_CampfireOff",
+    "form_id": "06032C35|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "If I have some firewood, I can reignite the fire.",
+    "string": "Hace falta un poco más de leña para reavivar el fuego.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_SeawaterMessage",
+    "form_id": "06065451|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This water tastes very salty!",
+    "string": "¡Esta agua sabe muy salada, desde luego!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_HungerLevel00ConsumeMessageB",
+    "form_id": "060900C4|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You have eaten too much.",
+    "string": "Este Khajiit ha comido demasiado. Es una sensación muy incómoda, desde luego.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_HungerLevel01ConsumeMessageB",
+    "form_id": "060900C5|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are full.",
+    "string": "Este Khajiit está lleno.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_HungerLevel02ConsumeMessageB",
+    "form_id": "060900C6|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You could have a bit more.",
+    "string": "Quizá este Khajiit pudo haber comido un poco más.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_HungerLevel03ConsumeMessageB",
+    "form_id": "060900C7|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are still hungry.",
+    "string": "¡Este Khajiit todavía tiene hambre!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_HungerLevel04ConsumeMessageB",
+    "form_id": "060900C8|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You need more food.",
+    "string": "¡Este Khajiit necesita más comida!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_HungerLevel02TimerMessageB",
+    "form_id": "060900CD|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You're feeling a bit peckish.",
+    "string": "Este Khajiit tiene un poco de hambre. Picotea, picotea, picotea...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_HungerLevel03TimerMessageB",
+    "form_id": "060900CE|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are hungry.",
+    "string": "Este Khajiit tiene hambre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_HungerLevel04TimerMessageB",
+    "form_id": "060900CF|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are very hungry.",
+    "string": "Este Khajiit tiene mucha hambre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_HungerLevel05TimerMessageB",
+    "form_id": "060900D0|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are starving!",
+    "string": "¡Este Khajiit se muere de hambre!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_ThirstLevel03ConsumeMessageB",
+    "form_id": "06090B96|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You need more water.",
+    "string": "Este Khajiit necesita más agua.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_ThirstLevel00ConsumeMessageB",
+    "form_id": "06090B97|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer thirsty.",
+    "string": "Este Khajiit ya no tiene sed, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_ThirstLevel01ConsumeMessageB",
+    "form_id": "06090B98|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You can have a bit more water.",
+    "string": "Quizá a este Khajiit le vendría bien un poco más de agua.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_ThirstLevel02ConsumeMessageB",
+    "form_id": "06090B99|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You need more water.",
+    "string": "Este Khajiit necesita más agua.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_ThirstLevel01TimerMessageB",
+    "form_id": "06090B9B|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are slightly thirsty.",
+    "string": "Este Khajiit tiene un poco de sed.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_ThirstLevel02TimerMessageB",
+    "form_id": "06090B9C|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are thirsty.",
+    "string": "Este Khajiit tiene sed.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_ThirstLevel03TimerMessageB",
+    "form_id": "06090B9D|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are very thirsty.",
+    "string": "Este Khajiit tiene mucha sed.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_ThirstLevel04TimerMessageB",
+    "form_id": "06090B9E|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are dehydrated!",
+    "string": "¡Este Khajiit está deshidratado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_SleepLevel01TimerMessageB",
+    "form_id": "06090BA0|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You could use a nap.",
+    "string": "A este Khajiit le vendría bien una siesta de gato.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_SleepLevel02TimerMessageB",
+    "form_id": "06090BA1|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You feel tired.",
+    "string": "Este Khajiit está cansado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_SleepLevel03TimerMessageB",
+    "form_id": "06090BA2|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are very tired.",
+    "string": "Este Khajiit está muy cansado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_SleepLevel04TimerMessageB",
+    "form_id": "06090BA3|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are exhausted!",
+    "string": "¡Este Khajiit está agotado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_CowMessage",
+    "form_id": "060B6DEC|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The cow refused to let her milk down.",
+    "string": "¡La vaca se negó a dar leche!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RND_WellMessage",
+    "form_id": "060C6106|RealisticNeedsandDiseases.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Need to find some bottles or maybe a waterskin...",
+    "string": "Quizá algunas botellas o un odre ayudarían, ¿mmm?",
+    "status": "TranslationComplete"
+  }
+]

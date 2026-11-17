@@ -1,0 +1,1937 @@
+[
+  {
+    "editor_id": "ADLFactionBYOHMarker",
+    "form_id": "050EE854|ADogsLife.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "BYOH Dog",
+    "string": "Perro BYOH",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLFactionLodDog",
+    "form_id": "051680BF|ADogsLife.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Lod's Dog",
+    "string": "Perro de Lod",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLCurrentDogFaction",
+    "form_id": "0500AA16|ADogsLife.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Dog Faction",
+    "string": "Facción de Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLFactionSellBanning",
+    "form_id": "0507A0E4|ADogsLife.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Banning's Dog Supplies",
+    "string": "Suministros de Perros de Banning",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1HuskyArmoredCompanionRace",
+    "form_id": "02003D01|Dawnguard.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Husky",
+    "string": "Husky",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1HuskyBareCompanionRace",
+    "form_id": "020122B7|Dawnguard.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dog",
+    "string": "Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1DeathHoundCompanionRace",
+    "form_id": "02003D02|Dawnguard.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Deathhound",
+    "string": "Sabueso de la Muerte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DogCompanionRace",
+    "form_id": "000F1AC4|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Wolfhound",
+    "string": "Sabueso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLRaceKelpie",
+    "form_id": "051A9E07|ADogsLife.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Kelpie",
+    "string": "Kelpie",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMagicUnderfed",
+    "form_id": "050DF549|ADogsLife.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Underfed",
+    "string": "Desnutrido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMagicLantern",
+    "form_id": "05065CCE|ADogsLife.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dog Lantern",
+    "string": "Linterna para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMagicCommandHome",
+    "form_id": "0509D813|ADogsLife.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Group Home",
+    "string": "Refugio Grupal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMagicCommandHome",
+    "form_id": "0509D813|ADogsLife.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Commands all nearby followers to head back home.",
+    "string": "Ordena a todos los seguidores cercanos regresar a casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMagicLoved",
+    "form_id": "050DF54D|ADogsLife.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Loved",
+    "string": "Querido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMagicCommandWait",
+    "form_id": "0509D814|ADogsLife.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Group Wait",
+    "string": "Espera Grupal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMagicCommandWait",
+    "form_id": "0509D814|ADogsLife.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Commands all nearby followers to wait for you.",
+    "string": "Ordena a todos los seguidores cercanos esperar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMagicRecall",
+    "form_id": "0509D810|ADogsLife.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Recall Dogs",
+    "string": "Llama a los Perros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMagicRecall",
+    "form_id": "0509D810|ADogsLife.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Recalls any lost followers to your location.",
+    "string": "Llama a cualquier seguidor perdido hacia tu ubicacion.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMagicTeleportHome",
+    "form_id": "0509D811|ADogsLife.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Teleport Home",
+    "string": "Teletransporta a Casa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMagicTeleportHome",
+    "form_id": "0509D811|ADogsLife.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Teleports your targetted follower back home.",
+    "string": "Teletransporta a tu seguidor seleccionado de regreso a casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMagicCommandFollow",
+    "form_id": "0509D812|ADogsLife.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Group Follow",
+    "string": "Seguir en Grupo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMagicCommandFollow",
+    "form_id": "0509D812|ADogsLife.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Commands all nearby waiting followers to follow you.",
+    "string": "Ordena a todos los seguidores en espera cercanos seguirte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMagicWellFed",
+    "form_id": "050C6041|ADogsLife.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Well Fed",
+    "string": "Bien Alimentado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMagicNeglected",
+    "form_id": "050DF54B|ADogsLife.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Neglected",
+    "string": "Descuidado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMagicThrowBall",
+    "form_id": "0511708D|ADogsLife.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Throw Ball",
+    "string": "Lanza la Pelota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMagicThrowBall",
+    "form_id": "0511708D|ADogsLife.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Throw a ball from your inventory for your dog to chase.",
+    "string": "Lanza una pelota de tu inventario para que tu perro la persiga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLEnchLantern",
+    "form_id": "05065CCF|ADogsLife.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Dog Lantern Effect",
+    "string": "Efecto de Linterna para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLEnchCarry03",
+    "form_id": "05060BC8|ADogsLife.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Fortify Carry Weight",
+    "string": "Fortificar Capacidad de Carga",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLEnchCarry01",
+    "form_id": "05060BC5|ADogsLife.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Fortify Carry Weight",
+    "string": "Fortificar Capacidad de Carga",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLEnchCarry02",
+    "form_id": "05060BC7|ADogsLife.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Fortify Carry Weight",
+    "string": "Fortificar Capacidad de Carga",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLSpellCommandHome",
+    "form_id": "0509D818|ADogsLife.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "All Dogs Home",
+    "string": "Todos los Perros en Casa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLSpellLoved",
+    "form_id": "050DF54E|ADogsLife.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Loved",
+    "string": "Querido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLSpellCommandWait",
+    "form_id": "0509D816|ADogsLife.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "All Dogs Wait",
+    "string": "Todos los Perros Esperan",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLSpellThrowBall",
+    "form_id": "0511708E|ADogsLife.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Throw Ball",
+    "string": "Lanza la Pelota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLSpellTeleportHome",
+    "form_id": "0509D81C|ADogsLife.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Teleport Dog Home",
+    "string": "Teletransporta al Perro a Casa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLSpellWellFed",
+    "form_id": "050C6042|ADogsLife.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Well Fed",
+    "string": "Bien Alimentado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLSpellNeglected",
+    "form_id": "050DF54F|ADogsLife.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Neglected",
+    "string": "Descuidado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLSpellUnderfed",
+    "form_id": "050DF54A|ADogsLife.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Malnourished",
+    "string": "Malnutrido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLSpellRecall",
+    "form_id": "0509D81A|ADogsLife.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Recall Dogs",
+    "string": "Llama a los Perros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLSpellCommandFollow",
+    "form_id": "0509D815|ADogsLife.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "All Dogs Follow",
+    "string": "Todos los Perros Siguen",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogBedRedAct",
+    "form_id": "050B1C32|ADogsLife.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Dog Bed",
+    "string": "Cama para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogBedBlueAct",
+    "form_id": "050B1C2D|ADogsLife.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Dog Bed",
+    "string": "Cama para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogBedGreenAct",
+    "form_id": "050B1C2F|ADogsLife.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Dog Bed",
+    "string": "Cama para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogBedGoldAct",
+    "form_id": "050B1C2E|ADogsLife.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Dog Bed",
+    "string": "Cama para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogBedPinkAct",
+    "form_id": "050B1C30|ADogsLife.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Dog Bed",
+    "string": "Cama para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogBedPurpleAct",
+    "form_id": "050B1C31|ADogsLife.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Dog Bed",
+    "string": "Cama para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogBedBlackAct",
+    "form_id": "050B1C2C|ADogsLife.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Dog Bed",
+    "string": "Cama para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogBedWhiteAct",
+    "form_id": "050B1C33|ADogsLife.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Dog Bed",
+    "string": "Cama para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogBooks",
+    "form_id": "0506ADD2|ADogsLife.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dog Harness Books",
+    "string": "Libros de Arnés para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDwarvenArmor",
+    "form_id": "05060BB5|ADogsLife.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dog Dwarven Armor",
+    "string": "Armadura Enana para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLHarnessBarrel",
+    "form_id": "05060BB9|ADogsLife.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dog Harness & Barrel",
+    "string": "Arnés y Barril para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLHarnessTraveller",
+    "form_id": "05060BBC|ADogsLife.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dog Traveller Harness",
+    "string": "Arnés Viajero para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLHarnessSatchel",
+    "form_id": "05060BBB|ADogsLife.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dog Harness & Satchel",
+    "string": "Arnés y Alforja para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLHarnessBackpack",
+    "form_id": "05060BB7|ADogsLife.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dog Backpack",
+    "string": "Mochila para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLEbonyArmor",
+    "form_id": "051680B8|ADogsLife.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dog Ebony Armor",
+    "string": "Armadura de Ebano para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLHarness",
+    "form_id": "0505BAAE|ADogsLife.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dog Harness",
+    "string": "Arnés para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDragonplate02",
+    "form_id": "05162FB4|ADogsLife.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dog Dragonplate Armor (Horns)",
+    "string": "Armadura de Placas de Dragon (con Cuernos)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLLantern",
+    "form_id": "05065CCA|ADogsLife.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dog Harness Lantern",
+    "string": "Arnés con Linterna para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLHarnessBackpackBlack",
+    "form_id": "05060BB8|ADogsLife.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dog Backpack",
+    "string": "Mochila para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogScrolls",
+    "form_id": "0506ADD3|ADogsLife.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dog Harness Scrolls",
+    "string": "Arnés para Pergaminos de Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDragonplate01",
+    "form_id": "05162FB3|ADogsLife.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dog Dragonplate Armor",
+    "string": "Armadura de Placas de Dragon para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDawnguardArmor",
+    "form_id": "0505BAB1|ADogsLife.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dog Dawnguard Armor",
+    "string": "Armadura de la Guardia del Alba para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLHarnessSack",
+    "form_id": "05060BBA|ADogsLife.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dog Harness & Sack",
+    "string": "Arnés y Saco para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLBanningSell",
+    "form_id": "0507A0E2|ADogsLife.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Banning's Supplies",
+    "string": "Suministros de Banning",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLFetchContainer",
+    "form_id": "0500FB36|ADogsLife.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Found Items",
+    "string": "Objetos Encontrados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogArmors",
+    "form_id": "05060BC3|ADogsLife.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Dog Armors",
+    "string": "Armaduras para Perros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogBedGold",
+    "form_id": "050B1C26|ADogsLife.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dog Bed",
+    "string": "Cama para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogBedRed",
+    "form_id": "050B1C2B|ADogsLife.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dog Bed",
+    "string": "Cama para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogBedPink",
+    "form_id": "050B1C29|ADogsLife.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dog Bed",
+    "string": "Cama para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogBedWhite",
+    "form_id": "050B1C2A|ADogsLife.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dog Bed",
+    "string": "Cama para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogBedPurple",
+    "form_id": "050B1C28|ADogsLife.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dog Bed",
+    "string": "Cama para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogBedBlue",
+    "form_id": "050B1C25|ADogsLife.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dog Bed",
+    "string": "Cama para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogBedBlack",
+    "form_id": "050B1C24|ADogsLife.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dog Bed",
+    "string": "Cama para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogBall",
+    "form_id": "0511C18F|ADogsLife.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dog Ball",
+    "string": "Pelota para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogBedGreen",
+    "form_id": "050B1C27|ADogsLife.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dog Bed",
+    "string": "Cama para Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TiberDog",
+    "form_id": "00023EF1|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Tiber",
+    "string": "Tiber",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTestDog",
+    "form_id": "050D5347|ADogsLife.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Angry Stray",
+    "string": "Perro Callejero Enojado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTestDeathHound",
+    "form_id": "0504C7AC|ADogsLife.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Test Death Hound",
+    "string": "Sabueso de Prueba",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WEFollowerDog",
+    "form_id": "00109487|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Stray Dog",
+    "string": "Perro Callejero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLStrayRiften",
+    "form_id": "05149AA3|ADogsLife.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Stray Dog",
+    "string": "Perro Callejero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTestKelpie",
+    "form_id": "051A9E06|ADogsLife.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Test Kelpie",
+    "string": "Kelpie de Prueba",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1HireableVampireDeathhound2",
+    "form_id": "0201AA78|Dawnguard.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "CuSith",
+    "string": "CuSith",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1HireableVampireDeathhound1",
+    "form_id": "0201AA77|Dawnguard.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Garmr",
+    "string": "Garmr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Stump",
+    "form_id": "0001E62A|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Stump",
+    "string": "Stump",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDog",
+    "form_id": "00023A92|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dog",
+    "string": "Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "YsgramorDog",
+    "form_id": "00023EED|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ysgramor",
+    "string": "Ysgramor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLStrayWindhelm",
+    "form_id": "05149AA9|ADogsLife.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Stray Dog",
+    "string": "Perro Callejero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Torom",
+    "form_id": "0002F442|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Torom",
+    "string": "Torom",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1HireableHunterDog1",
+    "form_id": "0201AA74|Dawnguard.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bran",
+    "string": "Bran",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunPOITundraMarshDog",
+    "form_id": "000D95E9|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Meeko",
+    "string": "Meeko",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLStrayMorthal",
+    "form_id": "05149A99|ADogsLife.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Stray Dog",
+    "string": "Perro Callejero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1HireableHunterDog2",
+    "form_id": "0201AA76|Dawnguard.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Sceolang",
+    "string": "Sceolang",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTestHusky",
+    "form_id": "0503D495|ADogsLife.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Test Husky",
+    "string": "Husky de Prueba",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TrainedDog",
+    "form_id": "0009A7AA|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Vigilance",
+    "string": "Vigilance",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1DawnguardHQ01",
+    "form_id": "02001DBA|Dawnguard.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fort Dawnguard",
+    "string": "Fuerte Guardia del Alba",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthStableHouse",
+    "form_id": "0008E906|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Markarth Stables",
+    "string": "Establos de Markarth",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLUtility",
+    "form_id": "0503326A|ADogsLife.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Place For Dogs",
+    "string": "Lugar para Perros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FalkreathLodsHouse",
+    "form_id": "00013A73|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Lod's House",
+    "string": "Casa de Lod",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "Skyrim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0005B1B6|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Stupid dog.",
+    "string": "Estupido perro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueAnimalTrainerSystemBuyAnimalTopic",
+    "form_id": "0009A79D|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll take that dog off your hands. (<global=ADLGlobalCost> gold)",
+    "string": "Llevare ese perro conmigo. (<global=ADLGlobalCost> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0009A7A3|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good. Here you are. He'll follow you to Oblivion and back, if it comes to that.",
+    "string": "Bien. Aqui tienes. Te seguira hasta el Oblivion y de regreso, si es necesario.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00035F1C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sorry. You already have an animal with you.",
+    "string": "Lo siento. Ya tienes un animal contigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MeekoDenied",
+    "form_id": "000F66EA|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't need some mutt following me around.",
+    "string": "No necesito un chucho siguiendome.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MeekoJoinMe",
+    "form_id": "000F66EB|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Come on. You can follow me if you want.",
+    "string": "Vamos. Puedes seguirme si quieres.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MeekoQuestion",
+    "form_id": "000F66EC|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's wrong, boy? Do you want to come with me?",
+    "string": "Que pasa, chico? Quieres venir conmigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000F66EF|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(bark)",
+    "string": "(ladrido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200425B|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Panting)",
+    "string": "(Jadeo)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1HireableDogsFavorStateTopic",
+    "form_id": "02004253|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need you to do something for me.",
+    "string": "Necesito que hagas algo por mi.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200425C|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Bark)",
+    "string": "(ladrido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1HireableDogsFollowMeTopic",
+    "form_id": "02004254|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Follow me.",
+    "string": "Sigueme.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200425D|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Bark)",
+    "string": "(ladrido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1HireableDogsDismissTopic",
+    "form_id": "02004255|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Time for you to head home.",
+    "string": "Es hora de que vuelvas a casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200425E|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Whine)",
+    "string": "(Quejido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1HireableDogsTradeTopic",
+    "form_id": "02004256|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Give me everything you are carrying.",
+    "string": "Dame todo lo que llevas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200425F|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Bark)",
+    "string": "(ladrido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1HireableDogsWaitTopic",
+    "form_id": "02004257|Dawnguard.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Wait here.",
+    "string": "Espera aqui.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02004258|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Whine)",
+    "string": "(Quejido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0201AA65|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Whine)",
+    "string": "(Quejido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0200E7AC|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Whine)",
+    "string": "(Quejido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueBranchFollowTopic",
+    "form_id": "0500AA02|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You want to come with me?",
+    "string": "Quieres venir conmigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0503D486|ADogsLife.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "What's wrong? You want to go hunt some vampires?",
+    "string": "Que pasa? Quieres ir a cazar algunos vampiros?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0503D48B|ADogsLife.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Let's sate our hunger together.",
+    "string": "Saciamo nuestra hambre juntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueBranchReFollowTopic",
+    "form_id": "0500AA04|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Follow me.",
+    "string": "Sigueme.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueBranchWaitTopic",
+    "form_id": "0500AA06|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Stay.",
+    "string": "Quedate.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueBranchDismissTopic",
+    "form_id": "0500AA08|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's time for you to head out.",
+    "string": "Es hora de que te pongas en marcha.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueBranchFindTopic",
+    "form_id": "0500AA0A|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need you to find something...",
+    "string": "Necesito que encuentres algo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueBranchNameTopic",
+    "form_id": "0500AA0C|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's give you a name...",
+    "string": "Pongamoste un nombre...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0507F1E8|ADogsLife.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Let's change your name...",
+    "string": "Cambiemos tu nombre...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueBranchAbilitiesTopic",
+    "form_id": "0500AA0E|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's talk about abilities and combat...",
+    "string": "Hablemos sobre habilidades y combate...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueBranchTradeTopic",
+    "form_id": "0500AA10|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What are you carrying?",
+    "string": "Que llevas contigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueBranchFeedTopic",
+    "form_id": "0500AA12|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You want something to eat?",
+    "string": "Quieres algo de comer?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueBranchRetrieveTopic",
+    "form_id": "0500AA14|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What did you find?",
+    "string": "Que encontraste?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05121290|ADogsLife.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Good dog, give me the ball.",
+    "string": "Buen perro, dame la pelota.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05121291|ADogsLife.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Did you not get the ball?",
+    "string": "No encontraste la pelota?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500FB3A|ADogsLife.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(whine)",
+    "string": "(Quejido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0501EE40|ADogsLife.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(sniff)",
+    "string": "(olfateo)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0503D488|ADogsLife.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(bark)",
+    "string": "(ladrido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0503D489|ADogsLife.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(whine)",
+    "string": "(Quejido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0503D48A|ADogsLife.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(bark)",
+    "string": "(ladrido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051CD514|ADogsLife.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(grunt)",
+    "string": "(gruñido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051CD519|ADogsLife.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(grunt)",
+    "string": "(gruñido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051D262E|ADogsLife.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(grunt)",
+    "string": "(gruñido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueHome",
+    "form_id": "0500FB3C|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Head back home.",
+    "string": "Regresa a casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueAbandon",
+    "form_id": "0500FB3D|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Shoo, I don't need you anymore!",
+    "string": "Fuera, ya no te necesito!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueEssential",
+    "form_id": "05023F42|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't want you to die.",
+    "string": "No quiero que mueras.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051D2634|ADogsLife.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I forbid you to die.",
+    "string": "Te prohibo morir.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueProtected",
+    "form_id": "05023F44|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What will be in battle will be.",
+    "string": "Lo que pase en batalla, pasara.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051D2638|ADogsLife.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Death is inevitable.",
+    "string": "La muerte es inevitable.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueAggro01",
+    "form_id": "05023F46|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Kill enemies on sight.",
+    "string": "Mata enemigos al verlos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueAggro02",
+    "form_id": "05023F48|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Only attack if provoked.",
+    "string": "Ataca solo si te provocan.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueMorality",
+    "form_id": "05023F4A|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "About criminal activities...",
+    "string": "Sobre actividades criminales...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueConfidence",
+    "form_id": "05023F4B|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "When we get into trouble...",
+    "string": "Cuando estemos en problemas...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueConf01",
+    "form_id": "05023F4E|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Avoid combat.",
+    "string": "Evita el combate.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueConf02",
+    "form_id": "05023F4F|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Remain Cautious",
+    "string": "Manten precaucion.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueConf03",
+    "form_id": "05023F50|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Never back down.",
+    "string": "Nunca retrocedas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueMorality01",
+    "form_id": "05023F54|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Any crime is fine by me.",
+    "string": "Cualquier crimen esta bien para mi.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueMorality02",
+    "form_id": "05023F55|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Deal only in property crimes.",
+    "string": "Solo comete delitos de propiedad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueMorality03",
+    "form_id": "05023F56|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Try not to commit any crimes.",
+    "string": "Trata de no cometer crimenes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueFindAmmo",
+    "form_id": "0502E15C|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ammo",
+    "string": "Municion",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueFindFood",
+    "form_id": "0502E15E|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Food & Potions",
+    "string": "Comida y Pociones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueFindIngredients",
+    "form_id": "0502E160|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ingredients",
+    "string": "Ingredientes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueFindKeys",
+    "form_id": "0502E162|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Keys",
+    "string": "Llaves",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueFindLockpick",
+    "form_id": "0502E164|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Lockpick",
+    "string": "Ganzua",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueFindWeapon",
+    "form_id": "0502E166|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Weapon",
+    "string": "Arma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueFollowFail",
+    "form_id": "0503D48E|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sorry, maybe next time.",
+    "string": "Lo siento, tal vez la proxima vez.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0503D492|ADogsLife.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Silence. No meat for you today.",
+    "string": "Silencio. No hay carne para ti hoy.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueAbilitiesCancel",
+    "form_id": "0503D497|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Never mind.",
+    "string": "Olvidalo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueFindCancel",
+    "form_id": "0503D49A|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Never mind.",
+    "string": "Olvidalo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueBranchPetTopic",
+    "form_id": "05084309|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Good dog. (Pet)",
+    "string": "Buen perro. (Acariciar)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueBranchNewHomeTopic",
+    "form_id": "050B6D3D|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This is home now.",
+    "string": "Este es tu hogar ahora.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogueBranchFamilyPetTopic",
+    "form_id": "050EE852|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The children are going to love you.",
+    "string": "Los niños van a adorarte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMainControllerExtraLodTopic",
+    "form_id": "051680C1|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I found a stray dog in need of a new owner. You can take hime, if you want?",
+    "string": "Encontre un perro callejero que necesita un nuevo dueño. Puedes quedartelo si quieres?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051680C2|ADogsLife.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Really? That'd be great!",
+    "string": "En serio? Seria genial!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMainControllerGiveMeeko",
+    "form_id": "051680C3|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Here he is. Take good care of him. (Give Meeko to Lod)",
+    "string": "Aqui esta. Cuidalo bien. (Dale a Meeko a Lod)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051680C4|ADogsLife.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, thank you! Divines bless your kind heart.",
+    "string": "Oh, gracias! Los Divinos bendigan tu buen corazon.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLMainControllerMeekoCancel",
+    "form_id": "051680C5|ADogsLife.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "On second thought, I'll have to think about it.",
+    "string": "Pensandolo bien, tendre que meditarlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollower",
+    "form_id": "000750BA|Skyrim.esm",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "<Alias=Follower> is waiting for you",
+    "string": "<Alias=Follower> te esta esperando",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollower",
+    "form_id": "000750BA|Skyrim.esm",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "<Alias=Animal> is waiting for you",
+    "string": "<Alias=Animal> te esta esperando",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogue",
+    "form_id": "0500AA00|ADogsLife.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Dogs",
+    "string": "Perros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogue",
+    "form_id": "0500AA00|ADogsLife.esp",
+    "index": 0,
+    "type": "QUST NNAM",
+    "original": "Tracking: <Alias=dog01>",
+    "string": "Siguiendo: <Alias=dog01>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogue",
+    "form_id": "0500AA00|ADogsLife.esp",
+    "index": 1,
+    "type": "QUST NNAM",
+    "original": "Tracking: <Alias=dog02>",
+    "string": "Siguiendo: <Alias=dog02>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogue",
+    "form_id": "0500AA00|ADogsLife.esp",
+    "index": 2,
+    "type": "QUST NNAM",
+    "original": "Tracking: <Alias=dog03>",
+    "string": "Siguiendo: <Alias=dog03>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogue",
+    "form_id": "0500AA00|ADogsLife.esp",
+    "index": 3,
+    "type": "QUST NNAM",
+    "original": "Tracking: <Alias=dog04>",
+    "string": "Siguiendo: <Alias=dog04>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogue",
+    "form_id": "0500AA00|ADogsLife.esp",
+    "index": 4,
+    "type": "QUST NNAM",
+    "original": "Tracking: <Alias=dog05>",
+    "string": "Siguiendo: <Alias=dog05>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogue",
+    "form_id": "0500AA00|ADogsLife.esp",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Tracking: <Alias=dog06>",
+    "string": "Siguiendo: <Alias=dog06>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogue",
+    "form_id": "0500AA00|ADogsLife.esp",
+    "index": 6,
+    "type": "QUST NNAM",
+    "original": "Tracking: <Alias=dog07>",
+    "string": "Siguiendo: <Alias=dog07>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogue",
+    "form_id": "0500AA00|ADogsLife.esp",
+    "index": 7,
+    "type": "QUST NNAM",
+    "original": "Tracking: <Alias=dog08>",
+    "string": "Siguiendo: <Alias=dog08>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogue",
+    "form_id": "0500AA00|ADogsLife.esp",
+    "index": 8,
+    "type": "QUST NNAM",
+    "original": "Tracking: <Alias=dog09>",
+    "string": "Siguiendo: <Alias=dog09>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLDogDialogue",
+    "form_id": "0500AA00|ADogsLife.esp",
+    "index": 9,
+    "type": "QUST NNAM",
+    "original": "Tracking: <Alias=dog10>",
+    "string": "Siguiendo: <Alias=dog10>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLLocDogUtility",
+    "form_id": "050B6D3F|ADogsLife.esp",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Place for Dogs",
+    "string": "Lugar para Perros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialAbandonment",
+    "form_id": "050842EB|ADogsLife.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dog Abandonment\r\n\r\nAbandoned dogs will return to their place of origin. Purchased dogs that are adandoned will return to their original owners.\r\n\r\nAbandoned strays will be heavily affected by abandonment and their affinity will plummet.",
+    "string": "Abandono de Perros\r\n\r\nLos perros abandonados regresaran a su lugar de origen. Los perros comprados que sean abandonados regresaran con sus dueños originales.\r\n\r\nLos perros callejeros abandonados se veran muy afectados por el abandono y su afecto caera drasticamente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialAbandonment",
+    "form_id": "050842EB|ADogsLife.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Continue",
+    "string": "Continuar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialHappiness",
+    "form_id": "05084306|ADogsLife.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dog Happiness\r\n\r\nIt's important to keep your dogs happiness up by interacting with them through playing ball, petting and other small interactions. Unhappy dogs may runaway or die from sadness.",
+    "string": "Felicidad del Perro\r\n\r\nEs importante mantener alta la felicidad de tu perro interactuando con el, jugando a la pelota, acariciandolo y con otras pequeñas acciones. Los perros infelices pueden huir o morir de tristeza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialHappiness",
+    "form_id": "05084306|ADogsLife.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Continue",
+    "string": "Continuar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialCommands",
+    "form_id": "050842ED|ADogsLife.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dog Commands\r\n\r\nUse group commands to speak with mutliple dogs at once.",
+    "string": "Ordenes para Perros\r\n\r\nUsa ordenes grupales para hablar con varios perros al mismo tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialCommands",
+    "form_id": "050842ED|ADogsLife.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Continue",
+    "string": "Continuar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialRecall",
+    "form_id": "050842EF|ADogsLife.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dog Recall\r\n\r\nWhen recalling dogs, only following dogs that are not near by will come running.",
+    "string": "Llamado de Perros\r\n\r\nAl llamar a los perros, solo vendran corriendo aquellos que te sigan pero no esten cerca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialRecall",
+    "form_id": "050842EF|ADogsLife.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Continue",
+    "string": "Continuar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialFollow",
+    "form_id": "050842E9|ADogsLife.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dog Following\r\n\r\nYou can recruit a maximum of 10 dogs at any given time. This includes dogs left at assigned homes, waiting for your return.",
+    "string": "Seguimiento del Perro\r\n\r\nPuedes reclutar un maximo de 10 perros a la vez. Esto incluye perros que esten en casas asignadas esperando tu regreso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialFollow",
+    "form_id": "050842E9|ADogsLife.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Continue",
+    "string": "Continuar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialHunger",
+    "form_id": "05084307|ADogsLife.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dog Hunger\r\n\r\nIt's important to keep your dog well fed, otherwise they may suffer from the effects, becoming slow and unable to carry as many items for you. Dogs left too long without food may run away or even starve.",
+    "string": "Hambre del Perro\r\n\r\nEs importante mantener bien alimentado a tu perro, de lo contrario puede sufrir las consecuencias, volverse lento y no poder cargar tantos objetos por ti. Los perros que pasen demasiado tiempo sin comer pueden huir o incluso morir de hambre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialHunger",
+    "form_id": "05084307|ADogsLife.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Continue",
+    "string": "Continuar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialFetch",
+    "form_id": "050842F0|ADogsLife.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dog Fetch\r\n\r\nDogs can be asked to seek out items in the world such as weapons, food, keys, lockpicks and more.",
+    "string": "Buscar del Perro\r\n\r\nPuedes pedirle a los perros que busquen objetos en el mundo, como armas, comida, llaves, ganzuas y mas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialFetch",
+    "form_id": "050842F0|ADogsLife.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Continue",
+    "string": "Continuar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialHome",
+    "form_id": "050842EC|ADogsLife.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dog Homes\r\n\r\nDogs can be assigned homes where they return to wait for you when dismissed.",
+    "string": "Hogares para Perros\r\n\r\nPuedes asignar hogares a los perros, a donde regresaran para esperarte cuando los despidas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialHome",
+    "form_id": "050842EC|ADogsLife.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Continue",
+    "string": "Continuar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialWait",
+    "form_id": "050842EA|ADogsLife.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dog Waiting\r\n\r\nDogs will wait for a while before heading back to assigned homes. Leaving them alone somewhere for too long may affect their happiness level.",
+    "string": "Espera del Perro\r\n\r\nLos perros esperaran un tiempo antes de regresar a las casas asignadas. Dejarlos solos por demasiado tiempo puede afectar su nivel de felicidad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialWait",
+    "form_id": "050842EA|ADogsLife.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Continue",
+    "string": "Continuar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialAffinity",
+    "form_id": "05084305|ADogsLife.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dog Affinity\r\n\r\nStray dogs will begin to trust you more as you increase their affinity with you. This can be done through feeding and petting them, along with other minor friendly interactions.",
+    "string": "Afinidad del Perro\r\n\r\nLos perros callejeros comenzaran a confiar mas en ti a medida que aumentes su afinidad. Esto puede lograrse alimentandolos, acariciandolos y realizando otras pequeñas acciones amistosas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialAffinity",
+    "form_id": "05084305|ADogsLife.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Continue",
+    "string": "Continuar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialInventory",
+    "form_id": "050842EE|ADogsLife.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dog Inventories\r\n\r\nDogs have a finite carry capacity. Purchase dog harnesses to increase their carry capacity, allowing to hold more of your items.",
+    "string": "Inventarios del Perro\r\n\r\nLos perros tienen una capacidad de carga limitada. Compra arneses para perros para aumentar su capacidad y permitirles llevar mas de tus objetos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialInventory",
+    "form_id": "050842EE|ADogsLife.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Continue",
+    "string": "Continuar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialNames",
+    "form_id": "050842F1|ADogsLife.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dog Names\r\n\r\nStray dogs can be given names when adopted and owned unqiue dogs can be renamed.",
+    "string": "Nombres de Perros\r\n\r\nLos perros callejeros pueden recibir un nombre al ser adoptados y los perros ya propios pueden ser renombrados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ADLTutorialNames",
+    "form_id": "050842F1|ADogsLife.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Continue",
+    "string": "Continuar",
+    "status": "TranslationComplete"
+  }
+]

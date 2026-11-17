@@ -1,0 +1,209 @@
+[
+  {
+    "editor_id": "SUM_Insult_Message_3",
+    "form_id": "0414CCA2|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Commoner",
+    "string": "¡Plebe...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_Insult_Message_4",
+    "form_id": "0414CCA4|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dullard",
+    "string": "¡Papanatas...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_Insult_Message_D",
+    "form_id": "0414CCAD|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dimwit",
+    "string": "¡Memo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_Insult_Message_C",
+    "form_id": "0414CCAC|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Scoundrel",
+    "string": "¡Canalla...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_Grow_Magicka_Message",
+    "form_id": "043892C4|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Magicka Permanently Increased",
+    "string": "¡Excelente! ¡Un aumento permanente de Magia!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_Stormbringer_Message_Fail",
+    "form_id": "0425E4E9|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No Valid Shout Equipped",
+    "string": "¿No debería equiparse un grito válido, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_Alarm_Message",
+    "form_id": "041D07CF|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "An enemy approaches...",
+    "string": "Ah, ¿se acerca un enemigo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_Insult_Message_6",
+    "form_id": "0414CCA6|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Twerp",
+    "string": "¡Mocoso!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_Insult_Message_0",
+    "form_id": "0414CC9C|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Fool",
+    "string": "¡Necio!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_RollingThunder_Message",
+    "form_id": "0425E4DE|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Shout Available",
+    "string": "¡Lunas Radiantes! ¡Ahora hay un grito disponible!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_GenerateFormlist_Message",
+    "form_id": "0438419D|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Item Received",
+    "string": "¡Lunas Radiantes, ha llegado un objeto!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_Grow_Stamina_Message",
+    "form_id": "043892C5|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Stamina Permanently Increased",
+    "string": "¡Excelente! ¡Un aumento permanente de Aguante!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_Grow_Health_Message",
+    "form_id": "043892C3|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Health Permanently Increased",
+    "string": "¡Excelente! ¡Un aumento permanente de Salud!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_Insult_Message_B",
+    "form_id": "0414CCAB|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Buffoon",
+    "string": "¡Bufón!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_Insult_Message_7",
+    "form_id": "0414CCA7|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Peasant",
+    "string": "¡Campesino...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_Insult_Message_2",
+    "form_id": "0414CCA1|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Imbecile",
+    "string": "¡Imbécil!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_Insult_Message_1",
+    "form_id": "0414CCA0|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Primitive",
+    "string": "¡Primitivo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_Insult_Message_8",
+    "form_id": "0414CCA8|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dunce",
+    "string": "¡Zoquete...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_HardeningSkin_Message",
+    "form_id": "043892D5|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Armor Permanently Increased",
+    "string": "¡Excelente! ¡Un aumento permanente de Armadura!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_Insult_Message_A",
+    "form_id": "0414CCAA|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Blockhead",
+    "string": "¡Cabeza hueca!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_Insult_Message_5",
+    "form_id": "0414CCA5|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Oaf",
+    "string": "¡Patán!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_Insult_Message_9",
+    "form_id": "0414CCA9|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Dolt",
+    "string": "¡Torpe!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SUM_DeathShroud_Message",
+    "form_id": "0430F84F|Summermyst - Enchantments of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are about to succumb to the Death Shroud.",
+    "string": "¡Ziss! ¡Ese Manto de la Muerte de patas lentas está a punto de matar a este Khajiit!",
+    "status": "TranslationComplete"
+  }
+]

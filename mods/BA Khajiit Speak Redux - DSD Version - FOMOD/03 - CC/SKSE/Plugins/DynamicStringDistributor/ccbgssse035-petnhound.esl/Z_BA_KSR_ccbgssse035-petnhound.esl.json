@@ -1,0 +1,38 @@
+[
+  {
+    "editor_id": "null",
+    "form_id": "05000808|ccbgssse035-petnhound.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Me gustaría comprar el perro nix (400 de oro).",
+    "string": "Khajiit desea comprar el Sabueso nix. (400 septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000809|ccbgssse035-petnhound.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Me gustaría comprar el perro nix (400 de oro).",
+    "string": "Khajiit desea comprar el Sabueso nix. (400 septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE035_MSGPetFoundItem",
+    "form_id": "05000818|ccbgssse035-petnhound.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "El perro nix ha encontrado algo...",
+    "string": "El Sabueso nix encontró algo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE035_MSGNotEnoughGold",
+    "form_id": "0500080E|ccbgssse035-petnhound.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No tienes oro suficiente para comprar el perro nix.",
+    "string": "Khajiit necesita más septims brillantes para poder comprar el Sabueso nix.  ",
+    "status": "TranslationComplete"
+  }
+]

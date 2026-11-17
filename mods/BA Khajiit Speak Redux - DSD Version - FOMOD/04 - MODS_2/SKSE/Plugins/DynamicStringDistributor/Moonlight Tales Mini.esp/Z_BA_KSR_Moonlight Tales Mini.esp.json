@@ -1,0 +1,38 @@
+[
+  {
+    "editor_id": "MTSE_Message_LunarTransformExtend",
+    "form_id": "0412B4FA|Moonlight Tales Mini.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Bloodlust extended under the influence of the moon",
+    "string": "La sed de sangre se extiende bajo la influencia de la Luna...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_BecomeWerewolf",
+    "form_id": "0405BB4C|Moonlight Tales Mini.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Become a werewolf with the same attributes as you would be with the Companion's guild. This will not interfere with the Companion questline. You will have to close the menus and return to the game. Wait a few seconds for the changes to take place. Are you sure?",
+    "string": "Conviértete en un hombre lobo con los mismos atributos que otorgaría el Gremio de los Compañeros. Esto no interferirá con la línea de misiones de los Compañeros. Cierra los menús y regresa al juego. Espera unos segundos para que los cambios surtan efecto. ¿Es esto lo que Khajiit desea, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_Cure",
+    "form_id": "0405BB4D|Moonlight Tales Mini.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You will be cured from being a werewolf. This does not interfere with the Companion questline. You will have to close the menus and return to the game. Wait a few seconds for the changes to take place. Are you sure?",
+    "string": "Esto curará la Licantropía. Esto no interfiere con la línea de misiones de los Compañeros. Cierra los menús y regresa al juego. Espera unos segundos para que los cambios surtan efecto. ¿Es esto lo que Khajiit desea, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MTSE_Message_LunarTransform",
+    "form_id": "0405BB5C|Moonlight Tales Mini.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You shift into a beast under the influence of the moon",
+    "string": "La Luna influye en Khajiit para transformarse en una bestia verdadera!",
+    "status": "TranslationComplete"
+  }
+]

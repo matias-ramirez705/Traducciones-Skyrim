@@ -1,0 +1,488 @@
+[
+  {
+    "editor_id": "Traits_Wayfarer",
+    "form_id": "03000001|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Wayfarer",
+    "string": "Trait: Caminante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Hawkeye",
+    "form_id": "03000003|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Hawkeye",
+    "string": "Ojo de Halcón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MoonWorshipper",
+    "form_id": "03000008|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Moon Worshipper",
+    "string": "Adorador de la Luna",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Fasting",
+    "form_id": "0300000A|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Fasting",
+    "string": "Rasgo: Ayuno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Necromancer",
+    "form_id": "0300000D|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Necromancer",
+    "string": "Nigromante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_NecromancerNeg",
+    "form_id": "0300000F|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Necromanger Negative",
+    "string": "Necromante Negativo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_UndyingRage",
+    "form_id": "03000011|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Undying Rage",
+    "string": "Trait: Ira Inmortal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_SurvivorOfHelgenDUPLICATE001",
+    "form_id": "03000013|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Survivor Of Helgen",
+    "string": "Trait: Sobreviviente de Helgen",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_LoneWolf",
+    "form_id": "03000017|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Lone Wolf",
+    "string": "Trait: Lobo Solitario",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_ThornmailPos1",
+    "form_id": "03000019|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Traits: Thornmail",
+    "string": "Rasgos: Coraza de Espinas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Thornmail",
+    "form_id": "0300001A|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Thornmail",
+    "string": "Espinas de Acero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_ThornmailNeg",
+    "form_id": "0300001B|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Traits:Thornmail",
+    "string": "Rasgos: Coraza de Espinas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_ThornmailNeg2",
+    "form_id": "0300001D|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Thornmail",
+    "string": "Rasgo: Coraza de Espinas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_PacifistPosDUPLICATE002",
+    "form_id": "0300001F|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Fasting",
+    "string": "Trait: Ayuno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Merchants",
+    "form_id": "03000800|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Merchant",
+    "string": "Rasgo: Comerciante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GlassCannon",
+    "form_id": "03000805|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Executioners Rhythm",
+    "string": "Rasgo: Ritmo del Verdugo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Botanist",
+    "form_id": "03000806|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Botanist",
+    "string": "Rasgo: Botánico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_SurvivorOfHelgen",
+    "form_id": "0300080E|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Survivor Of Helgen",
+    "string": "Trait: Sobreviviente de Helgen",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_ColdHands",
+    "form_id": "03000811|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Nocturnals Whisper",
+    "string": "Rasgo: Susurro de Nocturnal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BigBonks",
+    "form_id": "03000813|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Boethiahs Precision",
+    "string": "Rasgo: Precisión de Boethiah",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AntiMageNeg",
+    "form_id": "03000816|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Forsaken by Magnus",
+    "string": "Rasgo: Abandonado por Magnus",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AntiMage",
+    "form_id": "03000817|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Forsaken by Magnus",
+    "string": "Rasgo: Abandonado por Magnus",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_WayfarerAb",
+    "form_id": "03000002|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Wayfarer",
+    "string": "Caminante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_WayfarerAb",
+    "form_id": "03000002|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Pilgrimage of the 7,000 steps has tempered your body and will. Your knowledge and pace to traverse Skyrim is unmatched, granting <33%> increased movement speed out of combat. However, in shunning the easy path, you cannot fast travel.",
+    "string": "La peregrinacion de los 7,000 escalones ha templado tu cuerpo y tu voluntad. Tu conocimiento y ritmo para recorrer Skyrim no tienen igual, otorgando <33%> mas velocidad de movimiento fuera de combate. Sin embargo, al rehuir el camino facil, no puedes viajar rapido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HawkeyeAb",
+    "form_id": "03000005|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Hawkeye",
+    "string": "Ojo de Halcón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_HawkeyeAb",
+    "form_id": "03000005|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You are a master with the bow, loosing arrows with unerring precision even amidst chaos. Your shots strike harder, dealing <30%> more damage. However, subtlety is not your strength causing sneak attacks with bows to deal <50%> less damage.",
+    "string": "Eres un maestro con el arco, disparando flechas con una precisión infalible incluso en medio del caos. Tus disparos golpean con más fuerza, causando <30%> más daño. Sin embargo, la sutileza no es tu fuerte, lo que hace que los ataques sigilosos con arco inflijan <50%> menos daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MoonWorshipperAb",
+    "form_id": "03000007|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Moon Worshipper",
+    "string": "Adorador de la Luna",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MoonWorshipperAb",
+    "form_id": "03000007|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Beneath the gaze of Masser and Secunda, your arcane strength flourishes. Spells gain <15%> potency at night, rising to <30%> from midnight to 1am. However, dawn brings decline, weakening your spells by <25%> under the sun's glare.\r\n",
+    "string": "Bajo la mirada de Masser y Secunda, tu fuerza arcana florece. Los hechizos ganan <15%> de potencia por la noche, aumentando a <30%> entre la medianoche y la 1 a. m. Sin embargo, el amanecer trae decadencia, debilitando tus hechizos en un <25%> bajo el resplandor del sol.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_FastingAb",
+    "form_id": "0300000B|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fasting",
+    "string": "Ayuno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_FastingAb",
+    "form_id": "0300000B|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Through rigorous fasting, you've forsaken the comforts of food in pursuit of spiritual clarity and physical lightness. Your body moves freely and your mind sharpens. You gain <+50> carry weight. Additionally regenerate <1> stamina per second. However food offers no benefits\r\n",
+    "string": "A traves de un riguroso ayuno, has renunciado a las comodidades de la comida en busca de claridad espiritual y ligereza fisica. Tu cuerpo se mueve libremente y tu mente se agudiza. Ganas <+50> de peso de carga. Ademas regeneras <1> punto de aguante por segundo. Sin embargo, la comida no ofrece beneficios\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_NecromancerAb",
+    "form_id": "0300000E|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Necromancer",
+    "string": "Nigromante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_NecromancerAb",
+    "form_id": "0300000E|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You have bartered with death, trading vitality for dominion over the unseen. Necrotic powers answers your sacrifice. For every 200 base Magicka, you may command one additional summoned minion upto 600 base magicka. You also gain <+5> Magicka on every level up. However, your starting health begins <-50> lower and restoration spells have no affect on you.",
+    "string": "Has negociado con la muerte, cambiando vitalidad por dominio sobre lo invisible. Los poderes necroticos responden a tu sacrificio. Por cada 200 de Magia base, puedes controlar un esbirro invocado adicional hasta 600 de Magia base. Tambien ganas <+5> de Magia en cada subida de nivel. Sin embargo, tu salud inicial comienza <-50> mas baja y los hechizos de Restauracion no tienen efecto en ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_UndyingRageAb",
+    "form_id": "03000012|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Undying Rage",
+    "string": "Ira Inmortal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_UndyingRageAb",
+    "form_id": "03000012|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "\r\nWhen grievously wounded, your resolve hardens and you become more difficult to harm, but your strength wanes with your lifeblood. As your health diminishes, you suffer and inflict less damage: at <90%> health, you deal and receive <90%> damage; and so on. However, the closer you are to death, your attacks and spells become proportionally weakened.",
+    "string": "Cuando estas gravemente herido, tu determinacion se endurece y te vuelves mas dificil de danar, pero tu fuerza se debilita junto con tu sangre vital. A medida que tu salud disminuye, sufres e infliges menos daño: con <90%> de salud, infliges y recibes <90%> de daño; y asi sucesivamente. Sin embargo, cuanto mas cerca estes de la muerte, tus ataques y hechizos se debilitan proporcionalmente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_SurvivorOfHelgenAbDUPLICATE001",
+    "form_id": "03000015|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Survivor Of Helgen",
+    "string": "Sobreviviente de Helgen",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_SurvivorOfHelgenAbDUPLICATE001",
+    "form_id": "03000015|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You pushed-back Alduin at the throat of the world and your scars have healed.\r\nGain 10% damage done to dragons.",
+    "string": "Empujaste de vuelta a Alduin en la Garganta del Mundo y tus cicatrices han sanado. \r\nObtienes un 10% más de daño contra dragones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_LoneWolfAb",
+    "form_id": "03000018|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Lone Wolf",
+    "string": "Lobo Solitario",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_LoneWolfAb",
+    "form_id": "03000018|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Solitude is strength, to depend on the presence of the crowd is weakness.\r\nDeal <15%> more damage when alone, but deal <15%> less damage being in a group.\r\n",
+    "string": "La soledad es fuerza, depender de la multitud es debilidad. \r\nInfliges <15%> más daño cuando estás solo, pero infliges <15%> menos daño al estar en grupo.\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_ThornmailAb",
+    "form_id": "0300001C|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Thornmail",
+    "string": "Espinas de Acero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_ThornmailAb",
+    "form_id": "0300001C|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Your body becomes armor and weapon: each strike you endure cuts into your foes, but the weave that empowers you leaves you vulnerable.\r\nGain <+100> Hp and <+5> Hp per level up, reflect <100%> of physical damage taken, but receive <30%> more magical and <50%> more physical damage.",
+    "string": "Tu cuerpo se convierte en armadura y arma: cada golpe que resistes hiere a tus enemigos, pero el poder que te envuelve te deja vulnerable.  \r\nGanas <+100> de salud y <+5> de salud por cada nivel, reflejas <100%> del daño físico recibido, pero recibes <30%> más daño mágico y <50%> más daño físico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MerchantAb",
+    "form_id": "03000802|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Merchant",
+    "string": "Mercader",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MerchantAb",
+    "form_id": "03000802|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "A life of commerce has sharpened your tongue and filled your coinpurse, but left little room for martial discipline. Buying and selling prices are <30%> better. Additionally, gain 100 gold per day. However, your weapon damage and spell effectiveness are reduced by <10%>.\r\n",
+    "string": "A vida de comercio ha afilado tu lengua y llenado tu bolsa de monedas, pero ha dejado poco espacio para la disciplina marcial. Los precios de compra y venta son <30%> mejores. Ademas, ganas 100 de oro por dia. Sin embargo, tu daño con armas y la efectividad de tus hechizos se reducen en <10%>.\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GlassCannonAb",
+    "form_id": "03000804|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Executioners Rhythm",
+    "string": "Ritmo del Verdugo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GlassCannonAb",
+    "form_id": "03000804|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Destruction flows through you with terrifying ease, but such power never comes without a price. You deal <100%> more damage. However, you take <200%> more damage.\r\n",
+    "string": "La Destruccion fluye a traves de ti con una facilidad aterradora, pero tal poder nunca llega sin un precio. Infliges <100%> mas daño. Sin embargo, recibes <200%> mas daño.\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BotanistAb",
+    "form_id": "03000807|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Botanist",
+    "string": "Botánico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BotanistAb",
+    "form_id": "03000807|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Botanist: You study the flora of Tamriel with unmatched care. Gain <+1> extra ingredient when harvesting and learn all alchemical effects upon tasting. However, your time in the wilds has dulled your caution thus damage from wild animals is increased by <75%>.\r\n",
+    "string": "Botánico: Estudias la flora de Tamriel con un cuidado inigualable. Obtienes <+1> ingrediente adicional al recolectar y aprendes todos los efectos alquímicos al probarlos. Sin embargo, tu tiempo en la naturaleza ha embotado tu precaución, aumentando el daño recibido por animales salvajes en <75%>.\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_SurvivorOfHelgenAb",
+    "form_id": "0300080D|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Survivor Of Helgen",
+    "string": "Sobreviviente de Helgen",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_SurvivorOfHelgenAb",
+    "form_id": "0300080D|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You emerged from Helgen wreathed in flame, marked by fire that was never meant to spare you. Some would call it divine purpose, others a cruel jest. You gain <25%> fire resistance. However, the shadow of the World-Eater still clings to you; you deal <20%> less damage to dragons and take <20%> more from their wrath.\r\n\r\nWhen the sky is torn and time itself broken, even this scar may begin to fade.\r\n",
+    "string": "Emergiste de Helgen envuelto en llamas, marcado por un fuego que nunca tuvo intención de perdonarte. Algunos lo llamarían propósito divino, otros una cruel burla. Ganas <25%> de resistencia al fuego. Sin embargo, la sombra del Devorador del Mundo aún te persigue; infliges <20%> menos daño a dragones y recibes <20%> más daño de sus ataques.\r\n\r\nCuando el cielo se desgarra y el tiempo mismo se quiebra, incluso esta cicatriz puede comenzar a desvanecerse.\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_ColdHandsAb",
+    "form_id": "0300080F|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Nocturnals Whisper",
+    "string": "Susurro de Nocturnal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_ColdHandsAb",
+    "form_id": "0300080F|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Nocturnal watches from the shadows as your fingers work in silence. Lockpicks never break in your hands, but every lock resists with unnatural cunning, becoming <75%> harder to open.",
+    "string": "Nocturnal vigila desde las sombras mientras tus dedos trabajan en silencio. Las ganzúas nunca se rompen en tus manos, pero cada cerradura resiste con astucia sobrenatural, volviéndose <75%> más difícil de abrir.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BigBonkAb",
+    "form_id": "03000814|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Boethiahs Precision",
+    "string": "Precisión de Boethiah",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BigBonkAb",
+    "form_id": "03000814|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You strike with brutal force, following up each blow with a finishing swing. Power attacks deal <30%> more damage, but cost <75%> more stamina.\r\n",
+    "string": "Golpeas con fuerza brutal, siguiendo cada impacto con un golpe final. Los ataques poderosos infligen <30%> mas daño, pero consumen <75%> mas aguante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AntimageAb",
+    "form_id": "03000815|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Forsaken by Magnus",
+    "string": "Abandonado por Magnus",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_AntimageAb",
+    "form_id": "03000815|Biggie Traits - Additional Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Born beneath a fractured star, you are cut off from the flow of magicka but carry a hollow that draws in power. You have a <20%> chance to absorb enemy spells. However, you do not regenerate magicka passively.\r\n\r\n",
+    "string": "Naciste bajo una estrella fracturada, desconectado del flujo de magia, pero llevas un vacío que atrae poder. Tienes un <20%> de probabilidad de absorber hechizos enemigos. Sin embargo, no regeneras magia de forma pasiva.\r\n\r\n",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,1226 @@
+[
+  {
+    "editor_id": "MG01InitialBranchTopic",
+    "form_id": "0001F80E|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Where might <Alias=Player> learn more about magic, hmm?",
+    "string": "¿Dónde podría <Alias=Player> aprender más sobre la magia, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00021F93|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one bets you could slay one of those cruel old dragons. This one bets you could do anything, yes.",
+    "string": "Este Khajiit apuesta a que podrías matar a uno de esos viejos dragones crueles. Este Khajiit apuesta a que podrías hacer cualquier cosa, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D27F1|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Stormcloaks, Imperials, dragons. It is no matter to this one what is slain. Let them come, yes.",
+    "string": "Capa de la Tormenta, Imperiales, dragones. No es asunto de este qué se mate. Que vengan, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000EA261|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They say Helgen was struck by a dragon. If one of those horrors comes here, this one will be ready.",
+    "string": "Dicen que Helgen fue golpeado por un dragón. Si uno de esos horrores viene aquí, este estará listo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D27DF|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Brigands, this one can handle, but this talk of dragons? The world has gone mad, this one says.",
+    "string": "Bandidos, este puede manejar, pero ¿este hablar de dragones? El mundo se ha vuelto loco, dice este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueMorthalJorgenInitBranchTopic",
+    "form_id": "000413B5|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You are upset about something, yes?",
+    "string": "Estás molesto por algo, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000414E4|Skyrim.esm",
+    "index": 4,
+    "type": "INFO RNAM",
+    "original": "You do not trust the jarl, hmm?",
+    "string": "No confías en el Jarl, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DelphineRumorsBranchRevisedTopic",
+    "form_id": "000453E6|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have your ears heard any enticing gossip, perhaps?",
+    "string": "¿Han oído tus oídos algún chisme tentador, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000648F3|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Better down here than out there, yes.",
+    "string": "Mejor aquí abajo que allá afuera, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000648F4|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A dragon... First in a thousand years...",
+    "string": "Un dragón... El primero en mil años...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueSolitudeHeimvarBranchTopic",
+    "form_id": "0008496E|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You make dragon-killing weapons here, yes?",
+    "string": "¿Haces armas mata-dragones aquí, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueRiftenKeervaRumorsBranchTopic",
+    "form_id": "0009028B|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is the word around town, hmm? Speculation is good... Rumor is better... Facts are best, friend...",
+    "string": "¿Cuál es la palabra en el pueblo, hmm? La especulación es buena... El rumor es mejor... Los hechos son lo mejor, amigo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueDawnstarBrinaDragonsTopic",
+    "form_id": "00092317|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dawnstar is prepared for dragon attacks, yes?",
+    "string": "Lucero del Alba está preparada para ataques de dragones, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueDawnstarSkaldDragonsTopic",
+    "form_id": "0009231D|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dawnstar is prepared for dragon attacks, yes?",
+    "string": "Lucero del Alba está preparada para ataques de dragones, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueMarkarthThongvorDragonTopic",
+    "form_id": "00092323|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Markarth is prepared to deal with dragons, yes?",
+    "string": "Markarth está preparada para tratar con dragones, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueMarkarthIgmundDragonsTopic",
+    "form_id": "00092328|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dragons have returned to Skyrim. You know this, yes?",
+    "string": "Los dragones han regresado a Skyrim. Sabes esto, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueWhiterunFarengarTopicsBranch1Topic",
+    "form_id": "00093120|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You have encountered some dragons, yes?",
+    "string": "Te has encontrado con algunos dragones, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueWhiterunIrilethTopicsBranch3Topic",
+    "form_id": "00093121|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What type of threats would a jarl have to face themselves, hmm?",
+    "string": "¿Qué tipo de amenazas tendría que enfrentar un Jarl por sí mismo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueWhiterunJarlTopic4BranchTopic",
+    "form_id": "00093126|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How will you protect Whiterun from the dragons, hmm? Hold on, Khajiit wishes to sit down to so that <Alias.PronounPosObj=Player> ears may clearly hear this plan...",
+    "string": "¿Cómo protegerás Carrera Blanca de los dragones, hmm? Espera, Khajiit desea sentarse para que los oídos de <Alias.PronounPosObj=Player> puedan escuchar claramente este plan...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformSalviusFarmARogtausTopic",
+    "form_id": "000931B7|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You said your young one is in Old Hroldan, yes?",
+    "string": "Dijiste que tu joven está en Viejo Hroldan, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueRiverwoodSvenDragon",
+    "form_id": "000BC7E2|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Khajiit eyes saw a dragon in Helgen.",
+    "string": "Los ojos de Khajiit vieron un dragón en Helgen.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000BCC9B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Truly? So, maybe my mother isn't crazy after all.",
+    "string": "¿De verdad? Entonces, quizá mi madre no está loca después de todo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000BCC9B|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "You had best tell the jarl in Whiterun. He needs to know about this.",
+    "string": "Será mejor que le digas al Jarl en Carrera Blanca. Necesita saber sobre esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueSolitudeJawanan02Topic",
+    "form_id": "000BD6E5|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Khajiit has been traveling all over. Even to Helgen...",
+    "string": "Khajiit ha estado viajando por todos lados. Incluso a Helgen...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueSolitudeSvari02Topic",
+    "form_id": "000BD6ED|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Khajiit understands. <Alias.PronounCap=Player> will tell the tale about the dragon to someone else...",
+    "string": "Khajiit entiende. <Alias.PronounCap=Player> contará la historia sobre el dragón a alguien más...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueSolitudeFihada02Topic",
+    "form_id": "000BFADD|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This one needs some arrows that are able to take down a dragon...",
+    "string": "Este necesita algunas flechas que puedan derribar a un dragón...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HamingAvoidHelgen",
+    "form_id": "000BFB6C|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Khajiit understands.",
+    "string": "Khajiit entiende.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueRoriksteadJouaneTopicsBranch3Topic",
+    "form_id": "000C02C8|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Khajiit is curious... How will you protect yourselves against the dragons?",
+    "string": "Khajiit siente curiosidad... ¿Cómo se protegerán de los dragones?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000C02CE|Skyrim.esm",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "Khajiit is curious... How will you protect yourselves against the dragons?",
+    "string": "Khajiit siente curiosidad... ¿Cómo se protegerán de los dragones?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueSolitudeViarmo02Topic",
+    "form_id": "000C068A|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you know about dragons, hmm?",
+    "string": "¿Qué sabes sobre los dragones, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueDragonBridgeAzzadaTopicsBranch3Topic",
+    "form_id": "000C3683|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you worry about raising a clan in these dangerous times, friend?",
+    "string": "¿Te preocupa criar un clan en estos tiempos peligrosos, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueRiftenGrelkaLeaveBranchTopic",
+    "form_id": "000C3A1A|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why would you wish to leave Skyrim, hmm? That is, aside from all the racism, war, snow, giant spiders, temperamental Giants... oh, and the dragons...",
+    "string": "¿Por qué desearías dejar Skyrim, hmm? Eso es, aparte de todo el racismo, guerra, nieve, arañas gigantes, Gigantes temperamentales... oh, y los dragones...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueWindhelmUlundilTopic1Topic",
+    "form_id": "000C7F91|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You are worried about the dragons, no?",
+    "string": "Estás preocupado por los dragones, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CD66B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Next, the Nord in the rags!",
+    "string": "¡Siguiente, el Nórdico con harapos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00107569|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Next, the lizard!",
+    "string": "¡Siguiente, el lagarto!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0010756A|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Next, the Breton!",
+    "string": "¡Siguiente, el Bretón!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0010756B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Next, the Dark Elf!",
+    "string": "¡Siguiente, el Elfo Oscuro!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0010756C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Next, the High Elf!",
+    "string": "¡Siguiente, el Alto Elfo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0010756D|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Next, the renegade from Cyrodiil!",
+    "string": "¡Siguiente, el renegado de Cyrodiil!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0010756E|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Next, the cat!",
+    "string": "¡Siguiente, el gato!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0010756F|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Next, the Orc!",
+    "string": "¡Siguiente, el Orco!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00107570|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Next, the Redguard!",
+    "string": "¡Siguiente, el Guardia Rojo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00107571|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Next, the Wood Elf!",
+    "string": "¡Siguiente, el Elfo del Bosque!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000CD66C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Forget the list. This one sends him to the block.",
+    "string": "Olvida la lista. Este lo envía al bloque.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D07ED|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sentries! What do your eyes see, hmm?",
+    "string": "¡Centinelas! ¿Qué ven sus ojos, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CW00JoinTopic",
+    "form_id": "000D3C54|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Khajiit is curious... How does <Alias=Player> join?",
+    "string": "Khajiit siente curiosidad... ¿Cómo se une <Alias=Player>?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D3C5A|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You think you have the mettle, yes?",
+    "string": "¿Crees que tienes la madera, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D3C5A|Skyrim.esm",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Truly, the Legion can use all able bodies it can gather. This one sees many troubles. A dead king, a rebellion, and now dragons? Skyrim is a mess, yes.",
+    "string": "Verdaderamente, la Legión puede usar todos los cuerpos capaces que pueda reunir. Este ve muchos problemas. Un rey muerto, una rebelión, ¿y ahora dragones? Skyrim es un desastre, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D3C5A|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "If you are serious, make your way to Solitude. Our headquarters is Castle Dour. There you will find General Tullius, commanding our forces in Skyrim.",
+    "string": "Si hablas en serio, dirígete a Soledad. Nuestro cuartel es Castillo Severo. Allí encontrarás al General Tullius, comandando nuestras fuerzas en Skyrim.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D3C5A|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "But speak to Legate Rikke. She handles the local recruiting, yes.",
+    "string": "Pero habla con Legada Rikke. Ella maneja el reclutamiento local, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D3C5A|Skyrim.esm",
+    "index": 3,
+    "type": "INFO RNAM",
+    "original": "How does <Alias=Player> join the Imperial Legion, hmm?",
+    "string": "¿Cómo se une <Alias=Player> a la Legión Imperial, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000FBA67|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You think you have the mettle, yes?",
+    "string": "¿Crees que tienes la madera, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000FBA67|Skyrim.esm",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Truly, the Legion can use all able bodies it can gather. This one sees many troubles. A dead king, a rebellion, and now dragons? Skyrim is a mess, yes.",
+    "string": "Verdaderamente, la Legión puede usar todos los cuerpos capaces que pueda reunir. Este ve muchos problemas. Un rey muerto, una rebelión, ¿y ahora dragones? Skyrim es un desastre, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000FBA67|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "If you are serious, you stand in the right place. Our headquarters is in Castle Dour. Here you will find General Tullius, commanding our forces in Skyrim.",
+    "string": "Si hablas en serio, estás en el lugar correcto. Nuestro cuartel está en Castillo Severo. Aquí encontrarás al General Tullius, comandando nuestras fuerzas en Skyrim.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000FBA67|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "But speak to Legate Rikke. She handles the local recruiting, yes.",
+    "string": "Pero habla con Legada Rikke. Ella maneja el reclutamiento local, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000FBA67|Skyrim.esm",
+    "index": 3,
+    "type": "INFO RNAM",
+    "original": "How does <Alias=Player> join the Imperial Legion, hmm?",
+    "string": "¿Cómo se une <Alias=Player> a la Legión Imperial, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D3C5B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ulfric does not run a social club. You do not join such things. Either you are a true son of Skyrim, or you are not, yes.",
+    "string": "Ulfric no dirige un club social. No te unes a esas cosas. O eres un verdadero hijo de Skyrim, o no lo eres, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D3C5B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How does <Alias=Player> join the Stormcloak rebellion, hmm?",
+    "string": "¿Cómo se une <Alias=Player> a la rebelión Capa de la Tormenta, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D3C5C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ulfric does not run a social club. You do not join such things. Either you are a true daughter of Skyrim, or you are not, yes.",
+    "string": "Ulfric no dirige un club social. No te unes a esas cosas. O eres una verdadera hija de Skyrim, o no lo eres, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D3C5C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How does <Alias=Player> join the Stormcloak rebellion, hmm?",
+    "string": "¿Cómo se une <Alias=Player> a la rebelión Capa de la Tormenta, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ102BalgruufIntroHelgenA1",
+    "form_id": "000D50C4|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Indeed, friend - with both of <Alias.PronounPosObj=Player> eyes. This one had an excellent view of the attack while the Imperials were trying to cut off <Alias.PronounPosObj=Player> head!",
+    "string": "En efecto, amigo - con ambos ojos de <Alias.PronounPosObj=Player>. Este tenía una excelente vista del ataque mientras los Imperiales intentaban cortar la cabeza de <Alias.PronounPosObj=Player>!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CW00TulliusForcegreetTopic",
+    "form_id": "000D5116|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Greetings.",
+    "string": "Saludos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000DB8D3|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Still alive, prisoner? Stay close to this one if you wish to live.",
+    "string": "¿Aún con vida, prisionero? Mantente cerca de este si deseas vivir.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0513B8D3|AlternatePerspective.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Still alive? Stay close to this one if you wish to remain so.",
+    "string": "¿Aún con vida? Mantente cerca de este si deseas seguir así.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueIvarsteadTembaBranchTopic",
+    "form_id": "000DBAE9|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is making you so angry, hmm?",
+    "string": "¿Qué te está haciendo tan enojado, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0005CE8F|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Quickly, this one can cut you loose inside the keep.",
+    "string": "Rápido, este puede liberarte dentro de la fortaleza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E14B7|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It is you and this one, prisoner. Stay close!",
+    "string": "Eres tú y este, prisionero. ¡Mantente cerca!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0513B8D4|AlternatePerspective.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It is you and this one. Stay close!",
+    "string": "Eres tú y este. ¡Mantente cerca!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CaravansTopicsKharjo1Topic",
+    "form_id": "000E14CB|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell <Alias=Player> about the dangers that a za'yar [caravan] faces in Skyrim, yes?",
+    "string": "Dile a <Alias=Player> sobre los peligros que un za'yar [caravana] enfrenta en Skyrim, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS02BraigreTopic01",
+    "form_id": "000E1618|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It was in Helgen. <Alias=Player> was being sent to the executioner.",
+    "string": "Fue en Helgen. <Alias=Player> estaba siendo enviado al verdugo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CW00BUlfricGreetFreeToGo",
+    "form_id": "000E1AB9|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias=Player> was set free and could have gone anywhere, but <Alias.Pronoun=Player> came here to fight against the Imperial Empire.",
+    "string": "<Alias=Player> fue liberado y pudo haber ido a cualquier lugar, pero <Alias.Pronoun=Player> vino aquí para luchar contra el Imperio Imperial.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CR14QuestStartTopic",
+    "form_id": "000E2968|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Khajiit is seeking work...",
+    "string": "Khajiit está buscando trabajo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueWhiterunBrillTopicsDragonsTopic",
+    "form_id": "000E3B3E|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "There is still the threat of a dragon attack, no?",
+    "string": "Aún existe la amenaza de un ataque de dragón, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00109B5F|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one can cut you loose inside. Come now!",
+    "string": "Este puede liberarte dentro. ¡Vamos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00109C19|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "With this one, prisoner. Let us go!",
+    "string": "Con este, prisionero. ¡Vamos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0513B8D5|AlternatePerspective.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let us go!",
+    "string": "¡Vamos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00109D0A|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It is in the clouds!",
+    "string": "¡Está en las nubes!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02019834|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This one does not converse with prey.",
+    "string": "Este no conversa con la presa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02019835|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do not speak to this one, meat.",
+    "string": "No le hables a este, carne.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APStartIntroDiaTopic",
+    "form_id": "05075138|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This one would like to rent a room, yes. (Start Intro (<Global=RoomCost> gold))",
+    "string": "Este desea alquilar una habitación, sí. (Introducción (<Global=RoomCost> Septims))",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkaleiRequest01",
+    "form_id": "050BC568|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Khajiit will do this.",
+    "string": "Khajiit hará esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkaleiRequestDeny",
+    "form_id": "050BC56B|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Khajiit does not have time for this...",
+    "string": "Khajiit no tiene tiempo para esto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkaleiRequestListen",
+    "form_id": "050BC56D|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Certainly, what is it, hmm?",
+    "string": "Ciertamente, ¿qué es, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkaleiRequestEntry02TopicDUPLICATE001",
+    "form_id": "050BC571|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You wished to ask this one for a favor, yes?",
+    "string": "Deseabas pedirle un favor a este, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GunnarTrainingsDiaTopic",
+    "form_id": "051E811F|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Khajiit is in need of training in Smithing, friend.",
+    "string": "Khajiit necesita entrenamiento en Herrería, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Gunnar01Topic",
+    "form_id": "05201640|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Was this one always a blacksmith, hmm?",
+    "string": "¿Este siempre fue herrero, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0520164F|AlternatePerspective.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You fought for the Empire, yes?",
+    "string": "¿Luchaste por el Imperio, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Gunnar01_1",
+    "form_id": "05201643|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why is this so important to you, hmm?",
+    "string": "¿Por qué es esto tan importante para ti, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Gunnar01_12",
+    "form_id": "05201646|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What does this one mean?",
+    "string": "¿Qué quiere decir este?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Gunnar01_2",
+    "form_id": "0520164D|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What war does this one speak of?",
+    "string": "¿De qué guerra habla este?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VilodMeaderyTalkTopic",
+    "form_id": "05201652|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Khajiit ears have heard that you are brewing a special kind of mead, yes?",
+    "string": "Los oídos de Khajiit han oído que estás elaborando un tipo especial de hidromiel, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VilodMeaderyTalk_01",
+    "form_id": "05201654|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It depends on the price, yes?",
+    "string": "Depende del precio, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VilodMeaderyTalk_02",
+    "form_id": "05201656|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Khajiit has better things to do, friend. Shinier things.",
+    "string": "Khajiit tiene cosas mejores que hacer, amigo. Cosas más brillantes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VilodRadiant01Topic",
+    "form_id": "0520165C|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Something troubles you, yes?",
+    "string": "Algo te preocupa, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05400FFE|AlternatePerspective.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Does not Jacob sell Juniper Berries, hmm?",
+    "string": "¿No vende Jacob Frutos de enebro, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkaleiRadiant01Topic",
+    "form_id": "05201664|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Khajiit eyes are unaccustomed to seeing an Argonian away from the docks.",
+    "string": "Los ojos de Khajiit no están acostumbrados a ver un Argoniano lejos de los muelles.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkaleiDial_Quit",
+    "form_id": "0520166A|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This one finds this good to know.",
+    "string": "Este encuentra esto bueno de saber.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkaleiDia_Captain",
+    "form_id": "0520166D|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The captain of the ship is not very 'accepting' of this one, no.",
+    "string": "El capitán del barco no es muy 'aceptante' con este, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkaleiDia_Imperials",
+    "form_id": "0520166F|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you mean, exactly?",
+    "string": "¿Qué quieres decir exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkaleiReqHandoverTopic",
+    "form_id": "05201675|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This one has a package to deliver from Skalei. It is heavy and annoying.",
+    "string": "Este tiene un paquete que entregar de Skalei. Es pesado y molesto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkaleisRequest_01",
+    "form_id": "05201677|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "She owns a shop in Helgen, yes.",
+    "string": "Ella posee una tienda en Helgen, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0520167A|AlternatePerspective.esp",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "She used to operate a shop in Helgen, but Khajiit eyes have not seen her since.",
+    "string": "Ella solía operar una tienda en Helgen, pero los ojos de Khajiit no la han visto desde entonces.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkaleiReqFinishTopic",
+    "form_id": "0520167E|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Khajiit has returned from Windhelm with a gift for you, friend.",
+    "string": "Khajiit ha regresado de Ventalia con un regalo para ti, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CW00TulliusAP01",
+    "form_id": "05206781|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This one assisted Hadvar to escape, and was told to seek you out, friend.",
+    "string": "Este ayudó a Hadvar a escapar, y se le dijo que te buscara, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CW00TulliusGreetTalkRikkateAP",
+    "form_id": "05206784|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias=Player> refuses to sit on <Alias.PronounPosObj=Player> paws and do nothing after what <Alias.PronounPosObj=Player> eyes have witnessed, no! <Alias.PronounCap=Player> wishes to join the Imperial Legion!",
+    "string": "<Alias=Player> se niega a sentarse sobre las patas de <Alias.PronounPosObj=Player> y no hacer nada después de lo que los ojos de <Alias.PronounPosObj=Player> han presenciado, ¡no! ¡<Alias.PronounCap=Player> desea unirse a la Legión Imperial!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CW00UlfricPlayerAP01",
+    "form_id": "05210995|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This one is not in open opposition of the Rebellion, no. After all, <Alias.Pronoun=Player> did assist Ralof with escaping, hmm?",
+    "string": "Este no está en abierta oposición a la Rebelión, no. Después de todo, <Alias.Pronoun=Player> ayudó a Ralof a escapar, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CW00UlfricPlayerAP02",
+    "form_id": "05210998|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Khajiit was able to travel anywhere, yet <Alias.Pronoun=Player> chose to come here to fight the Imperial Empire! Impressive, no?",
+    "string": "Khajiit pudo viajar a cualquier lugar, sin embargo <Alias.Pronoun=Player> eligió venir aquí para luchar contra el Imperio Imperial. Impresionante, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MessengerAlduinSkipTopic",
+    "form_id": "0538C6E2|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Warm sands.",
+    "string": "Arenas cálidas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MessengerAlduinSkipNone",
+    "form_id": "0538C6E4|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Khajiit only allows the Moons to decide <Alias.PronounPosObj=Player> fate.",
+    "string": "Khajiit solo permite que las Lunas decidan el destino de <Alias.PronounPosObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MessengerAlduinSkipImp",
+    "form_id": "0538C6E8|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "(Skip to Helgen Keep)",
+    "string": "(Saltar a Fortaleza de Helgen)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MessengerMQSkipImp",
+    "form_id": "053DD8EC|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "(Skip to \"The Way of the Voice\")",
+    "string": "(Saltar a \"El camino de la voz\")",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VilodRadiant01_1",
+    "form_id": "05400FFA|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This one can bring you some, yes.",
+    "string": "Este puede traerte algunos, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APVilodGatherTopic",
+    "form_id": "05401002|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This one has retrieved some juniper berries, friend. Quite impressive, yes?",
+    "string": "Este ha conseguido algunas Frutos de enebro, amigo. Bastante impresionante, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VilodSellJuniperTopic",
+    "form_id": "05401006|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Khajiit has found some more juniper berries, friend.",
+    "string": "Khajiit ha encontrado algunas más de Frutos de enebro, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0540B18E|AlternatePerspective.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So it shall be.",
+    "string": "Así será.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MessengerSCTopic",
+    "form_id": "0541A49B|AlternatePerspective.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Greetings",
+    "string": "Saludos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APS_WerewolfWolforBearMsg",
+    "form_id": "0508EC5E|AlternatePerspective.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "*****Nightmare Night*****\r\n\r\nWhat costume shall this one \"were\", hmm? \r\n\r\nWerewolf or Werebear?",
+    "string": "*****Noche de Pesadilla*****\r\n\r\n¿Qué disfraz debería \"usar\" este, hmm? \r\n\r\n¿Hombre lobo o hombre oso?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AP_TestSpawnMsg",
+    "form_id": "05493DF8|AlternatePerspective.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What should be spawned, hmm?",
+    "string": "¿Qué debería ser invocado, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AP_SkipIntro02",
+    "form_id": "0520A313|AlternatePerspective.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Who should be sided with, hmm?",
+    "string": "¿A quién se debería apoyar, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AP_SkipIntro02",
+    "form_id": "0520A313|AlternatePerspective.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Imperial Empire",
+    "string": "Imperio Imperial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AP_SkipIntro02",
+    "form_id": "0520A313|AlternatePerspective.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Stormcloak Rebellion",
+    "string": "Capa de la Tormenta Rebelión",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AP_SkipIntro02",
+    "form_id": "0520A313|AlternatePerspective.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Hmm... Khajiit needs a moment...",
+    "string": "Hmm... Khajiit necesita un momento...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APS_VampireBloodletThrone_Msg",
+    "form_id": "052F472F|AlternatePerspective.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Khajiit is now a Traitor to the Vampires of Bloodlet Throne, yes.",
+    "string": "Khajiit ahora es un Traidor para los Vampiros de Trono de la Sangría, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APS_VampirePinemoonCave_Msg",
+    "form_id": "052F9833|AlternatePerspective.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This one is now a Traitor to the Vampires of Pinemoon Cave.",
+    "string": "Este ahora es un Traidor para los Vampiros de Cueva Pinemoon.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AP_dunHunterDoorMsg",
+    "form_id": "052D612D|AlternatePerspective.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "It seems that nobody is home. Perhaps it would be wise to return when a town is burning, hmm?",
+    "string": "Parece que nadie está en casa. Quizá sería sabio regresar cuando un pueblo esté ardiendo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AP_MQ101SkipToKeep",
+    "form_id": "053F1CF7|AlternatePerspective.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "It seems that the Imperial Legion captured Ulfric Stormcloak and brought him to Helgen for execution. \r\n\r\nHowever, before the sentence could be carries out, a mysterious black Dragon attacked Helgen! \r\n\r\nWith the assistance of Ralof (one of the Prisoners) and Hadvar (an Imperial Soldier), a few lucky people escaped the initial slaughter and managed to make it to the front of the Keep. \r\n\r\nNow to decide which one of them to join and attempt to flee this place...",
+    "string": "Parece que la Legión Imperial capturó a Ulfric Capa de la Tormenta y lo llevó a Helgen para su ejecución. \r\n\r\nSin embargo, antes de que la sentencia pudiera llevarse a cabo, ¡un misterioso dragón negro atacó Helgen! \r\n\r\nCon la ayuda de Ralof (uno de los prisioneros) y Hadvar (un soldado Imperial), unas pocas personas afortunadas escaparon de la matanza inicial y lograron llegar al frente de la Fortaleza. \r\n\r\nAhora este debe decidir a cuál de ellos unirse e intentar huir de este lugar...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AP_MQ101SkipToKeep",
+    "form_id": "053F1CF7|AlternatePerspective.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "This is not the correct path, no. (Cancel)",
+    "string": "Este no es el camino correcto, no. (Cancelar)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APS_ShipwreckedMessage",
+    "form_id": "053877A2|AlternatePerspective.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Great Moons! This one must have been knocked unconscious when the ship crashed and sunk! \r\n\r\nPerhaps it is wise to leave this place before the air runs out, yes?",
+    "string": "¡Grandes Lunas! ¡Este debe haber quedado inconsciente cuando el barco se estrelló y se hundió! \r\n\r\nQuizá sea sabio que este abandone este lugar antes de que el aire se acabe, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AP_ReadyMsg",
+    "form_id": "052CBF15|AlternatePerspective.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Is a Khajiit prepared to spawn into the world, perhaps?",
+    "string": "¿Está un Khajiit preparado para aparecer en el mundo, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AP_ReadyMsg",
+    "form_id": "052CBF15|AlternatePerspective.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Khajiit still needs a moment...",
+    "string": "Khajiit aún necesita un momento...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AP_ReadyMsg",
+    "form_id": "052CBF15|AlternatePerspective.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Onward!",
+    "string": "¡Adelante!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AP_MQ101SkipToMQ105",
+    "form_id": "053F1CF8|AlternatePerspective.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Some time ago, a black Dragon entirely destroyed Helgen - disrupting Ulfric Stormcloaks planned execution. With some assistance, Khajiit managed to escape the chaos and make it safely out of Helgen!\r\nFrom there, it was onto Whiterun to report these events to the Jarl. After retrieving a Dragon Stone for the Whiterun Court Mage, this one joined several guards to investigate a reported Dragon Attack nearby. Once at the location, another dragon attacked the group! This time the defense was successful and the dragon was vanquished. This event gained the attention of the Greybeards at High Hrothgar, and Khajiit has now been summoned there to fulfill a prophesized destiny of becoming the Dragonborn.\r\n\r\nNone of this would have been possible without the assistance given by the stalwart hero in Helgen that assisted this one to escape the onslaught! Who was it again...?",
+    "string": "Hace algún tiempo, un dragón negro destruyó por completo Helgen, interrumpiendo la ejecución planeada de Ulfric Capa de la Tormenta. Con algo de ayuda, Khajiit logró escapar del caos y salir con vida de Helgen!\r\nDesde allí, este se dirigió a Carrera Blanca para informar estos sucesos al Jarl. Después de recuperar una Piedra de Dragón para el mago de la corte de Carrera Blanca, este se unió a varios guardias para investigar un supuesto ataque de dragón cercano. Una vez en el lugar, ¡otro dragón atacó al grupo! Esta vez la defensa fue exitosa y el dragón fue derrotado. Este evento llamó la atención de los Barbas Grises en Alto Hrothgar, y Khajiit ha sido llamado allí para cumplir un destino profetizado de convertirse en el Sangre de Dragón.\r\n\r\nNada de esto habría sido posible sin la ayuda brindada por el valiente héroe en Helgen que ayudó a este a escapar del asalto. ¿Quién era, hmm...?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AP_MQ101SkipToMQ105",
+    "form_id": "053F1CF8|AlternatePerspective.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "This is not the correct path, no. (Cancel)",
+    "string": "Este no es el camino correcto, no. (Cancelar)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APS_VampireMovarthsLair_Msg",
+    "form_id": "052F4732|AlternatePerspective.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Khajiit is now a Traitor to the Vampires of Morvarth's Lair.",
+    "string": "Khajiit ahora es un Traidor para los Vampiros de Guarida de Movarth.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APS_Forsworn_Msg",
+    "form_id": "054664A1|AlternatePerspective.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Khajiit is now a Traitor to the Forsworn of Druadach Redoubt.",
+    "string": "Khajiit ahora es un Traidor para los Renegados de Reducto de Druadach.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APS_VampireHaermasShame_Msg",
+    "form_id": "052F4731|AlternatePerspective.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This one is now a Traitor to the Vampires of Haermar's Shame.",
+    "string": "Este ahora es un Traidor para los Vampiros de Vergüenza de Haemar.",
+    "status": "TranslationComplete"
+  }
+]

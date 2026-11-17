@@ -1,0 +1,6 @@
+$NAME_Force of Nature	Fuerza de la naturaleza
+$DESC_Force of Nature	Sobrevive a los miembros menores de los Siete Siniestros.
+$NAME_Some good family time	Un buen momento en familia
+$DESC_Some good family time	Sobrevive a la Madre y al Padre.
+$NAME_The last one standing	El último en pie
+$DESC_The last one standing	Derrota a todos los miembros de los Siete Siniestros.

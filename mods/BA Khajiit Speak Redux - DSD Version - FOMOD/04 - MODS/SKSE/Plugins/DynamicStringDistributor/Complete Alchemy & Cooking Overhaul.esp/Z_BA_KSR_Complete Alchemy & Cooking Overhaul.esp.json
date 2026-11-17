@@ -1,0 +1,362 @@
+[
+  {
+    "editor_id": "CACO_AlchemyFailureMessage",
+    "form_id": "01CC1120|Update.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You need a mortar and pestle to use this.",
+    "string": "Sería sabio que este tuviera primero un mortero y maja antes de intentar usar esto, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "planterClearMessage",
+    "form_id": "03008242|HearthFires.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "There is already something growing here. What would you like to do?",
+    "string": "Ziss... Algo ya crece aquí, ¿sí?\r\n\r\n¿Qué debería hacerse entonces, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "planterClearMessage",
+    "form_id": "03008242|HearthFires.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Do nothing",
+    "string": "Dejarlo como está",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "planterClearMessage",
+    "form_id": "03008242|HearthFires.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Clear planter",
+    "string": "Limpiar el macetero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "planterClearMessage",
+    "form_id": "03008242|HearthFires.esm",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Fertilize soil",
+    "string": "Fertilizar la tierra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_AlchemyFailureMessageDUPLICATE001",
+    "form_id": "0527EE11|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You need a mortar and pestle to use this.",
+    "string": "Sería sabio que este tuviera primero un mortero y maja antes de intentar usar esto, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_WaterWellFailureMessage",
+    "form_id": "054E3D15|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You need a bucket in order to use the well.",
+    "string": "Será difícil recoger agua sin tener primero un cubo, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_CookingSkillApprentice",
+    "form_id": "054E3D3B|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cooking Skill: Apprentice \r\n\r\nYou have moved beyond scorching meat and drowning vegetables.  Your attempts at cooking have progressed past basic sustenance, and while the foods you create remain simple and rustic, the addition of seasonings and spices enhance your meals.\r\n\r\nYou can now create basic soups, advanced stews and bake simple breads and basic sweets.",
+    "string": "Habilidad de Cocina: Aprendiz\r\n\r\nCelebra las cosas simples de la vida, como ya no quemar la carne ni ahogar las verduras, ¿sí? Claramente, todos esos fracasos anteriores han dejado algunas lecciones, en verdad.\r\n\r\nQuizá haya una oportunidad de ir más allá del sustento básico, simple y rústico, sazonado solo con condimentos y especias mundanas, ¿sí?\r\n\r\nAhora es momento de intentar hacer algunas sopas básicas, guisos avanzados, panes simples y dulces básicos, hmm? ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_CookingSkillAdept",
+    "form_id": "054E3D3C|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cooking Skill: Adept\r\n\r\nA new confidence is apparent in your cooking, and while simple wholesome dishes are great for everyday meals, you start to experiment with adding a bit more flare to your dishes.  Unusual ingredients can contribute interesting flavor profiles and add a new twist to old standbys.\r\n\r\nYou can now braise and pickle meats, prepare sausages and create advanced soups and stews.  Sweet and savoury pies can be baked in ovens.",
+    "string": "Habilidad de Cocina: Adepto\r\n\r\nSe percibe cierta confianza en estas comidas últimamente. Los platos simples y reconfortantes son excelentes para el día a día, en verdad.\r\n\r\nSin embargo, hay algo casi heroico en tomar riesgos y experimentar con ingredientes nuevos y emocionantes, ¿no?\r\n\r\nIngredientes inusuales podrían aportar no solo perfiles de sabor interesantes, sino también dar un nuevo giro a recetas clásicas, hmm?\r\n\r\nQuizá brasear y encurtir carnes, junto con preparar embutidos para crear sopas y guisos avanzados, lleve esta aventura al siguiente nivel, ¿sí?\r\n\r\nOh, y no olvides esos deliciosos pasteles dulces y salados que pueden hornearse en hornos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_CookingSkillExpert",
+    "form_id": "054E3D3D|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cooking Skill: Expert\r\n\r\nYou are becoming a true master of the flame and kettle.  Flair and panache are evident in the meals you create.  Your vegetables are a perfect balance of crisp and tender, and you can make even the toughest cut of meat melt like butter on the tongue.  \r\n\r\nYou can now create complex and fancy sweet and savoury dishes and know how to use rare and unusual ingredients in your cooking.",
+    "string": "Habilidad de Cocina: Experto\r\n\r\nBueno, bueno, bueno. Esto es prueba de un verdadero experto del fuego y el caldero.\r\n\r\nEl estilo y la elegancia se notan en estas comidas, en verdad. ¡Las verduras tienen un equilibrio perfecto entre crujiente y tierno, y hasta el corte de carne más duro se derrite como mantequilla en la lengua!\r\n\r\nLas comidas complejas, los dulces elegantes y los platos sabrosos no son rival para este nivel de conocimiento, no. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_CookingSkillMaster",
+    "form_id": "054E3D3E|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cooking Skill: Master\r\n\r\nYour hard work has gained you a mastery of food that few can match.  Your meals are a masterpiece worthy of a true gourmand, and only the tables of kings and the banquet halls of Sovengard can match the quality of your fare.",
+    "string": "Habilidad de Cocina: Maestro\r\n\r\nTodo el arduo trabajo ha dado frutos, en verdad.\r\n\r\nArmado con habilidades culinarias de las que pocos podrían presumir, cada comida se transforma en una obra maestra digna de un verdadero gastrónomo.\r\n\r\n¡Solo las mesas de reyes y los salones de banquete de Sovngarde podrían siquiera aspirar a igualar la calidad de tales platos divinos! ¡HUZZAH!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_PhysPoulticeMessage",
+    "form_id": "055586C4|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Do you want to apply this poultice to a clean bandage? ",
+    "string": "Este ungüento debe ser aplicado sobre una venda limpia, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_PhysPoulticeFailMessage",
+    "form_id": "055586C5|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You must have a clean bandage in order to use this poultice.",
+    "string": "Una venda limpia es necesaria para que este Khajiit use este ungüento, ¿no es así?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_PhysBandageMessage",
+    "form_id": "055586C7|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "How do you want to equip this bandage? ",
+    "string": "¿Dónde debería este aplicar la venda, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_CookingSkillNovice",
+    "form_id": "055A46B1|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cooking Skill: Novice\r\n\r\nYou can create only the most basic of meals by applying heat to food.  While this is sufficient for simple sustenance, the results are often tough, dry meats and overcooked, mushy vegetables.  However, with determination and practice your cooking skill will increase, and the food you create will become more appetizing.  ",
+    "string": "Habilidad de Cocina: Novato\r\n\r\nEs momento de lo básico. Aplicar calor a la comida y observar qué ocurre, ¿sí?\r\n\r\nEsto dará la forma más simple de sustento, aunque los resultados suelen ser carnes duras o secas y verduras sobrecocidas o blandas.\r\n\r\nNo dejes que el Gato Skooma engañe a este, sin embargo. Con determinación y práctica, estas habilidades de cocina crecerán, y la comida creada se volverá más apetecible, en verdad. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_BasicNeedsHunger01",
+    "form_id": "05707080|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are feeling hungry.",
+    "string": "El hambre se hace presente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_BasicNeedsHunger02",
+    "form_id": "05707081|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are famished.",
+    "string": "¡Este Khajiit está famélico!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_BasicNeedsHunger03",
+    "form_id": "05707082|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are starving.",
+    "string": "¡Khajiit se está muriendo de hambre!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_BasicNeedsFatigue01",
+    "form_id": "05707083|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are feeling tired.",
+    "string": "¿Qué es este cansancio, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_BasicNeedsFatigue02",
+    "form_id": "05707084|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are very fatigued.",
+    "string": "Khajiit está muy fatigado, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_BasicNeedsFatigue03",
+    "form_id": "05707085|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are exhausted.",
+    "string": "¡Este está exhausto!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_BasicNeedsHunger01first",
+    "form_id": "05707086|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I'm feeling hungry.",
+    "string": "Khajiit tiene hambre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_BasicNeedsHunger02first",
+    "form_id": "05707087|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I am famished.",
+    "string": "¡Khajiit está famélico!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_BasicNeedsHunger03first",
+    "form_id": "05707088|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I am starving!",
+    "string": "¡Khajiit se está muriendo de hambre!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_BasicNeedsFatigue01first",
+    "form_id": "05707089|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I'm feeling tired.",
+    "string": "Khajiit está cansado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_BasicNeedsFatigue02first",
+    "form_id": "0570708A|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I'm feeling fatigued.",
+    "string": "Khajiit está fatigado. Quizá una siesta de gato, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_BasicNeedsFatigue03first",
+    "form_id": "0570708B|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "I am exhausted!",
+    "string": "¡Khajiit está exhausto! Debe. Descansar. Patas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PlanterAlreadyFertilizedMESSAGE",
+    "form_id": "059F49AA|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This soil has already been fertilized.",
+    "string": "Esta tierra ya ha sido fertilizada, ¿no? No es momento de ser generoso, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PlanterOnlyOneFertilizerMESSAGE",
+    "form_id": "059F49AC|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You only need one dose of fertilizer.",
+    "string": "Solo se necesita una dosis de fertilizante, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PlanterItemFertilizedMESSAGE",
+    "form_id": "059F49AD|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Soil fertilized.",
+    "string": "La tierra ya está fertilizada, así que no hay necesidad de orinar sobre ella, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_HelpMortarPestle",
+    "form_id": "05A18258|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Having a Mortar and Pestle in your inventory will enhance the strength of the potions and poisons you create at an Alchemy Lab.  Higher quality Mortars provide greater enhancements.\r\n\r\nYou can also use a Mortar and Pestle by activating it directly from your inventory.  This will allow you to create potions and poisons wherever you are; however, the resulting concoctions won't be as potent as those created at a fully stocked Alchemy Lab.",
+    "string": "Tener un mortero y maja en el inventario mejora la potencia de las pociones y venenos creados en un Laboratorio de Alquimia, en verdad.\r\n\r\nLos morteros de mayor calidad otorgan mejoras más grandes, naturalmente.\r\n\r\nUn mortero y maja se utiliza activándolo directamente desde el inventario, lo que permite la creación de pociones y venenos desde cualquier lugar.\r\n\r\nSin embargo, las mezclas resultantes no son tan potentes como aquellas creadas en un Laboratorio de Alquimia completamente equipado, hmm. Ubicación, ubicación, ubicación.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_HelpRetort",
+    "form_id": "05A18259|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You can use a Retort to create bombs, waxes, distilled potions, purified ingredients and extracts, salves, poultices, and other specialty potions. \r\n\r\nWaxes are a form of poison.  They are not as potent as single-use poisons, but they will last for multiple hits.\r\n\r\nSalves are beneficial substances that can be applied directly to the skin.  Poultices must first be applied to Clean Bandages.",
+    "string": "Un retorta se utiliza para crear bombas, ceras, pociones destiladas, ingredientes purificados, extractos, ungüentos, cataplasmas y otras pociones especiales.\r\n\r\nLas ceras son una forma de veneno y no son tan potentes como los venenos de un solo uso, pero duran varios golpes, así que hay un equilibrio en esto, ¿sí?\r\n\r\nLos ungüentos son sustancias beneficiosas que pueden aplicarse directamente sobre la piel. Las cataplasmas deben aplicarse primero a Vendas Limpias.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_HelpCrucible",
+    "form_id": "05A1825A|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You can use a Cruciblet to standardize player-made potions and poisons, converting them into their generic equivalent.  This will only work on player-made potions and poisons that have only a single effect. \r\n\r\nTo use, simply add your single-effect, player-made potions and poisons to the Crucible, and it will convert them to their generic equivalent.\r\n\r\nOnce standardized in this way, your potions and poisons can be used for various recipes that require a Retort.  \r\n\r\n",
+    "string": "Un crisol se utiliza para estandarizar pociones y venenos, convirtiéndolos en su equivalente genérico. Esto solo funcionará en pociones y venenos hechos a medida que tengan un solo efecto. Es una tristeza, en verdad.\r\n\r\nPara usarlo, simplemente añade las pociones y venenos de efecto único hechos a medida al crisol y este los convertirá en su equivalente genérico. Es simple en forma, ¿no?\r\n\r\nUna vez estandarizados de esta manera, los venenos y pociones pueden usarse para varias recetas que requieren una retorta.\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_HelpExtractor",
+    "form_id": "05A1825B|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You can use a Blood Extractor to harvest blood from creatures and NPCs\r\nThe Anatomist perk allows you to harvest blood and other powerful alchemical ingredients from fallen enemies.\r\nScalpels and Blood Extractors are needed to harvest ingredients from dead NPCs.\r\nVampires can use extracted blood to create unique blood potions.",
+    "string": "Un extractor de sangre se utiliza para recolectar sangre de todo tipo de criaturas.\r\n\r\nLa ventaja Anatomista permite recolectar sangre y otros poderosos ingredientes alquímicos de enemigos caídos.\r\n\r\nSe necesitan escalpelos y extractores de sangre para recolectar ingredientes de seres muertos.\r\n\r\nLos vampiros pueden usar la sangre extraída para crear pociones de sangre únicas.\r\n\r\nRecuerda lo que Khajiit siempre dice, amigo: \"¡Un campo de batalla limpio es un campo de batalla feliz!\"",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_HelpScalpel",
+    "form_id": "05A1825C|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You can use a Scalpel to harvest organs from creatures and NPCs.\r\nThe Anatomist perk allows you to harvest blood and other powerful alchemical ingredients from fallen enemies.\r\nScalpels and Blood Extractors are needed to harvest ingredients from dead NPCs.",
+    "string": "Un escalpelo se utiliza para recolectar órganos de varias criaturas.\r\n\r\nLa ventaja Anatomista permite recolectar sangre y otros poderosos ingredientes alquímicos de enemigos caídos.\r\n\r\nSe necesitan escalpelos y extractores de sangre para recolectar ingredientes de seres muertos.\r\n\r\nEste no recomienda usar garras para esto, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CACO_HelpAlchemy",
+    "form_id": "05A1825D|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Rare and costly ingredients tend to create more powerful potions.\r\nImpure potions, those with both positive and negative effects, are the result of failed alchemical experiments and have very little value.\r\nAn ingredient's first, or primary, property is the one with the strongest relative magnitude.",
+    "string": "Los ingredientes raros y costosos tienden a crear pociones más poderosas. Esto se sabe.\r\n\r\nLas pociones impuras, aquellas con efectos positivos y negativos, son resultado de experimentos alquímicos fallidos y tienen muy poco valor, muy parecido a un cerebro de cangrejo de lodo, ¿no?\r\n\r\nUn ingrediente tiene una propiedad primera o primaria, que es la de mayor magnitud relativa. Simple, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "planterPlantMessage",
+    "form_id": "05A27562|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What would you like to do?",
+    "string": "Decisiones, decisiones:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "planterPlantMessage",
+    "form_id": "05A27562|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Do nothing",
+    "string": "Dejarlo como está",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "planterPlantMessage",
+    "form_id": "05A27562|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Plant crop",
+    "string": "Plantar el cultivo y luego tomar una siesta de gato...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "planterPlantMessage",
+    "form_id": "05A27562|Complete Alchemy & Cooking Overhaul.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Fertilize soil",
+    "string": "Fertilizar la tierra",
+    "status": "TranslationComplete"
+  }
+]

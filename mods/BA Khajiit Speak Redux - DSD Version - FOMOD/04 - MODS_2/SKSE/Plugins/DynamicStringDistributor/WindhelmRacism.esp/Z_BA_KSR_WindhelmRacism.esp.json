@@ -1,0 +1,317 @@
+[
+  {
+    "editor_id": "DialogueWindhelmBrunWulfTopicsJarl2Topic",
+    "form_id": "00094168|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "In general, how are things going on in the city?",
+    "string": "Khajiit siente curiosidad... ¿cómo están las cosas en la ciudad, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WBadBard1ATopic",
+    "form_id": "0300084A|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Argh! Stop this, for my ears' sake!",
+    "string": "¡Argh! Detén esto, por el bien de Khajiit y de los oídos de <Alias.PronounPosObj=Player>, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WBadBard1BTopic",
+    "form_id": "0300084D|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Um... yes?",
+    "string": "Umm... ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WBadBard1CTopic",
+    "form_id": "03000850|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This was... magnificient.",
+    "string": "Esto fue... magnífico, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WBadBard2ATopic",
+    "form_id": "03000852|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's this about your singing and the Dunmer?",
+    "string": "¿De qué trata esto de tu canto y los Dunmer, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WBadBard3ATopic",
+    "form_id": "03000854|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This was very bigoted on her part. What had caused her to change her decision?",
+    "string": "Esto fue muy prejuicioso, en efecto. Khajiit siente curiosidad... ¿qué causó el cambio en la decisión, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WBadBard3BTopic",
+    "form_id": "03000855|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So, what had caused her to change her decision?",
+    "string": "Entonces, ¿qué causó este cambio de opinión, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WBadBard3CTopic",
+    "form_id": "03000856|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This was an admirable attitude on her part. What had caused her to abandon it?",
+    "string": "Esta fue una actitud admirable, en efecto. ¿Qué la llevó a abandonarla, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WBadBard4ATopic",
+    "form_id": "0300085A|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Considering the way you sing, it's no wonder you failed the audition.",
+    "string": "Khajiit pudo notar por todo el vidrio roto por qué fallaste la audición, amigo. (risita)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WBadBard4CTopic",
+    "form_id": "0300085D|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Unbelievable. Nords should really receive better treatment in their own land.",
+    "string": "¡Increíble! Los Nórdicos deberían recibir mejor trato en su propia tierra, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WBadBard5ATopic",
+    "form_id": "03000861|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This doesn't even remotely qualify as \"bigotry\" against you. You're just a bad singer. Stop whining.",
+    "string": "Esto ni siquiera califica remotamente como 'prejuicio' contra ti, no. ¡Simplemente eres un cantante horrible! Espera, ¿por qué estás llorando, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WBadBard5BTopic",
+    "form_id": "03000862|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll just leave you to it, then.",
+    "string": "<Alias=Player> te dejará con eso entonces, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WBadBard5CTopic",
+    "form_id": "03000863|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "They're right. Skyrim should belong to the Nords. The Dunmer already have Morrowind for themselves.",
+    "string": "Ellos tienen razón, sí. Skyrim debería pertenecer a los Nórdicos. Después de todo, los Dunmer ya tienen Morrowind para ellos solos, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000888|WindhelmRacism.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why are you defiling the Palace of the Kings with your presense, goldenrod?",
+    "string": "¿Por qué profanas el Palacio de los reyes con tu presencia, goldenrod?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WRingvild1ATopic",
+    "form_id": "03000891|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Just passing though.",
+    "string": "Este solo está de paso...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000898|WindhelmRacism.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your \"passing though\" will not harm the Thalmor murderers.  ",
+    "string": "Tu \"paso\" no dañará a los asesinos Thalmor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WRingvild1CTopic",
+    "form_id": "03000892|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm a Stormcloak. I can go where I please.",
+    "string": "Khajiit es un Capa de la Tormenta, y <Alias.Pronoun=Player> viajará a donde <Alias.Pronoun=Player> desee, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WRingvild1DTopic",
+    "form_id": "03000895|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Your bigotry is unfitting for someone of your beauty and station.",
+    "string": "Tu prejuicio no es digno de alguien con tu belleza y posición, amigo. Hazlo mejor, sé mejor, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000899|WindhelmRacism.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Trying flattery, sycophant? You'll do well as a Thalmor ambassador. And by \"do well\" I mean \"your head would look good on a pike\". ",
+    "string": "¿Intentas adular, adulador? Te irá bien como embajador Thalmor. Y por \"te irá bien\" quiero decir, \"tu cabeza se vería bien en una pica\".",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WRingvild1ETopic",
+    "form_id": "03000896|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Don't you dare insult me like that!",
+    "string": "¡No insultes a Khajiit de esa manera! (extiende las garras)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300089A|WindhelmRacism.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Complete filth, but acts struck-up. You'll do well as a Thalmor ambassador. And by \"do well\" I mean \"your head would look good on a pike\". ",
+    "string": "Inmundicia total, pero con aires de grandeza. Te irá bien como embajador Thalmor. Y por \"te irá bien\" quiero decir, \"tu cabeza se vería bien en una pica.\"",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WRingvild2ATopic",
+    "form_id": "0300089B|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll be on my way, then.",
+    "string": "Khajiit simplemente seguirá su camino entonces, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WRingvild2BTopic",
+    "form_id": "0300089D|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I share your dislike of the Thalmor.",
+    "string": "Khajiit comparte tu desprecio por los Thalmor, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WRingvild2CTopic",
+    "form_id": "0300089E|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You are misguided in your predjudice. I don't like the Thalmor, either.",
+    "string": "Estás equivocado en tu prejuicio, amigo. Khajiit también detesta a los Thalmor, hmm. Quizá incluso más que tú, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WRingvild2DTopic",
+    "form_id": "0300089F|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have no desire to speak to you, bigot.",
+    "string": "¡<Alias=Player> no hablará con tal fumbadhassa isozeva jekosiit [oveja corta-cola estúpida que copula]!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WRingvild3ATopic",
+    "form_id": "030008A3|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I agree to your terms. I will do it.",
+    "string": "<Alias=Player> acepta tus términos, amigo. <Alias.PronounCap=Player> hará esto, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WRingvild3BTopic",
+    "form_id": "030008A4|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have better things to do.",
+    "string": "<Alias=Player> no tiene tiempo para esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WRingM1A",
+    "form_id": "030008AA|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Here is your evidence of dead Justiciars.",
+    "string": "Aquí está la evidencia de los Justicieros muertos, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "030008AB|WindhelmRacism.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Ever since my husband died in a Thalmor ambush, I kept his old, thankfully recovered, battle-axe. Now I give it to you. Use it well.",
+    "string": "Desde que mi esposo murió en una emboscada Thalmor, guardé su vieja hacha de batalla, afortunadamente recuperada. Ahora te la doy. Úsala bien.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "030008AC|WindhelmRacism.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Ever since my husband died in a Thalmor ambush, I kept his old, thankfully recovered, battle-axe. Now I give it to you. Use it well. ",
+    "string": "Desde que mi esposo murió en una emboscada Thalmor, guardé su vieja hacha de batalla, afortunadamente recuperada. Ahora te la doy. Úsala bien. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FenrensNeutral",
+    "form_id": "030008C9|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No self-respecting person would want a dock worker's job willingly.",
+    "string": "Seguramente, ninguna persona que se respete realmente desea trabajar en los muelles, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FenrensBigot",
+    "form_id": "030008CA|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This city is full of bigots. Like you.",
+    "string": "Esta ciudad está llena de prejuiciosos, en efecto. De hecho, Khajiit está hablando con uno ahora mismo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FenrensArmor",
+    "form_id": "030008CC|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This armor of yours...",
+    "string": "Khajiit siente curiosidad por esta armadura tuya...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FenrensAntiArgo",
+    "form_id": "030008CD|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The lizards are a privileged class here, depriving Nords of job opportunities.",
+    "string": "Los Argonianos son una clase privilegiada aquí, ¿sí? Parece que están privando a los Nórdicos de oportunidades de trabajo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FenrensPostRise",
+    "form_id": "030008D9|WindhelmRacism.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Your employers were hiring pirates in order to hurt their competition.",
+    "string": "Tus empleadores estaban contratando piratas para dañar a su competencia. Khajiit conoce esto como una tradición consagrada por el tiempo, en efecto.",
+    "status": "TranslationComplete"
+  }
+]

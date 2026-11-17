@@ -1,0 +1,3026 @@
+[
+  {
+    "editor_id": "_M_QuestWhiterunKillAnimalRewardTopic",
+    "form_id": "020058E6|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias=Dungeon> has been cleared, I'm here for the bounty.",
+    "string": "Este Khajiit limpió <Alias=Dungeon> como pediste, ¿sí? Aquí es donde le das a <Alias.PronounObj=Player> montones de tesoros...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunGatherIngrLowRewardTopic",
+    "form_id": "0200690E|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunRetrieveWildernessRewardTopic",
+    "form_id": "02006E77|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunGatherIngrMedRewardTopic",
+    "form_id": "0200896D|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunGatherIngrHighRewardTopic",
+    "form_id": "02008EEC|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunGatherInnRewardTopic",
+    "form_id": "02009A20|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you needed.",
+    "string": "Ah, Lunas Radiantes para ti, amigo. Entonces, es un <Alias=Item>, ¿sí? Muy bien. Tu total es... llevar el uno... más gastos... y seguro de 'protección'... ¿Podría este Khajiit reclamar millaje en esta cuenta, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunGatherSoulGemLowRewardTopic",
+    "form_id": "0200A503|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunGatherSoulGemMedRewardTopic",
+    "form_id": "0200AA69|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunGatherSoulGemHighRewardTopic",
+    "form_id": "0200AA6D|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunCourierLetterLowAcceptTopic",
+    "form_id": "0200BAAA|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunCourierLetterLowDeliverTopic",
+    "form_id": "0200C00E|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunCourierWeaponLowAcceptTopic",
+    "form_id": "0200D5A3|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunCourierWeaponLowDeliverTopic",
+    "form_id": "0200D5A6|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunGatherOreLowRewardTopic",
+    "form_id": "0200DB0C|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunGatherOreMedRewardTopic",
+    "form_id": "0200DB10|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunGatherOreHighRewardTopic",
+    "form_id": "0200DB14|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunGatherOreVeryHighRewardTopic",
+    "form_id": "0200DB18|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunCourierLetterMedAcceptTopic",
+    "form_id": "0200E082|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunCourierLetterMedDeliverTopic",
+    "form_id": "0200E086|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunCourierLetterHighAcceptTopic",
+    "form_id": "0200E5ED|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunCourierLetterHighDeliveryTopic",
+    "form_id": "0200E5F1|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunCourierWeaponMedAcceptTopic",
+    "form_id": "0200EB57|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunCourierWeaponMedDeliveryTopic",
+    "form_id": "0200EB5A|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunCourierWeaponHighAcceptTopic",
+    "form_id": "0200EB5E|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunCourierWeaponHighDeliveryTopic",
+    "form_id": "0200EB61|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunKillBanditRewardTopic",
+    "form_id": "0200F0CA|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The leader of <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El líder de <Alias=Dungeon> ha sido enviado al Vacío. Este Khajiit está aquí por la recompensa, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunKillGiantRewardTopic",
+    "form_id": "0200F0CE|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The giant at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El Gigante en <Alias=Dungeon> está muerto, aquí está su dedo del pie como prueba para la recompensa. Huele como coliflor podrida.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunKillDragonRewardTopic",
+    "form_id": "0200F0D3|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The dragon at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El dragón en <Alias=Dungeon> está derrotado. ¿Quién sabía que tenía un espíritu tan 'ardiente', hmm? Je-je-je... <Alias=Player> se toma a la ligera las situaciones mortales, en efecto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunRetrieveHideoutRewardTopic",
+    "form_id": "0200F0D9|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunRetrieveRuinsRewardTopic",
+    "form_id": "0200F0DD|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchCourierLetterHighAcceptTopic",
+    "form_id": "0200F650|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchCourierLetterHighDeliverTopic",
+    "form_id": "0200F653|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchCourierLetterLowAcceptTopic",
+    "form_id": "0200F657|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchCourierLetterLowDeliverTopic",
+    "form_id": "0200F65A|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchCourierLetterMedAcceptTopic",
+    "form_id": "0200F65E|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchCourierLetterMedDeliveryTopic",
+    "form_id": "0200F661|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchCourierWeaponHighAcceptTopic",
+    "form_id": "0200FBC6|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchCourierWeaponHighDeliveryTopic",
+    "form_id": "0200FBC9|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchCourierWeaponLowAcceptTopic",
+    "form_id": "0200FBCD|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchCourierWeaponLowDeliveryTopic",
+    "form_id": "0200FBD0|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchCourierWeaponMedAcceptTopic",
+    "form_id": "0200FBD4|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchCourierWeaponMedDeliveryTopic",
+    "form_id": "0200FBD7|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchGatherIngrHighRewardTopic",
+    "form_id": "02010143|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchGatherIngrLowRewardTopic",
+    "form_id": "02010147|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchGatherIngrMedRewardTopic",
+    "form_id": "0201014B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchGatherInnRewardTopic",
+    "form_id": "020106B3|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you needed.",
+    "string": "Ah, Lunas Radiantes para ti, amigo. Entonces, es un <Alias=Item>, ¿sí? Muy bien. Tu total es... llevar el uno... más gastos... y seguro de 'protección'... ¿Podría este Khajiit reclamar millaje en esta cuenta, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchGatherOreHighRewardTopic",
+    "form_id": "020106BF|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchGatherOreLowRewardTopic",
+    "form_id": "020106C3|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchGatherOreMedRewardTopic",
+    "form_id": "020106C7|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchGatherOreVeryHighRewardTopic",
+    "form_id": "020106CB|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchGatherSoulGemHighRewardTopic",
+    "form_id": "02010C37|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchGatherSoulGemLowRewardTopic",
+    "form_id": "02010C3B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchGatherSoulGemMedRewardTopic",
+    "form_id": "02010C3F|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchKillAnimalRewardTopic",
+    "form_id": "020111A5|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias=Dungeon> has been cleared, I'm here for the bounty.",
+    "string": "Este Khajiit limpió <Alias=Dungeon> como pediste, ¿sí? Aquí es donde le das a <Alias.PronounObj=Player> montones de tesoros...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchKillBanditRewardTopic",
+    "form_id": "020111A9|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The leader of <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El líder de <Alias=Dungeon> ha sido enviado al Vacío. Este Khajiit está aquí por la recompensa, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchKillDragonRewardTopic",
+    "form_id": "020111AD|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The dragon at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El dragón en <Alias=Dungeon> está derrotado. ¿Quién sabía que tenía un espíritu tan 'ardiente', hmm? Je-je-je... <Alias=Player> se toma a la ligera las situaciones mortales, en efecto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchKillGiantRewardTopic",
+    "form_id": "020111B1|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The giant at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El Gigante en <Alias=Dungeon> está muerto, aquí está su dedo del pie como prueba para la recompensa. Huele como coliflor podrida.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchRetrieveHideoutRewardTopic",
+    "form_id": "02011717|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchRetrieveRuinsRewardTopic",
+    "form_id": "0201171B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchRetrieveWildernessRewardTopic",
+    "form_id": "0201171F|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathCourierLetterHighAcceptTopic",
+    "form_id": "02011C88|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathCourierLetterHighDeliveryTopic",
+    "form_id": "02011C8B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarCourierLetterHighAcceptTopic",
+    "form_id": "02011C90|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarCourierLetterHighDeliveryTopic",
+    "form_id": "02011C93|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchCourierLetterHighAcceptTopic",
+    "form_id": "02011C98|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchCourierLetterHighDeliveryTopic",
+    "form_id": "02011C9B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleCourierLetterHighAcceptTopic",
+    "form_id": "02011CA0|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleCourierLetterHighDeliveryTopic",
+    "form_id": "02011CA3|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachCourierLetterHighAcceptTopic",
+    "form_id": "02011CAA|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachCourierLetterHighDeliveryTopic",
+    "form_id": "02011CAD|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftCourierLetterHighAcceptTopic",
+    "form_id": "02011CB1|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftCourierLetterHighDeliveryTopic",
+    "form_id": "02011CB4|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdCourierLetterHighAcceptTopic",
+    "form_id": "02011CB9|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdCourierLetterHighDeliveryTopic",
+    "form_id": "02011CBC|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathCourierLetterLowAcceptTopic",
+    "form_id": "02011CC0|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathCourierLetterLowDeliveryTopic",
+    "form_id": "02011CC3|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarCourierLetterLowAcceptTopic",
+    "form_id": "02011CC8|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarCourierLetterLowDeliveryTopic",
+    "form_id": "02011CCB|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchCourierLetterLowAcceptTopic",
+    "form_id": "02011CD0|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchCourierLetterLowDeliveryTopic",
+    "form_id": "02011CD3|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleCourierLetterLowAcceptTopic",
+    "form_id": "02011CD8|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleCourierLetterLowDeliveryTopic",
+    "form_id": "02011CDB|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachCourierLetterLowAcceptTopic",
+    "form_id": "02011CE0|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachCourierLetterLowDeliveryTopic",
+    "form_id": "02011CE3|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftCourierLetterLowAcceptTopic",
+    "form_id": "02011CE9|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftCourierLetterLowDeliveryTopic",
+    "form_id": "02011CEC|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdCourierLetterLowAcceptTopic",
+    "form_id": "02011CF0|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdCourierLetterLowDeliveryTopic",
+    "form_id": "02011CF3|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathCourierLetterMedAcceptTopic",
+    "form_id": "02011CF7|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathCourierLetterMedDeliveryTopic",
+    "form_id": "02011CFA|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarCourierLetterMedAcceptTopic",
+    "form_id": "02011CFF|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarCourierLetterMedDeliveryTopic",
+    "form_id": "02011D02|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchCourierLetterMedAcceptTopic",
+    "form_id": "02011D07|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchCourierLetterMedDeliveryTopic",
+    "form_id": "02011D0A|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleCourierLetterMedAcceptTopic",
+    "form_id": "02011D0F|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleCourierLetterMedDeliveryTopic",
+    "form_id": "02011D12|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachCourierLetterMedAcceptTopic",
+    "form_id": "02011D18|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachCourierLetterMedDeliveryTopic",
+    "form_id": "02011D1B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftCourierLetterMedAcceptTopic",
+    "form_id": "02011D1F|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftCourierLetterMedDeliveryTopic",
+    "form_id": "02011D22|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdCourierLetterMedAcceptTopic",
+    "form_id": "02011D27|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdCourierLetterMedDeliveryTopic",
+    "form_id": "02011D2A|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(enojado) Aquí... Una carta de <Alias=QuestGiver> de <Alias=City>... quita este maldito pergamino de Khajiit, ¿sí? ¡Nunca este ha encontrado tantos Draugr antes, excepto cuando cargaba este papel de perdición! ¡Lunas Oscuras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathCourierWeaponHighAcceptTopic",
+    "form_id": "02012291|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathCourierWeaponHighDeliveryTopic",
+    "form_id": "02012294|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarCourierWeaponHighAcceptTopic",
+    "form_id": "02012299|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarCourierWeaponHighDeliveryTopic",
+    "form_id": "0201229C|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchCourierWeaponHighAcceptTopic",
+    "form_id": "020122A1|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchCourierWeaponHighDeliveryTopic",
+    "form_id": "020122A4|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleCourierWeaponHighAcceptTopic",
+    "form_id": "020122A9|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleCourierWeaponHighDeliveryTopic",
+    "form_id": "020122AC|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachCourierWeaponHighAcceptTopic",
+    "form_id": "020122B1|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachCourierWeaponHighDeliveryTopic",
+    "form_id": "020122B4|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftCourierWeaponHighAcceptTopic",
+    "form_id": "020122B9|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftCourierWeaponHighDeliveryTopic",
+    "form_id": "020122BC|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdCourierWeaponHighAcceptTopic",
+    "form_id": "020122C1|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdCourierWeaponHighDeliveryTopic",
+    "form_id": "020122C4|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathCourierWeaponLowAcceptTopic",
+    "form_id": "0201282B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathCourierWeaponLowDeliveryTopic",
+    "form_id": "0201282E|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarCourierWeaponLowAcceptTopic",
+    "form_id": "02012833|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarCourierWeaponLowDeliveryTopic",
+    "form_id": "02012836|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchCourierWeaponLowAcceptTopic",
+    "form_id": "0201283B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchCourierWeaponLowDeliveryTopic",
+    "form_id": "0201283E|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleCourierWeaponLowAcceptTopic",
+    "form_id": "02012843|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleCourierWeaponLowDeliveryTopic",
+    "form_id": "02012846|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachCourierWeaponLowAcceptTopic",
+    "form_id": "0201284B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachCourierWeaponLowDeliveryTopic",
+    "form_id": "0201284E|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftCourierWeaponLowAcceptTopic",
+    "form_id": "02012853|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftCourierWeaponLowDeliveryTopic",
+    "form_id": "02012856|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdCourierWeaponLowAcceptTopic",
+    "form_id": "0201285B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdCourierWeaponLowDeliveryTopic",
+    "form_id": "0201285E|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathCourierWeaponMedAcceptTopic",
+    "form_id": "02012DC5|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathCourierWeaponMedDeliveryTopic",
+    "form_id": "02012DC8|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarCourierWeaponMedAcceptTopic",
+    "form_id": "02012DCD|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarCourierWeaponMedDeliveryTopic",
+    "form_id": "02012DD0|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchCourierWeaponMedAcceptTopic",
+    "form_id": "02012DD5|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchCourierWeaponMedDeliveryTopic",
+    "form_id": "02012DD8|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleCourierWeaponMedAcceptTopic",
+    "form_id": "02012DDD|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleCourierWeaponMedDeliveryTopic",
+    "form_id": "02012DE0|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachCourierWeaponMedAcceptTopic",
+    "form_id": "02012DE5|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachCourierWeaponMedDeliveryTopic",
+    "form_id": "02012DE8|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftCourierWeaponMedAcceptTopic",
+    "form_id": "02012DED|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftCourierWeaponMedDeliveryTopic",
+    "form_id": "02012DF0|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdCourierWeaponMedAcceptTopic",
+    "form_id": "02012DF4|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdCourierWeaponMedDeliveryTopic",
+    "form_id": "02012DF7|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma de <Alias=QuestGiver> de <Alias=City>... Oh, por cierto, ese daño ya estaba cuando este la recibió, ¿sí? Confía en Khajiit, <Alias.Pronoun=Player> no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathGatherIngrHighRewardTopic",
+    "form_id": "02013360|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarGatherIngrHighRewardTopic",
+    "form_id": "02013370|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchGatherIngrHighRewardTopic",
+    "form_id": "02013374|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleGatherIngrHighRewardTopic",
+    "form_id": "02013378|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachGatherIngrHighRewardTopic",
+    "form_id": "0201337C|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftGatherIngrHighRewardTopic",
+    "form_id": "02013380|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdGatherIngrHighRewardTopic",
+    "form_id": "02013384|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathGatherIngrLowRewardTopic",
+    "form_id": "020133A4|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarGatherIngrLowRewardTopic",
+    "form_id": "020133A8|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchGatherIngrLowRewardTopic",
+    "form_id": "020133AC|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleGatherIngrLowRewardTopic",
+    "form_id": "020133B0|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachGatherIngrLowRewardTopic",
+    "form_id": "020133B4|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftGatherIngrLowRewardTopic",
+    "form_id": "020133B8|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdGatherIngrLowRewardTopic",
+    "form_id": "020133BC|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathGatherIngrMedRewardTopic",
+    "form_id": "020133C0|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarGatherIngrMedRewardTopic",
+    "form_id": "020133C4|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchGatherIngrMedRewardTopic",
+    "form_id": "020133C8|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleGatherIngrMedRewardTopic",
+    "form_id": "020133CC|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachGatherIngrMedRewardTopic",
+    "form_id": "020133D0|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftGatherIngrMedRewardTopic",
+    "form_id": "02013937|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdGatherIngrMedRewardTopic",
+    "form_id": "0201393B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathGatherInnRewardTopic",
+    "form_id": "02013EAF|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you needed.",
+    "string": "Ah, Lunas Radiantes para ti, amigo. Entonces, es un <Alias=Item>, ¿sí? Muy bien. Tu total es... llevar el uno... más gastos... y seguro de 'protección'... ¿Podría este Khajiit reclamar millaje en esta cuenta, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarGatherInnRewardTopic",
+    "form_id": "02013EB3|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you needed.",
+    "string": "Ah, Lunas Radiantes para ti, amigo. Entonces, es un <Alias=Item>, ¿sí? Muy bien. Tu total es... llevar el uno... más gastos... y seguro de 'protección'... ¿Podría este Khajiit reclamar millaje en esta cuenta, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchGatherInnRewardTopic",
+    "form_id": "02013EB7|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you needed.",
+    "string": "Ah, Lunas Radiantes para ti, amigo. Entonces, es un <Alias=Item>, ¿sí? Muy bien. Tu total es... llevar el uno... más gastos... y seguro de 'protección'... ¿Podría este Khajiit reclamar millaje en esta cuenta, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleGatherInnRewardTopic",
+    "form_id": "02013EBB|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you needed.",
+    "string": "Ah, Lunas Radiantes para ti, amigo. Entonces, es un <Alias=Item>, ¿sí? Muy bien. Tu total es... llevar el uno... más gastos... y seguro de 'protección'... ¿Podría este Khajiit reclamar millaje en esta cuenta, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachGatherInnRewardTopic",
+    "form_id": "02013EBF|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you needed.",
+    "string": "Ah, Lunas Radiantes para ti, amigo. Entonces, es un <Alias=Item>, ¿sí? Muy bien. Tu total es... llevar el uno... más gastos... y seguro de 'protección'... ¿Podría este Khajiit reclamar millaje en esta cuenta, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftGatherInnRewardTopic",
+    "form_id": "02013EC3|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you needed.",
+    "string": "Ah, Lunas Radiantes para ti, amigo. Entonces, es un <Alias=Item>, ¿sí? Muy bien. Tu total es... llevar el uno... más gastos... y seguro de 'protección'... ¿Podría este Khajiit reclamar millaje en esta cuenta, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdGatherInnRewardTopic",
+    "form_id": "02013EC7|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you needed.",
+    "string": "Ah, Lunas Radiantes para ti, amigo. Entonces, es un <Alias=Item>, ¿sí? Muy bien. Tu total es... llevar el uno... más gastos... y seguro de 'protección'... ¿Podría este Khajiit reclamar millaje en esta cuenta, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathGatherOreHighRewardTopic",
+    "form_id": "0201443B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarGatherOreHighRewardTopic",
+    "form_id": "0201443F|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchGatherOreHighRewardTopic",
+    "form_id": "02014443|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleGatherOreHighRewardTopic",
+    "form_id": "02014447|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachGatherOreHighRewardTopic",
+    "form_id": "0201444B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftGatherOreHighRewardTopic",
+    "form_id": "0201444F|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdGatherOreHighRewardTopic",
+    "form_id": "02014453|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathGatherOreLowRewardTopic",
+    "form_id": "020149C7|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarGatherOreLowRewardTopic",
+    "form_id": "020149CB|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchGatherOreLowRewardTopic",
+    "form_id": "020149CF|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleGatherOreLowRewardTopic",
+    "form_id": "020149D3|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachGatherOreLowRewardTopic",
+    "form_id": "020149D7|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftGatherOreLowRewardTopic",
+    "form_id": "020149DB|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdGatherOreLowRewardTopic",
+    "form_id": "020149DF|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathGatherOreMedRewardTopic",
+    "form_id": "02014F53|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarGatherOreMedRewardTopic",
+    "form_id": "02014F57|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdGatherOreMedRewardTopic",
+    "form_id": "02014F5B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchGatherOreMedRewardTopic",
+    "form_id": "02014F5F|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleGatherOreMedRewardTopic",
+    "form_id": "02014F63|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachGatherOreMedRewardTopic",
+    "form_id": "02014F67|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftGatherOreMedRewardTopic",
+    "form_id": "02014F6B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathGatherOreVeryHighRewardTopic",
+    "form_id": "020154DF|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarGatherOreVeryHighRewardTopic",
+    "form_id": "020154E3|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchGatherOreVeryHighRewardTopic",
+    "form_id": "020154E7|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleGatherOreVeryHighRewardTopic",
+    "form_id": "020154EB|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachGatherOreVeryHighRewardTopic",
+    "form_id": "020154EF|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftGatherOreVeryHighRewardTopic",
+    "form_id": "020154F3|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdGatherOreVeryHighRewardTopic",
+    "form_id": "020154F7|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathGatherSoulGemHighRewardTopic",
+    "form_id": "02015A6C|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarGatherSoulGemHighRewardTopic",
+    "form_id": "02015A70|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchGatherSoulGemHighRewardTopic",
+    "form_id": "02015A74|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleGatherSoulGemHighRewardTopic",
+    "form_id": "02015A78|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachGatherSoulGemHighRewardTopic",
+    "form_id": "02015A7C|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftGatherSoulGemHighRewardTopic",
+    "form_id": "02015A80|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdGatherSoulGemHighRewardTopic",
+    "form_id": "02015A84|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkerathGatherSoulGemLowRewardTopic",
+    "form_id": "02015FF9|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarGatherSoulGemLowRewardTopic",
+    "form_id": "02015FFD|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchGatherSoulGemLowRewardTopic",
+    "form_id": "02016001|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleGatherSoulGemLowRewardTopic",
+    "form_id": "02016005|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachGatherSoulGemLowRewardTopic",
+    "form_id": "02016009|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftGatherSoulGemLowRewardTopic",
+    "form_id": "0201600D|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdGatherSoulGemLowRewardTopic",
+    "form_id": "02016011|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathGatherSoulGemMedRewardTopic",
+    "form_id": "02016584|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarGatherSoulGemMedRewardTopic",
+    "form_id": "02016588|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchGatherSoulGemMedRewardTopic",
+    "form_id": "0201658C|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleGatherSoulGemMedRewardTopic",
+    "form_id": "02016590|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachGatherSoulGemMedRewardTopic",
+    "form_id": "02016594|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftGatherSoulGemMedRewardTopic",
+    "form_id": "02016598|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdGatherSoulGemMedRewardTopic",
+    "form_id": "0201659C|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Hay otras formas de obtener estos <Alias=Item>s además del correo, ¿no? Toma un pasatiempo y hazlos tú mismo, ¿sí? O entra a tu mazmorra local y recógelos, quizás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathKillAnimalRewardTopic",
+    "form_id": "02016B02|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias=Dungeon> has been cleared, I'm here for the bounty.",
+    "string": "Este Khajiit limpió <Alias=Dungeon> como pediste, ¿sí? Aquí es donde le das a <Alias.PronounObj=Player> montones de tesoros...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarKillAnimalRewardTopic",
+    "form_id": "02016B06|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias=Dungeon> has been cleared, I'm here for the bounty.",
+    "string": "Este Khajiit limpió <Alias=Dungeon> como pediste, ¿sí? Aquí es donde le das a <Alias.PronounObj=Player> montones de tesoros...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchKillAnimalRewardTopic",
+    "form_id": "02016B0A|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias=Dungeon> has been cleared, I'm here for the bounty.",
+    "string": "Este Khajiit limpió <Alias=Dungeon> como pediste, ¿sí? Aquí es donde le das a <Alias.PronounObj=Player> montones de tesoros...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleKillAnimalRewardTopic",
+    "form_id": "02016B0E|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias=Dungeon> has been cleared, I'm here for the bounty.",
+    "string": "Este Khajiit limpió <Alias=Dungeon> como pediste, ¿sí? Aquí es donde le das a <Alias.PronounObj=Player> montones de tesoros...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachKillAnimalRewardTopic",
+    "form_id": "02016B12|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias=Dungeon> has been cleared, I'm here for the bounty.",
+    "string": "Este Khajiit limpió <Alias=Dungeon> como pediste, ¿sí? Aquí es donde le das a <Alias.PronounObj=Player> montones de tesoros...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftKillAnimalRewardTopic",
+    "form_id": "02016B16|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias=Dungeon> has been cleared, I'm here for the bounty.",
+    "string": "Este Khajiit limpió <Alias=Dungeon> como pediste, ¿sí? Aquí es donde le das a <Alias.PronounObj=Player> montones de tesoros...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdKillAnimalRewardTopic",
+    "form_id": "02016B1A|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias=Dungeon> has been cleared, I'm here for the bounty.",
+    "string": "Este Khajiit limpió <Alias=Dungeon> como pediste, ¿sí? Aquí es donde le das a <Alias.PronounObj=Player> montones de tesoros...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathKillBanditRewardTopic",
+    "form_id": "02017080|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The leader of <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El líder de <Alias=Dungeon> ha sido enviado al Vacío. Este Khajiit está aquí por la recompensa, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarKillBanditRewardTopic",
+    "form_id": "02017084|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The leader of <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El líder de <Alias=Dungeon> ha sido enviado al Vacío. Este Khajiit está aquí por la recompensa, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchKillBanditRewardTopic",
+    "form_id": "02017088|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The leader of <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El líder de <Alias=Dungeon> ha sido enviado al Vacío. Este Khajiit está aquí por la recompensa, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleKillBanditRewardTopic",
+    "form_id": "0201708C|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The leader of <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El líder de <Alias=Dungeon> ha sido enviado al Vacío. Este Khajiit está aquí por la recompensa, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachKillForswornRewardTopic",
+    "form_id": "02017090|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The leader of <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El líder de <Alias=Dungeon> ha sido enviado al Vacío. Este Khajiit está aquí por la recompensa, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftKillBanditRewardTopic",
+    "form_id": "02017094|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The leader of <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El líder de <Alias=Dungeon> ha sido enviado al Vacío. Este Khajiit está aquí por la recompensa, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdKillBanditRewardTopic",
+    "form_id": "02017098|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The leader of <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El líder de <Alias=Dungeon> ha sido enviado al Vacío. Este Khajiit está aquí por la recompensa, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleKillGiantRewardTopic",
+    "form_id": "0201709C|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The giant at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El Gigante en <Alias=Dungeon> está muerto, aquí está su dedo del pie como prueba para la recompensa. Huele como coliflor podrida.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathKillDragonRewardTopic",
+    "form_id": "020170A0|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The dragon at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El dragón en <Alias=Dungeon> está derrotado. ¿Quién sabía que tenía un espíritu tan 'ardiente', hmm? Je-je-je... <Alias=Player> se toma a la ligera las situaciones mortales, en efecto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarKillDragonRewardTopic",
+    "form_id": "020170A4|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The dragon at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El dragón en <Alias=Dungeon> está derrotado. ¿Quién sabía que tenía un espíritu tan 'ardiente', hmm? Je-je-je... <Alias=Player> se toma a la ligera las situaciones mortales, en efecto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchKillDragonRewardTopic",
+    "form_id": "020170A8|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The dragon at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El dragón en <Alias=Dungeon> está derrotado. ¿Quién sabía que tenía un espíritu tan 'ardiente', hmm? Je-je-je... <Alias=Player> se toma a la ligera las situaciones mortales, en efecto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleKillDragonRewardTopic",
+    "form_id": "020170AC|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The dragon at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El dragón en <Alias=Dungeon> está derrotado. ¿Quién sabía que tenía un espíritu tan 'ardiente', hmm? Je-je-je... <Alias=Player> se toma a la ligera las situaciones mortales, en efecto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachKillDragonRewardTopic",
+    "form_id": "020170B0|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The dragon at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El dragón en <Alias=Dungeon> está derrotado. ¿Quién sabía que tenía un espíritu tan 'ardiente', hmm? Je-je-je... <Alias=Player> se toma a la ligera las situaciones mortales, en efecto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftKillDragonRewardTopic",
+    "form_id": "020170B4|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The dragon at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El dragón en <Alias=Dungeon> está derrotado. ¿Quién sabía que tenía un espíritu tan 'ardiente', hmm? Je-je-je... <Alias=Player> se toma a la ligera las situaciones mortales, en efecto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdKillDragonRewardTopic",
+    "form_id": "020170B8|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The dragon at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El dragón en <Alias=Dungeon> está derrotado. ¿Quién sabía que tenía un espíritu tan 'ardiente', hmm? Je-je-je... <Alias=Player> se toma a la ligera las situaciones mortales, en efecto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathRetrieveHideoutRewardTopic",
+    "form_id": "0201761E|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarRetrieveHideoutRewardTopic",
+    "form_id": "02017622|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchRetrieveHideoutRewardTopic",
+    "form_id": "02017626|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleRetrieveHideoutRewardTopic",
+    "form_id": "0201762A|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachRetrieveHideoutRewardTopic",
+    "form_id": "0201762E|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftRetrieveHideoutRewardTopic",
+    "form_id": "02017632|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdRetrieveHideoutRewardTopic",
+    "form_id": "02017636|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathRetrieveRuinsRewardTopic",
+    "form_id": "0201763A|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarRetrieveRuinsRewardTopic",
+    "form_id": "0201763E|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchRetrieveRuinsRewardTopic",
+    "form_id": "02017642|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleRetrieveRuinsRewardTopic",
+    "form_id": "02017646|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachRetrieveRuinsRewardTopic",
+    "form_id": "0201764A|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftRetrieveRuinsRewardTopic",
+    "form_id": "0201764E|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdRetrieveRuinsRewardTopic",
+    "form_id": "02017652|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Solo una parada más después de este <Alias=Item>, y este Khajiit tendrá la mayor cantidad de entregas este mes, en efecto! ¿Recibirá este una pintura de retrato de <Alias.PronounRef=Player> colgada en alguna pared para que todos admiren este logro, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathRetrieveWildernessRewardTopic",
+    "form_id": "02017656|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarRetrieveWildernessRewardTopic",
+    "form_id": "0201765A|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchRetrieveWildernessRewardTopic",
+    "form_id": "0201765E|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleRetrieveWildernessRewardTopic",
+    "form_id": "02017662|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachRetrieveWildernessRewardTopic",
+    "form_id": "02017666|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftRetrieveWildernessRewardTopic",
+    "form_id": "0201766A|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdRetrieveWildernessRewardTopic",
+    "form_id": "0201766E|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchTrackThiefRewardTopic",
+    "form_id": "0203370E|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunTrackVampireRewardTopic",
+    "form_id": "02036793|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The vampire terrorizing <Alias=Hold> is dead.",
+    "string": "El vampiro que aterrorizaba <Alias=Hold> ya no tiene 'interés' en el juego. ¡Ja-ja-ja! <Alias=Player> hace bromas para ocultar sus experiencias cercanas a la muerte...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathTrackThiefRewardTopic",
+    "form_id": "02036CFA|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarTrackThiefRewardTopic",
+    "form_id": "02036CFE|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchTrackThiefRewardTopic",
+    "form_id": "02036D05|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleTrackThiefRewardTopic",
+    "form_id": "02036D0A|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachTrackThiefRewardTopic",
+    "form_id": "02036D0F|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftTrackThiefRewardTopic",
+    "form_id": "02037276|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunTrackThiefRewardTopic",
+    "form_id": "0203727B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdTrackThiefRewardTopic",
+    "form_id": "02037280|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Oh! ¡Por las Dos Lunas, tienes suerte en efecto! ¡Este Khajiit tuvo que arrancar estos <Alias.BaseName=Item> de una manada de lobos para traerlos aquí! Tantos... dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchTrackVampireRewardTopic",
+    "form_id": "020382D3|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The vampire terrorizing <Alias=Hold> is dead.",
+    "string": "El vampiro que aterrorizaba <Alias=Hold> ya no tiene 'interés' en el juego. ¡Ja-ja-ja! <Alias=Player> hace bromas para ocultar sus experiencias cercanas a la muerte...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathTrackVampireRewardTopic",
+    "form_id": "020382D8|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The vampire terrorizing <Alias=Hold> is dead.",
+    "string": "El vampiro que aterrorizaba <Alias=Hold> ya no tiene 'interés' en el juego. ¡Ja-ja-ja! <Alias=Player> hace bromas para ocultar sus experiencias cercanas a la muerte...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarTrackVampireRewardTopic",
+    "form_id": "020382DD|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The vampire terrorizing <Alias=Hold> is dead.",
+    "string": "El vampiro que aterrorizaba <Alias=Hold> ya no tiene 'interés' en el juego. ¡Ja-ja-ja! <Alias=Player> hace bromas para ocultar sus experiencias cercanas a la muerte...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchTrackVampireRewardTopic",
+    "form_id": "020382E2|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The vampire terrorizing <Alias=Hold> is dead.",
+    "string": "El vampiro que aterrorizaba <Alias=Hold> ya no tiene 'interés' en el juego. ¡Ja-ja-ja! <Alias=Player> hace bromas para ocultar sus experiencias cercanas a la muerte...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleTrackVampireRewardTopic",
+    "form_id": "020382E7|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The vampire terrorizing <Alias=Hold> is dead.",
+    "string": "El vampiro que aterrorizaba <Alias=Hold> ya no tiene 'interés' en el juego. ¡Ja-ja-ja! <Alias=Player> hace bromas para ocultar sus experiencias cercanas a la muerte...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftTrackVampireRewardTopic",
+    "form_id": "020382EE|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The vampire terrorizing <Alias=Hold> is dead.",
+    "string": "El vampiro que aterrorizaba <Alias=Hold> ya no tiene 'interés' en el juego. ¡Ja-ja-ja! <Alias=Player> hace bromas para ocultar sus experiencias cercanas a la muerte...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdTrackVampireRewardTopic",
+    "form_id": "020382F3|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The vampire terrorizing <Alias=Hold> is dead.",
+    "string": "El vampiro que aterrorizaba <Alias=Hold> ya no tiene 'interés' en el juego. ¡Ja-ja-ja! <Alias=Player> hace bromas para ocultar sus experiencias cercanas a la muerte...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachTrackVampireRewardTopic",
+    "form_id": "02038858|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The vampire terrorizing <Alias=Hold> is dead.",
+    "string": "El vampiro que aterrorizaba <Alias=Hold> ya no tiene 'interés' en el juego. ¡Ja-ja-ja! <Alias=Player> hace bromas para ocultar sus experiencias cercanas a la muerte...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchCourierPotionLowAcceptTopic",
+    "form_id": "02039E08|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchCourierPotionLowDeliveryTopic",
+    "form_id": "02039E0B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathCourierPotionLowAcceptTopic",
+    "form_id": "0203A374|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathCourierPotionLowDeliveryTopic",
+    "form_id": "0203A377|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarCourierPotionLowAcceptTopic",
+    "form_id": "0203A37E|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarCourierPotionLowDeliveryTopic",
+    "form_id": "0203A381|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchCourierPotionLowAcceptTopic",
+    "form_id": "0203A388|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchCourierPotionLowDeliveryTopic",
+    "form_id": "0203A38B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleCourierPotionLowAcceptTopic",
+    "form_id": "0203B3BD|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleCourierPotionLowDeliveryTopic",
+    "form_id": "0203B3C3|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachCourierPotionLowAcceptTopic",
+    "form_id": "0203B3C5|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachCourierPotionLowDeliverTopic",
+    "form_id": "0203B3C9|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftCourierPotionLowAcceptTopic",
+    "form_id": "0203B3CB|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftCourierPotionLowDeliverTopic",
+    "form_id": "0203B3CF|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunCourierPotionLowAcceptTopic",
+    "form_id": "0203B3D1|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunCourierPotionLowDeliverTopic",
+    "form_id": "0203B3D5|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdCourierPotionLowAcceptTopic",
+    "form_id": "0203B3E1|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdCourierPotionLowDeliverTopic",
+    "form_id": "0203B3E7|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchCourierPotionHighAcceptTopic",
+    "form_id": "0203D9B0|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchCourierPotionMedAcceptTopic",
+    "form_id": "0203D9B3|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathCourierPotionHighAcceptTopic",
+    "form_id": "0203D9B6|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathCourierPotionMedAcceptTopic",
+    "form_id": "0203D9B9|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarCourierPotionHighAcceptTopic",
+    "form_id": "0203D9BC|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarCourierPotionMedAcceptTopic",
+    "form_id": "0203D9BF|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchCourierPotionHighAcceptTopic",
+    "form_id": "0203D9C2|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchCourierPotionMedAcceptTopic",
+    "form_id": "0203D9C5|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleCourierPotionHighAcceptTopic",
+    "form_id": "0203D9C8|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleCourierPotionMedAcceptTopic",
+    "form_id": "0203D9CB|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachCourierPotionHighAcceptTopic",
+    "form_id": "0203D9CE|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachCourierPotionMedAcceptTopic",
+    "form_id": "0203D9D3|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftCourierPotionHighAcceptTopic",
+    "form_id": "0203D9D6|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftCourierPotionMedAcceptTopic",
+    "form_id": "0203D9D9|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunCourierPotionHighAcceptTopic",
+    "form_id": "0203D9DC|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunCourierPotionMedAcceptTopic",
+    "form_id": "0203D9DF|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdCourierPotionHighAcceptTopic",
+    "form_id": "0203D9E2|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdCourierPotionMedAcceptTopic",
+    "form_id": "0203D9E5|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee aquí por el trabajo de entrega... Argoniano complace esto, ¿sii? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto es convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchCourierPotionHighDeliveryTopic",
+    "form_id": "0203D9EB|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestEastmarchCourierPotionMedDeliveryTopic",
+    "form_id": "0203D9F1|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathCourierPotionHighDeliveryTopic",
+    "form_id": "0203D9F7|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestFalkreathCourierPotionMedDeliveryTopic",
+    "form_id": "0203D9FD|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarCourierPotionHighDeliveryTopic",
+    "form_id": "0203DA03|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHaafingarCourierPotionMedDeliveryTopic",
+    "form_id": "0203DA09|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchCourierPotionHighDeliveryTopic",
+    "form_id": "0203DA0F|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestHjaalmarchCourierPotionMedDeliveryTopic",
+    "form_id": "0203DA15|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleCourierPotionHighDeliveryTopic",
+    "form_id": "0203DA1B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestPaleCourierPotionMedDeliveryTopic",
+    "form_id": "0203DA21|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachCourierPotionHighDeliveryTopic",
+    "form_id": "0203DA27|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestReachCourierPotionMedDeliveryTopic",
+    "form_id": "0203DA2D|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftCourierPotionHighDeliveryTopic",
+    "form_id": "0203DA33|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestRiftCourierPotionMedDeliveryTopic",
+    "form_id": "0203DA39|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunCourierPotionHighDeliveryTopic",
+    "form_id": "0203DA3F|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWhiterunCourierPotionMedDeliveryTopic",
+    "form_id": "0203DA45|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdCourierPotionHighDeliveryTopic",
+    "form_id": "0203DA4B|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestWinterholdCourierPotionMedDeliveryTopic",
+    "form_id": "0203DA51|Missives.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "(carraspea) ¡Ahem! Los árboles son verdes... y el cielo es azul... <Alias=QuestGiver> de <Alias=City>... ¡envió esta poción para ti! Esto es una buena rima, ¿sí?",
+    "status": "TranslationComplete"
+  }
+]

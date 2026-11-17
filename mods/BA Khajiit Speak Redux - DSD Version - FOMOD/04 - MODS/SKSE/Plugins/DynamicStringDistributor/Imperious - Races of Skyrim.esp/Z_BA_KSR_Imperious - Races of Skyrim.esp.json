@@ -1,0 +1,524 @@
+[
+  {
+    "editor_id": "RRR_Altmer_Contingency_Message_09",
+    "form_id": "03800199|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "When you leave combat\r\nCooldown: 10 seconds",
+    "string": "Cuando termina el combate:\r\n\r\nTiempo de recarga: 10 segundos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Bosmer_StudyThePrey_Message",
+    "form_id": "038000C2|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose which aspects of the target to study.",
+    "string": "¿Qué aspectos del objetivo debería estudiar este, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Breton_Perception_Message_Success",
+    "form_id": "03800181|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You found something.",
+    "string": "¿Qué es esto, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Altmer_LivingArcana_Message_3",
+    "form_id": "038002C9|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spell Cost Reduced",
+    "string": "Los costos de hechizo ahora se reducen!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Dunmer_SpiritWalk_Message_SpendCharges",
+    "form_id": "03800256|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What would you like to do?",
+    "string": "¿Qué ahora, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Dunmer_SpiritWalk_Message_SpendCharges",
+    "form_id": "03800256|Imperious - Races of Skyrim.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Summon 2 Ancestors",
+    "string": "Invocar (2) Ancestros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Dunmer_SpiritWalk_Message_SpendCharges",
+    "form_id": "03800256|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Spend <15> Ancestral Guardian charges to summon 8 Ancestors",
+    "string": "Gastar <15> cargas de Guardián Ancestral para invocar (8) Ancestros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Nord_ThePurge_Message_10",
+    "form_id": "03800260|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "History of War\r\n\r\nYou may choose a race. Weapons and spells are 35%% more effective against the chosen race. This choice is permanent.",
+    "string": "Historia de la Guerra\r\n\r\nElige una raza.\r\n\r\nLas armas y hechizos son 35%% más efectivos contra la raza elegida.\r\n\r\nEsta elección es permanente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Redguard_RedSandCharge_Message",
+    "form_id": "038001F8|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You deal %.0f%% damage!",
+    "string": "¡%.0f%% de daño fue infligido!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Altmer_Contingency_Message_12",
+    "form_id": "0380019B|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "When you gain a beneficial alchemy effect\r\nCooldown: 60 seconds",
+    "string": "Cuando se obtiene un efecto beneficioso de alquimia:\r\n\r\nTiempo de recarga: 60 segundos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Imperial_TheHumanSpirit_Message_10_Reduce",
+    "form_id": "038001CA|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose an attribute to reduce by 50 points.",
+    "string": "Elige un atributo para reducir en -50 puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Bosmer_GreenPact_Message_HungryAgain",
+    "form_id": "0380033D|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You may eat another corpse.",
+    "string": "Mmm, otro cadáver para comer...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Altmer_Contingency_Message_07",
+    "form_id": "038000AE|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "When you fall below 25%% Stamina\r\nCooldown: 30 seconds",
+    "string": "Cuando la aguante cae por debajo del 25%%:\r\n\r\nTiempo de recarga: 30 segundos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Bosmer_BeastTongue_Message_Success",
+    "form_id": "03800180|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "An animal is on its way to you.",
+    "string": "¡Un animal ha sido invocado y viene en camino!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Altmer_LivingArcana_Message_2",
+    "form_id": "038002C8|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spell Duration Increased",
+    "string": "¡La duración del hechizo ahora se incrementa!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Altmer_LivingArcana_Message_1",
+    "form_id": "038002C7|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spell Magnitude Increased",
+    "string": "¡La magnitud del hechizo ahora se incrementa!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Bosmer_StudyThePrey_Message_Social",
+    "form_id": "038000C7|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Not hostile\r\n\r\nFriendship:  %.0f/3\r\nHatred:  %.0f/3\r\n\r\nAggression:  %.0f/4\r\nConfidence:  %.0f/4",
+    "string": "No hostil\r\n\r\nAmistad: %.0f/3\r\nOdio: %.0f/3\r\n\r\nAgresividad: %.0f/4\r\nConfianza: %.0f/4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Altmer_Contingency_Message_01",
+    "form_id": "038000A8|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "When you cast a spell\r\nCooldown: 60 seconds",
+    "string": "Cuando se lanza un hechizo:\r\n\r\nTiempo de recarga: 60 segundos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Altmer_Contingency_Message_Finished_Spell2",
+    "form_id": "03800198|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Added 2 spells to contingency.",
+    "string": "Añadidos dos (2) hechizos a la contingencia...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Bosmer_BeastTongue_Message_Fail",
+    "form_id": "0380003D|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No animals heed your call.",
+    "string": "Ningún animal atiende el llamado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Imperial_TheHumanSpirit_Message_10_Increase",
+    "form_id": "038001C9|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose an attribute to increase by 100 points.",
+    "string": "Elige un atributo para aumentar en +100 puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Imperial_TheHumanSpirit_Message_20_Increase",
+    "form_id": "038001CE|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose a resistance to increase by 50%%.",
+    "string": "Elige una resistencia para aumentar en +50%%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Nord_ShorsOath_Message",
+    "form_id": "038001A8|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The oath has been taken!",
+    "string": "¡El juramento ha sido hecho! ¡HUZZAH!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Imperial_Intel_Message_Fail",
+    "form_id": "03800055|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No human activity nearby.",
+    "string": "No hay actividad humana cerca...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Imperial_ImperialVirtues_Message_Stamina",
+    "form_id": "03800341|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Stamina Regen Increased",
+    "string": "La regeneración de aguante ahora se incrementa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Imperial_ImperialVirtues_Message_Magicka",
+    "form_id": "03800340|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Magicka Regen Increased",
+    "string": "La regeneración de magia ahora se incrementa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Imperial_ImperialVirtues_Message_Health",
+    "form_id": "0380033F|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Health Regen Increased",
+    "string": "La regeneración de salud ahora se incrementa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Altmer_Contingency_Message_00",
+    "form_id": "038000A7|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No trigger condition\r\nThe contingency will not trigger",
+    "string": "¡No hay condición de activación!\r\n\r\nLa contingencia no se activará",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Bosmer_BeastTongue_Message_CompanionRunsAway",
+    "form_id": "038000BF|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your animal companion will run from battle.",
+    "string": "Los compañeros animales huirán del combate.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Imperial_TheHumanSpirit_Message_30_Reduce2",
+    "form_id": "038001D6|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose a Thief skill to reduce by 10 points.",
+    "string": "Elige una habilidad de Ladrón para reducir en -10 puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Altmer_Contingency_Message_08",
+    "form_id": "038000AF|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "When you enter combat\r\nCooldown: 30 seconds",
+    "string": "Cuando comienza el combate:\r\n\r\nTiempo de recarga: 30 segundos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Altmer_Contingency_Message_14",
+    "form_id": "0380019E|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "When swimming\r\nCooldown: 20 seconds",
+    "string": "Cuando se nada:\r\n\r\nTiempo de recarga: 20 segundos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Altmer_Contingency_Message_WrongSpellType",
+    "form_id": "038000A2|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cannot store concentration, ritual or ground targeted spells.",
+    "string": "No es posible almacenar hechizos de concentración, rituales o de área.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Altmer_Contingency_Message_Finished_Spell1",
+    "form_id": "038000B3|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Added 1 spell to contingency.",
+    "string": "Añadido un (1) hechizo a la contingencia...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Imperial_TheHumanSpirit_Message_20",
+    "form_id": "038001D0|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The Human Spirit\r\n\r\nImperials can adapt to changing circumstances. Choose a resistance to increase by 50%% and a resistance to reduce by 25%%. Both resistances can be the same. This choice is permanent.",
+    "string": "El Espíritu Humano\r\n\r\nLos Imperiales pueden adaptarse a circunstancias cambiantes.\r\n\r\nElige una resistencia para aumentar en +50%% y una resistencia para reducir en -25%%. Ambas resistencias pueden ser la misma.\r\n\r\nEsta elección es permanente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Khajiit_EyesEverywhere_Message_Fail_InCombat",
+    "form_id": "0380030B|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This power cannot be used in combat.",
+    "string": "Claramente, este poder no puede usarse en combate...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Altmer_Contingency_Message_04",
+    "form_id": "038000AB|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "When you draw a weapon or spell\r\nCooldown: 60 seconds",
+    "string": "Cuando se desenvaina un arma o hechizo:\r\n\r\nTiempo de recarga: 60 segundos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Altmer_Contingency_Message_13",
+    "form_id": "0380019D|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "When you block\r\nCooldown: 60 seconds",
+    "string": "Cuando se bloquea:\r\n\r\nTiempo de recarga: 60 segundos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Imperial_TheHumanSpirit_Message_30_Increase1",
+    "form_id": "038001D3|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose a Mage skill to increase by 20 points.",
+    "string": "Elige una habilidad de Mago para aumentar en +20 puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Altmer_Contingency_Message_10",
+    "form_id": "038000B0|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "When you start sprinting\r\nCooldown: 60 seconds",
+    "string": "Cuando comienza el esprint:\r\n\r\nTiempo de recarga: 60 segundos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Imperial_TheHumanSpirit_Message_30_Increase3",
+    "form_id": "038001D2|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose a Warrior skill to increase by 20 points.",
+    "string": "Elige una habilidad de Guerrero para aumentar en +20 puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Altmer_Contingency_Message_06",
+    "form_id": "038000AD|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "When you fall below 25%% Magicka\r\nCooldown: 30 seconds",
+    "string": "Cuando la magia cae por debajo del 25%%:\r\n\r\nTiempo de recarga: 30 segundos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Imperial_TheHumanSpirit_Message_30_Increase2",
+    "form_id": "038001D4|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose a Thief skill to increase by 20 points.",
+    "string": "Elige una habilidad de Ladrón para aumentar en +20 puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Khajiit_EyesEverywhere_Message_Fail",
+    "form_id": "03800308|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No activity nearby.",
+    "string": "No hay actividades cercanas...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Imperial_TheHumanSpirit_Message_20_Reduce",
+    "form_id": "038001CF|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose a resistance to reduce by 25%%.",
+    "string": "Elige una resistencia para reducir en -25%%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Imperial_TheHumanSpirit_Message_10",
+    "form_id": "038001CD|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The Human Spirit\r\n\r\nImperials can adapt to changing circumstances. Choose an attribute to increase by 100 points and an attribute to reduce by 50 points. Both attributes can be the same. This choice is permanent.",
+    "string": "El Espíritu Humano\r\n\r\nLos Imperiales pueden adaptarse a circunstancias cambiantes.\r\n\r\nElige un atributo para aumentar en +100 puntos y un atributo para reducir en -50 puntos. Ambos atributos pueden ser el mismo.\r\n\r\nEsta elección es permanente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Altmer_Contingency_Message_05",
+    "form_id": "038000AC|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "When you fall below 25%% Health\r\nCooldown: 30 seconds",
+    "string": "Cuando la salud cae por debajo del 25%%:\r\n\r\nTiempo de recarga: 30 segundos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Imperial_TheHumanSpirit_Message_30",
+    "form_id": "038001D8|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The Human Spirit\r\n\r\nImperials can adapt to changing circumstances. Choose a Mage skill, a Thief skill and a Warrior skill to increase by 20 points and a Mage skill, a Thief skill and a Warrior skill to reduce by 10 points. Both skills can be the same. This choice is permanent.",
+    "string": "El Espíritu Humano\r\n\r\nLos Imperiales pueden adaptarse a circunstancias cambiantes.\r\n\r\nElige una habilidad de Mago, una habilidad de Ladrón y una habilidad de Guerrero para aumentar en +20 puntos y una habilidad de Mago, una habilidad de Ladrón y una habilidad de Guerrero para reducir en -10 puntos. Ambas habilidades pueden ser las mismas.\r\n\r\nEsta elección es permanente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Dunmer_Whispers_Message_Success",
+    "form_id": "03800221|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You hear strange whispers.",
+    "string": "Susurros extraños están en el viento...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Dunmer_Whispers_Message_Kill_SpiritWalk",
+    "form_id": "03800257|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The ancestors are satisfied.",
+    "string": "Los ancestros están satisfechos, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Imperial_TheHumanSpirit_Message_30_Reduce1",
+    "form_id": "038001D5|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose a Mage skill to reduce by 10 points.",
+    "string": "Elige una habilidad de Mago para reducir en -10 puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Dunmer_SpiritWalk_Message_Fail",
+    "form_id": "03800258|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The ancestors do not heed your call.",
+    "string": "Los ancestros no atienden el llamado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Dunmer_Whispers_Message_Kill",
+    "form_id": "03800247|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The ancestors are satisfied. (+%.0f Gold)",
+    "string": "Los ancestros están satisfechos, en verdad. (+%.0f septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Altmer_Contingency_Message_02",
+    "form_id": "038000A9|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "When you heal yourself\r\nCooldown: 40 seconds",
+    "string": "Cuando se lanza un hechizo de curación:\r\n\r\nTiempo de recarga: 40 segundos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Bosmer_StudyThePrey_Message_Hostile",
+    "form_id": "038000C8|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Hostile\r\n\r\nFriendship:  %.0f/3\r\nHatred:  %.0f/3\r\n\r\nAggression:  %.0f/4\r\nConfidence:  %.0f/4",
+    "string": "Hostil\r\n\r\nAmistad: %.0f/3\r\nOdio: %.0f/3\r\n\r\nAgresividad: %.0f/4\r\nConfianza: %.0f/4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Altmer_Contingency_Message_11",
+    "form_id": "0380019A|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "When you shout\r\nCooldown: 30 seconds",
+    "string": "Cuando se grita:\r\n\r\nTiempo de recarga: 30 segundos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Bosmer_Harrier_Message_FoundHuntedTarget",
+    "form_id": "03800227|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You hear the cry of a bird.",
+    "string": "Un canto de ave es escuchado por los oídos Khajiit...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RRR_Imperial_TheHumanSpirit_Message_30_Reduce3",
+    "form_id": "038001D7|Imperious - Races of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose a Warrior skill to reduce by 10 points.",
+    "string": "Elige una habilidad de Guerrero para reducir en -10 puntos.",
+    "status": "TranslationComplete"
+  }
+]

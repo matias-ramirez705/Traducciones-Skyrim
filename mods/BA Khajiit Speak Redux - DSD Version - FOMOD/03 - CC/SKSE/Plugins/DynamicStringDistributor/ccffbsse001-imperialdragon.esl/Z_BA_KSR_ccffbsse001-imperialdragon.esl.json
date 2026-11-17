@@ -1,0 +1,281 @@
+[
+  {
+    "editor_id": "ccFFBSSE001_QuestBranch01Topic",
+    "form_id": "0500088E|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Recibí el mensaje de que necesitabais un campeón.",
+    "string": "<Alias=Player> recibió su mensaje sobre la necesidad de un campeón. ¡Pues, ta-da!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088F|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Puedo enfrentarme al campeón imperial.",
+    "string": "<Alias=Player> está preparado para enfrentar al campeón Imperial.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000890|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Puedo enfrentarme al campeón Capa de la Tormenta.",
+    "string": "Khajiit está preparado para luchar contra el campeón de los Capa de la Tormenta.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000966|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "He oído que necesitáis un campeón.",
+    "string": "Los oídos de Khajiit escucharon que necesita un campeón, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000967|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "He oído que necesitáis un campeón.",
+    "string": "Los oídos de Khajiit escucharon que necesita un campeón, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_QuestBranch02Topic",
+    "form_id": "05000893|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He venido por esos perros imperiales.",
+    "string": "<Alias=Player> ha venido por los perros Imperiales. La vuelta de tuerca es graciosa, ¿no? Gatos persiguiendo perros...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000895|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "He venido por esos rebeldes Capas de la Tormenta",
+    "string": "<Alias=Player> ha venido por los rebeldes Capas de la Tormenta. ¿Apestan tanto como dicen los rumores?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_QuestBranch03Topic",
+    "form_id": "05000896|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He oído que tenías trabajo para mí.",
+    "string": "Los oídos de Khajiit escucharon que tenía trabajo para <Alias.PronounObj=Player>, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_QuestBranch01TopicA",
+    "form_id": "05000899|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tengo aguante de sobra.",
+    "string": "¡Ja! <Alias=Player> tiene agallas, ciertamente. Y un poco más...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089B|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Puedo arreglármelas tranquilamente.",
+    "string": "Naturalmente, <Alias=Player> puede con esto. ¡Khajiit siempre da 110%!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_QuestBranch01TopicB",
+    "form_id": "0500089C|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¡Pueden darse por muertos!",
+    "string": "Están \"prácticamente muertos\", amigo. Pero si estar muerto es malo, quizás esa frase debería ser \"tan malos como muertos\", ¿no?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089D|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Esos rebeldes Capas de la Tormenta pueden darse por muertos.",
+    "string": "¡Esos rebeldes Capas de la Tormenta son carne muerta! Bueno, actualmente son carne viva, pero más tarde serán carne muerta.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_QuestBranch01TopicC",
+    "form_id": "0500089F|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Haré lo que pueda.",
+    "string": "Khajiit hará su mejor esfuerzo por <Alias.PronounPosObj=Player>, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_QuestBranch01TopicD",
+    "form_id": "050008A2|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Los Nueve nos guiarán hacia la victoria.",
+    "string": "Los Nueve mostrarán el camino a la victoria, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A3|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Debemos luchar? ¿Verá Skyrim la paz algún día?",
+    "string": "¿Debe ocurrir esta pelea? ¿Cuándo conocerá Skyrim la paz, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_QuestBranch01TopicE",
+    "form_id": "050008A5|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "En este momento no tengo tiempo.",
+    "string": "Ocupado, ocupado, ocupado. Khajiit está demasiado ocupado para esto.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_QuestBranch04Topic",
+    "form_id": "050008A8|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Quiero ocupar el lugar de tu campeón. Aquí tienes lo que habías pedido.",
+    "string": "<Alias=Player> desea luchar como su campeón, amigo. Aquí está lo que pidió.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A9|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "He oído que buscáis un soldado para enfrentarse al campeón Capa de la Tormenta.",
+    "string": "Los oídos de Khajiit escucharon que busca un soldado para enfrentar a un campeón Proscrito, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000870|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "He oído que buscáis un soldado para enfrentarse al campeón Capa de la Tormenta.",
+    "string": "Los oídos de Khajiit escucharon que busca un soldado para enfrentar al campeón de los Capas de la Tormenta, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AA|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "He oído que buscabas un campeón. Soy leal al Imperio. (Persuadir)",
+    "string": "Los oídos de Khajiit escucharon que busca un campeón. Este uno es leal al Imperio, amigo. (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AB|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "He oído que buscabas un campeón. Soy leal al Imperio. (Persuadir)",
+    "string": "Los oídos de Khajiit escucharon que busca un campeón. Este uno es leal al Imperio, amigo. (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_QuestBranch04TopicA",
+    "form_id": "050008AE|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Cuál es la misión?",
+    "string": "¿Cuál es la misión, exactamente?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_QuestBranch04TopicB",
+    "form_id": "050008B0|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Creo que podemos ayudarnos mutuamente.",
+    "string": "Quizás haya algunos objetivos comunes aquí, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B9|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sin usar",
+    "string": "No usado  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_QuestBranch05TopicA",
+    "form_id": "050008CF|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Pues empecemos.",
+    "string": "¿Hora de comenzar, sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_QuestBranch05TopicB",
+    "form_id": "050008D2|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No perdamos más el tiempo.",
+    "string": "El tiempo se desperdicia, ciertamente.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D4|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "De acuerdo. Vamos a ello.",
+    "string": "De acuerdo. \"¡Hora de hacer los rollos dulces!\" Khajiit está probando una nueva frase...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_QuestBranch05TopicC",
+    "form_id": "050008D6|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Les daremos un combate que recordar.",
+    "string": "Entonces ¡esta debería ser una guerra que nunca olvidarán!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D8|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Que los bardos escriban poemas sobre este combate.",
+    "string": "¡Esta batalla será cantada por todos los bardos de Nirn!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_QuestBranch05TopicD",
+    "form_id": "050008DA|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Y ahora muere, cerdo imperial.",
+    "string": "Y ahora morirás, cerdo Imperial. Esto es insultante, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DC|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hora de morir, perro rebelde.",
+    "string": "¡Hora de morir, perro rebelde! (ladrido)  ",
+    "status": "TranslationComplete"
+  }
+]

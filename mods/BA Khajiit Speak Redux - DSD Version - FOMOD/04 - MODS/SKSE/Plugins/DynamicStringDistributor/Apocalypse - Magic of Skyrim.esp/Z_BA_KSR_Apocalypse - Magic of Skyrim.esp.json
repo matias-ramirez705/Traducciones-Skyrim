@@ -1,0 +1,1136 @@
+[
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_7_Potion_Failure",
+    "form_id": "030A5912|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You do not sense any potions.",
+    "string": "Hmm... parece que no hay pociones dentro del alcance para este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_7_Potion_Success",
+    "form_id": "030A5913|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Potion found.",
+    "string": "¡Este ha encontrado una poción!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateValuables_Failure",
+    "form_id": "030A5917|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You do not sense any valuables.",
+    "string": "Hmm... parece que no hay objetos de valor dentro del alcance para este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateValuables_Success",
+    "form_id": "030A5918|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Valuables found.",
+    "string": "¡Este ha encontrado algunos objetos de valor!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_DoorToAnywhere",
+    "form_id": "030A5E82|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Create which portal?",
+    "string": "Este debe elegir un portal para crear.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_8_Mineral_Failure",
+    "form_id": "030A799F|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You do not sense any minerals.",
+    "string": "Hmm... parece que no hay minerales dentro del alcance para este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_8_Mineral_Success",
+    "form_id": "030A79A0|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Mineral found.",
+    "string": "¡Este ha encontrado un mineral!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_9_Equipment_Failure",
+    "form_id": "030A79A3|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You do not sense any equipment.",
+    "string": "Hmm... parece que no hay equipo dentro del alcance para este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_9_Equipment_Success",
+    "form_id": "030A79A4|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Equipment found.",
+    "string": "¡Este ha encontrado algo de equipo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_5_SoulGem_Failure",
+    "form_id": "030A79A5|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You do not sense any soul gems.",
+    "string": "Hmm... parece que no hay gemas de alma dentro del alcance para este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_5_SoulGem_Success",
+    "form_id": "030A79A6|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Soul gem found.",
+    "string": "¡Este ha encontrado una gema de alma!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_TharnsPrison",
+    "form_id": "030ABFE2|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Target imprisoned.",
+    "string": "¡El objetivo ha sido aprisionado por este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationEarth_Message_Entomb_Insanity",
+    "form_id": "030AE5AF|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your victim has gone insane!",
+    "string": "Interesante, en verdad. ¡La víctima se ha vuelto loca, según este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_RestorationNecro_Message_FingerOfDeath",
+    "form_id": "030DEEEE|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You take %.0f damage!",
+    "string": "¡Khajiit ha recibido %.0f de daño!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_IllusionEmpathy_Message_SharedTrauma_NoOldSource",
+    "form_id": "030CD2D7|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No previous target exists.",
+    "string": "No existe objetivo previo. ¿A dónde desapareció, según este, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_RestorationArkay_Message_BreathOfArkay",
+    "form_id": "0312B068|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The healing sun!",
+    "string": "¡Los poderes curativos del sol bendicen a este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationGhosts_Message_Lich_Fail",
+    "form_id": "030AF614|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Not enough weapon charge.",
+    "string": "No queda suficiente carga en el arma...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_Milestones_Fail",
+    "form_id": "030AEB3B|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No more Milestones to place. Destroy an existing Milestone.",
+    "string": "Parece que no hay más Milestones disponibles para colocar. Quizá este debería quitar uno primero, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationDwemer_Message_ReconfigureCraftlord",
+    "form_id": "030B1C18|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Modify the stats of your Craftlord. Reduce stats to gain points, then spend those points to increase other stats.\r\n\r\nUnspent Points: %.0f",
+    "string": "Que este Khajiit modifique las estadísticas de Craftlord. \r\n\r\n(Si se necesitan más puntos, que este reduzca estadísticas de otras y luego use esos puntos para aumentar las deseadas.)\r\n\r\n[Puntos sin gastar = %.0f]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_RestorationTap_Message_KingsHeart_Lost",
+    "form_id": "030B9E2D|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your King's Heart was left behind.",
+    "string": "¡Lunas Oscuras! ¡El Corazón del Rey fue dejado atrás por este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationGhosts_Message_ConjureDeadeyeCaptain_End",
+    "form_id": "030B7829|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Corpse Dredged Up",
+    "string": "Cadáver desenterrado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationMetamagic_SilmanesSpellSentinel_Message_TooMany",
+    "form_id": "03161614|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Already stored a spell.",
+    "string": "Este ya ha almacenado un hechizo, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationMetamagic_SilmanesSpellSentinel_Message",
+    "form_id": "03161612|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spell stored.",
+    "string": "El hechizo está almacenado, como este quería.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationGhosts_Message_ConjureDeadeyeCaptain",
+    "form_id": "030B7828|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Corpse Preserved",
+    "string": "Cadáver preservado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationDwemer_Message_ConjureBattlemage",
+    "form_id": "030BDF9A|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Pay for the training of your summoned Battlemages by purchasing upgrades and unlocks.\r\n\r\nCurrent cost of upgrades: %.0f/%.0f Gold",
+    "string": "Que este pague por el entrenamiento de Battlemages invocados mediante la compra de mejoras y desbloqueos.\r\n\r\n[Costo actual de mejoras = %.0f/%.0f septims]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationBanish_Message_RealmMeridia",
+    "form_id": "0301A612|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Target sent to the Colored Rooms!",
+    "string": "¡El objetivo ha sido enviado a Colored Rooms por este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationBanish_Message_Realm4",
+    "form_id": "0301A613|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Target sent to the Hunting Grounds!",
+    "string": "¡El objetivo ha sido enviado a Hunting Grounds por este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationBanish_Message_RealmAzura",
+    "form_id": "0301A615|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Target sent to Moonshadow!",
+    "string": "¡El objetivo ha sido enviado a Moonshadow por este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationDwemer_Message_ConjureBattlemage_Upgrades",
+    "form_id": "030BDF9B|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Current cost of upgrades: %.0f/%.0f Gold\r\n\r\nHealth: +%.0f/250\r\nMagicka: +%.0f/500\r\nWeapon Damage: +%.0f/200%%\r\nSpell Damage: +%.0f/50%%",
+    "string": "Costo actual de mejoras: %.0f/%.0f septims\r\n\r\nSalud: +%.0f/250\r\nMagicka: +%.0f/500\r\nDaño de arma: +%.0f/200%%\r\nDaño de hechizo: +%.0f/50%%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationDwemer_Message_ConjureBattlemage_Fail",
+    "form_id": "030BDF9D|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You have insufficient gold to purchase this upgrade.",
+    "string": "Hmm... ¿no hay suficiente jah [coin] para esta mejora, según este? Es una tristeza, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationDwemer_Message_ConjureBattlemage_CancelAllowed",
+    "form_id": "030BDF9F|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Pay for the training of your summoned Battlemages by purchasing upgrades and unlocks.\r\n\r\nCurrent cost of upgrades: %.0f/%.0f Gold",
+    "string": "Que este pague por el entrenamiento de Battlemages invocados mediante la compra de mejoras y desbloqueos.\r\n\r\n[Costo actual de mejoras = %.0f/%.0f septims]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationUndead_Necrowitch",
+    "form_id": "03072B18|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spell taught to Necrowitch.",
+    "string": "El hechizo fue enseñado a Necrowitch por este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationBanish_Message_RealmHermaeusMora",
+    "form_id": "0301A614|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Target sent to Apocrypha!",
+    "string": "¡El objetivo ha sido enviado a Apocrypha por este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationMetamagic_OcatosRecital_Message_NoStrong",
+    "form_id": "03006F9F|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This spell is too powerful to store.",
+    "string": "Claramente, este ve que el hechizo es demasiado poderoso para almacenarse, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationMetamagic_OcatosRecital_Message_Fail",
+    "form_id": "03006FA0|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This spell cannot be stored.",
+    "string": "Ese hechizo no puede ser almacenado. Es una tristeza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationMetamagic_SpellSequencer_Message_Fail",
+    "form_id": "03006FA9|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This spell cannot be stored.",
+    "string": "Ese hechizo no puede ser almacenado. Es una tristeza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationMetamagic_KnowledgeIsPower_Message_Clear",
+    "form_id": "0300CC1D|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Power removed.",
+    "string": "Poder eliminado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationMetamagic_KnowledgeIsPower_Message",
+    "form_id": "0300CC1A|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Power granted.",
+    "string": "Poder otorgado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_0_OreVein_Success",
+    "form_id": "0300C6AC|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Ore vein found.",
+    "string": "¡Este ha encontrado una veta de mineral!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationMetamagic_KnowledgeIsPower_Message_Failure",
+    "form_id": "0300CC1F|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This spell cannot be stored.",
+    "string": "Ese hechizo no puede ser almacenado. Es una tristeza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationMetamagic_SpellSequencer_Message_HasIt",
+    "form_id": "03006FAA|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spells can only be stored once.",
+    "string": "Los hechizos solo pueden ser almacenados una vez, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_IllusionShadow_Message_GhostwalkFail",
+    "form_id": "0300AAE6|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cannot teleport across boundaries.",
+    "string": "Claramente, este ve que hay un límite que no puede cruzarse, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_DetonateLock_Success",
+    "form_id": "0300AB5E|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The lock opens.",
+    "string": "Claramente, este ve que hay un límite que no puede cruzarse, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_DetonateLock_Failure",
+    "form_id": "0300AB5F|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The lock holds.",
+    "string": "¡La cerradura fumbadhassa [stupid] aún resiste a este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_DetonateLock_Success_H1",
+    "form_id": "0300AB64|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The lock shatters! Pieces of metal fly around!",
+    "string": "¡Lunas Oscuras! ¡La cerradura se ha hecho añicos! ¡Cuidado con el metal volador, según este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_DetonateLock_Success_H2",
+    "form_id": "0300AB65|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The lock breaks into a million pieces!",
+    "string": "¡La cerradura wapu [weak] se rompió en un millón y dos pedazos ante este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_DetonateLock_Success_H3",
+    "form_id": "0300AB66|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The lock breaks apart with a flash of magic!",
+    "string": "¡La cerradura se rompe, sucumbiendo a la magicka de este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_DetonateLock_Success_H4",
+    "form_id": "0300AB67|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The lock never stood a chance!",
+    "string": "¡Ja! ¡Esa cerradura varzeva [clumsy] no tenía oportunidad ante este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_DetonateLock_Success_H5",
+    "form_id": "0300AB68|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The lock breaks! Tumblers and bolts fly around!",
+    "string": "¡La cerradura se ha soltado! Los mecanismos y pernos son frágiles, según este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_Replicate_Failure",
+    "form_id": "0300C136|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Item too expensive to replicate.",
+    "string": "Ese objeto es demasiado caro para hacerlo pasar como réplica, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_Replicate_Success",
+    "form_id": "0300C137|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Item replicated for %.0f Gold.",
+    "string": "El objeto fue replicado por %.0f septims para este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_0_OreVein_Failure",
+    "form_id": "0300C6A9|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You do not sense any ore veins.",
+    "string": "Hmm... parece que no hay vetas de mineral dentro del alcance para este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_MarkAndRecall",
+    "form_id": "0304F4CE|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Mark created.",
+    "string": "Marca creada por este...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationBanish_Message_Realm5",
+    "form_id": "0301A617|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Target sent to Quagmire!",
+    "string": "¡El objetivo ha sido enviado a Quagmire por este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationBanish_Message_Realm6",
+    "form_id": "0301A616|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Target sent to the Pits!",
+    "string": "¡El objetivo ha sido enviado a Pits por este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_PopulateLists_Wait",
+    "form_id": "0308A1E0|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Preparing to add Apocalypse items to the world. Please wait...",
+    "string": "Este se prepara para añadir objetos de Apocalypse al mundo. Por favor espera, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_MarkAndRecall_Return",
+    "form_id": "0304F4CF|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Recalled to mark.",
+    "string": "Marca recuperada...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_RestorationHeal_Message_Resurrection",
+    "form_id": "0304839C|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Resurrection shellshock has ended.",
+    "string": "¡El aturdimiento de resurrección ha terminado para este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_IllusionEmpathy_Message_BloodForBloodFail",
+    "form_id": "03048904|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The killer is too strong...",
+    "string": "Claramente, este asesino es demasiado fuerte...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationBanish_Message_RealmNocturnal",
+    "form_id": "0301A618|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Target sent to Evergloam!",
+    "string": "¡El objetivo ha sido enviado a Evergloam por este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_IllusionPuppeteer_Message_EnslaveTheWeakName",
+    "form_id": "0300DBCD|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Player>'s Slave",
+    "string": "Esclavo de <Alias=Player>...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_IllusionPuppeteer_Message_EnslaveTheWeak",
+    "form_id": "0300DBD4|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The <Alias.Race=WBA_Dominate_Target> succumbs to your will.",
+    "string": "¡El <Alias.Race=WBA_Dominate_Target> sucumbe a la voluntad de Khajiit!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_IllusionPuppeteer_Message_EnslaveTheWeakFail",
+    "form_id": "0300DBD5|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The spell fails.",
+    "string": "¡El hechizo fumbadhassa [stupid] ha fallado para este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_IllusionPuppeteer_Message_EnslaveTheWeakRelease",
+    "form_id": "0300DBD9|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your slave dies.",
+    "string": "Lamentablemente, un esclavo ha muerto. Es una tristeza, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationBanish_Message_Realm1",
+    "form_id": "0301A60F|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Target sent to the Deadlands!",
+    "string": "¡El objetivo ha sido enviado a Deadlands por este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationBanish_Message_Realm2",
+    "form_id": "0301A610|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Target sent to the Ashpit!",
+    "string": "¡El objetivo ha sido enviado a Ashpit por este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationBanish_Message_Realm3",
+    "form_id": "0301A611|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Target sent to Coldharbour!",
+    "string": "¡El objetivo ha sido enviado a Coldharbour por este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_FabricateObject",
+    "form_id": "03073B53|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Fabricate which object?",
+    "string": "Este debe elegir un objeto para fabricar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationDaedric_ConjureDremoraMentor_Message_WhichMentor",
+    "form_id": "0308BCF9|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Conjure which Mentor?",
+    "string": "Este debe elegir un Mentor para conjurar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_EraseSpell_Message",
+    "form_id": "0306482E|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spell forgotten!",
+    "string": "¡El hechizo ha sido olvidado por este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationMetamagic_OcatosRecital_Message_Double",
+    "form_id": "03073081|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This spell is already stored.",
+    "string": "Este ya ha almacenado este hechizo, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AbilityTurnedOn_Message",
+    "form_id": "030204E8|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spell enabled",
+    "string": "Hechizo habilitado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_RestorationBlood_Message_Bloodseeker",
+    "form_id": "0306EA54|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The bloodseeker deals %.0f damage!",
+    "string": "¡El buscador de sangre ha infligido %.0f de daño, según este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationDetect_Alarm_Message",
+    "form_id": "030064A7|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "An enemy approaches...",
+    "string": "Los sentidos de Khajiit detectan a un enemigo acercándose...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_RestorationArcane_Message_Overload",
+    "form_id": "03054B04|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You deal %.0f damage!",
+    "string": "¡Se han infligido %.0f de daño!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_RestorationBlood_Message_BloodseekerHeal",
+    "form_id": "0307156C|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The bloodseeker heals %.0f points!",
+    "string": "¡El buscador de sangre ha sanado %.0f puntos para este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationMetamagic_OcatosRecital_Message_Clear",
+    "form_id": "03072042|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "All spells removed.",
+    "string": "Todos los hechizos eliminados. Simple, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_EraseSpell_MessageFail",
+    "form_id": "0306482F|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cannot forget starting spells",
+    "string": "Sería una tontería olvidar un hechizo básico como este, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_FabricateObject_Fail",
+    "form_id": "030735E9|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cannot fabricate object in obstructed space.",
+    "string": "Khajiit no puede fabricar un objeto en un espacio obstruido...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationUndead_Necrowitch_Fail",
+    "form_id": "03072B17|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This spell cannot be taught to your Necrowitch.",
+    "string": "Este ve que este hechizo no puede ser enseñado a Necrowitch en este momento, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_PopulateLists_Done_MA",
+    "form_id": "03080965|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "More Apocalypse items added to the world.",
+    "string": "Más objetos de Apocalypse han sido añadidos al mundo, como este quiere.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_PopulateLists_Done",
+    "form_id": "03080964|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Apocalypse items added to the world.",
+    "string": "Objetos de Apocalypse han sido añadidos al mundo, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationUndead_LordOfBindings_Fail",
+    "form_id": "0307611A|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This spell cannot be taught to your Lord of Bindings.",
+    "string": "Este ve que este hechizo no puede ser enseñado a Lord of Bindings, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationUndead_LordOfBindings_NoSpell",
+    "form_id": "03076119|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You did not teach a spell to your Lord of Bindings.",
+    "string": "Este ve que este hechizo aún no ha sido enseñado a Lord of Bindings, ¿no? Quizá este debería hacerlo primero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationMetamagic_SpellTwine_Message",
+    "form_id": "03082F5B|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spell %.0f/%.0f entwined with magical effect.",
+    "string": "El hechizo %.0f/%.0f está entrelazado con un efecto mágico, según este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationUndead_LordOfBindings",
+    "form_id": "0307611B|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spell taught to Lord of Bindings.",
+    "string": "¡El hechizo ha sido enseñado a Lord of Bindings por este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_ControlWeather_DifficultWeather",
+    "form_id": "0307FE76|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The weather resists your spell, but eventually yields.",
+    "string": "El clima resistió el hechizo al principio, pero eventualmente cambió...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationSummon_Message_BondOfSummoning_Saved",
+    "form_id": "0307C84D|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Target bound to you!",
+    "string": "El objetivo ahora está ligado a este, ¿sí? Asombroso, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationMetamagic_SpellSequencer_Message_Clear",
+    "form_id": "0307F3A6|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "All spells removed.",
+    "string": "Todos los hechizos eliminados. Simple, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_WindRunning_TooHigh",
+    "form_id": "0307FE6C|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Too high!",
+    "string": "¡Esto es demasiado alto para este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_ControlWeather",
+    "form_id": "0307FE71|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Which weather do you want to summon?",
+    "string": "Este debe elegir un tipo de clima para invocar:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_ControlWeather_WrongWeather",
+    "form_id": "0307FE72|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The supernatural weather withstands your spell.",
+    "string": "¡Este clima rishaji [supernatural] ha resistido el hechizo de este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_SkyUI_Message_Repopulate",
+    "form_id": "03089712|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This will remove all spell tomes, scrolls and staves that were added to their leveled lists by a script and add the Apocalypse ones.\r\n\r\nAre you sure?",
+    "string": "Esto eliminará todos los tomos de hechizo, pergaminos y bastones que fueron añadidos a sus listas niveladas por un script y agregará los de Apocalypse.\r\n\r\n¿Está Khajiit seguro de esto, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_ControlWeather_RegularWeather",
+    "form_id": "0307FE75|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The weather yields easily to your spell.",
+    "string": "El clima se ha doblado ante la voluntad del hechizo, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_ControlWeather_ProjectileStorm",
+    "form_id": "0307FE74|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The magical storm overpowers your spell.",
+    "string": "Qué desafortunado... La tormenta mágica ha superado el hechizo de este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationMetamagic_SpellTwine_Message_Fail",
+    "form_id": "03082F60|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This spell cannot be stored.",
+    "string": "Ese hechizo no puede ser almacenado. Es una tristeza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_ControlWeather_Interior",
+    "form_id": "0307FE73|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cannot summon weather indoors.",
+    "string": "El clima exterior debe permanecer afuera, ¿sí? Entonces, este no debe intentar invocar clima en interiores, hmm? Aunque sería espectacular, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationMetamagic_SpellTwine_Message_Double",
+    "form_id": "03082F61|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This spell is already entwined.",
+    "string": "Ese hechizo ya está entrelazado, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_AnimateMannequin_WrongItem",
+    "form_id": "03086B5B|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You can only place Armor, Weapons or Ammo on the Mannequin.",
+    "string": "El maniquí solo puede sostener armadura, armas y munición, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_IllusionNightmare_Message_PullFromEternity_Saved",
+    "form_id": "03085AFD|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Ghost captured.",
+    "string": "¡Este ha capturado un fantasma! ¿Y ahora qué, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationMetamagic_OcatosRecital_Message_TooMany",
+    "form_id": "0307203F|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Already stored %.0f spells, cannot store more spells.",
+    "string": "Este ya ha almacenado %.0f hechizos, y no puede almacenar más...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_ConjurationUndead_Necrowitch_NoSpell",
+    "form_id": "03072B16|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You did not teach a spell to your Necrowitch.",
+    "string": "Este ve que este hechizo no ha sido enseñado a Necrowitch, ¿no? No pueden lanzar lo que no conocen primero, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AbilityTurnedOff_Message",
+    "form_id": "030204E6|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spell disabled",
+    "string": "Hechizo deshabilitado...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationMetamagic_SpellTwine_Message_Clear",
+    "form_id": "03082F5F|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "All spells removed.",
+    "string": "Todos los hechizos eliminados. Simple, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_FabricateObject_1",
+    "form_id": "0308FDE9|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Fabricate which object?",
+    "string": "Este debe elegir un objeto para fabricar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_IllusionNightmare_Message_PullFromEternity_NoCorpse",
+    "form_id": "03085AFC|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No ghost captured. Cast on a corpse first.",
+    "string": "Hmm... ¿no se ha capturado ningún fantasma, según este? Quizá primero debería lanzarse sobre un cadáver, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_AnimateMannequin_None",
+    "form_id": "03086B5E|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No Mannequin nearby.",
+    "string": "Lamentablemente, no hay Maniquíes cercanos para este...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationMetamagic_SpellTwine_Message_TooMany",
+    "form_id": "03082F62|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Already entwined %.0f spells, cannot entwine more spells.",
+    "string": "Khajiit ya ha entrelazado %.0f hechizos, y no puede entrelazar más...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationMetamagic_SpellTwine_Message_Select",
+    "form_id": "03082F63|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Entwine which effect? The effect is cast whenever you cast the spell in your left hand.\r\n\r\nCushion: No fall damage for 10 seconds.\r\nHaste: Speed +15%% for 10 seconds.\r\nFlow: Spells are 20%% cheaper for 5 seconds.\r\nHeal: Heals for 50%% of Alteration level.\r\nBlood: Weapons damage +15%% for 10 seconds.\r\nFeather: Carry weight +50 for 10 seconds.\r\nRock: Weapon damage taken -15%% for 5 seconds.\r\nCrystal: Magic resist +15%% for 10 seconds.",
+    "string": "Que este elija un efecto para entrelazar. [El efecto solo se lanza al usar la mano izquierda.]\r\n\r\nCojín: Sin daño por caída durante 10 segundos.\r\nPrisa = Velocidad +15%% durante 10 segundos.\r\nFlow = Los hechizos cuestan 20%% menos durante 5 segundos.\r\nHeal = Cura un 50%% del nivel de Alteración.\r\nSangre = Daño de armas +15%% durante 10 segundos.\r\nPluma = Capacidad de carga +50 durante 10 segundos.\r\nRock = Daño de armas recibido -15%% durante 5 segundos.\r\nCristal = Resistencia mágica +15%% durante 10 segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_HethothsGrimoire_Fail",
+    "form_id": "030834E0|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This spell cannot be written.",
+    "string": "Ese hechizo no puede ser escrito, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationTelekinesis_Message_DropZone",
+    "form_id": "03084AA9|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You fell %.0f feet! (Record: %.0f feet)",
+    "string": "Hmm... esa caída fue de %.0f pies esta vez, ¿sí? Pero la caída más lejana ha sido de %.0f pies, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationTelekinesis_Message_DropZone_Record",
+    "form_id": "03084AAB|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You fell %.0f feet! (A new record!)",
+    "string": "Hmm... esa caída fue de %.0f pies esta vez, ¿sí? Este es un nuevo récord, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_2_Container_Failure",
+    "form_id": "030A590A|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You do not sense any containers.",
+    "string": "Hmm... parece que no hay contenedores dentro del alcance para este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_1_Gold_Success",
+    "form_id": "030A5909|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Gold found.",
+    "string": "¡Este ha encontrado algunas monedas!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_1_Gold_Failure",
+    "form_id": "030A5908|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You do not sense any gold.",
+    "string": "Hmm... parece que no se han encontrado monedas dentro del alcance para este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_2_Container_Success",
+    "form_id": "030A590B|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Container found.",
+    "string": "¡Este ha encontrado un contenedor!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_FabricateObject_2",
+    "form_id": "0308FDEA|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Fabricate which object?",
+    "string": "Este debe elegir un objeto para fabricar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject",
+    "form_id": "030A5900|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Which object do you want to locate?",
+    "string": "Este debe elegir un objeto para localizar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_3_Door_Failure",
+    "form_id": "030A590C|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You do not sense any doors.",
+    "string": "Hmm... parece que no hay puertas dentro del alcance para este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_6_Writings_Failure",
+    "form_id": "030A5910|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You do not sense any written texts.",
+    "string": "Hmm... parece que no hay textos escritos dentro del alcance para este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_4_Key_Success",
+    "form_id": "030A590F|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Key found.",
+    "string": "¡Este ha encontrado una llave!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_4_Key_Failure",
+    "form_id": "030A590E|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You do not sense any keys.",
+    "string": "Hmm... parece que no hay llaves dentro del alcance para este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_6_Writings_Success",
+    "form_id": "030A5911|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Written text found.",
+    "string": "¡Se ha encontrado un texto escrito, según este Khajiit!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_LocateObject_3_Door_Success",
+    "form_id": "030A590D|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Door found.",
+    "string": "¡Una puerta ha sido hallada por este!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_Milestones",
+    "form_id": "030AE5D7|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Create which Milestone?",
+    "string": "Que este elija un Hito para crear.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WB_AlterationAlt_Message_Milestones_Spawner",
+    "form_id": "030AEB3A|Apocalypse - Magic of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Create which Milestone?",
+    "string": "Que este elija un Hito para crear.",
+    "status": "TranslationComplete"
+  }
+]

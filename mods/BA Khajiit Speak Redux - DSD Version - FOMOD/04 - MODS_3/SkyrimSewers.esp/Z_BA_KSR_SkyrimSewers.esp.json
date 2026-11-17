@@ -1,0 +1,11 @@
+[
+  {
+    "editor_id": "HallofStoriesNoObjMSGSteelSSewers",
+    "form_id": "0501AEEE|SkyrimSewers.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You need the Steel Dragon Claw to activate the keyhole.",
+    "string": "La Garra de Dragón de Acero se necesita para activar el ojo de la cerradura, ¿sí?",
+    "status": "TranslationComplete"
+  }
+]

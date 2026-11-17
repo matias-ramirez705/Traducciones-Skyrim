@@ -1,0 +1,74 @@
+[
+  {
+    "editor_id": "ccBGSSSE055_QuestTopic1A",
+    "form_id": "05000823|ccbgssse055-ba_orcishscaled.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sé que eres una asesina.",
+    "string": "Claramente eres un asesino, ¿no? El olfato de un Khajiit puede detectar tales cosas, de hecho.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE055_QuestTopic2A",
+    "form_id": "05000825|ccbgssse055-ba_orcishscaled.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría comprar la armadura que te vendió Antonius (1000 de oro).",
+    "string": "Este uno desea comprar la armadura que compraste de Antonius, ¿sí? (1,000 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000827|ccbgssse055-ba_orcishscaled.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Me gustaría comprar la armadura de Antonius, pero no tengo mucho dinero (1000 de oro).",
+    "string": "Khajiit desea adquirir la armadura de Antonius, pero <Alias.Pronoun=Player> no tiene mucho dinero. (1,000 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE055_QuestTopic3Topic",
+    "form_id": "05000828|ccbgssse055-ba_orcishscaled.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tenemos que hablar de algo.",
+    "string": "Khajiit necesita hablar contigo sobre algo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083C|ccbgssse055-ba_orcishscaled.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tengo algo más que decir.",
+    "string": "Khajiit desea decir algo más...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE055_QuestTopic3TopicA",
+    "form_id": "0500082A|ccbgssse055-ba_orcishscaled.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tienes algo que quiero. Te voy a matar para quedármelo (Intimidar).",
+    "string": "Tienes algo que Khajiit desea, así que <Alias.Pronoun=Player> simplemente te matará por ello. Hay mucho menos papeleo de esa manera, ¿sí? (Intimidar)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE055_QuestTopic3TopicB",
+    "form_id": "0500082C|ccbgssse055-ba_orcishscaled.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Riften es un sitio peligroso. Tienes que irte antes de que te pase algo (Persuadir).",
+    "string": "Riften es peligrosa. Necesitas irte antes de que algo malo suceda, amigo. (Persuadir)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE055_QuestTopic3TopicC",
+    "form_id": "0500082E|ccbgssse055-ba_orcishscaled.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sé lo que has hecho. Solo quiero oírte decirlo (Persuadir).",
+    "string": "¡Sabes lo que hiciste! Los oídos de Khajiit simplemente desean escucharte decirlo... (Persuadir)",
+    "status": "TranslationComplete"
+  }
+]

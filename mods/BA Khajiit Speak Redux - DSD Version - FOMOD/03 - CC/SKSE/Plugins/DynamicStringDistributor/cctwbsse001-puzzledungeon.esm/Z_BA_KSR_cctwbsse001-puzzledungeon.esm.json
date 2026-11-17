@@ -1,0 +1,110 @@
+[
+  {
+    "editor_id": "DLCDwarvenPuzzleDungeonPlayerCornMessage2",
+    "form_id": "05003904|cctwbsse001-puzzledungeon.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Ya llevas demasiado trigo.",
+    "string": "Seguramente, ya hay suficiente trigo en el inventario, ¿no?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLCDwarvenPuzzleDungeonPlayerCornMessage2",
+    "form_id": "05003904|cctwbsse001-puzzledungeon.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Ya llevas demasiado trigo.",
+    "string": "Ya lleva demasiado trigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLCDwarvenPuzzleDungeonPlayerCornMessage1",
+    "form_id": "05003908|cctwbsse001-puzzledungeon.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Recoges el trigo.",
+    "string": "Trigo obtenido.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLCDwarvenPuzzleDungeonPlayerCornMessage1",
+    "form_id": "05003908|cctwbsse001-puzzledungeon.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Recoges el trigo.",
+    "string": "Usted recoge el trigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLCDwarvenPuzzleDungeonPlayerCornMessage3",
+    "form_id": "05003903|cctwbsse001-puzzledungeon.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Colocas el trigo en el depósito.",
+    "string": "El trigo ha sido colocado en el depósito.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLCDwarvenPuzzleDungeonPlayerCornMessage3",
+    "form_id": "05003903|cctwbsse001-puzzledungeon.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Colocas el trigo en el depósito.",
+    "string": "Usted coloca el trigo en el depósito.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLCDwarvenPuzzleDungeonHorseMessageStart",
+    "form_id": "05003906|cctwbsse001-puzzledungeon.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Esto parece formar parte de alguna clase de caballo autómata enano. Le faltan las patas y la cabeza, pero parece que fueron diseñadas para encajar fácilmente. Quizás haya otras piezas por ahí.",
+    "string": "Esto parece ser parte de algún Caballo Autómata Dwarven, sí.  \r\n\r\nLe faltan las patas y la cabeza, pero parece que fueron diseñadas para encajar fácilmente.  \r\n\r\nQuizás haya otras piezas en algún lugar, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLCDwarvenPuzzleDungeonHorseMessageFail",
+    "form_id": "05003907|cctwbsse001-puzzledungeon.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No has conseguido todas las piezas necesarias para reconstruir el caballo.",
+    "string": "Aún faltan algunas piezas para reconstruir el caballo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLCDwarvenPuzzleDungeonHorseMessageFail",
+    "form_id": "05003907|cctwbsse001-puzzledungeon.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "No has conseguido todas las piezas necesarias para reconstruir el caballo.",
+    "string": "No tiene todas las piezas para reconstruir el caballo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLCDwarvenPuzzleDungeonPlayerCornMessage4",
+    "form_id": "05003909|cctwbsse001-puzzledungeon.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No tienes trigo que depositar.",
+    "string": "No hay trigo para depositar...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLCDwarvenPuzzleDungeonPlayerCornMessage4",
+    "form_id": "05003909|cctwbsse001-puzzledungeon.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "No tienes trigo que depositar.",
+    "string": "No tiene trigo para depositar.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLCDwarvenPuzzleDungeonHorseMessageComplete",
+    "form_id": "0500390A|cctwbsse001-puzzledungeon.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Encajas las piezas en el caballo enano.",
+    "string": "Las piezas se encajan en el Caballo Dwarven.  ",
+    "status": "TranslationComplete"
+  }
+]

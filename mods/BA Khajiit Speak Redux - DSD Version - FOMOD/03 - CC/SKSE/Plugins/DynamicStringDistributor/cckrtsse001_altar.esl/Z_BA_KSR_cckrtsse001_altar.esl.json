@@ -1,0 +1,596 @@
+[
+  {
+    "editor_id": "ccKRTSSE001_FerrymanDawnstar",
+    "form_id": "05000B1E|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Harlaug",
+    "string": "Harlaug",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthWarrens",
+    "form_id": "00016D72|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Las madrigueras",
+    "string": "Las madrigueras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthSilverBloodInn",
+    "form_id": "00016DFE|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Posada Sangre Argéntea",
+    "string": "Posada de Sangre Argéntea",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FalkreathDeadMansDrink",
+    "form_id": "0003A184|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "El trago del finado",
+    "string": "El trago del finado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DawnstarMortarandPestle",
+    "form_id": "00013A86|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "El mazo y el mortero",
+    "string": "El mazo y el mortero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunTempleofKynareth",
+    "form_id": "000165A7|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Templo de Kynareth",
+    "string": "Templo de Kynareth",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "Skyrim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthWorld",
+    "form_id": "00016D71|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Markarth",
+    "string": "Markarth",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_Branch1Topic",
+    "form_id": "05000A76|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Has pensado en vender sujamma? Tengo una botella que pueden probar tus clientes.",
+    "string": "¿Considerarías vender sujamma, quizás? Khajiit justamente tiene una botella que tus clientes podrían probar...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A9B|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Da igual, te he confundido con alguien.",
+    "string": "No importa, amigo. Khajiit debió confundirte con otra persona.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_Branch1TopicA",
+    "form_id": "05000A78|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Gratis. Si a tus clientes les gusta, puedes comprarme más.",
+    "string": "Gratis, amigo. Si a tus clientes les gusta, entonces este venderá más, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000AA6|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "En esta nota se mencionan las madrigueras. Si nos damos prisa, quizá podamos atraparlo. (Persuadir)",
+    "string": "Esta nota menciona algo sobre Las madrigueras. Quizás podría ser atrapado allí, ¿sí? (Persuadir)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000AD8|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "En esta nota el ladrón habla sobre ti. (Persuadir)",
+    "string": "En esta nota el ladrón te menciona por nombre. La tinta no miente. (Persuadir)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_DLC1Branch01Topic",
+    "form_id": "05000A7D|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Necesito llegar a Diente del Gigante. (<Global=DLC1FerryCostSmall> de oro)",
+    "string": "Khajiit busca un paso seguro hacia Diente de Gigante. (<Global=DLC1FerryCostSmall> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000DFC|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Quiero volver a Diente del Gigante. (<Global=DLC1FerryCostSmall> de oro)",
+    "string": "Khajiit desea regresar a Diente de Gigante. (<Global=DLC1FerryCostSmall> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000FD9|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Quiero volver a Diente del Gigante. (<Global=DLC1FerryCostSmall> de oro)",
+    "string": "Khajiit desea regresar a Diente de Gigante. (<Global=DLC1FerryCostSmall> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A1A|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Ya puedo volver a Lucero del Alba.",
+    "string": "Este desea regresar a Estrella del Alba.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_Branch1TopicB",
+    "form_id": "05000A80|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Con cinco monedas de oro por la botella está bien. (Persuadir)",
+    "string": "Cinco septims deberían ser suficientes para la botella. (Persuadir)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000AB7|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Pensándolo mejor, da igual.",
+    "string": "Pensándolo bien, no importa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_Branch1TopicC",
+    "form_id": "05000A84|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Em... Todavía no he pensado mi parte de la mentira.",
+    "string": "Umm... Khajiit todavía está formulando esa parte de la mentira...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000AB6|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "En esta nota se habla sobre ti. (Persuadir)",
+    "string": "Esta nota te menciona, por nombre. (Persuadir)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_Branch1TopicD",
+    "form_id": "05000A86|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Diez mil monedas de oro y tus hijos.",
+    "string": "Diez mil septims y la escritura de tus jóvenes, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000AD9|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "En esta nota se habla sobre ti. (Persuadir)",
+    "string": "Esta nota te menciona, por nombre. (Persuadir)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_Branch1TopicE",
+    "form_id": "05000A88|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Cincuenta monedas de oro. Es un sujamma muy raro, importado de Morrowind. (Persuadir)",
+    "string": "Cincuenta septims. Este es sujamma raro importado de Morrowind. (Persuadir)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_Branch2Topic",
+    "form_id": "05000A9A|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Acabas de llegar a la ciudad? Te puedo hacer de guía.",
+    "string": "¿Eres nuevo en la ciudad, amigo? Este podría mostrarte los alrededores...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_Branch3Topic",
+    "form_id": "05000A9F|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Tienes una moneda para mí?",
+    "string": "¿Tienes una moneda para un mendigo, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_Branch4Topic",
+    "form_id": "05000AA1|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Alguien intenta robarte. Tengo pruebas.",
+    "string": "Alguien está intentando robarte, amigo. Khajiit tiene pruebas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000AB5|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Adiós.",
+    "string": "Que las Lunas iluminen tu camino.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000C18|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Ha sido un placer trabajar contigo.",
+    "string": "Fue un placer trabajar contigo, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_QuestCompleteTopicA",
+    "form_id": "05000ACA|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "De nada.",
+    "string": "No lo menciones, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000B51|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Ha sido un placer trabajar contigo.",
+    "string": "Fue un placer trabajar contigo, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_QuestCompleteTopicB",
+    "form_id": "05000ACB|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Era lo correcto.",
+    "string": "Fue lo correcto, de hecho.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000B6A|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Todavía tengo preguntas.",
+    "string": "Khajiit está hecho de preguntas...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_QuestCompleteTopicC",
+    "form_id": "05000ACC|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Te he salvado la vida. Eso debería valer algo.",
+    "string": "<Alias=Player> salvó tu vida. Eso debería valer algo brillante, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000B6C|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Creo que voy a matarte y a quedarme con todo.",
+    "string": "¡Eso parece tan tedioso! Quizás sea más simple matarte y llevárselo todo, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_QuestCompleteTopicD",
+    "form_id": "05000ACD|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Entonces supongo que ahora eres mi mejor amigo.",
+    "string": "Claramente, esto significa que tú y Khajiit son mejores amigos ahora, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000B6B|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "No es suficiente. Apenas has hecho nada, y has aparecido al final.",
+    "string": "¡Esto es inaceptable! ¡Apenas hiciste algo de trabajo! ¡Simplemente apareciste al final!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_QuestCompleteTopicE",
+    "form_id": "05000ACE|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No malgastes la vida que te he dado.",
+    "string": "Ahora, cuida la vida que Khajiit te ha otorgado, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000B6D|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Disfruta de tus riquezas. Gástatelo con sabiduría.",
+    "string": "Bueno, disfruta de tus riquezas, amigo. Khajiit no dirá algo tan cliché como, \"No lo gastes todo en un solo lugar\", hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_Courier01Topic",
+    "form_id": "05000AE7|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hola. Soy mensajero. Llevo cartas. A eso me dedico, sí.",
+    "string": "Arenas cálidas. Khajiit es un mensajero. <Alias.PronounCap=Player> entrega cartas. <Alias.PronounCap=Player> es muy bueno en esto, de hecho.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000AE8|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Saludos, trabajo en el servicio de mensajeros.",
+    "string": "Saludos, <Alias=Player> está con el servicio de mensajería. Han estado intentando contactarte sobre tu garantía extendida de cartas...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_Courier02Topic",
+    "form_id": "05000AEA|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Te he estado buscando.",
+    "string": "Khajiit ha estado buscándote, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_Courier03Topic",
+    "form_id": "05000AEC|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He estado buscando a alguien. A ti.",
+    "string": "<Alias=Player> ha estado buscando algo... a ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_Courier04Topic",
+    "form_id": "05000AEE|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¡Te saludo! ¿Qué te parecería recibir una carta de mi saca?",
+    "string": "¡Bien encontrado, amigo! ¿Deseas recibir una carta de este saco, quizás? ¡Están recién salidas del tintero!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_Courier05Topic",
+    "form_id": "05000AF0|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Soy mensajero y tengo un mensaje importante para ti.",
+    "string": "Saludos. Khajiit es un mensajero y tiene un mensaje importante para entregarte, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_Courier02TopicA",
+    "form_id": "05000AF4|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me han ordenado entregar una nota confidencial, solo para ti.",
+    "string": "(susurro) Khajiit tiene una nota súper-secreta... Solo para tus ojos, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_Courier02TopicB",
+    "form_id": "05000AF5|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tengo una carta que lleva tu nombre. Literalmente.",
+    "string": "<Alias=Player> tiene una carta con tu nombre, amigo. Literalmente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_Courier02TopicC",
+    "form_id": "05000AF6|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Esta misiva es para ti.",
+    "string": "Esta misiva es específicamente para ti, amigo. Solo tres personas la han leído hasta ahora...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_Courier02TopicD",
+    "form_id": "05000AF7|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tengo algo que se supone que solo te puedo dar a ti... en mano.",
+    "string": "Khajiit tiene instrucciones estrictas de entregar esto directamente a ti. Es \"solo para tus patas\", de hecho.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_QF_Courier02TopicE",
+    "form_id": "05000AF8|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Creo que tengo que darte esta carta.",
+    "string": "Khajiit tiene sentidos agudos y cree que esta carta es para ti, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuestBranch2Topic",
+    "form_id": "05000EC6|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He encontrado este fruto de árbol de hierro. ¿Sabes si le puede resultar útil a alguien?",
+    "string": "<Alias=Player> encontró este Fruto de Madera de Hierro. ¿Sabes si alguien le da uso, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuestBTopicA",
+    "form_id": "05000ED1|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No ha sido nada. Me alegro de que estés bien.",
+    "string": "No fue nada, amigo. Khajiit simplemente está feliz de que estés vivo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuestBTopicB",
+    "form_id": "05000ED3|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No pasa nada. Tienes el resto de tu vida para devolverme el favor.",
+    "string": "No hay preocupación, amigo. Después de todo, tienes el resto de tu vida para saldar la deuda, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuestBTopicC",
+    "form_id": "05000ED7|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "La mayor parte del mérito es de los sanadores del templo.",
+    "string": "Bueno, los sanadores del templo merecen la mayor parte del crédito...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuestBTopicD",
+    "form_id": "05000EDA|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "La bendición de Ysmir no me sirve de nada, pero vale.",
+    "string": "¡Una bendición de Ysmir no vale nada para este, pero muy bien... bendice lejos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_DialogueFollowerBranch01Topic",
+    "form_id": "05000EEB|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He encontrado este diario en Falkreath. ¿Es tuyo?",
+    "string": "<Alias=Player> encontró este diario en Falkreath. ¿Es tuyo, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_DialogueFollowerBranch01TopicB",
+    "form_id": "05000EF1|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "El altar era una bendición. Gracias a él he podido salvarte.",
+    "string": "El altar fue una bendición, amigo. ¡Ayudó a salvar tu vida!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_DialogueFollowerBranch01TopicC",
+    "form_id": "05000EF2|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "El altar está maldito. No se puede confiar en la magia de las brujas cuervo.",
+    "string": "El altar está maldito. La magia de Bruja cuervo no debe ser confiada, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_DialogueFollowerBranch01TopicD",
+    "form_id": "05000EF3|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me pregunto qué habría pasado si hubiese escogido otra cosa.",
+    "string": "Khajiit a menudo se pregunta cómo sería reiniciar el día y elegir un camino diferente... ¡Ja! ¡Como si existiera un gran poder así! ¿Te lo imaginas?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_DialogueFollowerBranch01TopicE",
+    "form_id": "05000EF4|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "En cualquier caso, no sé qué pensar. ",
+    "string": "Khajiit no tiene pensamientos ni preocupaciones al respecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_DialogueFollowerBranch01TopicF",
+    "form_id": "05000EF6|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Y tú? ¿Qué te parece lo que escogiste?",
+    "string": "¿Y tú, hmm? ¿Estás satisfecho con la elección que hiciste, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuestBranch1Topic",
+    "form_id": "05000F34|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tengo la sopa de árbol de hierro.",
+    "string": "Este tiene la Sopa de Madera de Hierro que pediste.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuestBranch1TopicA",
+    "form_id": "05000F4F|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Aquí tienes.",
+    "string": "Aquí estás!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuestBranch1TopicB",
+    "form_id": "05000F51|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Te lo doy, pero no va a ser gratis.",
+    "string": "Khajiit se desprenderá de esto, sí. Pero no gratis, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_FerrySystem",
+    "form_id": "05000A7B|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Ferry system dialogue",
+    "string": "Ferry system dialogue",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthWarrensLocation",
+    "form_id": "0001F30D|Skyrim.esm",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Las madrigueras",
+    "string": "Las madrigueras",
+    "status": "TranslationComplete"
+  }
+]

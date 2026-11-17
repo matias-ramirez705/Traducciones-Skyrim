@@ -1,0 +1,182 @@
+[
+  {
+    "editor_id": "randomQuestMasterTopic",
+    "form_id": "05000803|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is there anything I can help you with?",
+    "string": "Khajiit desea ayudar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "randomQuestMasterTopicNote",
+    "form_id": "05000805|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you need?",
+    "string": "¿Qué es exactamente lo que deseas, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "randomQuestDungeonTopic",
+    "form_id": "0500080B|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <alias=itemAlias>.",
+    "string": "Khajiit tiene tu <alias=itemAlias>, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "randomQuestGatherTopic",
+    "form_id": "0500081B|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <alias=item1Alias> and <alias=item2Alias>.",
+    "string": "Este tiene tu <alias=item1Alias> y <alias=item2Alias>. Impresionante, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "randomQuestDeliveryTopic",
+    "form_id": "0500082E|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<alias=questGiverAlias> asked me to deliver you this <alias=itemAlias>.",
+    "string": "<alias=questGiverAlias> pidió a este que te entregara este <alias=itemAlias>, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "randomQuestDeliveryCancelTopic",
+    "form_id": "0500083B|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can't deliver your <alias=itemAlias> to <alias=recipientAlias>",
+    "string": "Khajiit no pudo entregar tu <alias=itemAlias> a <alias=recipientAlias>. Disculpas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "randomQuestDungeonCancelTopic",
+    "form_id": "0500083E|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can't find your <alias=itemAlias>.",
+    "string": "Khajiit no ha encontrado tu <alias=itemAlias>, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "randomQuestGatherCancelTopic",
+    "form_id": "05000840|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can't find your <alias=item1Alias> or <alias=item2Alias>.",
+    "string": "Disculpas. <Alias=Player> no pudo encontrar el <alias=item1Alias> ni el <alias=item2Alias>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "randomQuestTemperTopic",
+    "form_id": "05000847|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have tempered your <alias=itemAlias>.",
+    "string": "<Alias=Player> ha mejorado tu <alias=itemAlias>, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "randomQuestTemperCancelTopic",
+    "form_id": "0500084C|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can't temper your <alias=itemAlias>.",
+    "string": "<Alias=Player> no puede mejorar tu <alias=itemAlias>, sera.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "randomQuestShoppingTopic",
+    "form_id": "0500085A|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your shopping.",
+    "string": "Khajiit pudo encontrar los objetos que deseabas, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "randomQuestShoppingCancelTopic",
+    "form_id": "0500085F|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can't get your shopping.",
+    "string": "Khajiit no pudo encontrar los objetos que deseabas, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "randomQuestShipmentTopic",
+    "form_id": "0500086D|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <alias=itemAlias>.",
+    "string": "Khajiit tiene tu <alias=itemAlias>, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "randomQuestShipmentCancelTopic",
+    "form_id": "05000872|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can't get your <alias=itemAlias>.",
+    "string": "<Alias=Player> no puede conseguir tu preciado <alias=itemAlias>, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "randomQuestShipmentSenderTopic",
+    "form_id": "05000879|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am here to pick up <alias=ItemNameAlias>.",
+    "string": "Khajiit está aquí para recoger <alias=ItemNameAlias>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "randomQuestRescueTopic",
+    "form_id": "05000882|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've rescued <alias=victimAlias>",
+    "string": "<Alias=Player> rescató a <alias=victimAlias>, sí. Una aventura audaz y difícil, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "randomQuestRescueCancelTopic",
+    "form_id": "05000887|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can't find <alias=victimAlias>",
+    "string": "Este no ha encontrado a <alias=victimAlias>, no. Una tristeza, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "randomQuestRescueVictimTopic",
+    "form_id": "0500088C|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "My name is <alias=player>; I am here to rescue you.",
+    "string": "Este es conocido como <Alias=Player>. Sin embargo, puedes referirte a <Alias.PronounObj=Player> como tu rescatador y héroe.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "randomQuestMasterFixTopic",
+    "form_id": "050008B1|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "(Fix disposition)",
+    "string": "(Arreglar disposición)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "randomQuestCancelMessage",
+    "form_id": "0500082A|Sidequests of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Do you want to give up this quest?",
+    "string": "¿Quizás esta misión debería abandonarse?",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "editor_id": "null",
+    "form_id": "000D27F1|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Stormcloaks, Imperials, dragons. Ain't no matter to me what I kill. Let them come.",
+    "string": "Capa de la Tormenta, Imperiales, dragones. A este no le importa qué se mate. Que vengan.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000414E4|Skyrim.esm",
+    "index": 4,
+    "type": "INFO RNAM",
+    "original": "You don't trust the jarl?",
+    "string": "¿No confías en el jarl, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ103AUlfricBookB1",
+    "form_id": "0005A697|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I made a mistake. I want to be a Stormcloak. The crown belongs to you.",
+    "string": "Este cometió un error y desea ser un Rebelde Capa de la Tormenta. La corona te pertenece.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ103BTulliusBookB1",
+    "form_id": "0005A69B|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I just want to join the Legion. Consider the crown a gift.",
+    "string": "Khajiit simplemente desea unirse a la Legión. Considera la corona un regalo, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ103TulliusBookTopic",
+    "form_id": "0005A69E|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to join the Imperial Legion.",
+    "string": "Khajiit desea unirse a la Legión Imperial.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ103UlfricBookTopic",
+    "form_id": "0005A69F|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here to join your fight against the Empire.",
+    "string": "¡Este está aquí para unirse a tu lucha contra el Imperio Imperial! ¡Abajo con el maldito wafiit [imbécil] Tullius!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ102StormcloaksTopic",
+    "form_id": "0005B060|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who are the Stormcloaks?",
+    "string": "¿Quiénes son estos Capa de la Tormenta, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueAngasMillAeriTownTopic",
+    "form_id": "00090DDB|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So you're in charge of Anga's Mill?",
+    "string": "¿Estás a cargo de Aserradero de Anga, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueDawnstarBrinaDragonsTopic",
+    "form_id": "00092317|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is Dawnstar prepared for dragon attacks?",
+    "string": "¿Lucero del Alba está preparada para ataques de dragones, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueDawnstarSkaldDragonsTopic",
+    "form_id": "0009231D|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is Dawnstar prepared for dragon attacks?",
+    "string": "¿Lucero del Alba está preparada para ataques de dragones, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueWhiterunIrilethTopicsBranch3Topic",
+    "form_id": "00093121|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What threats does the Jarl face?",
+    "string": "¿Qué tipo de amenazas tendría que enfrentar un jarl por sí mismo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueWhiterunJarlTopic4BranchTopic",
+    "form_id": "00093126|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How can you protect Whiterun from the dragons?",
+    "string": "¿Cómo protegerás Carrera Blanca de los dragones, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformSalviusFarmARogtausTopic",
+    "form_id": "000931B7|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You said your son is in Old Hroldan?",
+    "string": "Dijiste que tu pequeño está en Viejo Hroldan, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000AC129|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But until we get that confirmed by General Tullius, just stay clear of other Imperial soldiers and avoid any complications, all right?",
+    "string": "Pero hasta que este lo vea confirmado por General Tullius, debes mantenerte alejado de otros soldados Imperiales y evitar cualquier complicación, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000AC11D|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Remember, this isn't Stormcloak territory. If we're ahead of the news from Helgen we should be fine as long as we don't do anything stupid.",
+    "string": "Recuerda, este no es territorio Capa de la Tormenta. Si este va por delante de las noticias de Helgen, todo debería estar bien, siempre que no se haga nada tonto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000BCC9B|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "You had best tell the jarl in Whiterun. He needs to know about this.",
+    "string": "Harías bien en decirle al Jarl en Carrera Blanca. Él debe saber de esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunHunterFrokiAboutHamingTopic",
+    "form_id": "000BFB70|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is Haming your son?",
+    "string": "Haming es tu cachorro, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueWhiterunBelethorTopicsBranch2Topic",
+    "form_id": "000C3688|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What brings a Breton to Skyrim?",
+    "string": "Khajiit siente curiosidad... ¿Qué trae a un Bretón a Skyrim?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueRiftenGrelkaLeaveBranchTopic",
+    "form_id": "000C3A1A|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why would you want to leave Skyrim?",
+    "string": "¿Por qué desearías dejar Skyrim, hmm? Es decir, aparte de todo el racismo, la guerra, la nieve, las arañas gigantes, los Gigantes temperamentales... oh, y los dragones...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D33B4|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Listen, you should go to Solitude and join up with the Imperial Legion. We could really use someone like you.",
+    "string": "Escucha, deberías viajar a Soledad y unirte a la Legión Imperial. Este cree que podrían usar a alguien como tú.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ102AHadvarJoinLegionTopic",
+    "form_id": "000D195B|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You really think I should join the Imperial Legion?",
+    "string": "¿Crees que <Alias=Player> debería unirse a la Legión Imperial, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D19A4|Skyrim.esm",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "How do I join the Imperial Legion?",
+    "string": "¿Cómo se une <Alias=Player> a la Legión Imperial, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ102IrilethIntroA2",
+    "form_id": "000D398C|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias=RiverwoodFriend> sent me. Riverwood is in danger.",
+    "string": "<Alias=RiverwoodFriend> envió a este a advertirte que Cauce Boscoso está en grave peligro. Confía en Khajiit.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D39AB|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As Housecarl, my job is to deal with all dangers that threaten the Jarl or his people. So you have my attention. Now, explain yourself.",
+    "string": "Como Edecán, mi trabajo es enfrentar todos los peligros que amenazan al jarl o a su gente. Así que tienes mi atención. Ahora, explícale a este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D3C5A|Skyrim.esm",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Honestly, the Legion can use all the able bodies it can muster. We have our hands full. A dead king, a rebellion, and now dragons? Skyrim's a mess.",
+    "string": "En verdad, la Legión necesita todos los cuerpos capaces que pueda reunir. Este ve problemas por todas partes. Un rey muerto, una rebelión, ¿y ahora dragones? Skyrim está en caos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D3C5A|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "If you're serious, make your way to Solitude. Our headquarters is Castle Dour. You'll find General Tullius there, commanding our forces in Skyrim.",
+    "string": "Si hablas en serio, dirígete a Soledad. El cuartel general es Castillo Severo. Allí encontrarás a General Tullius, comandando las fuerzas en Skyrim.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D3C5A|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "But talk to Legate Rikke. She handles the local recruiting.",
+    "string": "Pero habla con Legada Rikke. Ella se encarga del reclutamiento local.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D3C5A|Skyrim.esm",
+    "index": 3,
+    "type": "INFO RNAM",
+    "original": "How does one join the Imperial Legion?",
+    "string": "¿Cómo se une <Alias=Player> a la Legión Imperial, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000FBA67|Skyrim.esm",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Honestly, the Legion can use all the able bodies it can muster. We have our hands full. A dead king, a rebellion, and now dragons? Skyrim's a mess.",
+    "string": "En verdad, la Legión necesita todos los cuerpos capaces que pueda reunir. Este ve problemas por todas partes. Un rey muerto, una rebelión, ¿y ahora dragones? Skyrim está en caos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000FBA67|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "If you're serious, you're in the right place. Our headquarters is in Castle Dour. Here you'll find General Tullius, commanding our forces in Skyrim.",
+    "string": "Si hablas en serio, estás en el lugar correcto. El cuartel general está en Castillo Severo. Aquí encontrarás a General Tullius, comandando las fuerzas en Skyrim.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000FBA67|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "But talk to Legate Rikke. She handles the local recruiting.",
+    "string": "Pero habla con Legada Rikke. Ella se encarga del reclutamiento local.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000FBA67|Skyrim.esm",
+    "index": 3,
+    "type": "INFO RNAM",
+    "original": "How does one join the Imperial Legion?",
+    "string": "¿Cómo se une <Alias=Player> a la Legión Imperial, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ102BalgruufIntroRiverwoodA1",
+    "form_id": "000D50A2|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "A dragon destroyed Helgen. <Alias=RiverwoodFriend> is afraid Riverwood is next.",
+    "string": "¡Un dragón destruyó Helgen! ¡<Alias=RiverwoodFriend> teme que Cauce Boscoso pueda ser el siguiente!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ102BalgruufIntroHelgenB2",
+    "form_id": "000D50A3|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Imperials were about to execute Ulfric Stormcloak. Then the dragon attacked.",
+    "string": "Los Imperiales estaban a punto de ejecutar a Ulfric Capa de la Tormenta. ¡Entonces este enorme dragón atacó! Admitidamente, Khajiit se orinó un poco en <Alias.PronounRef=Player>...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ102BalgruufIntroHelgenA1",
+    "form_id": "000D50C4|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes. I had a great view while the Imperials were trying to cut off my head.",
+    "string": "En efecto, amigo - con ambos ojos de <Alias.PronounPosObj=Player>. ¡Este tuvo una vista excelente del ataque mientras los Imperiales intentaban cortar la cabeza de <Alias.PronounPosObj=Player>!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CW00TulliusGreetFreeToGo",
+    "form_id": "000D510F|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I was set free. I could've gone anywhere. I came here to fight for the Empire.",
+    "string": "<Alias=Player> fue liberado y pudo haber ido a cualquier parte, pero <Alias.Pronoun=Player> vino aquí para luchar por el Imperio Imperial.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0B177AF0|alternate start - live another life.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I came here to fight for the Empire.",
+    "string": "<Alias=Player> ha venido a luchar por el Imperio Imperial, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ102BRalofJoinStormcloaksTopic",
+    "form_id": "000DE19A|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You really think I should join up with Ulfric Stormcloak?",
+    "string": "¿Crees que <Alias=Player> debería unirse a Ulfric Capa de la Tormenta, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000DE1A2|Skyrim.esm",
+    "index": 3,
+    "type": "INFO RNAM",
+    "original": "How do I join the Stormcloaks?",
+    "string": "¿Cómo se une <Alias=Player> a la Rebelión Capa de la Tormenta, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CaravansTopicsKharjo1Topic",
+    "form_id": "000E14CB|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What dangers does the caravan face?",
+    "string": "Dile a <Alias=Player> sobre los peligros que un za'yar [caravana] enfrenta en Skyrim, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CW00BUlfricGreetFreeToGo",
+    "form_id": "000E1AB9|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I was set free. I could've gone anywhere. I came here to fight the Empire.",
+    "string": "<Alias=Player> fue liberado y pudo haber ido a cualquier parte, pero <Alias.Pronoun=Player> vino aquí para luchar contra el Imperio Imperial.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0B181CF8|alternate start - live another life.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I came here to fight the Empire.",
+    "string": "¡Khajiit ha venido aquí para luchar contra el Imperio Imperial!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FFRiften07MariseIceWraithBranchTopic",
+    "form_id": "000E8295|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Any idea where I can find some ice wraiths?",
+    "string": "¿Y dónde podría <Alias=Player> encontrar algunos Espectro del hielo, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWShoutTopic",
+    "form_id": "00107F96|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "People say you shouted the High King to death.",
+    "string": "En Helgen, se decía que gritaste hasta matar al Rey, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ARTHLALStartQuestRWWhiterun",
+    "form_id": "0B0308A5|alternate start - live another life.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How do I get to Whiterun from here?",
+    "string": "¿Cómo llega Khajiit a Carrera Blanca desde aquí, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ARTHLALHouseChoicesQuestBranchTopic",
+    "form_id": "0B07EE9B|alternate start - live another life.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I own property in one of the holds.",
+    "string": "Khajiit posee propiedad en uno de las Comarcas, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ARTHLALRaceAltmerQuestBranchTopic",
+    "form_id": "0B07F409|alternate start - live another life.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am an agent with the Thalmor Embassy.",
+    "string": "Khajiit es un agente secreto en la Embajada Thalmor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ARTHLALRaceArgonianQuestBranchTopic",
+    "form_id": "0B07F40C|alternate start - live another life.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am an Argonian dock worker in Windhelm.",
+    "string": "Khajiit es un trabajador Argoniano de muelle en Ventalia, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ARTHLALRaceDunmerWHQuestBranchTopic",
+    "form_id": "0B07F412|alternate start - live another life.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am a refugee from Morrowind. [Windhelm]",
+    "string": "Khajiit es un refugiado de Morrowind, sí. (Ventalia)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ARTHLALRaceDunmerDBQuestBranchTopic",
+    "form_id": "0B07F415|alternate start - live another life.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am a refugee from Morrowind. [Raven Rock]",
+    "string": "Khajiit es un refugiado de Morrowind, sí. (Roca del Cuervo)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ARTHLALRaceNordQuestBranchTopic",
+    "form_id": "0B07F418|alternate start - live another life.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am Erik the Slayer's childhood friend.",
+    "string": "Khajiit ha sido amigo de Erik el Asesino desde que ambos eran jóvenes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ARTHLALRaceBretonQuestBranchTopic",
+    "form_id": "0B07F41B|alternate start - live another life.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am a Forsworn native.",
+    "string": "Khajiit es un nativo Renegados, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ARTHLALVanillaStartQuestBranchTopic",
+    "form_id": "0B07F427|alternate start - live another life.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I got caught crossing the border illegally. [Vanilla Start]",
+    "string": "Este fue atrapado cruzando la frontera, ilegalmente. (Inicio Vanilla)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ARTHLALVigilantsQuestBranchTopic",
+    "form_id": "0B07F43C|alternate start - live another life.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am a Vigilant of Stendarr.",
+    "string": "Khajiit es un Vigilante de Stendarr, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0B29848B|alternate start - live another life.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I have an important message from Jarl Ulfric Stormcloak.",
+    "string": "Este tiene un mensaje importante de Jarl Ulfric Capa de la Tormenta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ARTHLALWhiterunGuardConfrontationQuestBreezehome",
+    "form_id": "0B29848C|alternate start - live another life.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I live in Breezehome. I just want to go home.",
+    "string": "Khajiit vive en Hogar de la Brisa, y simplemente desea regresar allí, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ARTHLALWhiterunGuardConfrontationQuestRiverwood",
+    "form_id": "0B298492|alternate start - live another life.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Riverwood calls for the Jarl's aid.",
+    "string": "¡Cauce Boscoso llama por ayuda del jarl!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0B298493|alternate start - live another life.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Riverwood's in danger, too? You'd better go on in. You'll find the Jarl in Dragonsreach, at the top of the hill.",
+    "string": "¿Cauce Boscoso también está en peligro? Será mejor que entres. Encontrarás al jarl en Cuenca del Dragón, en la cima de la colina.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ARTHLALBedMessageBox",
+    "form_id": "0B016999|alternate start - live another life.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Sleep is the last thing on my mind right now!",
+    "string": "¡Dormir es para los ja'khajiit y los ancianos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ARTHLALNoConsoleCommandsMessage",
+    "form_id": "0B3956CB|alternate start - live another life.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You have used a console command to bypass the collapse. Doing this will break the game.",
+    "string": "Los oídos de Khajiit escucharon un dicho una vez: \"Un bypass de consola solo romperá el zhab [juego], no lo mejorará. Detén el sheggorr [locura] por fuera, al no causar suthna [mentiras] por dentro.\" Estas son palabras sabias, ¿no?",
+    "status": "TranslationComplete"
+  }
+]

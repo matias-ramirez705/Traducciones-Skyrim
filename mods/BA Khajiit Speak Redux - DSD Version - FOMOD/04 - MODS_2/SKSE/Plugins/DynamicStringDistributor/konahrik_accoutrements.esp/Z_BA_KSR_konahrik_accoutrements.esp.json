@@ -1,0 +1,119 @@
+[
+  {
+    "editor_id": "KA_DLCMsgSetShock",
+    "form_id": "03250577|konahrik_accoutrements.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are fully attuned to Zahkriisos and can now cast his unique lightning cloak.",
+    "string": "Este Khajiit está completamente sintonizado con Zahkriisos y ahora puede lanzar su exclusivo Manto de relámpagos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KA_DLCMsgSetFrost",
+    "form_id": "03250575|konahrik_accoutrements.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are fully attuned to Dukaan and can now cast his unique frost cloak.",
+    "string": "Este Khajiit está completamente sintonizado con Dukaan y ahora puede lanzar su exclusivo Manto de escarcha!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KA_DLCMsgSetFire",
+    "form_id": "03250572|konahrik_accoutrements.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are fully attuned to Ahzidal and can now cast his unique fire cloak.",
+    "string": "Este Khajiit está completamente sintonizado con Ahzidal y ahora puede lanzar su exclusivo Manto de fuego!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KA_MsgElderScrolls00",
+    "form_id": "0310C931|konahrik_accoutrements.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Warlord, choose your power.",
+    "string": "Señor de la guerra, elige un poder:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KA_MsgElderScrolls01",
+    "form_id": "0310C932|konahrik_accoutrements.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Abjuration Bolt: Causes Dragon Priests and draugr to lose a significant amount of health and magicka, or can remove a curse made by them.\r\n\r\nYou may only accept one warlord power at a time.",
+    "string": "Bolta de Abjuración: \r\n\r\nEste Khajiit hace que los Sacerdotes Dragón y los Draugr pierdan una cantidad significativa de Salud y Magia, o incluso puede eliminar una maldición hecha por ellos.\r\n\r\n[sólo un Poder de Señor de la Guerra puede estar activo en cualquier momento]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KA_MsgElderScrolls03",
+    "form_id": "0310CEA4|konahrik_accoutrements.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Eye of Akatosh: Time may slow down during an enemy's power attack.\r\n\r\nYou may only accept one warlord power at a time.",
+    "string": "Ojo de Akatosh: \r\n\r\nEl tiempo puede ralentizarse durante un ataque de poder enemigo.\r\n\r\n[sólo un Poder de Señor de la Guerra puede estar activo en cualquier momento]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KA_MsgElderScrolls02",
+    "form_id": "0310CEA3|konahrik_accoutrements.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Sustained Thu'um: Unlimited shouts for a short time.\r\n\r\nYou may only accept one warlord power at a time.",
+    "string": "Thu'um Sostenido: \r\n\r\nGritos ilimitados por un corto tiempo.\r\n\r\n[sólo un Poder de Señor de la Guerra puede estar activo en cualquier momento]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KA_MsgElderScrollsStory01",
+    "form_id": "0310D98A|konahrik_accoutrements.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You find yourself among a crowd of ancient nords, kneeling before their dragon lords.\r\nEight stand humbled between the nords and the dragons. Alduin is among them.\r\nA dragon speaks, \"him fen kos morokei.\" One nord steps forward and speaks \"lahney ahmik,\"\r\nand is given a mask. Another dragon calls \"him fen kos rahgot.\" Another mage is given a mask.\r\nEach of the eight receive masks, then Alduin unfurls his wings, revealing a golden mask.\r\nHe thunders \"wo los wah kos faal konahrik?\"\r\nAll are silent. Alduin repeats,\r\n\"wo los wah kos faal konahrik?\" All eight step forward. Alduin laughs,\r\n\"Ruz pruzaan kroniid fen kos konahrik.\r\nTime will tell us who will be the true warlord.\"",
+    "string": "Hay una multitud de antiguos Nórdicos, arrodillados ante sus señores dragón. \r\nOcho permanecen humillados entre los Nórdicos y los dragones. Alduin está entre ellos.\r\nUn dragón habla, \"him fen kos morokei\" [tu voluntad es gloriosa].\r\nUn Nórdico da un paso al frente y habla \"lahney ahmik\" [vive para servir], y se le entrega una máscara. \r\nOtro dragón proclama, \"him fen kos rahgot\" [tu voluntad es ira], y a otro mago se le entrega una máscara.\r\nCada uno de los ocho recibe máscaras, luego Alduin despliega sus alas, revelando una máscara dorada.\r\nTruena, \"wo los wah kos faal konahrik\" [¿quién será el Señor de la Guerra]?\r\nTodos guardan silencio. Alduin repite, \"wo los wah kos faal konahrik\" [¿quién será el Señor de la Guerra]?\r\nLos ocho dan un paso al frente. Alduin ríe, \"Ruz pruzaan kroniid fen kos konahrik\" [el tiempo dirá quién será el verdadero Señor de la Guerra].",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KA_MsgElderScrollsStory02",
+    "form_id": "0310D98B|konahrik_accoutrements.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A masked figure unfurls an Elder Scroll and suddenly you can see through his eyes.\r\nAhead is a defeated army of ancient nords.\r\nPast pillars of flame and smoke, in the sky above,\r\ndragons descend uncontrollably.\r\nIt is hard to breath.\r\nYour gaze moves downward to find something protruding from your chest.\r\nIt is the tip of a blade.\r\nYou turn around, and before you stands a lone warrior clad in black and gold,\r\ntheir face obscured by a tusked mask.",
+    "string": "Una figura enmascarada despliega un Pergamino Ancestral y de repente este Khajiit puede ver a través de sus ojos.\r\nAl frente hay un ejército derrotado de antiguos Nórdicos. \r\nMás allá de pilares de fuego y humo, en el cielo arriba, los dragones descienden sin control.\r\nEs difícil respirar.\r\nMirando hacia abajo, se nota algo que sobresale del pecho del Khajiit.\r\n¡Es la punta de una espada!\r\nAl darse la vuelta, un guerrero solitario está vestido en negro y dorado, y su rostro está oculto por una máscara con colmillos...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KA_MsgElderScrollsStory03",
+    "form_id": "0310D98C|konahrik_accoutrements.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Inside the shrine of Bromjunaar\r\neight dragon priests stand.\r\nBefore them, an intricately carved altar\r\nadorned with eight pedestals and\r\na stone dragon head at its center.\r\nEach of the priests removes their mask and places them on the pedestals.\r\nThe statue's jaws open.\r\nA priest in black places the golden mask into\r\nthe dragon's maw and closes it.\r\nEach of the priest take their masks back.\r\nA priest in blue and white speaks,\r\n\"Mu fent neh daal. aal konahrik kos vodahmin.\"\r\nThe other priests nod and leave.",
+    "string": "Dentro del santuario de Bromjunaar ocho sacerdotes dragón permanecen.\r\nAnte ellos, un altar finamente tallado adornado con ocho pedestales y una cabeza de dragón de piedra en su centro.\r\nCada uno de los sacerdotes se quita su máscara y la coloca en los pedestales.\r\nLas mandíbulas de la estatua se abren.\r\nUn sacerdote vestido de negro coloca la máscara dorada en la boca del dragón y la cierra.\r\nCada uno de los sacerdotes recupera sus máscaras.\r\nUn sacerdote vestido de azul y blanco habla, \"Mu fent neh daal. aal konahrik kos vodahmin.\"\r\nLos otros sacerdotes asienten y se marchan.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KA_MsgOldArmorQst",
+    "form_id": "03129591|konahrik_accoutrements.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This armor evokes memories of Revakheim, but something is different, almost as if your memories have changed.\r\n\r\nYou should return to Revakheim and investigate.",
+    "string": "Esta armadura evoca recuerdos de Revakheim, pero algo es diferente, casi como si los recuerdos hubieran cambiado...\r\n\r\n¿Quizás regresar a Revakheim e investigar más a fondo sea sabio, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KA_MsgOldArmorRemove",
+    "form_id": "0312A096|konahrik_accoutrements.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "As soon as you touch this armor, its counterpart vanishes into thin air.",
+    "string": "¡En cuanto la armadura es tocada, su contraparte desaparece en el aire!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KA_MsgKonahRobes",
+    "form_id": "031598E0|konahrik_accoutrements.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "These robes seem to resonate with the carved wall.",
+    "string": "Estas túnicas parecen resonar con la pared tallada...",
+    "status": "TranslationComplete"
+  }
+]

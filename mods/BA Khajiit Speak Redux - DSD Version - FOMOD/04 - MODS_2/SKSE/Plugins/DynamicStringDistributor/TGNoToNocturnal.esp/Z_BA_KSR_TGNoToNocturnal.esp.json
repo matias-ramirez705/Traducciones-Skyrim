@@ -1,0 +1,281 @@
+[
+  {
+    "editor_id": "TG08BMercerOutroBranch04",
+    "form_id": "00038A35|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Maybe you're right. Still, you did  murder Gallus.... and  I want that key. Now.",
+    "string": "Quizá, pero tú asesinaste a Gallus, ¿no? Así que <Alias=Player> tomará esa llave... ahora.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG08BKarliahIntroBranchTopic01",
+    "form_id": "00039E31|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Alright. I guess we'd better get on with it then...",
+    "string": "Este Khajiit está preparado. Es hora de irse, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG08BKarliahOutroBranchTopic03",
+    "form_id": "0003A059|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Then we'd best get this show on the road.",
+    "string": "Entonces sería mejor empezar, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ304TsunIntroA5",
+    "form_id": "0004FA3D|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "By right of plunder. I am a Nightingale of Nocturnal.",
+    "string": "Por derecho de saqueo. <Alias=Player> es un Ruiseñor de Nocturnal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG08ABecomeNightingaleBranchTopic01",
+    "form_id": "00058EA9|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Am I to become a Nightingale?",
+    "string": "¿Este Khajiit debe convertirse en un Ruiseñor, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG08AKarliahPreOathQuestionBranchTopic04",
+    "form_id": "00059EA0|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "There's no going back?",
+    "string": "Y no hay salida del contrato, hmm? Seguramente todo es negociable, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG08AKarliahPreOathQuestionBranchTopic",
+    "form_id": "00059EAB|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes?",
+    "string": "¿Hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG08BKarliahIntroBranchTopic02",
+    "form_id": "00094C46|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Those bandits back there, looks like someones been here before us...",
+    "string": "Este Khajiit notó a los bandidos allá atrás. Claramente alguien ya ha estado aquí antes, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG08BKarliahOutroBranchTopic04",
+    "form_id": "000D39AA|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Don't worry. I'll return the Key.",
+    "string": "No te preocupes, <Alias=Player> devolverá la Llave.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG08BNightingaleHallBranchTopic",
+    "form_id": "000DF03F|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "May I ever return to Nightingale Hall?",
+    "string": "¿Será Khajiit bienvenido de regreso en el Salón de los Ruiseñores, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG08BKarliahMercerBranchTopic",
+    "form_id": "000DF042|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't feel stronger.",
+    "string": "Este Khajiit no se siente más fuerte... de lo normal. (sonrisa burlona)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG08BBrynjolfNightingaleBranchTopic",
+    "form_id": "000DF044|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I guess the Nightingales will be back someday, maybe soon...",
+    "string": "Este Khajiit apostaría que los Ruiseñores regresarán algún día. Quizá pronto, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG08BTrapBranchTopic",
+    "form_id": "000DF8B4|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you think Mercer knows we're here?",
+    "string": "¿Crees que Mercer sabe quién está aquí, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000DF8B7|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The lass seems to think old Mercer is pulling a fast one on us... leading us here and letting the dwarven constructs wear us down.",
+    "string": "La muchacha parece pensar que el viejo Mercer nos está engañando... llevándonos aquí y dejando que los constructos enanos nos desgasten.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG09EbonmereBranchTopic",
+    "form_id": "000E1075|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me about the conduit inside the Sepulcher.",
+    "string": "Cuéntale a <Alias=Player> sobre el conducto dentro del Sepulcro, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E107F|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The Twilight Sepulcher was constructed around it by man and mer in order to shield it from those who would exploit its power.",
+    "string": "El Sepulcro del Crepúsculo fue construido a su alrededor por Hombres y Mer para protegerlo de aquellos que quisieran explotar su poder.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG09PilgrimsPathBranchTopic",
+    "form_id": "000E1077|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's the story with the Pilgrim's Path?",
+    "string": "Este Khajiit cree que hay una historia intrigante detrás de este Camino del Peregrino, sí? Cuéntale todo a este, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E107B|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "As part of their \"duties,\" the priests created all sorts of baseless rituals and ceremonies all on Nocturnal's behalf.",
+    "string": "Como parte de sus “deberes”, los sacerdotes crearon todo tipo de rituales y ceremonias sin fundamento en nombre de Nocturnal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG09GoWithBranchTopic",
+    "form_id": "000E107A|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't understand why you won't come with me.",
+    "string": "<Alias=Player> no entiende por qué te niegas a unirte a <Alias.PronounObj=Player>??",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG09PostDefendBranchTopic",
+    "form_id": "000E1ED2|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How will I know if I'm needed here?",
+    "string": "¿Cómo sabrá <Alias=Player> si <Alias.Pronoun=Player> es necesario aquí, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG09PostFindBranchTopic",
+    "form_id": "000E1ED3|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Where will you be from now on?",
+    "string": "¿Dónde estarás a partir de ahora, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E1EF5|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Of course, I may visit some of Skyrim's cities to \"acquire\" things from time to time. Can't afford to get rusty, now can we?",
+    "string": "Por supuesto, este Khajiit podría visitar algunas ciudades de Skyrim para “adquirir” cosas de vez en cuando. No podemos permitirnos oxidarnos, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG09PostGallusBranchTopic",
+    "form_id": "000E1ED6|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Where did Gallus go?",
+    "string": "¿Qué pasó con Gallus, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E1EE9|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gallus's Oath has been paid. His actions have satisfied the terms.",
+    "string": "El juramento de Gallus ha sido cumplido. Sus acciones han satisfecho los términos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TGPostKarliahNGBranchTopic",
+    "form_id": "000E89DB|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "About the secrecy of the Nightingales...",
+    "string": "Este Khajiit tiene curiosidad sobre el secreto de los Ruiseñores...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E89E3|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "If you wish to wear your Nightingale Armor within the Guild, I'm certain that no one would give it a second thought.",
+    "string": "Si deseas usar tu armadura Ruiseñor dentro del Gremio, este Khajiit está seguro de que nadie lo pensará dos veces.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG08BKarliahOutroBranchTopic05",
+    "form_id": "03000D62|TGNoToNocturnal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can't help you. Sorry you'll have to summon the courage to face her alone...",
+    "string": "Este no puede ayudarte, amigo. Hay valor en enfrentar tal amenaza solo, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000D63|TGNoToNocturnal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm afraid  to face the end of my journey alone.",
+    "string": "Tengo miedo de enfrentar el final de mi viaje solo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG08AKarliahPreOathQuestionBranchTopic05",
+    "form_id": "03001828|TGNoToNocturnal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, I'll take on Mercer for Gallus' sake but I won't sell my soul to Nocturnal.",
+    "string": "No. <Alias=Player> enfrentará a Mercer en nombre de Gallus, pero el alma de este Khajiit no servirá a Nocturnal!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG09KarliahForceGreetKeyReturnedTopic01",
+    "form_id": "03008944|TGNoToNocturnal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hello, Karliah.",
+    "string": "Saludos, Karliah.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG09KarliahForceGreetKeyReturnedTopic02",
+    "form_id": "0300B457|TGNoToNocturnal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Thank you Karliah.",
+    "string": "Este Khajiit te agradece, Karliah.",
+    "status": "TranslationComplete"
+  }
+]

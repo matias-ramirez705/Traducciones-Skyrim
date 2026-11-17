@@ -1,0 +1,83 @@
+[
+  {
+    "editor_id": "BCD_CarryWeightAb",
+    "form_id": "05000005|Better Carriage Destinations.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Super CarryWeight",
+    "string": "Super CarryWeight",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseCarriageBranchTopic",
+    "form_id": "03007873|HearthFires.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need a ride.",
+    "string": "Necesito que me lleven.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BCD_CarriageDialogBranchTopic",
+    "form_id": "05000014|Better Carriage Destinations.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to hire your carriage.",
+    "string": "Quisiera alquilar tu carruaje.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BCD_FerryDialogBranchTopic",
+    "form_id": "05000019|Better Carriage Destinations.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to hire your ferry.",
+    "string": "Me gustaría contratar tu ferry.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueCarriageSystem",
+    "form_id": "00017F01|Skyrim.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Carriage system dialogue",
+    "string": "Diálogo del sistema de transporte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1DialogueFerrySystem",
+    "form_id": "02016848|Dawnguard.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Ferry system dialogue",
+    "string": "Diálogo del sistema de ferry",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BCD_ConfirmMsg",
+    "form_id": "05000004|Better Carriage Destinations.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This will cost %.0f gold, proceed?",
+    "string": "Esto costara %.0f de oro, continuar?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BCD_ConfirmMsg",
+    "form_id": "05000004|Better Carriage Destinations.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "Si",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BCD_ConfirmMsg",
+    "form_id": "05000004|Better Carriage Destinations.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "Cancelar",
+    "status": "TranslationComplete"
+  }
+]

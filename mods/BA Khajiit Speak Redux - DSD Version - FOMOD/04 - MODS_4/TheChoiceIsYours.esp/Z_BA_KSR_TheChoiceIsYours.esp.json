@@ -1,0 +1,1010 @@
+[
+  {
+    "editor_id": "DBRumorsTopic",
+    "form_id": "000153B3|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Heard any rumors lately?",
+    "string": "¿Tus oídos han escuchado algún buen rumor últimamente, amigo? A este Khajiit le encantan especialmente los que tienen pasión e intriga, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA03BarbasOffer0",
+    "form_id": "0001BFBC|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So, what could a dog need help with?",
+    "string": "¿Qué podría necesitar la ayuda de un perro y por qué habría de ayudarlo un Khajiit, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA03BarbasOffer1A",
+    "form_id": "0001C4CE|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So you're a little lost puppy?",
+    "string": "Te pareces a un cachorro perdido, ¿sí? ¡Y hueles igual de mal!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0001C4DC|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Very funny. My master is Clavicus Vile, daedric prince of wishes. As you can imagine, he's quite the important person.",
+    "string": "Muy gracioso. Mi amo es Clavicus Vile, Príncipe Daédrico de los Deseos. Como podrás imaginar, es alguien bastante importante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS03LouisGreet0",
+    "form_id": "0001DA2E|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What sort of message?",
+    "string": "¿Qué mensaje, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS10WhyNotFightBack",
+    "form_id": "0001F79C|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why not fight back?",
+    "string": "¿Por qué no contraatacas, hmm? Seguro que tienes fuerzas para hacerlo, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS07Victims0",
+    "form_id": "00025F46|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What will happen to sailors on the boat?",
+    "string": "Este Khajiit siente curiosidad... ¿Qué les sucede a los marineros del barco, hmm? Seguramente no tienen por qué morir, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS07JRWhatIf0",
+    "form_id": "00025F53|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Setting up a wreck? I should turn you in to the guards.",
+    "string": "¿Preparar un naufragio, hmm? <Alias=Player> debería convertir a esos cobardes sin garras en guardias...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS07JRGreet1A",
+    "form_id": "00025F55|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm no thief.",
+    "string": "¡Este Khajiit no es ningún ladrón!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS07JRGreet0",
+    "form_id": "00025F57|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What did you have in mind?",
+    "string": "¿Qué tienes en mente, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000A6BE9|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I bet the two of us, we're very alike. So why not take the next step? We can help each other.",
+    "string": "Apuesto a que tú y este Khajiit nos parecemos mucho. Entonces, ¿por qué no dar el siguiente paso? Podemos ayudarnos mutuamente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000A6BE9|Skyrim.esm",
+    "index": 4,
+    "type": "INFO RNAM",
+    "original": "I'm listening...",
+    "string": "Los oídos de Khajiit están atentos...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000AAA14|Skyrim.esm",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "So what was your suggestion again?",
+    "string": "¿Cuál era tu propuesta, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS10OrthusPirateStory",
+    "form_id": "00027485|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What else can you tell me about these pirates?",
+    "string": "¿Qué más puedes contarle a <Alias=Player> sobre estos piratas, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS10OrthusBringBook",
+    "form_id": "00029A8D|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you have any proof of that?",
+    "string": "Tienes pruebas de ello, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS12NurelionIntroBranchTopic",
+    "form_id": "0002C24F|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is something wrong?",
+    "string": "Disculpa, amigo, ¿de qué estabas discutiendo con esa persona, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00024984|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "What are you arguing about?",
+    "string": "¿De qué están discutiendo exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS12NurelionMotivationBranchTopic",
+    "form_id": "0002DC9B|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why is the Phial so important to you?",
+    "string": "¿Por qué es tan importante para ti este Frasco, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS12NurelionPhialInfoBranchTopic",
+    "form_id": "0002DC9C|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is the White Phial?",
+    "string": "¿Qué es el Frasco Blanco, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS12NurelionOfferThanks",
+    "form_id": "0002DC9D|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "If you tell me where it is, I can get it for you.",
+    "string": "Si le dices a <Alias=Player> dónde está, <Alias.Pronoun=Player> se encargará de ello.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS09FraliaInitialFollowUp2",
+    "form_id": "00039F55|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How can you be sure your son is alive?",
+    "string": "Este Khajiit no desea ofender, pero ¿cómo sabes que tu pequeño sigue con vida?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS09FraliaInitialFollowUp1",
+    "form_id": "00039F56|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How do you know they're lying?",
+    "string": "¿Cómo sabes que dicen la verdad, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DelphineRumorsBranchRevisedTopic",
+    "form_id": "000453E6|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Heard any rumors lately?",
+    "string": "¿Tus oídos han escuchado algún buen rumor últimamente, amigo? A este Khajiit le encantan especialmente los que tienen pasión e intriga, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformRiverwood01SvenTopic02",
+    "form_id": "0005C812|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes. Two people spending time together never blossoms into courtship.",
+    "string": "Que dos personas pasen tiempo juntas no significa que vaya a surgir un romance.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0005C824|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Here, let me give you a particularly venomous letter. Say it's from Faendal. That should get Camilla to stop inviting the elf over.",
+    "string": "Toma, déjame darte una carta especialmente venenosa. Di que es de Faendal. Eso debería conseguir que Camilla deje de invitar a ese Elfo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformRiverwood01SvenTopic01",
+    "form_id": "0005C813|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He sounds persistent.",
+    "string": "Los oídos de Khajiit perciben que Faendal es bastante insistente. ¿Por qué no haces algo al respecto, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformRiverwood01SvenIntroBranchTopic",
+    "form_id": "0005C814|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You and Faendal both like the same girl?",
+    "string": "A ti y a Faendal les gusta la misma muchacha, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0005C823|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Camilla Valerius knows I'm the best man in Riverwood. That elf is kidding himself if he thinks she would choose him over me.",
+    "string": "Camilla Valerius sabe que soy el mejor hombre de Riverwood. Ese Elfo se engaña si cree que ella me elegiría a mí antes que a él.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformRiverwood01FaendalIntroBranchTopic",
+    "form_id": "0005C81C|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's your problem with Sven?",
+    "string": "¿Qué problema tienes exactamente con Sven?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0005C825|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Thinks his ballads and sonnets are going to convince Camilla Valerius to marry him. As if she would say \"yes.\"",
+    "string": "Cree que sus baladas y sonetos convencerán a Camilla Valerius para que se case con él. Como si ella fuera a decirle que sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA02BoethahSlayFollowersReasonsPrivate",
+    "form_id": "0005FC79|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "My reasons are my own.",
+    "string": "Khajiit tiene sus razones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformSoljundsSinkholeAPerthChoice01",
+    "form_id": "00061340|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The mine isn't safe? Why?",
+    "string": "¿La mina es peligrosa, hmm? ¿Por qué motivo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS07JareeRaOfferTopic2",
+    "form_id": "00061D8E|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So you want me to put out the lighthouse fire?",
+    "string": "¿Deseas que <Alias=Player> apague el fuego del faro, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS07JareeRaOfferTopic",
+    "form_id": "00061E61|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So what's your offer?",
+    "string": "Entonces, ¿qué estás dispuesto a ofrecerle a Khajiit, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS03LouisBlackBriarInfoTopic",
+    "form_id": "00067CC4|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why is Sibbi in jail?",
+    "string": "Este Khajiit siente curiosidad... ¿Por qué está Sibbi en prisión?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueSoljundsSinkholePerthAccept",
+    "form_id": "0006A881|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll handle those draugr for you.",
+    "string": "Este Khajiit se encargará de esos molestos Draugr por ti, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueSoljundsSinkholePerthChoice02",
+    "form_id": "0006A882|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I go where I please.",
+    "string": "¡<Alias=Player> viaja adonde le place!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0006A88B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fine, but there's a whole crypt of draugr underneath the mine.",
+    "string": "Está bien, pero hay toda una cripta llena de Draugr debajo de la mina.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00068F64|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Your ancestral shield is lost in a cave?",
+    "string": "¿Tu escudo ancestral se ha perdido en una cueva, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000AB83B|Skyrim.esm",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "What's special about this sword?",
+    "string": "¿Qué tiene de especial esta espada, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS03LouisMotivationTopic",
+    "form_id": "00074A4A|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why don't you go tell Sibbi yourself?",
+    "string": "Deberías decírselo a Sibbi personalmente, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FFRiften20BranchTopic02",
+    "form_id": "00085D24|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sorry, sounds dangerous.",
+    "string": "Disculpa, pero eso suena demasiado peligroso para los oídos de Khajiit.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FFRiften01JarlIntroBranchTopic03",
+    "form_id": "00085DED|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Perhaps some other time.",
+    "string": "¿En otra ocasión, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA01AraneaIntroTopic02B",
+    "form_id": "000917A7|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm not Azura's champion. Find someone else.",
+    "string": "Este Khajiit no es el campeón de nadie. Busca a otro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA07QuestGiveTopic01",
+    "form_id": "0009739A|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You want me to get those fragments?",
+    "string": "¿Deseas que <Alias=Player> consiga esos fragmentos, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000B31FC|Skyrim.esm",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "Heard any rumors lately?",
+    "string": "¿Tus oídos han escuchado algún buen rumor últimamente, amigo? A este Khajiit le encantan especialmente los que tienen pasión e intriga, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WEJS14RushTopic",
+    "form_id": "000BECE0|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have more questions.",
+    "string": "Este Khajiit siente curiosidad... ¿Qué vieron exactamente tus ojos?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WEJS14HighRock",
+    "form_id": "000BECE1|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Where are you going?",
+    "string": "¿Adónde te diriges exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS01EltrysWhyTopic",
+    "form_id": "000D3E4A|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You've looked into these murders?",
+    "string": "Has investigado estos asesinatos, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS01EltrysForswornTopic",
+    "form_id": "000D3E4B|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who are the Forsworn?",
+    "string": "Este Khajiit siente curiosidad... ¿Quiénes son estos Renegados?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D3E56|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The Nords drove them out of the city. Ulfric Stormcloak and his men. That was about 20 years ago.",
+    "string": "Los nórdicos los expulsaron de la ciudad. Ulfric Capa de la Tormenta y sus hombres. Eso ocurrió hace unos veinte años.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS01WeylinEvidenceTopic",
+    "form_id": "000D6635|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Weylin got his orders from Nepos.",
+    "string": "Alguien llamado Nepos le dio las órdenes a Weylin.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS01MargretEvidenceTopic",
+    "form_id": "000D6666|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Margret was investigating Thonar.",
+    "string": "Margret estaba investigando a Thonar, en efecto, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D66D6|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So the clues point to the Treasury House, then. That makes sense. Thonar is involved in every facet of the city.",
+    "string": "Entonces, las pistas apuntan a la Casa del Tesoro. Tiene sentido. Thonar está involucrado en todos los asuntos de la ciudad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "T03DanicaGiveMeTheKnife",
+    "form_id": "000D7698|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What kind of weapon would work?",
+    "string": "¿Qué clase de arma serviría, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CW00BGalmarNotSure",
+    "form_id": "000E1AAF|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm not sure about this.",
+    "string": "Este Khajiit tiene un mal presentimiento...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RR01ModynIntroBranchTopic03c",
+    "form_id": "0301BFBF|Dragonborn.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sounds like a long shot to me.",
+    "string": "Este Khajiit no desperdiciaría el tiempo de <Alias.PronounPosObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RR03CresciusIntroLastBranchTopic01",
+    "form_id": "030209CC|Dragonborn.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So you do need my help.",
+    "string": "Khajiit sospecha que deseas que <Alias.PronounObj=Player> te ayude, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RR03IntroCresciusAxeBranchTopic03",
+    "form_id": "030209E7|Dragonborn.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let me think about this.",
+    "string": "Khajiit necesita un momento...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RR03IntroCresciusAxeBranchTopic02",
+    "form_id": "030209E8|Dragonborn.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Fine, you keep it.",
+    "string": "Como quieras. Quédatelo. A Khajiit no le importa...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RR03IntroCresciusAxeBranchTopic01",
+    "form_id": "030209E9|Dragonborn.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It doesn't belong to you.",
+    "string": "Dejando las conjeturas a un lado, no te pertenece, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RR03IntroCresciusAxeBranchTopic",
+    "form_id": "030209EA|Dragonborn.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Glover wants his Ancient Nordic Pickaxe back.",
+    "string": "Glover exige que le devuelvas ese Pico nórdico antiguo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RR03IntroGloverStalhrimBranchTopic01",
+    "form_id": "030209EB|Dragonborn.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I assume it's rare.",
+    "string": "<Alias=Player> supone que es raro, ¿sí? Como un buen plato de leche fresca en un caluroso día de verano...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RR03IntroGloverBranchTopic02",
+    "form_id": "030209EE|Dragonborn.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can't you just get the guard to find Crescius?",
+    "string": "Eres capaz de convencer al guardia para que encuentre a Crescius, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03020A0A|Dragonborn.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Um, I prefer to handle these things on my own.",
+    "string": "Umm, prefiero ocuparme de estas cosas por mi cuenta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RR03IntroGloverBranchTopic01",
+    "form_id": "030209EF|Dragonborn.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why all the fuss over a simple pickaxe?",
+    "string": "Este Khajiit siente curiosidad... ¿Por qué tanto alboroto por un simple pico?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RR03IntroGloverBranchTopic",
+    "form_id": "030209F0|Dragonborn.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's the matter?",
+    "string": "¿Qué sucede, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "T03DanicaNoThanks",
+    "form_id": "04002DAE|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "On second thought, I don't think I can help you right now.",
+    "string": "Ahora que lo piensa mejor, Khajiit ya no está interesado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04002DB1|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Maybe I can find that shield for you.",
+    "string": "Khajiit se encargará de ello.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04002DB2|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I can get the sword for you.",
+    "string": "Khajiit se encargará de ello.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04002DB4|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "That's an interesting story, but it's probably just a story.",
+    "string": "Es una historia interesante, desde luego. Sin embargo, Khajiit sospecha que no es más que eso, quizá. Una historia, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04002DB5|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I don't blame them. Maybe the Jarl should retrieve the sword himself.",
+    "string": "<Alias=Player> no los culpa, no. Quizá el jarl debería recuperar esta espada por su cuenta, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RR03IntroRefuse",
+    "form_id": "040036C9|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't have time for this.",
+    "string": "<Alias=Player> no tiene tiempo para esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RR03IntroAgree",
+    "form_id": "040036CA|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sure.",
+    "string": "Desde luego.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RR03CresciusIntroLastBranchRefuse",
+    "form_id": "040036CD|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to help, but I have more urgent matters to deal with.",
+    "string": "Khajiit desearía poder ayudar más a <Alias.PronounObj=Player>, pero hay asuntos más urgentes de los que <Alias.PronounObj=Player> debe ocuparse, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA03StartLodBranchRefuse",
+    "form_id": "0400387A|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sorry, I don't have time right now.",
+    "string": "Disculpa, pero Khajiit no tiene tiempo en este momento, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA02BoethiahAccept",
+    "form_id": "040048A2|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll do it.",
+    "string": "Khajiit se encargará de ello.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA02BoethiahReject",
+    "form_id": "040048A3|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll do nothing of the sort.",
+    "string": "Khajiit no hará semejante cosa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA02BoethiahComplete",
+    "form_id": "040048A4|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "My soul is destined for Sovngarde. I'll have no part in your vile desires.",
+    "string": "Khajiit se asegurará de que <Alias.PronounPosObj=Player> termine en Sovngarde. ¡<Alias.PronounCap=Player> no participará en tus viles deseos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA07QuestAccept",
+    "form_id": "04004E0A|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No problem.  The pieces are as good as yours.",
+    "string": "No hay problema, amigo. Las piezas ya son prácticamente tuyas, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA07QuestAccept02",
+    "form_id": "04004E0B|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll do it, but you better be willing to pay me for my efforts.",
+    "string": "Khajiit lo hará, amigo, pero más te vale estar dispuesto a pagar por los esfuerzos de <Alias.PronounPosObj=Player>... y añadir una bonificación por su atractivo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA07QuestRefuse",
+    "form_id": "04004E0C|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "A broken blade hardly seems worth all that effort.  I think I'll pass.",
+    "string": "Una espada rota difícilmente parece merecer tanto esfuerzo, ¿no? Khajiit no está interesado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA02BoethiahSlayFollowersReasonsMolagBal",
+    "form_id": "040083F3|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "To honor Lord Molag Bal, who has named me his champion.",
+    "string": "Para honrar al señor Molag Bal, quien ha nombrado a <Alias=Player> su campeón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400EA59|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We tunneled into an old Nordic crypt. The whole place is crawling with draugr.",
+    "string": "Excavamos un túnel hasta una antigua cripta nórdica. Todo el lugar está infestado de Draugr.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400EA59|TheChoiceIsYours.esp",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "What happened to the mine?",
+    "string": "¿Qué le ocurrió exactamente a la mina?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunMossMotherQSTInnKeepRefuse",
+    "form_id": "04011ACD|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sorry, I'm not heading that way.",
+    "string": "Disculpa, pero <Alias=Player> no se dirige hacia allí, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunMossMotherQSTInnKeepAccept",
+    "form_id": "04011ACE|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Of course. I'll keep an eye out for any sign of them.",
+    "string": "Desde luego, amigo. Khajiit estará atento a cualquier señal de ellos, sí. De hecho, con ambos ojos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04011AD4|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's not worth the risk. You're lucky to have survived.",
+    "string": "Si le preguntas a Khajiit su opinión sobre la situación, amigo, la verdad es que no parece valer la pena correr semejante riesgo, ¿no crees? Tuviste suerte de sobrevivir, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS12RefusalTopic",
+    "form_id": "04012AFC|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's unfortunate, but I don't think I can help you.",
+    "string": "Qué desafortunado, pero Khajiit no puede ayudar con esto ahora mismo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformRiverwood01SvenRefuse",
+    "form_id": "04013060|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Whoa, hold on a minute.  I'm staying out of this.",
+    "string": "¡No metas a Khajiit en tus disputas!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformRiverwood01SvenAccept",
+    "form_id": "04013061|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sure, why not?  This ought to be amusing.",
+    "string": "Khajiit podría hacerse un tiempo para esto, sí. Como mínimo, servirá para divertir y entretener a este felino.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformRiverwood01FaendalRefuse",
+    "form_id": "04013064|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sorry, but I'd rather not get involved.",
+    "string": "Disculpa, pero Khajiit no desea involucrarse en esto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04013065|TheChoiceIsYours.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Oh, I see.  Well, I'm sorry to have troubled you about it.",
+    "string": "Ah, ya veo. Bueno, lamento haberte molestado con el asunto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformRiverwood01FaendalAccept",
+    "form_id": "04013066|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sure, why not?  This ought to be amusing.",
+    "string": "Khajiit podría hacerse un tiempo para esto, sí. Como mínimo, servirá para divertir y entretener a este felino.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0401306A|TheChoiceIsYours.esp",
+    "index": 3,
+    "type": "INFO RNAM",
+    "original": "Forget about Camilla.  She's with me now.",
+    "string": "Camilla está ahora con Khajiit, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0401306B|TheChoiceIsYours.esp",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "Forget about Camilla.  She's with me now.",
+    "string": "Camilla está ahora con Khajiit, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS09PlayerAcceptQuest",
+    "form_id": "040135D0|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Alright, I'll stop by this evening.",
+    "string": "Muy bien, Khajiit irá a ver cómo estás esta noche, ¿quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04013B34|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You would?  Oh, that would be wonderful.",
+    "string": "¿Lo harías? Oh, sería maravilloso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS09PlayerRefuseQuest",
+    "form_id": "040135D1|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm sorry, but I don't have time.",
+    "string": "Disculpa, pero Khajiit no tiene tiempo para esto, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS09FraliaReturnLater",
+    "form_id": "04013B39|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Remind me, what happened to your son?",
+    "string": "Recuérdale a este Khajiit qué le ocurrió a tu pequeño, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04013B3A|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's not wise to discuss it here.  Please, if you truly wish to help, meet me at my home.  I'll tell you the whole story.",
+    "string": "No es prudente hablar de ello aquí. Por favor, si de verdad deseas ayudar, reúnete conmigo en mi casa. Te contaré toda la historia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS10OrthusAccept",
+    "form_id": "04015B8A|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll see what I can do.",
+    "string": "Khajiit se encargará de ello.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS10OrthusDecline",
+    "form_id": "04015B8B|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sorry, but I don't want to get involved.",
+    "string": "Disculpa, pero Khajiit no desea involucrarse en esto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS07AcceptQuest",
+    "form_id": "0401665A|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sounds good.",
+    "string": "Eso suena bien a los oídos de Khajiit.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS07DeclineQuest",
+    "form_id": "0401665B|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Forget it.",
+    "string": "Como quieras.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KRY_AltarMolagBalMsg",
+    "form_id": "0400896A|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Blessing of Molag Bal added",
+    "string": "Bendición de Molag Bal añadida...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TCIY_ReadBookMessage",
+    "form_id": "0401665F|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "There may be more to this story.",
+    "string": "Está claro que hay algo más detrás de esta historia...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TCIY_ReadBookMessage",
+    "form_id": "0401665F|TheChoiceIsYours.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Ignore",
+    "string": "Khajiit no está interesado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TCIY_ReadBookMessage",
+    "form_id": "0401665F|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Investigate further",
+    "string": "Investiga más a fondo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TCIY_ReadBookMessage_DG",
+    "form_id": "04016A63|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "There may be more to this story.",
+    "string": "Está claro que hay algo más detrás de esta historia...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TCIY_ReadBookMessage_DG",
+    "form_id": "04016A63|TheChoiceIsYours.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Ignore",
+    "string": "Khajiit no está interesado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TCIY_ReadBookMessage_DG",
+    "form_id": "04016A63|TheChoiceIsYours.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Investigate further",
+    "string": "Investiga más a fondo.",
+    "status": "TranslationComplete"
+  }
+]

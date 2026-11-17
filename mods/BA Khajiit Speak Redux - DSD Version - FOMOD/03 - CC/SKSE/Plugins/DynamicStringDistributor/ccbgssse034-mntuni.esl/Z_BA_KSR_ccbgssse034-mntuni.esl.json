@@ -1,0 +1,164 @@
+[
+  {
+    "editor_id": "ccBGSSSE034_HorseSaddleQuestSaddleBranchTopic",
+    "form_id": "05000831|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría cambiar la silla de montar.",
+    "string": "Khajiit desea cambiar la silla de montar de <Alias.PronounPosObj=Player> caballo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000838|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Silla de montar estándar (100 de oro)",
+    "string": "Una silla de montar estándar, quizás. (100 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083A|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Silla de montar de la Hermandad Oscura (100 de oro)",
+    "string": "Una silla de la Hermandad Oscura, y no le contarás a nadie, ¿sí? (100 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000839|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Silla de montar imperial (100 de oro)",
+    "string": "Una silla de montar Imperial, quizás. (100 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000837|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Silla de montar blanca (100 de oro)",
+    "string": "Una silla de montar blanca, quizás. (100 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083C|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Quitar la silla de montar.",
+    "string": "¿Removerás la silla de montar para <Alias=Player>, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084A|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Silla de montar de Capa de la Tormenta (100 de oro)",
+    "string": "Una silla de montar de Los Capas de la Tormenta, quizás. (100 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE034_WildHorsesQuestBranch01Topic",
+    "form_id": "05000D6B|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría comprar el mapa de los caballos salvajes (250 de oro)",
+    "string": "Khajiit busca un mapa de caballos salvajes. Posees tal cosa, ¿no? (250 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE034_WildHorsesQuestRenameBranchTopic",
+    "form_id": "05000DED|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría registrar el caballo y cambiarle el nombre.",
+    "string": "<Alias=Player> desea registrar y renombrar a <Alias.PronounPosObj=Player> caballo, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE034_MessageNoHorsesOwned",
+    "form_id": "0500083D|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "En este momento no tienes ningún caballo.",
+    "string": "Quizás sea prudente obtener primero un caballo, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE034_MessageCantChangeSaddle",
+    "form_id": "05000877|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No le puedes cambiar la silla de montar al caballo actual.",
+    "string": "Lamentablemente, este caballo no puede cambiar su silla de montar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE034_MessageMustBeTamedSaddle",
+    "form_id": "0500087C|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Debes domar al caballo para cambiar la silla de montar.",
+    "string": "Primero doma al caballo, luego cambia la silla. Esto se sabe.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE034_MessageMustBeTamedRename",
+    "form_id": "0500087B|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Debes domar al caballo para cambiarle el nombre.",
+    "string": "No intentes nombrar cosas antes de domesticarlas, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE034_MessageNotEnoughGold",
+    "form_id": "05000D6E|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No tienes oro suficiente.",
+    "string": "A Khajiit le falta un septim, o dos... o cuatro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE034_WildHorseMessageTamed",
+    "form_id": "05000808|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has domado al caballo.",
+    "string": "¡El caballo ha sido domesticado con éxito!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE034_MessageSaddleChanged",
+    "form_id": "0500083E|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Le has cambiado la silla de montar al caballo.",
+    "string": "La silla de montar ha sido cambiada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE034_MessageNameChanged",
+    "form_id": "0500086E|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Has rebautizado al caballo.",
+    "string": "¡El caballo ha recibido un nombre nuevo y brillante!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE034_MessageSaddleRemoved",
+    "form_id": "0500083F|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Le has quitado la silla de montar al caballo.",
+    "string": "La silla de montar ha sido removida.",
+    "status": "TranslationComplete"
+  }
+]

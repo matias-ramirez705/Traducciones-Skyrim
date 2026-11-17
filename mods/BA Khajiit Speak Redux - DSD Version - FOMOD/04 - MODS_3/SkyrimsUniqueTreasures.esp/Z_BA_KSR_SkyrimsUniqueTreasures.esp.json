@@ -1,0 +1,20 @@
+[
+  {
+    "editor_id": "aaaIntroChoice",
+    "form_id": "0500F71B|SkyrimsUniqueTreasures.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Which setup option of Skyrim's Unique Treasures would you like?",
+    "string": "¿Qué opción de configuración de Tesoros Únicos de Skyrim te gustaría?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WishList",
+    "form_id": "0501493F|SkyrimsUniqueTreasures.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You rub the lamp. What would you like to wish for?",
+    "string": "Frotas la lámpara. ¿Qué te gustaría pedir?",
+    "status": "TranslationComplete"
+  }
+]

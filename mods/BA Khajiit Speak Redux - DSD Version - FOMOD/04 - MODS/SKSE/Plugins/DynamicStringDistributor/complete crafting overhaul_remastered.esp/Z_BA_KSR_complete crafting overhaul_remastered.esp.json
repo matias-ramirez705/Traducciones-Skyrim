@@ -1,0 +1,56 @@
+[
+  {
+    "editor_id": "MiningDepletedDepositMessage_KRY",
+    "form_id": "0720D5E0|complete crafting overhaul_remastered.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This deposit is depleted.",
+    "string": "El yacimiento está agotado. No hay más...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CCO_LearningMessageDraugr",
+    "form_id": "07007A3F|complete crafting overhaul_remastered.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your understanding of Ancient Nordic construction methods has increased.",
+    "string": "¡El conocimiento de construcción Nórdica Antigua de este Khajiit ha aumentado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CCO_LearningMessageFalmer",
+    "form_id": "07007A40|complete crafting overhaul_remastered.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your understanding of Falmer construction methods has increased.",
+    "string": "¡El conocimiento de construcción Falmer de este Khajiit ha aumentado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MiningDepletedShellbugMessage_KRY",
+    "form_id": "0720D5DF|complete crafting overhaul_remastered.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This shellbug is dead.",
+    "string": "El shellbug está muerto. M-U-E-R-T-O.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CCO_LearningMessageForsworn",
+    "form_id": "07007A3E|complete crafting overhaul_remastered.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your understanding of Forsworn construction methods has increased.",
+    "string": "¡El conocimiento de construcción Forsworn de este Khajiit ha aumentado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MiningDepletedGeodeMessage_KRY",
+    "form_id": "0720D5DE|complete crafting overhaul_remastered.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This geode vein is depleted.",
+    "string": "La veta geoda está agotada. Una tristeza, en verdad.",
+    "status": "TranslationComplete"
+  }
+]

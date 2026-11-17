@@ -1,0 +1,29 @@
+[
+  {
+    "editor_id": "ShowRoomOptionTopic",
+    "form_id": "02000D64|CT_AskToShowRoom.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Would you please show me where it is?",
+    "string": "¿Le mostraría a este dónde está, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ShowRoomOptionNoTopic",
+    "form_id": "020012C7|CT_AskToShowRoom.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I know where the room is, thank you.",
+    "string": "<Alias=Player> encontrará su propio camino, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ShowRoomOptionBlockingTopic",
+    "form_id": "02001D8E|CT_AskToShowRoom.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "About my room...",
+    "string": "Khajiit siente curiosidad por la habitación...",
+    "status": "TranslationComplete"
+  }
+]

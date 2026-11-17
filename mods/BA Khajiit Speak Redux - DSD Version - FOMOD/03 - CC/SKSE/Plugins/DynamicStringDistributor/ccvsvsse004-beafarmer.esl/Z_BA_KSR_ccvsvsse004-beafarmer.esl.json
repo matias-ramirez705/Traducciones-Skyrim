@@ -1,0 +1,398 @@
+[
+  {
+    "editor_id": "null",
+    "form_id": "020154A4|Dawnguard.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¡Quédate aquí y protege la granja!",
+    "string": "Quédese aquí y cuide la granja, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000CB5|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Deja de proteger la granja.",
+    "string": "Dejar de cuidar la granja.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004PurchaseHorseBranchTopic",
+    "form_id": "05000820|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Quisiera que me comprases un caballo (<Global=VSVGLO_Horse> de oro).",
+    "string": "Khajiit desea que compren un caballo para <Alias.PronounObj=Player>, hmm? (<Global=VSVGLO_Horse> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004GuardDogHireTopic",
+    "form_id": "05000CFF|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¡Quédate aquí y protege la granja!",
+    "string": "Quédese aquí y cuide la granja, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000D00|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(gruñido)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087B|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(gruñido)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004GuardDogDismissTopic",
+    "form_id": "05000D01|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Deja de proteger la granja.",
+    "string": "Dejar de cuidar la granja.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000D02|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(gemido)",
+    "string": "(gimotea)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VSMainQuest_FoundYourSonTopic",
+    "form_id": "05000D03|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tu familia ya puede descansar en paz.",
+    "string": "Sus parientes podrán descansar en paz ahora.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000D04|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tu familia ya puede descansar en paz.",
+    "string": "Sus parientes descansarán en paz ahora, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VSMainQuest_BountyNoteTopic",
+    "form_id": "05000D05|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Hace falta ocuparse de algún problema en la ciudad?",
+    "string": "¿Hay algún problema en el pueblo que necesite ser 'resuelto', quizás? (guiño)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004OverseerHireBranchTopic",
+    "form_id": "05000D07|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Estoy buscando a alguien para administrar mi plantación. ¿Te interesa?",
+    "string": "<Alias=Player> desea contratar a un mayordomo para su plantación. ¿Le interesa?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000E91|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¿Te gustaría ocuparte de la administración de la plantación?",
+    "string": "¿Estaría dispuesto a actuar como mayordomo de la plantación, amigo?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004OverseerDismissBranchTopic",
+    "form_id": "05000D09|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ya no necesito tus servicios en la granja.",
+    "string": "Sus servicios como mayordomo ya no son necesarios.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000E92|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Amor mío, ya no hace falta que sigas administrando la granja.",
+    "string": "Ya no necesita servir como mayordomo, querido.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004UpgradeHouseBranchTopic",
+    "form_id": "05000D0B|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría que comprases muebles nuevos para la granja.",
+    "string": "Khajiit desea comprar algunos muebles nuevos para la casa de la granja.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004UpgradeKitchen",
+    "form_id": "05000D0D|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Cocina (<Global=VSVGLO_Kitchen> de oro).",
+    "string": "Cocina. (<Global=VSVGLO_Kitchen> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004UpgradeDining",
+    "form_id": "05000D15|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Comedor (<Global=VSVGLO_Dining> de oro).",
+    "string": "Comedor. (<Global=VSVGLO_Dining> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004UpgradeLaboratory",
+    "form_id": "05000D18|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Laboratorio de alquimia y encantamiento (<Global=VSVGLO_Lab> de oro).",
+    "string": "Laboratorio de alquimia y encantamiento. (<Global=VSVGLO_Lab> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004UpgradeLoft",
+    "form_id": "05000D1B|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Desván (<Global=VSVGLO_Loft> de oro).",
+    "string": "Altillo. (<Global=VSVGLO_Loft> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004UpgradeBedroom",
+    "form_id": "05000D1E|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dormitorio principal (<Global=VSVGLO_Bedroom> de oro).",
+    "string": "Dormitorio principal. (<Global=VSVGLO_Bedroom> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004UpgradeKidRoom",
+    "form_id": "05000D21|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dormitorio para niños (<Global=VSVGLO_KidRoom> de oro).",
+    "string": "Dormitorio infantil. (<Global=VSVGLO_KidRoom> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000D23|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Cambia mi biblioteca por un dormitorio para niños (<Global=VSVGLO_KidRoom> de oro).",
+    "string": "Reemplazar la biblioteca con un dormitorio infantil. (<Global=VSVGLO_KidRoom> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000FD4|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Cambia mi biblioteca por un dormitorio para niños (<Global=VSVGLO_KidRoom> de oro).",
+    "string": "Reemplazar la biblioteca con un dormitorio infantil. (<Global=VSVGLO_KidRoom> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004UpgradeAltKidRoom",
+    "form_id": "05000D25|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Biblioteca y cuarto de exposición (<Global=VSVGLO_KidRoomAlt> de oro).",
+    "string": "Biblioteca y sala de exhibición. (<Global=VSVGLO_KidRoomAlt> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004PurchaseAnimalsTopic",
+    "form_id": "05000E94|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría que comprases ganado para la plantación.",
+    "string": "¿Comprará algunos animales para la plantación, sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004PurchaseCowTopic",
+    "form_id": "05000E9B|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Una vaca (<Global=VSVGLO_AnimCow> de oro).",
+    "string": "Una vaca, amigo. (<Global=VSVGLO_AnimCow> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004PurchaseGoats",
+    "form_id": "05000EA0|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Unas cabras (<Global=VSVGLO_AnimGoat> de oro).",
+    "string": "Unas cabras, amigo. (<Global=VSVGLO_AnimGoat> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004PurchaseChickens",
+    "form_id": "05000EA3|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Un par de pollos (<Global=VSVGLO_AnimChick> de oro).",
+    "string": "Un par de pollos, amigo. (<Global=VSVGLO_AnimChick> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000FD8|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Pensándolo bien, creo que ahora mismo no tengo suficiente dinero.",
+    "string": "Pensándolo bien, Khajiit no tiene suficientes septims en este momento.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004SpawnFarmhandBranchTopic",
+    "form_id": "05000EA6|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Necesito que contrates mano de obra para trabajar en la granja (<Global=VSVGLO_FHS> de oro).",
+    "string": "Khajiit necesita que contraten algunos jornaleros para trabajar en la granja, amigo. (<Global=VSVGLO_FHS> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000EA9|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Necesito que contrates a alguien más para trabajar en la granja (<Global=VSVGLO_FH> de oro).",
+    "string": "Este desea que contraten a otro jornalero, ¿sí? (<Global=VSVGLO_FH> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000FCE|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Necesito que contrates a alguien más para trabajar en la granja (<Global=VSVGLO_FH> de oro).",
+    "string": "Este desea que contraten a otro jornalero, ¿sí? (<Global=VSVGLO_FH> septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004FarmhandRecruitBranchTopic",
+    "form_id": "05000EAB|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Estoy buscando a alguien para trabajar en mi plantación. ¿Te interesa?",
+    "string": "Khajiit busca un jornalero para la plantación de <Alias.PronounPosObj=Player>. ¿Le interesa, amigo?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004OfferMoney",
+    "form_id": "05000EAD|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Puedo pagarte <Global=VSVGLO_FH> de oro.",
+    "string": "<Alias=Player> le pagará <Global=VSVGLO_FH> septims.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000EAF|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Pensándolo bien, parece que me falta dinero...",
+    "string": "Pensándolo mejor, parece que el dinero es un poco escaso en este momento, amigo...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004CollectProfitBranchTopic",
+    "form_id": "05000EB0|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Vengo a recoger todos los beneficios de la plantación.",
+    "string": "<Alias=Player> ha venido por las ganancias de la plantación.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000EB3|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Has llevado la plantación muy bien. ¿Hemos ganado algún dinero?",
+    "string": "Claramente, está muy lejos de casa, amigo. ¿Qué busca exactamente?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004FarmhandDismissBranchTopic",
+    "form_id": "05000EB4|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ya no necesito tus servicios.",
+    "string": "Sus servicios ya no son requeridos. Por favor, desocupe las instalaciones de inmediato. (jadeo)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004_MSG_Farmhand2Dismiss",
+    "form_id": "05000D44|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Farmhand2> ha dejado de trabajar para ti.",
+    "string": "<Alias=Farmhand2> ahora está desempleado.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004_MSG_OverseerDismiss",
+    "form_id": "05000D45|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Tu administrador(a) deja de estar a tu servicio.",
+    "string": "El mayordomo ha dejado el servicio de este...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004_MSG_Farmhand2Hired",
+    "form_id": "05000D42|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Farmhand2> ahora trabaja para ti.",
+    "string": "<Alias=Farmhand2> ahora trabaja para Khajiit.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004_MSG_Farmhand1Dismiss",
+    "form_id": "05000D43|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Farmhand1> ha dejado de trabajar para ti.",
+    "string": "<Alias=Farmhand1> ya no trabaja para Khajiit.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE004_MSG_Farmhand1Hired",
+    "form_id": "05000D41|ccvsvsse004-beafarmer.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Farmhand1> ahora trabaja para ti.",
+    "string": "<Alias=Farmhand1> ha aceptado trabajar para este.  ",
+    "status": "TranslationComplete"
+  }
+]

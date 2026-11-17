@@ -1,0 +1,434 @@
+[
+  {
+    "editor_id": "EndGreet03",
+    "form_id": "04016CA3|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd be glad to have you travel with me.",
+    "string": "<Alias=Player> estaría muy feliz de viajar contigo, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EndGreet04",
+    "form_id": "04016CA5|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Maybe another time.",
+    "string": "Quizá otra vez.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04016CA6|0Kaidan.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I see. maybe our paths will cross again. If you need to find me, stop by the Dead man's drink in Falkreath.",
+    "string": "Khajiit entiende. Quizá nuestros caminos se crucen de nuevo. Si necesitas encontrar a este, pasa por el El trago del finado en Falkreath.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KDismiss",
+    "form_id": "0402D11C|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We should part ways for a while.",
+    "string": "Este Khajiit seguirá el propio camino de <Alias.PronounPosObj=Player> por ahora, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04152F4F|0Kaidan.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I see. maybe our paths will cross again. If you need to find me, stop by the Dead man's drink in Falkreath.",
+    "string": "Khajiit entiende. Quizá nuestros caminos se crucen de nuevo. Si necesitas encontrar a este, pasa por el El trago del finado en Falkreath.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KWait",
+    "form_id": "0402D120|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Wait here.",
+    "string": "Espera aquí, amigo. Este Khajiit regresará.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04036FA0|0Kaidan.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alright love, I'll keep an eye out.",
+    "string": "Está bien, amor, este vigilará.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04036FAD|0Kaidan.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Come here beautiful.",
+    "string": "Ven aquí, hermosa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04036FAE|0Kaidan.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Come here handsome.",
+    "string": "Ven aquí, apuesto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04036FAF|0Kaidan.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Darlin' I'll give you more than that.",
+    "string": "Cariño, este te dará más que eso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04036FAF|0Kaidan.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Give me a kiss.",
+    "string": "Estos labios no se besan solos, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04036FB0|0Kaidan.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Come here and kiss me.",
+    "string": "Los besos son necesarios para que Khajiit pueda continuar...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BRP04Lost",
+    "form_id": "0406125A|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "There was so much I needed to tell them...",
+    "string": "Había tanto que quedó sin decir...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BRP05Lost",
+    "form_id": "0406125E|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It hurts so much...",
+    "string": "Esto duele mucho a este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BRP06Lost",
+    "form_id": "04061260|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I wish I had done something to save them...",
+    "string": "Khajiit desea que <Alias.Pronoun=Player> hubiera hecho algo para salvarles...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04061261|0Kaidan.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I believe you would have, had it truly been in your power. But so many things in this world are out of our control; you can't blame yourself for that",
+    "string": "Este cree que lo habrías hecho, si realmente hubiera estado en tu poder. Pero muchas cosas en este mundo están fuera de nuestro control; no puedes culparte por eso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BRP06Future",
+    "form_id": "04063A09|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What if I fail?",
+    "string": "¿Qué pasa si <Alias=Player> falla, hmm? ¿Entonces qué?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "A10KaiSkills",
+    "form_id": "04063A33|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What are your best skills?",
+    "string": "Khajiit tiene mucha curiosidad por tus habilidades, amigo. Pero solo las mejores, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Sed05",
+    "form_id": "0407501E|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Gods, I want you too...",
+    "string": "Por las Lunas, ¡este también te desea!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Sed09",
+    "form_id": "04075027|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I-I... yeah, m-maybe?",
+    "string": "Umm... sí, p-posiblemente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Kflirts02",
+    "form_id": "0407502E|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "A good thing; you'll get more than bites and scratches.",
+    "string": "Esto es bueno, amigo. Este se entristecería si recibes más que solo mordidas y rasguños, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Kflirts102",
+    "form_id": "04075036|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sleep wasn't what I was thinking of.",
+    "string": "El sueño vendrá... eventualmente. (guiño)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KaiConf09",
+    "form_id": "0407504E|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Well, it's not a bad one.",
+    "string": "Khajiit dirá que no fue MALO... (sonrisa ladina)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KFeeling01",
+    "form_id": "040777FD|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How do you feel about me?",
+    "string": "¿Cómo te sientes hacia <Alias=Player>, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KFeelsDia03",
+    "form_id": "04077807|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm yours, you're mine. We're in this together.",
+    "string": "<Alias=Player> es tuyo, y tú eres de <Alias.PronounPosObj=Player>, ¿sí? Entonces esta aventura se comparte por igual, así como el resultado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KfeelsDia04",
+    "form_id": "04077809|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I love you, but I belong to no one.",
+    "string": "Es cierto que <Alias=Player> te ama - pero este no es una mascota, y <Alias.Pronoun=Player> no pertenece a nadie.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KaiUsBangEnd",
+    "form_id": "04083EC2|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like having you in my bed - I could have you right now.",
+    "string": "<Alias=Player> disfruta despertar junto a ti en la cama de <Alias.PronounPosObj=Player>, ¿sí? De hecho, este está \"cansado\" ahora mismo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KaiUsSwEnd02",
+    "form_id": "04083ED0|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is it?",
+    "string": "¿Qué pasa, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KaiUsSwEnd03",
+    "form_id": "04083ED2|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes",
+    "string": "Sí, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Prop02",
+    "form_id": "0409CB17|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is it?",
+    "string": "¿Qué pasa, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0409CB18|0Kaidan.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "It's not that Dragons were rising from the grave or that war had split this country in two. Thought it might have been but...",
+    "string": "No es que los dragones estuvieran saliendo de la tumba o que la guerra hubiera partido este país en dos. Podría haberlo sido, pero...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0409CB18|0Kaidan.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "It's me who's not the same, not since I met you. Knowing you changed me.",
+    "string": "Es este quien no es el mismo - no desde que te conoció. Conocerte lo cambió.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Prop03",
+    "form_id": "0409CB19|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't think you're so different.",
+    "string": "Eres verdaderamente único, amigo. Exactamente como todos los demás, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0409CB1A|0Kaidan.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Love, you've known the best of me, but you haven't known the worst. It wasn't too long ago my life was just roaming from place to place,",
+    "string": "Amor, has conocido lo mejor de este, pero no has conocido lo peor. No hace mucho la vida de este era solo vagar de un lugar a otro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0409CB1A|0Kaidan.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "A dissipated brute and never sure what I was after. I know what I want now.",
+    "string": "Un bruto disoluto, nunca seguro de lo que quería. Ahora este sabe lo que quiere.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Prop04",
+    "form_id": "0409CB1B|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes! Of course I will.",
+    "string": "¡Sí, en verdad! Por supuesto, <Alias=Player> hará esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KNW34",
+    "form_id": "0412C941|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You've stuck by me through so much more.",
+    "string": "Has permanecido junto a este a través de mucho más que esto, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "toysword1",
+    "form_id": "04217E03|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Was this your toy sword?",
+    "string": "¿Era esta tu espada de juguete, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04217E04|0Kaidan.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hah, look at that... I remember losing this thing. I'd outgrown it anyway so I got my first real sword not long after.",
+    "string": "Ja, mira eso... este recuerda haber perdido esto. Ya lo había superado, así que obtuvo su primera espada real poco después.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04217E04|0Kaidan.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Can't believe you found it - and still one one piece.",
+    "string": "No puede creer que lo hayas encontrado - y aún en una sola pieza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "toysword2",
+    "form_id": "04217E05|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This place is important to you, isn't it?",
+    "string": "Claramente, este lugar es importante para ti, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04229361|0Kaidan.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I do. Now, and forever.",
+    "string": "Sí, en verdad. Ahora y para siempre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WedFG2",
+    "form_id": "0422BB00|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I do, now and forever.",
+    "string": "Sí, Khajiit lo hace, ahora y para siempre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PreWedding2",
+    "form_id": "0422E2A5|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am, a little.",
+    "string": "Quizá este está un poco nervioso, sí. Esto es un gran paso hacia adelante, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PreWedding3",
+    "form_id": "0422E2A7|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Not in the least.",
+    "string": "Khajiit no está nervioso. Nada nervioso, no. ¿Qué quieres decir con \"temblando nerviosamente\", exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0423D071|0Kaidan.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I do, now and forever.",
+    "string": "Sí, Khajiit lo hace, ahora y para siempre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BigWedFG2",
+    "form_id": "0423D076|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I do, now and forever.",
+    "string": "Sí, Khajiit lo hace, ahora y para siempre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Buy03",
+    "form_id": "04264ECD|0Kaidan.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Maybe another time.",
+    "string": "Quizá otra vez.",
+    "status": "TranslationComplete"
+  }
+]

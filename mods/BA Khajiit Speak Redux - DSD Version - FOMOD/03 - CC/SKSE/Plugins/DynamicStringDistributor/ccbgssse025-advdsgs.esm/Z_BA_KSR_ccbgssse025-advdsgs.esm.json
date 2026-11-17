@@ -1,0 +1,605 @@
+[
+  {
+    "editor_id": "ccBGSSSE025_QuestA_RisaadBranchTopic",
+    "form_id": "05000980|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dicen que has tenido problemas en los caminos.",
+    "string": "Los oídos de Khajiit han escuchado que tuviste algunos problemas en el camino, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA_RisaadSuccessBranchTopic",
+    "form_id": "05000983|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me he encargado de los santos y los seductores.",
+    "string": "Los Santos y Seductores han sido 'tratados'. Comprendes este término, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051E9358|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Conozco a los santos y a los seductores con los que parece que habéis tenido problemas.",
+    "string": "Los oídos de Khajiit escucharon que tenías 'problemas' con un grupo llamado \"Santos y Seductores\", así que <Alias.Pronoun=Player> se encargó del 'problema', hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraTopicA",
+    "form_id": "0500106B|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Un bicho? ¿Te han encerrado los bandidos?",
+    "string": "¿Un insecto, hmm? ¿Quizás los bandidos te encerraron?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraTopicB",
+    "form_id": "0500106D|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Estás bien? ¿Te han hecho daño?",
+    "string": "¿Estás bien, amigo? ¿Te hicieron daño? ¿Te hablaron? ¿Te convencieron de comprar baratijas inútiles y salir corriendo entre carcajadas, quizás? ¿Qué? Podría pasar...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraTopicC",
+    "form_id": "0500106F|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¡Qué bichito más adorable! Me pregunto por qué te habrán enjaulado.",
+    "string": "Bueno, bueno, ¡eres un pequeño insecto adorable, sí! ¿Por qué te tendrían enjaulado, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraTopicD",
+    "form_id": "05001071|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Qué ser más extraño. Aunque solo eres el tercero más extraño que veo esta semana.",
+    "string": "¡Eres un raro, en verdad! Pero curiosamente, aún eres solo la tercera cosa más extraña que Khajiit ha visto esta semana...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraTopicE",
+    "form_id": "05001073|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Otro bicho extraño? Ahora sí que voy a tener pesadillas.",
+    "string": "¿Otro. Extraño. Insecto. Hmm? Bueno, eso lo confirma... Las siestas de gato nunca serán iguales...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraPetBranch1Topic",
+    "form_id": "05001075|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Quieres venir conmigo?",
+    "string": "¿Deseas seguir a Khajiit, quizás?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05001078|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(chillido)",
+    "string": "(chillidos)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05001079|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500107A|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(gemido)",
+    "string": "(quejidos)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraPetBranch2Topic",
+    "form_id": "0500107B|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dejarte aquí sería una crueldad. ¿Quieres venir conmigo?",
+    "string": "Sería cruel dejarte aquí, en verdad. Quizás quisieras seguir a este, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraPetYES",
+    "form_id": "0500107D|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Vale, vámonos.",
+    "string": "Muy bien. Guía el camino, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraPetNO",
+    "form_id": "0500107F|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Pensándolo mejor, da igual.",
+    "string": "Pensándolo bien... olvídalo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraBranch3Topic",
+    "form_id": "05001081|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Seguramente sea una mala idea, pero puedes seguirme si quieres.",
+    "string": "Si lo desearas, podrías seguir a este. ¿Qué podría pasar, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraBranch4Topic",
+    "form_id": "05001083|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "La verdad es que tienes gracia. ¿Quieres ser mi mascota?",
+    "string": "Eres una cosita raramente adorable, en verdad. ¿Quisieras ser una mascota, quizás?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraPetBranch5Topic",
+    "form_id": "05001085|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Bueno, eres libre. Suerte.",
+    "string": "Bueno, eres libre, amigo. Khajiit te desea buena fortuna...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraTopicZ",
+    "form_id": "05001087|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Calma, bicho. He matado seres más raros que tú, así que ni se te ocurra morderme.",
+    "string": "Tranquilo ahora, pequeño insecto... <Alias=Player> ha matado cosas más raras que tú, así que no muerdas, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraTopicY",
+    "form_id": "05001089|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Te pareces a otra criatura que encontré enjaulada. Era tan repulsiva como tú.",
+    "string": "Te pareces a otra criatura que Khajiit encontró en una jaula. Era igualmente repulsiva, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraTopicX",
+    "form_id": "0500108B|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Eres el segundo bicho de tu especie que me encuentro últimamente.",
+    "string": "Eres el segundo de tu clase que Khajiit ha encontrado recientemente. ¡Es una conspiración de insectos, en verdad!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraTopicW",
+    "form_id": "0500108D|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Eh, pequeñín, no estarás herido, ¿verdad?",
+    "string": "Arenas cálidas, pequeño. ¿Estás herido, quizás?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraTopicV",
+    "form_id": "0500108F|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Estás bien? Supongo que te habrán enjaulado esos bandidos.",
+    "string": "¿Estás bien, quizás? Esos malvados bandidos deben haberte enjaulado, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraMTopicA",
+    "form_id": "05001094|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Un bicho? ¿Te han encerrado los bandidos?",
+    "string": "¿Un insecto, hmm? ¿Quizás los bandidos te encerraron?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraMTopicB",
+    "form_id": "05001096|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Estás bien? ¿Te han hecho daño?",
+    "string": "¿Estás bien, amigo? ¿Te hicieron daño? ¿Te hablaron? ¿Te convencieron de comprar baratijas inútiles y salir corriendo entre carcajadas, quizás? ¿Qué? Podría pasar...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraMTopicC",
+    "form_id": "05001098|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¡Qué bichito más adorable! Me pregunto por qué te habrán enjaulado.",
+    "string": "Bueno, bueno, ¡eres un pequeño insecto adorable, sí! ¿Por qué te tendrían enjaulado, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraMTopicD",
+    "form_id": "0500109A|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Qué ser más extraño. Aunque solo eres el tercero más extraño que veo esta semana.",
+    "string": "¡Eres un raro, en verdad! Pero curiosamente, aún eres solo la tercera cosa más extraña que Khajiit ha visto esta semana...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraMTopicT",
+    "form_id": "0500109C|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Otro bicho extraño? Ahora sí que voy a tener pesadillas.",
+    "string": "¿Otro. Extraño. Insecto. Hmm? Bueno, eso lo confirma... Las siestas de gato nunca serán iguales...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraMTopicZ",
+    "form_id": "0500109E|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Calma, bicho. He matado seres más raros que tú, así que ni se te ocurra morderme.",
+    "string": "Tranquilo ahora, pequeño insecto... <Alias=Player> ha matado cosas más raras que tú, así que no muerdas, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraMTopicY",
+    "form_id": "050010A0|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Te pareces a otra criatura que encontré enjaulada. Era tan repulsiva como tú.",
+    "string": "Te pareces a otra criatura que Khajiit encontró en una jaula. Era igualmente repulsiva, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraMTopicX",
+    "form_id": "050010A2|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Eres el segundo bicho de tu especie que me encuentro últimamente.",
+    "string": "Eres el segundo de tu clase que Khajiit ha encontrado recientemente. ¡Es una conspiración de insectos, en verdad!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraMTopicW",
+    "form_id": "050010A4|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Eh, pequeñín, no estarás herido, ¿verdad?",
+    "string": "Arenas cálidas, pequeño. ¿Estás herido, quizás?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraMTopicV",
+    "form_id": "050010A6|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¡Otro bicho! Seguro que también te han enjaulado esos bandidos.",
+    "string": "¿Otro insecto, hmm? Claramente, los bandidos también te enjaularon, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050010A9|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(chillido)",
+    "string": "(chillidos)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050010AA|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(resoplido)",
+    "string": "(gruñe)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050010AB|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(gemido)",
+    "string": "(quejidos)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraManiaBranch01Topic",
+    "form_id": "050010AC|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Quieres venir conmigo?",
+    "string": "¿Deseas seguir a Khajiit, quizás?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraManiaBranch02Topic",
+    "form_id": "050010AE|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No puedo dejarte aquí. ¿Quieres seguirme?",
+    "string": "Este no simplemente te dejará aquí, amigo. Quizás quieras seguir a Khajiit, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraManiaBranch03Topic",
+    "form_id": "050010B0|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No me importaría tenerte como mascota. ¿Qué me dices?",
+    "string": "Aun así, Khajiit no se opondría a tenerte como mascota. ¿Qué dices, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraManiaBranch04Topic",
+    "form_id": "050010B2|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "La verdad es que tienes gracia. ¿Quieres ser mi mascota?",
+    "string": "Eres una cosita raramente adorable, en verdad. ¿Quisieras ser una mascota, quizás?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraManiaBranch05Topic",
+    "form_id": "050010B4|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Bueno, eres libre. Suerte.",
+    "string": "Bueno, eres libre, amigo. Khajiit te desea buena fortuna...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050010B7|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vale, vámonos.",
+    "string": "Muy bien. Hora de partir, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraPet_ManiazNO",
+    "form_id": "050010B8|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "ccBGSSSE025_ElytraPet_ManiazNO",
+    "string": "ccBGSSSE025_ElytraPet_ManiazNO  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050010B9|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Pensándolo mejor, da igual.",
+    "string": "Pensándolo bien... olvídalo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraTopicF",
+    "form_id": "050010BA|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Una especie de cangrejo gigante? En serio, tengo que dejar de tomar skooma.",
+    "string": "¿Un cangrejo insecto gigante, hmm? Tal vez Khajiit debería dejar de beber tanta skooma, en verdad...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraMTopicG",
+    "form_id": "050010BC|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Una especie de cangrejo gigante? En serio, tengo que dejar de tomar skooma.",
+    "string": "¿Un cangrejo insecto gigante, hmm? Tal vez Khajiit debería dejar de beber tanta skooma, en verdad...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraMBranch_CollectVenomTopic",
+    "form_id": "050B9580|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Extraer veneno",
+    "string": "(Cosechar veneno)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050B9581|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(gruñido)",
+    "string": "(gruñidos)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050B9581|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a extraer algo de veneno.",
+    "string": "¡Hora de cosechar veneno!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraMBranch_SpecialTopic",
+    "form_id": "050B9583|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Habilidad especial",
+    "string": "(Habilidad especial)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050B9584|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(gruñido)",
+    "string": "(gruñidos)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050B9584|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¡Necesito ayuda en combate!",
+    "string": "<Alias=Player> necesita ayuda en la batalla!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraDBranch_CollectVenomTopic",
+    "form_id": "050B958D|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Extraer veneno",
+    "string": "(Cosechar veneno)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050B9590|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(gruñido)",
+    "string": "(gruñidos)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050B9590|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Vamos a extraer algo de veneno.",
+    "string": "¡Hora de cosechar veneno!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_ElytraDBranch_SpecialTopic",
+    "form_id": "050B958F|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Habilidad especial",
+    "string": "(Habilidad especial)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050B9591|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(gruñido)",
+    "string": "(gruñidos)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050B9591|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "¡Necesito ayuda en combate!",
+    "string": "<Alias=Player> necesita ayuda en la batalla!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_StaadaQuest_AmberBranchTopic",
+    "form_id": "0519D37F|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tú debes de ser quien envió esa nota.",
+    "string": "Seguramente, tú fuiste quien envió esa nota, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051A2502|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Es evidente que estás lejos de casa. ¿Buscas algo?",
+    "string": "Claramente, estás muy lejos de casa, amigo. ¿Qué buscas exactamente?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_StaadaQuest_GiveAmberBranch",
+    "form_id": "0519D381|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Creo que tengo lo que buscas (dar ámbar con forma de Sheogorath).",
+    "string": "¿Quizás esto es lo que buscas, sí? (Dar Ámbar con forma de Sheogorath)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_StaadaQuest_GiveAmberBranch2",
+    "form_id": "0519D382|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Creo que tengo lo que buscas (dar espada de Jyggalag).",
+    "string": "¿Quizás esto es lo que buscas, sí? (Dar Espada de Jyggalag)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_StaadaQuest_KeepAmber",
+    "form_id": "0519D383|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tengo el objeto que buscas, pero creo que me lo voy a quedar. Hasta la vista.",
+    "string": "Khajiit ha encontrado el artefacto, sí. Pero este ha decidido quedárselo. Buena fortuna para ti.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_StaadaQuest_FINBranch",
+    "form_id": "0519D387|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Pues adiós, supongo.",
+    "string": "Aquí es donde se toman caminos separados, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_CraftingUnlockedMadness",
+    "form_id": "050A5130|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Ahora puedes crear equipo con herrería de ébano.",
+    "string": "¡Nuevo equipo disponible con Herrería de ébano!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_CraftingUnlockedGSDS",
+    "form_id": "050009FB|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Ahora puedes crear equipo con herrería daédrica.",
+    "string": "¡Nuevo equipo disponible con Herrería daédrica!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_CraftingUnlockedAmber",
+    "form_id": "050A512F|ccbgssse025-advdsgs.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Ahora puedes crear equipo con herrería de cristal.",
+    "string": "¡Nuevo equipo disponible con Herrería de vidrio!  ",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "editor_id": "null",
+    "form_id": "05000835|ccbgssse051-ba_daedricmail.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tengo entendido que te vendieron una armadura daédrica completa.",
+    "string": "<Alias=Player> ha sido informado que le vendieron un juego de armadura daédrica, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000833|ccbgssse051-ba_daedricmail.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Deberías intercambiarla por este anillo. Es igual de valioso, pero más fácil de transportar. ",
+    "string": "Quizá deberías cambiarla por este anillo, hmm? Tiene el mismo valor y es mucho más fácil de cargar, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000838|ccbgssse051-ba_daedricmail.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Este anillo es un artefacto khajiita. Creo que deberías darme la armadura a cambio.",
+    "string": "Este anillo es un artefacto Khajiit. Deberías cambiar la armadura por él, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000839|ccbgssse051-ba_daedricmail.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Esa armadura fue robada. Dámela a cambio de este anillo, antes de que el guardia se dé cuenta.",
+    "string": "¡Esa armadura fue robada! ¡Rápido! Cambia la armadura por este anillo antes de que el guardia lo note...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE051_MiscQuestInnkeeperTopic",
+    "form_id": "0500083B|ccbgssse051-ba_daedricmail.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Necesito trabajo. ¿Tienes alguna cosa para mí?",
+    "string": "Este uno necesita algo de trabajo. ¿Tienes algo que hacer, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE051_QuestSubTopicD",
+    "form_id": "05000840|ccbgssse051-ba_daedricmail.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría comprártela. (5000 de oro)",
+    "string": "<Alias=Player> comprará esto de ti, amigo. (5,000 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000842|ccbgssse051-ba_daedricmail.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Me gustaría comprártela, pero no tengo suficiente dinero. (5000 de oro)",
+    "string": "<Alias=Player> desea comprarlo de ti, sí. Pero <Alias.Pronoun=Player> tiene poca moneda. (5,000 septims)",
+    "status": "TranslationComplete"
+  }
+]

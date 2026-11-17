@@ -1,0 +1,47 @@
+[
+  {
+    "editor_id": "ccBGSSSE005_LarsBranchTopic1",
+    "form_id": "030008C5|ccbgssse005-goldbrand.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tengo entendido que tu padre te regaló un amuleto antiguo muy especial. ¿Es cierto eso?",
+    "string": "Los oídos de Khajiit escucharon un rumor interesante... que tu anciano te dio un amuleto muy viejo, muy especial, muy brillante. ¿Es esto cierto, quizás?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE005_LarsBranchTopic2",
+    "form_id": "030008C7|ccbgssse005-goldbrand.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Lo necesito. ¿Querrías dármelo?",
+    "string": "<Alias=Player> necesita esto. Lo soltarás, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE005_LarsBranchTopic3",
+    "form_id": "030008C9|ccbgssse005-goldbrand.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Cambiarías de opinión por unos cuantos septims brillantes? (10 de oro)",
+    "string": "¿Unos cuantos septims brillantes cambiarían tu opinión? (10 septims)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE005_LarsBranchTopic3b",
+    "form_id": "030008CB|ccbgssse005-goldbrand.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dame el amuleto, o esto se va a poner feo. (Intimidar)",
+    "string": "Entrega el amuleto, o pierde la mano que lo sostiene, hmm? (Intimidar)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE005_LarsBranchTopic3c",
+    "form_id": "030008CD|ccbgssse005-goldbrand.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Iba a usarlo para encontrar una espada mágica. Qué emocionante, ¿verdad? (Persuadir)",
+    "string": "<Alias=Player> planeaba usarlo para encontrar una espada mágica. Emocionante, ¿no? (Persuadir)",
+    "status": "TranslationComplete"
+  }
+]

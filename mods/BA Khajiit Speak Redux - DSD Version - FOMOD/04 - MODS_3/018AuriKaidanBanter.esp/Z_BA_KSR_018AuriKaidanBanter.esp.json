@@ -1,0 +1,236 @@
+[
+  {
+    "editor_id": "null",
+    "form_id": "0702E180|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Okay, how about this one: A dragon walks into an inn. \"It's hot in here\" he says. \"Shut your mouth,\" says the innkeeper.",
+    "string": "Está bien, ¿qué tal este? Un dragón entra en una posada. «Hace calor aquí dentro», dice. «Cierra el hocico», dice el posadero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0700AA11|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "M-hmm! Bosmer tend to be quite small compared to other mer. Makes it easier to climb trees! ...And people.",
+    "string": "¡M-hmm! Los Bosmer tienden a ser bastante pequeños en comparación con otros Mer. Eso facilita trepar árboles... ¡y personas!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0700AA1C|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sigh.",
+    "string": "(suspira)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0700AA1E|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "He he he he.",
+    "string": "Je-je-je-je.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0700AA25|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sigh.",
+    "string": "(suspira)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0700AA2E|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "He he he, touch� my friend, touch�!",
+    "string": "¡Je-je-je, touché, amigo mío, touché!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0700AA47|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well. Let's see if they have any at the next inn, ey?",
+    "string": "Bueno, veamos si tienen alguno en la próxima posada, ¿eh?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018KaidanOpinion01Topic",
+    "form_id": "0700FB4C|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Any thoughts about Auri?",
+    "string": "¿Qué piensa Khajiit de Auri? Khajiit siente curiosidad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018KaidanOpinion02",
+    "form_id": "0700FB4E|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, I'm sure.",
+    "string": "Ciertamente, sí. Khajiit confía plenamente en ella.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018KaidanOpinion03",
+    "form_id": "0700FB50|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm not sure yet.",
+    "string": "Khajiit lo cree así, pero no está completamente seguro, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018RomanceKaidan01Topic",
+    "form_id": "07019D5E|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You look like you have something to say.",
+    "string": "Los sentidos de Khajiit detectan que tienes algo que decir, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018RomanceKaidan02",
+    "form_id": "07019D60|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is there a problem?",
+    "string": "¿Hay algún problema, amigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018RomanceKaidan03",
+    "form_id": "07019D62|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We're just friends.",
+    "string": "Khajiit solo es amigo de él, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018RomanceKaidan04",
+    "form_id": "07019D64|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You're terrible.",
+    "string": "Eres terrible, horrible y un buen amigo, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018KaidanCheating01Topic",
+    "form_id": "07019D68|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You look like you have something to say.",
+    "string": "Los sentidos de Khajiit detectan que tienes algo que decir, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018KaidanCheating02",
+    "form_id": "07019D6A|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's nothing serious.",
+    "string": "No hay nada serio entre Khajiit y Kaiden, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018KaidanCheating03",
+    "form_id": "07019D6C|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, I love him.",
+    "string": "<Alias=Player> está enamorado de él, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018KaidanCheating04",
+    "form_id": "07019D6E|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You seem angry.",
+    "string": "Los sentidos de Khajiit son agudos y muy decisivos; todos ellos detectan que estás enojado... ¿Es cierto, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018KaidanCheating05",
+    "form_id": "07019D70|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, of course not! I want to be with you.",
+    "string": "¡Por supuesto que no, no! <Alias=Player> desea estar contigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018KaidanAuriBreakup",
+    "form_id": "07019D72|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes. I want to be with him.",
+    "string": "Khajiit desea estar con él, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018KaidanPoly",
+    "form_id": "07019D74|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, of course not! I love you both!",
+    "string": "¡Por supuesto que no, no! ¡Khajiit es capaz de amarlos a ambos, sí?!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriOpinion01Topic",
+    "form_id": "07019D78|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you think about Kaidan?",
+    "string": "¿Qué piensas de Kaidan? Khajiit siente curiosidad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018KaidanOpinion4",
+    "form_id": "0702907E|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Any thoughts about Auri?",
+    "string": "¿Qué piensa Khajiit de Auri? Khajiit siente curiosidad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018OpinionKaidan01Topic",
+    "form_id": "0702E188|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Any thoughts about Auri?",
+    "string": "¿Qué piensa Khajiit de Auri? Khajiit siente curiosidad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018OpinionKaidan02",
+    "form_id": "0702E18A|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, I'm sure.",
+    "string": "Ciertamente, sí. Khajiit confía plenamente en ella.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018OpinionKaidan03",
+    "form_id": "0702E18C|018AuriKaidanBanter.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm not sure yet.",
+    "string": "Khajiit lo cree así, pero no está completamente seguro, no.",
+    "status": "TranslationComplete"
+  }
+]

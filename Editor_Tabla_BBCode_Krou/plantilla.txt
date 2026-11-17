@@ -1,0 +1,73 @@
+[center][size=5][b]Las traducciones requieren el siguiente mod: [url=https://www.nexusmods.com/skyrimspecialedition/mods/107676]Dynamic String Distributor (DSD)[/url], sin esto no funcionarán.[/b][/size][/center]
+
+[center][size=3][i]Trabajando para actualizar esto. En unos días habrá cambios :)[/i][/size][/center]
+
+[hr]
+
+[size=4][b][u]¿Qué es DSD?[/u][/b][/size]
+
+[size=3]Es un complemento basado en SKSE que permite distribuir y modificar textos dinámicamente en el juego, mejorando la compatibilidad entre mods sin necesidad de editar directamente los archivos originales del juego o de otros mods.[/size]
+
+[size=3]Compendio de traducciones usadas en mi conjunto de mods mediante [url=https://www.nexusmods.com/skyrimspecialedition/mods/107676]Dynamic String Distributor (DSD)[/url].[/size]
+
+[center][size=4][b][u]Contiene las siguientes traducciones:[/u][/b][/size][/center]
+
+[center]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/89307]Interesting NPCs (3DNPC) - Patch Collection[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/29194]Interesting NPCs SE (3DNPC)[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/162603]Adventurer's Lodge[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/160114]Agent Bonus Tweaks for Mara and Dibella[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/78623]AI Overhaul - Various Patches[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/21654]AI Overhaul SSE[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/70266]AI Overhaul - Open Cities Patches[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/48524]Argonian Upgrades[/url] [i](archivo principal y Imperious patch)[/i]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/164461]BeastHHBB - Skypatcher[/url] [i](archivo principal y parche 3DNPC Skypatcher)[/i]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/109302]C.O.I.N. - Smelting add-on for your COINS[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/52038]Conjure - More Summons[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/143887]Convert Gold To Perk Points[/url] [i](versión de 5K)[/i]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/129717]Elven Supremacy - Currency Swapper for Thalmor[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/123129]First Person Interactions[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/98923]First Person Para and Skydiving Patch[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/89208]Fishermen Sell Creation Club Fish[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/47670]Immersive Interactions - Animated Actions[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/23873]Imperious - All Mods Compatibility Patch - Not Just Interesting NPC's[/url] [i]la (Dinger32 Version)[/i]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/148647]Magic Fixes and Tweaks SKSE[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/97572]MMX452 Summon Chest[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/148359]Monster Squad[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/84004]Simply More Skill Trainers[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/130866]Orc Currency[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/33081]QAPP - Quests Award Perk Points[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/76017]Reb's Average Skooma SE[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/491]Exchange Currency SE[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/19456]Strange Runes[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/135488]True Light[/url] [i](para los complementos: True Light - Creation Club.esp, True Light - Shadows and Ambient.esp, True Light - USSEP Patch.esp y True Light Exteriors.esp)[/i]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/11467]Translocate - Mark And Recall Spells[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/133447]Unarmed - Damage Tweaks Knockdowns and Skill Progression[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/127897]Skyrim Silver - Currency Swapper for Windhelm[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/107437?tab=description]Gryphonknight Regalia - Breton Noble Armor (optional SMP)[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/165897?tab=description]Saint Jiub's Bookmarks[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/62530]Paragliding Vampire Werewolf Patch[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/136921]Perk Point Potion SkyPatched[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/161940]Archery Techniques (Additional Techniques NG)[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/54099]Pilgrim - A Religion Overhaul[/url]
+[i]para parche ordinator (los 4 mods anteriores)[/i]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/172681]Muscle Matters - Functional growth and muscle atrophy[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/34552]Feral - Claw Unarmed Attacks for Beast Races - Vampires - Werewolves[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/42162]Skyrim Outfit System SE Revived[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/143978?tab=description]Bone Breaker Heavy Armour HIMBO SMP[/url]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/18994?tab=description]Weapons Armor Clothing and Clutter Fixes[/url] [i](y complementos de este mismo)[/i]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=description]Embers XD[/url] [i](y complementos de este mismo)[/i]
+[url=https://www.nexusmods.com/skyrimspecialedition/mods/166094?tab=description]Missives - Voice and Quest Expansion[/url]
+[/center]
+
+[hr]
+
+[center][size=4][b][u]Tabla completa de traducciones[/u][/b][/size][/center]
+
+{LEYENDA}
+
+{TABLA}
+
+[hr]
+
+[size=3][b]Acepto pedidos de traducciones en los comentarios, éstas requerirán el complemento de DSD y si me es posible la traducción del mod mediante esp o scripts (con los respectivos permisos del autor).[/b][/size]

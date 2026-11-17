@@ -1,0 +1,38 @@
+[
+  {
+    "editor_id": "ccEEJSSE004_QuestTopic1Topic",
+    "form_id": "05000C53|cceejsse004-hall.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Recibí tu carta.",
+    "string": "<Alias=Player> recibió tu carta.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE004_QuestTopic2Topic",
+    "form_id": "05000C57|cceejsse004-hall.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He venido a aceptar tu desafío.",
+    "string": "<Alias=Player> ha venido a aceptar tu desafío.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE004_QuestTopic3Topic",
+    "form_id": "05000C60|cceejsse004-hall.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Eres la idiota que me ha desafiado?",
+    "string": "Eres tú el wafiit [idiota] que desafió a <Alias=Player>?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE004_DisplayLackMsg",
+    "form_id": "05000E3D|cceejsse004-hall.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No tienes el objeto requerido.",
+    "string": "Claramente, algo falta aquí...",
+    "status": "TranslationComplete"
+  }
+]

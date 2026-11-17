@@ -1,0 +1,110 @@
+[
+  {
+    "editor_id": "null",
+    "form_id": "0400AA0A|018InigoBanterPatch.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So, Inigo. My curiousity is killing me. ...Do Khajit purr when they're happy?",
+    "string": "Entonces, Inigo. La curiosidad de Khajiit lo está matando... ¿Los Khajiit ronronean cuando están felices?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04029078|018InigoBanterPatch.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oof, I think my bruises have bruises.",
+    "string": "¡Uf! ¡Khajiit cree que hasta sus moretones tienen moretones!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0403D491|018InigoBanterPatch.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have much in common with the Bosmer. I am a tree-loving, bow-twanging, disease-resistant sneakmachine. We are very similar.",
+    "string": "Khajiit tiene mucho en común con los Bosmer: ¡ama los árboles, hace sonar los arcos, resiste las enfermedades y se escabulle como una máquina! Somos muy parecidos...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400FB1E|018InigoBanterPatch.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes. ....Again.",
+    "string": "Sí... Otra vez.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400FB20|018InigoBanterPatch.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Laughing)",
+    "string": "(risas)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400FB22|018InigoBanterPatch.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not funny my friend.",
+    "string": "No es gracioso, amigo mío.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400FB48|018InigoBanterPatch.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Err.. No.",
+    "string": "Eeeh... No.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400FB4A|018InigoBanterPatch.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you feeling shy all of a sudden? Come on, kitty kitty kitty.",
+    "string": "¿De repente te sientes tímida? Vamos, gatita, gatita, gatita...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400FB4C|018InigoBanterPatch.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why are you laughing? ",
+    "string": "¿Por qué te estás riendo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0400FB4E|018InigoBanterPatch.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Giggle)",
+    "string": "(risitas)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04023F57|018InigoBanterPatch.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hm? Are you asking me?",
+    "string": "¿Hmm? ¿Me lo preguntas a mí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "04023F5F|018InigoBanterPatch.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I miss her face. And her stupid laugh. It's just... Ironic, isn't it? I made a choice to save what I loved the most in this world..",
+    "string": "Khajiit extraña su rostro. Y su estúpida risa. Es solo que... es irónico, ¿no? Khajiit tomó la decisión de salvar aquello que más amaba en este mundo...",
+    "status": "TranslationComplete"
+  }
+]

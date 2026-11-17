@@ -1,0 +1,47 @@
+[
+  {
+    "editor_id": "ccEEJSSE003_HouseQuestBranchTopic",
+    "form_id": "05000FD4|cceejsse003-hollow.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Quiero instalarme aquí en la Ratonera.",
+    "string": "<Alias=Player> planeaba hacer un hogar aquí en Las Ratoneras.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE003_HouseQuestTopicNO",
+    "form_id": "05000FD6|cceejsse003-hollow.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me lo tendré que pensar.",
+    "string": "Khajiit necesita un momento...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE003_HouseQuestTopicYES",
+    "form_id": "05000FD7|cceejsse003-hollow.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ahora mismo no tengo demasiado dinero. (7500 de oro)",
+    "string": "Khajiit anda corto de moneda ahora, amigo. (7,500 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000FD9|cceejsse003-hollow.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Me la quedo. (7500 de oro)",
+    "string": "Vendido. (7,500 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE003_DisplayLackMsg",
+    "form_id": "05000E3D|cceejsse003-hollow.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No tienes el objeto requerido.",
+    "string": "Claramente, algo falta aquí...",
+    "status": "TranslationComplete"
+  }
+]

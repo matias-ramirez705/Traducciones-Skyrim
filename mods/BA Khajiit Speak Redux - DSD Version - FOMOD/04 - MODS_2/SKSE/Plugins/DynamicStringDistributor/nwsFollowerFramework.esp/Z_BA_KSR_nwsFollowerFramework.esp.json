@@ -1,0 +1,56 @@
+[
+  {
+    "editor_id": "nwsFC_GuardRec250",
+    "form_id": "05075104|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can offer <Global=nwsExpCostFull> gold.",
+    "string": "<Alias=Player> ofrecerá <Global=nwsExpCostFull> septims, amigo. Esto es aceptable, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFC_GuardRec150",
+    "form_id": "05075105|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can offer <Global=nwsExpCostMid> gold.",
+    "string": "Este Khajiit ofrecerá <Global=nwsExpCostMid> septims. Es una buena cantidad de monedas relucientes, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFC_GuardRec75",
+    "form_id": "05075106|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I can offer <Global=nwsExpCostLow> gold.",
+    "string": "Khajiit ofrecerá <Global=nwsExpCostLow> septims, y ni una moneda más...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFC_ElopeStoreTopic",
+    "form_id": "053B79DA|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Has the store made any money?",
+    "string": "¿La tienda ha ganado algo de dinero, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFC_ElopeMealTopic",
+    "form_id": "053B79DC|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Would you mind cooking something for me?",
+    "string": "¿Cocinarías algo para este Khajiit, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nwsFollowerXStorageTopic",
+    "form_id": "0542488F|nwsFollowerFramework.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to see your additional follower inventory.",
+    "string": "Muéstrale a Khajiit tu inventario adicional de seguidor, amigo.",
+    "status": "TranslationComplete"
+  }
+]

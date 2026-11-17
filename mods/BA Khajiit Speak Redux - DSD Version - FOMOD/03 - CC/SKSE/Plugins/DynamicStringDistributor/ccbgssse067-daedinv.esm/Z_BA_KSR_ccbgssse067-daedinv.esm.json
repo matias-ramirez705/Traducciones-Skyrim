@@ -1,0 +1,155 @@
+[
+  {
+    "editor_id": "ccBGSSSE067_ShardMessageBox",
+    "form_id": "0518F239|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¿Colocar un fragmento en el soporte?",
+    "string": "Colocar un fragmento en el soporte, ¿quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_ShardMessageBox",
+    "form_id": "0518F239|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Soporte de fragmento elemental",
+    "string": "Soporte de Fragmentos Elementales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_MessageHarvestFailed",
+    "form_id": "05033F32|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Ya se ha recogido.",
+    "string": "Cosechar esto dos veces es imposible, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_MessageHarvestFailed",
+    "form_id": "05033F32|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "No se ha podido cosechar",
+    "string": "Cosecha Fallida",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_MessageChooseStone",
+    "form_id": "050FB45C|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¿Qué te gustaría hacer?",
+    "string": "¿Qué debería hacerse aquí, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_MessageChooseStone",
+    "form_id": "050FB45C|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Altar de la piedra sello",
+    "string": "Altar de la Piedra sello",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_MessageChooseStone",
+    "form_id": "050FB45C|ccbgssse067-daedinv.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Coger piedra sello (cerrar puerta)",
+    "string": "Tomar Piedra sello (cerrar puerta)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_MessageChooseStone",
+    "form_id": "050FB45C|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Usar gran piedra welkynd (cargar puerta)",
+    "string": "Usar Gran Piedra de Welkynd (cargar puerta)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_OpenedElsewhereMessage",
+    "form_id": "0522D1BF|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Esta puerta se abre desde otro sitio.",
+    "string": "Parece que esta puerta se abre desde otro lugar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_OpenedElsewhereMessage",
+    "form_id": "0522D1BF|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Portón con cerrojo",
+    "string": "Puerta Bloqueada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_MessageConfirmWelkyndStone",
+    "form_id": "050AE67B|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¿Colocar la gran piedra welkynd (recargar la puerta de Oblivion)?",
+    "string": "Colocar la Gran Piedra de Welkynd y recargar la Puerta de Oblivion, ¿quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_MessageConfirmWelkyndStone",
+    "form_id": "050AE67B|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Colocar gran piedra welkynd",
+    "string": "Colocar Gran Piedra de Welkynd",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_MessageConfirmWelkyndStone",
+    "form_id": "050AE67B|ccbgssse067-daedinv.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Colocar gran piedra welkynd",
+    "string": "Colocar Gran Piedra de Welkynd",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_MessageConfirmSigilStone",
+    "form_id": "050AE67C|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¿Coger la piedra sello (cerrar la puerta de Oblivion)?",
+    "string": "Tomar la Piedra sello y cerrar la Puerta de Oblivion, ¿quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_MessageConfirmSigilStone",
+    "form_id": "050AE67C|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Coger piedra sello",
+    "string": "Tomar Piedra sello",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_MessageConfirmSigilStone",
+    "form_id": "050AE67C|ccbgssse067-daedinv.esm",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Coger piedra sello",
+    "string": "Tomar Piedra sello",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_IncorrectShardMessage",
+    "form_id": "0507B3D5|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No tienes el fragmento que corresponde a este soporte.",
+    "string": "Khajiit está exactamente a un fragmento correcto de distancia para este soporte.",
+    "status": "TranslationComplete"
+  }
+]

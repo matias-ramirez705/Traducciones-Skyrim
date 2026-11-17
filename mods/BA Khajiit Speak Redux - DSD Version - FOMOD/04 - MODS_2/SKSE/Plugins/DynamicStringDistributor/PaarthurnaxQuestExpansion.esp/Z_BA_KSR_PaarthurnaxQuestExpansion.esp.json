@@ -1,0 +1,326 @@
+[
+  {
+    "editor_id": "MQ204PaarBladesA1",
+    "form_id": "0003C572|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why shouldn't they trust you?",
+    "string": "¿Por qué no habrían de confiar en ti, hmm? ¿Es algo de lo que hablaste, quizás? Esto le ocurre a Khajiit más a menudo de lo que <Alias.Pronoun=Player> quisiera...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQPaarthurnaxTopic",
+    "form_id": "0004283F|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "About Paarthurnax...",
+    "string": "Khajiit siente curiosidad por Paarthurnax...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQPaarthurnaxGreybeardsTopic",
+    "form_id": "00077353|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Blades want me to kill Paarthurnax.",
+    "string": "Los Cuchillas desean que <Alias=Player> mate a Paarthurnax, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000D8D|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hahaha! You have much to learn of the dov.",
+    "string": "¡Ja-ja-ja! Tienes mucho que aprender sobre los Dov.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQPaarthurnax_3B",
+    "form_id": "03000807|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "These dragons flying around us, what are they doing here?",
+    "string": "Umm... ¿Qué podrían estar haciendo exactamente todos esos dovah volando por ahí? ¿Debería la cola de este Khajiit mantenerse alerta, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300080A|PaarthurnaxQuestExpansion.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But no, Dovakhiin, do not be afraid. I have taught the Way Of The Voice for centuries, and the Thu'um since long before that.",
+    "string": "Pero no, Dovahkiin, no tengas miedo. He enseñado el El camino de la voz durante siglos, y el Thu'um desde mucho antes de eso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_DelphineTopic",
+    "form_id": "03000D62|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Paarthurnax has changed, I cannot do what you ask of me.",
+    "string": "Paarthurnax ha cambiado, sí. <Alias=Player> no hará esto, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000D63|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gods Above. Are you listening? He needs to die.",
+    "string": "Dioses del cielo. ¿Estás escuchando? ¡Debe morir!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000D63|PaarthurnaxQuestExpansion.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "He commited atrocities so infamous they are still remembered, thousands of years later.",
+    "string": "Cometió atrocidades tan infames que aún son recordadas miles de años después.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_Delphine_1",
+    "form_id": "03000D64|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He has spent years meditating on his actions and he's proven his loyalty to us.",
+    "string": "Paarthurnax ha pasado años meditando sobre esos actos y ha demostrado su lealtad a todos, ¿no es así?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_Delphine_2",
+    "form_id": "03000D66|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It is my decision to make, and I have chosen to spare his life. (Persuade)",
+    "string": "Delphine, esta es una decisión que debe tomar <Alias=Player>, ¿no? Khajiit ha elegido perdonar a la bestia, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_Delphine_3",
+    "form_id": "03000D69|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do I need to remind you of the purpose of the Blades?",
+    "string": "Quizás este Khajiit deba recordarte cuál es el propósito de los Cuchillas, ¿sí? Khajiit disfruta impartiendo lecciones, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_Delphine_4",
+    "form_id": "03000D6B|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "And tell me, who do the blades serve?",
+    "string": "Khajiit siente curiosidad, Delphine... ¿A quién sirven los Cuchillas exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_Delphine_5",
+    "form_id": "03000D6D|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You must respect my decision.",
+    "string": "Puede que no te guste la decisión, sí. Pero la respetarás, ¿hmm? Paarthurnax vive. \"¡Fin de la historia!\" Así se dice, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_Delphine_6",
+    "form_id": "03000D70|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Thank you for trusting me on this.",
+    "string": "Khajiit no ha dudado de las decisiones de <Alias.PronounPosObj=Player> desde hace mucho tiempo, y <Alias.Pronoun=Player> no comenzará a hacerlo ahora, ¿hmm? Confía en este Khajiit, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_EsbernTopic",
+    "form_id": "03000D73|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have decided to spare Paarthurnax's life. He's not the same as he used to be.",
+    "string": "<Alias=Player> ha decidido perdonarle la vida a este dragón, sí. Ya no es el mismo dovah que fue antes, en efecto. ¿Es eso un problema, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000D74|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh how reasurring. Don't you understand the danger?",
+    "string": "Qué tranquilizador. ¿No entiendes el peligro?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_Esbern_1",
+    "form_id": "03000D76|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Paarthurnax is our ally, we wouldn't be here if not for him.",
+    "string": "¡Paarthurnax es un aliado, amigo! Ninguno estaría aquí sin la intervención de este dragón, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_Esbern_2",
+    "form_id": "03000D77|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I trust him. He's overcome his nature through the Way Of The Voice.",
+    "string": "Khajiit confía en Paarthurnax, sí. Ha vencido su propia naturaleza mediante el El camino de la voz. No es una hazaña sencilla, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_Esbern_3A",
+    "form_id": "03000D79|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You raise some good points, I must think about it.",
+    "string": "Planteas buenos argumentos, amigo. Khajiit reflexionará sobre esto y les dará la consideración que merecen, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_Esbern_3B",
+    "form_id": "03000D7B|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "My decision is made. You must trust me.",
+    "string": "¡Balnu Mey Joor, Zu'u Dovahkiin! ¡Acatarás la decisión de este Khajiit! ¡Basta ya de esta sheggorr [locura]!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000D7C|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fine, I'll just... hm, I'll... I'll trust you, Dragonborn. ",
+    "string": "Bien, yo solo... hmm. Yo... confiaré en ti, Sangre de Dragón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_Esbern_4",
+    "form_id": "03000D7D|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Thank you, Esbern. Enough of this, we have much to do.",
+    "string": "Tu sabiduría es evidente, Esbern. Ahora hay asuntos más importantes de los que ocuparse, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_PaarthurnaxTopic",
+    "form_id": "03000D81|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You speak wisely, yet how can I be sure you won't return to your old ways? ",
+    "string": "Hablas con sabiduría, en efecto. Sin embargo, ¿cómo puede Khajiit marcharse de aquí con la certeza de que no volverás simplemente a tus viejas costumbres una vez que <Alias.Pronoun=Player> ya no esté, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_Paarthurnax_1",
+    "form_id": "03000D84|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You could grow tired of this mountain, take Alduin's place among the dragons.",
+    "string": "Quizás podrías abandonar tu relajación en la montaña y ocupar el lugar de Alduin entre los dovah, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000D85|PaarthurnaxQuestExpansion.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "I counsel in their use.  It is enough for me.",
+    "string": "Yo aconsejo sobre su uso. Eso es suficiente para mí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_Paarthurnax_2",
+    "form_id": "03000D97|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What about all the pain and destruction you brought upon many innocents?",
+    "string": "¿Y qué hay de todo el dolor y la destrucción que has traído sobre tantos inocentes debajo de ti, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000D98|PaarthurnaxQuestExpansion.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "This was ages ago, you understand. Before few of us rebelled against Alduin's thur...his tyranny. ",
+    "string": "Eso fue hace eras, entiendes. Antes de que unos pocos nos rebeláramos contra el thur de Alduin... su tiranía.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_Paarthurnax_3",
+    "form_id": "03000D99|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "These dragons flying around us, what are they doing here?",
+    "string": "Umm... ¿Qué podrían estar haciendo exactamente todos esos dovah volando por ahí? ¿Debería la cola de este Khajiit mantenerse alerta, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000D9A|PaarthurnaxQuestExpansion.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "Without Alduin's lordship, the dov... the dragons...  They may yet bow to the vahzen... rightness of my Thu'um.",
+    "string": "Sin el dominio de Alduin, los Dov... los dragones... Aún podrían inclinarse ante la vahzen... rectitud de mi Thu'um.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_Paarthurnax_4",
+    "form_id": "03000D9B|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So you will seek other dragons and start leading them. Why?",
+    "string": "Entonces, buscarás a los otros dovah y comenzarás a guiarlos, ¿sí? Khajiit siente curiosidad... ¿Por qué exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000D9C|PaarthurnaxQuestExpansion.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "But no, Dovakhiin, do not be afraid. I have taught the Way Of The Voice for centuries, and the Thu'um since long before that.",
+    "string": "Pero no, Dovahkiin, no tengas miedo. He enseñado el El camino de la voz durante siglos, y el Thu'um desde mucho antes de eso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_Paarthurnax_5",
+    "form_id": "03000D9E|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I believe you. You have been a true friend and ally. Your actions speak for you.",
+    "string": "<Alias=Player> te cree, amigo. ¡Verdaderamente has sido un aliado y trevan [amigo], en efecto! ¡Tus acciones hablan mucho en tu favor!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000D9F|PaarthurnaxQuestExpansion.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Fare Thee Well, Dovahkhiin.",
+    "string": "Que te vaya bien, Dovahkiin.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ_JS_Paarthurnax_6",
+    "form_id": "03000DA0|PaarthurnaxQuestExpansion.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It is too big a risk, I am sorry. Prepare to meet your end, Paarthurnax.",
+    "string": "¡Este Khajiit se disculpa, pero es un riesgo demasiado grande! ¡Khajiit no confía en ti, no! ¡Ahora prepárate para encontrar tu final, Paarthurnax!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000DA1|PaarthurnaxQuestExpansion.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Test your Thu'um against mine, Dovahkhiin!",
+    "string": "¡Pon a prueba tu Thu'um contra el mío, Dovahkiin!",
+    "status": "TranslationComplete"
+  }
+]

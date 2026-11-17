@@ -1,0 +1,29 @@
+[
+  {
+    "editor_id": "dunValtheimKeepPayGold",
+    "form_id": "000ADE62|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "(Hand over 200 gold)",
+    "string": "(Entrega 200 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TacValt_ClaimValtheimMessage",
+    "form_id": "0200090F|TacticalValtheim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Raising a banner here will allow you to claim Valtheim for Whiterun Hold, the Empire, or for the Stormcloaks. What banner will you raise?",
+    "string": "Al izar un estandarte aquí, este Khajiit podrá reclamar Valtheim para la Comarca de Carrera Blanca, el Imperio Imperial o la rebelión de los Capas de la Tormenta. ¿Qué estandarte debería izarse, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TacValt_CannotUseMessage",
+    "form_id": "02000911|TacticalValtheim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You cannot do this while there are still enemies in Valtheim.",
+    "string": "Seguramente, primero habría que acabar con todos los enemigos de Valtheim, ¿no?",
+    "status": "TranslationComplete"
+  }
+]

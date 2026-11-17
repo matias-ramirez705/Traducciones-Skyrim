@@ -1,0 +1,2738 @@
+[
+  {
+    "editor_id": "APT_AcrobatEffect",
+    "form_id": "0400080A|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Acrobat",
+    "string": "Acróbata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AcrobatEffect",
+    "form_id": "0400080A|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your Carry Weight is increased by <50> and you spend <50>% less Stamina while sprinting.",
+    "string": "Tu capacidad de carga maxima aumenta en <50> y gastas <50>% menos de resistencia mientras corres.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AgentEffect",
+    "form_id": "0400080B|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Agent",
+    "string": "Agente",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AgentEffect",
+    "form_id": "0400080B|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are <20>% harder to detect while sneaking and you spend <25>% less Stamina while sneaking.",
+    "string": "Eres <20>% más difícil de detectar  y gastas <25>% menos de resistencia mientras te escabulles.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ArcherEffect01",
+    "form_id": "0400080C|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Archer",
+    "string": "Arquero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AssassinEffect01",
+    "form_id": "0400080D|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Assassin",
+    "string": "Asesino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AssassinEffect01",
+    "form_id": "0400080D|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your poisons last for two additional hits.",
+    "string": "Tus venenos duran dos golpes adicionales.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BarbarianEffect",
+    "form_id": "0400080E|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Barbarian",
+    "string": "Bárbaro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BarbarianEffect",
+    "form_id": "0400080E|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You spend <20>% less Stamina while power attacking.",
+    "string": "Gastas un <20>% menos de aguante cuando atacas con golpes cargados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BardEffect01",
+    "form_id": "0400080F|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Bard",
+    "string": "Bardo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BardEffect01",
+    "form_id": "0400080F|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You gain <10>% more experience.",
+    "string": "Ganas <10>% más de experiencia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BardEffect02",
+    "form_id": "04000810|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Bard",
+    "string": "Bardo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BardEffect02",
+    "form_id": "04000810|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You gain <mag>% more experience.",
+    "string": "Ganas <mag>% más de experiencia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BattlemageEffect",
+    "form_id": "04000811|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Battlemage",
+    "string": "Mago de batalla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BattlemageEffect",
+    "form_id": "04000811|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You take <25>% less damage while power attacking or casting a spell.",
+    "string": "Recibes <25>% menos de daño al atacar con poder o lanzar un hechizo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_CrusaderEffect",
+    "form_id": "04000812|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Crusader",
+    "string": "Cruzado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_CrusaderEffect",
+    "form_id": "04000812|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your Armor Rating is increased by <mag>.",
+    "string": "Tu índice de armadura aumenta en <mag>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_KnightEffect",
+    "form_id": "04000813|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Knight",
+    "string": "Caballero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_KnightEffect",
+    "form_id": "04000813|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You resist <25>% of all incoming damage when you fall below half Health.",
+    "string": "Resistes un <25>% de todo el daño recibido cuando tu salud es inferior a la mitad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageEffect",
+    "form_id": "04000814|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Mage",
+    "string": "Mago",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageEffect",
+    "form_id": "04000814|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your Magicka Regeneration is increased by <mag>%.",
+    "string": "Tu Regeneración de Magicka aumenta un <mag>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MonkEffect01",
+    "form_id": "04000815|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Monk",
+    "string": "Monje",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MonkEffect01",
+    "form_id": "04000815|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You deal <10> extra unarmed damage.",
+    "string": "Infliges <10> de daño desarmado extra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_NightbladeEffect01",
+    "form_id": "04000816|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Nightblade",
+    "string": "Hoja nocturna",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_NightbladeEffect01",
+    "form_id": "04000816|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You deal <25>% extra damage with sneak attacks and spells.",
+    "string": "Infliges <25>% de daño extra con ataques furtivos y hechizos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_NightbladeEffect02",
+    "form_id": "04000817|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Nightblade",
+    "string": "Hoja nocturna",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_NightbladeEffect02",
+    "form_id": "04000817|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You deal <mag>% more damage with sneak attacks and spells. ",
+    "string": "Infliges <mag>% más de daño con ataques furtivos y hechizos. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_PilgrimEffect01",
+    "form_id": "04000818|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Pilgrim",
+    "string": "Peregrino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_PilgrimEffect01",
+    "form_id": "04000818|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You receive <20>% better prices.",
+    "string": "Recibe <20>% de precios mejores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_PilgrimEffect02",
+    "form_id": "04000819|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Pilgrim",
+    "string": "Peregrino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_PilgrimEffect02",
+    "form_id": "04000819|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You receive <mag>% better prices.",
+    "string": "Recibe <mag>% de precios mejores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_RogueEffect01",
+    "form_id": "0400081A|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Rogue",
+    "string": "Pícaro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_RogueEffect01",
+    "form_id": "0400081A|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You attack <10>% faster. ",
+    "string": "Atacas <10>% más rápido. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ScoutEffect01",
+    "form_id": "0400081B|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Scout",
+    "string": "Explorador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ScoutEffect01",
+    "form_id": "0400081B|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your Movement Speed is increased by <10>%.",
+    "string": "Tu Velocidad de Movimiento aumenta un <10>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SorcererEffect",
+    "form_id": "0400081C|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Sorcerer",
+    "string": "Brujo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SorcererEffect",
+    "form_id": "0400081C|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You have a <mag>% chance to absorb the Magicka from incoming spells.",
+    "string": "Tienes un <mag>% de probabilidad de absorber la Magicka de los hechizos entrantes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SpellswordEffect",
+    "form_id": "0400081D|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Spellsword",
+    "string": "Espadachín Mágico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SpellswordEffect",
+    "form_id": "0400081D|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your spells and enchantments cost <10>% less.",
+    "string": "Tus hechizos y encantamientos cuestan <10>% menos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefEffect",
+    "form_id": "0400081E|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Thief",
+    "string": "Ladrón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefEffect",
+    "form_id": "0400081E|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your Stamina Regeneration is increased by <mag>%.",
+    "string": "Tu Regeneración de Resistencia aumenta un <mag>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorEffect",
+    "form_id": "0400081F|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Warrior",
+    "string": "Guerrero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorEffect",
+    "form_id": "0400081F|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your Health Regeneration is increased by <mag>%.",
+    "string": "Tu regeneración de salud aumenta un <mag>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WitchhunterEffect01",
+    "form_id": "04000820|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Witchhunter",
+    "string": "Cazador de brujas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WitchhunterEffect01",
+    "form_id": "04000820|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your potions last <50>% longer.",
+    "string": "Tus pociones duran <50>% más.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WitchhunterEffect02",
+    "form_id": "04000821|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Witchhunter",
+    "string": "Cazador de brujas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WitchhunterEffect02",
+    "form_id": "04000821|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your potions last <mag>% longer.",
+    "string": "Tus pociones duran <mag>% más.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ScoutEffect02_UNUSED",
+    "form_id": "04000836|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Scout",
+    "string": "Explorador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ScoutEffect02_UNUSED",
+    "form_id": "04000836|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You deal <mag>% more damage with bashes.",
+    "string": "Infliges <mag>% más de daño con golpes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ArcherEffect02",
+    "form_id": "04000837|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Archer",
+    "string": "Arquero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_RogueEffectDummy",
+    "form_id": "04000864|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Rogue",
+    "string": "Pícaro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_RogueEffectDummy",
+    "form_id": "04000864|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your Attack Speed is increased by <10>%.",
+    "string": "Tu Velocidad de Ataque aumenta un <10>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ArcherEffectDummy",
+    "form_id": "04000865|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Archer",
+    "string": "Arquero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ArcherEffectDummy",
+    "form_id": "04000865|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You move <25>% faster while drawing a bow.",
+    "string": "Te mueves <25>% más rápido al tensar un arco.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_HealerEffectDummy",
+    "form_id": "04000869|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Healer",
+    "string": "Sanador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_HealerEffectDummy",
+    "form_id": "04000869|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You move <25>% faster while casting a spell.",
+    "string": "Te mueves un <25>% más rápido mientras lanzas un hechizo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_RogueEffect02_UNUSED",
+    "form_id": "0400096C|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Rogue",
+    "string": "Pícaro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_RogueEffect02_UNUSED",
+    "form_id": "0400096C|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your Movement Speed is increased by <10>%.",
+    "string": "Tu Velocidad de Movimiento aumenta un <10>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageEffectDummy",
+    "form_id": "0400096D|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Mage",
+    "string": "Mago",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageEffectDummy",
+    "form_id": "0400096D|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your Magicka Regeneration is increased by <50>%. ",
+    "string": "Tu Regeneración de magia aumenta un <50>%. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefEffectDummy",
+    "form_id": "0400096E|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Thief",
+    "string": "Ladrón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefEffectDummy",
+    "form_id": "0400096E|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your Stamina Regeneration is increased by <50>%. ",
+    "string": "Tu Regeneración de Aguante aumenta un <50>%. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorEffectDummy",
+    "form_id": "0400096F|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Warrior",
+    "string": "Guerrero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorEffectDummy",
+    "form_id": "0400096F|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your Health Regeneration is increased by <50>%. ",
+    "string": "Tu regeneración de salud aumenta un <50>%. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AssassinEffect02",
+    "form_id": "04000970|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Assassin",
+    "string": "Asesino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AssassinEffect02",
+    "form_id": "04000970|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your poisons last for <mag>% more hits.",
+    "string": "Tus venenos duran un <mag>% más por golpe.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MonkEffect02",
+    "form_id": "04000971|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Monk",
+    "string": "Monje",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MonkEffect02",
+    "form_id": "04000971|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You deal <mag>% extra unarmed damage.",
+    "string": "Infliges <mag> de daño desarmado extra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_HealerEffect01",
+    "form_id": "04000972|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Healer",
+    "string": "Sanador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_HealerEffect01",
+    "form_id": "04000972|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You move <25>% faster while casting a spell.",
+    "string": "Te mueves un <25>% más rápido mientras lanzas un hechizo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_HealerEffect02",
+    "form_id": "04000973|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Healer",
+    "string": "Sanador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_HealerEffect02",
+    "form_id": "04000973|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You move <25>% faster while casting a spell.",
+    "string": "Te mueves un <25>% más rápido mientras lanzas un hechizo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_HealerEffect03",
+    "form_id": "04000974|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Healer",
+    "string": "Sanador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_HealerEffect03",
+    "form_id": "04000974|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You move <25>% faster while casting a spell.",
+    "string": "Te mueves un <25>% más rápido mientras lanzas un hechizo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ArcherEffect03",
+    "form_id": "04000975|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Archer",
+    "string": "Arquero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MonkEffect03",
+    "form_id": "04000978|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Monk",
+    "string": "Monje",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MonkEffect03",
+    "form_id": "04000978|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You deal <5> extra unarmed damage.",
+    "string": "Infliges <5> de daño desarmado extra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AcrobatAbility",
+    "form_id": "04000822|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Acrobat",
+    "string": "Acróbata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AgentAbility",
+    "form_id": "04000823|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Agent",
+    "string": "Agente",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ArcherAbility",
+    "form_id": "04000824|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Archer",
+    "string": "Arquero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AssassinAbility",
+    "form_id": "04000825|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Assassin",
+    "string": "Asesino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BarbarianAbility",
+    "form_id": "04000826|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Barbarian",
+    "string": "Bárbaro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BardAbility",
+    "form_id": "04000827|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Bard",
+    "string": "Bardo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BattlemageAbility",
+    "form_id": "04000828|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Battlemage",
+    "string": "Mago de batalla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_CrusaderAbility",
+    "form_id": "04000829|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Crusader",
+    "string": "Cruzado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_KnightAbility",
+    "form_id": "0400082A|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Knight",
+    "string": "Caballero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageAbility",
+    "form_id": "0400082B|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Mage",
+    "string": "Mago",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MonkAbility",
+    "form_id": "0400082C|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Monk",
+    "string": "Monje",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_NightbladeAbility",
+    "form_id": "0400082D|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Nightblade",
+    "string": "Hoja nocturna",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_PilgrimAbility",
+    "form_id": "0400082E|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pilgrim",
+    "string": "Peregrino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_RogueAbility",
+    "form_id": "0400082F|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Rogue",
+    "string": "Pícaro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ScoutAbility",
+    "form_id": "04000830|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Scout",
+    "string": "Explorador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SorcererAbility",
+    "form_id": "04000831|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Sorcerer",
+    "string": "Brujo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SpellswordAbility",
+    "form_id": "04000832|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Spellsword",
+    "string": "Espadachín Mágico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefAbility",
+    "form_id": "04000833|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Thief",
+    "string": "Ladrón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorAbility",
+    "form_id": "04000834|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Warrior",
+    "string": "Guerrero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WitchhunterAbility",
+    "form_id": "04000835|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Witchhunter",
+    "string": "Cazador de brujas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_HealerAbility",
+    "form_id": "04000868|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Healer",
+    "string": "Sanador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BarbarianPerk",
+    "form_id": "04000800|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Barbarian",
+    "string": "Bárbaro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BarbarianPerk",
+    "form_id": "04000800|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You spend 25% less Stamina while power attacking.",
+    "string": "Gastas <25>% menos de Aguante al atacar con potencia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AssassinPerk",
+    "form_id": "04000801|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Assassin",
+    "string": "Asesino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AssassinPerk",
+    "form_id": "04000801|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Your poisons last for two additional hits. ",
+    "string": "Tus venenos duran dos golpes adicionales. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BardPerk",
+    "form_id": "04000802|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Bard",
+    "string": "Bardo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BardPerk",
+    "form_id": "04000802|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You gain 20% more experience.",
+    "string": "Ganas <20>% más de experiencia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BattlemagePerk",
+    "form_id": "04000803|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Battlemage",
+    "string": "Mago de batalla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BattlemagePerk",
+    "form_id": "04000803|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You take 25% less damage while power attacking or casting a spell.",
+    "string": "Recibes <25>% menos de daño al atacar con poder o lanzar un hechizo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_KnightPerk",
+    "form_id": "04000804|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Knight",
+    "string": "Caballero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_KnightPerk",
+    "form_id": "04000804|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You resist 25% of all incoming damage when you fall below half Health.",
+    "string": "Resistes un <25>% de todo el daño recibido cuando tu salud es inferior a la mitad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_NightbladePerk",
+    "form_id": "04000805|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Nightblade",
+    "string": "Hoja nocturna",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_NightbladePerk",
+    "form_id": "04000805|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You deal 25% extra damage with sneak attacks and spells.",
+    "string": "Infliges <25>% de daño extra con ataques furtivos y hechizos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_PilgrimPerk",
+    "form_id": "04000806|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Pilgrim",
+    "string": "Peregrino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_PilgrimPerk",
+    "form_id": "04000806|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You receive 20% better prices.",
+    "string": "Recibe <20>% de precios mejores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ScoutPerk",
+    "form_id": "04000807|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Scout",
+    "string": "Explorador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ScoutPerk",
+    "form_id": "04000807|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Blocking with a shield reduces incoming power attack damage by 50%. ",
+    "string": "Bloquear con un escudo reduce el daño de los ataques de potencia entrantes en un 50%. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SpellswordPerk",
+    "form_id": "04000808|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Spellsword",
+    "string": "Espadachín Mágico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SpellswordPerk",
+    "form_id": "04000808|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Your spells and enchantments cost 10% less.",
+    "string": "Tus hechizos y encantamientos cuestan <10>% menos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WitchhunterPerk",
+    "form_id": "04000809|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Witchhunter",
+    "string": "Cazador de brujas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WitchhunterPerk",
+    "form_id": "04000809|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Your potions last 50% longer.",
+    "string": "Tus pociones duran <50>% más.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_HealerPerk",
+    "form_id": "0400096B|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Healer",
+    "string": "Sanador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_HealerPerk",
+    "form_id": "0400096B|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Your Healing spells cost 25% less Magicka.",
+    "string": "Tus hechizos de curación cuestan <25>% menos de Magicka.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AgentPerk",
+    "form_id": "04000976|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Agent",
+    "string": "Agente",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AcrobatPerk",
+    "form_id": "04000977|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Acrobat",
+    "string": "Acróbata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AcrobatMenu",
+    "form_id": "04000838|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Acrobat is a polite euphemism for agile burglars and second-story men. These thieves avoid detection by stealth, and rely on mobility and cunning to avoid capture.\r\n\r\nAcrobats can carry much more than others and spend less Stamina while sprinting.",
+    "string": "Acróbata es un eufemismo cortés para designar a los ladrones ágiles y a los segundones. Estos ladrones evitan ser detectados mediante el sigilo y confían en la movilidad y la astucia para evitar ser capturados.\r\n\r\nLos acróbatas pueden cargar mucho más que los demás y gastan menos Aguante al esprintar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AcrobatMenu",
+    "form_id": "04000838|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AcrobatMenu",
+    "form_id": "04000838|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AgentMenu",
+    "form_id": "04000839|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Agents are operatives skilled in deception and avoidance, but trained in self-defense and the use of deadly force. Self-reliant and independent, agents devote themselves to personal goals, or to various patrons or causes.\r\n\r\n Agents are more naturally skilled at remaining hidden in the shadows and spend less Stamina while sneaking.",
+    "string": "Los agentes son operativos expertos en el engaño y la evasión, pero entrenados en la autodefensa y el uso de la fuerza letal. Autosuficientes e independientes, los agentes se dedican a objetivos personales o a diversos patrocinadores o causas.\r\n\r\n Los agentes son más hábiles por naturaleza para permanecer ocultos en las sombras y gastan menos Aguante mientras se escabullen.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AgentMenu",
+    "form_id": "04000839|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AgentMenu",
+    "form_id": "04000839|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ArcherMenu",
+    "form_id": "0400083A|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Archers are fighters specializing in long-range combat and rapid movement. Opponents are typically kept at distance by ranged weapons and swift maneuver.\r\n\r\n Archers move faster while drawing their bows.",
+    "string": "Los arqueros son luchadores especializados en el combate a distancia y el movimiento rápido. Suelen mantener a distancia a sus oponentes con armas a distancia y maniobras rápidas.\r\n\r\n Los arqueros se mueven más rápido mientras tensan sus arcos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ArcherMenu",
+    "form_id": "0400083A|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ArcherMenu",
+    "form_id": "0400083A|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AssassinMenu",
+    "form_id": "0400083B|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Assassins are killers who rely on stealth and mobility to approach victims undetected. Execution is with ranged weapons or with short blades for close work. Assassins include ruthless murderers and principled agents of noble causes.\r\n\r\n Assassins are skilled with poisons and able to gain additional uses.",
+    "string": "Los asesinos se basan en el sigilo y la movilidad para acercarse a sus víctimas sin ser detectados. Utilizan armas a distancia o espadas cortas para el trabajo cuerpo a cuerpo. Entre los asesinos se incluyen asesinos despiadados y agentes con principios de causas nobles.\r\n\r\n Los asesinos están familiarizados con los venenos, por lo que adquieren usos adicionales.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AssassinMenu",
+    "form_id": "0400083B|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AssassinMenu",
+    "form_id": "0400083B|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BarbarianMenu",
+    "form_id": "0400083C|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Barbarians are the proud, savage warrior elite of the plains nomads, mountain tribes, and sea reavers. They tend to be brutal and direct, lacking civilized graces, but they glory in heroic feats, and excel in fierce, frenzied single combat.\r\n\r\nBarbarians spend less Stamina while power attacking.",
+    "string": "Los bárbaros son la orgullosa y salvaje élite guerrera de los nómadas de las llanuras, las tribus de las montañas y los saqueadores del mar. Suelen ser brutales y directos, carentes de gracias civilizadas, pero se glorían en hazañas heroicas y destacan en el combate individual, feroz y frenético.\r\n\r\nLos bárbaros gastan menos Aguante cuando atacan con potencia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BarbarianMenu",
+    "form_id": "0400083C|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BarbarianMenu",
+    "form_id": "0400083C|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BardMenu",
+    "form_id": "0400083D|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Bards are loremasters and storytellers. They crave adventure for the wisdom and insight to be gained, and must depend on sword, shield, spell and enchantment to preserve them from the perils of their educational experiences.\r\n\r\nBards gain more experience in their travels.",
+    "string": "Los bardos son maestros y narradores. Ansían la aventura por la sabiduría y la perspicacia que pueden adquirir, y deben depender de espadas, escudos, hechizo y encantamientos para protegerse de los peligros de sus experiencias educativas.\r\n\r\nLos bardos adquieren más experiencia en sus viajes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BardMenu",
+    "form_id": "0400083D|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BardMenu",
+    "form_id": "0400083D|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BattlemageMenu",
+    "form_id": "0400083E|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Battlemages are wizard-warriors, trained in both lethal spellcasting and heavily armored combat. They typically sacrifice mobility and versatility for the ability to supplement melee and ranged attacks with elemental damage and summoned creatures.\r\n\r\nBattlemages are robust mages who take less damage while power attacking and casting.",
+    "string": "Los magos de batalla son guerreros hechiceros entrenados tanto en el lanzamiento de hechizos letales como en el combate con armaduras pesadas. Suelen sacrificar movilidad y versatilidad por la capacidad de complementar los ataques cuerpo a cuerpo y a distancia con daño elemental y criaturas invocadas.\r\n\r\nLos magos de batalla son magos robustos que sufren menos daño cuando atacan y lanzan hechizos poderosos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BattlemageMenu",
+    "form_id": "0400083E|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BattlemageMenu",
+    "form_id": "0400083E|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_CrusaderMenu",
+    "form_id": "0400083F|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Any heavily armored warrior with spellcasting powers and a good cause may call himself a Crusader. Crusaders do well by doing good. They hunt monsters and villains, making themselves rich by plunder as they rid the world of evil.\r\n\r\nCrusaders are more resistant to physical damage.",
+    "string": "Cualquier guerrero con armadura pesada, poderes hechiceros y una buena causa puede llamarse a sí mismo Cruzado. A los cruzados les gusta hacer el bien. Cazan monstruos y villanos, enriqueciéndose con el saqueo mientras libran al mundo del mal.\r\n\r\nLos cruzados son más resistentes al daño físico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_CrusaderMenu",
+    "form_id": "0400083F|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_CrusaderMenu",
+    "form_id": "0400083F|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_KnightMenu",
+    "form_id": "04000840|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Of noble birth, or distinguished in battle or tourney, knights are civilized warriors, schooled in letters and courtesy, governed by the codes of chivalry. In addition to the arts of war, knights study the lore of healing and enchantment.\r\n\r\nKnights take less damage while below half Health.",
+    "string": "De noble cuna o distinguidos en batalla o en torneos, los caballeros son guerreros civilizados, educados en las letras y la cortesía, que se rigen por los códigos de la caballería. Además de las artes de la guerra, los caballeros estudian las técnicas de curación y encantamiento.\r\n\r\nLos caballeros reciben menos daño cuando su salud es inferior a la mitad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_KnightMenu",
+    "form_id": "04000840|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_KnightMenu",
+    "form_id": "04000840|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageMenu",
+    "form_id": "04000841|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Most mages claim to study magic for its intellectual rewards, but they also often profit from its practical applications. Varying widely in temperament and motivation, mages share but one thing in common - an avid love of spellcasting.\r\n\r\nMages regenerate Magicka faster than others.",
+    "string": "La mayoría de los magos afirman estudiar magia por sus recompensas intelectuales, pero también suelen beneficiarse de sus aplicaciones prácticas. Los magos varían mucho en temperamento y motivación, pero tienen algo en común: un ávido amor por los hechizos.\r\n\r\nLos magos regeneran Magicka más rápido que los demás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageMenu",
+    "form_id": "04000841|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageMenu",
+    "form_id": "04000841|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MonkMenu",
+    "form_id": "04000842|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Monks are students of the ancient martial arts of hand-to-hand combat and unarmored self defense. Monks avoid detection by stealth, mobility, and agility, and are skilled with a variety of ranged and close-combat weapons.\r\n\r\nMonks are accustomed to fighting with their fists, dealing more damage while unarmed.",
+    "string": "Los monjes son estudiantes de las antiguas artes marciales de combate cuerpo a cuerpo y defensa personal sin armadura. Los monjes evitan ser detectados mediante el sigilo, la movilidad y la agilidad, y son hábiles con diversas armas a distancia y cuerpo a cuerpo.\r\n\r\nLos monjes están acostumbrados a luchar con los puños, pero infligen más daño cuando están desarmados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MonkMenu",
+    "form_id": "04000842|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MonkMenu",
+    "form_id": "04000842|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_NightbladeMenu",
+    "form_id": "04000843|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Nightblades are spellcasters who use their magics to enhance mobility, concealment, and stealthy close combat. They have a sinister reputation, since many nightblades are thieves, enforcers, assassins, or covert agents.\r\n\r\nNightblades deal additional damage from stealth.",
+    "string": "Los Hoja Nocturna son hechiceros que utilizan su magia para mejorar la movilidad, la ocultación y el combate cuerpo a cuerpo sigiloso. Tienen una reputación siniestra, ya que muchos de ellos son ladrones, ejecutores, asesinos o agentes secretos.\r\n\r\nLos Hoja Nocturna infligen daño adicional con el sigilo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_NightbladeMenu",
+    "form_id": "04000843|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_NightbladeMenu",
+    "form_id": "04000843|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_PilgrimMenu",
+    "form_id": "04000844|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Pilgrims are travellers, seekers of truth and enlightenment. They fortify themselves for road and wilderness with arms, armor, and magic, and through wide experience of the world, they become shrewd in commerce and persuasion.\r\n\r\nPilgrims receive better prices when trading.",
+    "string": "Los peregrinos son viajeros, buscadores de la verdad y la iluminación. Se fortifican para el camino y el desierto con armas, armaduras y magia, y gracias a su amplia experiencia del mundo, se vuelven astutos en el comercio y la persuasión.\r\n\r\nLos peregrinos reciben mejores precios al comerciar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_PilgrimMenu",
+    "form_id": "04000844|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_PilgrimMenu",
+    "form_id": "04000844|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_RogueMenu",
+    "form_id": "04000845|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Rogues are adventurers and opportunists with a gift for getting in and out of trouble. Relying variously on charm and dash, blades and business sense, they thrive on conflict and misfortune, trusting to their luck and cunning to survive.\r\n\r\nRogues are able to attack faster than others.",
+    "string": "Los pícaros son aventureros y oportunistas con un don para meterse en líos y salir de ellos. Confían en el encanto y la habilidad, en las espadas y en el sentido de los negocios, y prosperan en los conflictos y las desgracias, confiando en su suerte y astucia para sobrevivir.\r\n\r\nLos pícaros se mueven y atacan más rápido que los demás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_RogueMenu",
+    "form_id": "04000845|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_RogueMenu",
+    "form_id": "04000845|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ScoutMenu",
+    "form_id": "04000846|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Scouts rely on stealth to survey routes and opponents, using skirmish tactics when forced to fight. By contrast with barbarians, in combat scouts tend to be cautious and methodical, rather than impulsive.\r\n\r\nScouts are much quicker at maneuvering the battlefield.",
+    "string": "Los exploradores confían en el sigilo para explorar rutas y oponentes, y utilizan tácticas de escaramuza cuando se ven obligados a luchar. A diferencia de los bárbaros, los exploradores en el combate tienden a ser cautelosos y metódicos, en lugar de impulsivos.\r\n\r\nLos exploradores son más eficaces bloqueando e infligen daño adicional al golpear.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ScoutMenu",
+    "form_id": "04000846|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ScoutMenu",
+    "form_id": "04000846|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SorcererMenu",
+    "form_id": "04000847|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Though spellcasters by vocation, Sorcerers typically rely on summonings and enchantments.\r\n\r\nSorcerers absorb additional Magicka from incoming spells.",
+    "string": "Aunque son hechiceros por vocación, los Brujos suelen recurrir a invocaciones y encantamientos.\r\n\r\nLos Brujos absorben Magicka adicional de los hechizos que reciben.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SorcererMenu",
+    "form_id": "04000847|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SorcererMenu",
+    "form_id": "04000847|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SpellswordMenu",
+    "form_id": "04000848|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spellswords are spellcasting specialists trained to support Imperial troops in skirmish and in battle. Veteran spellswords are prized as mercenaries, and well-suited for careers as adventurers and soldiers-of-fortune.\r\n\r\nSpellswords are more efficient at casting spells and wielding enchanted items than others.",
+    "string": "Los Espadachín Mágico son especialistas en conjuros entrenados para apoyar a las tropas imperiales en escaramuzas y batallas. Los espadachines veteranos son muy apreciados como mercenarios y aptos para carreras como aventureros y soldados de fortuna.\r\n\r\nLos espadachines son más eficientes que los demás lanzando hechizos y blandiendo objetos encantados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SpellswordMenu",
+    "form_id": "04000848|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SpellswordMenu",
+    "form_id": "04000848|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefMenu",
+    "form_id": "04000849|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Thieves are pickpockets and pilferers. Unlike robbers, who kill and loot, thieves typically choose stealth and subterfuge over violence, and often entertain romantic notions of their charm and cleverness in their acquisitive activities.\r\n\r\nThieves regenerate Stamina faster than others.",
+    "string": "Los ladrones son carteristas y ladrones. A diferencia de los ladrones, que matan y saquean, los ladrones suelen optar por el sigilo y el subterfugio en lugar de la violencia, y a menudo albergan nociones románticas de su encanto y astucia en sus actividades adquisitivas.\r\n\r\nLos ladrones regeneran su Aguante más rápido que los demás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefMenu",
+    "form_id": "04000849|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefMenu",
+    "form_id": "04000849|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorMenu",
+    "form_id": "0400084A|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Warriors are the professional men-at-arms, soldiers, mercenaries, and adventurers of the Empire, trained with various weapons and armor styles, conditioned by long marches, and hardened by ambush, skirmish, and battle.\r\n\r\nWarriors regenerate Health faster than others.",
+    "string": "Los guerreros son hombres profesionales con las armas, soldados, mercenarios y aventureros del Imperio, entrenados con varios estilos de armas y armaduras, condicionados por largas marchas y endurecidos por emboscadas, escaramuzas y batallas.\r\n\r\nLos guerreros regeneran Salud más rápido que los demás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorMenu",
+    "form_id": "0400084A|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorMenu",
+    "form_id": "0400084A|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WitchhunterMenu",
+    "form_id": "0400084B|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Witchhunters are dedicated to rooting out and destroying the perverted practices of dark cults and profane sorcery. They train for martial, magical, and stealthy war against vampires, witches, warlocks, and necromancers.\r\n\r\nWitchhunters have an in-depth knowledge of Alchemy, allowing their potions to last longer.",
+    "string": "Los cazadores de brujas se dedican a erradicar y destruir las prácticas pervertidas de los cultos oscuros y la brujería profana. Se entrenan para la guerra marcial, mágica y sigilosa contra vampiros, brujas, hechiceros y nigromantes.\r\n\r\nLos Cazadores de Brujas tienen un profundo conocimiento de la Alquimia, lo que permite que sus pociones duren más.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WitchhunterMenu",
+    "form_id": "0400084B|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WitchhunterMenu",
+    "form_id": "0400084B|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AcrobatSelected",
+    "form_id": "0400084C|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be an Acrobat?",
+    "string": "¿Seguro que quieres ser Acróbata?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AcrobatSelected",
+    "form_id": "0400084C|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Acrobat Selected",
+    "string": "Acróbata seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AcrobatSelected",
+    "form_id": "0400084C|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AcrobatSelected",
+    "form_id": "0400084C|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AgentSelected",
+    "form_id": "0400084D|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be an Agent?",
+    "string": "¿Está seguro de que quiere ser Agente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AgentSelected",
+    "form_id": "0400084D|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Agent Selected",
+    "string": "Agente seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AgentSelected",
+    "form_id": "0400084D|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AgentSelected",
+    "form_id": "0400084D|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ArcherSelected",
+    "form_id": "0400084E|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be an Archer?",
+    "string": "¿Estás seguro de que quieres ser Arquero?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ArcherSelected",
+    "form_id": "0400084E|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Archer Selected",
+    "string": "Arquero Seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ArcherSelected",
+    "form_id": "0400084E|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ArcherSelected",
+    "form_id": "0400084E|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AssassinSelected",
+    "form_id": "0400084F|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be an Assassin?",
+    "string": "¿Estás seguro de que quieres ser Asesino?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AssassinSelected",
+    "form_id": "0400084F|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Assassin Selected",
+    "string": "Asesino seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AssassinSelected",
+    "form_id": "0400084F|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_AssassinSelected",
+    "form_id": "0400084F|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BarbarianSelected",
+    "form_id": "04000850|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be a Barbarian?",
+    "string": "¿Estás seguro de que quieres ser Bárbaro?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BarbarianSelected",
+    "form_id": "04000850|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Barbarian Selected",
+    "string": "Bárbaro Seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BarbarianSelected",
+    "form_id": "04000850|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BarbarianSelected",
+    "form_id": "04000850|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BardSelected",
+    "form_id": "04000851|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be a Bard?",
+    "string": "¿Estás seguro de que quieres ser Bardo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BardSelected",
+    "form_id": "04000851|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Bard Selected",
+    "string": "Bardo Seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BardSelected",
+    "form_id": "04000851|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BardSelected",
+    "form_id": "04000851|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BattlemageSelected",
+    "form_id": "04000852|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be a Battlemage?",
+    "string": "¿Estás seguro de que quieres ser un Mago de Batalla?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BattlemageSelected",
+    "form_id": "04000852|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Battlemage Selected",
+    "string": "Mago de batalla seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BattlemageSelected",
+    "form_id": "04000852|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_BattlemageSelected",
+    "form_id": "04000852|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_CrusaderSelected",
+    "form_id": "04000853|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be a Crusader?",
+    "string": "¿Estás seguro de que quieres ser un Cruzado?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_CrusaderSelected",
+    "form_id": "04000853|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Crusader Selected",
+    "string": "Cruzado Seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_CrusaderSelected",
+    "form_id": "04000853|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_CrusaderSelected",
+    "form_id": "04000853|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_KnightSelected",
+    "form_id": "04000854|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be a Knight?",
+    "string": "¿Estás seguro de que quieres ser Caballero?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_KnightSelected",
+    "form_id": "04000854|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Knight Selected",
+    "string": "Caballero seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_KnightSelected",
+    "form_id": "04000854|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_KnightSelected",
+    "form_id": "04000854|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageSelected",
+    "form_id": "04000855|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be a Mage?",
+    "string": "¿Estás seguro de que quieres ser Mago?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageSelected",
+    "form_id": "04000855|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Mage Selected",
+    "string": "Mago seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageSelected",
+    "form_id": "04000855|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageSelected",
+    "form_id": "04000855|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MonkSelected",
+    "form_id": "04000856|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be a Monk?",
+    "string": "¿Estás seguro de que quieres ser Monje?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MonkSelected",
+    "form_id": "04000856|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Monk Selected",
+    "string": "Monje seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MonkSelected",
+    "form_id": "04000856|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MonkSelected",
+    "form_id": "04000856|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_NightbladeSelected",
+    "form_id": "04000857|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be a Nightblade?",
+    "string": "¿Estás seguro de querer ser un Hoja Nocturna?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_NightbladeSelected",
+    "form_id": "04000857|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Nightblade Selected",
+    "string": "Hoja Nocturna Seleccionada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_NightbladeSelected",
+    "form_id": "04000857|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_NightbladeSelected",
+    "form_id": "04000857|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_PilgrimSelected",
+    "form_id": "04000858|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be a Pilgrim?",
+    "string": "¿Estás seguro de que quieres ser Peregrino?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_PilgrimSelected",
+    "form_id": "04000858|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Pilgrim Selected",
+    "string": "Peregrino seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_PilgrimSelected",
+    "form_id": "04000858|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_PilgrimSelected",
+    "form_id": "04000858|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_RogueSelected",
+    "form_id": "04000859|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be a Rogue?",
+    "string": "¿Estás seguro de que quieres ser un Pícaro?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_RogueSelected",
+    "form_id": "04000859|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Rogue Selected",
+    "string": "Pícaro Seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_RogueSelected",
+    "form_id": "04000859|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_RogueSelected",
+    "form_id": "04000859|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ScoutSelected",
+    "form_id": "0400085A|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be a Scout?",
+    "string": "¿Estás seguro de que quieres ser Explorador?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ScoutSelected",
+    "form_id": "0400085A|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Scout Selected",
+    "string": "Explorador seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ScoutSelected",
+    "form_id": "0400085A|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ScoutSelected",
+    "form_id": "0400085A|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SorcererSelected",
+    "form_id": "0400085B|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be a Sorcerer?",
+    "string": "¿Estás seguro de que quieres ser Brujo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SorcererSelected",
+    "form_id": "0400085B|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Sorcerer Selected",
+    "string": "Brujo seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SorcererSelected",
+    "form_id": "0400085B|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SorcererSelected",
+    "form_id": "0400085B|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SpellswordSelected",
+    "form_id": "0400085C|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be a Spellsword?",
+    "string": "¿Estás seguro de que quieres ser Espadachín Mágico?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SpellswordSelected",
+    "form_id": "0400085C|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Spellsword Selected",
+    "string": "Espadachín Mágico seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SpellswordSelected",
+    "form_id": "0400085C|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SpellswordSelected",
+    "form_id": "0400085C|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefSelected",
+    "form_id": "0400085D|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be a Thief?",
+    "string": "¿Estás seguro de que quieres ser Ladrón?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefSelected",
+    "form_id": "0400085D|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Thief Selected",
+    "string": "Ladrón seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefSelected",
+    "form_id": "0400085D|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefSelected",
+    "form_id": "0400085D|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorSelected",
+    "form_id": "0400085E|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be a Warrior?",
+    "string": "¿Estás seguro de que quieres ser un Guerrero?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorSelected",
+    "form_id": "0400085E|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Warrior Selected",
+    "string": "Guerrero seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorSelected",
+    "form_id": "0400085E|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorSelected",
+    "form_id": "0400085E|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WitchhunterSelected",
+    "form_id": "0400085F|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be a Witchhunter?",
+    "string": "¿Seguro que quieres ser Cazador de Brujas?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WitchhunterSelected",
+    "form_id": "0400085F|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Witchhunter Selected",
+    "string": "Cazador de brujas Seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WitchhunterSelected",
+    "form_id": "0400085F|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WitchhunterSelected",
+    "form_id": "0400085F|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SpecializationMenu",
+    "form_id": "04000860|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose your Path.",
+    "string": "Elige tu camino.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SpecializationMenu",
+    "form_id": "04000860|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Specialization Menu",
+    "string": "Menú de especialización",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SpecializationMenu",
+    "form_id": "04000860|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Warrior Specializations",
+    "string": "Especializaciones del Guerrero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SpecializationMenu",
+    "form_id": "04000860|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Thief Specializations",
+    "string": "Especializaciones del ladrón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_SpecializationMenu",
+    "form_id": "04000860|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Mage Specializations",
+    "string": "Especializaciones del mago",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorSpecializationMenu",
+    "form_id": "04000861|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose your Specialization.",
+    "string": "Elija su especialización.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorSpecializationMenu",
+    "form_id": "04000861|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Warrior Specialization Menu",
+    "string": "Menú de especialización de guerrero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorSpecializationMenu",
+    "form_id": "04000861|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Archer",
+    "string": "Arquero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorSpecializationMenu",
+    "form_id": "04000861|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Barbarian",
+    "string": "Bárbaro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorSpecializationMenu",
+    "form_id": "04000861|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Crusader",
+    "string": "Cruzado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorSpecializationMenu",
+    "form_id": "04000861|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Knight",
+    "string": "Caballero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorSpecializationMenu",
+    "form_id": "04000861|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Rogue",
+    "string": "Pícaro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorSpecializationMenu",
+    "form_id": "04000861|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Scout",
+    "string": "Explorador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorSpecializationMenu",
+    "form_id": "04000861|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Warrior",
+    "string": "Guerrero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_WarriorSpecializationMenu",
+    "form_id": "04000861|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefSpecializationMenu",
+    "form_id": "04000862|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose your Specialization.",
+    "string": "Elija su especialización.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefSpecializationMenu",
+    "form_id": "04000862|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Thief Specialization Menu",
+    "string": "Menú de especialización de ladrón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefSpecializationMenu",
+    "form_id": "04000862|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Acrobat",
+    "string": "Acróbata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefSpecializationMenu",
+    "form_id": "04000862|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Agent",
+    "string": "Agente",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefSpecializationMenu",
+    "form_id": "04000862|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Assassin",
+    "string": "Asesino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefSpecializationMenu",
+    "form_id": "04000862|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Bard",
+    "string": "Bardo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefSpecializationMenu",
+    "form_id": "04000862|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Monk",
+    "string": "Monje",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefSpecializationMenu",
+    "form_id": "04000862|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Pilgrim",
+    "string": "Peregrino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefSpecializationMenu",
+    "form_id": "04000862|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Thief",
+    "string": "Ladrón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_ThiefSpecializationMenu",
+    "form_id": "04000862|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageSpecializationMenu",
+    "form_id": "04000863|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Choose your Specialization.",
+    "string": "Elija su especialización.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageSpecializationMenu",
+    "form_id": "04000863|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Mage Specialization Menu",
+    "string": "Menú de especialización de mago",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageSpecializationMenu",
+    "form_id": "04000863|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Battlemage",
+    "string": "Mago de batalla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageSpecializationMenu",
+    "form_id": "04000863|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Healer",
+    "string": "Sanador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageSpecializationMenu",
+    "form_id": "04000863|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Mage",
+    "string": "Mago",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageSpecializationMenu",
+    "form_id": "04000863|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Nightblade",
+    "string": "Hoja nocturna",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageSpecializationMenu",
+    "form_id": "04000863|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Sorcerer",
+    "string": "Brujo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageSpecializationMenu",
+    "form_id": "04000863|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Spellsword",
+    "string": "Espadachín Mágico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageSpecializationMenu",
+    "form_id": "04000863|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Witchhunter",
+    "string": "Cazador de brujas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_MageSpecializationMenu",
+    "form_id": "04000863|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_HealerSelected",
+    "form_id": "04000866|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to be a Healer?",
+    "string": "¿Estás seguro de que quieres ser Sanador?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_HealerSelected",
+    "form_id": "04000866|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Healer Selected",
+    "string": "Sanador seleccionado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_HealerSelected",
+    "form_id": "04000866|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_HealerSelected",
+    "form_id": "04000866|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_HealerMenu",
+    "form_id": "04000867|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Healers are spellcasters who swear solemn oaths to heal the afflicted and cure the diseased. When threatened, they defend themselves with reason and disabling attacks and magic, relying on deadly force only in extremity.\r\n\r\nHealers are able quickly reposition themselves when wielding a spell or staff.",
+    "string": "Los sanadores son hechiceros que hacen juramentos solemnes de sanar a los afligidos y curar a los enfermos. Cuando se ven amenazados, se defienden con la razón y ataques incapacitantes y mágicos, recurriendo a la fuerza mortal sólo en caso extremo.\r\n\r\nLos Sanadores son mucho más eficientes lanzando hechizos de Sanación que los demás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_HealerMenu",
+    "form_id": "04000867|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Confirm",
+    "string": "Confirmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "APT_HealerMenu",
+    "form_id": "04000867|Aptitude - A Minimalistic Class Mod.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Go Back",
+    "string": "Volver atrás",
+    "status": "TranslationComplete"
+  }
+]

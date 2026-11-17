@@ -1,0 +1,4309 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Exit-9B/InventoryInjector/main/docs/InventoryInjector.schema.json",
+    "rules": 
+[
+    {
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchRestoreHealth"]
+    },
+    "assign": {
+        "subTypeDisplay": "$HealthRestore",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "restore_health",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyHealRate"]
+    },
+    "assign": {
+        "subTypeDisplay": "$HealthRegen",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "regenerate_health",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyHealth"]
+    },
+    "assign": {
+        "subTypeDisplay": "$HealthFortify",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_health",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchRestoreMagicka"]
+    },
+    "assign": {
+        "subTypeDisplay": "$MagickaRestore",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "restore_magicka",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyMagickaRate"]
+    },
+    "assign": {
+        "subTypeDisplay": "$MagickaRegen",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "regenerate_magicka",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyMagicka"]
+    },
+    "assign": {
+        "subTypeDisplay": "$MagickaFortify",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_magicka",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchRestoreStamina"]
+    },
+    "assign": {
+        "subTypeDisplay": "$StaminaRestore",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "restore_stamina",
+        "iconColor": "#51db2e"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyStaminaRate"]
+    },
+    "assign": {
+        "subTypeDisplay": "$StaminaRegen",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "regenerate_stamina",
+        "iconColor": "#51db2e"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyStamina"]
+    },
+    "assign": {
+        "subTypeDisplay": "$StaminaFortify",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_stamina",
+        "iconColor": "#51db2e"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchCureDisease"]
+    },
+    "assign": {
+        "subTypeDisplay": "$CureDisease",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "cure_disease",
+        "iconColor": "#ffffff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchCurePoison"]
+    },
+    "assign": {
+        "subTypeDisplay": "$CurePoison",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "cure_poison",
+        "iconColor": "#ffffff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicInvisibility"]
+    },
+    "assign": {
+        "subTypeDisplay": "$Invisibility",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "invisibility",
+        "iconColor": "#ffffff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchWaterBreathing"]
+    },
+    "assign": {
+        "subTypeDisplay": "$Waterbreathing",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "waterbreathing",
+        "iconColor": "#ffffff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchWaterWalking"]
+    },
+    "assign": {
+        "subTypeDisplay": "$Waterwalking",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "waterwalking",
+        "iconColor": "#ffffff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MAG_MagicAlchReflectDamage"]
+    },
+    "assign": {
+        "subTypeDisplay": "$ReflectDamage",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "reflect_damage",
+        "iconColor": "#ffffff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MAG_MagicAlchMuffle"]
+    },
+    "assign": {
+        "subTypeDisplay": "$Muffle",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "muffle",
+        "iconColor": "#ffffff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyAlteration"]
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyAlteration",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_alteration",
+        "iconColor": "#86c542"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyConjuration"]
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyConjuration",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_conjuration",
+        "iconColor": "#b361d3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyDestruction"]
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyDestruction",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_destruction",
+        "iconColor": "#e12f2f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyEnchanting"]
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyEnchanting",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_enchanting",
+        "iconColor": "#0b2447"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyIllusion"]
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyIllusion",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_illusion",
+        "iconColor": "#2b9be3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyRestoration"]
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyRestoration",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_restoration",
+        "iconColor": "#f5d730"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyBarter"]
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyBarter",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_barter",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyLockpicking"]
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyLockpicking",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_lockpick",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyPersuasion"]
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyPersuasion",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_persuasion",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyPickPocket"]
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyPickpocket",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_pickpocket",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifySneak"]
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifySneak",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_sneak",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyOneHanded"]
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyOneHanded",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_onehanded",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyTwoHanded"]
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyTwoHanded",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_twohanded",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyBlock"]
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyBlocking",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_block",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyCarryWeight"]
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyCarryWeight",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_carryweight",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyHeavyArmor"]
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyHeavyArmor",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_heavy_armor",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyLightArmor"]
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyLightArmor",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_light_armor",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifyMarksman"]
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyMarksman",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_marksman",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchFortifySmithing"]
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifySmithing",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fortify_smithing",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPoison"],
+        "effectKeywords": ["MagicAlchDamageHealth"]
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageHealth",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "damage_health",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPoison"],
+        "effectKeywords": ["AlchDamageHealthDuration"]
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonHealth",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "lingering_damage_health",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPoison"],
+        "effectKeywords": ["MagicAlchDamageMagicka"]
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageMagicka",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "damage_magicka",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPoison"],
+        "effectKeywords": ["AlchDamageMagickaDuration"]
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageMagickaLingering",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "lingering_damage_magicka",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPoison"],
+        "effectKeywords": ["AlchDamageMagickaRate"]
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageMagickaRegen",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "damage_magicka_regen",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPoison"],
+        "effectKeywords": ["MagicAlchDamageStamina"]
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageStamina",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "damage_stamina",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPoison"],
+        "effectKeywords": ["AlchDamageStaminaDuration"]
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageStaminaLingering",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "lingering_damage_stamina",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPoison"],
+        "effectKeywords": ["AlchDamageStaminaRate"]
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageStaminaRegen",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "damage_stamina_regen",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPoison"],
+        "effectKeywords": ["MagicInfluenceFear"]
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonFear",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "fear",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPoison"],
+        "effectKeywords": ["MagicInfluenceFrenzy"]
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonFrenzy",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "frenzy",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPoison"],
+        "effectKeywords": ["MagicParalysis"]
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonParalysis",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "paralysis",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPoison"],
+        "effectKeywords": ["MagicSlow"]
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonSlow",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "slow",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPoison"],
+        "effectKeywords": ["USKPMagicAlchWeaknessPoison"]
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessPoison",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "weakness_poison",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPoison"],
+        "effectKeywords": ["MagicAlchWeaknessFire"]
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessFire1",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "weakness_fire",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPoison"],
+        "effectKeywords": ["MagicAlchWeaknessFrost"]
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessFrost1",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "weakness_frost",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPoison"],
+        "effectKeywords": ["MagicAlchWeaknessShock"]
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessShock1",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "weakness_shock",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPoison"],
+        "effectKeywords": ["MagicAlchWeaknessMagic"]
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessMagic1",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "weakness_magic",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchResistFire"]
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistFire",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "resist_fire",
+        "iconColor": "#c73636"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchResistFrost"]
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistFrost",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "resist_frost",
+        "iconColor": "#1ffbff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchResistShock"]
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistShock",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "resist_shock",
+        "iconColor": "#eaab00"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "keywords": ["VendorItemPotion"],
+        "effectKeywords": ["MagicAlchResistMagic"]
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistMagic",
+        "iconSource": "Icons/potions/crafted.swf",
+        "iconLabel": "resist_magic",
+        "iconColor": "#2e9edb"
+    }
+},
+    {
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchRestoreHealth"],
+        "formId": "Skyrim.esm|03EADD"
+    },
+    "assign": {
+        "subTypeDisplay": "$HealthRestore1",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "restore_health_1",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchRestoreHealth"],
+        "formId": "Skyrim.esm|03EADE"
+    },
+    "assign": {
+        "subTypeDisplay": "$HealthRestore2",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "restore_health_2",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchRestoreHealth"],
+        "formId": "Skyrim.esm|03EADF"
+    },
+    "assign": {
+        "subTypeDisplay": "$HealthRestore3",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "restore_health_3",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchRestoreHealth"],
+        "formId": "Skyrim.esm|03EAE3"
+    },
+    "assign": {
+        "subTypeDisplay": "$HealthRestore4",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "restore_health_4",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchRestoreHealth"],
+        "formId": "Skyrim.esm|039BE4"
+    },
+    "assign": {
+        "subTypeDisplay": "$HealthRestore5",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "restore_health_5",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchRestoreHealth"],
+        "formId": "Skyrim.esm|039BE5"
+    },
+    "assign": {
+        "subTypeDisplay": "$HealthRestore6",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "restore_health_6",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyHealRate"],
+        "formId": "Skyrim.esm|03EB09"
+    },
+    "assign": {
+        "subTypeDisplay": "$HealthRegen1",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "regenerate_health_1",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyHealRate"],
+        "formId": "Skyrim.esm|03EB0A"
+    },
+    "assign": {
+        "subTypeDisplay": "$HealthRegen2",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "regenerate_health_2",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyHealRate"],
+        "formId": "Skyrim.esm|03EB0B"
+    },
+    "assign": {
+        "subTypeDisplay": "$HealthRegen3",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "regenerate_health_3",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyHealRate"],
+        "formId": "Skyrim.esm|03EB0C"
+    },
+    "assign": {
+        "subTypeDisplay": "$HealthRegen4",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "regenerate_health_4",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyHealRate"],
+        "formId": "Skyrim.esm|0FF9FF"
+    },
+    "assign": {
+        "subTypeDisplay": "$HealthRegen5",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "regenerate_health_5",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyHealth"],
+        "formId": "Skyrim.esm|03EAF2"
+    },
+    "assign": {
+        "subTypeDisplay": "$HealthFortify1",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "fortify_health_1",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyHealth"],
+        "formId": "Skyrim.esm|03EAF4"
+    },
+    "assign": {
+        "subTypeDisplay": "$HealthFortify2",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "fortify_health_2",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyHealth"],
+        "formId": "Skyrim.esm|03EAF6"
+    },
+    "assign": {
+        "subTypeDisplay": "$HealthFortify3",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "fortify_health_3",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyHealth"],
+        "formId": "Skyrim.esm|03EAF5"
+    },
+    "assign": {
+        "subTypeDisplay": "$HealthFortify4",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "fortify_health_4",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyHealth"],
+        "formId": "Skyrim.esm|0FF9FC"
+    },
+    "assign": {
+        "subTypeDisplay": "$HealthFortify5",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "fortify_health_5",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Dragonborn.esm|01AADD"
+    },
+    "assign": {
+        "subTypeDisplay": "$WellBeing1",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "wellbeing_1",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Dragonborn.esm|01AADE"
+    },
+    "assign": {
+        "subTypeDisplay": "$WellBeing2",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "wellbeing_2",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Dragonborn.esm|01AADF"
+    },
+    "assign": {
+        "subTypeDisplay": "$WellBeing3",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "wellbeing_3",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Dragonborn.esm|01AAE0"
+    },
+    "assign": {
+        "subTypeDisplay": "$WellBeing4",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "wellbeing_4",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Dragonborn.esm|01AAE1"
+    },
+    "assign": {
+        "subTypeDisplay": "$WellBeing5",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "wellbeing_5",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Dragonborn.esm|01AAE2"
+    },
+    "assign": {
+        "subTypeDisplay": "$WellBeing6",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "wellbeing_6",
+        "iconColor": "#db2e73"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchRestoreMagicka"],
+        "formId": "Skyrim.esm|03EAE0"
+    },
+    "assign": {
+        "subTypeDisplay": "$MagickaRestore1",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "restore_magicka_1",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchRestoreMagicka"],
+        "formId": "Skyrim.esm|03EAE1"
+    },
+    "assign": {
+        "subTypeDisplay": "$MagickaRestore2",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "restore_magicka_2",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchRestoreMagicka"],
+        "formId": "Skyrim.esm|03EAE2"
+    },
+    "assign": {
+        "subTypeDisplay": "$MagickaRestore3",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "restore_magicka_3",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchRestoreMagicka"],
+        "formId": "Skyrim.esm|03EAE4"
+    },
+    "assign": {
+        "subTypeDisplay": "$MagickaRestore4",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "restore_magicka_4",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchRestoreMagicka"],
+        "formId": "Skyrim.esm|039BE6"
+    },
+    "assign": {
+        "subTypeDisplay": "$MagickaRestore5",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "restore_magicka_5",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchRestoreMagicka"],
+        "formId": "Skyrim.esm|039BE7"
+    },
+    "assign": {
+        "subTypeDisplay": "$MagickaRestore6",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "restore_magicka_6",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyMagickaRate"],
+        "formId": "Skyrim.esm|03EB0D"
+    },
+    "assign": {
+        "subTypeDisplay": "$MagickaRegen1",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "regenerate_magicka_1",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyMagickaRate"],
+        "formId": "Skyrim.esm|03EB0E"
+    },
+    "assign": {
+        "subTypeDisplay": "$MagickaRegen2",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "regenerate_magicka_2",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyMagickaRate"],
+        "formId": "Skyrim.esm|03EB0F"
+    },
+    "assign": {
+        "subTypeDisplay": "$MagickaRegen3",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "regenerate_magicka_3",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyMagickaRate"],
+        "formId": "Skyrim.esm|03EB10"
+    },
+    "assign": {
+        "subTypeDisplay": "$MagickaRegen4",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "regenerate_magicka_4",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyMagickaRate"],
+        "formId": "Skyrim.esm|0FFA00"
+    },
+    "assign": {
+        "subTypeDisplay": "$MagickaRegen5",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "regenerate_magicka_5",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyMagicka"],
+        "formId": "Skyrim.esm|03EAF7"
+    },
+    "assign": {
+        "subTypeDisplay": "$MagickaFortify1",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "fortify_magicka_1",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyMagicka"],
+        "formId": "Skyrim.esm|03EAFA"
+    },
+    "assign": {
+        "subTypeDisplay": "$MagickaFortify2",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "fortify_magicka_2",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyMagicka"],
+        "formId": "Skyrim.esm|03EAFB"
+    },
+    "assign": {
+        "subTypeDisplay": "$MagickaFortify3",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "fortify_magicka_3",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyMagicka"],
+        "formId": "Skyrim.esm|03EAFC"
+    },
+    "assign": {
+        "subTypeDisplay": "$MagickaFortify4",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "fortify_magicka_4",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyMagicka"],
+        "formId": "Skyrim.esm|0FF9FD"
+    },
+    "assign": {
+        "subTypeDisplay": "$MagickaFortify5",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "fortify_magicka_5",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchRestoreStamina"],
+        "formId": "Skyrim.esm|03EAE5"
+    },
+    "assign": {
+        "subTypeDisplay": "$StaminaRestore1",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "restore_stamina_1",
+        "iconColor": "#51db2e"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchRestoreStamina"],
+        "formId": "Skyrim.esm|039BE8"
+    },
+    "assign": {
+        "subTypeDisplay": "$StaminaRestore2",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "restore_stamina_2",
+        "iconColor": "#51db2e"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchRestoreStamina"],
+        "formId": "Skyrim.esm|03EAE7"
+    },
+    "assign": {
+        "subTypeDisplay": "$StaminaRestore3",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "restore_stamina_3",
+        "iconColor": "#51db2e"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchRestoreStamina"],
+        "formId": "Skyrim.esm|03EAE8"
+    },
+    "assign": {
+        "subTypeDisplay": "$StaminaRestore4",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "restore_stamina_4",
+        "iconColor": "#51db2e"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchRestoreStamina"],
+        "formId": "Skyrim.esm|03EAE6"
+    },
+    "assign": {
+        "subTypeDisplay": "$StaminaRestore5",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "restore_stamina_5",
+        "iconColor": "#51db2e"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchRestoreStamina"],
+        "formId": "Skyrim.esm|039CF3"
+    },
+    "assign": {
+        "subTypeDisplay": "$StaminaRestore6",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "restore_stamina_6",
+        "iconColor": "#51db2e"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyStaminaRate"],
+        "formId": "Skyrim.esm|03EB11"
+    },
+    "assign": {
+        "subTypeDisplay": "$StaminaRegen1",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "regenerate_stamina_1",
+        "iconColor": "#51db2e"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyStaminaRate"],
+        "formId": "Skyrim.esm|03EB12"
+    },
+    "assign": {
+        "subTypeDisplay": "$StaminaRegen2",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "regenerate_stamina_2",
+        "iconColor": "#51db2e"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyStaminaRate"],
+        "formId": "Skyrim.esm|039B0C"
+    },
+    "assign": {
+        "subTypeDisplay": "$StaminaRegen3",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "regenerate_stamina_3",
+        "iconColor": "#51db2e"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyStaminaRate"],
+        "formId": "Skyrim.esm|03EB14"
+    },
+    "assign": {
+        "subTypeDisplay": "$StaminaRegen4",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "regenerate_stamina_4",
+        "iconColor": "#51db2e"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyStaminaRate"],
+        "formId": "Skyrim.esm|0FFA02"
+    },
+    "assign": {
+        "subTypeDisplay": "$StaminaRegen5",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "regenerate_stamina_5",
+        "iconColor": "#51db2e"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyStamina"],
+        "formId": "Skyrim.esm|03EAFD"
+    },
+    "assign": {
+        "subTypeDisplay": "$StaminaFortify1",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "fortify_stamina_1",
+        "iconColor": "#51db2e"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyStamina"],
+        "formId": "Skyrim.esm|03EB00"
+    },
+    "assign": {
+        "subTypeDisplay": "$StaminaFortify2",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "fortify_stamina_2",
+        "iconColor": "#51db2e"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyStamina"],
+        "formId": "Skyrim.esm|03EAFE"
+    },
+    "assign": {
+        "subTypeDisplay": "$StaminaFortify3",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "fortify_stamina_3",
+        "iconColor": "#51db2e"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyStamina"],
+        "formId": "Skyrim.esm|03EAFF"
+    },
+    "assign": {
+        "subTypeDisplay": "$StaminaFortify4",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "fortify_stamina_4",
+        "iconColor": "#51db2e"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyStamina"],
+        "formId": "Skyrim.esm|0FFA01"
+    },
+    "assign": {
+        "subTypeDisplay": "$StaminaFortify5",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "fortify_stamina_5",
+        "iconColor": "#51db2e"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Dragonborn.esm|018EF3"
+    },
+    "assign": {
+        "subTypeDisplay": "$Blood",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "blood_potion",
+        "iconColor": "#8b0000"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchCureDisease"],
+        "formId": "Skyrim.esm|0AE723"
+    },
+    "assign": {
+        "subTypeDisplay": "$CureDisease",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "cure_disease",
+        "iconColor": "#ffffff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchCurePoison"],
+        "formId": "Skyrim.esm|065A64"
+    },
+    "assign": {
+        "subTypeDisplay": "$CurePoison",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "cure_poison",
+        "iconColor": "#ffffff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicInvisibility"],
+        "formId": "Skyrim.esm|03EB3E"
+    },
+    "assign": {
+        "subTypeDisplay": "$Invisibility1",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "invisibility_1",
+        "iconColor": "#ffffff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicInvisibility"],
+        "formId": "Skyrim.esm|03EB40"
+    },
+    "assign": {
+        "subTypeDisplay": "$Invisibility2",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "invisibility_2",
+        "iconColor": "#ffffff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicInvisibility"],
+        "formId": "Skyrim.esm|03EB3F"
+    },
+    "assign": {
+        "subTypeDisplay": "$Invisibility3",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "invisibility_3",
+        "iconColor": "#ffffff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicInvisibility"],
+        "formId": "Skyrim.esm|03EB41"
+    },
+    "assign": {
+        "subTypeDisplay": "$Invisibility4",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "invisibility_4",
+        "iconColor": "#ffffff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWaterBreathing"],
+        "formId": "Skyrim.esm|03AC2E"
+    },
+    "assign": {
+        "subTypeDisplay": "$Waterbreathing1",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "waterbreathing_1",
+        "iconColor": "#ffffff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWaterBreathing"],
+        "formId": "Skyrim.esm|03AC2F"
+    },
+    "assign": {
+        "subTypeDisplay": "$Waterbreathing2",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "waterbreathing_2",
+        "iconColor": "#ffffff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWaterBreathing"],
+        "formId": "Skyrim.esm|03AC30"
+    },
+    "assign": {
+        "subTypeDisplay": "$Waterbreathing3",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "waterbreathing_3",
+        "iconColor": "#ffffff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWaterBreathing"],
+        "formId": "Skyrim.esm|03AC31"
+    },
+    "assign": {
+        "subTypeDisplay": "$Waterbreathing4",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "waterbreathing_4",
+        "iconColor": "#ffffff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWaterWalking"],
+        "formId": "Dragonborn.esm|0390E0"
+    },
+    "assign": {
+        "subTypeDisplay": "$Waterwalking",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "waterwalking_1",
+        "iconColor": "#ffffff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyAlteration"],
+        "formId": "Skyrim.esm|03EB36"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyAlteration1",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_alteration_1",
+        "iconColor": "#86c542"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyAlteration"],
+        "formId": "Skyrim.esm|03988E"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyAlteration2",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_alteration_2",
+        "iconColor": "#86c542"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyAlteration"],
+        "formId": "Skyrim.esm|039899"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyAlteration3",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_alteration_3",
+        "iconColor": "#86c542"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyAlteration"],
+        "formId": "Skyrim.esm|03989A"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyAlteration4",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_alteration_4",
+        "iconColor": "#86c542"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyConjuration"],
+        "formId": "Skyrim.esm|03EB37"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyConjuration1",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_conjuration_1",
+        "iconColor": "#b361d3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyConjuration"],
+        "formId": "Skyrim.esm|0398AD"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyConjuration2",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_conjuration_2",
+        "iconColor": "#b361d3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyConjuration"],
+        "formId": "Skyrim.esm|0398EC"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyConjuration3",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_conjuration_3",
+        "iconColor": "#b361d3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyConjuration"],
+        "formId": "Skyrim.esm|0398ED"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyConjuration4",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_conjuration_4",
+        "iconColor": "#b361d3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyDestruction"],
+        "formId": "Skyrim.esm|03EB38"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyDestruction1",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_destruction_1",
+        "iconColor": "#e12f2f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyDestruction"],
+        "formId": "Skyrim.esm|0398EE"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyDestruction2",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_destruction_2",
+        "iconColor": "#e12f2f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyDestruction"],
+        "formId": "Skyrim.esm|0398F1"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyDestruction3",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_destruction_3",
+        "iconColor": "#e12f2f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyDestruction"],
+        "formId": "Skyrim.esm|0398F3"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyDestruction4",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_destruction_4",
+        "iconColor": "#e12f2f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyEnchanting"],
+        "formId": "Skyrim.esm|039CFB"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyEnchanting1",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_enchanting_1",
+        "iconColor": "#0b2447"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyEnchanting"],
+        "formId": "Skyrim.esm|039D02"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyEnchanting2",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_enchanting_2",
+        "iconColor": "#0b2447"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyEnchanting"],
+        "formId": "Skyrim.esm|039D0A"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyEnchanting3",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_enchanting_3",
+        "iconColor": "#0b2447"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyEnchanting"],
+        "formId": "Skyrim.esm|039D12"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyEnchanting4",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_enchanting_4",
+        "iconColor": "#0b2447"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyIllusion"],
+        "formId": "Skyrim.esm|03EB39"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyIllusion1",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_illusion_1",
+        "iconColor": "#2b9be3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyIllusion"],
+        "formId": "Skyrim.esm|03994F"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyIllusion2",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_illusion_2",
+        "iconColor": "#2b9be3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyIllusion"],
+        "formId": "Skyrim.esm|039950"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyIllusion3",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_illusion_3",
+        "iconColor": "#2b9be3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyIllusion"],
+        "formId": "Skyrim.esm|039951"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyIllusion4",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_illusion_4",
+        "iconColor": "#2b9be3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyRestoration"],
+        "formId": "Skyrim.esm|03EB3A"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyRestoration1",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_restoration_1",
+        "iconColor": "#f5d730"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyRestoration"],
+        "formId": "Skyrim.esm|03995A"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyRestoration2",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_restoration_2",
+        "iconColor": "#f5d730"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyRestoration"],
+        "formId": "Skyrim.esm|03995B"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyRestoration3",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_restoration_3",
+        "iconColor": "#f5d730"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyRestoration"],
+        "formId": "Skyrim.esm|03995C"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyRestoration4",
+        "iconSource": "Icons/potions/mage.swf",
+        "iconLabel": "fortify_restoration_4",
+        "iconColor": "#f5d730"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyBarter"],
+        "formId": "Skyrim.esm|03EB35"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyBarter1",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "barter_1",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyBarter"],
+        "formId": "Skyrim.esm|039970"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyBarter2",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "barter_2",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyBarter"],
+        "formId": "Skyrim.esm|039971"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyBarter3",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "barter_3",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyBarter"],
+        "formId": "Skyrim.esm|039973"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyBarter4",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "barter_4",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyLockpicking"],
+        "formId": "Skyrim.esm|039930"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyLockpicking1",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "lockpick_1",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyLockpicking"],
+        "formId": "Skyrim.esm|039945"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyLockpicking2",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "lockpick_2",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyLockpicking"],
+        "formId": "Skyrim.esm|039946"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyLockpicking3",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "lockpick_3",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyLockpicking"],
+        "formId": "Skyrim.esm|039948"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyLockpicking4",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "lockpick_4",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyPersuasion"],
+        "formId": "Skyrim.esm|0D6948"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyPersuasion1",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "persuasion_1",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyPersuasion"],
+        "formId": "Skyrim.esm|0D697F"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyPersuasion2",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "persuasion_2",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyPersuasion"],
+        "formId": "Skyrim.esm|0D6949"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyPersuasion3",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "persuasion_3",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyPersuasion"],
+        "formId": "Skyrim.esm|0D6980"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyPersuasion4",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "persuasion_4",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyPickPocket"],
+        "formId": "Skyrim.esm|03EB31"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyPickpocket1",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "pickpocket_1",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyPickPocket"],
+        "formId": "Skyrim.esm|039957"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyPickpocket2",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "pickpocket_2",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyPickPocket"],
+        "formId": "Skyrim.esm|039959"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyPickpocket3",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "pickpocket_3",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyPickPocket"],
+        "formId": "Skyrim.esm|039958"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyPickpocket4",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "pickpocket_4",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifySneak"],
+        "formId": "Skyrim.esm|03EB33"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifySneak1",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "sneak_1",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifySneak"],
+        "formId": "Skyrim.esm|039968"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifySneak2",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "sneak_2",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifySneak"],
+        "formId": "Skyrim.esm|039969"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifySneak3",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "sneak_3",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifySneak"],
+        "formId": "Skyrim.esm|03996F"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifySneak4",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "sneak_4",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyOneHanded"],
+        "formId": "Skyrim.esm|03EB2A"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyOneHanded1",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "one_handed_1",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyOneHanded"],
+        "formId": "Skyrim.esm|039954"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyOneHanded2",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "one_handed_2",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyOneHanded"],
+        "formId": "Skyrim.esm|039955"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyOneHanded3",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "one_handed_3",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyOneHanded"],
+        "formId": "Skyrim.esm|039956"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyOneHanded4",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "one_handed_4",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyTwoHanded"],
+        "formId": "Skyrim.esm|03EB2B"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyTwoHanded1",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "two_handed_1",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyTwoHanded"],
+        "formId": "Skyrim.esm|039974"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyTwoHanded2",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "two_handed_2",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyTwoHanded"],
+        "formId": "Skyrim.esm|039980"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyTwoHanded3",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "two_handed_3",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyTwoHanded"],
+        "formId": "Skyrim.esm|039AA6"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyTwoHanded4",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "two_handed_4",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyBlock"],
+        "formId": "Skyrim.esm|03EB32"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyBlocking1",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "block_1",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyBlock"],
+        "formId": "Skyrim.esm|03989B"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyBlocking2",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "block_2",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyBlock"],
+        "formId": "Skyrim.esm|0398AB"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyBlocking3",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "block_3",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyBlock"],
+        "formId": "Skyrim.esm|0398AC"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyBlocking4",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "block_4",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyCarryWeight"],
+        "formId": "Skyrim.esm|03EB02"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyCarryWeight1",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "carry_weight_1",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyCarryWeight"],
+        "formId": "Skyrim.esm|03EB05"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyCarryWeight2",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "carry_weight_2",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyCarryWeight"],
+        "formId": "Skyrim.esm|03EB03"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyCarryWeight3",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "carry_weight_3",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyCarryWeight"],
+        "formId": "Skyrim.esm|03EB04"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyCarryWeight4",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "carry_weight_4",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyCarryWeight"],
+        "formId": "Skyrim.esm|0FF9FE"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyCarryWeight5",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "carry_weight_5",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyHeavyArmor"],
+        "formId": "Skyrim.esm|03EB2F"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyHeavyArmor1",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "heavy_armor_1",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyHeavyArmor"],
+        "formId": "Skyrim.esm|0398F4"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyHeavyArmor2",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "heavy_armor_2",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyHeavyArmor"],
+        "formId": "Skyrim.esm|0398F5"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyHeavyArmor3",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "heavy_armor_3",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyHeavyArmor"],
+        "formId": "Skyrim.esm|0398F6"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyHeavyArmor4",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "heavy_armor_4",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyLightArmor"],
+        "formId": "Skyrim.esm|03EB30"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyLightArmor1",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "light_armor_1",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyLightArmor"],
+        "formId": "Skyrim.esm|0398FD"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyLightArmor2",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "light_armor_2",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyLightArmor"],
+        "formId": "Skyrim.esm|039903"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyLightArmor3",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "light_armor_3",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyLightArmor"],
+        "formId": "Skyrim.esm|039904"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyLightArmor4",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "light_armor_4",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyMarksman"],
+        "formId": "Skyrim.esm|03EB2C"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyMarksman1",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "marksman_1",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyMarksman"],
+        "formId": "Skyrim.esm|039949"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyMarksman2",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "marksman_2",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyMarksman"],
+        "formId": "Skyrim.esm|03994B"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyMarksman3",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "marksman_3",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifyMarksman"],
+        "formId": "Skyrim.esm|03994E"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifyMarksman4",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "marksman_4",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifySmithing"],
+        "formId": "Skyrim.esm|03EB2E"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifySmithing1",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "smithing_1",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifySmithing"],
+        "formId": "Skyrim.esm|03995D"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifySmithing2",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "smithing_2",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifySmithing"],
+        "formId": "Skyrim.esm|039962"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifySmithing3",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "smithing_3",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchFortifySmithing"],
+        "formId": "Skyrim.esm|039967"
+    },
+    "assign": {
+        "subTypeDisplay": "$FortifySmithing4",
+        "iconSource": "Icons/potions/warrior.swf",
+        "iconLabel": "smithing_4",
+        "iconColor": "#4fbf5f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84B5"
+    },
+    "assign": {
+        "subTypeDisplay": "$Conflict1",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "conflict_1",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84B6"
+    },
+    "assign": {
+        "subTypeDisplay": "$Conflict2",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "conflict_2",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84B7"
+    },
+    "assign": {
+        "subTypeDisplay": "$Conflict3",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "conflict_3",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84B8"
+    },
+    "assign": {
+        "subTypeDisplay": "$Conflict4",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "conflict_4",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84B9"
+    },
+    "assign": {
+        "subTypeDisplay": "$Conflict5",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "conflict_5",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84BA"
+    },
+    "assign": {
+        "subTypeDisplay": "$Conflict6",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "conflict_6",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84AE"
+    },
+    "assign": {
+        "subTypeDisplay": "$Escape1",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "escape_1",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84AF"
+    },
+    "assign": {
+        "subTypeDisplay": "$Escape2",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "escape_2",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84B0"
+    },
+    "assign": {
+        "subTypeDisplay": "$Escape3",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "escape_3",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84B1"
+    },
+    "assign": {
+        "subTypeDisplay": "$Escape4",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "escape_4",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84B2"
+    },
+    "assign": {
+        "subTypeDisplay": "$Escape5",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "escape_5",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84B3"
+    },
+    "assign": {
+        "subTypeDisplay": "$Escape6",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "escape_6",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84BB"
+    },
+    "assign": {
+        "subTypeDisplay": "$Keenshot1",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "keenshot_1",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84BC"
+    },
+    "assign": {
+        "subTypeDisplay": "$Keenshot2",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "keenshot_2",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84BD"
+    },
+    "assign": {
+        "subTypeDisplay": "$Keenshot3",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "keenshot_3",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84BE"
+    },
+    "assign": {
+        "subTypeDisplay": "$Keenshot4",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "keenshot_4",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84BF"
+    },
+    "assign": {
+        "subTypeDisplay": "$Keenshot5",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "keenshot_5",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84C0"
+    },
+    "assign": {
+        "subTypeDisplay": "$Keenshot6",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "keenshot_6",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84A7"
+    },
+    "assign": {
+        "subTypeDisplay": "$Larceny1",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "larceny_1",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84A8"
+    },
+    "assign": {
+        "subTypeDisplay": "$Larceny2",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "larceny_2",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84A9"
+    },
+    "assign": {
+        "subTypeDisplay": "$Larceny3",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "larceny_3",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84AA"
+    },
+    "assign": {
+        "subTypeDisplay": "$Larceny4",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "larceny_4",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84AB"
+    },
+    "assign": {
+        "subTypeDisplay": "$Larceny5",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "larceny_5",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84AC"
+    },
+    "assign": {
+        "subTypeDisplay": "$Larceny6",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "larceny_6",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84C1"
+    },
+    "assign": {
+        "subTypeDisplay": "$Plunder1",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "plunder_1",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84C2"
+    },
+    "assign": {
+        "subTypeDisplay": "$Plunder2",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "plunder_2",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84C3"
+    },
+    "assign": {
+        "subTypeDisplay": "$Plunder3",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "plunder_3",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84C4"
+    },
+    "assign": {
+        "subTypeDisplay": "$Plunder4",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "plunder_4",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84C5"
+    },
+    "assign": {
+        "subTypeDisplay": "$Plunder5",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "plunder_5",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0F84C6"
+    },
+    "assign": {
+        "subTypeDisplay": "$Plunder6",
+        "iconSource": "Icons/potions/thief.swf",
+        "iconLabel": "plunder_6",
+        "iconColor": "#ffd23f"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchDamageHealth"],
+        "formId": "Skyrim.esm|03A5A4"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageHealth1",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_health_1",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchDamageHealth"],
+        "formId": "Skyrim.esm|073F31"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageHealth2",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_health_2",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchDamageHealth"],
+        "formId": "Skyrim.esm|073F32"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageHealth3",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_health_3",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchDamageHealth"],
+        "formId": "Skyrim.esm|073F33"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageHealth4",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_health_4",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchDamageHealth"],
+        "formId": "Skyrim.esm|073F34"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageHealth5",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_health_5",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageHealthDuration"],
+        "formId": "Skyrim.esm|065A6F"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageHealthLingering1",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "lingering_damage_health_1",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageHealthDuration"],
+        "formId": "Skyrim.esm|073F35"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageHealthLingering2",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "lingering_damage_health_2",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageHealthDuration"],
+        "formId": "Skyrim.esm|073F36"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageHealthLingering3",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "lingering_damage_health_3",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageHealthDuration"],
+        "formId": "Skyrim.esm|073F37"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageHealthLingering4",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "lingering_damage_health_4",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageHealthDuration"],
+        "formId": "Skyrim.esm|073F38"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageHealthLingering5",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "lingering_damage_health_5",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchDamageMagicka"],
+        "formId": "Skyrim.esm|065A65"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageMagicka1",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_magicka_1",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchDamageMagicka"],
+        "formId": "Skyrim.esm|073F39"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageMagicka2",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_magicka_2",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchDamageMagicka"],
+        "formId": "Skyrim.esm|073F3A"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageMagicka3",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_magicka_3",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchDamageMagicka"],
+        "formId": "Skyrim.esm|073F3B"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageMagicka4",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_magicka_4",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchDamageMagicka"],
+        "formId": "Skyrim.esm|073F3C"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageMagicka5",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_magicka_5",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageMagickaDuration"],
+        "formId": "Skyrim.esm|065A70"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageMagickaLingering1",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "lingering_damage_magicka_1",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageMagickaDuration"],
+        "formId": "Skyrim.esm|073F3D"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageMagickaLingering2",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "lingering_damage_magicka_2",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageMagickaDuration"],
+        "formId": "Skyrim.esm|073F3E"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageMagickaLingering3",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "lingering_damage_magicka_3",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageMagickaDuration"],
+        "formId": "Skyrim.esm|073F3F"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageMagickaLingering4",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "lingering_damage_magicka_4",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageMagickaDuration"],
+        "formId": "Skyrim.esm|073F40"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageMagickaLingering5",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "lingering_damage_magicka_5",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageMagickaRate"],
+        "formId": "Skyrim.esm|073F90"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageMagickaRegen1",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_magicka_regen_1",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageMagickaRate"],
+        "formId": "Skyrim.esm|073F91"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageMagickaRegen2",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_magicka_regen_2",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageMagickaRate"],
+        "formId": "Skyrim.esm|073F92"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageMagickaRegen3",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_magicka_regen_3",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageMagickaRate"],
+        "formId": "Skyrim.esm|073F93"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageMagickaRegen4",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_magicka_regen_4",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageMagickaRate"],
+        "formId": "Skyrim.esm|073F94"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageMagickaRegen5",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_magicka_regen_5",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchDamageStamina"],
+        "formId": "Skyrim.esm|065A66"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageStamina1",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_stamina_1",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchDamageStamina"],
+        "formId": "Skyrim.esm|073F41"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageStamina2",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_stamina_2",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchDamageStamina"],
+        "formId": "Skyrim.esm|073F42"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageStamina3",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_stamina_3",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchDamageStamina"],
+        "formId": "Skyrim.esm|073F43"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageStamina4",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_stamina_4",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchDamageStamina"],
+        "formId": "Skyrim.esm|073F44"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageStamina5",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_stamina_5",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageStaminaDuration"],
+        "formId": "Skyrim.esm|065A71"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageStaminaLingering1",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "lingering_damage_stamina_1",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageStaminaDuration"],
+        "formId": "Skyrim.esm|073F45"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageStaminaLingering2",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "lingering_damage_stamina_2",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageStaminaDuration"],
+        "formId": "Skyrim.esm|073F46"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageStaminaLingering3",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "lingering_damage_stamina_3",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageStaminaDuration"],
+        "formId": "Skyrim.esm|073F47"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageStaminaLingering4",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "lingering_damage_stamina_4",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageStaminaDuration"],
+        "formId": "Skyrim.esm|073F48"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageStaminaLingering5",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "lingering_damage_stamina_5",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageStaminaRate"],
+        "formId": "Skyrim.esm|073F8B"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageStaminaRegen1",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_stamina_regen_1",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageStaminaRate"],
+        "formId": "Skyrim.esm|073F8C"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageStaminaRegen2",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_stamina_regen_2",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageStaminaRate"],
+        "formId": "Skyrim.esm|073F8D"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageStaminaRegen3",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_stamina_regen_3",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["AlchDamageStaminaRate"],
+        "formId": "Skyrim.esm|073F8E"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonDamageStaminaRegen4",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "damage_stamina_regen_4",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicInfluenceFear"],
+        "formId": "Skyrim.esm|065A68"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonFear1",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "fear_1",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicInfluenceFear"],
+        "formId": "Skyrim.esm|073F5E"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonFear2",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "fear_2",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicInfluenceFear"],
+        "formId": "Skyrim.esm|073F5F"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonFear3",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "fear_3",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicInfluenceFear"],
+        "formId": "Skyrim.esm|073F60"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonFear4",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "fear_4",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicInfluenceFear"],
+        "formId": "Skyrim.esm|073F61"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonFear5",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "fear_5",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicInfluenceFrenzy"],
+        "formId": "Skyrim.esm|065A69"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonFrenzy1",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "frenzy_1",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicInfluenceFrenzy"],
+        "formId": "Skyrim.esm|073F5A"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonFrenzy2",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "frenzy_2",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicInfluenceFrenzy"],
+        "formId": "Skyrim.esm|073F5B"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonFrenzy3",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "frenzy_3",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicInfluenceFrenzy"],
+        "formId": "Skyrim.esm|073F5C"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonFrenzy4",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "frenzy_4",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicInfluenceFrenzy"],
+        "formId": "Skyrim.esm|073F5D"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonFrenzy5",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "frenzy_5",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicParalysis"],
+        "formId": "Skyrim.esm|065A6A"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonParalysis1",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "paralysis_1",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicParalysis"],
+        "formId": "Skyrim.esm|074A38"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonParalysis2",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "paralysis_2",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicParalysis"],
+        "formId": "Skyrim.esm|074A39"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonParalysis3",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "paralysis_3",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicParalysis"],
+        "formId": "Skyrim.esm|074A3A"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonParalysis4",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "paralysis_4",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicParalysis"],
+        "formId": "Skyrim.esm|074A3B"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonParalysis5",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "paralysis_5",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0E41B8"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonFrostbiteVenom",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "frostbite_venom",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0E2D3D"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonIceWraithBane",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "ice_wraith_bane",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|058CFB"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonLotusExtract",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "lotus_extract",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0CD883"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonNightshadeExtract",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "nightshade_extract",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessFire"],
+        "formId": "Skyrim.esm|065A6B"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessFire1",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_fire_1",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessFire"],
+        "formId": "Skyrim.esm|073F49"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessFire2",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_fire_2",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessFire"],
+        "formId": "Skyrim.esm|073F4A"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessFire3",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_fire_3",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessFire"],
+        "formId": "Skyrim.esm|073F4B"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessFire4",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_fire_4",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessFire"],
+        "formId": "Skyrim.esm|073F4C"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessFire5",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_fire_5",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessFrost"],
+        "formId": "Skyrim.esm|065A6C"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessFrost1",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_frost_1",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessFrost"],
+        "formId": "Skyrim.esm|073F4D"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessFrost2",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_frost_2",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessFrost"],
+        "formId": "Skyrim.esm|073F4E"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessFrost3",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_frost_3",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessFrost"],
+        "formId": "Skyrim.esm|073F4F"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessFrost4",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_frost_4",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessFrost"],
+        "formId": "Skyrim.esm|073F50"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessFrost5",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_frost_5",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessShock"],
+        "formId": "Skyrim.esm|073F52"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessShock1",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_shock_1",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessShock"],
+        "formId": "Skyrim.esm|065A6D"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessShock2",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_shock_2",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessShock"],
+        "formId": "Skyrim.esm|073F53"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessShock3",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_shock_3",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessShock"],
+        "formId": "Skyrim.esm|073F54"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessShock4",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_shock_4",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessShock"],
+        "formId": "Skyrim.esm|073F55"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessShock5",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_shock_5",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessMagic"],
+        "formId": "Skyrim.esm|065A6E"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessMagic1",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_magic_1",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessMagic"],
+        "formId": "Skyrim.esm|073F56"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessMagic2",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_magic_2",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessMagic"],
+        "formId": "Skyrim.esm|073F57"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessMagic3",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_magic_3",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessMagic"],
+        "formId": "Skyrim.esm|073F58"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessMagic4",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_magic_4",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchWeaknessMagic"],
+        "formId": "Skyrim.esm|073F59"
+    },
+    "assign": {
+        "subTypeDisplay": "$PoisonWeaknessMagic5",
+        "iconSource": "Icons/potions/poisons.swf",
+        "iconLabel": "weakness_magic_5",
+        "iconColor": "#ad00b3"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchResistFire"],
+        "formId": "Skyrim.esm|039B4A"
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistFire1",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "resist_fire_1",
+        "iconColor": "#c73636"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchResistFire"],
+        "formId": "Skyrim.esm|03EAE9"
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistFire2",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "resist_fire_2",
+        "iconColor": "#c73636"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchResistFire"],
+        "formId": "Skyrim.esm|039B4B"
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistFire3",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "resist_fire_3",
+        "iconColor": "#c73636"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchResistFire"],
+        "formId": "Skyrim.esm|03EAEF"
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistFire4",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "resist_fire_4",
+        "iconColor": "#c73636"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchResistFrost"],
+        "formId": "Skyrim.esm|0F9642"
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistFrost1",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "resist_frost_1",
+        "iconColor": "#1ffbff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchResistFrost"],
+        "formId": "Skyrim.esm|039B8A"
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistFrost1",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "resist_frost_1",
+        "iconColor": "#1ffbff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchResistFrost"],
+        "formId": "Skyrim.esm|03EAED"
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistFrost2",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "resist_frost_2",
+        "iconColor": "#1ffbff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchResistFrost"],
+        "formId": "Skyrim.esm|039BDF"
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistFrost3",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "resist_frost_3",
+        "iconColor": "#1ffbff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchResistFrost"],
+        "formId": "Skyrim.esm|03EAF0"
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistFrost4",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "resist_frost_4",
+        "iconColor": "#1ffbff"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchResistShock"],
+        "formId": "Skyrim.esm|039BE1"
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistShock1",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "resist_shock_1",
+        "iconColor": "#eaab00"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchResistShock"],
+        "formId": "Skyrim.esm|03EAEE"
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistShock2",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "resist_shock_2",
+        "iconColor": "#eaab00"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchResistShock"],
+        "formId": "Skyrim.esm|039BE3"
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistShock3",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "resist_shock_3",
+        "iconColor": "#eaab00"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchResistShock"],
+        "formId": "Skyrim.esm|03EAF1"
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistShock4",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "resist_shock_4",
+        "iconColor": "#eaab00"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchResistMagic"],
+        "formId": "Skyrim.esm|039E52"
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistMagic1",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "resist_magic_1",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchResistMagic"],
+        "formId": "Skyrim.esm|039E53"
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistMagic2",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "resist_magic_2",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchResistMagic"],
+        "formId": "Skyrim.esm|039E54"
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistMagic3",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "resist_magic_3",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "effectKeywords": ["MagicAlchResistMagic"],
+        "formId": "Skyrim.esm|039E55"
+    },
+    "assign": {
+        "subTypeDisplay": "$ResistMagic4",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "resist_magic_4",
+        "iconColor": "#2e9edb"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|076F17"
+    },
+    "assign": {
+        "subTypeDisplay": "$FalmerBloodElixir",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "falmer_blood_elixir",
+        "iconColor": "#8b0000"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|05566A"
+    },
+    "assign": {
+        "subTypeDisplay": "$Stallion",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "stallion",
+        "iconColor": "#ff5599"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0AED90"
+    },
+    "assign": {
+        "subTypeDisplay": "$SleepingTreeSap",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "sleeping_tree_sap",
+        "iconColor": "#b894c8"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|0663E1"
+    },
+    "assign": {
+        "subTypeDisplay": "$Spectral",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "philter_of_the_phantom",
+        "iconColor": "#6b93aa"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|05F6DF"
+    },
+    "assign": {
+        "subTypeDisplay": "$VaerminaTorpor",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "vaermina_torpor",
+        "iconColor": "#a14040"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|102019"
+    },
+    "assign": {
+        "subTypeDisplay": "$WhitePhial",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "white_phial_resist_magic",
+        "iconColor": "#c1884d"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|10201A"
+    },
+    "assign": {
+        "subTypeDisplay": "$WhitePhial",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "white_phial_fortify_stamina",
+        "iconColor": "#c1884d"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|10201B"
+    },
+    "assign": {
+        "subTypeDisplay": "$WhitePhial",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "white_phial_fortify_sneak",
+        "iconColor": "#c1884d"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|10201C"
+    },
+    "assign": {
+        "subTypeDisplay": "$WhitePhial",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "white_phial_fortify_magicka",
+        "iconColor": "#c1884d"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|10201D"
+    },
+    "assign": {
+        "subTypeDisplay": "$WhitePhial",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "white_phial_fortify_one_handed",
+        "iconColor": "#c1884d"
+    }
+},
+{
+    "match": {
+        "formType": "Potion",
+        "formId": "Skyrim.esm|10201E"
+    },
+    "assign": {
+        "subTypeDisplay": "$WhitePhial",
+        "iconSource": "Icons/potions/potions.swf",
+        "iconLabel": "white_phial_restore_health",
+        "iconColor": "#c1884d"
+    }
+}
+]
+}

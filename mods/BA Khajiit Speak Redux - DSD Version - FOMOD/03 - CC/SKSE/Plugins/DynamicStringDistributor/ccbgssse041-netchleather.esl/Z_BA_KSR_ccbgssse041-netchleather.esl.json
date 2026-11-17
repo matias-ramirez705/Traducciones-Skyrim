@@ -1,0 +1,119 @@
+[
+  {
+    "editor_id": "null",
+    "form_id": "05000837|ccbgssse041-netchleather.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Buaa!",
+    "string": "¡Aaaah!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000838|ccbgssse041-netchleather.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Buaa!",
+    "string": "¡Aaaah!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083D|ccbgssse041-netchleather.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "¡Buaa!",
+    "string": "¡Aaaah!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE041_DialogueQuestBranch01Topic",
+    "form_id": "0500083F|ccbgssse041-netchleather.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He oído que necesitáis cuero.",
+    "string": "Los oídos de Khajiit escucharon que necesitas cuero, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE041_DialogueQuestTopicA",
+    "form_id": "05000841|ccbgssse041-netchleather.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Quizá os lo pueda conseguir.",
+    "string": "Quizás este pueda ayudarte a encontrar algo, sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE041_DialogueQuestTopicB",
+    "form_id": "05000843|ccbgssse041-netchleather.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Cuero. ¿Lo quieres?",
+    "string": "Cuero. Te gustaría tenerlo, quizás?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE041_DialogueQuestTopicC",
+    "form_id": "05000845|ccbgssse041-netchleather.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Lo siento. No te he entendido. ¿Puedes repetírmelo?",
+    "string": "Disculpas, podrías repetir eso de nuevo, quizás?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE041_DialogueQuestTopicD",
+    "form_id": "05000846|ccbgssse041-netchleather.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Podemos comunicarnos de alguna otra forma?",
+    "string": "Hay otra manera de comunicarse, quizás?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE041_DialogueQuestTopicE",
+    "form_id": "05000884|ccbgssse041-netchleather.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¡Buaa!",
+    "string": "¡Aaaah!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE041_DialogueQuestBranch2Topic",
+    "form_id": "05000896|ccbgssse041-netchleather.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Te traigo el cuero de netch.",
+    "string": "Este ha traído de vuelta tu Cuero de netch.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE041_DialogueQuestBranch3Topic",
+    "form_id": "05000898|ccbgssse041-netchleather.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Si coméis cuero de netch, os vais a envenenar. Deberías darme el libro de cocina. (Persuadir)",
+    "string": "Comer cuero de netch te matará, en verdad. Deberías dar tu libro de cocina a <Alias=Player>, hmm? (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE041_DialogueQuestBranch04Topic",
+    "form_id": "0500089B|ccbgssse041-netchleather.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No tengo el cuero de netch. ¿Os bastaría con cinco pedazos de cuero?",
+    "string": "Khajiit no tiene el cuero de netch, no. Serían suficientes cinco piezas de cuero, quizás?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE041_DialogueQuestBranch5Topic",
+    "form_id": "050008A1|ccbgssse041-netchleather.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "El cuero morado es de un netch gigante. Te lo cambio por el libro de cocina. (Mentir)",
+    "string": "Este cuero púrpura es de un netch gigante. Khajiit está dispuesto a cambiarlo por el libro de cocina. (Mentir)",
+    "status": "TranslationComplete"
+  }
+]

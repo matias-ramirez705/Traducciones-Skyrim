@@ -1,0 +1,1379 @@
+[
+  {
+    "editor_id": "WW42HugFollowerBranchTopic",
+    "form_id": "05000D64|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm glad you're here.",
+    "string": "<Alias=Player> está feliz de que estés aquí, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052F4AED|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here... hugs?",
+    "string": "Este Khajiit está feliz de que estés aquí, amigo. El pelaje de <Alias.PronounRef=Player> desea ser abrazado, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05085DC2|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Aren't you cold, Serana? Come here?",
+    "string": "¿Tienes frío, Serana? Esto te mantendrá caliente, sí. Ven.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05308F12|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here, Serana.",
+    "string": "Khajiit se alegra de que estés aquí, Serana.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052F4AF0|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here with me.",
+    "string": "<Alias=Player> está feliz de que estés con <Alias.PronounObj=Player>, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052F4AF1|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad to be here with you.",
+    "string": "<Alias=Player> está feliz de estar aquí contigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052F4AF2|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad we're here together.",
+    "string": "Khajiit se alegra de que estés aquí con <Alias.PronounObj=Player>, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052F4AF5|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here with me.",
+    "string": "<Alias=Player> está feliz de que estés con <Alias.PronounObj=Player>, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052F4AF6|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here with me.",
+    "string": "<Alias=Player> está feliz de que estés con <Alias.PronounObj=Player>, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052F9BFA|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad we're here together.",
+    "string": "Khajiit se alegra de que estés aquí con <Alias.PronounObj=Player>, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052F4AEE|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Make yourself at home, Serana. I'm glad to have you here.",
+    "string": "Siéntete como en casa, Serana. Khajiit se alegra de tenerte aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052F4AEF|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Laugh) I was hoping I'm a special guest here.",
+    "string": "(ríe) Este esperaba ser un invitado especial aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052F4AEF|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Make yourself at home, Serana. I'm glad to have you here.",
+    "string": "Siéntete como en casa, Serana. Khajiit se alegra de tenerte aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05085DBC|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm so glad you're here with me.",
+    "string": "<Alias=Player> se alegra de que estés aquí con <Alias.PronounObj=Player>, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05085DBE|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You're the best companion I could possibly wish for.",
+    "string": "Eres verdaderamente el mejor compañero que este podría desear, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05308F10|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here. Come here for a hug?",
+    "string": "Este Khajiit está feliz de que estés aquí, en verdad. ¿Abrazo y salto?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05085DC3|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here. You're the best.",
+    "string": "Este Khajiit está feliz de que estés aquí, amigo. Eres el mejor, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05085DC0|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmmm... kind of soothing actually.",
+    "string": "Hmm... en realidad es algo tranquilizador.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05085DC0|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm always here for you.",
+    "string": "Khajiit siempre está aquí para ti, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05085DBF|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I've grown to like you... I hope my messed up personality won't scare you away.",
+    "string": "<Alias=Player> ha llegado a apreciarte, en verdad. Ojalá esta extraña personalidad no te aleje...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500D8D1|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Cicero, I'm so glad you're here, old friend.",
+    "string": "Khajiit se alegra de que Cicero esté aquí, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500D8D8|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well,... if you say so.",
+    "string": "Bueno... si tú lo dices.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05085DB3|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Such kindness! ... for me?",
+    "string": "¡Qué amabilidad...! ¿Para este?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05210D69|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(pleased laugh)",
+    "string": "(riendo con agrado)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05210D6D|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mhm...",
+    "string": "Mm-hmm...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0508FFD2|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aww, that's so sweet of you. Thanks!",
+    "string": "Aw, qué dulce de tu parte. ¡Gracias!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0501008A|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Can we both be chiefs? ... and Malacath would be pleased with me.",
+    "string": "¿Podemos ser ambos jefes...? Malacath estaría complacido conmigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0501008E|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm glad you're here.",
+    "string": "<Alias=Player> está feliz de que estés aquí, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0501008E|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's good to be with you again.",
+    "string": "Es bueno estar contigo de nuevo, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0504406F|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "There's no Dawnguard without you, Isran. I'm glad you're here, chief.",
+    "string": "No hay Guardia del Alba sin ti, Isran. Khajiit está orgulloso de tenerte aquí, jefe.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0504917A|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad we're finally on the same side.",
+    "string": "Khajiit se alegra de que estén en el mismo lado, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050BD8ED|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here, Inigo.",
+    "string": "Khajiit se alegra de que estés aquí, Inigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050CCBF3|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here, Inigo.",
+    "string": "Khajiit se alegra de que estés aquí, Inigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050CCBF4|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here, Inigo.",
+    "string": "Khajiit se alegra de que estés aquí, Inigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050CCBF5|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here, Inigo.",
+    "string": "Khajiit se alegra de que estés aquí, Inigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050CCBF6|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here, Inigo.",
+    "string": "Khajiit se alegra de que estés aquí, Inigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050CCBF7|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here, Inigo.",
+    "string": "Khajiit se alegra de que estés aquí, Inigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050CCBF8|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here, Inigo.",
+    "string": "Khajiit se alegra de que estés aquí, Inigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050CCBF9|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here, Inigo.",
+    "string": "Khajiit se alegra de que estés aquí, Inigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050CCBFA|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here, Inigo.",
+    "string": "Khajiit se alegra de que estés aquí, Inigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050CCBFB|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here, Inigo.",
+    "string": "Khajiit se alegra de que estés aquí, Inigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050EB229|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I don't care what people say - you're great, and I'm glad you're here with me.",
+    "string": "<Alias=Player> no se preocupa por lo que otros dicen - eres genial, y este se alegra de que estés aquí con <Alias.PronounObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0510472F|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmmm? (giggles) Oh... is there something hard in your pocket? I felt it when you brushed against me!",
+    "string": "Hmm? (risitas) Oh... ¿hay algo duro en tu bolsillo? ¡Lo sentí cuando me rozaste!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0510472F|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I don't care what people say - you're great, and I'm glad you're here with me.",
+    "string": "<Alias=Player> no se preocupa por lo que otros dicen - eres genial, y este se alegra de que estés aquí con <Alias.PronounObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05104730|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I don't care what people say - you're great, and I'm glad you're here with me.",
+    "string": "<Alias=Player> no se preocupa por lo que otros dicen - eres genial, y este se alegra de que estés aquí con <Alias.PronounObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05104731|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I don't care what people say - you're great, and I'm glad you're here with me.",
+    "string": "<Alias=Player> no se preocupa por lo que otros dicen - eres genial, y este se alegra de que estés aquí con <Alias.PronounObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2AF|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Please not too tight, I'm really very hurty...",
+    "string": "Por favor no aprietes demasiado, este está realmente herido...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2AD|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm glad you're here too, now please don't pass out on me...",
+    "string": "Me alegra que estés aquí también, ahora por favor no te desmayes sobre mí...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2AC|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ahh, I'm glad you're here too. In a strictly friend-y way, you understand. I know you're wearing that amulet and everything and I just wanted to...",
+    "string": "Ah, me alegra que estés aquí también. En un sentido estrictamente amistoso, entiendes. Sé que llevas ese amuleto y todo y solo quería...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2AC|ImGladYoureHere.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "you know... oh, just hug me!",
+    "string": "...ya sabes... ¡oh, solo abrázame!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2B4|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Trade offer: one hug, in exchange for one sweet roll. Deal?",
+    "string": "Oferta de intercambio: un abrazo, a cambio de un Bollo de canela. ¿Trato?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2B0|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": " You're not contagious, are you? If you're sure...",
+    "string": "No eres contagioso, ¿verdad? Si estás seguro...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2B6|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If this is an attempt to steal my sweet rolls, I shan't fall for it. I'm watching you.",
+    "string": "Si esto es un intento de robar mis Bollos de canela, no caeré en ello. Te estoy vigilando.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2BA|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ahh, bring it in.",
+    "string": "Ah, ven aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05173D7C|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Uhh... thanks.",
+    "string": "Uh... gracias.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2BD|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I've always liked adventuring with you.",
+    "string": "Khajiit siempre ha disfrutado aventurarse contigo, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2BE|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You know, you're one of my closest friends.",
+    "string": "Eres uno de los amigos más cercanos de <Alias=Player>. Esto es sabido, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2C0|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yeah, it's... you know, I mean..  yeah.",
+    "string": "Sí, es... ya sabes, o sea... sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2C0|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hey. I think you're a fine bladebinder and an even finer friend.",
+    "string": "Eres en verdad un excelente portador de espadas - y un aún mejor amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2C1|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hey, thanks for being here with me. ",
+    "string": "Este te agradece por estar aquí, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05173D7D|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here with me.",
+    "string": "<Alias=Player> está feliz de que estés con <Alias.PronounObj=Player>, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05173D7E|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad we share our adventures.",
+    "string": "Khajiit se alegra de compartir aventuras contigo, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05173D7F|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You know, I never thought you'd infiltrate my 'best companion' slot so much.",
+    "string": "Khajiit nunca sospechó que te infiltrarías tanto en la ranura de 'mejor compañero' de <Alias.PronounPosObj=Player>. (guiño)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05173D80|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here, Mirai.",
+    "string": "Khajiit se alegra de que estés aquí, Mirai.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05173D82|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad we share our adventures.",
+    "string": "Khajiit se alegra de compartir aventuras contigo, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053B00D6|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ha ha, careful, that sounded like a compliment!",
+    "string": "Ja-ja, cuidado, eso sonó como un cumplido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WW42HugSpouseBranchTopic",
+    "form_id": "0500899A|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I love you, you know.",
+    "string": "Este te ama, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052FED00|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'll always love you, Serana. No matter what happens to me.",
+    "string": "Khajiit siempre te amará, Serana. Pase lo que pase... incluso si aparecen cangrejos de barro voladores, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05308F14|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I love you, Serana. I am yours forever.",
+    "string": "Khajiit te ama, Serana. <Alias.PronounCap=Player> es tuyo para siempre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052FED03|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You, me, and this place... it doesn't get any better than this, my love.",
+    "string": "Ah... tú, Khajiit y este lugar... realmente no hay nada mejor que esto, querido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052FED0A|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here with me, love.",
+    "string": "<Alias=Player> está feliz de que estés con <Alias.PronounObj=Player>, querido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05085DCB|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's so good to live together with you, Serana.",
+    "string": "Es bueno vivir contigo, Serana.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05085DC5|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I love you, Serana. Together, at last!",
+    "string": "¡Este te ama, Serana! ¡Por fin, Khajiit está contigo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05085DC6|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I love you. It's so good to be with you.",
+    "string": "<Alias=Player> te ama, sí. ¡Es maravilloso estar contigo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05085DC7|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Come here for a bit, my love?",
+    "string": "Ven a este, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05085DC8|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm glad you're here with me.",
+    "string": "<Alias=Player> está feliz de que estés con <Alias.PronounObj=Player>, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05085DCA|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Every moment we spend together, is a piece of my favorite memory, my love.",
+    "string": "El amor se define por momentos como este, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05010091|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I never thought I'd have a deadly assassin as my wife. But I'm glad we happened.",
+    "string": "Este nunca imaginó que <Alias.Pronoun=Player> tendría una asesina letal como <Alias.PronounPosObj=Player> pareja. Pero es una coincidencia feliz, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05085DAF|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Every moment we spend together, is a piece of my favorite memory, my love.",
+    "string": "El amor se define por momentos como este, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05010097|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I love you, you know. Come here for a bit?",
+    "string": "Khajiit te ama, en verdad. Esto es sabido. Ven aquí un momento, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05010099|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(sigh) I know. Ready for more?",
+    "string": "(suspira) Lo sé. ¿Listo para más?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05085DB6|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Every moment we spend together, is a piece of my favorite memory, my love.",
+    "string": "El amor se define por momentos como este, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05085DB7|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes yes yes, oh yes my love!",
+    "string": "¡Sí, sí, sí...! ¡Oh sí, mi amor!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05085DBA|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Come, my dear. I'm sworn to carry your burdens, love, I'm here for you.",
+    "string": "Ven aquí, querido. <Alias=Player> ha jurado cuidar de ti y de tus cargas - incluso las pesadas, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05210D72|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Come here, my dear?",
+    "string": "Ven aquí, querido, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05210D74|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That gave me the shivers! Ha ha!",
+    "string": "¡Eso me dio escalofríos! Ja-ja.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050950D5|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My gallant hero... (giggles), have you come to whisk me away to a life of adventure and romance?",
+    "string": "Mi heroico campeón... (risitas) ¿Has venido a llevarme a una vida de aventura y romance?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050950D7|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I hope you're happy with our marriage, my love.",
+    "string": "¿Estás feliz con este matrimonio, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050950DB|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Every moment we spend together, is a piece of my favorite memory, my love.",
+    "string": "El amor se define por momentos como este, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050950DC|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How's the most beautiful wife in Tamriel today?",
+    "string": "¿Cómo está la pareja más hermosa de todo Tamriel hoy, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050100A8|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Another drink, my love?",
+    "string": "¿Otra bebida, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050100B1|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You seem troubled. I love you, you know.",
+    "string": "Pareces preocupado, querido. Khajiit te ama, hmm? Esto es sabido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05044071|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So let's hear it.",
+    "string": "Así que, cuéntalo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051D40F4|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I love you, my dear. I hope you still do too.",
+    "string": "Khajiit te ama, querido. Tú amas a Khajiit también, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0504917F|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I love you, my dear. I hope you still do too.",
+    "string": "Khajiit te ama, querido. Tú amas a Khajiit también, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05049183|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "The Dragonborn Couple. It's the best, right love?",
+    "string": "La Pareja Sangre de Dragón. Esto es excelente, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05104732|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I do love you, you know. Come here?",
+    "string": "Khajiit te ama, en verdad. Lo sabes, ¿sí? Ven aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05104733|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I do love you, you know. Come here?",
+    "string": "Khajiit te ama, en verdad. Lo sabes, ¿sí? Ven aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05104734|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I do love you, you know. Come here?",
+    "string": "Khajiit te ama, en verdad. Lo sabes, ¿sí? Ven aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05104735|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I do love you, you know. Come here?",
+    "string": "Khajiit te ama, en verdad. Lo sabes, ¿sí? Ven aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0510473C|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I do love you, you know. Come here?",
+    "string": "Khajiit te ama, en verdad. Lo sabes, ¿sí? Ven aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05173D8F|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Wanna cuddle, Kaidan?",
+    "string": "¿Quieres abrazos, Kaidan?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05173D8E|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I love you, you know. Wanna cuddle?",
+    "string": "<Alias=Player> te ama, querido. ¿Quieres abrazos, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2CA|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'll never leave you, Rumarin.",
+    "string": "Khajiit nunca te abandonará, Rumarin.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2CB|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad to be your spouse.",
+    "string": "Este está orgulloso de ser tu pareja, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2CC|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Could I have a hug from my dearest husband?",
+    "string": "¿Khajiit desea un abrazo de <Alias.PronounPosObj=Player> pareja, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2CD|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm so glad to live together with you.",
+    "string": "Khajiit está agradecido de vivir contigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2CE|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Wanna cuddle, my dearest?",
+    "string": "¿Quieres abrazos, querido?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2CF|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh... ha ha, honestly that's adorable.",
+    "string": "Oh... ja-ja, honestamente eso es adorable.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2CF|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hug attack! Do not resist. ",
+    "string": "¡Abrazo y salto! No te resistas...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05173D92|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I love you, my dear. I hope you still do too.",
+    "string": "Khajiit te ama, querido. Tú amas a Khajiit también, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053B00DA|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I love you, you know.",
+    "string": "Este te ama, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053B00DA|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Come here, my love?",
+    "string": "<Alias=Player> desea que vengas aquí, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053B00E0|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How about a visit to Solitude's Lighthouse, my love? I heard it's beautiful.",
+    "string": "Este desea viajar al Faro de Soledad con el amor de <Alias.PronounPosObj=Player>. Sería glorioso, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053B00DC|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Come here, my love?",
+    "string": "<Alias=Player> desea que vengas aquí, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053B00DF|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Come here, my love?",
+    "string": "<Alias=Player> desea que vengas aquí, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053B00DB|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ssssh. I know.",
+    "string": "Shh. Lo sé.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0550D8B2|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Come, my dear. I'm sworn to carry your burdens, love, I'm here for you.",
+    "string": "Ven aquí, querido. <Alias=Player> ha jurado cuidar de ti y de tus cargas - incluso las pesadas, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WW42HugFollowerAnimalBranchTopic",
+    "form_id": "0502DBF5|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm glad you're here.",
+    "string": "<Alias=Player> está feliz de que estés aquí, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0502DBF6|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(happy bark)",
+    "string": "(ladra felizmente)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0502DBF6|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here, boy.",
+    "string": "Khajiit se alegra de que estés aquí, joven.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0502DBF7|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(happy bark)",
+    "string": "(ladra felizmente)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0502DBF7|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I'm glad you're here, pup.",
+    "string": "Khajiit se alegra de que estés aquí. Sí, incluso tú.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WW42HugChildMamaTopic",
+    "form_id": "050352CB|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Dragonborn loves you, I hope you know that.",
+    "string": "El Sangre de Dragón te ama, esto es sabido, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05037A66|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Mama loves you, I hope you know that.",
+    "string": "<Alias=Player> te ama, cachorro. Esto es sabido, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2C3|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thanks, Ma!",
+    "string": "¡Gracias, mamá!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2C3|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I am so proud of you, little one. ",
+    "string": "Khajiit está muy orgulloso de ti, pequeño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2BC|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Mama loves you, I hope you know that.",
+    "string": "<Alias=Player> te ama, cachorro. Esto es sabido, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05037A67|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Papa loves you, I hope you know that.",
+    "string": "<Alias=Player> te ama, joven. Esto es sabido, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0504406A|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All right! - Tag, you're it! Ha ha! Yeah, you're too slow, father!",
+    "string": "¡Muy bien! - ¡Tag, eres tú! Ja-ja, ¡sí, eres demasiado lento, padre!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0504406A|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You're the best son a father could wish for. Come here?",
+    "string": "Eres el mejor joven que un guardián podría desear, en verdad. Ven aquí, pequeño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0504406B|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You're the best son I could wish for, I hope you know that.",
+    "string": "Eres el mejor joven que un Khajiit podría desear. Esto es sabido, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0504406C|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Mama loves you, I hope you know that.",
+    "string": "<Alias=Player> te ama, cachorro. Esto es sabido, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0504406D|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Papa loves you, I hope you know that.",
+    "string": "<Alias=Player> te ama, joven. Esto es sabido, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WW42GiftSpouseBranchTopic",
+    "form_id": "0505D58B|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I brought you something, dear.",
+    "string": "Khajiit te ha traído algo, querido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050E101E|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oooh. Really? You're serious? ... for me?",
+    "string": "Oh. ¿De verdad? ¿Hablas en serio...? ¿Para mí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05173D88|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How would you like a present, my dear?",
+    "string": "Y, ¿qué regalo querrías exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053B00E1|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "How would you like a present, my dear?",
+    "string": "Y, ¿qué regalo querrías exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050E1012|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, ... of course. I understand.",
+    "string": "Oh... claro. Entiendo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05173D85|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Uhh... thanks, love.",
+    "string": "Uh... gracias, amor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050E1013|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "... love you!",
+    "string": "...¡te amo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05104738|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Uhh... thanks... I think.",
+    "string": "Uh... gracias... eso creo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053B00E5|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I love you, you know.",
+    "string": "Este te ama, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051974A9|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Welcome home!)",
+    "string": "¡Bienvenido a casa!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0519C5AC|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Welcome home!)",
+    "string": "¡Bienvenido a casa!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051D40F6|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ohh, my love.",
+    "string": "Oh, mi amor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051D40F8|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Helloooo, dear! ... I haven't been drinking too much, if that's what you're thinking...",
+    "string": "¡Hola, querido...! Este Khajiit no ha estado bebiendo demasiado, si eso es lo que estás pensando...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051D4109|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've got your back, dearheart. Don't you worry.",
+    "string": "Este Khajiit tiene tu espalda, querido. No te preocupes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052CC2C8|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh! Hello, my love... aww.",
+    "string": "¡Oh! Hola, mi amor... aw.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052F4AE1|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can't believe you're calm enough to stop for a hug with all these dwemer mechanisms lurking nearby!",
+    "string": "¡Este Khajiit no puede creer que estés lo bastante calmado para detenerte a dar un abrazo con todos estos mecanismos Dwemer acechando cerca!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052F4AE6|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Afraid of the undead? All right, come here. Oh wait, that's me! Ha ha!",
+    "string": "¿Temes a los no-muertos? Está bien, ven aquí. ¡Oh espera, ese soy yo! Ja-ja.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052F4AE8|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Quick, don't let them see us. (Laughs)",
+    "string": "¡Rápido, no dejes que nos vean! (ríe)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05308F0F|ImGladYoureHere.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(sighs) Sure... just... (groans)... careful around sunburns, please!",
+    "string": "(suspira) Claro... solo... (gime) Ten cuidado con las quemaduras del sol, por favor.",
+    "status": "TranslationComplete"
+  }
+]

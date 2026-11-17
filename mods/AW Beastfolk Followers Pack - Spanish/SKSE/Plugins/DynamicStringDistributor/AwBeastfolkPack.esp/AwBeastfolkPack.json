@@ -1,0 +1,281 @@
+[
+  {
+    "editor_id": "AwSummonSpider",
+    "form_id": "02000D61|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Spider",
+    "string": "Invocar araña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwSummonSpider",
+    "form_id": "02000D61|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons a spider for <dur> seconds wherever the caster is pointing.",
+    "string": "Invoca una araña durante <dur> segundos dondequiera que el lanzador esté apuntando.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwSummonSkeever",
+    "form_id": "02000002|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Spider",
+    "string": "Invocar araña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwSummonSkeever",
+    "form_id": "02000002|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons a skeever for <dur> seconds wherever the caster is pointing.",
+    "string": "Invoca un eslizón durante <dur> segundos dondequiera que el lanzador esté apuntando.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwSummonMudcrab",
+    "form_id": "02000006|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Mudcrab",
+    "string": "Invocar cangrejo de barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwSummonMudcrab",
+    "form_id": "02000006|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons a mudcrab for <dur> seconds wherever the caster is pointing.",
+    "string": "Invoca un cangrejo de barro durante <dur> segundos dondequiera que el lanzador esté apuntando.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwConjureSpider",
+    "form_id": "02000D63|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Spider",
+    "string": "Invocar araña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwConjureSkeever",
+    "form_id": "02000003|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Skeever",
+    "string": "Invocar eslizón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwConjureMudcrab",
+    "form_id": "02000007|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Mudcrab",
+    "string": "Invocar cangrejo de barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwSpellTomeConjureSpider",
+    "form_id": "02000D65|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Spider",
+    "string": "Grimorio: Invocar araña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwSpellTomeConjureSpider",
+    "form_id": "02000D65|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Spider",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nInvocar araña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwSpellTomeConjureSkeever",
+    "form_id": "02000004|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Skeever",
+    "string": "Grimorio: Invocar eslizón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwSpellTomeConjureSkeever",
+    "form_id": "02000004|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Skeever",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nInvocar eslizón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwSpellTomeConjureMudcrab",
+    "form_id": "02000008|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Mudcrab",
+    "string": "Grimorio: Invocar cangrejo de barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwSpellTomeConjureMudcrab",
+    "form_id": "02000008|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Mudcrab",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nInvocar cangrejo de barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwPicksTheHerbsAlchemyChest",
+    "form_id": "02000015|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwEncSummonSpider",
+    "form_id": "02000D62|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Spider",
+    "string": "Araña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwEncVenomfangSkeever",
+    "form_id": "02000001|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Skeever",
+    "string": "Eslizón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwEncSummonMudcrab",
+    "form_id": "02000005|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Mudcrab",
+    "string": "Cangrejo de barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwPicksTheHerbs",
+    "form_id": "0200000C|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Picks-The-Herbs",
+    "string": "Recolector-de-Hierbas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwPicksTheHerbs",
+    "form_id": "0200000C|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Picks",
+    "string": "Recolector",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwBurnsManyBushes",
+    "form_id": "0200000D|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Burns-Many-Bushes",
+    "string": "Quema-Muchos-Arbustos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwBurnsManyBushes",
+    "form_id": "0200000D|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "BMB",
+    "string": "QMA",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwJMarSneaky",
+    "form_id": "0200000E|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "J'Mar the Sneaky",
+    "string": "J'Mar el Sigiloso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwJMarSneaky",
+    "form_id": "0200000E|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "J'Mar",
+    "string": "J'Mar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwMarinCrawler",
+    "form_id": "02000011|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Marin The Crawler",
+    "string": "Marin el Reptador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AwMarinCrawler",
+    "form_id": "02000011|AwBeastfolkPack.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Marin",
+    "string": "Marin",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HagRockRedoubt01",
+    "form_id": "00015267|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Hag Rock Redoubt Ruin",
+    "string": "Ruina del reducto de Roca de la Arpía",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthHalloftheDead",
+    "form_id": "00023FD4|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Hall of the Dead",
+    "string": "Salón de los Muertos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunYsoldasHouse",
+    "form_id": "000165AC|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Ysolda's House",
+    "string": "Casa de Ysolda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "Skyrim",
+    "status": "TranslationComplete"
+  }
+]

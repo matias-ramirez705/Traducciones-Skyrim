@@ -1,0 +1,74 @@
+[
+  {
+    "editor_id": "ccBGSSSE063_QuestBranch1Topic",
+    "form_id": "0500082F|ccbgssse063-ba_ebony.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Toma. Aquí tienes una moneda de oro. (1 de oro)",
+    "string": "Aquí. Toma una moneda, amigo. (1 septim)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE063_QuestBranch2Topic",
+    "form_id": "05000831|ccbgssse063-ba_ebony.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Toma. Aquí tienes cien monedas de oro. (100 de oro)",
+    "string": "Aquí hay cien razones para sonreír, ¿sí? (100 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE063_QuestBranch3Topic",
+    "form_id": "05000833|ccbgssse063-ba_ebony.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tienes pinta de tener hambre. Toma, acepta este pan.",
+    "string": "Pareces hambriento, amigo. Aquí, toma un poco de pan.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE063_QuestBranch4Topic",
+    "form_id": "05000836|ccbgssse063-ba_ebony.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Te he traído un poco de vino.",
+    "string": "Khajiit te ha traído un poco de vino, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083B|ccbgssse063-ba_ebony.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Te he traído un poco de vino especiado.",
+    "string": "<Alias=Player> te ha traído un poco de vino especiado, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084E|ccbgssse063-ba_ebony.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Te he traído un poco de vino de los hermanos Surille.",
+    "string": "Este uno te ha traído un poco de vino de los Hermanos Surille.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084F|ccbgssse063-ba_ebony.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Te he traído un poco de vino de sangre argoniano.",
+    "string": "¡Khajiit te ha traído un poco de Vino de Sangre Argoniano!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE063_QuestBranch5Topic",
+    "form_id": "0500083C|ccbgssse063-ba_ebony.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "En vez de darte limosna, rezaré por tu prosperidad.",
+    "string": "¿Qué son las limosnas comparadas con una oración profundamente significativa a las Lunas por tu prosperidad, hmm?",
+    "status": "TranslationComplete"
+  }
+]

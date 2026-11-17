@@ -1,0 +1,326 @@
+[
+  {
+    "editor_id": "_M_QuestNorthpointKillAnimalRewardTopic",
+    "form_id": "06000868|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias=Dungeon> has been cleared, I'm here for the bounty.",
+    "string": "<Alias=Dungeon> ha sido limpiado, amigo. Este Khajiit cree que con algo de pintura y un poco de arte, podría ser una mazmorra un poco menos horrible...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointGatherIngrLowRewardTopic",
+    "form_id": "06000869|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointRetrieveWildernessRewardTopic",
+    "form_id": "0600086A|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Un <Alias.BaseName=Item> para ti, amigo! Recién salido del... umm... asunto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointGatherIngrMedRewardTopic",
+    "form_id": "0600086B|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointGatherIngrHighRewardTopic",
+    "form_id": "0600086C|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointGatherInnRewardTopic",
+    "form_id": "0600086D|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you needed.",
+    "string": "El <Alias=Item> que ordenaste está aquí, amigo. Siempre es alegre recibir regalos, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointGatherSoulGemLowRewardTopic",
+    "form_id": "0600086E|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Este Khajiit tiene algunos <Alias=Item>s para ti. Estaban así cuando <Alias.Pronoun=Player> los recogió. Confía en este, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointGatherSoulGemMedRewardTopic",
+    "form_id": "0600086F|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Este Khajiit tiene algunos <Alias=Item>s para ti. Estaban así cuando <Alias.Pronoun=Player> los recogió. Confía en este, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointGatherSoulGemHighRewardTopic",
+    "form_id": "06000870|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointCourierLetterLowAcceptTopic",
+    "form_id": "06000871|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointCourierLetterLowDeliverTopic",
+    "form_id": "06000872|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=Player> tiene una carta para ti de <Alias=QuestGiver> de <Alias=City>. Está mojada por la lluvia. Este Khajiit ciertamente no la dejó caer accidentalmente al río...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointCourierWeaponLowAcceptTopic",
+    "form_id": "06000873|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointCourierWeaponLowDeliverTopic",
+    "form_id": "06000874|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma que <Alias=QuestGiver> de <Alias=City> quiso enviarte. Recuerda usar el lado puntiagudo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointGatherOreLowRewardTopic",
+    "form_id": "06000875|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointGatherOreMedRewardTopic",
+    "form_id": "06000876|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointGatherOreHighRewardTopic",
+    "form_id": "06000877|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointGatherOreVeryHighRewardTopic",
+    "form_id": "06000878|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Este Khajiit tiene algunos <Alias=Item>s para ti. Estaban así cuando <Alias.Pronoun=Player> los recogió. Confía en este, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointCourierLetterMedAcceptTopic",
+    "form_id": "06000879|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointCourierLetterMedDeliverTopic",
+    "form_id": "0600087A|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=Player> tiene una carta para ti de <Alias=QuestGiver> de <Alias=City>. Está mojada por la lluvia. Este Khajiit ciertamente no la dejó caer accidentalmente al río...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointCourierLetterHighAcceptTopic",
+    "form_id": "0600087B|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointCourierLetterHighDeliveryTopic",
+    "form_id": "0600087C|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=Player> tiene una carta para ti de <Alias=QuestGiver> de <Alias=City>. Está mojada por la lluvia. Este Khajiit ciertamente no la dejó caer accidentalmente al río...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointCourierWeaponMedAcceptTopic",
+    "form_id": "0600087D|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointCourierWeaponMedDeliveryTopic",
+    "form_id": "0600087E|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma que <Alias=QuestGiver> de <Alias=City> quiso enviarte. Recuerda usar el lado puntiagudo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointCourierWeaponHighAcceptTopic",
+    "form_id": "0600087F|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointCourierWeaponHighDeliveryTopic",
+    "form_id": "06000880|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Aquí está el arma que <Alias=QuestGiver> de <Alias=City> quiso enviarte. Recuerda usar el lado puntiagudo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointKillBanditRewardTopic",
+    "form_id": "06000881|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The leader of <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El líder de <Alias=Dungeon> está muerto, sí. ¿Hay compensación adicional por cada esbirro que <Alias=Player> también haya eliminado, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointKillGiantRewardTopic",
+    "form_id": "06000882|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The giant at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El Gigante en <Alias=Dungeon> está muerto. Este Khajiit está aquí por la recompensa, y alguien interesado en comprar estos enormes dedos del pie...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointKillDragonRewardTopic",
+    "form_id": "06000883|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The dragon at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "El dragón en <Alias=Dungeon> ha tenido su “revisión de cuello a cabeza”... ¡y este Khajiit le ha dado un certificado limpio de muerte, en efecto! ¿Gracioso, no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointRetrieveHideoutRewardTopic",
+    "form_id": "06000884|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "¡Un <Alias.BaseName=Item> para ti, amigo! Recién salido del... umm... asunto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointRetrieveRuinsRewardTopic",
+    "form_id": "06000885|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "Aquí tienes... un <Alias=Item>, como se solicitó. Este Khajiit está feliz de que hoy fue día de piernas en la rutina de entrenamiento de <Alias.PronounPosObj=Player>, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointCourierPotionLowAcceptTopic",
+    "form_id": "0600088F|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointCourierPotionLowDeliverTopic",
+    "form_id": "06000891|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Esta poción fue enviada desde <Alias=QuestGiver> en <Alias=City> para ti. Por cierto, sabe terrible... no es que este Khajiit haya probado un poco... dos veces...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointCourierPotionHighAcceptTopic",
+    "form_id": "06000892|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointCourierPotionMedAcceptTopic",
+    "form_id": "06000893|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "<Alias=Player> está aquí para comer panecillos dulces y hacer entregas... y <Alias.Pronoun=Player> ya no tiene panecillos dulces... lamentablemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointCourierPotionHighDeliveryTopic",
+    "form_id": "06000895|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Esta poción fue enviada desde <Alias=QuestGiver> en <Alias=City> para ti. Por cierto, sabe terrible... no es que este Khajiit haya probado un poco... dos veces...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestNorthpointCourierPotionMedDeliveryTopic",
+    "form_id": "06000897|Missives - Northpoint Patch.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Esta poción fue enviada desde <Alias=QuestGiver> en <Alias=City> para ti. Por cierto, sabe terrible... no es que este Khajiit haya probado un poco... dos veces...",
+    "status": "TranslationComplete"
+  }
+]

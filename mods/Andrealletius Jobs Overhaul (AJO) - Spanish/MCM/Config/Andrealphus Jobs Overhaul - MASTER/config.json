@@ -1,0 +1,228 @@
+{
+  "modName": "Andrealphus Jobs Overhaul - MASTER",
+  "displayName": "Andrealphus Jobs Overhaul - Configuración",
+  "minMcmVersion": 9,
+  "pluginRequirements": [
+    "Andrealphus Jobs Overhaul - MASTER.esp"
+  ],
+  "cursorFillMode": "topToBottom",
+  "pages": [
+    {
+      "pageDisplayName": "Probabilidades y dificultad",
+      "cursorFillMode": "topToBottom",
+      "content": [
+        {
+          "type": "header",
+          "text": "General"
+        },
+        {
+          "id": "bEnabled:General",
+          "type": "toggle",
+          "text": "Usar estos ajustes",
+          "help": "Activado: los valores de estas páginas se escriben en AJO cada vez que cargas una partida y cada vez que cambias uno, por lo que también se aplican a los personajes nuevos. Desactivado: se restauran una vez los valores predeterminados de AJO y este menú deja de modificar AJO (los comandos de consola 'set' vuelven a funcionar como de costumbre).",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": true
+          }
+        },
+        {
+          "type": "header",
+          "text": "Buscar trabajo"
+        },
+        {
+          "id": "iNoNeedChance:Work",
+          "type": "slider",
+          "text": "Probabilidad de que un empleador no tenga trabajo",
+          "help": "La primera vez que le pidas trabajo a un empleador cada día, esta es la probabilidad de que te diga que hoy no necesita ayuda (AJO_NoNeedChance). 0 = siempre hay trabajo disponible, 100 = nunca. Valor predeterminado de AJO: 20%. Si ya le preguntaste hoy a un empleador, conservará su respuesta de hoy; los cambios se aplicarán a partir del día siguiente.",
+          "valueOptions": {
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "formatString": "{0}%",
+            "sourceType": "ModSettingInt",
+            "defaultValue": 20
+          }
+        },
+        {
+          "id": "bNoShifts:Work",
+          "type": "toggle",
+          "text": "Trabajar a cualquier hora",
+          "help": "Activado: puedes pedir trabajo a cualquier hora del día. Desactivado: los empleadores solo ofrecen trabajos entre las 9 a. m. y las 3 p. m. (AJO_NoShifts). Valor predeterminado de AJO: activado.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": true
+          }
+        },
+        {
+          "id": "bNoToolReqs:Work",
+          "type": "toggle",
+          "text": "No se necesitan herramientas",
+          "help": "Activado: puedes trabajar sin llevar la herramienta necesaria para el trabajo (pico, escoba, martillo...). Desactivado: se requiere la herramienta (AJO_NoToolReqs). Valor predeterminado de AJO: desactivado.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": false
+          }
+        },
+        {
+          "type": "header",
+          "text": "Dificultad del trabajo"
+        },
+        {
+          "id": "iJobRollMax:Results",
+          "type": "slider",
+          "text": "Rango de la tirada de trabajo (cuanto más alto, más fácil)",
+          "help": "El resultado de un trabajo se determina mediante una tirada aleatoria del 1 hasta este número, más una bonificación según tu nivel laboral, reputación y habilidades. Cuanto más alto sea el valor, más frecuentes serán los buenos resultados (y recibirás más paga, reputación y EXP de habilidad); cuanto más bajo, más difícil será y habrá más fracasos. Valor predeterminado de AJO: 75.",
+          "valueOptions": {
+            "min": 25,
+            "max": 200,
+            "step": 5,
+            "formatString": "{0}",
+            "sourceType": "ModSettingInt",
+            "defaultValue": 75
+          }
+        }
+      ]
+    },
+    {
+      "pageDisplayName": "Pago",
+      "cursorFillMode": "topToBottom",
+      "content": [
+        {
+          "type": "text",
+          "text": "Rango de pago base para cada resultado del trabajo, antes de aplicar las bonificaciones propias de AJO según el tipo de trabajo y el lugar. En AJO, los resultados «Muy mal» y «Mal» no pagan nada.",
+          "valueOptions": {
+            "value": ""
+          }
+        },
+        {
+          "type": "header",
+          "text": "Suficiente"
+        },
+        {
+          "id": "iPay03Min:Pay",
+          "type": "slider",
+          "text": "Mínimo",
+          "help": "Pago base mínimo por un trabajo realizado de forma suficiente (AJO_Pay03_Min). Si lo estableces por encima del máximo, el máximo aumentará para igualarlo. Valor predeterminado de AJO: 25.",
+          "valueOptions": {
+            "min": 0,
+            "max": 2000,
+            "step": 5,
+            "formatString": "{0} septims",
+            "sourceType": "ModSettingInt",
+            "defaultValue": 25
+          }
+        },
+        {
+          "id": "iPay03Max:Pay",
+          "type": "slider",
+          "text": "Máximo",
+          "help": "Pago base máximo por un trabajo realizado de forma suficiente (AJO_Pay03_Max). Valor predeterminado de AJO: 100.",
+          "valueOptions": {
+            "min": 0,
+            "max": 2000,
+            "step": 5,
+            "formatString": "{0} septims",
+            "sourceType": "ModSettingInt",
+            "defaultValue": 100
+          }
+        },
+        {
+          "type": "header",
+          "text": "Bien"
+        },
+        {
+          "id": "iPay04Min:Pay",
+          "type": "slider",
+          "text": "Mínimo",
+          "help": "Pago base mínimo por un trabajo bien realizado (AJO_Pay04_Min). Valor predeterminado de AJO: 100.",
+          "valueOptions": {
+            "min": 0,
+            "max": 2000,
+            "step": 5,
+            "formatString": "{0} septims",
+            "sourceType": "ModSettingInt",
+            "defaultValue": 100
+          }
+        },
+        {
+          "id": "iPay04Max:Pay",
+          "type": "slider",
+          "text": "Máximo",
+          "help": "Pago base máximo por un trabajo bien realizado (AJO_Pay04_Max). Valor predeterminado de AJO: 250.",
+          "valueOptions": {
+            "min": 0,
+            "max": 2000,
+            "step": 5,
+            "formatString": "{0} septims",
+            "sourceType": "ModSettingInt",
+            "defaultValue": 250
+          }
+        },
+        {
+          "type": "header",
+          "text": "Excelente"
+        },
+        {
+          "id": "iPay05Min:Pay",
+          "type": "slider",
+          "text": "Mínimo",
+          "help": "Pago base mínimo por un trabajo realizado de forma excelente (AJO_Pay05_Min). Valor predeterminado de AJO: 250.",
+          "valueOptions": {
+            "min": 0,
+            "max": 2000,
+            "step": 5,
+            "formatString": "{0} septims",
+            "sourceType": "ModSettingInt",
+            "defaultValue": 250
+          }
+        },
+        {
+          "id": "iPay05Max:Pay",
+          "type": "slider",
+          "text": "Máximo",
+          "help": "Pago base máximo por un trabajo realizado de forma excelente (AJO_Pay05_Max). Valor predeterminado de AJO: 500.",
+          "valueOptions": {
+            "min": 0,
+            "max": 2000,
+            "step": 5,
+            "formatString": "{0} septims",
+            "sourceType": "ModSettingInt",
+            "defaultValue": 500
+          }
+        },
+        {
+          "type": "header",
+          "text": "Increíble"
+        },
+        {
+          "id": "iPay06Min:Pay",
+          "type": "slider",
+          "text": "Mínimo",
+          "help": "Pago base mínimo por un trabajo realizado de forma increíble (AJO_Pay06_Min). Valor predeterminado de AJO: 500.",
+          "valueOptions": {
+            "min": 0,
+            "max": 2000,
+            "step": 5,
+            "formatString": "{0} septims",
+            "sourceType": "ModSettingInt",
+            "defaultValue": 500
+          }
+        },
+        {
+          "id": "iPay06Max:Pay",
+          "type": "slider",
+          "text": "Máximo",
+          "help": "Pago base máximo por un trabajo realizado de forma increíble (AJO_Pay06_Max). Valor predeterminado de AJO: 750.",
+          "valueOptions": {
+            "min": 0,
+            "max": 2000,
+            "step": 5,
+            "formatString": "{0} septims",
+            "sourceType": "ModSettingInt",
+            "defaultValue": 750
+          }
+        }
+      ]
+    }
+  ]
+}

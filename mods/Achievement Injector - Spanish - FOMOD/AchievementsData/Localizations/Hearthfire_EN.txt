@@ -1,0 +1,10 @@
+$NAME_Proud Parent	Padre orgulloso
+$DESC_Proud Parent	Adopta a un niño
+$NAME_Landowner	Propietario de tierras
+$DESC_Landowner	Compra una parcela de tierra
+$NAME_Architect	Arquitecto
+$DESC_Architect	Construye tres alas en una casa
+$NAME_Land Baron	Barón de las tierras
+$DESC_Land Baron	Compra tres parcelas de tierra
+$NAME_Master Architect	Maestro arquitecto
+$DESC_Master Architect	Construye tres casas

@@ -1,0 +1,245 @@
+[
+  {
+    "editor_id": "ccEDHSSE003_Quest_Hostage_FreeBranchTopic",
+    "form_id": "02000847|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "(Cortar las ataduras de Rakeed)",
+    "string": "(Cortar ataduras)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_Hostage_StayBranchTopic",
+    "form_id": "02000851|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Espera aquí. Volveré.",
+    "string": "Espera aqui. <Alias=Player> regresara en breve.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_BrawlerStartTopic",
+    "form_id": "02000859|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¿Eres tú quien busca pelea?",
+    "string": "Buscas una pelea?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_ChoiceBrawl",
+    "form_id": "0200085D|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Muy bien, ¿qué lado de la cara quieres que te arregle a puñetazos? (Pelear)",
+    "string": "Muy bien, amigo. Khajiit tiene curiosidad por una cosa... que lado de tu cara deseas que sea reordenado? Este es quirurgico con las garras de <Alias.PronounPosObj=Player>, de hecho. (Pelea)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_ChoicePersuade",
+    "form_id": "0200085F|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No me das miedo, solo estás siendo insufrible. Largo de aquí. (Persuadir)",
+    "string": "No preocupas a este... Simplemente eres un fastidio insufrible, hmm? Ahora, vete. (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_NotNow",
+    "form_id": "02000863|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ahora no tengo tiempo para esto.",
+    "string": "Khajiit no tiene tiempo para esto...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_Spy_CodewordBranchTopic",
+    "form_id": "02000865|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "\"Los cuervos alzan el vuelo una vez más.\"",
+    "string": "\"Los cuervos alzan el vuelo una vez mas.\"  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_Leader_FirstMeetingTopic",
+    "form_id": "02000868|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tú debes de ser Fijeh.",
+    "string": "Debes ser Fijeh.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_Leader_FirstMeeting_Agree",
+    "form_id": "0200086A|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría ayudarte a encontrar a tu Vestigio, Rakeed. ¿Qué hay que hacer ahora?",
+    "string": "Khajiit desea ayudar a encontrar a tu Remanente perdido, Rakeed. Entonces, por donde empezar, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_Leader_FirstMeeting_PayMe",
+    "form_id": "0200086C|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No trabajo gratis. Antes de seguir con esto, tenemos que hablar de la paga.",
+    "string": "Ja! Khajiit no trabaja gratis, amigo. Antes de que esto avance mas, la compensación debe ser acordada, si?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_Leader_FirstMeeting_NotNow",
+    "form_id": "0200086E|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "La verdad, ahora no tengo tiempo para ocuparme de esto.",
+    "string": "Khajiit no tiene tiempo para esto...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_Leader_ReadyToAttackTopic",
+    "form_id": "02000870|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ismal ha estado viajando con una caravana de los Thalmor hacia Morrowind.",
+    "string": "Ismal ha estado viajando con una caravana llena de Thalmor hacia Morrowind.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_Leader_ReadyToAttackTopic2",
+    "form_id": "02000872|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Entrarán en Skyrim por el suroeste, pasando por la Garganta de Peña Partida.",
+    "string": "Entraran a Skyrim desde el suroeste, pasando por Garganta de Peña Partida.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_Leader_ReadyToAttackTopic3",
+    "form_id": "02000874|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Suena bien.",
+    "string": "Esto suena bien para los oídos de Khajiit.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_Leader_ReadyToAttackTopic4",
+    "form_id": "02000876|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me aseguraré de que tu hombre salga ileso.",
+    "string": "Khajiit se asegurara de su supervivencia, si.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_Leader_ReadyToAttackTopic4Jerk",
+    "form_id": "02000878|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Solo quiero matar a los Thalmor. No puedo prometer nada más.",
+    "string": "<Alias=Player> es un simple Khajiit. <Alias.PronounCap=Player> solo desea matar Thalmor. Mas allá de eso, este no hace promesas.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_BrawlerStartAgainTopic",
+    "form_id": "0200087A|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "En su día te dejé ganar. ¡Esta vez no me voy a contener! (Pelear)",
+    "string": "<Alias=Player> te permitió ganar, una vez. Esta vez, <Alias.Pronoun=Player> no contendrá las garras de <Alias.PronounPosObj=Player>! (Pelea)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_Leader_FirstMeeting_PayMe_400",
+    "form_id": "02000882|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "400 de oro me parece razonable.",
+    "string": "400 septims parece razonable, si?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_Leader_FirstMeeting_PayMe_800",
+    "form_id": "02000884|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No lo haría por menos de 800 de oro. (Persuadir)",
+    "string": "<Alias=Player> no hará esto por menos de 800 septims, no. (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_Leader_FirstMeeting_PayMe_1600",
+    "form_id": "02000887|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hay otros contratos en los que podría estar trabajando ahora mismo. 1600 de oro. (Persuadir)",
+    "string": "Hay otros contratos en los que Khajiit podría estar trabajando ahora, amigo. El precio es de 1,600 septims. (Persuadir)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_Leader_FirstMeeting_PayMeAfter",
+    "form_id": "0200088A|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Decidido, pues. ¿Ahora qué?",
+    "string": "Entonces esta decidido, si? Que ahora?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_Leader_ResumeAfterPayTopic",
+    "form_id": "020008AF|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ahora que hemos acordado la paga, ¿cuál es el siguiente paso?",
+    "string": "Ahora que los detalles brillantes están fuera del camino... que sigue?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_Leader_FirstMeeting_Conclusion2",
+    "form_id": "020008B3|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Volveremos pronto.",
+    "string": "<Alias=Player> regresara pronto, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_PlayerFin1",
+    "form_id": "020008C3|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Que tengas suerte. Espero que nos volvamos a ver algún día.",
+    "string": "Khajiit te desea buena fortuna. Quizás este se cruce contigo de nuevo en el gran camino, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_PlayerFin2",
+    "form_id": "020008C5|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yo diría que esto se merece un pago.",
+    "string": "Mas que merecedor de algún pago, de hecho.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_Leader_ReadyToAttackTopic2b",
+    "form_id": "020008CC|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Prefiero trabajar por mi cuenta.",
+    "string": "Este prefiere trabajar solo, amigo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE003_Quest_Leader_FirstMeeting_Conclusion3",
+    "form_id": "02000E4E|ccedhsse003-redguard.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Espero que Rakeed merezca que me tome tantas molestias.",
+    "string": "<Alias=Player> espera que Rakeed valga todos estos problemas, amigo.",
+    "status": "TranslationComplete"
+  }
+]

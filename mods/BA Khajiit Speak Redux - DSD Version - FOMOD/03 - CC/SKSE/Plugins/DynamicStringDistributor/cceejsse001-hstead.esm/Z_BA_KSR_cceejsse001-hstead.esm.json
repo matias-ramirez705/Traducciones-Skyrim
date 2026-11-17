@@ -1,0 +1,20 @@
+[
+  {
+    "editor_id": "ccEEJSSE001_HousePurchaseBranchTopic",
+    "form_id": "05047E37|cceejsse001-hstead.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me gustaría comprar una hacienda fuera de la ciudad. (<Global=ccEEJ001HP> de oro)",
+    "string": "<Alias=Player> desea comprar una casa fuera de la ciudad. (<Global=ccEEJ001HP> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EEJSSE001_DisplayLackMsg",
+    "form_id": "05000F1F|cceejsse001-hstead.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No tienes el objeto requerido.",
+    "string": "Claramente, algo falta aquí...",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,20 @@
+$NAME_Outlander	Forastero
+$DESC_Outlander	Llega a Solstheim
+$NAME_The Temple of Miraak	El templo de Miraak
+$DESC_The Temple of Miraak	Completa 'El templo de Miraak'
+$NAME_The Path of Knowledge	La senda del conocimiento
+$DESC_The Path of Knowledge	Completa 'La senda del conocimiento'
+$NAME_At the Summit of Apocrypha	En la cima de Apocrypha
+$DESC_At the Summit of Apocrypha	Completa 'En la cima de Apocrypha'
+$NAME_Dragon Aspect	Aspecto de dragón
+$DESC_Dragon Aspect	Aprende las 3 palabras de Aspecto de dragón
+$NAME_Hidden Knowledge	Conocimiento oculto
+$DESC_Hidden Knowledge	Aprende los secretos de 5 Libros negros
+$NAME_Stalhrim Crafter	Artesano de stalhrim
+$DESC_Stalhrim Crafter	Fabrica un objeto de stalhrim
+$NAME_Dragonrider	Jinete de dragones
+$DESC_Dragonrider	Doma y monta 5 dragones
+$NAME_Raven Rock Owner	Propietario de Roca del Cuervo
+$DESC_Raven Rock Owner	Posee una casa en Roca del Cuervo
+$NAME_Solstheim Explorer	Explorador de Solstheim
+$DESC_Solstheim Explorer	Descubre 30 lugares de la isla de Solstheim

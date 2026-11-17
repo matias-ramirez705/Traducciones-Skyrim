@@ -1,0 +1,434 @@
+[
+  {
+    "editor_id": "DLC2GoldPile01",
+    "form_id": "03018486|Dragonborn.esm",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Pile of Septims",
+    "string": "Montón de Septims",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2GoldPile02",
+    "form_id": "03018488|Dragonborn.esm",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Pile of Septims",
+    "string": "Montón de Septims",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_PileofNchuark",
+    "form_id": "04000810|C.O.I.N.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Pile of Nchuarks",
+    "string": "Montón de Nchuarks",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_PileofDrakr",
+    "form_id": "040009C6|C.O.I.N.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Pile of Drakrs",
+    "string": "Montón de Drakrs",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_GibberBack",
+    "form_id": "01DE5017|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Gibber",
+    "string": "Gibber",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_GibberFront",
+    "form_id": "01DE5018|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Gibber",
+    "string": "Gibber",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Mala",
+    "form_id": "01DE5019|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ayleid Mala",
+    "string": "Mala Ayleid",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Mallari",
+    "form_id": "01DE5020|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ancient Falmer Mallari",
+    "string": "Mallari Falmer Antiguo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Nchuark",
+    "form_id": "01DE5022|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dwarven Nchuark",
+    "string": "Nchuark Dwarven",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Gold001",
+    "form_id": "0000000F|Skyrim.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Septim",
+    "string": "Septim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_DrakrDragon",
+    "form_id": "01DE5012|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ancient Nord Drakr",
+    "string": "Drakr Nórdico Antiguo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_DrakrMoth",
+    "form_id": "01DE5013|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ancient Nord Drakr",
+    "string": "Drakr Nórdico Antiguo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_DrakrOwl",
+    "form_id": "01DE5014|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ancient Nord Drakr",
+    "string": "Drakr Nórdico Antiguo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_DrakrWhale",
+    "form_id": "01DE5015|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ancient Nord Drakr",
+    "string": "Drakr Nórdico Antiguo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Drakr_CoinPurseLarge",
+    "form_id": "04000803|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "Bolsa de monedas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Drakr_CoinPurseLarge",
+    "form_id": "04000803|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "Agarrar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Drakr_CoinPurseMedium",
+    "form_id": "04000804|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "Bolsa de monedas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Drakr_CoinPurseMedium",
+    "form_id": "04000804|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "Agarrar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Drakr_CoinPurseSmall",
+    "form_id": "04000805|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "Bolsa de monedas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Drakr_CoinPurseSmall",
+    "form_id": "04000805|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "Agarrar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Nchuark_CoinPurseLarge",
+    "form_id": "0400080D|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "Bolsa de monedas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Nchuark_CoinPurseLarge",
+    "form_id": "0400080D|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "Agarrar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Nchuark_CoinPurseMedium",
+    "form_id": "0400080E|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "Bolsa de monedas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Nchuark_CoinPurseMedium",
+    "form_id": "0400080E|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "Agarrar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Nchuark_CoinPurseSmall",
+    "form_id": "0400080F|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "Bolsa de monedas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Nchuark_CoinPurseSmall",
+    "form_id": "0400080F|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "Agarrar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Mallari_CoinPurseSmall",
+    "form_id": "04000934|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "Bolsa de monedas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Mallari_CoinPurseSmall",
+    "form_id": "04000934|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "Agarrar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Mallari_CoinPurseMedium",
+    "form_id": "04000935|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "Bolsa de monedas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Mallari_CoinPurseMedium",
+    "form_id": "04000935|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "Agarrar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Mallari_CoinPurseLarge",
+    "form_id": "04000936|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "Bolsa de monedas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Mallari_CoinPurseLarge",
+    "form_id": "04000936|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "Agarrar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Mala_CoinPurseSmall",
+    "form_id": "0400093D|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "Bolsa de monedas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Mala_CoinPurseSmall",
+    "form_id": "0400093D|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "Agarrar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Mala_CoinPurseMedium",
+    "form_id": "0400093E|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "Bolsa de monedas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Mala_CoinPurseMedium",
+    "form_id": "0400093E|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "Agarrar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Mala_CoinPurseLarge",
+    "form_id": "0400093F|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "Bolsa de monedas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Mala_CoinPurseLarge",
+    "form_id": "0400093F|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "Agarrar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Gibber_CoinPurseSmall",
+    "form_id": "04000C5D|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "Bolsa de monedas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Gibber_CoinPurseSmall",
+    "form_id": "04000C5D|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "Agarrar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Gibber_CoinPurseMedium",
+    "form_id": "04000C5E|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "Bolsa de monedas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Gibber_CoinPurseMedium",
+    "form_id": "04000C5E|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "Agarrar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Gibber_CoinPurseLarge",
+    "form_id": "04000C5F|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "Bolsa de monedas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Gibber_CoinPurseLarge",
+    "form_id": "04000C5F|C.O.I.N.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "Agarrar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Mallari_TreasCorpseSkeletonRigid",
+    "form_id": "04000883|C.O.I.N.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Skeleton",
+    "string": "Esqueleto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunReachwaterRockGauldurSkeleton",
+    "form_id": "000EDB3B|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Gauldur",
+    "string": "Gauldur",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1FalmerTemple01",
+    "form_id": "0200384F|Dawnguard.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Inner Sanctum",
+    "string": "Sanctasanctórum",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC01FalmerValley",
+    "form_id": "02000BB5|Dawnguard.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Forgotten Vale",
+    "string": "Valle Olvidado",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "editor_id": "ccQDRSSE002_CampingNotAllowedCombatMsg",
+    "form_id": "0500081F|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No puedes montar un campamento mientras combates.",
+    "string": "Este es apenas el momento para armar una tienda, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_CampingNotAllowedMountedMsg",
+    "form_id": "05000823|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No puedes montar un campamento mientras sigas en una montura.",
+    "string": "Un caballo es bueno para montar, pero no para construir un campamento encima, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_CampingNotAllowedCityMsg",
+    "form_id": "0500081B|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No puedes montar un campamento en ciudades o aldeas.",
+    "string": "¡Un campamento está destinado para la naturaleza, no dentro de ciudades o pueblos!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_CampingNotAllowedSittingMsg",
+    "form_id": "05000822|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No puedes montar un campamento mientras estés usando otro objeto.",
+    "string": "Quizás sea mejor completar la tarea actual primero, y luego construir un campamento, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_CampingNotAllowedInteriorMsg",
+    "form_id": "0500081D|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No puedes montar un campamento dentro de otro edificio.",
+    "string": "Acampar debe realizarse al aire libre, no adentro.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_CampingNotAllowedGenericMsg",
+    "form_id": "0500082E|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Ahora mismo no puedes montar un campamento.",
+    "string": "No es posible construir un campamento en este momento. Una tristeza.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_CampingNotAllowedSpaceMsg",
+    "form_id": "0500082F|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No hay suficiente espacio para montar un campamento.",
+    "string": "Esta área está demasiado apretada para construir un campamento, hmm? Más espacio es mejor, en efecto.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_CampingNotAllowedHereMsg",
+    "form_id": "05000812|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Aquí no puedes montar un campamento.",
+    "string": "¡Este no es lugar para un campamento, gatito tonto!  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_CampingTutorialMsg",
+    "form_id": "0500081A|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Los campamentos te permiten descansar y mantenerte caliente mientras exploras lo desconocido. Puedes cocinar un número limitado de comidas en la hoguera. Tu campamento aparece marcado en el mapa para que puedas localizarlo y viajar rápidamente a él más tarde.",
+    "string": "Los campamentos permiten la capacidad de descansar y mantenerse cálido mientras se explora la naturaleza.  \r\n\r\nLa fogata permite cocinar una cantidad limitada de comidas.  \r\n\r\nEl campamento se marcará en el mapa para que sea fácilmente encontrado más tarde (viaje rápido disponible).  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_BuildCampPrompt",
+    "form_id": "05000818|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¿Montar un campamento aquí?",
+    "string": "¿Debería Khajiit construir un campamento aquí, quizás?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_BuildCampPrompt",
+    "form_id": "05000818|ccqdrsse002-firewood.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Aceptar",
+    "string": "Construir campamento  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_BuildCampPrompt",
+    "form_id": "05000818|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Cancelar",
+    "string": "No importa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_CampingNotAllowedGroundMsg",
+    "form_id": "05000830|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Este terreno no es lo bastante llano para montar un campamento.",
+    "string": "No es prudente construir un campamento en este terreno, en efecto. Busque terreno más nivelado, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_CampingNotAllowedSwimmingMsg",
+    "form_id": "05000821|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No puedes montar un campamento mientras nadas.",
+    "string": "No es prudente construir un campamento sobre el agua, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_CampingNotAllowedJumpingMsg",
+    "form_id": "05000820|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No puedes montar un campamento mientras estás en el aire.",
+    "string": "Quizás sea prudente esperar hasta que haya suelo firme bajo esas patas antes de construir un campamento, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_BreakCampPrompt",
+    "form_id": "0500082B|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¿Seguro que quieres deshacer el campamento?",
+    "string": "Desarmar el campamento es sabio, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_BreakCampPrompt",
+    "form_id": "0500082B|ccqdrsse002-firewood.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Aceptar",
+    "string": "En efecto, Desarmar campamento  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_BreakCampPrompt",
+    "form_id": "0500082B|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Cancelar",
+    "string": "No importa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_CampingHelp",
+    "form_id": "05000817|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Los campamentos te permiten descansar y mantenerte caliente mientras exploras lo desconocido. Crea suministros de acampada en una forja. Puedes usar los suministros de acampada para montar un campamento mientras estás al aire libre.\r\n\r\nMientras estés en tu campamento, podrás dormir en tu refugio provisional o cocinar un número limitado de comidas en la hoguera.\r\n\r\nLa posición de tu campamento está marcada en el mapa, para que puedas localizarlo y viajar rápidamente a él más tarde.\r\n\r\nSolo puedes tener montado un campamento a la vez. Si montas uno nuevo, se eliminará el anterior y el marcador de campamento en el mapa se actualizará con la nueva posición.",
+    "string": "Los campamentos permiten descansar y mantenerse cálido mientras se explora la naturaleza. Los Suministros de Campamento se crean en una forja. Estos suministros se usan para construir un campamento al aire libre.  \r\n\r\nMientras se está en el campamento, se utiliza un refugio improvisado para descansar, y una fogata para cocinar una cantidad limitada de comidas.  \r\n\r\nLa ubicación del campamento se marca en el mapa, por lo que es fácilmente encontrada (viaje rápido permitido).  \r\n\r\nSolo se permite un campamento a la vez. Construir un nuevo campamento eliminará el anterior, y la antigua ubicación del marcador en el mapa será reemplazada por el nuevo sitio.  \r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_CampingHelp",
+    "form_id": "05000817|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Campamento",
+    "string": "Acampando  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_ShelterOptionMsg",
+    "form_id": "05000813|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "¿Qué haces?",
+    "string": "¿Qué ahora, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_ShelterOptionMsg",
+    "form_id": "05000813|ccqdrsse002-firewood.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Dormir",
+    "string": "Tomar siesta felina  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_ShelterOptionMsg",
+    "form_id": "05000813|ccqdrsse002-firewood.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Deshacer campamento",
+    "string": "Desarmar campamento  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccQDRSSE002_ShelterOptionMsg",
+    "form_id": "05000813|ccqdrsse002-firewood.esl",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Cancelar",
+    "string": "Nada",
+    "status": "TranslationComplete"
+  }
+]

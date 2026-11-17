@@ -1,0 +1,90 @@
+# El nombre de la habilidad aparecera al mostrar el mensaje de subida de nivel de la habilidad y tambien en el menu de ventajas personalizadas
+Name = "Naturaleza Bestial"
+
+# La descripcion de la habilidad aparecera en el menu de ventajas personalizadas bajo el nombre y el nivel, usa "" para borrarla si no quieres mostrar nada
+Description = "Extrae fuerza de tu monstruo interior"
+
+# Nif de fondo personalizado, INTVampirePerkSkydome.nif muestra el fondo de hombre lobo, si usas un nif personalizado que hiciste debe tener algunos nodos e imagenes, se recomienda editar este nif en lugar de crear uno nuevo desde cero. Si usas "Interface/INTPerkSkydome.nif" como base entonces debes establecer SkydomeNormalNif en true
+Skydome = "DLC01/Interface/INTVampirePerkSkydome.nif"
+SkydomeNormalNif = false
+
+# Esto debe apuntar a una variable global que contiene el nivel actual de la habilidad. Debe establecerse!
+LevelFile = "Beastialnature.esp"
+LevelId = 0xD63
+
+# Esto debe apuntar a una variable global que contiene la proporcion de subida de nivel de la habilidad (que tan cerca esta de subir). El valor siempre debe estar entre 0 y 1. Establece el tipo float en la variable global al crearla. Debe establecerse!
+RatioFile = "Beastialnature.esp"
+RatioId = 0xD65
+
+# Esto debe apuntar a una variable global que esta establecida en 0, cuando cambies esta variable global a cualquier otro numero entonces el juego mostrara "SkillName has increased to X" donde X es el valor que establezcas en esta variable global, el juego tambien restablecera inmediatamente el valor de la variable a 0. Esto debe establecerse!
+ShowLevelupFile = "myskilltest.esp"
+ShowLevelupId = 0xD64
+
+# Esto debe apuntar a una variable global que esta establecida en 0, si la cambias a 1 entonces el menu de ventajas personalizado para esta habilidad se abrira inmediatamente (siempre que los controles de menu esten habilitados y el juego no este en pausa). Una vez que eso ocurra el juego tambien restablecera el valor a 0. Asi es como controlas cuando abrir el menu de ventajas para la habilidad. Esto debe establecerse!
+ShowMenuFile = "Beastialnature.esp"
+ShowMenuId = 0xD62
+
+# Opcional! Esto debe apuntar a una variable global que contiene la cantidad actual de puntos de ventaja para esta habilidad especifica. Esto permite tener una cantidad personalizada de puntos de ventaja solo para esta habilidad. Si no se establece entonces usara los puntos de ventaja regulares del jugador.
+PerkPointsFile = ""
+PerkPointsId = 0
+
+# Opcional! Esto debe apuntar a una variable global que contiene el conteo de cuantas veces esta habilidad se ha vuelto legendaria. Si no se establece entonces la habilidad no puede volverse legendaria.
+LegendaryFile = "Beastialnature.esp"
+LegendaryId = 0x1D92
+
+# Opcional! Si esto apunta a una variable global entonces contiene el color actual del nombre de la habilidad. Por ejemplo si estableces el valor de la variable global a 0xFF0000 el nombre de la habilidad sera rojo en el menu de ventajas, si no se usa entonces el color predeterminado sera blanco
+ColorFile = ""
+ColorId = 0
+
+# Opcional! Esto puede ser util para recargar los archivos de configuracion cuando el juego aun esta abierto. Puede ayudar en desarrollo para ajustar la ubicacion de los nodos de ventajas sin cerrar el juego todo el tiempo. Para usar esto crea una variable global y establecela en 0, pon el nombre de archivo y el ID de formulario de la variable aqui. Luego en el juego asegúrate de que el menu de ventajas este cerrado. Abre la consola y escribe "set myglobalname to 1", cierra la consola y ahora todos los archivos de configuracion de habilidades se han recargado, asi puedes abrir el menu de ventajas nuevamente y ver como cambiaron los nodos. Esto no se recomienda para juego normal! Causa una fuga de memoria o algo peor. Recuerda que el menu de ventajas debe estar cerrado cuando se recarguen los archivos.
+DebugReloadFile = "myskilltest.esp"
+DebugReloadId = 0x182F
+
+# Node0 es el nodo raiz, este no debe tener coordenadas ni una ventaja asignada. Esto debe existir incluso si no quieres tener ventajas. Usa Node0.Links para apuntar a la(s) primera(s) ventaja(s). Si no quieres ventajas entonces elimina la linea de links o establecela en ""
+Node0.Enable = true
+Node0.Links = "1"
+
+# Las ventajas reales comienzan aqui. Cuando hagas una condicion en una ventaja para requerir un nivel especifico de la habilidad, en lugar de usar GetBaseActorValue usa GetGlobalValue para la variable global que estableciste en la opcion "Level". Esto generara el requisito correcto dentro del juego. Usa GridX y GridY para ubicar el nodo (valor negativo no soportado), X y Y son desplazamientos extra para una ubicacion mas precisa (pueden tener fracciones y ser negativos). GridX va de derecha a izquierda (valor bajo a valor alto), GridY va de abajo hacia arriba (valor bajo a valor alto)
+
+
+Node1.Enable = true
+Node1.PerkFile = "Beastialnature.esp"
+Node1.PerkId = 0x800
+Node1.X = 0
+Node1.Y = 0
+Node1.GridX = 3
+Node1.GridY = 0
+Node1.Links = "2"
+
+Node2.Enable = true
+Node2.PerkFile = "Beastialnature.esp"
+Node2.PerkId = 0x801
+Node2.X = 0
+Node2.Y = 0
+Node2.GridX = 3
+Node2.GridY = 1
+Node2.Links = "3 4 5"
+
+Node3.Enable = true
+Node3.PerkFile = "Beastialnature.esp"
+Node3.PerkId = 0x802
+Node3.X = 0
+Node3.Y = 0
+Node3.GridX = 3
+Node3.GridY = 2
+
+Node4.Enable = true
+Node4.PerkFile = "Beastialnature.esp"
+Node4.PerkId = 0x803
+Node4.X = 0
+Node4.Y = 0
+Node4.GridX = 2
+Node4.GridY = 2
+
+Node5.Enable = true
+Node5.PerkFile = "Beastialnature.esp"
+Node5.PerkId = 0x80C
+Node5.X = 0
+Node5.Y = 0
+Node5.GridX = 4
+Node5.GridY = 2

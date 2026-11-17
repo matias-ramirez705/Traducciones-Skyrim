@@ -1,0 +1,1019 @@
+[
+  {
+    "editor_id": "AKLellesOuest02Branch01Topic",
+    "form_id": "020329AB|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I received your letter. What do you want from me?",
+    "string": "<Alias=Player> recibió tu carta. ¿Qué desea este, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesOuest0202",
+    "form_id": "020329AD|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Go on.",
+    "string": "Las orejas de Khajiit escuchan...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesOuest03",
+    "form_id": "020329AF|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Lelles... I think I've heard that name before.",
+    "string": "Lelles, hmm... ¿Dónde habrán oído las orejas de Khajiit ese nombre antes...?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesOuest04",
+    "form_id": "020329B1|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "200 years have passed since the Oblivion crisis.",
+    "string": "Han pasado doscientos años desde la Crisis de Oblivion, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020329B4|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So will you take the job?",
+    "string": "Entonces, ¿aceptarás el trabajo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesOuest06",
+    "form_id": "020329B5|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No. Not my thing.",
+    "string": "Khajiit no está interesado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020329B6|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alright then. Come back when you change your mind.",
+    "string": "Muy bien. Regresa cuando cambies de opinión.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesOuest07",
+    "form_id": "020329B7|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sure. Where do I have to go?",
+    "string": "Khajiit hará esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesOuest08",
+    "form_id": "020329B9|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "A Dwemer ruin? Why?",
+    "string": "¿Una ruina Dwemer, hmm? ¿Por qué, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesOuest09",
+    "form_id": "020329BB|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Dwemer ruin is inside a mine?",
+    "string": "¿La ruina Dwemer está dentro de una mina, hmm? Esto tiene un aire muy siniestro, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesOuest02Branch02Topic",
+    "form_id": "020339EE|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've found Norbert's Journal.",
+    "string": "Khajiit encontró un diario que pertenecía a Norbert.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesOuest02b01",
+    "form_id": "020339F0|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Here you go.",
+    "string": "Aquí tienes, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020339F1|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hm... interresting. He met the Hero of Kvatch... and found his true adventurer's spirit... remarkable, truly remarkable...",
+    "string": "Hmm... interesante. Conoció al Héroe de Kvatch... y encontró su verdadero espíritu aventurero... extraordinario, realmente extraordinario...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020339F3|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You did me a great service, traveller. Thank you. Check the strongbox over there for your reward.",
+    "string": "Me has hecho un gran favor, viajero. Gracias. Revisa el cofre fuerte de allá para recibir tu recompensa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesMerchantQuestRR01Topic",
+    "form_id": "020423CC|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Alright. What is it?",
+    "string": "Muy bien. ¿De qué se trata, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020423CD|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I would like to talk to you about a ... well, business thing. Are you interested?",
+    "string": "Me gustaría hablar contigo sobre un... bueno, asunto de \"negocios\". ¿Te interesa?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesMerchantQuestRR02",
+    "form_id": "020423CE|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Keep talking.",
+    "string": "Las orejas de Khajiit escuchan...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesMerchantQuestRR03",
+    "form_id": "020423D0|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Interesting.",
+    "string": "Interesante, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesMerchantQuestRR04",
+    "form_id": "020423D2|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": " I sure can. Offers like this are mostly useful...",
+    "string": "Por supuesto, amigo. Ofertas como esta son de gran utilidad, en verdad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZZ01Topic",
+    "form_id": "02044065|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So, do you need something else?",
+    "string": "Entonces, ¿necesitas algo más, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZZ02",
+    "form_id": "02044067|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's hear it.",
+    "string": "Las orejas de Khajiit escuchan...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZZ03",
+    "form_id": "02044069|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I see. Another suicide mission like Irznghbolt?",
+    "string": "Khajiit comprende. ¿Otra misión suicida como Irznghbolt con una muerte casi segura, hmm? Una posibilidad muy pequeña de éxito, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0204406A|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hm... well, rather some sort of secret mission.... let me provide you some details.",
+    "string": "Hmm... Bueno, más bien una especie de misión secreta... déjame darte algunos detalles.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZZ04",
+    "form_id": "0204406B|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Alright.",
+    "string": "Muy bien.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZZ05",
+    "form_id": "0204406D|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Never heard of it.",
+    "string": "Las orejas de Khajiit nunca habían oído hablar de esto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZZ06",
+    "form_id": "0204406F|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Come to the point. You want me to do what?",
+    "string": "Ve al punto de esta historia sin sentido, ¿sí? ¿Qué es exactamente lo que deseas que Khajiit haga?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02044070|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No time to loose, eh? Alright, here you go...I want you to infiltrate the prison and retrieve an item... a very precious item.",
+    "string": "No hay tiempo que perder, ¿eh? Muy bien, aquí va... Quiero que te infiltras en la prisión y recuperes un objeto... un objeto muy valioso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZZ07",
+    "form_id": "02044071|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "A precious item in an old prison? Are you serious?",
+    "string": "¿Un objeto valioso en una vieja prisión? ¿De verdad? ¿Hablas completamente en serio o le estás jalando la cola a este, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02044072|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Haha, I knew you would say that... yes, an old Cyrodiil artifact. A commemorative coin of Martin Septim, the short time ruler of Cyrodiil.",
+    "string": "Ja, ja, sabía que dirías eso... sí, un antiguo artefacto de Cyrodiil. Una moneda conmemorativa de Martin Septim, el gobernante de Cyrodiil durante un corto tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02044074|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's worth a fortune... only 3 samples of this coin are known. One in Daggerfall, High Rock. The second in Vivec, Vvardenfell...",
+    "string": "Vale una fortuna... solo se conocen tres ejemplares de esta moneda. Uno en Salto de la Daga, Roca Alta. El segundo en Vivec, Páramo de Vvarden...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZZ09",
+    "form_id": "02044075|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "And... the third in a forgotten prison in Solitude?",
+    "string": "Y... ¿el tercero en una prisión olvidada de Soledad, sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZZ10",
+    "form_id": "02044077|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "A whole prison for one occupant? Quite bizarre...",
+    "string": "¿Toda una prisión para un solo ocupante, hmm? Esto es bastante extraño, en verdad...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02044078|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Maybe. But we're talking about a killer that slaughtered 19 people... mostly young women...",
+    "string": "Tal vez. Pero hablamos de un asesino que masacró a diecinueve personas... en su mayoría mujeres jóvenes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZZ11",
+    "form_id": "02044079|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What...? Another gap in knowledge for me...",
+    "string": "¿Qué...? Otro vacío en el conocimiento de Khajiit... Esto empieza a ser una molestia, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0204407A|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It was 25 years ago... so you're excused. Since then he's in jail... and all his valuables with him.",
+    "string": "Fue hace veinticinco años... así que estás disculpado. Desde entonces está en prisión... y todas sus pertenencias con él.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZZ12",
+    "form_id": "0204407B|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Who's the guy?",
+    "string": "¿Quién es exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZZ13",
+    "form_id": "0204407D|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What? Now you're kidding me, right...?",
+    "string": "¿Qué? Seguro que ahora intentas burlarte de Khajiit, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0204407E|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not at all. The imperials need every soldier for the civil conflict they're in. So they picked some no hopers and shut them in with Dreth...",
+    "string": "En absoluto. Los Imperiales necesitan a todos los soldados para el conflicto civil en el que están. Así que tomaron a algunos casos perdidos y los encerraron con Dreth...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZZ14",
+    "form_id": "0204407F|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What I do with them?",
+    "string": "¿Qué hace Khajiit con ellos, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZZ15",
+    "form_id": "02044081|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ok. And Dreth?",
+    "string": "Muy bien. ¿Y qué hay de Dreth, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02044082|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, he's been in jail for 25 years now. But he certainly deserves doom. Do what you want with him.",
+    "string": "Bueno, lleva veinticinco años en prisión. Pero sin duda merece su condena. Haz con él lo que quieras.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZZ16",
+    "form_id": "02044083|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I still can't believe that criminals guard another criminal...",
+    "string": "A este aún le parece increíble que esos criminales estén ahí para vigilar a otro criminal...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02044084|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It was Rikke's idea. They are all locked up there and live their peaceful lives... until now. I was able to get a key to the prison....",
+    "string": "Fue idea de Rikke. Todos están encerrados allí y viven sus tranquilas vidas... hasta ahora. Pude conseguir una llave de la prisión...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZZ17",
+    "form_id": "02044085|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How?",
+    "string": "¿Cómo, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02044086|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't ask me. I caugh'd up half a fortune for it. So, what you say? You think you can handle this?",
+    "string": "No me lo preguntes. Me costó media fortuna. Entonces, ¿qué dices? ¿Crees que puedes encargarte de esto?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZZ18",
+    "form_id": "02044087|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't think so... I'm still sore from the last trip.",
+    "string": "<Alias=Player> no tiene tiempo para esto. ¡<Alias.PronounCap=Player> aún sigue adolorido del último viaje!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02044088|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alright. Get well soon then.",
+    "string": "Muy bien. Recupérate pronto entonces.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZZ19",
+    "form_id": "02044089|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, I'm in. Sounds profitable.",
+    "string": "Muy bien. Esta aventura suena rentable para los oídos de Khajiit. Seguramente habrá muchos montones de tesoros brillantes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesMerchantQuestDialogue02Topic",
+    "form_id": "02045B94|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Show me your merchandise.",
+    "string": "Muéstrale a Khajiit tus mercancías, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02045B95|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Here you go.",
+    "string": "Aquí tienes, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03Dialogue02Topic",
+    "form_id": "020481A2|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've found the coin.",
+    "string": "Khajiit encontró la moneda brillante especial...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZU02",
+    "form_id": "020481A4|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Here. Take it.",
+    "string": "Aquí la tienes, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "020481A5|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh yes.... it's a real beauty... just like my friend the collector said. Don't you agree?",
+    "string": "Oh, sí... Es una verdadera belleza... tal como dijo mi amigo el coleccionista. ¿No estás de acuerdo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest03ZU04",
+    "form_id": "020481A8|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What? The coin is worth over 6000 gold and you give me only 10 gold...?",
+    "string": "Espera... ¿qué? ¿La moneda vale más de 6,000 septims y solo le das a Khajiit 10 septims por devolvértela? ¿¡Qué clase de yoshith [engaño] es este!?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0204B7FB|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hehehe...",
+    "string": "Je, je, je...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0204B7FC|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The white skin she had... oh my my... hehehe...",
+    "string": "La piel blanca que tenía... ay, por todos los dioses... je, je, je...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0204B7FE|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Crime? You call it a crime? It was... an act of art. Yes, I'm an artist... hihihi...",
+    "string": "¿Crimen? ¿Llamas a eso un crimen? Fue... una obra de arte. Sí, soy un artista... je, je, je...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0204CE0C|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Arghh...",
+    "string": "¡Argh!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0204FEAF|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dreth junior is said to be well off. Grab everything you can in there.",
+    "string": "Se dice que Dreth Junior tiene una buena fortuna. Llévate todo lo que puedas de allí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02064F78|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "By the way, are you interested in the Skooma business? ",
+    "string": "Por cierto, ¿te interesa el negocio del skooma?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02063F46|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you get in possess of large amounts of Skooma in the valley... I'll gladly buy it after you come back.",
+    "string": "Si consigues grandes cantidades de skooma en el valle... con gusto te la compraré cuando regreses.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest04D01Topic",
+    "form_id": "0206650A|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Skooma business? Why do you ask?",
+    "string": "¿Negocio de skooma, hmm? ¿Por qué preguntas eso a Khajiit, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0206650B|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, a few hours ago I got a note from my Elsweyr Skooma wholesaler offering me an interesting deal...",
+    "string": "Bueno, hace unas horas recibí una nota de mi mayorista de skooma de Elsweyr ofreciéndome un trato interesante...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest04CCC02",
+    "form_id": "0206650C|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Oh yes? Well, good luck then!",
+    "string": "¿Ah, sí? ¡Pues Khajiit te desea buena fortuna entonces!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest04CCC03",
+    "form_id": "0206650E|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "...Go on then...",
+    "string": "Muy bien, continúa...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0206650F|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, you see, he's a little concerned about some Skooma smugglers in the Riften Hold. Nothing mayor but still annoying... ",
+    "string": "Verás, está un poco preocupado por unos contrabandistas de skooma en la Comarca de Riften. Nada importante, pero sí molesto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0206650F|AKShadowsOfThePast.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "He wants to preserve the monopoly status he has in Skooma dealing and retailing in the south of Skyrim... so these activities must disturb him.",
+    "string": "Quiere conservar el monopolio que tiene sobre el comercio y la venta de skooma en el sur de Skyrim... así que esas actividades le causan problemas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest04CCC04",
+    "form_id": "02066510|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Where are located those smugglers? If I decide to accept the job, that is...",
+    "string": "¿Dónde podrían encontrarse esos contrabandistas, exactamente? Si Khajiit decide aceptar este contrato, por supuesto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02066511|AKShadowsOfThePast.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The smugglers are extremely hooked on Skooma themselves, so they're probably no big match. But there will be many of them, so be aware of that. ",
+    "string": "Los contrabandistas son extremadamente adictos al skooma, así que probablemente no sean un gran desafío. Pero serán muchos, así que ten cuidado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest04CCC05",
+    "form_id": "02066512|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You have my attention...",
+    "string": "Las orejas de Khajiit escuchan...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02066513|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "He wants to state an example for future smarty pants trying to get a foot in the door of Skyrims Skooma business.",
+    "string": "Quiere dar un ejemplo para los futuros listillos que intenten abrirse paso en el negocio del skooma de Skyrim.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02066513|AKShadowsOfThePast.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "So with his note he also sent me a bottle of eightfold distilled Skooma... a single drop of it would kill even a mammoth in less than one minute...",
+    "string": "Así que, junto con la nota, también me envió una botella de skooma destilado ocho veces... una sola gota mataría incluso a un mamut en menos de un minuto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest04CCC06",
+    "form_id": "02066514|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Hard stuff, eh?",
+    "string": "¿Una sustancia fuerte, hmm? Khajiit ha visto muchas cosas fuertes con sus ojos. Seguro que esta no es diferente, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02066515|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hehe, yeah. Place the eightfold distilled Skooma in Rode's medicine cabinet... but be careful not to drink it yourself...",
+    "string": "Je, je, sí. Coloca el skooma destilado ocho veces en el botiquín de Rode... pero procura no beberlo tú mismo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest04CCC07",
+    "form_id": "02066516|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Thanks for the advice. Yes, sure, I could drink it by accident...",
+    "string": "Este agradece el consejo, en verdad. Es una tentación... beberlo... por accidente...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02066517|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hehehe... just wanted to warn you. Keep in mind that my client wants Rode dead by the overdose.",
+    "string": "Je, je, je... Solo quería advertirte. Ten presente que mi cliente quiere que Rode muera por una sobredosis.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02066517|AKShadowsOfThePast.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "He uses to sleep day and night to compensate his elevate Skooma consume. As far as I know, he only gets up for his beloved dope...",
+    "string": "Lo usa para dormir todo el día y toda la noche para compensar su elevado consumo de skooma. Hasta donde Khajiit sabe, solo se levanta por su amada droga...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02066517|AKShadowsOfThePast.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "So once you're inside his house, it should be a cakewalk placing the Skooma.",
+    "string": "Así que, una vez dentro de su casa, será muy fácil colocar el skooma.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest04CCC08",
+    "form_id": "02066518|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No. I don't like it being scammed.",
+    "string": "No. A Khajiit no le gusta que algún wafiit de cola corta lo estafe.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest04CCC09",
+    "form_id": "0206651A|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes. Give me the Sovngarde shortcut...",
+    "string": "De acuerdo. Khajiit hará esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0206651B|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hehehe... very good. Here's the special dope. Good luck.",
+    "string": "Je, je, je... Muy bien. Aquí está la droga especial. Buena suerte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02069054|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ahh... where's my Skooma... oh... there it is...",
+    "string": "Ah... ¿dónde está mi skooma? Oh... ahí está...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0206A087|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(glug...glug)",
+    "string": "(bebe) 'glug... glug'",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest04BranchSD01Topic",
+    "form_id": "0206AB6B|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Rode is dead. And he died by the overdose.",
+    "string": "Rode ha muerto por una sobredosis. Es una verdadera desgracia, en verdad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest04SD02",
+    "form_id": "0206AB6D|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What? 10 gold again...?",
+    "string": "(suspira) ¡¿Qué?! ¡¿En serio?! ¡¿Otros míseros 10 septims...!?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest04SD03",
+    "form_id": "0206AB6F|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I do! This time you'll pay...",
+    "string": "¡Así es, en verdad! Es hora de pagar...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0206B0DB|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Again, outstanding work. Now, I... um, I would like to ask you a favor... a personal favor...",
+    "string": "Otra vez, un trabajo excepcional. Ahora yo... umm, me gustaría pedirte un favor... un favor personal...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest0502",
+    "form_id": "02086142|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You are married?",
+    "string": "Estás casado, ¿hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02086143|AKShadowsOfThePast.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "She suddenly started philosophizing about Gods and Daedras and whatever. I never cared of this nonsense.",
+    "string": "De repente empezó a filosofar sobre los dioses, los Daedra y demás. Nunca me importaron esas tonterías.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02086143|AKShadowsOfThePast.esm",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "We separated. I've heard she's is worshipping a Daedric Lord nowadays... Botha or something like that.",
+    "string": "Nos separamos. He oído que ahora adora a un Príncipe Daédrico... Botha o algo así.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest0503",
+    "form_id": "02086144|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You probably mean Boethiah.",
+    "string": "Te refieres a Boethiah, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest0504",
+    "form_id": "02086146|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Where is she? At Boethias shrine?",
+    "string": "¿Dónde está esa Anna, hmm? ¿En la Capilla de Boethiah, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest0505",
+    "form_id": "02086148|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I see. And you want me to do what?",
+    "string": "Khajiit comprende. ¿Qué desea que haga este si encuentra a Anna, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest0506",
+    "form_id": "0208614A|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Pretty rough...",
+    "string": "Esto parece muy severo, ¿no? Seguro que hay una forma menos violenta de resolver sus diferencias, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest0507",
+    "form_id": "0208614C|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ok. I'll check it out.",
+    "string": "Muy bien. Khajiit hará esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0208614D|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Phew... Honestly I expected you would refuse my request this time... Thanks you did not.",
+    "string": "Uf... Sinceramente esperaba que rechazaras mi petición esta vez... Por suerte, no lo hiciste.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest0508",
+    "form_id": "0208614E|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No. Not exactly my thing.",
+    "string": "No. Khajiit no está interesado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest05Anna01Topic",
+    "form_id": "02087711|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm looking for Anna Lelles. And a Shrine of Boethiah...",
+    "string": "Khajiit busca a alguien llamado Anna Lelles y una Capilla de Boethiah...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest05Anna03",
+    "form_id": "02087715|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He wants you dead. Say your last prayer to Dibella!",
+    "string": "Herbert desea verte muerto. ¡Di tu última oración a Dibella!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest05Anna04",
+    "form_id": "02087717|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Well... he wants you dead. I accepted in pretence just to check the situation...",
+    "string": "Bueno... parece que Herbert desea verte muerta, amiga. Khajiit aceptó este contrato solo como pretexto para comprobar la situación...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest05Anna05",
+    "form_id": "02087719|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Calm yourself. I'm not gonna hurt you.",
+    "string": "Cálmate, amiga. Khajiit no te hará daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0208771A|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you. But what we'll do now? What about Herbert?",
+    "string": "Gracias. ¿Pero qué haremos ahora? ¿Y qué hay de Herbert?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest05Anna06",
+    "form_id": "0208771B|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He betrayed me multiple times. Enough is enough...",
+    "string": "Traicionó a Khajiit demasiadas veces, así que ya es suficiente...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest05Anna0201Topic",
+    "form_id": "02087721|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No. He escaped. Any clue where he could hide?",
+    "string": "No. Por desgracia, Herbert escapó y ahora está escondido. Khajiit siente curiosidad por saber si conoces dónde está, amiga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02087722|AKShadowsOfThePast.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Anyway...Here! Take this. It's a treasure map I've found it here in the glade. It's not much, but...",
+    "string": "En fin... ¡Toma esto! Es un mapa del tesoro. Este encontró aquí mismo, en el claro. No es gran cosa, pero...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0208A2CD|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Argggh!",
+    "string": "¡Argh!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest0601Topic",
+    "form_id": "0208A2D2|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Herbert?",
+    "string": "¿Herbert? ¿Eres tú, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest0602",
+    "form_id": "0208A2D4|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Nice beard, Herbert.",
+    "string": "Bonita barba... Herbert.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0208A2D5|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Sigh) Ok, I knew you would have found me sooner or later... So, what now? Will you kill me?",
+    "string": "(suspira) Está bien, ya sabía que tarde o temprano me encontrarías... Entonces, ¿qué ahora? ¿Vas a matarme?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest0603",
+    "form_id": "0208A2D6|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Of course! If I've ever seen someone who deserves death, it's you!",
+    "string": "Así es. Este no ha conocido a nadie más merecedor de semejante destino, ni a alguien cuya desaparición de este mundo complazca más a Khajiit...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0208A2D7|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alright... I'll rip your heart out...!",
+    "string": "Muy bien... ¡Te arrancaré el corazón...!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AKLellesQuest0604",
+    "form_id": "0208A2D8|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No. You're not worth the effort. Just stay away from me.",
+    "string": "Por desgracia, no. No vales el esfuerzo. Pero más te vale mantenerte alejado de Khajiit para siempre, o el próximo \"no\" saldrá de tu boca mientras exhalas tu último aliento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0208A2D9|AKShadowsOfThePast.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "...Um... I... Thanks.",
+    "string": "Mmm... Yo... Gracias.",
+    "status": "TranslationComplete"
+  }
+]

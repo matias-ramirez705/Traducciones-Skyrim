@@ -1,0 +1,227 @@
+[
+  {
+    "editor_id": "mihailfatleech_race",
+    "form_id": "05000802|mihailfatleech.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Horker",
+    "string": "Horker",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailfatleech_AB_fx",
+    "form_id": "05000805|mihailfatleech.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Ghost Visuals",
+    "string": "Efectos visuales de fantasma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailfatleech_spell_fx",
+    "form_id": "0500080A|mihailfatleech.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poison Spray",
+    "string": "Rociada de veneno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailfatleech_AB_fxDUPLICATE001",
+    "form_id": "0500081B|mihailfatleech.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Ghost Visuals",
+    "string": "Efectos visuales de fantasma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailfatleech_disease_effect",
+    "form_id": "0500081E|mihailfatleech.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Reduced Weapon skills",
+    "string": "Habilidades de armas reducidas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailfatleech_disease_effect",
+    "form_id": "0500081E|mihailfatleech.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are <mag>% less effective with melee weapons.",
+    "string": "Eres un <mag>% menos eficaz con las armas cuerpo a cuerpo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailfatleech_AB",
+    "form_id": "05000804|mihailfatleech.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flame Atronach abilities",
+    "string": "Aptitudes del atronach de las llamas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailfatleech_spell_spell",
+    "form_id": "05000809|mihailfatleech.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Vile Vapors",
+    "string": "Vapores viles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailfatleech_ABDUPLICATE001",
+    "form_id": "0500081C|mihailfatleech.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flame Atronach abilities",
+    "string": "Aptitudes del atronach de las llamas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailfatleech_disease",
+    "form_id": "0500081F|mihailfatleech.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Swamp Fever",
+    "string": "Fiebre del pantano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailfatleech_disease",
+    "form_id": "0500081F|mihailfatleech.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Swamp Fever is contracted through contact with the claws or teeth of those creatures that dwell in pestilent swamps. Your weapon skills are reduced by 50%.",
+    "string": "La fiebre del pantano se contrae por contacto con las garras o los dientes de las criaturas que habitan en pantanos pestilentes. Tus habilidades con armas se reducen un 50 %.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailfatleech_nakedskin",
+    "form_id": "05000801|mihailfatleech.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Chaurus",
+    "string": "Cauro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailfatleech_deathitem_loot",
+    "form_id": "05000821|mihailfatleech.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Putrid Blood",
+    "string": "Sangre pútrida",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailfatleech_NPC",
+    "form_id": "05000808|mihailfatleech.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bloedzuiger",
+    "string": "Bloedzuiger",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailfatleech_spell_proj",
+    "form_id": "0500080B|mihailfatleech.esp",
+    "index": 1,
+    "type": "PROJ FULL",
+    "original": "Poison Spray",
+    "string": "Rociada de veneno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SnaplegCave01",
+    "form_id": "00067F2A|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Snapleg Cave",
+    "string": "Cueva Pierna Rota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HagsEnd01",
+    "form_id": "00059398|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Hag's End",
+    "string": "Punta de la Arpía",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000812|mihailfatleech.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000814|mihailfatleech.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000815|mihailfatleech.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000817|mihailfatleech.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000818|mihailfatleech.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000819|mihailfatleech.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081A|mihailfatleech.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailfatleech_voice_act",
+    "form_id": "05000810|mihailfatleech.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Dremora Dialogue",
+    "string": "Diálogo con dremora",
+    "status": "TranslationComplete"
+  }
+]

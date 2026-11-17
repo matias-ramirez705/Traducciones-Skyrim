@@ -1,0 +1,209 @@
+[
+  {
+    "editor_id": "Traits_DisciplinedNeg1",
+    "form_id": "04000017|Biggie Traits.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trait: Disciplined",
+    "string": "Rasgo: Disciplinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Skooma_FortifyUnarmed",
+    "form_id": "05000800|Biggie Traits - Requiem.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Unarmed",
+    "string": "Fortificar Desarmado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Skooma_FortifyUnarmed",
+    "form_id": "05000800|Biggie Traits - Requiem.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Unarmed strikes do <mag> additional damage for <dur> seconds.",
+    "string": "Los golpes desarmados hacen <mag> de daño adicional por <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Skooma_FortifyTwoHanded",
+    "form_id": "05000801|Biggie Traits - Requiem.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Two-Handed",
+    "string": "Fortificar Armas de Dos Manos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Skooma_FortifyTwoHanded",
+    "form_id": "05000801|Biggie Traits - Requiem.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Two-handed weapons deal <mag>% more damage for <dur> seconds.",
+    "string": "Las armas de dos manos infligen <mag>% mas daño por <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Skooma_FortifyOneHanded",
+    "form_id": "05000802|Biggie Traits - Requiem.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify One-Handed",
+    "string": "Fortificar Armas de Una Mano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_Skooma_FortifyOneHanded",
+    "form_id": "05000802|Biggie Traits - Requiem.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "One-handed weapons deal <mag>% more damage for <dur> seconds.",
+    "string": "Las armas de una mano infligen <mag>% mas daño por <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_NoAlcoholBlur",
+    "form_id": "05000806|Biggie Traits - Requiem.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "No Alcohol Blur",
+    "string": "Sin Desenfoque por Alcohol",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MarathonRunnerAb",
+    "form_id": "0400005B|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Marathon Runner",
+    "string": "Corredor de Maratón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_MarathonRunnerAb",
+    "form_id": "0400005B|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You regenerate <5> stamina per second while sprinting. However, you will not be able to gain any stamina while running or standing still.",
+    "string": "Regeneras <5> de resistencia por segundo mientras corres. Sin embargo, no podrás ganar resistencia mientras corras o estés quieto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_UnboundHandsAb",
+    "form_id": "04000D7D|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Unbound Hands",
+    "string": "Manos Desatadas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_UnboundHandsAb",
+    "form_id": "04000D7D|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Handwear constricts you. Spells are <15%> stronger and unarmed attacks do <+30> more damage when not wearing gloves/gauntlets. However, they suffer the opposite effect when wearing gloves/gauntlets.",
+    "string": "El uso de protección en las manos te restringe. Los hechizos son <15%> mas fuertes y los ataques desarmados hacen <+30> mas daño cuando no usas guantes o manoplas. Sin embargo, sufren el efecto opuesto cuando usas guantes o manoplas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GluttonAb",
+    "form_id": "04000D7F|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Glutton",
+    "string": "Glotón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_GluttonAb",
+    "form_id": "04000D7F|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You LOVE food but hate medicine. Food benefits are <25%> stronger but potions have only <50%> their efficiency.",
+    "string": "AMAS la comida pero odias la medicina. Los beneficios de la comida son <25%> mas fuertes pero las pociones tienen solo <50%> de su eficiencia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_FastShotAb",
+    "form_id": "04000D8D|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fast Shot",
+    "string": "Disparo Rápido\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_FastShotAb",
+    "form_id": "04000D8D|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "You'd rather shoot fast than shoot hard. Bows draw <30%> faster, crossbows reload <30%> faster. However, bows and crossbows deal <30%> less damage.",
+    "string": "Prefieres disparar rápido que disparar fuerte. Los arcos se tensan un <30%> más rápido, las ballestas recargan un <30%> más rápido. Sin embargo, los arcos y las ballestas hacen <30%> menos daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_DisciplinedAb",
+    "form_id": "04000D8F|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Disciplined",
+    "string": "Disciplinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_DisciplinedAb",
+    "form_id": "04000D8F|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Shoot to kill. Bows and crossbows deal <20%> more damage. However, they draw/reload <25%> slower.",
+    "string": "Disparar para matar. Los arcos y las ballestas hacen un <20%> más de daño. Sin embargo, se tensan o recargan un <25%> más lento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BulwarkAb",
+    "form_id": "04000D9F|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Bulwark",
+    "string": "Murallas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_BulwarkAb",
+    "form_id": "04000D9F|Biggie Traits.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "When walking or standing still, you gain <200> armor rating and reflect <10%> physical damage. You drain <1> additional stamina per second while sprinting and <0.25> when running.",
+    "string": "Cuando caminas o permaneces quieto, obtienes <200> de armadura y reflejas <10%> del daño físico. Drenas <1> de aguante adicional por segundo al esprintar y <0.25> al correr.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Skooma",
+    "form_id": "00057A7A|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Skooma",
+    "string": "Skooma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "REQ_Food_MeatSkeever",
+    "form_id": "03030D05|Requiem.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Skeever Meat",
+    "string": "Carne de Skeever",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Traits_LifebloomEssence",
+    "form_id": "0400007F|Biggie Traits.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Lifebloom Essence",
+    "string": "Esencia de Flor de Vida ",
+    "status": "TranslationComplete"
+  }
+]

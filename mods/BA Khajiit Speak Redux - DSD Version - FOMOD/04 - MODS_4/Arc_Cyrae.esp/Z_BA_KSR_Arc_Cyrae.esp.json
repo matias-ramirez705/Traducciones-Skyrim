@@ -1,0 +1,1469 @@
+[
+  {
+    "editor_id": "DialogueFollowerContinueFavorState",
+    "form_id": "00026DFF|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes. Let me show you.",
+    "string": "Desde luego. Khajiit te lo mostrará.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101B2C4|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course",
+    "string": "Por supuesto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerFavorStateTopic",
+    "form_id": "00026E0E|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need you to do something.",
+    "string": "<Alias=Player> necesita tu ayuda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C40D|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If there�s no fire involved.",
+    "string": "Siempre que no haya fuego de por medio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerDismissTopic",
+    "form_id": "0005C80C|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's time for us to part ways.",
+    "string": "Por desgracia, ha llegado el momento de separar nuestros caminos, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C40B|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for us to part ways.",
+    "string": "Por desgracia, ha llegado el momento de separar nuestros caminos, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0102CD18|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What? Don�t like me anymore? Just kidding, you know where to find me.",
+    "string": "¿Qué? ¿Ya no te agrado? Es broma, sabes dónde encontrarme.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0102CD18|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for us to part ways.",
+    "string": "Por desgracia, ha llegado el momento de separar nuestros caminos, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101B2C3|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I reckon we�re done here.",
+    "string": "Esto ya terminó, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerTradeTopic",
+    "form_id": "00060020|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need to trade some things with you.",
+    "string": "Khajiit desea intercambiar algunas «cosas» contigo, hmm...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C410|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There�s no weight a strong spriggan couldn�t carry.",
+    "string": "Ni siquiera el Spriggan más fuerte tendría problemas para cargar con este peso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerFollowTopic",
+    "form_id": "00075083|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Follow me.",
+    "string": "Khajiit guiará el camino.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerWaitTopic",
+    "form_id": "00075084|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Wait here.",
+    "string": "Espera aquí, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C40F|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alright. But hurry.",
+    "string": "Está bien. Pero no tardes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFavorGenericFollowBranchTopic",
+    "form_id": "000B0EE6|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Follow me. I need your help.",
+    "string": "Khajiit guiará el camino. Tú síguelo, ¿de acuerdo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000FE6F6|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I already thought you�d never ask.",
+    "string": "Creí que nunca lo pedirías.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeRhunaDialogue01",
+    "form_id": "010165A1|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "And who might you be?",
+    "string": "Y tú, ¿quién podrías ser, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010165A2|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I�m your majordomo, specially designed to take care of daily occurrences and to keep the estate clean and tidy.",
+    "string": "Soy tu mayordomo, diseñado especialmente para ocuparme de los asuntos cotidianos y mantener la propiedad limpia y ordenada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeRhunaDialogue02",
+    "form_id": "010165A3|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So, I�m your master now?",
+    "string": "Así que ahora Khajiit es tu amo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010165A4|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That is correct. I�m at your service",
+    "string": "Así es. Estoy a tu servicio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeFolkvangrQuestDragonborn",
+    "form_id": "0101A6E2|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am the dragonborn.",
+    "string": "<Alias=Player> es el Sangre de Dragón, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A6E3|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Dragonborn? If that�s so why aren�t you hunting these damned fire breathing dragons?",
+    "string": "¿El Sangre de Dragón? Si eso es cierto, ¿por qué no estás cazando a esos malditos dragones que escupen fuego?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeFolkvangrQuestArchmage",
+    "form_id": "0101A6E4|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I�m the archmage of Winterhold.",
+    "string": "<Alias=Player> es el Archimago de Hibernalia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A6E5|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The archmage? Well, if you�re looking for wisdom you came to the wrong place. What are you doing here anyway?",
+    "string": "¿El Archimago? Bueno, si buscas sabiduría, has venido al lugar equivocado. ¿Qué haces aquí, de todos modos?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeFolkvangrQuestHarbinger",
+    "form_id": "0101A6E6|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I�m the harbinger of the companions.",
+    "string": "<Alias=Player> es el Heraldo de los Compañeros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A6E7|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The harbinger? And what�s a fine warrior like you doing in a dark place like this?",
+    "string": "¿El Heraldo? ¿Y qué hace un guerrero tan distinguido como tú en un lugar tan oscuro como este?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeFolkvangrQuestThief",
+    "form_id": "0101A6E8|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I�m the leader of the thieves guild.",
+    "string": "<Alias=Player> es el líder del Gremio de Ladrones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeFolkvangrQuestAssassin",
+    "form_id": "0101A6EA|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I�m the leader of the dark brotherhood.",
+    "string": "<Alias=Player> es el líder de la Hermandad Oscura, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A6EB|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "An assassin? Be warned, if you�re here to kill me I will defend myself and I�m a formidable opponent. What do you want? Speak!",
+    "string": "¿Un asesino? Te advierto que, si has venido a matarme, me defenderé. Y soy un adversario formidable. ¿Qué quieres? ¡Habla!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A6EC|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I�m a Stormcloak warrior.",
+    "string": "<Alias=Player> es un guerrero de los Capas de la Tormenta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A6ED|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "One of Ulfrics lads? Then why are you here in this cave instead of fighting the Imperials?",
+    "string": "¿Uno de los muchachos de Ulfric? Entonces, ¿por qué estás aquí, en esta cueva, en lugar de luchar contra los Imperiales?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A6ED|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I�m a Stormcloak warrior.",
+    "string": "<Alias=Player> es un guerrero de los Capas de la Tormenta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeFolkvangrQuestAdventurer",
+    "form_id": "0101A6EE|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I�m just an adventurer stumbling around in a dark cave.",
+    "string": "<Alias=Player> no es más que un aventurero que anda deambulando por una cueva oscura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeFolkvangrQuestLegion",
+    "form_id": "0101A6F0|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I�m a soldier fighting in the civil war.",
+    "string": "<Alias=Player> es un soldado que lucha en la guerra civil.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A6F1|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Soldiers don�t often wander places like this. What are you doing here?",
+    "string": "Los soldados no suelen andar por lugares como este. ¿Qué haces aquí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeFolkvangrQuestInfo",
+    "form_id": "0101A6F2|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I�m just curious. It seems to me some weird magic is going on here.",
+    "string": "Khajiit siente curiosidad... Parece que aquí se practica alguna magia extraña, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A6F3|Arc_Cyrae.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I think it is their aura that is affecting nature in this cave, but I�m not sure. This effect is stronger the deeper you get into the cave.",
+    "string": "Creo que es su aura lo que está afectando a la naturaleza de esta cueva, aunque no estoy seguro. El efecto se intensifica cuanto más te adentras en ella.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeFolkvangrQuestFuneral",
+    "form_id": "0101A6F6|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Thanks for the warning, I�ll keep my guard up.",
+    "string": "Muchas gracias por la advertencia, amigo. Khajiit mantendrá las garras afiladas y las orejas bien alerta, desde luego.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A6F7|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It�s your funeral.",
+    "string": "Tú te lo pierdes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeSprigganQuestWait",
+    "form_id": "0101A71E|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Looks quite like it. Farewell.",
+    "string": "Así fue, desde luego. Khajiit está acostumbrado a que la gente subestime las habilidades de <Alias.PronounPosObj=Player>. Adiós...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A71F|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wait! Before you go, I�d like to ask something of you.",
+    "string": "¡Espera! Antes de que te vayas, quisiera pedirte algo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeSprigganQuestStory",
+    "form_id": "0101A720|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Go on.",
+    "string": "Las orejas de Khajiit están escuchando...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A721|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As you can maybe imagine I�m not voluntarily hiding in this cave.",
+    "string": "Como podrás imaginar, no estoy escondida en esta cueva por voluntad propia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A721|Arc_Cyrae.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "There�s a spell cast by one of our matrons that binds me to this dark and evil place.",
+    "string": "Una de nuestras matronas lanzó un hechizo que me mantiene atada a este lugar oscuro y maligno.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A721|Arc_Cyrae.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Were it not for this spell, I would�t stay any minute in this cave.",
+    "string": "Si no fuera por ese hechizo, no permanecería ni un minuto más en esta cueva.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeSprigganQuestStory02",
+    "form_id": "0101A722|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why would a matron banish you? Aren�t you allies?",
+    "string": "¿Por qué te desterraría una matrona, hmm? Son aliadas, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A723|Arc_Cyrae.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "She didn�t like that. Now I�m stuck here, guarding nothing but cold, lifeless rocks.",
+    "string": "No le gustó aquello. Ahora estoy atrapada aquí, vigilando nada más que rocas frías y sin vida.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeSprigganQuestQuestion",
+    "form_id": "0101A724|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "And why are you telling me this?",
+    "string": "¿Y por qué le cuentas esto a Khajiit, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A725|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, as soon as this matron finds her death, I will be free. I know, you civilized people aren�t exactly fond of us spriggans.",
+    "string": "Bueno, en cuanto esta matrona encuentre la muerte, seré libre. Lo sé, ustedes, los pueblos civilizados, no sienten precisamente mucho aprecio por los Spriggans.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A725|Arc_Cyrae.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Ah, I know it�s a silly question. Forget I ever asked. Who would help a spriggan anyway?",
+    "string": "Ah, sé que es una pregunta tonta. Olvida que la hice. Después de todo, ¿quién ayudaría a una Spriggan?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeSprigganQuestAgree01",
+    "form_id": "0101A726|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I certainly would. Just mark your clearing on my map and I�ll be on my way.",
+    "string": "Este Khajiit lo hará, amigo. Solo marca tu claro en este mapa y Khajiit se encargará, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A727|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you serious? Oh my, I�m glad to hear that. I never thought I�d meet a friend of spriggans in this cave.",
+    "string": "¿Hablas en serio? ¡Vaya, me alegra mucho oír eso! Nunca imaginé que encontraría a un amigo de los Spriggans en esta cueva.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A727|Arc_Cyrae.esp",
+    "index": 2,
+    "type": "INFO RNAM",
+    "original": "I certainly would. Just mark your clearing on my map and I�ll be on my way.",
+    "string": "Este Khajiit lo hará, amigo. Solo marca tu claro en este mapa y Khajiit se encargará, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeSprigganQuestRefuse",
+    "form_id": "0101A728|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You�re right. I�m not exactly fond of spriggans. Goodbye.",
+    "string": "Tienes razón, desde luego. Khajiit no siente demasiado aprecio por los Spriggans. Entonces, adiós...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A729|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You�re right. I�m not exactly fond of spriggans. Goodbye.",
+    "string": "Tienes razón, desde luego. Khajiit no siente demasiado aprecio por los Spriggans. Entonces, adiós...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeSprigganQuestComeBackBranchTopic",
+    "form_id": "0101A72B|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You know what, I�ve changed my mind. Where can I find this matron?",
+    "string": "Ahora que lo pienso, Khajiit se encargará de esto. ¿Dónde puede encontrar <Alias=Player> a esa matrona exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A72C|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you serious? Oh my, I�m glad to hear that. Good fortune to you and my deepest gratitude.",
+    "string": "¿Hablas en serio? ¡Vaya, me alegra mucho oír eso! Que la fortuna te acompañe y recibe mi más profundo agradecimiento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A72C|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "You know what, I have changed my mind. I will help you.",
+    "string": "Ahora que lo pienso, Khajiit se encargará de esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeSprigganQuestFinish",
+    "form_id": "0101A730|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "She is. You should be free now.",
+    "string": "Desde luego. Ya deberías ser libre, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A731|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, thank you, thank you so much. You can�t possibly imagine how stiffling dark caves like these are for us spriggans. ",
+    "string": "¡Oh, gracias, muchísimas gracias! No puedes imaginar lo asfixiantes que son para nosotros los Spriggans las cuevas oscuras como esta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A731|Arc_Cyrae.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Here, take this. It�s not much, but it may help you on your adventures.",
+    "string": "Toma, quédate con esto. No es gran cosa, pero quizá te sirva en tus aventuras.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A731|Arc_Cyrae.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Should you ever need the help of a spriggan, I�d be glad to assist you. Just find me at the clearing.",
+    "string": "Si alguna vez necesitas la ayuda de una Spriggan, estaré encantada de ayudarte. Solo búscame en el claro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeSprigganQuestInviteBranchTopic",
+    "form_id": "0101A737|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How do you like it in the woods of Falkreath?",
+    "string": "¿Disfrutas de los bosques de Falkreath, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A738|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, it�s wonderful, really! I couldn�t be happier now that I have my clearing back. Thanks again.",
+    "string": "¡Oh, son maravillosos, de verdad! No podría estar más feliz ahora que he recuperado mi claro. Gracias de nuevo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeSprigganQuestInviteContinue01",
+    "form_id": "0101A739|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That didn�t sound as convincing as it should.",
+    "string": "Khajiit no está convencido de que seas feliz, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A73A|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, you know, It�s not that I don�t like it here in the woods. I�m a spriggan after all.",
+    "string": "Bueno, ya sabes, no es que no me gusten estos bosques. Después de todo, soy una Spriggan.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A73A|Arc_Cyrae.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "It�s a hard thing to describe. But where else am I supposed to live?",
+    "string": "Es algo difícil de explicar. Pero ¿dónde más se supone que voy a vivir?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeSprigganQuestInviteContinue02",
+    "form_id": "0101A73B|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You could come to Rhuna estate.",
+    "string": "¿Quizá podrías unirte a este Khajiit en la propiedad Rhuna?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A73C|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A nice place in the aspen woods of the Rift? Oh, that would be wonderful. You certainly don�t have to ask me twice, I�ll move there immediately.",
+    "string": "¿Un lugar agradable en los bosques de álamos de la Cuenca? Oh, sería maravilloso. No tendrás que pedírmelo dos veces. Me mudaré allí de inmediato.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeSprigganQuestInviteRefuse01",
+    "form_id": "0101A73D|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You�re welcome.",
+    "string": "Eres más que bienvenido, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeSprigganQuestInviteRefuse02",
+    "form_id": "0101A73F|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I�m sorry, can�t help you this time.",
+    "string": "Khajiit no tiene tiempo para esto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101A740|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don�t worry. You have already done so much for me.",
+    "string": "No te preocupes. Ya has hecho muchísimo por mí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101B2B9|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course",
+    "string": "Por supuesto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeRhunaDialogueInfoTopic",
+    "form_id": "0101BE37|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What can you tell me about Rhuna estate?",
+    "string": "Cuéntale a Khajiit sobre la propiedad Rhuna, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101BE38|Arc_Cyrae.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Its constructor, the dwarven magician Rhuna, built the estate to escape the dark and depressive underground dwarven cities.",
+    "string": "Su constructor, el mago enano Rhuna, edificó la propiedad para escapar de las oscuras y deprimentes ciudades subterráneas de los enanos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101BE38|Arc_Cyrae.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "Back in the old days there were multiple spheres and centurions defending it, but I am afraid by now I�m the only one left.",
+    "string": "En los viejos tiempos había varias esferas y centuriones que la defendían, pero me temo que ahora soy la única que queda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101BE38|Arc_Cyrae.esp",
+    "index": 7,
+    "type": "INFO RNAM",
+    "original": "What can you tell me about Rhuna estate?",
+    "string": "Cuéntale a Khajiit sobre la propiedad Rhuna, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101BE40|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alright then.",
+    "string": "Muy bien, entonces.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101BE45|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You shouldn�t have messed with a spriggan.",
+    "string": "No debiste meterte con una Spriggan.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101BE49|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If there�s no fire involved.",
+    "string": "Siempre que no haya fuego de por medio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101BE4E|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thanks again for getting me out of Folkvangr, I�ll never forget that.",
+    "string": "Gracias de nuevo por sacarme de Folkvangr. Nunca lo olvidaré.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101BE4F|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I was once asked if we spriggans could talk to animals. What a stupid question. Nobody can talk to animals because animals simply can�t talk.",
+    "string": "Una vez me preguntaron si los Spriggans podíamos hablar con los animales. Qué pregunta tan estúpida. Nadie puede hablar con los animales porque los animales sencillamente no pueden hablar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101BE52|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No artist can ever hope to compete with the beauty of untouched nature, wouldn�t you agree?",
+    "string": "Ningún artista puede aspirar a competir con la belleza de la naturaleza intacta, ¿no estás de acuerdo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101BE53|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If enemies try to sneak up on us, I�ll sense them. We spriggans are as aware of our surroundings as only few other creatures.",
+    "string": "Si los enemigos intentan acercarse sigilosamente, los sentiré. Los Spriggans somos más conscientes de nuestro entorno que casi cualquier otra criatura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestPleasedtoMeet",
+    "form_id": "0101C9D2|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Exactly. I�m <Alias=Player>.",
+    "string": "Desde luego. Este Khajiit es <Alias=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9D3|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I�m Arvyel, pleased to meet you.",
+    "string": "Soy Arvyel, encantado de conocerte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestallMine",
+    "form_id": "0101C9D4|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The pleasure is all mine.",
+    "string": "Khajiit se siente honrado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9D5|Arc_Cyrae.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I�m glad to see that they�re not the only inhabitants of this beautiful land.",
+    "string": "Me alegra ver que no son los únicos habitantes de esta hermosa tierra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestbigmajority",
+    "form_id": "0101C9D6|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "But they�re a big majority.",
+    "string": "Pero son una gran mayoría, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9D7|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I feared that. Back home in Valenwood everyone told me to stay. What do you want in Skyrim? they said, You�ll just get yourself killed.",
+    "string": "Me lo temía. En casa, en Bosque Valen, todos me decían que me quedara. «¿Qué quieres hacer en Skyrim?», preguntaban. «Solo conseguirás que te maten».",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestnotthatbad",
+    "form_id": "0101C9D8|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Skyrims people are not that bad once you get to know them.",
+    "string": "La gente de Skyrim no es tan mala cuando llegas a conocerla... y sus prejuicios... y sus pieles afeitadas... y...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9D9|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I�ve already guessed that. You know, what really divides the Nord from let�s say the Imperials, they always tell you what they think.",
+    "string": "Ya me lo imaginaba. Sabes, lo que realmente distingue a un Nórdico de, digamos, un Imperial, es que siempre te dicen lo que piensan.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9D9|Arc_Cyrae.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "And if they don�t like your face they smash it in. Simple as that. No whispering behind your back and stabbing in the darkness.",
+    "string": "Y si no les gusta tu cara, te la aplastan. Así de sencillo. Nada de susurrar a tus espaldas ni de apuñalarte en la oscuridad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestwhynot",
+    "form_id": "0101C9DA|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Well, why didn�t you?",
+    "string": "Khajiit siente curiosidad... ¿Por qué no hiciste lo mismo, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9DB|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You�re kidding, right? Look at the world we are living in. All the secrets that lie hidden just waiting to be discovered.",
+    "string": "Estás bromeando, ¿verdad? Mira el mundo en el que vivimos. Todos esos secretos ocultos, esperando a que alguien los descubra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9DB|Arc_Cyrae.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "And there�s no better place for that than Skyrim, right?",
+    "string": "Y no hay mejor lugar para eso que Skyrim, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestadventurecall",
+    "form_id": "0101C9DC|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "True Nord honesty. So, what brings a young Bosmer to Skyrim?",
+    "string": "La sinceridad de los Nórdicos... Entonces, ¿qué trae exactamente a un joven Bosmer a Skyrim?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9DD|Arc_Cyrae.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Go and see what it holds for you. Go as long as you�re still young and able to hold a sword. And so I travelled north, until I came to Skyrim.",
+    "string": "Ve y descubre lo que te espera. Hazlo mientras aún seas joven y puedas empuñar una espada. Y así viajé hacia el norte, hasta llegar a Skyrim.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestofcoursetheydo",
+    "form_id": "0101C9DE|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Some might say so.",
+    "string": "Algunos dirían que sí, desde luego.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9DF|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sure they do. And they�re right. I mean just look at this incredible Dwemer tower. Who even knows what secrets lie within? And what dangers?",
+    "string": "Claro que sí. Y tienen razón. ¡Solo mira esta increíble torre Dwemer! ¿Quién sabe qué secretos se esconden en su interior? ¿Y qué peligros?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9DF|Arc_Cyrae.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "You know, I could use a companion. You�re in?",
+    "string": "Sabes, me vendría bien un compañero. ¿Te apuntas?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestready01",
+    "form_id": "0101C9E0|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dangers? Adventures? Treasures? Of course I�m in.",
+    "string": "¿Peligros, hmm? ¿Aventuras, sí? ¿Montones de tesoros relucientes, quizá? ¡Khajiit acepta, desde luego!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9E1|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wonderful. Let�s go.",
+    "string": "Maravilloso. Vamos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestnotready01",
+    "form_id": "0101C9E2|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sorry, not right now.",
+    "string": "<Alias=Player> no tiene tiempo en este momento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9E3|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alright then.",
+    "string": "Muy bien, entonces.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestStage05BranchTopic",
+    "form_id": "0101C9E5|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Alright, I�m ready.",
+    "string": "Desde luego, este Khajiit está preparado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9E6|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wonderful. Let�s go.",
+    "string": "Maravilloso. Vamos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestIngotFoundBranchTopic",
+    "form_id": "0101C9E8|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Look at that strange ingot I found.",
+    "string": "Este lingote es extraño, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9E9|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hm, interesting. You know what, that might be a piece of voidsteel.",
+    "string": "Hmm, interesante. ¿Sabes qué? Podría ser un fragmento de acero del vacío.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestwhat",
+    "form_id": "0101C9EA|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "A piece of what exactly?",
+    "string": "¿Un fragmento de qué, exactamente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9EB|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Voidsteel. It�s a kind of metal that appears in some ancient legends about the Dwemer, especially about those inhabiting the Arc Cyrae.",
+    "string": "Acero del vacío. Es una clase de metal que aparece en algunas leyendas antiguas sobre los Dwemer, especialmente las relacionadas con quienes habitaban en Arc Cyrae.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9EB|Arc_Cyrae.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "It�s said that the whole city has been built solely for the purpose of finding a way into the Void.",
+    "string": "Se dice que toda la ciudad fue construida únicamente con el propósito de encontrar una forma de entrar en el Vacío.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9EB|Arc_Cyrae.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Most people think it�s gibberish and just some myth, but this ingot looks exactly like voidsteel if we follow the descriptions in the old legends.",
+    "string": "La mayoría cree que son tonterías y que solo se trata de un mito, pero este lingote coincide exactamente con las descripciones del acero del vacío en las antiguas leyendas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9EB|Arc_Cyrae.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "Maybe there�s more to it after all.",
+    "string": "Quizá después de todo haya algo de verdad en ellas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestwhattodo",
+    "form_id": "0101C9EC|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So, what are we supposed to do with it?",
+    "string": "Entonces, ¿qué deberíamos hacer con él, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9ED|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I think that�s up to us. You could try to forge a weapon out of it. Or we could use it to find a way into the Void.",
+    "string": "Creo que eso depende de nosotros. Podrías intentar forjar un arma con él. O podríamos usarlo para encontrar una forma de entrar en el Vacío.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9ED|Arc_Cyrae.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The legends say, that after the Dwemer reached the void, they sealed the entrance and made it so, that it could only be opened by a specific key.",
+    "string": "Las leyendas dicen que, después de que los Dwemer alcanzaran el Vacío, sellaron la entrada e hicieron que solo pudiera abrirse con una llave específica.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9ED|Arc_Cyrae.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "To forge this key, three ingots of voidsteel would be needed. If that�s true and this is actual voidsteel, we just need two more ingots.",
+    "string": "Para forjar esa llave harían falta tres lingotes de acero del vacío. Si eso es cierto y este lingote realmente está hecho de ese metal, solo necesitamos dos más.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestwheretolook",
+    "form_id": "0101C9EE|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Any idea where to find them?",
+    "string": "¿Tienes alguna idea de dónde encontrarlos, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9EF|Arc_Cyrae.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Maybe it�s in the Arc Cyrae as well. Maybe not, I don�t know. But we should keep looking.",
+    "string": "Tal vez también estén en Arc Cyrae. O quizá no, no lo sé. Pero deberíamos seguir buscando.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuesthaveKeyBranchTopic",
+    "form_id": "0101C9F1|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the key. What now?",
+    "string": "<Alias=Player> tiene la llave. ¿Y ahora qué, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9F2|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I�d say we enter the Void now. See what�s inside. Are you ready?",
+    "string": "Yo diría que entremos al Vacío. Veamos qué hay dentro. ¿Estás listo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestready02",
+    "form_id": "0101C9F3|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I am. Let�s go.",
+    "string": "Desde luego que sí. Adelante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestnotready02",
+    "form_id": "0101C9F5|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Give me a moment.",
+    "string": "Khajiit necesita un momento...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9F6|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hurry",
+    "string": "¡Apresúrate!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9F9|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Now that�s what I call an adventure. Did you see how that dragon charged at us? I already thought we were done for.",
+    "string": "¡Ahora sí que esto es lo que llamo una aventura! ¿Viste cómo ese dragón se lanzó contra nosotros? Creí que estábamos perdidos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9F9|Arc_Cyrae.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Luckily we came out on top. I don�t know what I would have done if had to face that beast all on my own.",
+    "string": "Por suerte salimos victoriosos. No sé qué habría hecho si hubiera tenido que enfrentarme a esa bestia completamente solo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestdonow",
+    "form_id": "0101C9FA|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What will you do now?",
+    "string": "¿Qué harás ahora, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9FB|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I�m not sure yet. Maybe rest a little before the next adventure. Or maybe I�ll stumble right into it as soon as I turn around the next corner.",
+    "string": "Todavía no estoy seguro. Quizá descanse un poco antes de la próxima aventura. O tal vez me encuentre con una nada más doblar la siguiente esquina.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9FB|Arc_Cyrae.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Who knows? Of course if you want me to accompany you on your journeys just ask. I�d be glad to travel with you.",
+    "string": "¿Quién sabe? Por supuesto, si quieres que te acompañe en tus viajes, solo tienes que pedírmelo. Estaré encantado de viajar contigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestInviteBranchTopic",
+    "form_id": "0101C9FD|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How do you like it in Skyrim?",
+    "string": "¿Disfrutas de Skyrim, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101C9FE|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, I like it very much. The people as well as the land itself are quite rough, but for me it�s just that what makes Skyrim so amazing.",
+    "string": "Oh, me gusta mucho. Tanto la gente como la propia tierra son bastante ásperas, pero precisamente eso es lo que hace que Skyrim sea tan extraordinaria para mí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestwarmplace",
+    "form_id": "0101C9FF|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Don�t you have a warm place to stay?",
+    "string": "¿No tienes un lugar cálido donde quedarte, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101CA00|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sadly, I don�t. I came to Skyrim with nothing else than the clothes on my body, the sword on my side and a passion for adventure in my head.",
+    "string": "Por desgracia, no. Llegué a Skyrim sin nada más que la ropa que llevo puesta, la espada que cuelga de mi costado y una pasión por la aventura en la cabeza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101CA00|Arc_Cyrae.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "And the innkeepers don�t exactly like people with pointy ears like me.",
+    "string": "Y a los posaderos no les agradan precisamente los que tenemos las orejas puntiagudas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101CA00|Arc_Cyrae.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I tell you, they charge me twice the sum for a warm soup than they charge anyone else. Always given that they don�t refuse to serve me at all.",
+    "string": "Te lo aseguro: me cobran el doble por una sopa caliente que a cualquier otra persona. Eso, cuando no se niegan directamente a atenderme.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestInviterefuse",
+    "form_id": "0101CA01|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I�m sorry for you.",
+    "string": "Es una verdadera desgracia, desde luego.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101CA02|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don�t worry about me. In the end, I have always managed to get by.",
+    "string": "No te preocupes por mí. Al final, siempre he conseguido arreglármelas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestInviteAgree",
+    "form_id": "0101CA03|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You could live with me at Rhuna Estate.",
+    "string": "¿Quizá podrías unirte a este Khajiit en la propiedad Rhuna?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101CA04|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Really? That would be great! You know what, I�ll move there immediately. Thanks for your kindness, I really appreciate it.",
+    "string": "¿De verdad? ¡Sería fantástico! ¿Sabes qué? Me mudaré allí de inmediato. Gracias por tu amabilidad, de verdad lo aprecio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestDragon02",
+    "form_id": "0101CFBF|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Good day to you as well.",
+    "string": "Lunas radiantes, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestDragon03",
+    "form_id": "0101CFC1|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I�m not sure yet. What is this place?",
+    "string": "Khajiit no está seguro. ¿Qué es exactamente este lugar?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101CFC2|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We dov call this place the Nil - the void. It is a space far from any of the other worlds, far from time and far from any form of life.",
+    "string": "Los Dov llamamos a este lugar el Nil, el Vacío. Es un espacio alejado de todos los demás mundos, lejos del tiempo y de cualquier forma de vida.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestDragon04",
+    "form_id": "0101CFC3|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened to this Dwemer?",
+    "string": "¿Qué le ocurrió exactamente a este Dwemer? ¡Khajiit necesita saberlo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101CFC4|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "He was a mey - a fool to come here into the void. But he was an even greater to fool to believe he could withstand the wrath of a dovah.",
+    "string": "Era un mey, un necio por venir aquí, al Vacío. Pero fue aún más necio al creer que podría soportar la ira de un dovah.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestDragon05",
+    "form_id": "0101CFC5|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What could a mighty dovah need from a mortal?",
+    "string": "¿Qué podría necesitar un poderoso dovah de un simple mortal, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101CFC6|Arc_Cyrae.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "A portal leading back to Keizaal, the true dominion of the dov.",
+    "string": "Un portal que conduzca de vuelta a Keizaal, el verdadero dominio de los Dov.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestDragon06",
+    "form_id": "0101CFC7|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don�t see any portal.",
+    "string": "Los ojos de Khajiit no ven ningún portal...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AAAArcCyraeArvyelQuestDragonEnd",
+    "form_id": "0101CFC9|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Mortal or immortal, I know no master.",
+    "string": "Mortal o inmortal, ¡Khajiit no es esclavo de ningún amo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101D589|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let�s go.",
+    "string": "Vamos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101D589|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I am ready to enter the Void.",
+    "string": "Khajiit está preparado para entrar en el Vacío.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101E6C2|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alright then.",
+    "string": "Muy bien, entonces.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101E6CB|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Now that we have defeated a dragon we might think about some titles that truly honour our deeds. Arvyel the dragoncrusher, how does that sound?",
+    "string": "Ahora que hemos derrotado a un dragón, quizá deberíamos pensar en algunos títulos que realmente hagan honor a nuestras hazañas. Arvyel, el Quebrantadragones. ¿Qué te parece?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101E6CC|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you think there will be a war between the Thalmor and the empire? Ulfrics rebellion has surely weakened the imperials.",
+    "string": "¿Crees que habrá una guerra entre los Thalmor y el Imperio? La rebelión de Ulfric seguramente ha debilitado a los Imperiales.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101E6D3|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Pointy ears, round ears, once the light is out they�re all the same.",
+    "string": "Orejas puntiagudas, orejas redondas... Cuando se apaga la luz, todos son iguales.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101E6D1|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I�ve had enough of you!",
+    "string": "¡Ya tuve suficiente de ti!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101F242|Arc_Cyrae.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "It was built above ground, unlike all the other dwarven cities, in order to study something the old legends call the Void.",
+    "string": "Fue construida sobre la superficie, a diferencia de todas las demás ciudades enanas, con el propósito de estudiar algo que las antiguas leyendas llaman el Vacío.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101F242|Arc_Cyrae.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Don�t ask me what that might be, but as far as my experience with the Dwemer goes it�s probably something really powerful and really dangerous.",
+    "string": "No me preguntes qué podría ser, pero, por lo que sé de los Dwemer, probablemente sea algo muy poderoso y muy peligroso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101F242|Arc_Cyrae.esp",
+    "index": 4,
+    "type": "INFO RNAM",
+    "original": "What do you know about the Arc Cyrae?",
+    "string": "¿Qué sabes sobre Arc Cyrae, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101FDCC|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I would like to change the flag.",
+    "string": "Khajiit desea cambiar la bandera.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101FDE3|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I would like to change the laboratory�s theme.",
+    "string": "Khajiit desea cambiar el tema del laboratorio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01020429|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I would like to change the busts in the dormitory.",
+    "string": "Khajiit desea cambiar los bustos del dormitorio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01020432|Arc_Cyrae.esp",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "I would like to change the living room�s theme.",
+    "string": "Khajiit desea cambiar el tema de la sala de estar.",
+    "status": "TranslationComplete"
+  }
+]

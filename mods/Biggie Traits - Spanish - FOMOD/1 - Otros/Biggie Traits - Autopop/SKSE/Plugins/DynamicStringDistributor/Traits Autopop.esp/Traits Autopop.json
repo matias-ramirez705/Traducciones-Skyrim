@@ -1,0 +1,11 @@
+[
+  {
+    "editor_id": "Traits_AutopopQuest",
+    "form_id": "06000001|Traits Autopop.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Auto displays the Traits selection menu",
+    "string": "Auto muestra el menú de selección de rasgos.",
+    "status": "TranslationComplete"
+  }
+]

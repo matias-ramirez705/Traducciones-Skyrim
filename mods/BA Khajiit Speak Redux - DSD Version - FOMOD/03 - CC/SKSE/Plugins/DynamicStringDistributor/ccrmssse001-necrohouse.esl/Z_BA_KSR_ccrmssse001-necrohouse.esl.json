@@ -1,0 +1,128 @@
+[
+  {
+    "editor_id": "ccRMSSSE001_AltarVaerminaMsg",
+    "form_id": "05000BD0|ccrmssse001-necrohouse.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Bendición de Vaermina añadida",
+    "string": "Se ha añadido la Bendición de Vaermina...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccRMSSSE001_SoulGemConverterAltar",
+    "form_id": "05000B72|ccrmssse001-necrohouse.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Tienes que colocar una gema de alma superior o una gran gema de alma en cada soporte antes de realizar el ritual.",
+    "string": "Se requiere una Gema de Alma Superior o una Gema de Alma Grandiosa para ser colocada en cada soporte antes de realizar el ritual.  \r\n\r\n¿Es como si esta fuera la primera vez que esto le ocurre a un Khajiit, hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccRMSSSE001_SoulGemConverterAltar",
+    "form_id": "05000B72|ccrmssse001-necrohouse.esl",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Altar de la luna de los aparecidos",
+    "string": "Altar de la Luna del Renacido  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccRMSSSE001_SoulGemPromptBox",
+    "form_id": "05000A97|ccrmssse001-necrohouse.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "En el soporte se pueden colocar gemas de alma superiores o grandes gemas de alma.",
+    "string": "Gemas de Alma Superiores o Grandes pueden colocarse en el soporte.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccRMSSSE001_SoulGemPromptBox",
+    "form_id": "05000A97|ccrmssse001-necrohouse.esl",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Soporte para gemas de alma",
+    "string": "Soporte de Gema de Alma  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccRMSSSE001_BoneForgeNoIngredients",
+    "form_id": "05000D73|ccrmssse001-necrohouse.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No hay nada en la Fragua de huesos.",
+    "string": "No hay nada colocado en la Forja de Hueso...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccRMSSSE001_BoneForgeNoItemSoulHusk",
+    "form_id": "05000D76|ccrmssse001-necrohouse.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No tienes cascarones de alma.",
+    "string": "Se requieren cáscaras de alma para esto. Esto se sabe.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccRMSSSE001_BoneForgeNoItemBoneMeal",
+    "form_id": "05000D77|ccrmssse001-necrohouse.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No tienes polvo de huesos.",
+    "string": "Es sabio tener un poco de polvo de hueso primero, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccRMSSSE001_BoneForgeNoItemSoulGem",
+    "form_id": "05000D78|ccrmssse001-necrohouse.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No tienes gemas de alma superiores llenas.",
+    "string": "Quizás una gema de alma superior llena sea lo correcto, ¿sí?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccRMSSSE001_BoneForgeNoItemFrostSalts",
+    "form_id": "05000D79|ccrmssse001-necrohouse.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No tienes sales de escarcha.",
+    "string": "Claramente, se requieren sales de escarcha, ¿hmm?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccRMSSSE001_BoneForgeNoItemHelmet",
+    "form_id": "05000D7A|ccrmssse001-necrohouse.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "No tienes ningún yelmo nórdico antiguo.",
+    "string": "Se necesita un Yelmo Nórdico Antiguo.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccRMSSSE001_SoulGemPromptBoxQUEST",
+    "form_id": "05000D11|ccrmssse001-necrohouse.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "En el soporte se pueden colocar gemas de alma superiores o grandes gemas de alma.",
+    "string": "Gemas de Alma Superiores o Grandes pueden colocarse en el soporte.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccRMSSSE001_SoulGemPromptBoxQUEST",
+    "form_id": "05000D11|ccrmssse001-necrohouse.esl",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Soporte para gemas de alma",
+    "string": "Soporte de Gema de Alma  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccRMSSSE001_HolderFilled",
+    "form_id": "05000A32|ccrmssse001-necrohouse.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Ya hay colocada una gema de alma.",
+    "string": "¡Ya se ha colocado una Gema de Alma aquí, gato tonto!  ",
+    "status": "TranslationComplete"
+  }
+]

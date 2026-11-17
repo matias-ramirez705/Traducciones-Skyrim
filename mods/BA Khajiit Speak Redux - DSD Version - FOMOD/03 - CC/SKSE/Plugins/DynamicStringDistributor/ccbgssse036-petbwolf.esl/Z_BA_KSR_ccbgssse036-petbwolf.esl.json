@@ -1,0 +1,11 @@
+[
+  {
+    "editor_id": "ccBGSSSE036_BoneWolfGivePlayerItemMsg",
+    "form_id": "0500085D|ccbgssse036-petbwolf.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Lobo de hueso ha encontrado algo tuyo.",
+    "string": "¡El Lobo de Hueso ha encontrado algo!",
+    "status": "TranslationComplete"
+  }
+]

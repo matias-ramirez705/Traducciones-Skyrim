@@ -1,0 +1,245 @@
+[
+  {
+    "editor_id": "manny_up_ri_t1",
+    "form_id": "0300182A|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've retrieved your <Alias=ItemDisplay> from <Alias=Place>.",
+    "string": "<Alias=Player> ha recuperado tu <Alias=ItemDisplay> de <Alias=Place>, ¿sí? Khajiit siente curiosidad por saber por qué estas cosas siempre requieren tanto esfuerzo para ser devueltas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_ci_t1",
+    "form_id": "03002306|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have gathered <Global=manny_up_ci_count> <Alias=Ingredient> for you.",
+    "string": "<Alias=Player> ha reunido <Global=manny_up_ci_count> <Alias=Ingredient>, tal como pediste. Ahora Khajiit solicita septims relucientes a cambio, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_ci_bm_t1",
+    "form_id": "030038AD|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have collected the <Global=manny_up_ci_bm_count> <Alias=OreItem> for you.",
+    "string": "Khajiit ha extraído <Global=manny_up_ci_bm_count> <Alias=OreItem> que pediste. Un trabajo sucio, desde luego. Este Khajiit hasta podría emocionarse por la próxima guarida de arañas después de esto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_cb_t1",
+    "form_id": "030048F8|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have all of the books you asked for.",
+    "string": "Eran libros lo que buscabas, ¿verdad? Khajiit los trae tal como pediste, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_di_t1",
+    "form_id": "03005E8D|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the missive.",
+    "string": "Khajiit viene por el mensaje.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_di_t2",
+    "form_id": "03005E91|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Here's a missive from <Alias=Sender>.",
+    "string": "<Alias=Sender> envió a Khajiit con este mensaje...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_cp_t1",
+    "form_id": "03006960|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here with the pelts you asked for.",
+    "string": "Khajiit llega con las pieles que solicitaste. Tus ojos se alegran de ver a este felino, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_as_t",
+    "form_id": "030079C4|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the armor you've requested.",
+    "string": "Aquí está la armadura que pediste. ¿Dónde debe recoger Khajiit la merecida recompensa de <Alias.PronounPosObj=Player>, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_rp_b_rescue_t",
+    "form_id": "030089F3|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you alright? I came to save you.",
+    "string": "Estás bien, ¿hmm? <Alias=Player> ha venido a rescatarte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_rp_b_reward_t",
+    "form_id": "030089F7|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've saved <Alias.ShortName=Prisoner> from <Alias=PrisonerLocation>.",
+    "string": "Este Khajiit ha salvado a <Alias.ShortName=Prisoner> de <Alias=PrisonerLocation>, ¿sí? ¡Un trabajo de superhéroe merece un pago de superhéroe!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_bb_t",
+    "form_id": "030089FC|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The bandit leader at <Alias=BountyLocation> is dead. I'm here for the bounty.",
+    "string": "El líder bandido de <Alias=BountyLocation> está tan muerto como un Draugr, ¿sí? Aunque la recompensa será muy bienvenida, a Khajiit le interesa más saber cómo alguien con semejante personalidad consigue atraer a tantos seguidores, hmm...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_bf_t",
+    "form_id": "0300AFFE|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The leader of <Alias=BountyLocation> is dead. I'm here for the bounty.",
+    "string": "El líder de <Alias=BountyLocation> ya está muerto, amigos. Ahora, ¿a quién debe convencer Khajiit por aquí para recibir su recompensa, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_bg_t",
+    "form_id": "0300B005|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The giant at <Alias=BountyLocation> is dead. I'm here for the bounty.",
+    "string": "El Gigante de <Alias=BountyLocation> ya no existe. Khajiit necesita dos cosas: la reluciente recompensa y alguien que compre este apestoso dedo del pie.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_bd_t",
+    "form_id": "0300B00A|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The dragon at <Alias=BountyLocation> is dead. I'm here for the bounty.",
+    "string": "El dragón de <Alias=BountyLocation> está muerto... por fin. ¡Este Khajiit sigue asombrándose de la resistencia interminable que poseen!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_dt_t1",
+    "form_id": "0300CB36|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have recovered all the three Dwemer cubes for you.",
+    "string": "Este Khajiit ha recuperado los tres cubos Dwemer para ti, arriesgando mucho en el proceso, amigo. Quizá corresponda una bonificación, hmm.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_adventurer_t1",
+    "form_id": "03013CD0|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Where are you going? Can I help you?",
+    "string": "¿Adónde te diriges, amigo? Khajiit desea ayudar, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_adventurer_t3",
+    "form_id": "03014237|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It was a pleasure... And fun.",
+    "string": "Ha sido un placer, amigo. Oh, y también divertido... Pero, sobre todo, un placer, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_adventurer_t1a",
+    "form_id": "0301783B|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ok, lead on.",
+    "string": "Khajiit te seguirá.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_adventurer_t1b",
+    "form_id": "0301783D|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Ok, follow me.",
+    "string": "Muy bien, amigo. Sigue a este Khajiit, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_sb_t",
+    "form_id": "03017DB1|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The beast at <Alias=BountyLocation> is dead. I'm here for the bounty.",
+    "string": "La bestia de <Alias=BountyLocation> está realmente muerta, amigo. Khajiit viene por la recompensa... y también busca a alguien que compre todos estos dientes...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_ec_t1",
+    "form_id": "0301831D|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Now you come with me!",
+    "string": "¡Ahora, ven con Khajiit!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_ec_t2prison",
+    "form_id": "0301888B|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This is the escaped criminal you were looking for.",
+    "string": "Este es el criminal fugado que buscabas, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_ec_t3reward",
+    "form_id": "0301888D|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The escaped criminal is now back in his jail again. I'm here for the reward",
+    "string": "El criminal fugado ha sido devuelto a la cárcel. Khajiit considera que <Alias.PronounObj=Player> merece una recompensa, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_i_b2_t1",
+    "form_id": "030250E4|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have investigated the disappearance of the two Citizens. Unfortunately they were murdered by a Hagraven.",
+    "string": "Khajiit ha completado la investigación de <Alias.PronounPosObj=Player> sobre los dos ciudadanos desaparecidos. Fueron asesinados por una repugnante Bruja cuervo. Es una verdadera desgracia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_i_b1_t1",
+    "form_id": "03026117|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the investigation request.",
+    "string": "<Alias=Player> responde a la petición de investigación, ¿sí? Si tienes monedas, Khajiit tiene habilidades...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_bu_t",
+    "form_id": "03029C82|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The undead at <Alias=BountyLocation> is dead. I'm here for the bounty.",
+    "string": "Los no muertos de <Alias=BountyLocation> ahora sí que están muertos, amigo. A Khajiit le resulta extraño afirmar que algo que ya estaba muerto ha vuelto a morir...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "manny_up_rp_b_rescue_t0",
+    "form_id": "030318C0|notice board.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you alright? I came to save you.",
+    "string": "Estás bien, ¿hmm? <Alias=Player> ha venido a rescatarte.",
+    "status": "TranslationComplete"
+  }
+]

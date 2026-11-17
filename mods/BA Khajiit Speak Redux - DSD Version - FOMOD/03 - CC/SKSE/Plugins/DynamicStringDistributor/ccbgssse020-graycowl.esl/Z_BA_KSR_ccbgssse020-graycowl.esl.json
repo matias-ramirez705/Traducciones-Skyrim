@@ -1,0 +1,155 @@
+[
+  {
+    "editor_id": "ccBGSSSE020_QuestBranch01Topic",
+    "form_id": "05000814|ccbgssse020-graycowl.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Que las sombras te oculten.",
+    "string": "Las sombras te ocultan, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE020_QuestGisliTopic",
+    "form_id": "05000825|ccbgssse020-graycowl.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Sé lo que hizo tu gente en Jehanna.",
+    "string": "Este sabe lo que tu gente hizo en Jehanna.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084A|ccbgssse020-graycowl.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Sigo sabiendo lo que hizo tu gente en Jehanna.",
+    "string": "Este no olvida tan fácilmente. El nuevo amigo de Khajiit haría bien en recordarlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000820|ccbgssse020-graycowl.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Tienes algo que quiero.",
+    "string": "Khajiit siente oportunidad y yace en tu bolsillo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE020_QuestSubTopicGisli1",
+    "form_id": "0500082A|ccbgssse020-graycowl.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "El título de propiedad no vale la pena. Yo me desharé de él. (Persuadir)",
+    "string": "Claramente, el acto no vale la pena, hmm? Khajiit lo dispondrá por ti, amigo. (Persuade)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE020_QuestSubTopicGisli2",
+    "form_id": "0500082C|ccbgssse020-graycowl.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Deja que te compre el título de propiedad. Te ahorraré las molestias de ocuparte de él. (8000 de oro)",
+    "string": "Khajiit tiene monedas y tú tienes un problema, no?  (8,000 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500082E|ccbgssse020-graycowl.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Me gustaría comprarte el título de propiedad, pero no tengo suficiente dinero. (8000 de oro)",
+    "string": "Khajiit desea comprar la escritura de ti, pero <Alias.Pronoun=Player> no tiene suficientes monedas. (8,000 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE020_QuestNivenorTopic",
+    "form_id": "0500083D|ccbgssse020-graycowl.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tengo una nota donde se insinúa que un ladrón ha colocado algo en tu caja fuerte.",
+    "string": "<Alias=Player> encontró una nota que implica que un ladrón puso algo en tu caja fuerte. Khajiit sabe, los ladrones no tienen uso para flores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000847|ccbgssse020-graycowl.esl",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "Hablo en serio. De verdad que hay algo en esa caja fuerte.",
+    "string": "Este habla completamente en serio, amigo. Esta es la cara seria de <Alias.PronounPosObj=Player>. (señalarse) Hay algo en esa caja fuerte...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE020_QuestNivenorTopic01",
+    "form_id": "0500083F|ccbgssse020-graycowl.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Puedo comprobarlo por ti, para estar seguros de que no es una trampa. (Persuadir)",
+    "string": "Tienes una caja fuerte con trampa y tienes un Khajiit. La solución debería ser obvia, sí? (Persuade)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE020_QuestNivenorTopic02",
+    "form_id": "05000840|ccbgssse020-graycowl.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Pero espera, que aún hay más. Tiene una bomba. Puedo encargarme de desactivarla. (Intimidar)",
+    "string": "<Alias=Player> se pregunta si Nivenor sabe que la caja fuerte está lista para explotar. <Alias=Player> se pregunta, pero también se pregunta si, durante todo este preguntarse, ella muere porque es demasiado tarde para que Khajiit lo detenga. (Intimidar)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE020_QuestNivenorTopic03",
+    "form_id": "05000841|ccbgssse020-graycowl.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No importa. Ya hablaremos luego.",
+    "string": "En otra ocasión, quizá.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE020_QuestTopicE",
+    "form_id": "05000855|ccbgssse020-graycowl.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "He tenido algunos problemas, pero la capucha valía la pena.",
+    "string": "El camino fue duro, pero las riquezas eran demasiado grandes para ignorar, no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE020_QuestTopic0",
+    "form_id": "05000864|ccbgssse020-graycowl.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "¡El Zorro Gris! Es un honor conocerte.",
+    "string": "Por el anillo de Rajhin, ¡el Zorro Gris! <Alias=Player> ha soñado con este momento... solo que con más azúcar de luna.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE020_QuestTopicC",
+    "form_id": "05000865|ccbgssse020-graycowl.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me da igual que seas el Zorro Gris o un zombi rosa. Dame lo que he venido a buscar.",
+    "string": "Quién eres importa poco para Khajiit. Este vino solo por la capucha!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE020_QuestTopicD",
+    "form_id": "05000866|ccbgssse020-graycowl.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Lo he hecho mejor que bien. Cosa que no debería sorprenderte. ",
+    "string": "Las actuaciones de Khajiit parecen asombrar a todos menos a <Alias.PronounInt=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE020_QuestTopicA",
+    "form_id": "05000867|ccbgssse020-graycowl.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Conque eres el Zorro Gris... Confío en que cumplas tu parte del trato.",
+    "string": "Ah, <Alias=Player> tenía sospechas de que eras tú. Mantendrás tu parte del trato, sí?",
+    "status": "TranslationComplete"
+  }
+]

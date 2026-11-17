@@ -1,0 +1,182 @@
+[
+  {
+    "editor_id": "MQ204PaarBladesA1",
+    "form_id": "0003C572|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why shouldn't they trust you?",
+    "string": "¿Por qué no deberían confiar en ti, hmm? ¿Acaso dijiste algo que no debías? A Khajiit le sucede esto más a menudo de lo que <Alias.Pronoun=Player> desearía...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQ204PaarBladesTopic",
+    "form_id": "0003C573|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Blades say you deserve to die.",
+    "string": "Los Cuchillas dicen que mereces morir. ¿Acaso sugirieron apuñalarte unas cuantas veces?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0003C575|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Blades are wise not to trust me. Onikaan ni ov. I would not trust another dovah.",
+    "string": "Los Cuchillas son sabios al no confiar en mí. Onikaan ni ov. No confiaría en otro dovah.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQPaarthurnaxTopic",
+    "form_id": "0004283F|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "About Paarthurnax...",
+    "string": "Khajiit siente curiosidad por Paarthurnax...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQPaarthurnaxGreybeardsTopic",
+    "form_id": "00077353|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The Blades want me to kill Paarthurnax.",
+    "string": "Los Cuchillas quieren que <Alias=Player> mate a Paarthurnax, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00077361|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "The Blades said that Paarthurnax used to be Alduin's ally.",
+    "string": "Los Cuchillas dijeron que Paarthurnax fue aliado de Alduin. ¿Acaso esa bestia todavía lo es?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQPaarthurnaxB1",
+    "form_id": "0A0012C4|the paarthurnax dilemma.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have decided to spare his life.",
+    "string": "<Alias=Player> ha decidido perdonarle la vida a este dragón. ¿Eso representa un problema, quizá?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQPaarthurnaxC1",
+    "form_id": "0A0012C7|the paarthurnax dilemma.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So that's your answer? Revenge? I thought The Blades were better than this.",
+    "string": "Tal como Khajiit sospechaba, los Cuchillas son de los que primero apuñalan y después hacen preguntas, hmm.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0A0012C8|the paarthurnax dilemma.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The atrocities he committed against mankind were evil and unforgivable. This isn't about revenge...",
+    "string": "Las atrocidades que cometió contra la humanidad fueron malvadas e imperdonables. Esto no se trata de venganza...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQPaarthurnaxD1",
+    "form_id": "0A0012CA|the paarthurnax dilemma.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We wouldn't even be here to discuss this if it weren't for Paarthurnax.",
+    "string": "Vaya dilema, desde luego. Con Paarthurnax, hay que tomar una decisión, ¿sí? Pero sin Paarthurnax, ni siquiera habría un debate sobre su vida, pues todos estarían muertos, ¿no? ¡¿Por qué le duele tanto el cerebro a Khajiit?!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQPaarthurnaxE1",
+    "form_id": "0A0012CD|the paarthurnax dilemma.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Bruniikke. Savages. That is what you have become. As bad as the Thalmor.",
+    "string": "¡Bruniikke... Salvajes...! ¡En esto se han convertido, desde luego! Son tan malos como los Thalmor...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0A0012CE|the paarthurnax dilemma.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How dare you even suggest such a thing! You test our patience....",
+    "string": "¡¿Cómo te atreves siquiera a sugerir semejante cosa?! Estás poniendo a prueba nuestra paciencia...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0A0012CF|the paarthurnax dilemma.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How dare you even suggest such a thing! You test our patience....",
+    "string": "¡¿Cómo te atreves siquiera a sugerir semejante cosa?! Estás poniendo a prueba nuestra paciencia...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQPaarthurnaxFinal",
+    "form_id": "0A0012D0|the paarthurnax dilemma.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Paarthurnax will be spared. Honor my decision. We will not speak of this again.",
+    "string": "<Alias=Player> ha decidido perdonar a Paarthurnax. Se acabó la historia, ¿sí? ¿Acaso Khajiit ha usado bien esa expresión?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0A0012D2|the paarthurnax dilemma.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Alright then, if you feel this strongly about it. You must have your reasons. We will abide by this decision.",
+    "string": "Muy bien, si tan convencido estás de ello. Debes tener tus razones. Respetaremos esta decisión.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQPaarthurnaxF1",
+    "form_id": "0A006939|the paarthurnax dilemma.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I see the Greybeards were right about you as well. Bloodthirsty barbarians.",
+    "string": "¡Ziss! ¡<Alias=Player> nunca debió aceptar aquella apuesta con los Barbas Grises! Ellos los llamaron «bárbaros sedientos de sangre y sin cerebro», y Khajiit no estuvo de acuerdo. Ahora este felino les debe 10 septims...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQPaarthurnaxG1",
+    "form_id": "0A00693C|the paarthurnax dilemma.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Dreh ni fus bahi! Do not force my wrath if you know what's good for you!",
+    "string": "¡Dreh ni fus bahi! No hagas enfadar a este Khajiit. No te gustaría que <Alias.Pronoun=Player> se enfadara, hmm.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0A006944|the paarthurnax dilemma.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "By Talos, you've mastered the thu'um! I suppose there is no point in dying in vain, but are you certain about this? Is this really what you want?",
+    "string": "¡Por Talos, has dominado el Thu'um! Supongo que no tiene sentido morir en vano, pero ¿estás seguro de esto? ¿De verdad es lo que quieres?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQPaarthurnaxD2",
+    "form_id": "0A00693D|the paarthurnax dilemma.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So did you question the authority of Reman Cyrodiil or Tiber Septim this way?",
+    "string": "<Alias=Player> duda que hayas cuestionado así la autoridad de Reman Cyrodiil o Tiber Septim, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MQPaarthurnaxD3",
+    "form_id": "0A006940|the paarthurnax dilemma.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You realize without Paarthurnax, Tiber Septim could not be who he was, right?",
+    "string": "Comprendes que, sin Paarthurnax, Tiber Septim no se habría convertido en quien fue, ¿sí? Khajiit recuerda un dicho: «Es en los nombres que se mantienen en alto donde los mortales alcanzan aquello que está reservado para los dioses».",
+    "status": "TranslationComplete"
+  }
+]

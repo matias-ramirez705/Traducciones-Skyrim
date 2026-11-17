@@ -1,0 +1,3107 @@
+[
+  {
+    "editor_id": "018AuriMeeting03Topic",
+    "form_id": "05001845|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I was just curious about the pod.",
+    "string": "(chuckle) He-he-he, Khajiit supposes it is, yes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05010B63|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmph!",
+    "string": "(scoffs)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0520C0F3|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Na na na na na! I have a Werewolf fighting with me, you have nothing!",
+    "string": "Na-na-na-na-na! I have a Werewolf fighting with me, you have nothing!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052A40A0|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No, no no NO!",
+    "string": "No, no, No, NO!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05015C6F|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Judging from the tracks, some manner of beast lives here. Let's try not to disturb her, hm?",
+    "string": "Judging from the tracks, some manner of beast lives here. Let's try not to disturb her, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0505CAF5|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Overnight, snow had fallen on the land, and little troll's tears they froze upon his cheeks..",
+    "string": "Overnight, snow had fallen on the land, and little troll's tears they froze upon his cheeks... ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050342AB|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why is it called \"Solitude?\" It's such a sad name. They should rename it \"Friendstown\" or \"Comradeville.\"",
+    "string": "Why is it called \"Solitude\"? It's such a sad name. They should rename it \"Friendstown\" or \"Comradeville.\" ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0505CAF7|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What is it with these Bosmer walking around in fancy outfits and serving Nord Jarls? Psh, Salad-Eaters.",
+    "string": "What is it with these Bosmer walking around in fancy outfits and serving Nord jarls? Psh, Salad-Eaters.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050342AE|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Burp) Oh, excuse me... I think that last bandit we killed might have been ill.",
+    "string": "(burps) Oh, excuse me... I think that last bandit we killed might have been ill.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0508E8A5|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hold on, he wants you to go first? ...Hm. Just be careful in there, will you?",
+    "string": "Hold on, he wants you to go first...? Hmm. Just be careful in there, will you?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05091041|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I quite like Karliah. She's a clever one, something I really appreciate in a fellow elf.",
+    "string": "I quite like Karliah. She's a clever one, something I really appreciate in a fellow Elf. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050937DE|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I... I don't know what to say. I have stood before the God of the Hunt, and we're now seeking his favour.",
+    "string": "I... I don't know what to say. I have stood before the God of the Hunt, and we're now seeking his favor. Don't muck this up, Dragonborn.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050937DF|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Earning the favour of Hircine is a great, and dangerous thing. Use that favour wisely, and respect your prey.",
+    "string": "Earning the favor of Hircine is a great, and dangerous thing. Use that favor wisely, Dragonborn, and respect your prey.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F1A21|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bosmer who break the Green Pact are called Apostates. In valenwood, they're treated similarly to how the Thalmor treat Talos-worshippers.",
+    "string": "Bosmer who break the Green Pact are called Apostates. In Valenwood, they're treated similarly to how the Thalmor treat Talos-worshippers.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F1A22|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Coughs)",
+    "string": "(coughs)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F1A23|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Clears throat)",
+    "string": "(clears throat)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F1A24|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Humming)",
+    "string": "(hums)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F1A25|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Yawn)",
+    "string": "(yawns)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F1A26|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Mumbling to herself)",
+    "string": "(mumbles)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0512D450|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's so big and echo-y in here. Makes me want to shout! ... Aaaaah!",
+    "string": "It's so big and echo-y in here. Makes me want to shout...! Aaaaah!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0513C75A|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Creepy, crawly, dusty, uuugh.",
+    "string": "Creepy, crawly, dusty, ugh.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05164F71|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The wolf strode upon great Jorrvaskr, to meet the Sons of Ysgramor. They said \"what are you, but a harbinger to leave us hopeless and forlorn?\"",
+    "string": "The wolf strode upon great Jorrvaskr, to meet the Sons of Ysgramor. They said, \"what are you, but a harbinger to leave us hopeless and forlorn?\"",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0516A075|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Where are all the female greybeards, hm? You tell me that.",
+    "string": "Where are all the female greybeards, hmm? You tell me that.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0519CAA5|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Netches are so cute, with their noodely little legs. Wobble wobble wobble.",
+    "string": "Netches are so cute, with their noodely little legs. Wobble-wobble-wobble.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05206FE8|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The falmer are a cruel, cruel race. Can't say I blame them, though.",
+    "string": "The Falmer are a cruel, cruel race. Can't say I blame them, though. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0520C0F6|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Arooooo! ...Sorry, it's very infectious.",
+    "string": "Arooooo...! Sorry, it's very infectious.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0521B41F|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "In Valenwood we have little rodents called Kollopi. They look kind of similar to Skeevers, except much cuter, and tree-living.",
+    "string": "In Valenwood we have little rodents called Kollopi. They look kind of similar to skeevers, except much cuter, and tree-living.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0521B420|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My favourite drink is Jagga. It's made of pig's milk and honey. It's absolutely delicious, but it seems it's not sold here. Shame.",
+    "string": "My favorite drink is Jagga. It's made of pig's milk and honey. It's absolutely delicious, but it seems it's not sold here. Shame.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0522A72D|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wah! ...It's.. It's the little girl.",
+    "string": "Wah...! It's... It's the little girl.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05252F65|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Clicks tongue)",
+    "string": "(clicks tongue)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0525D18B|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Humming)",
+    "string": "(hums)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0525D18C|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Humming)",
+    "string": "(hums)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052C77D1|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Distressed whine)",
+    "string": "(whines anxiously)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053B5A9E|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Brrr....",
+    "string": "Brr...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053B5A9F|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This argonian fellow really seems desperate to find people to work for him.",
+    "string": "This Argonian fellow really seems desperate to find people to work for him. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053BFCA3|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey. Have you noticed that there are dragon scales by that shrine? Isn't that weird..?",
+    "string": "Hey. Have you noticed that there are dragon scales by that shrine? Isn't that weird...?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053C9EB5|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "...Oh. Well, that's disappointing. What happened?",
+    "string": "Oh. Well, that's disappointing. What happened?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05098714|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're so noisy in that armour. I realize it protects you and all, but could you try not to attract every bandit in Skyrim?",
+    "string": "You're so noisy in that armor. I realize it protects you and all, but could you try not to attract every bandit in Skyrim?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050A4D55|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Growl)",
+    "string": "(growls)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051BB0C7|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Someone just tried to pick my pocket. I pretended not to notice, and stole their coinpurse instead. Amateurs.",
+    "string": "Someone just tried to pick my pocket. I pretended not to notice, and stole their coin purse instead. Amateurs.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05294D97|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Woah... How are you feeling? You look awful.",
+    "string": "Whoa... How are you feeling? You look awful.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0501FE7F|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Sigh.)",
+    "string": "(sighs)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050C7885|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've got your back, dearheart. Don't you worry.",
+    "string": "I've got your back, dear-heart. Don't you worry.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052A91A4|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ok.",
+    "string": "Okay.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052C77D4|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Whine)",
+    "string": "(whines)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0501FE88|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aww, is that it?",
+    "string": "Aw, is that it?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05155C67|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hahaha!",
+    "string": "Ha-ha-ha!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriMeatTopic3",
+    "form_id": "05034295|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to ask you about Bosmer culture.",
+    "string": "Khajiit wishes to ask you about Bosmer culture, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriBosmerCulture4",
+    "form_id": "05034297|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is it true that you eat your enemies?",
+    "string": "Is it true that you actually EAT your enemies?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05034299|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It is. It's called \"The Meat Mandate,\" and it's part of the Green Pact. It dictates that a fallen enemy must be eaten within three days of a battle.",
+    "string": "It is. It's called \"The Meat Mandate\", and it's part of the Green Pact. It dictates that a fallen enemy must be eaten within three days of a battle.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriBosmerCulture5",
+    "form_id": "0503429A|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's the Green Pact?",
+    "string": "What is this Pact of Green, hmm? It involves everything green, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0503429B|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's the agreement my people made with Y'ffre. In return for her protection and blessing, we swore to never eat or harm any plantlife or vegetation.",
+    "string": "It's the agreement my people made with Y'ffre. In return for her protection and blessing, we swore to never eat or harm any plant life or vegetation.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriBosmerCulture6",
+    "form_id": "0503429C|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "There's a Bosmer in Riverwood who makes a living chopping wood. Is he a heretic?",
+    "string": "There is a Bosmer in Riverwood who makes a living chopping wood. Is he a heretic, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriStartcoversation1Topic",
+    "form_id": "0503E4B4|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's wrong? You look a little down.",
+    "string": "Auri, what is wrong? You are depressed, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0503E4B5|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't know, I suppose I'm feeling a little homesick. Don't get me wrong, Skyrim is really beautiful in it's own way, but...  It's not Valenwood.",
+    "string": "I don't know, I suppose I'm feeling a little homesick. Don't get me wrong, Skyrim is really beautiful in its own way, but... It's not Valenwood.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFriendQuestReturn",
+    "form_id": "0503E4B6|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have you thought of returning home someday?",
+    "string": "Have you given any thought to returning home someday, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFriendQuestWhyNot",
+    "form_id": "0503E4B8|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why not?",
+    "string": "Khajiit is curious... Why not?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFriendQuestFeelBetter",
+    "form_id": "0503E4BA|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Is there anything I can do to make you feel better?",
+    "string": "Is there anything that Khajiit could do to make you feel better, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0503E4BB|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you for asking, but I don't know. I just really miss the lushness of the forest, the secret rivers and the gentle evening sun. (sigh)",
+    "string": "Thank you for asking, but I don't know. I just really miss the lushness of the forest, the secret rivers and the sun through the leaves. (sighs)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018MossMotherCavernConvoTopic",
+    "form_id": "0504D7C0|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Would you like to talk about Valenwood, now?",
+    "string": "You would prefer to speak about Valenwood, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Mossmother3",
+    "form_id": "0504D7C4|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me more about your sister.",
+    "string": "Tell Khajiit more about your sibling, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018ElderGleamSanctuary1",
+    "form_id": "0504D7C7|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Will you tell me about your sister?",
+    "string": "Tell Khajiit about your sibling, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Eldergleamsanctuary3",
+    "form_id": "0504D7CB|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened?",
+    "string": "What happened next, hmm? Khajiit must know this!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018ShadowGreenCavernConvoTopic",
+    "form_id": "050528CF|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened on your hunting trip with your sister?",
+    "string": "What happened on your hunting trip with your sibling, hmm? Khajiit simply must know. It is clawing at <Alias.PronounPosObj=Player> insides...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018ShadowGreenCavern2",
+    "form_id": "050528D3|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Did you save her?",
+    "string": "Did you save her, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018BloatedManConvoTopic",
+    "form_id": "050528D6|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How did you save your sister that night?",
+    "string": "How did you save your sibling that night, exactly?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050528D7|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I fought the hoarvor with all my might, but there were too many of them. I shot three with my arrows,",
+    "string": "I fought the hoarvor with all my might, but there were too many of them. I shot three with my arrows... ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050528D9|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "and four more would dig their razor-like claws into my sister's chest. There was blood everywhere, and I couldn't bear the thought of losing her.",
+    "string": "...and four more would dig their razor-like claws into my sister's chest. There was blood everywhere, and I couldn't bear the thought of losing her.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AncestorGladeconvoTopic",
+    "form_id": "050528DB|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What did you do, Auri?",
+    "string": "What did you do, Auri? Trust in Khajiit, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050528DC|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I took a piece of burning bone from our fireplace, and I swung at the Hoarvor with it. They scattered, screeching -",
+    "string": "I took a piece of burning bone from our fireplace, and I swung at the Hoarvor with it. They scattered, screeching... ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050528DE|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "but as I swung, I lost my grip on the torch, and it fell into the dry leaves below. It took the Treethanes two days to get the fire under control.",
+    "string": "...but as I swung, I lost my grip on the torch, and it fell into the dry leaves below. It took the Treethanes two days to get the fire under control.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050579EA|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There is nothing left for me there but regret. I broke the Pact. I betrayed Y'ffre. And so I'm condemned to fade into the darkness once I die,",
+    "string": "There is nothing left for me there but regret. I broke the Pact. I betrayed Y'ffre. And so, I'm condemned to fade into the darkness - once I die...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050579EC|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "my name will be forgotten, erased, and my song will be forever silent.",
+    "string": "...my name will be forgotten, erased, and my song will be forever silent.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0509D653|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Laugh) Saving the world with fangs and claws?",
+    "string": "(laughs) Saving the world with fangs and claws?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050A2594|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Greetings, sister elf. It's good to see a familiar face so far from home.",
+    "string": "Greetings, sister Elf. It's good to see a familiar face so far from home. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050A25A5|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Scoffs)",
+    "string": "(scoffs)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriBosmerCultureEnemy",
+    "form_id": "050A4D40|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "(Hostile) I've heard that Bosmer are nothing but lapdogs of the Thalmor.",
+    "string": "Khajiit ears have heard that the Bosmer are nothing but lapdogs of the Thalmor, yes? (Hostile)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050A4D41|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Really? That is the first thing you ask me about? You're just a ball of charm, aren't you.",
+    "string": "Really? That is the first thing you ask me about? You're just a ball of charm, aren't you. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050A4D41|018Auri.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "No - we are not anyone's lapdogs, and I'd really recommend keeping that kind of talk to yourself around me, or I might have to take a bite out of you",
+    "string": "No - we are not anyone's lapdogs, and I'd really recommend keeping that kind of talk to yourself around me, or I might have to take a bite out of you!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriEnemyDialogueATopic",
+    "form_id": "050A4D45|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "(Hostile) So why did you come to Skyrim exactly?",
+    "string": "So, why have you come to Skyrim, exactly? (Hostile)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriEnemyDialogB",
+    "form_id": "050A4D47|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It is my business if you're a Thalmor spy.",
+    "string": "It IS the business of this one... if you are a Thalmor spy, yes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriEnemyDialogC",
+    "form_id": "050A4D49|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We'll see. I'll keep my eye on you.",
+    "string": "Hmm... This one will keep one, or both, of <Alias.PronounPosObj=Player> eyes on you, and see if you speak the truth, yes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriEnemyDialogue1Topic",
+    "form_id": "050A4D4D|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "(Hostile) I've figured out why you came to Skyrim.",
+    "string": "Khajiit has figured out why you came to Skyrim, indeed. (Hostile)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriEnemyPact2",
+    "form_id": "050A4D4F|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You broke the Green Pact, didn't you?",
+    "string": "You broke the Green Pact, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050A4D50|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "--What? No! Don't you dare accuse me of such a thing!",
+    "string": "What? No! Don't you dare accuse me of such a thing!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriEnemyPact3",
+    "form_id": "050A4D51|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You act like you're better than everyone else, you're overcompensating.",
+    "string": "You act as if you are better than everyone else, yes? Clearly, you are overcompensating for something, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriEnemyPact4",
+    "form_id": "050A4D53|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You're doing it to hide the fact that you actually broke the pact. Hypocrite.",
+    "string": "You are doing it to hide the fact that you actually broke the pact, yes. Khajiit believes you to be a hypocrite, indeed.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050A4D54|018Auri.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "...Just... Be silent. I don't want to talk to you anymore. Just go. Leave me alone.",
+    "string": "... Just... Be silent. I don't want to talk to you anymore. Just go. Leave me alone.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirtingTopic",
+    "form_id": "050AEC0A|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How are you feeling?",
+    "string": "How are you feeling, friend?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Auriflirting1",
+    "form_id": "050AEC0C|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened wasn't your fault. You were trying to save your sister.",
+    "string": "What happened was not your fault, no. You were trying to save your sibling, yes? That is honorable, indeed.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050AEC0D|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "...Thank you. Thank you for understanding. But my people wouldn't see it the same way, I think.",
+    "string": "Thank you. Thank you for understanding. But my people wouldn't see it the same way, I think.   ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050AEC0D|018Auri.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "In their mind, my sister's death would probably have been a fair sacrifice in return for the safety of the forest.",
+    "string": "In their mind, my sister's death would probably have been a fair sacrifice in return for the safety of the forest. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriReject1",
+    "form_id": "050AEC0E|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You should've been more careful with the fire.",
+    "string": "You should have been more careful with the fire, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirting2",
+    "form_id": "050AEC10|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I would have done the same thing.",
+    "string": "This one would have done the same thing, yes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirting3",
+    "form_id": "050AEC12|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you miss your sister?",
+    "string": "You miss your sibling, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirting4",
+    "form_id": "050AEC14|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm very lucky to have you, too.",
+    "string": "<Alias=Player> is very sharri [lucky] to have you too, indeed!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050AEC15|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You really think so? ...Ahah, well. Let's get moving, shall we? We've worlds to save and bandits to eat, and all that.",
+    "string": "You really think so...? Aha, well. Let's get moving, shall we? We've worlds to save and bandits to eat, and all that.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriReject2",
+    "form_id": "050AEC16|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Damn right you are.",
+    "string": "Sithis be damned you are! (smile)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050AEC17|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Chuckles.)",
+    "string": "(chuckles)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Auriflirting02Topic",
+    "form_id": "050AEC1A|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "...Why are you staring at me like that?",
+    "string": "Umm... Why are you staring at this one like that, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050B8A84|018Auri.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "And did you know the tip of your nose wiggles when you speak? (Chuckles.)",
+    "string": "And did you know the tip of your nose wiggles when you speak? (chuckles)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirting0201",
+    "form_id": "050B8A85|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The tip of my nose does not wiggle when I speak.",
+    "string": "The nose tip of Khajiit does NOT wiggle when <Alias.Pronoun=Player> speaks! (grumble)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AurFlirting0202",
+    "form_id": "050B8A87|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yeah? Well, your ears wiggle when you get excited about something.",
+    "string": "Truly? Well, your ears wiggle when you are excited about something... HA! (point at ears) There!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050B8A88|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Laughs) They do not!",
+    "string": "(laughs) They do not!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirting0203",
+    "form_id": "050B8A89|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Thank you, that's kind of you to say.",
+    "string": "Many thanks. That is truly kind of you to say, friend!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050B8A8A|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mm, you're quite welcome.",
+    "string": "Mm-hmm, you're quite welcome.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirting0204",
+    "form_id": "050B8A8B|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So do you spend much of your time staring at my face?",
+    "string": "So, do you spend much of your time staring at Khajiit and <Alias.PronounPosObj=Player> face, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Auriflirting0205",
+    "form_id": "050B8A8D|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Are you saying you find me attractive?",
+    "string": "Are you saying you find this one attractive, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirting03Topic",
+    "form_id": "050BB22B|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You're staring at me again.",
+    "string": "You are staring at Khajiit again. Does <Alias.Pronoun=Player> have something on <Alias.PronounPosObj=Player> tail, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirting0301",
+    "form_id": "050BB22D|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "About what?",
+    "string": "About what, exactly?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirting0302",
+    "form_id": "050BB22F|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Of course I'll take you there.",
+    "string": "Khajiit would be honored to take you there, yes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirting0303",
+    "form_id": "050BB231|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "We don't have time for that.",
+    "string": "Khajiit does not have time for this...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirting04branchTopic",
+    "form_id": "050BB23E|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This is your old campsite?",
+    "string": "Is this your old campsite, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirting0401",
+    "form_id": "050BB240|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't see why not, it's cozy enough here. What's on your mind, Auri?",
+    "string": "<Alias=Player> does not understand why not, no. It is cozy enough here, yes? What is on your mind, Auri?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirting0402",
+    "form_id": "050BB242|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Of course.",
+    "string": "Of course, friend. Khajiit remembers much. Wait, who are you again? (smirk)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050BB245|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've been thinking about what you said. That you would have done the same thing, had you been in the same situation.",
+    "string": "I've been thinking about what you said. That you would have done the same thing, had you been in the same situation. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050BB245|018Auri.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "You've been so kind to me. You took me to all these beautiful places, just because I mentioned feeling homesick,",
+    "string": "You've been so kind to me. You took me to all these beautiful places, just because I mentioned feeling homesick...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050BB245|018Auri.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "although you very clearly had better things to do. You listened to my story, and even when you knew the truth about me, you didn't judge.",
+    "string": "...although you very clearly had better things to do. You listened to my story, and even when you knew the truth about me, you didn't judge. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050BB245|018Auri.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "You've come to mean very much to me. ...Very much.",
+    "string": "You've come to mean very much to me... Very much.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirting0403",
+    "form_id": "050BB243|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, sorry.",
+    "string": "No, apologies.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050BB244|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh! Um. Then, er, never mind! Let's keep moving.",
+    "string": "Oh! Umm. Then, er, never mind! Let's keep moving.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirting0404",
+    "form_id": "050BB246|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I feel the same way. You're precious to me.",
+    "string": "<Alias=Player> feels the same way towards Auri, indeed! You are truly precious to this one, yes!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Auriflirting0405",
+    "form_id": "050BB248|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm sorry Auri, I don't feel the same about you.",
+    "string": "Apologies Auri, but Khajiit does not feel the same about you.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050BB249|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "..What? But- You said all those things- ...I.. I'm sorry. I must've misread your signals. How embarrassing. Let's just go.",
+    "string": "...What? But- You said all those things... I... I'm sorry. I must've misread your signals. How embarrassing. Let's just go.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirting05BranchTopic",
+    "form_id": "050C0180|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So what now?",
+    "string": "So, what now, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050C0181|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Laugh) \"So what now\" you ask. How very romantic of you.",
+    "string": "(laughs) \"So what now?\", you ask. How very romantic of you.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirting0501",
+    "form_id": "050C0182|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, I mean... Where do you want to go from here?",
+    "string": "No, no, Khajiit simply means... Where do you wish to travel to from here, hmm? (chuckle)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirting0502",
+    "form_id": "050C0184|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want you by my side.",
+    "string": "Khajiit wishes for you to be by <Alias.PronounPosObj=Player> side, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFlirting0503",
+    "form_id": "050C0186|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want to end it here.",
+    "string": "Khajiit wishes to end it here, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriRomanceDialogueBranchTopic",
+    "form_id": "050C018A|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's talk about us.",
+    "string": "Khajiit wishes to speak about Auri and <Alias.PronounRef=Player>, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriCook01",
+    "form_id": "050C018D|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Could you cook something for me?",
+    "string": "Could you cook something for this one, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriHowMuchLove",
+    "form_id": "050C0193|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How much do you love me?",
+    "string": "How much do you love Khajiit, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050C0199|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "...A tiny bit less every time you ask.",
+    "string": "A tiny bit less every time you ask.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriStolenGold",
+    "form_id": "050C0196|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Found any loot?",
+    "string": "Did you find any loot, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050C50CF|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sure! ...But nothing I'm going to share with you, this one's mine!",
+    "string": "Sure...! But nothing I'm going to share with you, this one's mine!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriIJustwanted",
+    "form_id": "050C50D2|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I just wanted to tell you that I love you.",
+    "string": "<Alias=Player> simply wished to tell you that <Alias.Pronoun=Player> loves you!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriLetsgotobed",
+    "form_id": "050C50D6|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's go to bed.",
+    "string": "Come to bed, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriBreakup",
+    "form_id": "050C7878|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want to end this.",
+    "string": "Khajiit wishes to end this, yes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Auribreakup02",
+    "form_id": "050C787A|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I found someone else.",
+    "string": "Khajiit has found someone else...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050C787B|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You... Found someone else? I.. I guess it can't be helped. I hope the two of you are very happy together.",
+    "string": "You... Found someone else? I... I guess it can't be helped. I hope the two of you are very happy together.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriBreakup03",
+    "form_id": "050C787C|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I just don't love you anymore.",
+    "string": "This one simply does not love you anymore, Auri.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050C787D|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh... Then... I suppose there's nothing more I can say. Thank you for the time you gave me. It made my life worthwile.",
+    "string": "Oh... Then... I suppose there's nothing more I can say. Thank you for the time you gave me. It made my life worthwhile.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriBreakup04",
+    "form_id": "050C787E|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm just tired of you.",
+    "string": "Khajiit is simply... tired of your company.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriBosmerCulture06",
+    "form_id": "050CC7C3|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you really eat -all- your enemies?",
+    "string": "Do you truly eat ALL of your enemies, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050CC7C4|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Laugh) With the amount of murdering you and I do on a daily basis, it gets difficult to honor that particular part of the mandate.",
+    "string": "(laughs) With the amount of murdering you and I do on a daily basis, it gets difficult to honor that particular part of the mandate.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriChat0101Topic",
+    "form_id": "050CC7C8|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's chat.",
+    "string": "Come and speak with this one, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriChat0102",
+    "form_id": "050D6638|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Will you sing for me?",
+    "string": "Will you sing for <Alias=Player>, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriChat0103",
+    "form_id": "050D663A|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Song of the Green.",
+    "string": "How about \"Song of the Green\", hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriBosmerCulture07",
+    "form_id": "050D8DDA|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me more about Y'ffre.",
+    "string": "Tell Khajiit more about Y'ffre, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriChat0105",
+    "form_id": "050D8DDC|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Will you tell me a story?",
+    "string": "Would you happen to have a story to share, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriChat0106",
+    "form_id": "050D8DDE|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me about Y'ffre.",
+    "string": "Tell Khajiit about Y'ffre, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050D8DDF|018Auri.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "\"Once, there was nothing but formlessness. The land held no shape, the trees did not harden into timber and bark,",
+    "string": "\"Once, there was nothing but formlessness. The land held no shape, the trees did not harden into timber and bark...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050D8DDF|018Auri.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "and the Elves themselves shifted from form to form. This formlessness was called the Ooze.",
+    "string": "...and the Elves themselves shifted from form to form. This formlessness was called the Ooze.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Yffre01",
+    "form_id": "050D8DE0|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Go on.",
+    "string": "Khajiit ears are listening...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Yffre02",
+    "form_id": "050D8DE2|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "And then?",
+    "string": "And then what, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050D8DE3|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "\"Instead, Y'ffre commended the Wood Elves to the Green, so that they might ask the Green to provide them with shelter and a safe passage,",
+    "string": "\"Instead, Y'ffre commended the Wood Elves to the Green, so that they might ask the Green to provide them with shelter and a safe passage...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050D8DE3|018Auri.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "and as long as they respected the Green, it would obey. This is called the Green Pact.",
+    "string": "...and as long as they respected the Green, it would obey. This is called the Green Pact.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050D8DE3|018Auri.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "They were to eat no plants but consume only meat. Y'ffre also told that no Wood Elf who is struck down by another Wood Elf",
+    "string": "They were to eat no plants but consume only meat. Y'ffre also told that no Wood Elf who is struck down by another Wood Elf...  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050D8DE3|018Auri.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "should be allowed to sink into the ground, but should instead be consumed, like the beasts. This is called the Meat Mandate.\"",
+    "string": "...should be allowed to sink into the ground, but should instead be consumed, like the beasts. This is called the Meat Mandate.\"",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Yffre03",
+    "form_id": "050D8DE4|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What did Y'ffre do after telling the story?",
+    "string": "Khajiit is curious... What did Y'ffre do after telling the story?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050D8DE5|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "\"When the stories were told, Y'ffre saw that they had a pleasing shape, but some of the Ooze remained. Y'ffre told a final tale then,",
+    "string": "\"When the stories were told, Y'ffre saw that they had a pleasing shape, but some of the Ooze remained. Y'ffre told a final tale then...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050D8DE5|018Auri.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "and gave purpose to the Ooze. Any Wood Elf that violated the Green Pact, either by shifting or by damaging the Green, would be condemned",
+    "string": "...and gave purpose to the Ooze. Any Wood Elf that violated the Green Pact, either by shifting or by damaging the Green, would be condemned.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050D8DE5|018Auri.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Condemned to return to the formlessness of the Ooze.",
+    "string": "Condemned to return to the formlessness of the Ooze. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriChat0107",
+    "form_id": "050E7B84|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me about your family.",
+    "string": "Tell <Alias=Player> about your shir, your clan, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriChatFamily01",
+    "form_id": "050E7B86|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "My parents are good people. I miss them, and I hope I get to see them again soon",
+    "string": "<Alias.PronounPosObjCap=Player> guardians are good people, yes. Khajiit misses them, truly, and hopes to visit them again soon, yes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriChatFamily02",
+    "form_id": "050E7B88|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "As often as I can.",
+    "string": "As often as Khajiit is able... which is not often enough, indeed.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriChatfamily03",
+    "form_id": "050E7B8A|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Not very often. They live in another province.",
+    "string": "Not often, no. They live far away in another province, yes. Too far to simply say, \"greetings\" on every holiday. It is a sadness.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriChatFamily04",
+    "form_id": "050E7B8C|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "My parents are dead.",
+    "string": "Khajiit lost <Alias.PronounPosObj=Player> guardians. They are dead, yes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriChatFamily05",
+    "form_id": "050E7B8E|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I never knew my parents.",
+    "string": "Khajiit never knew <Alias.PronounPosObj=Player> guardians, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriChatOrphan",
+    "form_id": "050E7B90|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I raised myself, on the streets.",
+    "string": "Khajiit raised <Alias.PronounRef=Player>, on the streets and in the forests, yes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050E7B91|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That must have been really difficult. It explains why you're so strong, though.  Thank you for sharing that with me.",
+    "string": "That must have been really difficult. It explains why you're so strong, though. Thank you for sharing that with me.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriChatAdopted",
+    "form_id": "050E7B92|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I was adopted by a childless couple, and they raised me as their own.",
+    "string": "Khajiit was adopted by a couple with no younglings, and they raised <Alias.PronounObj=Player> as their own, indeed.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriChatFamily06",
+    "form_id": "050E7B94|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I hate my parents.",
+    "string": "Khajiit dislikes <Alias.PronounPosObj=Player> guardians...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050E7B95|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I-- I'm sorry. Why is that?",
+    "string": "I- I'm sorry. Why is that?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriChatFamilyHate01",
+    "form_id": "050E7B96|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't want to talk about it.",
+    "string": "Khajiit does not wish to speak on this, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriChatFamilyHate02",
+    "form_id": "050E7B98|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "They were abusive.",
+    "string": "They were abusive to this one. It is not something Khajiit wishes to discuss...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050EA33E|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Whine)",
+    "string": "(whines)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050EA342|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Bark!)",
+    "string": "(barks)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050EA346|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Sad howl)",
+    "string": "(howls sadly)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050EA348|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Sigh) All right, all right. How about you charge the enemy, topple them over, and pee on their face. Then I shoot them with an arrow.",
+    "string": "(sighs) All right, all right. How about you charge the enemy, topple them over, and pee on their face. Then I shoot them with an arrow.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050EA34A|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Determined bark)",
+    "string": "(barks decisively)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Aurispinners",
+    "form_id": "050F41C1|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me about Spinners.",
+    "string": "Tell Khajiit about Spinners, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Auricleverbosmer01",
+    "form_id": "050F41C3|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me about the cleverness of the Bosmer.",
+    "string": "Tell <Alias=Player> about the Bosmer, and their cleverness, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F41C4|018Auri.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Whenever he purchased a new slave, he had them whipped in the courtyard for one to three hours. Few slaves ever had to be whipped more than once,",
+    "string": "Whenever he purchased a new slave, he had them whipped in the courtyard for one to three hours. Few slaves ever had to be whipped more than once...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F41C4|018Auri.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "as the memory of their first day, and the sights and sounds of other slaves first days, stayed with them throughout their lives.",
+    "string": "...as the memory of their first day, and the sights and sounds of other slaves first days, stayed with them throughout their lives.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F41C4|018Auri.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "When Brin bought his first Bosmer slave, he ordered his castellan to whip him only for an hour. The bosmer, which Brin had named Dob,",
+    "string": "When Brin bought his first Bosmer slave, he ordered his castellan to whip him only for an hour. The Bosmer, which Brin had named Dob... ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F41C4|018Auri.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "seemed so much more delicate than his other slaves. He was clearly not suited for work in the fields, but looked presentable enough for domestic work",
+    "string": "...seemed so much more delicate than his other slaves. He was clearly not suited for work in the fields, but looked presentable enough for domestic work.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Auricleverbosmer02",
+    "form_id": "050F41C5|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Go on.",
+    "string": "Khajiit ears are listening...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F41C6|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dob did his work quietly and tolerably well. Brin occasionally had to correct him by refusing him food, but the punishment never needed to go further",
+    "string": "Dob did his work quietly and tolerably well. Brin occasionally had to correct him by refusing him food, but the punishment never needed to go further.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F41C6|018Auri.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "For the first few days, the master watched Wodilic and Dob to be certain that the slave knew how to teach.",
+    "string": "For the first few days, the master watched Wodilic and Dob to be certain that the slave knew how to teach. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F41C6|018Auri.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "He was pleased to see the boy learn the grips and the different stances. A month later, when he came once more to check on his son's progress,",
+    "string": "He was pleased to see the boy learn the grips and the different stances. A month later, when he came once more to check on his son's progress...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F41C6|018Auri.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "he saw Dob guiding Wodilic to shoot his arrow up into the air, high above the targets.  \"What nonsense is this,\" Brin snarled,",
+    "string": "...he saw Dob guiding Wodilic to shoot his arrow up into the air, high above the targets. \"What nonsense is this?\", Brin snarled...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Auricleverbosmer03",
+    "form_id": "050F6961|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Oh no.",
+    "string": "Oh no! Khajiit has a bad feeling about this, indeed...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F6962|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dob bowed humbly. \"Sedura, first Master Wodilic must become comfortable with the weapon before he need worry about accuracy.\"",
+    "string": "Dob bowed humbly. �Sedura, first Master Wodilic must become comfortable with the weapon before he need worry about accuracy.\"",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F6962|018Auri.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "\"We learn this by watching the arrow arc in different winds.\" Brin's face turned purple with fury. \"I'm not a fool!\" he raged,",
+    "string": "\"We learn this by watching the arrow arc in different winds.\" Brin's face turned purple with fury. \"I'm not a fool!\", he raged...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F6962|018Auri.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "\"You stay and practice!\" roared his father. \"Try aiming at the target itself, not at the sky! You are not coming back into the house until you do it!\"",
+    "string": "\"You stay and practice!\", roared his father. \"Try aiming at the target itself, not at the sky! You are not coming back into the house until you do it!\"",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F6962|018Auri.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "The boy tearfully returned to practice, while Brin brought Dob into the courtyard and called for his whip. Dob suddenly broke away,",
+    "string": "The boy tearfully returned to practice, while Brin brought Dob into the courtyard and called for his whip. Dob suddenly broke away...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F6962|018Auri.esp",
+    "index": 7,
+    "type": "INFO NAM1",
+    "original": "and scrambled to hide between some barrels in the center of the yard. Brin began to bring the whip down on his exposed back again and again.",
+    "string": "...and scrambled to hide between some barrels in the center of the yard. Brin began to bring the whip down on his exposed back again and again.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AuriCleverBosmer04",
+    "form_id": "050F6963|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Poor Dob.",
+    "string": "Poor Dob. Nowhere to run, no escape in sight, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F6964|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wodilic's miserable wail drifted from the courtyard. \"I can't! Father, I can't hit it!\"  \"Master Wodilic!\" Dob cried back as loud as he could,",
+    "string": "Wodilic's miserable wail drifted from the courtyard. \"I can't! Father, I can't hit it!\" \"Master Wodilic!\", Dob cried back as loud as he could... ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F6964|018Auri.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "his voice shaking with pain. \"Keep your left arm straight and aim slightly east! The wind has changed!\"",
+    "string": "...his voice shaking with pain. \"Keep your left arm straight and aim slightly east! The wind has changed!\" ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F6964|018Auri.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "\"Stop confusing my son!\" Brin screamed. \"You'll be in the saltrice fields if I don't beat you to death first! Like you deserve!\"",
+    "string": "\"Stop confusing my son!\", Brin screamed. \"You'll be in the saltrice fields if I don't beat you to death first! Like you deserve!\"",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F6964|018Auri.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "He looked at Dob crouching under a wagon, and thought he saw a thin smile cross the slave's lips. Just for an instant before he died,",
+    "string": "He looked at Dob crouching under a wagon, and thought he saw a thin smile cross the slave's lips. Just for an instant before he died... ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F6964|018Auri.esp",
+    "index": 7,
+    "type": "INFO NAM1",
+    "original": "Brin saw the face of an untamed Wood Elf on Dob.\"Bullseye, Master Wodilic!\" Dob crowed.",
+    "string": "...Brin saw the face of an untamed Wood Elf on Dob. \"Bulls-eye, Master Wodilic!\" Dob crowed.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AuriOldBones",
+    "form_id": "050F90FF|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me about the Old bones.",
+    "string": "Tell Khajiit about the Old Bones, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F9100|018Auri.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "It is said the Destroyer's coming could be felt as a quailing of the sod a full day before its arrival. When it arrived in a place,",
+    "string": "It is said the Destroyer's coming could be felt as a quailing of the sod a full day before its arrival. When it arrived in a place... ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F9100|018Auri.esp",
+    "index": 6,
+    "type": "INFO NAM1",
+    "original": "the great beast would writhe about, shattering walls and toppling buildings.",
+    "string": "...the great beast would writhe about, shattering walls and toppling buildings.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AuriOldBones01",
+    "form_id": "050F9101|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Go on.",
+    "string": "Khajiit ears are listening...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F9102|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Cliffs would turn to slurry in the great quakes brought by its pursuit, and many a pod home burst beneath its bones.",
+    "string": "Cliffs would turn to slurry in the great quakes brought by its pursuit, and many a pod home burst beneath its bones. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F9102|018Auri.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "The oldest accounts of these questions were all variations on, \"Where can I find the old bones?\"",
+    "string": "The oldest accounts of these questions were all variations on, \"Where can I find the old bones?\" ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F9102|018Auri.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "As the Destroyer searched--evidently in vain--its questions changed. As it neared the end of its rampage it was known to ask,",
+    "string": "As the Destroyer searched, evidently in vain, its questions changed. As it neared the end of its rampage it was known to ask...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F9102|018Auri.esp",
+    "index": 7,
+    "type": "INFO NAM1",
+    "original": "The only one known to answer \"yes\" to this question was the treethane of Falinesti, the Walking City. Knowing Falinesti would soon move on,",
+    "string": "The only one known to answer \"yes\" to this question was the Treethane of Falinesti, the Walking City. Knowing Falinesti would soon move on... ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050F9102|018Auri.esp",
+    "index": 8,
+    "type": "INFO NAM1",
+    "original": "from where it wintered in Southpoint, she convinced the Destroyer to sleep in the boughs of Arborfell, an orchard known for its abundance of bats.",
+    "string": "...from where it wintered in Southpoint, she convinced the Destroyer to sleep in the boughs of Arborfell, an orchard known for its abundance of bats.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Oldbones02",
+    "form_id": "050FB89D|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What happened?",
+    "string": "What happened then, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050FB89E|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "here, the Y'ffre priesthood planted a blessed seed in the skull of the great beast as it slept. This seed soon grew into a sapling,",
+    "string": "Here, the Y'ffre priesthood planted a blessed seed in the skull of the great beast as it slept. This seed soon grew into a sapling...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050FB89E|018Auri.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "the sapling into a great tree, and the great tree into the Barrowbough. The bones have not stirred since.",
+    "string": "...the sapling into a great tree, and the great tree into the Barrowbough. The bones have not stirred since.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050FB89E|018Auri.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Though silent, these remains are brought to Arborfell--now the \"Bone Orchard\"--in hopes that they will always remain so.",
+    "string": "Though silent, these remains are brought to Arborfell, now the \"Bone Orchard\", in hopes that they will always remain so.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050FB89E|018Auri.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "This tradition has spread throughout Valenwood.Bosmer far and wide have taken to burying the bones of their loved ones in the shade of the Barrowboug",
+    "string": "This tradition has spread throughout Valenwood. Bosmer far and wide have taken to burying the bones of their loved ones in the shade of the Barrowboug.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriCultureHouses",
+    "form_id": "051007D3|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "If you can't use wood, how do you build your houses?",
+    "string": "If you are not allowed to use wood, then how do you build your homes, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051007D4|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We don't! Our homes aren't as much built as they're grown. The spinners sing to the trees, who coil their bark and leaves into cosy little pods.",
+    "string": "We don't! Our homes aren't as much built as they're grown. The spinners sing to the trees, who coil their bark and leaves into cozy little pods.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriChatRedemption01",
+    "form_id": "05107EA6|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you think your kin could forgive you?",
+    "string": "Do you believe that your kin would forgive you, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriTalkNamira01Topic",
+    "form_id": "05183584|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want to talk about Namira.",
+    "string": "Khajiit wishes to speak about Namira, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriTalkNamiraNo01",
+    "form_id": "05183586|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Of course not.",
+    "string": "Certainly not, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriTalkNamiraYes01",
+    "form_id": "05183588|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't see the difference.",
+    "string": "Khajiit eyes do not see the difference, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriTalkNamirYes02",
+    "form_id": "0518868B|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I liked it.",
+    "string": "Khajiit enjoyed this, indeed.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriTalkNamiraNo02",
+    "form_id": "0518868C|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It was disgusting.",
+    "string": "It was disgusting, indeed. Truly disgusting...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0518868D|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heh, I suppose it's an aquired taste. I suppose I can't be expecting you to join me in my future post-battle meals, then?",
+    "string": "Heh, I suppose it's an acquired taste. I suppose I can't be expecting you to join me in my future post-battle meals, then?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriHircine01Topic",
+    "form_id": "05188691|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want to talk about Hircine.",
+    "string": "Khajiit wishes to speak about Hircine, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriHircine02",
+    "form_id": "05188693|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you worship Hircine?",
+    "string": "Do you worship Hircine, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriTalkHircine03",
+    "form_id": "05192897|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is the Wild Hunt?",
+    "string": "What is this \"Wild Hunt\", exactly?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05192898|018Auri.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "As I mentioned before, we were once formless, chaotic, shapeshifting beings. Y'ffre gifted us our sacred Bosmer form, saving us from that chaos.",
+    "string": "As I mentioned before, we were once formless, chaotic, shape-shifting beings. Y'ffre gifted us our sacred Bosmer form, saving us from that chaos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05192898|018Auri.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "The Wild Hunt allows us to return to that chaos, becoming unstoppable shapeshifting god-creatures.",
+    "string": "The Wild Hunt allows us to return to that chaos, becoming unstoppable shape-shifting god-creatures. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05192898|018Auri.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "Unfortunately, it also cuts us off from Y'ffre completely, and those who changed their forms for the Wild Hunt end up tearing themselves to pieces,",
+    "string": "Unfortunately, it also cuts us off from Y'ffre completely, and those who changed their forms for the Wild Hunt end up tearing themselves to pieces...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05192898|018Auri.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "once the battle is over. It's really not something that happens often. As far as I know, it's only happened three times in all of history.",
+    "string": "...once the battle is over. It's really not something that happens often. As far as I know, it's only happened three times in all of history.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriTalkHircine04",
+    "form_id": "05192899|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That sounds amazing!",
+    "string": "That sounds amazing to Khajiit ears, indeed!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0519289A|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ha! I suppose it does. But don't expect to see me turning into a liquid monstrousity. I'm happy just the way I am.",
+    "string": "Ha! I suppose it does. But don't expect to see me turning into a liquid monstrosity. I'm happy just the way I am.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriTalkThievesGuildTopic",
+    "form_id": "0519799E|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want to talk about the Thieves Guild.",
+    "string": "Khajiit wishes to speak about the Thieves Guild, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0519799F|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Indeed! So you're a Nightingale now. How does it feel?",
+    "string": "Indeed! So, you're a Nightingale now. How does it feel?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriTalkThievesGuild01",
+    "form_id": "051979A0|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't really feel any different.",
+    "string": "<Alias=Player> does not feel any different, truly.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriTalkThievesGuild02",
+    "form_id": "051979A2|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It feels great.",
+    "string": "It feels great, indeed.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriTalkThievesGuild04",
+    "form_id": "051A1BA8|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Not really, no.",
+    "string": "Actually, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriTalkThievesGuild05",
+    "form_id": "051A1BAA|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I guess I do feel a little different.",
+    "string": "<Alias=Player> has been feeling a little different, surely.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriTalkDarkBrotherhoodTopic",
+    "form_id": "051A6CAF|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want to talk about the Dark Brotherhood.",
+    "string": "Khajiit wishes to speak about the Dark Brotherhood, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018DarkBrotherhood01",
+    "form_id": "051A6CB1|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you think I'm a bad person for joining the Dark Brotherhood?",
+    "string": "Do you believe this one to be a bad Khajiit for joining the Dark Brotherhood, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051A6CB2|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hm, well... Not necessarily. When someone is killed with a dagger, do you blame the dagger, or the person wielding it?",
+    "string": "Hmm, well... Not necessarily. When someone is killed with a dagger, do you blame the dagger, or the person wielding it?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051A6CB2|018Auri.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "You are the dagger. It's not the most honorable path you could've chosen, but you are only doing what you've been hired to do.",
+    "string": "You are the dagger. It's not the most honorable path you could've chosen, but you are only doing what you've been hired to do. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018DarkBrotherhood02",
+    "form_id": "051A6CB3|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "But without me, the killer might not have the means to do it.",
+    "string": "But without Khajiit, the killer would not have the means to do it, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriDarkBrotherhood03",
+    "form_id": "051ABDB6|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's a little naive of you.",
+    "string": "Khajiit does not wish to offend, but that is a little naive of you, no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051ABDB7|018Auri.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "And... No offence, but I'm not sure that's the kind of company I want to keep.",
+    "string": "And... No offense, but I'm not sure that's the kind of company I want to keep.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriDarkBrotherhood04",
+    "form_id": "051ABDB8|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I agree.",
+    "string": "Khajiit agrees, yes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "051ABDB9|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That's very good, my Murderous companion.",
+    "string": "That's very good, my murderous companion.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriBloodTopic",
+    "form_id": "051E38D3|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Auri, could you do me a favor?",
+    "string": "Khajiit wishes for a favor, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriBloodok",
+    "form_id": "051E38D5|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Please, Auri. Think of what we could learn!",
+    "string": "Khajiit begs of you, Auri. Imagine what could be learned, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Aurineedblood",
+    "form_id": "051E89D8|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need some of your blood, for Septimus' Dwemer lockbox.",
+    "string": "<Alias=Player> is in need of a blood sample for the Dwemer lockbox of Septimus, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriThalmorTopic",
+    "form_id": "0521630A|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you think of the Thalmor?",
+    "string": "What are your thoughts on the Thalmor, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriThalmor01",
+    "form_id": "0521630C|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So your family are supporters of the Empire?",
+    "string": "So, your clan supports the Imperial Empire, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriThalmor02",
+    "form_id": "0521630E|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Haven't the Thalmor tried to control the clans?",
+    "string": "The Thalmor have tried to control the clans, no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0521630F|018Auri.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "They know it would be suicide, and so they left us alone to follow our traditions. Here in Skyrim I see much of their sickly need to control,",
+    "string": "They know it would be suicide, and so they left us alone to follow our traditions. Here in Skyrim I see much of their sickly need to control...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0521630F|018Auri.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "and it disgusts me.",
+    "string": "...and it disgusts me. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriFamilyRitual",
+    "form_id": "05216310|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "So I heard about this... Disturbing ritual about replacing dead family members.",
+    "string": "So... Khajiit ears have heard about a disturbing ritual... about replacing dead clan members. Surely this is untrue, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriMourningWars01",
+    "form_id": "05216312|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Could you explain to me what exactly it entails?",
+    "string": "Could you explain what it entails, exactly?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AurMourningWars03",
+    "form_id": "05216314|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "That's horrible!",
+    "string": "That is a horrible thought, indeed!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriMourningWars04",
+    "form_id": "05216316|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "But imagine the emotional damage the torture must cause. Could you forgive that?",
+    "string": "But imagine the emotional damage the torture must cause, yes? How could you forgive that, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriMourningWars05",
+    "form_id": "05216318|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why replace them at all? Why not mourn them, and let them rest in peace?",
+    "string": "Why replace them at all, hmm? Why not simply mourn them, and allow them rest in peace, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05216319|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "...Yes, I suppose you're right. Thank you, you've given me much to think about.",
+    "string": "Yes, I suppose you're right. Thank you, you've given me much to think about.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriMount01",
+    "form_id": "05252F62|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is that animal you ride around on?",
+    "string": "What is this animal you ride around on, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0525D16E|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gah! Errh, hello, tiny human...",
+    "string": "Gah! Er, hello, tiny human...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0525D184|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gah! Errh, hello, tiny human...",
+    "string": "Gah! Er, hello, tiny human...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriMeeting12",
+    "form_id": "05280972|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Where are you from?",
+    "string": "Khajiit is curious... Where are you from, exactly?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriMeetingSkyrim",
+    "form_id": "05280974|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, born and raised.",
+    "string": "Indeed, yes! Khajiit was born and raised here.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriMeetingCyrodiil",
+    "form_id": "05280976|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, I'm from Cyrodiil.",
+    "string": "No, Khajiit hails from Cyrodiil.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriMeetingHammerfell",
+    "form_id": "05280977|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, I'm from Hammerfell.",
+    "string": "No, Khajiit hails from Hammerfell.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriMeetingMorrowind",
+    "form_id": "0528097A|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, I'm from Morrowind.",
+    "string": "No, Khajiit hails from Morrowind.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0528097B|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Morrowind, huh. I hear it's, um... Ashy, there.",
+    "string": "Morrowind, huh. I hear it's, umm... Ashy, there.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriMeetingElsweyr",
+    "form_id": "0528097C|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I come from Elsweyr.",
+    "string": "No, Khajiit hails from Elsweyr...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriMeetingHighrock",
+    "form_id": "0528097E|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, I come from High Rock.",
+    "string": "No, Khajiit hails from High Rock.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriMeetingBlackmarsh",
+    "form_id": "05280980|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No, I'm from Black Marsh.",
+    "string": "No, Khajiit hails from the Black Marsh.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriMeetingSummerset",
+    "form_id": "05280982|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I hail from the Summerset Isle.",
+    "string": "Khajiit hails from the Summerset Isles, yes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriMeetingValenwood",
+    "form_id": "05280984|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm from Valenwood as well.",
+    "string": "Khajiit is from Valenwood as well, hard as that is to believe, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriMeeting14",
+    "form_id": "05280989|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Like the back of my hand.",
+    "string": "Like the back of <Alias.PronounPosObj=Player> paw, yes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriMeeting15",
+    "form_id": "0528098A|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Not yet. I'm still exploring, myself.",
+    "string": "Not yet, no. This one continues to explore this land.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriMeeting17",
+    "form_id": "05285A90|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why not, I could use a traveling companion.",
+    "string": "Khajiit accepts. It would be good to have company on these lonely roads, indeed. And safer, no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriMeeting18",
+    "form_id": "05285A92|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No thank you, I prefer to travel alone.",
+    "string": "Many thanks, but no. Khajiit prefers to travel alone...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052AE2B0|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Woah! I'm not sure what I was expecting, but this isn't it.",
+    "string": "Whoa! I'm not sure what I was expecting, but this isn't it.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052B33B5|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I suppose we're officially Vampire Hunters now. Hmmm. Vampire Hunter Auri. Sounds great.",
+    "string": "I suppose we're officially Vampire Hunters now. Hmm. Vampire Hunter Auri. Sounds great.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053E84DB|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know, this is usually what happens when you have too much rotmeth. I wouldn't feel too bad about it, it happens to the best of us.",
+    "string": "You know, this is usually what happens when you have too much Rotmeth. I wouldn't feel too bad about it, it happens to the best of us.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052C26CF|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Clears throat)",
+    "string": "(clears throat)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053CEFC7|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Yawn)",
+    "string": "(yawns)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052C26CA|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You shouldn't. The nords tolerate us at best, and it doesn't exactly inspire patriotism.",
+    "string": "You shouldn't. The Nords tolerate us at best, and it doesn't exactly inspire patriotism. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052C26CE|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Erm, sure, as soon as they stop shouting \"Skyrim for the Nords!\" the moment I step into Windhelm.",
+    "string": "Um, sure, as soon as they stop shouting \"Skyrim for the Nords!\" the moment I step into Windhelm.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018ThoughtsTopic",
+    "form_id": "052D19DC|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's on your mind?",
+    "string": "So, what is in your mind, Auri? This is the saying, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052E0CE7|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mushroom-houses. Heheheh.",
+    "string": "Mushroom-houses. He-he-heh.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052FF31F|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Um. Don't take this the wrong way, but I think maybe you should take a bath.",
+    "string": "Umm. Don't take this the wrong way, but I think maybe you should take a bath.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052FF326|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You've defeated the World Eater, and saved us all. So how does it feel, show-off?",
+    "string": "You've defeated the World Eater, and saved us all. So, how does it feel, show-off?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05304436|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The other day I came upon this Nord love story, I think it was called \"Fjori and Holgeir?\"",
+    "string": "The other day I came upon this Nord love story, I think it was called \"Fjori and Holgeir\"? ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0535574A|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Food. He he.",
+    "string": "Food. He-he.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Solstheimresponse",
+    "form_id": "052E5DEA|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm sorry, Auri.",
+    "string": "Apologies, Auri.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Solstheimresponse2",
+    "form_id": "052E5DEC|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Get ahold of yourself.",
+    "string": "Khajiit believe that you should gain control of yourself, yes? Like, now.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriTalkEndBranchTopic",
+    "form_id": "052EAEF9|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This is it, Auri. I can't bring you along past this point.",
+    "string": "This is it, Auri. Khajiit is unable to bring you beyond this point, friend.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriEnd01",
+    "form_id": "052EAEFB|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's better this way.",
+    "string": "It is better this way, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriEnd02",
+    "form_id": "052EAEFD|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Me too.",
+    "string": "Khajiit as well.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriEnd04",
+    "form_id": "052EAF01|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll see you soon, Auri.",
+    "string": "Khajiit eyes will see Auri soon, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018AuriEnd05",
+    "form_id": "052EAF03|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I love you.",
+    "string": "<Alias=Player> loves you, Auri.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Dragonriding",
+    "form_id": "052FF311|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Jealous?",
+    "string": "Jealous, perhaps?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Party01",
+    "form_id": "052FF314|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Terribly boring.",
+    "string": "Khajiit was SO bored... <Alias.Pronoun=Player> felt like biting <Alias.PronounPosObj=Player> own tail for at least SOME excitement, indeed!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Party02",
+    "form_id": "052FF315|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It was great. I enjoyed it.",
+    "string": "It was great, yes! Khajiit enjoyed it, indeed.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Party03",
+    "form_id": "052FF316|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It was okay, as far as parties go.",
+    "string": "It was fine, yes... as far as parties are concerned. Khajiit has attended better, surely.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018DefeatAlduin01",
+    "form_id": "052FF327|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Careful, Auri. Your envy is showing.",
+    "string": "Careful, Auri. Your envy is showing... (smirk)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052FF328|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Chuckle)",
+    "string": "(chuckles)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018defeatAlduin02",
+    "form_id": "052FF329|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It feels pretty great.",
+    "string": "It feels great, indeed.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "052FF32A|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Chuckle)",
+    "string": "(chuckles)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018DefeatAlduin03",
+    "form_id": "052FF32B|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It wasn't that difficult.",
+    "string": "It was not that difficult, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Silvenar01",
+    "form_id": "05304437|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What is it about?",
+    "string": "What is it about, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018EatVeg",
+    "form_id": "05355746|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "If the Green Pact only applies to Valenwood, why are you following it in Skyrim?",
+    "string": "Khajiit is curious... If the Green Pact only applies to Valenwood, why are you following it in Skyrim, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018EatVeg2",
+    "form_id": "05355748|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No need to get angry, I was just asking.",
+    "string": "There is no need for anger, no. Khajiit was simply asking, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018howareyou01",
+    "form_id": "05369B54|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm doing well, thanks. And you?",
+    "string": "Khajiit is doing well, indeed. And what of you, hmm?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018howareyou02",
+    "form_id": "05369B58|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Not very well.",
+    "string": "Khajiit is... not very well, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Notgood01",
+    "form_id": "05369B5A|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't know. It's just difficult, sometimes.",
+    "string": "Khajiit... does not know, exactly. It is simply... difficult, sometimes, yes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018responsibility01",
+    "form_id": "05369B5C|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Everyone expects so much from me. It's like the responsibility is crushing me.",
+    "string": "Everyone expects so much from this one, yes? The responsibility crushes <Alias.PronounObj=Player> like a boulder, indeed.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018responsibility02",
+    "form_id": "05369B5D|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "As the Dragonborn, I'll never live a normal life.",
+    "string": "As Dragonborn, Khajiit will never live a normal life, indeed.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05369B61|018Auri.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Your story is a complex one, one that weaves through the webs of many other stories. One little pull from you can change the fate of the entire world",
+    "string": "Your story is a complex one, one that weaves through the webs of many other stories. One little pull from you can change the fate of the entire world!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05369B61|018Auri.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I know it isn't much, but I want you to know that I'm here to share your burden in any way I can.",
+    "string": "I know it isn't much, but I want you to know that I'm here to share your burden in any way I can. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018thankyouAuri",
+    "form_id": "05369B62|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Thank you, Auri.",
+    "string": "Muchas gracias, Auri.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Regret",
+    "form_id": "05369B64|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I did something I regret.",
+    "string": "Este Khajiit ha hecho algo de lo que <Alias.Pronoun=Player> se arrepiente profundamente, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05369B65|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hmh. A feeling I know all too well, as you know. While I sometimes fantasize about becoming a Spinner and going back in time to change things,",
+    "string": "Hmm. Un sentimiento que este Khajiit conoce demasiado bien, como sabes. Aunque a veces fantasea con convertirse en Spinner y regresar en el tiempo para cambiar las cosas...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05369B65|018Auri.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I don't actually know if that would make anything better. What if I hadn't grabbed that burning piece of bone?",
+    "string": "...este Khajiit en realidad no sabe si eso mejoraría algo. ¿Qué habría pasado si no hubiera tomado aquel hueso en llamas?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05369B65|018Auri.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Would my sister have died? Was there a third option? I don't know.All we can do, is learn from the mistakes we've made, and grow.",
+    "string": "¿Habría muerto mi hermana? ¿Había una tercera opción? No lo sé. Lo único que podemos hacer es aprender de los errores que hemos cometido y crecer.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018loss01",
+    "form_id": "05369B66|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I lost someone important to me.",
+    "string": "<Alias=Player> ha perdido a alguien importante para <Alias.PronounObj=Player>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018loss02",
+    "form_id": "05369B68|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Not really, but thank you anyway.",
+    "string": "Por desgracia, no. Pero este Khajiit te agradece la oferta, amigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018loss03",
+    "form_id": "05369B6A|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It just hurts so much. I feel like I'm going to break.",
+    "string": "Duele tanto que este Khajiit siente que <Alias.Pronoun=Player> se partirá en dos, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Stormcloak01",
+    "form_id": "05369B6D|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't agree with racism, but I'm opposed to Imperial and Thalmor oppression.",
+    "string": "Este Khajiit ciertamente no está de acuerdo con el racismo que existe en el mundo, no. Pero <Alias.Pronoun=Player> también se opone a la opresión del Imperio y del Thalmor, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Stormcloak02",
+    "form_id": "05369B6F|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What would you do if the Empire suddenly forbade you from worshiping Y'ffre?",
+    "string": "¿Qué harías si el Imperial Empire de repente te prohibiera adorar a Y'ffre, hmm? Ciertamente disfrutan oprimiendo las religiones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Stormcloak03",
+    "form_id": "05369B71|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, I do. Skyrim has and will always belong to the Nords.",
+    "string": "Sí, este Khajiit sí lo cree, aunque no lo creas. Skyrim debería pertenecer a los Nórdicos, así como Elsweyr debería pertenecer a los Khajiit, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05369B72|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you serious? So you think everyone who is not a Nord should just get out?",
+    "string": "¿Hablas en serio? Entonces, ¿crees que todos los que no sean Nórdicos deberían simplemente marcharse?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018stormcloak04",
+    "form_id": "05369B73|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, definitely.",
+    "string": "En su mayor parte, sí. Este Khajiit sabe lo que eso implica, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05369B74|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Um, I don't know if you've noticed, but I'm not a Nord. Are you telling me you want me to get out and go back where I came from?",
+    "string": "Umm, no sé si te has dado cuenta, pero no soy Nórdico. ¿Me estás diciendo que quieres que me marche y regrese de donde vine?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Stormcloak05",
+    "form_id": "05369B75|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Of course not, Auri. That's not what I meant.",
+    "string": "Por supuesto que no, Auri. Eso no es lo que este Khajiit quiso decir, no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Stormcloak06",
+    "form_id": "05369B77|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, that's exactly what I'm telling you.",
+    "string": "Sí, eso es lo que este Khajiit cree, en efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05369B78|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I.. You... Wow. I'm actually speechless. I expected so much more from you. I think I need to reconsider our friendship.",
+    "string": "Yo... Tú... Vaya. Este Khajiit se ha quedado sin palabras. Esperaba mucho más de ti. Creo que tendré que reconsiderar nuestra amistad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Imperial01",
+    "form_id": "05373D7F|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No. If it were up to me, we'd be destroying the Thalmor next.",
+    "string": "En absoluto, Auri. Si realmente dependiera de <Alias=Player>, el Thalmor sería el siguiente en la lista de este Khajiit para destruir.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Imperial03",
+    "form_id": "05373D81|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Yes, I agree with the Thalmor.",
+    "string": "Este Khajiit está de acuerdo con el Thalmor, sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "053CEFC0|018Auri.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ooh, it's that kind of game, is it... Are you sure you want to hunt this elf, tiny human?",
+    "string": "Oh, es ese tipo de juego, ¿eh?... ¿Estás seguro de que quieres cazar a este Elfo, pequeño humano?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Death",
+    "form_id": "053F77F0|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I believe I'll go to Sovngarde.",
+    "string": "Este Khajiit cree que los ojos de <Alias.PronounPosObj=Player> verán algún día los Sands Behind the Stars, en efecto. Donde <Alias.Pronoun=Player> jugará hasta el Next Pounce.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Death01",
+    "form_id": "053F77F2|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've promised my soul to a Daedric Prince.",
+    "string": "Este Khajiit ha prometido el alma de <Alias.PronounPosObj=Player> a un Príncipe daédrico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "018Death02",
+    "form_id": "053F77F4|018Auri.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I don't really know.",
+    "string": "Este Khajiit no está seguro de eso, no.",
+    "status": "TranslationComplete"
+  }
+]

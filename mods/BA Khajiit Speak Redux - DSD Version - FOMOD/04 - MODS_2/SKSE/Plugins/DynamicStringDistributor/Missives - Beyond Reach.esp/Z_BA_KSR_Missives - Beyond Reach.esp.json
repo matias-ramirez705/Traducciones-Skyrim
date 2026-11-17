@@ -1,0 +1,317 @@
+[
+  {
+    "editor_id": "_M_QuestBeyondReachCourierLetterHighAcceptTopic",
+    "form_id": "0800081B|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee Khajiit está aquí por el trabajo de entrega... un Argoniano se compromete a esto, ¿sííí? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto suena convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachCourierLetterHighDeliveryTopic",
+    "form_id": "0800081C|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=Player> tiene una carta para ti de <Alias=QuestGiver> de <Alias=City>, amigo. El sello se rompió cuando le dieron la carta a este Khajiit, ¿sí? Este no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachCourierLetterLowAcceptTopic",
+    "form_id": "0800081D|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee Khajiit está aquí por el trabajo de entrega... un Argoniano se compromete a esto, ¿sííí? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto suena convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachCourierLetterLowDeliveryTopic",
+    "form_id": "0800081E|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=Player> tiene una carta para ti de <Alias=QuestGiver> de <Alias=City>, amigo. El sello se rompió cuando le dieron la carta a este Khajiit, ¿sí? Este no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachCourierLetterMedAcceptTopic",
+    "form_id": "0800081F|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee Khajiit está aquí por el trabajo de entrega... un Argoniano se compromete a esto, ¿sííí? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto suena convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachCourierLetterMedDeliveryTopic",
+    "form_id": "08000820|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a letter for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=Player> tiene una carta para ti de <Alias=QuestGiver> de <Alias=City>, amigo. El sello se rompió cuando le dieron la carta a este Khajiit, ¿sí? Este no mentiría...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachCourierWeaponHighAcceptTopic",
+    "form_id": "08000821|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee Khajiit está aquí por el trabajo de entrega... un Argoniano se compromete a esto, ¿sííí? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto suena convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachCourierWeaponHighDeliveryTopic",
+    "form_id": "08000822|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=Player> tiene un arma para ti de <Alias=QuestGiver> de <Alias=City>, ¿sí? Fue probada con muy buenos resultados en grupos de skeevers...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachCourierWeaponLowAcceptTopic",
+    "form_id": "08000823|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee Khajiit está aquí por el trabajo de entrega... un Argoniano se compromete a esto, ¿sííí? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto suena convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachCourierWeaponLowDeliveryTopic",
+    "form_id": "08000824|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=Player> tiene un arma para ti de <Alias=QuestGiver> de <Alias=City>, ¿sí? Fue probada con muy buenos resultados en grupos de skeevers...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachCourierWeaponMedAcceptTopic",
+    "form_id": "08000825|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee Khajiit está aquí por el trabajo de entrega... un Argoniano se compromete a esto, ¿sííí? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto suena convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachCourierWeaponMedDeliveryTopic",
+    "form_id": "08000826|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a weapon for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "<Alias=Player> tiene un arma para ti de <Alias=QuestGiver> de <Alias=City>, ¿sí? Fue probada con muy buenos resultados en grupos de skeevers...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachGatherIngrHighRewardTopic",
+    "form_id": "08000827|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "\"Si alguna vez hubo un objeto por encontrar, este <Alias=Item> sería ese... pues ha traído con gran prosperidad un deseo espantoso de un lugar de descanso... no, de un manto cálido... para llamar 'hogar'\". Este Khajiit está intentando audicionar para la troupe local de teatro. <Alias.PronounCap=Player> es bueno, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachGatherIngrLowRewardTopic",
+    "form_id": "08000828|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "\"Si alguna vez hubo un objeto por encontrar, este <Alias=Item> sería ese... pues ha traído con gran prosperidad un deseo espantoso de un lugar de descanso... no, de un manto cálido... para llamar 'hogar'\". Este Khajiit está intentando audicionar para la troupe local de teatro. <Alias.PronounCap=Player> es bueno, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachGatherIngrMedRewardTopic",
+    "form_id": "08000829|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "\"Si alguna vez hubo un objeto por encontrar, este <Alias=Item> sería ese... pues ha traído con gran prosperidad un deseo espantoso de un lugar de descanso... no, de un manto cálido... para llamar 'hogar'\". Este Khajiit está intentando audicionar para la troupe local de teatro. <Alias.PronounCap=Player> es bueno, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachGatherInnRewardTopic",
+    "form_id": "0800082A|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you needed.",
+    "string": "El 'objeto', que 'necesitabas', está 'aquí', con este Khajiit, 'amigo'. Tú 'compensarás' a <Alias.PronounObj=Player> por sus 'problemas', ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachGatherOreHighRewardTopic",
+    "form_id": "0800082B|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "\"Si alguna vez hubo un objeto por encontrar, este <Alias=Item> sería ese... pues ha traído con gran prosperidad un deseo espantoso de un lugar de descanso... no, de un manto cálido... para llamar 'hogar'\". Este Khajiit está intentando audicionar para la troupe local de teatro. <Alias.PronounCap=Player> es bueno, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachGatherOreLowRewardTopic",
+    "form_id": "0800082C|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "\"Si alguna vez hubo un objeto por encontrar, este <Alias=Item> sería ese... pues ha traído con gran prosperidad un deseo espantoso de un lugar de descanso... no, de un manto cálido... para llamar 'hogar'\". Este Khajiit está intentando audicionar para la troupe local de teatro. <Alias.PronounCap=Player> es bueno, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachGatherOreMedRewardTopic",
+    "form_id": "0800082D|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "\"Si alguna vez hubo un objeto por encontrar, este <Alias=Item> sería ese... pues ha traído con gran prosperidad un deseo espantoso de un lugar de descanso... no, de un manto cálido... para llamar 'hogar'\". Este Khajiit está intentando audicionar para la troupe local de teatro. <Alias.PronounCap=Player> es bueno, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachGatherOreVeryHighRewardTopic",
+    "form_id": "0800082E|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Debe haber algo en estos <Alias=Item>s, en efecto. Esta es la cuarta vez este mes que este Khajiit entrega estas cosas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachGatherSoulGemHighRewardTopic",
+    "form_id": "0800082F|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "\"Si alguna vez hubo un objeto por encontrar, este <Alias=Item> sería ese... pues ha traído con gran prosperidad un deseo espantoso de un lugar de descanso... no, de un manto cálido... para llamar 'hogar'\". Este Khajiit está intentando audicionar para la troupe local de teatro. <Alias.PronounCap=Player> es bueno, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachGatherSoulGemLowRewardTopic",
+    "form_id": "08000830|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Debe haber algo en estos <Alias=Item>s, en efecto. Esta es la cuarta vez este mes que este Khajiit entrega estas cosas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachGatherSoulGemMedRewardTopic",
+    "form_id": "08000831|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item>s that you were looking for.",
+    "string": "Debe haber algo en estos <Alias=Item>s, en efecto. Esta es la cuarta vez este mes que este Khajiit entrega estas cosas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachKillAnimalRewardTopic",
+    "form_id": "08000832|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "<Alias=Dungeon> has been cleared, I'm here for the bounty.",
+    "string": "<Alias=Dungeon> ha sido limpiado, sí. <Alias=Player> ha venido por la recompensa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachKillForswornRewardTopic",
+    "form_id": "08000833|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The leader of <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "Este Khajiit ha derrotado al líder de <Alias=Dungeon>, y a todos sus esbirros, y a las mascotas rabiosas, ¡e incluso a esos molestos libros rotos! No hay necesidad de preocuparse, amigo... todos los libros están muertos, en efecto...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachKillDragonRewardTopic",
+    "form_id": "08000834|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The dragon at <Alias=Dungeon> is dead, I'm here for the bounty.",
+    "string": "Este Khajiit ha matado al dragón en <Alias=Dungeon>, sí. Si necesitas prueba, ve hacia esa colina y sigue tu nariz... ¡Por las Lunas Oscuras, apestan! Es como una combinación de orina de skeever y heces de mamut. ¡Ziss!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachRetrieveHideoutRewardTopic",
+    "form_id": "08000835|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "(canta) \"Uno por los septims, dos por el pan dulce, tres por el <Alias.BaseName=Item>, ¡y luego mata a un troll de montaña!\" Este Khajiit tiene voz, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachRetrieveRuinsRewardTopic",
+    "form_id": "08000836|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have the <Alias=Item> that you were looking for.",
+    "string": "\"Si alguna vez hubo un objeto por encontrar, este <Alias=Item> sería ese... pues ha traído con gran prosperidad un deseo espantoso de un lugar de descanso... no, de un manto cálido... para llamar 'hogar'\". Este Khajiit está intentando audicionar para la troupe local de teatro. <Alias.PronounCap=Player> es bueno, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachRetrieveWildernessRewardTopic",
+    "form_id": "08000837|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have your <Alias.BaseName=Item>.",
+    "string": "(canta) \"Uno por los septims, dos por el pan dulce, tres por el <Alias.BaseName=Item>, ¡y luego mata a un troll de montaña!\" Este Khajiit tiene voz, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachCourierPotionLowAcceptTopic",
+    "form_id": "0800083E|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee Khajiit está aquí por el trabajo de entrega... un Argoniano se compromete a esto, ¿sííí? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto suena convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachCourierPotionLowDeliverTopic",
+    "form_id": "08000840|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Este tiene una poción para ti de <Alias=QuestGiver> de <Alias=City>, ¿sí? ¡Huele como guarida de skeevers, en efecto!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachCourierPotionHighAcceptTopic",
+    "form_id": "08000841|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee Khajiit está aquí por el trabajo de entrega... un Argoniano se compromete a esto, ¿sííí? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto suena convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachCourierPotionMedAcceptTopic",
+    "form_id": "08000842|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm here for the delivery job you posted.",
+    "string": "Estee Khajiit está aquí por el trabajo de entrega... un Argoniano se compromete a esto, ¿sííí? Este Khajiit está practicando el dialecto Argoniano de <Alias.PronounPosObj=Player>... esto suena convincente, quizás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachCourierPotionHighDeliveryTopic",
+    "form_id": "08000844|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Este tiene una poción para ti de <Alias=QuestGiver> de <Alias=City>, ¿sí? ¡Huele como guarida de skeevers, en efecto!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_M_QuestBeyondReachCourierPotionMedDeliveryTopic",
+    "form_id": "08000846|Missives - Beyond Reach.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have a potion for you from <Alias=QuestGiver> of <Alias=City>.",
+    "string": "Este tiene una poción para ti de <Alias=QuestGiver> de <Alias=City>, ¿sí? ¡Huele como guarida de skeevers, en efecto!",
+    "status": "TranslationComplete"
+  }
+]

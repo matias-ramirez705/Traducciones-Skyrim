@@ -1,0 +1,173 @@
+[
+  {
+    "editor_id": "SBBathBathutilitiesQuestBranch01Topic01",
+    "form_id": "05202712|Keep It Clean.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need the access key for your private bath.  (<Global=SBbathAccessCost> gold)",
+    "string": "Este Khajiit necesita la llave de acceso para su baño privado.  (<Global=SBbathAccessCost> Septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SB_CShacks_DropMenuLarge",
+    "form_id": "050493AA|Keep It Clean.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What would you like to do?",
+    "string": "¿Qué desea hacer este Khajiit?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SB_CShacks_BoxMenu",
+    "form_id": "0504F2A4|Keep It Clean.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Would you like to pick this up?",
+    "string": "¿Desea este Khajiit recoger esto?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SBBathFailMESG",
+    "form_id": "050BB82B|Keep It Clean.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You need water to wash yourself!",
+    "string": "¡Este Khajiit necesita agua para asearse!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SBBathSuccessMESG",
+    "form_id": "050CD0EE|Keep It Clean.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You feel clean and attractive",
+    "string": "Este Khajiit se siente limpio y atractivo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SBBathNotSoDirtyMESG",
+    "form_id": "050F314D|Keep It Clean.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You're no longer squeaky clean, but not quite dirty yet. The relaxing scent of soap is gone.",
+    "string": "Este Khajiit ya no está impecablemente limpio, pero tampoco está sucio aún. El relajante aroma del jabón ha desaparecido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SBBathVeryDirtyMSEG",
+    "form_id": "050F314E|Keep It Clean.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You stink! Sneaking becomes harder.\r\n ",
+    "string": "¡Este Khajiit apesta! Moverse sigilosamente se vuelve más difícil.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SBBathSuccessWashMESG",
+    "form_id": "05113425|Keep It Clean.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You feel healthy, and your nice appearance makes you more persuasive.",
+    "string": "Este Khajiit se siente saludable, y su buena apariencia lo hace más persuasivo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SBBathSuccessRelaxedMESG",
+    "form_id": "05127BD4|Keep It Clean.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You feel clean, relaxed and attractive",
+    "string": "Este Khajiit se siente limpio, relajado y atractivo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SBBathNoInnMESG",
+    "form_id": "05139490|Keep It Clean.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You need to be in a bathroom to wash yourself!",
+    "string": "¡Este Khajiit necesita estar en un baño para asearse!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SBBathDirtyMSEG",
+    "form_id": "0516F9F5|Keep It Clean.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You're dirty, bartering is harder.",
+    "string": "Este Khajiit está sucio, comerciar es más difícil.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SBBATHStatusCleanMsg",
+    "form_id": "051981FC|Keep It Clean.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You feel clean.",
+    "string": "Este Khajiit se siente limpio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SBBATHStatusNotSoDirtyMsg",
+    "form_id": "051981FD|Keep It Clean.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You don't feel squeaky clean anymore.",
+    "string": "Este Khajiit ya no se siente impecablemente limpio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SBBATHStatusDirtyMsg",
+    "form_id": "051981FE|Keep It Clean.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You feel rather dirty.",
+    "string": "Este Khajiit se siente bastante sucio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SBBATHStatusVeryDirtyMsg",
+    "form_id": "051981FF|Keep It Clean.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You stink!",
+    "string": "¡Este Khajiit apesta!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SBBATHStealWallDecorationMessage01",
+    "form_id": "0523007C|Keep It Clean.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The decoration seems very well attached to the wall, it will be difficult to take it discreetly.",
+    "string": "La decoración parece estar muy bien fijada a la pared, será difícil retirarla discretamente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SBBATHStealWallDecorationMessage01",
+    "form_id": "0523007C|Keep It Clean.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Take It!",
+    "string": "¡Tomarlo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SBBATHStealWallDecorationMessage01",
+    "form_id": "0523007C|Keep It Clean.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "I change my mind...",
+    "string": "Este Khajiit cambia de opinión...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SB_CShacks_ConfirmationMenuSimple",
+    "form_id": "050493A9|Keep It Clean.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "According to the plans, the door to the bath you wish to build will be placed where you are standing, facing the direction you're facing. Once the building is complete, it can not be reversed. Continue?",
+    "string": "Según los planos, la puerta al baño que este Khajiit desea construir se colocará donde está de pie, orientada en la dirección hacia la que mira. Una vez completada la construcción, no podrá revertirse. ¿Continuar?",
+    "status": "TranslationComplete"
+  }
+]
