@@ -1,0 +1,173 @@
+[
+  {
+    "editor_id": "aaaDisguiseNecromancerEffect",
+    "form_id": "05000800|Disguise - Additional Disguises - Special Edition.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Necromancer Disguise",
+    "string": "Disfraz de nigromante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseNecromancerEffect",
+    "form_id": "05000800|Disguise - Additional Disguises - Special Edition.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Necromancer.",
+    "string": "Estás disfrazado de nigromante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseVampireEffect",
+    "form_id": "05000808|Disguise - Additional Disguises - Special Edition.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Vampire Disguise",
+    "string": "Disfraz de vampiro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseVampireEffect",
+    "form_id": "05000808|Disguise - Additional Disguises - Special Edition.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Vampire.",
+    "string": "Estás disfrazado de vampiro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseBanditChiefEffect",
+    "form_id": "05000809|Disguise - Additional Disguises - Special Edition.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Bandit Chief Disguise",
+    "string": "Disfraz de jefe bandido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseBanditChiefEffect",
+    "form_id": "05000809|Disguise - Additional Disguises - Special Edition.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Bandit Chief.",
+    "string": "Estás disfrazado de jefe bandido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseBanditEffect",
+    "form_id": "0500080E|Disguise - Additional Disguises - Special Edition.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Bandit Disguise",
+    "string": "Disfraz de bandido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseBanditEffect",
+    "form_id": "0500080E|Disguise - Additional Disguises - Special Edition.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Bandit.",
+    "string": "Estás disfrazado de bandido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaAdditionalDisguiseAbility",
+    "form_id": "05000801|Disguise - Additional Disguises - Special Edition.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Additional Disguise",
+    "string": "Disfraz adicional",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguisePerk",
+    "form_id": "04000801|Disguise.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Disguise",
+    "string": "Ocultar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguisePerk",
+    "form_id": "04000801|Disguise.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You will be recognized as a member of various factions while wearing that faction's armor or clothing.",
+    "string": "Serás reconocido como miembro de varias facciones mientras lleves puesta la armadura o vestimenta de esa facción.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseNecromancerStartMessage",
+    "form_id": "05000802|Disguise - Additional Disguises - Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Necromancer.",
+    "string": "Ahora estás disfrazado de nigromante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseNecromancerFinishMessage",
+    "form_id": "05000803|Disguise - Additional Disguises - Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Necromancer.",
+    "string": "Ya no estás disfrazado de nigromante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseVampireStartMessage",
+    "form_id": "05000804|Disguise - Additional Disguises - Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Vampire.",
+    "string": "Ahora estás disfrazado de vampiro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseVampireFinishMessage",
+    "form_id": "05000805|Disguise - Additional Disguises - Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Vampire.",
+    "string": "Ya no estás disfrazado de vampiro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseBanditChiefStartMessage",
+    "form_id": "05000806|Disguise - Additional Disguises - Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Bandit Chief.",
+    "string": "Ahora estás disfrazado de jefe bandido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseBanditChiefFinishMessage",
+    "form_id": "05000807|Disguise - Additional Disguises - Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Bandit Chief.",
+    "string": "Ya no estás disfrazado de jefe bandido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseBanditStartMessage",
+    "form_id": "0500080C|Disguise - Additional Disguises - Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Bandit.",
+    "string": "Ahora estás disfrazado de bandido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseBanditFinishMessage",
+    "form_id": "0500080D|Disguise - Additional Disguises - Special Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Bandit.",
+    "string": "Ya no estás disfrazado de bandido.",
+    "status": "TranslationComplete"
+  }
+]

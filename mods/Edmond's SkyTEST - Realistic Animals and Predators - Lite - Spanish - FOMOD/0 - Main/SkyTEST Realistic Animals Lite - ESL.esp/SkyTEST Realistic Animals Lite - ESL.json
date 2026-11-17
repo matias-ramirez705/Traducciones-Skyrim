@@ -1,0 +1,1577 @@
+[
+  {
+    "editor_id": "CreatureFaction",
+    "form_id": "00000013|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Creature Faction",
+    "string": "Facción de criaturas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PredatorFaction",
+    "form_id": "0002E893|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Predator Faction",
+    "string": "Facción de depredador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PreyFaction",
+    "form_id": "0002E894|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Prey Faction",
+    "string": "Facción de presa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WolfFaction",
+    "form_id": "0003E691|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Wolf Faction",
+    "string": "Facción de lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SlaughterfishFaction",
+    "form_id": "000418EA|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Slaughterfish Faction",
+    "string": "Facción de pez asesino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MammothFaction",
+    "form_id": "0004359B|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Mammoth Faction",
+    "string": "Facción de mamut",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GoatFaction",
+    "form_id": "0004359D|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Goat Faction",
+    "string": "Facción de cabras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SabreCatFaction",
+    "form_id": "000435A2|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Sabre Cat Faction",
+    "string": "Facción de gato sable",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoxFaction",
+    "form_id": "0009A741|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Wolf Faction",
+    "string": "Facción de lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KynesPeaceFaction",
+    "form_id": "000E0D58|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Kyne's Peace",
+    "string": "Paz de Kyne",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BearFaction",
+    "form_id": "000FBBF3|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Bear Faction",
+    "string": "Facción del Oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestAnimalsFaction",
+    "form_id": "05000D6B|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Animal Faction",
+    "string": "Facción animal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestBearBlackFaction",
+    "form_id": "05000D6C|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Bear Black Faction",
+    "string": "Facción de osos negros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestBearBlackFemaleFaction",
+    "form_id": "05000D6D|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Bear Black Female Faction",
+    "string": "Facción de osas negras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestBearBlackMaleFaction",
+    "form_id": "05000D6E|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Bear Black Male Faction",
+    "string": "Facción de osos negros machos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestBearBrownFaction",
+    "form_id": "05000D6F|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Bear Brown Faction",
+    "string": "Facción de osos pardos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestBearBrownFemaleFaction",
+    "form_id": "05000D70|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Bear Brown Female Faction",
+    "string": "Facción de osas pardas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestBearBrownMaleFaction",
+    "form_id": "05000D71|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Bear Brown Male Faction",
+    "string": "Facción de osos pardos machos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestBearsFaction",
+    "form_id": "05000D72|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Bear Faction",
+    "string": "Facción de osos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestBearWhiteFaction",
+    "form_id": "05000D73|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Bear White Faction",
+    "string": "Facción de osos blancos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestBearWhiteFemaleFaction",
+    "form_id": "05000D74|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Bear White Female Faction",
+    "string": "Facción de osas blancas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestBearWhiteMaleFaction",
+    "form_id": "05000D75|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Bear White Male Faction",
+    "string": "Facción de osos blancos machos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestDeerFaction",
+    "form_id": "05000D77|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Deer Faction",
+    "string": "Facción de ciervos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestFriendlyFaction",
+    "form_id": "05000D7D|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "SkyTestFriendlyFaction",
+    "string": "Facción de animales amistosos de SkyTest",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTESTGooseFaction",
+    "form_id": "05000D81|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "SkyTESTGooseFaction",
+    "string": "Facción de gansos de SkyTEST",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTESTHorseWildFaction",
+    "form_id": "05000D82|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Horse Wild Faction",
+    "string": "Facción de caballos salvajes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestMudCrabFaction",
+    "form_id": "05000D84|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "MudCrab Faction",
+    "string": "Facción de cangrejos de barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestPredatorsFaction",
+    "form_id": "05000D86|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Predator Faction",
+    "string": "Facción de depredadores",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestPreyFaction",
+    "form_id": "05000D87|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "SkyTEST Prey Faction",
+    "string": "Facción de presas de SkyTEST",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestSabreCatRegularFemaleFaction",
+    "form_id": "05000D8B|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "SabreCat Female Faction",
+    "string": "Facción de dientes de sable hembras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestSabreCatRegularMaleFaction",
+    "form_id": "05000D8C|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "SkyTest SabreCat Male Faction",
+    "string": "Facción de dientes de sable machos de SkyTest",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTESTSheepFaction",
+    "form_id": "05000D91|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "SkyTESTSheepFaction",
+    "string": "Facción de ovejas de SkyTEST",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestSlaughterfishBroodFaction",
+    "form_id": "05000D92|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Slaughterfish Brood Faction",
+    "string": "Facción de crías de pez asesino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestSlaughterfishFaction",
+    "form_id": "05000D93|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Slaughterfish Faction",
+    "string": "Facción de peces asesinos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestSlaughterfishFryFaction",
+    "form_id": "05000D94|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Slaughterfish Fry Faction",
+    "string": "Facción de alevines de pez asesino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestSlaughterfishGatorFaction",
+    "form_id": "05000D95|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Slaughterfish Gator Faction",
+    "string": "Facción de peces asesinos caimán",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestSpiderSmallFaction",
+    "form_id": "05000D96|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Spider Small Faction",
+    "string": "Facción de arañas pequeñas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkyTestWolvesFaction",
+    "form_id": "05000D9A|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Wolf Faction",
+    "string": "Facción de lobos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BearBrownRace",
+    "form_id": "000131E7|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Bear",
+    "string": "Oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BearBlackRace",
+    "form_id": "000131E8|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Cave Bear",
+    "string": "Oso de cueva",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BearSnowRace",
+    "form_id": "000131E9|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Snow Bear",
+    "string": "Oso polar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ElkRace",
+    "form_id": "000131ED|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Elk",
+    "string": "Alce",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DogRace",
+    "form_id": "000131EE|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dog",
+    "string": "Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GoatRace",
+    "form_id": "000131FA|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Goat",
+    "string": "Cabra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerRace",
+    "form_id": "000131FC|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Horker",
+    "string": "Horker",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorseRace",
+    "form_id": "000131FD|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Horse",
+    "string": "Caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MammothRace",
+    "form_id": "000131FF|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Mammoth",
+    "string": "Mamut",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SabreCatRace",
+    "form_id": "00013200|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Sabre Cat",
+    "string": "Gato sable",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkeeverRace",
+    "form_id": "00013201|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Skeever",
+    "string": "Skeever",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SabreCatSnowyRace",
+    "form_id": "00013202|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Snowy Sabre Cat",
+    "string": "Gato sable de las nieves",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SlaughterfishRace",
+    "form_id": "00013203|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Slaughterfish",
+    "string": "Pez asesino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WolfRace",
+    "form_id": "0001320A|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Wolf",
+    "string": "Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CowRace",
+    "form_id": "0004E785|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "HighlandCow",
+    "string": "VacaTierrasaltas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HareRace",
+    "form_id": "0006DC99|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Rabbit",
+    "string": "Conejo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ChickenRace",
+    "form_id": "000A919D|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Chicken",
+    "string": "Pollo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MudcrabRace",
+    "form_id": "000BA545|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "MudCrab",
+    "string": "Cangrejo del barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkeeverWhiteRace",
+    "form_id": "000C3EDF|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Skeever",
+    "string": "Skeever",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DeerRace",
+    "form_id": "000CF89B|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Reindeer",
+    "string": "Reno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoxRace",
+    "form_id": "00109C7C|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Fox",
+    "string": "Zorro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CrabRace",
+    "form_id": "050008AF|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Crab",
+    "string": "Cangrejo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MudcrabRaceGiant",
+    "form_id": "05000915|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "MudCrab",
+    "string": "Cangrejo de barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_A2_STRAP_ForceThrow_Big_Effect",
+    "form_id": "05000804|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Force Throw Big",
+    "string": "Lanzamiento por fuerza (grande)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_A2_STRAP_ForceThrow_Big_Effect",
+    "form_id": "05000804|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Send you Flying",
+    "string": "Te hace salir volando",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_MammothCrushEffectConcAimed",
+    "form_id": "050008C2|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Mammoth Crush Effect",
+    "string": "Efecto de aplastamiento de mamut",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_MammothCrushCloakConstantSelf",
+    "form_id": "050008C3|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Mammoth Crush Cloak",
+    "string": "Manto de aplastamiento de mamut",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_A2_STRAP_ForceThrow_Small_Effect",
+    "form_id": "050008D1|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Force Throw Small",
+    "string": "Lanzamiento por fuerza (pequeño)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_A2_STRAP_ForceThrow_Small_Effect",
+    "form_id": "050008D1|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Knocks you down",
+    "string": "Te derriba",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_FearFire&TorchEffect",
+    "form_id": "050008D6|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Animal Fear Fire & Torch",
+    "string": "Miedo animal: fuego y antorcha",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_FearOnlyFireEffect",
+    "form_id": "050008D8|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Animal Fire Only Fire",
+    "string": "Miedo animal: solo fuego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_BleedingAttkDmgEffect",
+    "form_id": "050008DC|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Animal Bleeding Attack Effect",
+    "string": "Efecto de ataque animal sangrante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_BleedingAttkDmgEffect",
+    "form_id": "050008DC|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Animal Attacks Makes you Bleed for 10 Seconds.",
+    "string": "Los ataques de animales te hacen sangrar durante 10 segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_A2_STRAP_Stagger_Effect",
+    "form_id": "050008E1|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Stagger Animal Attack",
+    "string": "Aturdimiento por ataque animal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_MammothCrushDamage",
+    "form_id": "050008E6|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Mammoth Crush Damage",
+    "string": "Daño por aplastamiento de mamut",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_Rally_Effect",
+    "form_id": "050008EE|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Animal Rally",
+    "string": "Enardecimiento animal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_InjuredSpeed_Effect",
+    "form_id": "050008F2|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Injured Animal Speed Loss",
+    "string": "Pérdida de velocidad de animales heridos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_InjuredSpeed_Effect",
+    "form_id": "050008F2|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "WTF Bethesda, so the effect works on Humanoid NPC's but not on Animals NPC's? Seriously? \r\n\r\nEffect is worthless on animals and possibly other creatures, but works perfectly on Humanoid NPC such as bandits or Civilians.",
+    "string": "¡¿QUÉ DEMONIOS, Bethesda?! ¿Entonces el efecto funciona en NPC humanoides, pero no en NPC animales? ¿En serio?\n\nEl efecto no sirve para nada en animales y posiblemente en otras criaturas, pero funciona perfectamente en NPC humanoides, como bandidos o civiles.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_AbsorbSelfStamina_Effect",
+    "form_id": "050008F6|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Animal Absorb Stamina",
+    "string": "Absorción de aguante animal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_AbsorbSelfStamina_Effect",
+    "form_id": "050008F6|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "YET Another effect that does not works on Animals... they must be handled differently.\r\n\r\nAny effect that drains Stamina and Slows them down is useless on Animals. I might want to test with a Troll or any other Creature and see if this applies to them too.",
+    "string": "OTRO efecto más que no funciona en animales... deben tratarse de manera diferente.\n\nCualquier efecto que drene aguante y reduzca la velocidad es inútil en los animales. Quizás quiera probarlo con un trol o cualquier otra criatura para ver si también les afecta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_CalmFleeEffect",
+    "form_id": "0500090B|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Calm Fleeing Animals",
+    "string": "Calmar animales que huyen",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_A2_STRAP_ForceThrow_Mammoth_Effect",
+    "form_id": "05000918|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Force Throw Mammoth Exclusive",
+    "string": "Lanzamiento por fuerza exclusivo para mamuts",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_A2_STRAP_ForceThrow_Mammoth_Effect",
+    "form_id": "05000918|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Send flying Centurions, Giants & Trolls.",
+    "string": "Hace volar por los aires a centuriones, gigantes y trols.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AA_Animal_ForceThrow_Small",
+    "form_id": "050008D2|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Force Throw 2",
+    "string": "Lanzamiento por fuerza 2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_PRED_BleedAttack_Wolf",
+    "form_id": "050008DD|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "AnimalBleedAttack Wolf Version",
+    "string": "Ataque sangrante de lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_PRED_BleedAttack_Wolf",
+    "form_id": "050008DD|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Animal Attacks Makes you Bleed for 10 Seconds.",
+    "string": "Los ataques de animales te hacen sangrar durante 10 segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_PRED_BleedAttack_Bear",
+    "form_id": "050008DE|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "AnimalBleedAttack Bear Version",
+    "string": "Ataque sangrante de oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_PRED_BleedAttack_Bear",
+    "form_id": "050008DE|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Animal Attacks Makes you Bleed for 10 Seconds.",
+    "string": "Los ataques de animales te hacen sangrar durante 10 segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_PRED_BleedAttack_SabreCat",
+    "form_id": "050008DF|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "AnimalBleedAttack SabreCat Version",
+    "string": "Ataque sangrante de dientes de sable",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_PRED_BleedAttack_SabreCat",
+    "form_id": "050008DF|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Animal Attacks Makes you Bleed for 10 Seconds.",
+    "string": "Los ataques de animales te hacen sangrar durante 10 segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_PRED_BleedAttack_Skeever",
+    "form_id": "050008E0|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "AnimalBleedAttack SabreCat Version",
+    "string": "Ataque sangrante de dientes de sable",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_PRED_BleedAttack_Skeever",
+    "form_id": "050008E0|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Animal Attacks Makes you Bleed for 10 Seconds.",
+    "string": "Los ataques de animales te hacen sangrar durante 10 segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AA_Animal_ForceStagger",
+    "form_id": "050008E2|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Animal Stagger Attack",
+    "string": "Ataque de aturdimiento animal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_PRED_Inj_Tiredness",
+    "form_id": "0500090A|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Injured Tiredness",
+    "string": "Cansancio por heridas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_GNL_CalmFlee",
+    "form_id": "0500090C|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Calm Fleeing Animals",
+    "string": "Calmar animales que huyen",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_AB_Animal_TEST_Fear",
+    "form_id": "0500090F|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flee Test",
+    "string": "Prueba de huida",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DeerHide",
+    "form_id": "0003AD90|Skyrim.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Elk Hide",
+    "string": "Piel de alce",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DeerHide02",
+    "form_id": "000D284D|Skyrim.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Reindeer Hide",
+    "string": "Piel de reno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Clam01",
+    "form_id": "00085F80|Skyrim.esm",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Clam",
+    "string": "Almeja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Clam01",
+    "form_id": "00085F80|Skyrim.esm",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Harvest",
+    "string": "Recoge",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ClamThin01",
+    "form_id": "00085F82|Skyrim.esm",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Clam",
+    "string": "Almeja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ClamThin01",
+    "form_id": "00085F82|Skyrim.esm",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Harvest",
+    "string": "Recoge",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ClamLarge01",
+    "form_id": "00085F83|Skyrim.esm",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Clam",
+    "string": "Almeja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ClamLarge01",
+    "form_id": "00085F83|Skyrim.esm",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Harvest",
+    "string": "Recoge",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA14Goat",
+    "form_id": "0001CB2C|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Gleda the Goat",
+    "string": "Gleda la Cabra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncMudcrabGiant",
+    "form_id": "00021875|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Mudcrab",
+    "string": "Cangrejo del barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncBear",
+    "form_id": "00023A8A|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bear",
+    "string": "Oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncBearCave",
+    "form_id": "00023A8B|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cave Bear",
+    "string": "Oso de cueva",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncBearSnow",
+    "form_id": "00023A8C|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Snow Bear",
+    "string": "Oso polar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncCow",
+    "form_id": "00023A90|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cow",
+    "string": "Vaca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncElk",
+    "form_id": "00023A91|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elk",
+    "string": "Alce",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDog",
+    "form_id": "00023A92|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dog",
+    "string": "Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncHorker",
+    "form_id": "00023AB1|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horker",
+    "string": "Horker",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncHorseSaddledBrown",
+    "form_id": "00023AB2|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "Caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncMammothWild",
+    "form_id": "00023AB4|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Mammoth",
+    "string": "Mamut",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncSabreCat",
+    "form_id": "00023AB5|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Sabre Cat",
+    "string": "Gato sable",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncSabreCatSnow",
+    "form_id": "00023AB6|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Snowy Sabre Cat",
+    "string": "Gato sable de las nieves",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncSkeever",
+    "form_id": "00023AB7|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Skeever",
+    "string": "Skeever",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncSlaughterfish",
+    "form_id": "00023AB8|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Slaughterfish",
+    "string": "Pez asesino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncWolf",
+    "form_id": "00023ABE|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wolf",
+    "string": "Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncWolfIce",
+    "form_id": "00023ABF|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ice Wolf",
+    "string": "Lobo del hielo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncGoatWild",
+    "form_id": "0002EBE2|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Goat",
+    "string": "Cabra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncGoatDomestic",
+    "form_id": "0004359C|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Goat",
+    "string": "Cabra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonBridgeGoatLucky",
+    "form_id": "0005487E|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Lucky",
+    "string": "Afortunado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncBanditDog",
+    "form_id": "00054AE3|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dog",
+    "string": "Perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncC06WolfSpirit",
+    "form_id": "00058303|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Kodlak's Wolf Spirit",
+    "string": "Espíritu de lobo de Kodlak",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA08KarindaHorse",
+    "form_id": "0005F865|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Karinda",
+    "string": "Karinda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncSummonFamiliar",
+    "form_id": "000640B5|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Familiar",
+    "string": "Familiar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CWMission08EncCowPainted",
+    "form_id": "0006681E|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cow",
+    "string": "Vaca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncHorseSaddledBlack",
+    "form_id": "00068CFA|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "Caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncHorseSaddledBlackAndWhite",
+    "form_id": "00068D02|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "Caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncHorseSaddledGrey",
+    "form_id": "00068D03|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "Caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncHorseSaddledPalomino",
+    "form_id": "00068D04|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "Caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncHorseBlack",
+    "form_id": "00068D07|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "Caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncHorseBrown",
+    "form_id": "00068D5B|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "Caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncHorseBlackAndWhite",
+    "form_id": "00068D6B|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "Caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncHorseGrey",
+    "form_id": "00068D6D|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "Caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncHorsePalomino",
+    "form_id": "00068D6E|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "Caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncHare",
+    "form_id": "0006DC9D|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rabbit",
+    "string": "Conejo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncFox",
+    "form_id": "000829B3|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Fox",
+    "string": "Zorro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncFoxArctic",
+    "form_id": "000829B6|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Snow Fox",
+    "string": "Zorro de las nieves",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SummonFireStorm",
+    "form_id": "000877EB|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Fire Storm",
+    "string": "Tormenta de fuego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SummonFlamingThrall",
+    "form_id": "0009CE28|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Flaming Thrall",
+    "string": "Esclavo llameante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncChicken",
+    "form_id": "000A91A0|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Chicken",
+    "string": "Pollo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncElkFemale",
+    "form_id": "000ABEDF|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elk",
+    "string": "Alce",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncCowPainted",
+    "form_id": "000C39F1|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cow",
+    "string": "Vaca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HowlSummonWolf",
+    "form_id": "000CF79E|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Pack Member",
+    "string": "Miembro de manada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDeer",
+    "form_id": "000CF89D|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Reindeer",
+    "string": "Reno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncGoatSprigganCompanion",
+    "form_id": "000D206E|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Goat",
+    "string": "Cabra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TestEncReinDeer",
+    "form_id": "000D249A|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Reindeer",
+    "string": "Reno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncBanditWolf",
+    "form_id": "000DDCD0|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Pit Wolf",
+    "string": "Lobo de foso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncMudcrabMedium",
+    "form_id": "000E4010|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Mudcrab",
+    "string": "Cangrejo del barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncMudcrabLarge",
+    "form_id": "000E4011|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Mudcrab",
+    "string": "Cangrejo del barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunHunterWolfGuardian",
+    "form_id": "000E662D|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wolf Guardian Spirit",
+    "string": "Espíritu guardián de lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CR13FarkasWolfSpirit",
+    "form_id": "000F6087|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Farkas' Wolf Spirit",
+    "string": "Espíritu de lobo de Farkas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CR13VilkasWolfSpirit",
+    "form_id": "000F6089|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Vilkas' Wolf Spirit",
+    "string": "Espíritu de lobo de Vilkas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PlayerWolfSpirit",
+    "form_id": "000F608C|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wolf Spirit",
+    "string": "Espíritu de lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmPlayerHorse",
+    "form_id": "00109AB1|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "Caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunPlayerHorse",
+    "form_id": "00109E3D|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "Caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudePlayerHorse",
+    "form_id": "00109E3E|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "Caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenPlayerHorse",
+    "form_id": "00109E40|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "Caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthPlayerHorse",
+    "form_id": "00109E41|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "Caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG05KarliahHorse",
+    "form_id": "0010F7FD|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horse",
+    "string": "Caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunBluePalaceWingEncGoatDomestic",
+    "form_id": "01000804|Update.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Goat",
+    "string": "Cabra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1HowlSummonIceWolf",
+    "form_id": "02008A6C|Dawnguard.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Pack Member",
+    "string": "Miembro de manada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncCowNoRespawn",
+    "form_id": "0200F9A9|Dawnguard.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cow",
+    "string": "Vaca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHRelationshipAdoptionCritter_Hare",
+    "form_id": "03013817|HearthFires.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cotton",
+    "string": "Algodón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SkyTESTAnimalFearQuest",
+    "form_id": "050008B6|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Animal Fears",
+    "string": "Miedo animal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CreatureDialogueChickenSkyTEST",
+    "form_id": "05000E2E|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "CreatureDialogueChicken",
+    "string": "Diálogo de criatura: gallina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CreatureDialogueRooster",
+    "form_id": "05000E35|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "CreatureDialogueRooster",
+    "string": "Diálogo de criatura: gallo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CalmAnimalsPerk",
+    "form_id": "05000919|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Calm Animals",
+    "string": "Calmar animales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CalmAnimalsPerk",
+    "form_id": "05000919|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Calms animals that are Running away due to the Fear Effect.",
+    "string": "Calma a los animales que huyen debido al efecto de miedo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EN_MammothtExtraDamagePerk",
+    "form_id": "0500091A|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Mammoth Extra Damage Perk",
+    "string": "Ventaja de daño adicional contra mamuts",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EN_MammothtExtraDamagePerk",
+    "form_id": "0500091A|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Attacks do 6x damage to Mammoths.",
+    "string": "Los ataques infligen 6 veces más daño a los mamuts.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EN_ResistMammothDamagePerk",
+    "form_id": "0500091B|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Resist Mammoth Damage Perk",
+    "string": "Ventaja de resistencia al daño de mamut",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EN_ResistMammothDamagePerk",
+    "form_id": "0500091B|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Attacks from Mammoths do 90 percent less damage.",
+    "string": "Los ataques de los mamuts infligen un 90 por ciento menos de daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EN_ThickSkin",
+    "form_id": "0500091C|SkyTEST Realistic Animals Lite - ESL.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Thick Skin",
+    "string": "Piel gruesa",
+    "status": "TranslationComplete"
+  }
+]

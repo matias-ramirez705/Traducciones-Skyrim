@@ -1,0 +1,236 @@
+[
+  {
+    "editor_id": "EncMudcrabGiant",
+    "form_id": "00021875|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Mudcrab",
+    "string": "Cangrejo del barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncBear",
+    "form_id": "00023A8A|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bear",
+    "string": "Oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncBearCave",
+    "form_id": "00023A8B|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cave Bear",
+    "string": "Oso de cueva",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncBearSnow",
+    "form_id": "00023A8C|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Snow Bear",
+    "string": "Oso polar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncElk",
+    "form_id": "00023A91|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elk",
+    "string": "Alce",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncHorker",
+    "form_id": "00023AB1|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horker",
+    "string": "Horker",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncMammothWild",
+    "form_id": "00023AB4|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Mammoth",
+    "string": "Mamut",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncSabreCat",
+    "form_id": "00023AB5|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Sabre Cat",
+    "string": "Gato sable",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncSabreCatSnow",
+    "form_id": "00023AB6|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Snowy Sabre Cat",
+    "string": "Gato sable de las nieves",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncSkeever",
+    "form_id": "00023AB7|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Skeever",
+    "string": "Skeever",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncSlaughterfish",
+    "form_id": "00023AB8|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Slaughterfish",
+    "string": "Pez asesino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncWolf",
+    "form_id": "00023ABE|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wolf",
+    "string": "Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncWolfIce",
+    "form_id": "00023ABF|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ice Wolf",
+    "string": "Lobo del hielo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncGoatWild",
+    "form_id": "0002EBE2|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Goat",
+    "string": "Cabra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncGoatDomestic",
+    "form_id": "0004359C|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Goat",
+    "string": "Cabra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncC06WolfSpirit",
+    "form_id": "00058303|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Kodlak's Wolf Spirit",
+    "string": "Espíritu de lobo de Kodlak",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncHare",
+    "form_id": "0006DC9D|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rabbit",
+    "string": "Conejo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncFox",
+    "form_id": "000829B3|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Fox",
+    "string": "Zorro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncFoxArctic",
+    "form_id": "000829B6|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Snow Fox",
+    "string": "Zorro de las nieves",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDeer",
+    "form_id": "000CF89D|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Reindeer",
+    "string": "Reno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TestEncReinDeer",
+    "form_id": "000D249A|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Reindeer",
+    "string": "Reno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncBanditWolf",
+    "form_id": "000DDCD0|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Pit Wolf",
+    "string": "Lobo de foso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncMudcrabMedium",
+    "form_id": "000E4010|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Mudcrab",
+    "string": "Cangrejo del barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncMudcrabLarge",
+    "form_id": "000E4011|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Mudcrab",
+    "string": "Cangrejo del barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunBluePalaceWingEncGoatDomestic",
+    "form_id": "01000804|Update.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Goat",
+    "string": "Cabra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1HowlSummonIceWolf",
+    "form_id": "02008A6C|Dawnguard.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Pack Member",
+    "string": "Miembro de manada",
+    "status": "TranslationComplete"
+  }
+]

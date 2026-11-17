@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with XIMOD Architect 2.2.0 [https://www.nexusmods.com/site/mods/2141] -->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
+	<moduleName>Disguise - Additional Disguises - Spanish</moduleName>
+	<installSteps order="Explicit">
+		<installStep name="Main">
+			<optionalFileGroups>
+				<group name="Version del juego" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Aniversario (AE)">
+							<description></description>
+							<files>
+								<folder source="0 - Main\Anniversary - Spanish\Disguise - Additional Disguises - Anniversary Edition.esp" destination="SKSE\Plugins\DynamicStringDistributor" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Disguise - Additional Disguises - Anniversary Edition.esp" state="Inactive"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Disguise - Additional Disguises - Anniversary Edition.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Legado (SE)">
+							<description></description>
+							<files>
+								<folder source="0 - Main\Special - Spanish\Disguise - Additional Disguises - Special Edition.esp" destination="SKSE\Plugins\DynamicStringDistributor" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Disguise - Additional Disguises - Special Edition.esp" state="Inactive"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Disguise - Additional Disguises - Special Edition.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+	</installSteps>
+</config>

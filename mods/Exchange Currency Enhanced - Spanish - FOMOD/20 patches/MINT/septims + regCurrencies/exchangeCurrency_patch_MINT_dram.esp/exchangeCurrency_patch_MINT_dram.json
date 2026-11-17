@@ -1,0 +1,11 @@
+[
+  {
+    "editor_id": "DES_DramMorrowindServicesQuest",
+    "form_id": "0400000D|MorrowindUsesDrams.esp",
+    "index": 0,
+    "type": "QUST NNAM",
+    "original": "Talk to Galos",
+    "string": "Habla con Galos",
+    "status": "TranslationComplete"
+  }
+]

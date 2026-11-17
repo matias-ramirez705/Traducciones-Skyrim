@@ -1,0 +1,29 @@
+[
+  {
+    "editor_id": "WindhelmDoubleDistilledSkooma",
+    "form_id": "0003F4BD|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Double-Distilled Skooma",
+    "string": "Skooma de doble destilación",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Skooma",
+    "form_id": "00057A7A|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Skooma",
+    "string": "Skooma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TGTQ02BalmoraBlue",
+    "form_id": "000DC172|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Balmora Blue",
+    "string": "Balmora azul",
+    "status": "TranslationComplete"
+  }
+]

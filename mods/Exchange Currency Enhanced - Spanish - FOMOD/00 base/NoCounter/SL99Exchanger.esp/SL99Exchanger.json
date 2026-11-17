@@ -1,0 +1,596 @@
+[
+  {
+    "editor_id": "SL99ExtrudeShopExchangeFaction",
+    "form_id": "0200090D|SL99Exchanger.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "disable exchange dialogue for shops",
+    "string": "desactivar dialogo de intercambio para tiendas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ForceCompanyFaction",
+    "form_id": "0200090E|SL99Exchanger.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "enable exchange dialogue for company everyone",
+    "string": "activar dialogo de intercambio para compañía todos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ForceBankFaction",
+    "form_id": "0200090F|SL99Exchanger.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "enable exchange dialogue for bank everyone",
+    "string": "activar dialogo de intercambio para banco todos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ForceShopFaction",
+    "form_id": "0200091F|SL99Exchanger.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "enable exchange dialogue for shop everyone",
+    "string": "activar dialogo de intercambio para tienda todos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99LimitedBankFaction",
+    "form_id": "02000921|SL99Exchanger.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "enable exchange dialogue for bank by conditions",
+    "string": "activar dialogo de intercambio para banco segun condiciones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99LimitedCompanyFaction",
+    "form_id": "02000922|SL99Exchanger.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "enable exchange dialogue for company by conditions",
+    "string": "activar dialogo de intercambio para compañía según condiciones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerAddFactionShop",
+    "form_id": "02000960|SL99Exchanger.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Add exchange dialogue for shop",
+    "string": "Agregar dialogo de intercambio para tienda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerAddFactionShop",
+    "form_id": "02000960|SL99Exchanger.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Add the exchange dialogue for Shop to Target.",
+    "string": "Agrega el dialogo de intercambio para Tienda al Objetivo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerAddFactionCompany",
+    "form_id": "02000961|SL99Exchanger.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Add exchange dialogue for Company",
+    "string": "Agregar dialogo de intercambio para Compañía",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerAddFactionCompany",
+    "form_id": "02000961|SL99Exchanger.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Add the exchange dialogue for Company to Target.",
+    "string": "Agrega el dialogo de intercambio para Compañía al Objetivo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerAddFactionEECo",
+    "form_id": "02000962|SL99Exchanger.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Add exchange dialogue for EECo",
+    "string": "Agregar dialogo de intercambio para EECo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerAddFactionEECo",
+    "form_id": "02000962|SL99Exchanger.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Add the exchange dialogue for East Empire Company to Target.",
+    "string": "Agrega el dialogo de intercambio para la Compañía del Imperio Oriental al Objetivo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerAddFactionRemove",
+    "form_id": "02000968|SL99Exchanger.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Remove Exchange Dialogue",
+    "string": "Eliminar dialogo de intercambio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerAddFactionRemove",
+    "form_id": "02000968|SL99Exchanger.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Remove the exchange dialogue from Target.",
+    "string": "Elimina el dialogo de intercambio del Objetivo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerAddFactionScroll01",
+    "form_id": "0200095F|SL99Exchanger.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Exchange List for Shop",
+    "string": "Lista de intercambio para Tienda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerAddFactionScroll02",
+    "form_id": "02000963|SL99Exchanger.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Exchange List for Company",
+    "string": "Lista de intercambio para Compañía",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerAddFactionScroll03",
+    "form_id": "02000964|SL99Exchanger.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Exchange List for East Empire Company",
+    "string": "Lista de intercambio para la Compañía del Imperio Oriental",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerAddFactionScroll04",
+    "form_id": "02000969|SL99Exchanger.esp",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Remove Exchange Dialogue",
+    "string": "Eliminar dialogo de intercambio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99MGExemptionDocument",
+    "form_id": "0200097A|SL99Exchanger.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Exemption Certificate: Merchant Guild",
+    "string": "Certificado de Exención: Gremio de Comerciantes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99MGExemptionDocument",
+    "form_id": "0200097A|SL99Exchanger.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<p align=\"center\"><b>Certificate of Exemption</b></p>\r\n<p aligh=\"left\">The  person who possess this document is exempted from paying the exchange charge of Merchant Guild Note.</p>\r\n\r\n<p align=\"center\">Merchant Guild <img src='img://Textures/SL99Exchanger/stampMG.png'></p>\r\n",
+    "string": "<p align=\"center\"><b>Certificado de Exención</b></p>\r\n<p aligh=\"left\">La persona que posee este documento está exenta de pagar el cargo de cambio de Nota del Gremio de Comerciantes.</p>\r\n\r\n<p align=\"center\">Gremio de Comerciantes <img src='img://Textures/SL99Exchanger/stampMG. png'></p>\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99StrongBox",
+    "form_id": "02000804|SL99Exchanger.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Strong Box",
+    "string": "Caja fuerte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99SafewithLock",
+    "form_id": "02000805|SL99Exchanger.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Safe",
+    "string": "Caja fuerte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99NobleWardrobe",
+    "form_id": "02000806|SL99Exchanger.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Safe Cabinet",
+    "string": "Gabinete seguro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99SafeEmpty",
+    "form_id": "020009A9|SL99Exchanger.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Safe",
+    "string": "Caja fuerte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99GoldsmithNote",
+    "form_id": "0200080E|SL99Exchanger.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Note: East Empire Company",
+    "string": "Nota: Compañía del Imperio Oriental",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99KhajiitCaravanNoteA",
+    "form_id": "02000974|SL99Exchanger.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Note: Khajiit Caravan (Ri'saad)",
+    "string": "Nota: Caravana Khajiita (Ri'saad)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99KhajiitCaravanNoteB",
+    "form_id": "02000977|SL99Exchanger.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Note: Khajiit Caravan (Ma'dran)",
+    "string": "Nota: Caravana Khajiita (Ma'dran)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99KhajiitCaravanNoteC",
+    "form_id": "02000978|SL99Exchanger.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Note: Khajiit Caravan (Ahkari)",
+    "string": "Nota: Caravana Khajiita (Ahkari)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99MerchantNote",
+    "form_id": "02000D64|SL99Exchanger.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Note: Merchant Guild",
+    "string": "Nota: Gremio de Comerciantes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerBankCounterMarker",
+    "form_id": "02000800|SL99Exchanger.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Currency Exchange",
+    "string": "Cambio de divisas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerShopCounterMarker",
+    "form_id": "0200080A|SL99Exchanger.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Currency Exchange",
+    "string": "Cambio de divisas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerShopTableMarker",
+    "form_id": "0200080B|SL99Exchanger.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Currency Exchange",
+    "string": "Cambio de divisas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerCompanyCounterMarker",
+    "form_id": "0200080C|SL99Exchanger.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Currency Exchange",
+    "string": "Cambio de divisas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerCompanyTableMarker",
+    "form_id": "0200080D|SL99Exchanger.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Currency Exchange",
+    "string": "Cambio de divisas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerScrollCounterMarker",
+    "form_id": "02000970|SL99Exchanger.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Craft Scrolls",
+    "string": "Pergaminos de artesanía",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerKhajiitCounterMarkerA",
+    "form_id": "0200097D|SL99Exchanger.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Currency Exchange",
+    "string": "Cambio de divisas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerKhajiitCounterMarkerB",
+    "form_id": "02000985|SL99Exchanger.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Currency Exchange",
+    "string": "Cambio de divisas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerKhajiitCounterMarkerC",
+    "form_id": "02000986|SL99Exchanger.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Currency Exchange",
+    "string": "Cambio de divisas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerGenericCounterMarker",
+    "form_id": "020009AE|SL99Exchanger.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Currency Exchange",
+    "string": "Cambio de divisas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerBankTableMarker",
+    "form_id": "02000D62|SL99Exchanger.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Currency Exchange",
+    "string": "Cambio de divisas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WEMerchantMiscFemaleCommoner",
+    "form_id": "000B5D5A|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Peddler",
+    "string": "Buhonero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WEMerchantMiscMaleCommoner",
+    "form_id": "000BBCD2|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Peddler",
+    "string": "Buhonero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99EncExchangerTemplate",
+    "form_id": "02000807|SL99Exchanger.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Exchanger",
+    "string": "Intercambiador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99ExchangerTravellingMercenary",
+    "form_id": "0200094A|SL99Exchanger.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Mercenary",
+    "string": "Mercenario",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmHouseofClanShatterShield",
+    "form_id": "0001677E|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "House of Clan Shatter-Shield",
+    "string": "Casa del clan Escudo Quebrado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeErikursHouse",
+    "form_id": "00016A09|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Erikur's House",
+    "string": "Casa de Erikur",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthNepossHouse",
+    "form_id": "00016DFB|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Nepos' House",
+    "string": "Casa de Nepote",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaSL99KhajiitExchange",
+    "form_id": "02000980|SL99Exchanger.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Exchange Khajiit Office",
+    "string": "Oficina Khajiita de Intercambio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmEastEmpireCompany",
+    "form_id": "00016777|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "East Empire Company",
+    "string": "Compañía del Imperio Oriental",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeBrylingsHouse",
+    "form_id": "00016A0B|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Bryling's House",
+    "string": "Casa de Bryling",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenBlackBriarManor",
+    "form_id": "00016BD8|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Black-Briar Manor",
+    "string": "Mansión de Espino Negro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunYsoldasHouse",
+    "form_id": "000165AC|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Ysolda's House",
+    "string": "Casa de Ysolda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthSilverBloodInn",
+    "form_id": "00016DFE|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Auberge du Sang-d'Argent",
+    "string": "Posada de Sangre Argéntea",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaSL99ExchangeOffice",
+    "form_id": "02000812|SL99Exchanger.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Currency Exchange",
+    "string": "Cambio de divisas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeWinkingSkeever",
+    "form_id": "00016A0E|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Le Ragnard pervers",
+    "string": "El skeever travieso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MarkarthTreasuryHouse",
+    "form_id": "00016E00|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Treasury House",
+    "string": "La sala del tesoro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunHouseBattleBorn",
+    "form_id": "000165AF|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "House of Clan Battle-Born",
+    "string": "Casa del clan Batallador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaSL99ExchangeOffice02",
+    "form_id": "0200092C|SL99Exchanger.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Currency Exchange",
+    "string": "Cambio de divisas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmHouseofClanCruelSea",
+    "form_id": "0001677D|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "House of Clan Cruel-Sea",
+    "string": "Casa del clan Mar Cruel",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeVittoriaVicisHouse",
+    "form_id": "00016A07|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Vittoria Vici's House",
+    "string": "Casa de Vittoria Vici",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "Skyrim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99AskExchangeTopic",
+    "form_id": "0200091D|SL99Exchanger.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to change some money.",
+    "string": "Me gustaría cambiar algo de dinero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99EDQExchange02Topic",
+    "form_id": "0200095C|SL99Exchanger.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you have exchange lists for other merchants?",
+    "string": "¿Tiene listas de intercambio para otros comerciantes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99AskExchangeKhajiitTopic",
+    "form_id": "0200099E|SL99Exchanger.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can I use caravan notes?",
+    "string": "¿Puedo usar notas de caravana?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "02000999|SL99Exchanger.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not here. At our camp or somewhere safe.",
+    "string": "Aqui no. En nuestro campamento o en algún lugar seguro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SL99MessageAddFactionError",
+    "form_id": "0200096B|SL99Exchanger.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The spell doesn't work on this person.",
+    "string": "El hechizo no funciona en esta persona.",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,7 @@
+{
+	"skseName":"CharacterSheet",
+	"menuName":"PERSONAJE",
+	"icon":"human",
+	"priority": 70,
+	"category": "top"
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "editor_id": "CYRDGCrimeBribe",
+    "form_id": "0300193F|BSHeartland.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How about I pay you some gold and you look the other way? (<BribeCost> medes)",
+    "string": "Que te parece si te pago algo de oro y miras hacia otro lado? (<BribeCost> medes)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03001956|BSHeartland.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A little gold always greases the wheels, eh? Now, get moving before I get the sack.",
+    "string": "Un poco de oro siempre engrasa las ruedas, eh? Ahora, muévete antes de que me despidan.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03001957|BSHeartland.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Divines know they don't pay me enough. Thank you for your donation. Now go.",
+    "string": "Los Divinos saben que no me pagan lo suficiente. Gracias por tu donacion. Ahora vete.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03001958|BSHeartland.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll consider this little pittance your fine paid, eh? Now, off with you.",
+    "string": "Considerare esta pequeña miseria como tu multa pagada, eh? Ahora, fuera.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03001959|BSHeartland.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Eh, your septims are as good as anyone else's. Let's not speak of this again.",
+    "string": "Eh, tus septims son tan buenos como los de cualquiera. No volvamos a hablar de esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CYRDialogueBrumaBeggarRumours",
+    "form_id": "03064F19|BSHeartland.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This should cover it. (Give 5 medes)",
+    "string": "Esto deberia cubrirlo. (Da 5 medes)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03064F7F|BSHeartland.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ah, yes, that's what I like! Thank you!",
+    "string": "Ah, si, eso es lo que me gusta! Gracias!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CYRBrumaMS05AQJBExtraBribe",
+    "form_id": "0308ADD4|BSHeartland.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I could always sweeten the deal... say, 1000 medes?",
+    "string": "Siempre podria endulzar el trato... digamos, 1000 medes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0308AE6E|BSHeartland.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I... oh, very well. I'll take the coin, and I'll just go get the journal.",
+    "string": "Yo... oh, muy bien. Tomare la moneda y solo ire a buscar el diario.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0308AE6E|BSHeartland.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Once I've gotten it, I'll just wait around - inconspicuously, you understand - in the great hall. A pleasure.",
+    "string": "Una vez que lo tenga, me quedare por ahi... de manera discreta, entiendes... en el gran salon. Un placer.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0308AE6F|BSHeartland.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Pfft! You try to sweet-talk me, tempting me with coin you don't even have! Begone, wastrel!",
+    "string": "Pfft! Tratas de endulzarme, tentandome con monedas que ni siquiera tienes! Largo, inutil!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CYRWEBountyCollectorGiveGold",
+    "form_id": "030C88E7|BSHeartland.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "All right. Here's <Global=WEBountyCollectorCrimeGold> medes.",
+    "string": "Muy bien. Aqui tienes <Global=WEBountyCollectorCrimeGold> medes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "030C88EB|BSHeartland.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All right. I'll make sure this finds its way back to the castle and your name is cleared. A pleasure.",
+    "string": "Muy bien. Me asegurare de que esto llegue de vuelta al castillo y tu nombre quede limpio. Un placer.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "030C88EC|BSHeartland.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm not sure what you're holding out in your hand, there, but they sure ain't drakes. This is what you get for trying to cheat me.",
+    "string": "No estoy seguro de que sea eso que me estas mostrando en la mano, pero seguro que no son drakes. Esto es lo que obtienes por tratar de estafarme.",
+    "status": "TranslationComplete"
+  }
+]

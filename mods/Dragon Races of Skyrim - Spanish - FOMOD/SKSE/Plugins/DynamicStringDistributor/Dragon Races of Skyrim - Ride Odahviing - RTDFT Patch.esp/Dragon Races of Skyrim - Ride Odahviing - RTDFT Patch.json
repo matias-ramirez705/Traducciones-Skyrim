@@ -1,0 +1,20 @@
+[
+  {
+    "editor_id": "Odahviing",
+    "form_id": "00045920|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Odahviing",
+    "string": "Odahviing",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "OdahviingBase",
+    "form_id": "01000801|Ride Odahviing - RTDFT.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Soul of Odahviing",
+    "string": "Alma de Odahviing",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "editor_id": "DragonRace_Tier2",
+    "form_id": "03000800|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 2",
+    "string": "Raza Dragón Tier 2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonRace_Tier3",
+    "form_id": "03000801|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 3",
+    "string": "Raza Dragón Tier 3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonRace_Tier4",
+    "form_id": "03000802|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 4",
+    "string": "Raza Dragón Tier 4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonRace_Tier5",
+    "form_id": "0300081A|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 5",
+    "string": "Raza Dragón Tier 5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonRace_Tier6_Revered",
+    "form_id": "03000826|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 6",
+    "string": "Raza Dragón Tier 6",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonRace_Tier6_Serpentine",
+    "form_id": "03000827|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 6",
+    "string": "Raza Dragón Tier 6",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonRace_Tier7",
+    "form_id": "03000899|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 7",
+    "string": "Raza Dragón Tier 7",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonRace_Tier5_Odahviing",
+    "form_id": "03000989|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 5 Odahviing",
+    "string": "Raza Dragón Tier 5 Odahviing",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonRace_Tier7_Paarthurnax",
+    "form_id": "03000995|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 7 Paarthurnax",
+    "string": "Raza Dragón Tier 7 Paarthurnax",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonRace_Tier1",
+    "form_id": "03000AB0|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 1",
+    "string": "Raza Dragón Tier 1",
+    "status": "TranslationComplete"
+  }
+]

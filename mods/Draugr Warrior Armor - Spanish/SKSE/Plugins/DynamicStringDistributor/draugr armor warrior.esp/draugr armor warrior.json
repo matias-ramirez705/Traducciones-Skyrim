@@ -1,0 +1,56 @@
+[
+  {
+    "editor_id": "DraugrWarriorGauntlets",
+    "form_id": "02000800|draugr armor warrior.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Draugr Warrior Gauntlets",
+    "string": "Guanteletes de guerrero Draugr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DraugrWarriorBoots",
+    "form_id": "02000801|draugr armor warrior.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Draugr Warrior Boots",
+    "string": "Botas de guerrero Draugr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ArmorDraugrWarriorCuirass",
+    "form_id": "02000802|draugr armor warrior.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Draugr Warrior Armor",
+    "string": "Armadura de guerrero Draugr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DraugrWarriorHelmet",
+    "form_id": "02000803|draugr armor warrior.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Draugr Warrior Helmet",
+    "string": "Yelmo de guerrero Draugr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Armordraugrwarriorcloack",
+    "form_id": "02000804|draugr armor warrior.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Draugr Warrior Cloack",
+    "string": "Capa de guerrero Draugr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "Skyrim",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "editor_id": "DragonRace_Tier4",
+    "form_id": "05000802|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 4",
+    "string": "Dragon Race Tier 4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonRace_Tier5",
+    "form_id": "0500081A|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 5",
+    "string": "Dragon Race Tier 5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonRace_Tier7_Paarthurnax",
+    "form_id": "05000995|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 7 Paarthurnax",
+    "string": "Dragon Race Tier 7 Paarthurnax",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlduinRace",
+    "form_id": "000E7713|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race",
+    "string": "Dragon Race",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UndeadDragonRace",
+    "form_id": "001052A3|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race",
+    "string": "Dragon Race",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1UndeadDragonRace",
+    "form_id": "020117DE|Dawnguard.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race",
+    "string": "Dragon Race",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonRace_Tier2",
+    "form_id": "05000800|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 2",
+    "string": "Dragon Race Tier 2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonRace_Tier3",
+    "form_id": "05000801|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 3",
+    "string": "Dragon Race Tier 3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonRace_Tier5_Odahviing",
+    "form_id": "05000989|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 5 Odahviing",
+    "string": "Dragon Race Tier 5 Odahviing",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonRace_Tier1",
+    "form_id": "05000AB0|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 1",
+    "string": "Dragon Race Tier 1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonRace_Tier6_Revered",
+    "form_id": "05000826|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 6",
+    "string": "Dragon Race Tier 6",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonRace_Tier6_Serpentine",
+    "form_id": "05000827|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 6",
+    "string": "Dragon Race Tier 6",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DragonRace_Tier7",
+    "form_id": "05000899|Dragon Races of Skyrim.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dragon Race Tier 7",
+    "string": "Dragon Race Tier 7",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon01Fire",
+    "form_id": "0001CA03|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dragon",
+    "string": "Dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon03Frost",
+    "form_id": "000351C3|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Frost Dragon",
+    "string": "Dragón de la escarcha",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Paarthurnax",
+    "form_id": "0003C57C|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Paarthurnax",
+    "string": "Paarthurnax",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Odahviing",
+    "form_id": "00045920|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Odahviing",
+    "string": "Odahviing",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunSkuldafnDragonDraugr",
+    "form_id": "00096E48|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dragon",
+    "string": "Dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "E3DemoEncDragonFrost",
+    "form_id": "000EAFB4|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dragon",
+    "string": "Dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "E3DemoEncDragonFrost",
+    "form_id": "000EAFB4|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "0",
+    "string": "0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon02Fire",
+    "form_id": "000F80FD|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Blood Dragon",
+    "string": "Dragón de sangre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon04Frost",
+    "form_id": "000F811A|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elder Dragon",
+    "string": "Dragón anciano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon04Fire",
+    "form_id": "000F811B|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elder Dragon",
+    "string": "Dragón anciano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon05Fire",
+    "form_id": "000F811C|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ancient Dragon",
+    "string": "Dragón ancestral",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon05Frost",
+    "form_id": "000F811E|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ancient Dragon",
+    "string": "Dragón ancestral",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1EncDragon06Fire",
+    "form_id": "02008431|Dawnguard.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Revered Dragon",
+    "string": "Dragón venerable",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1EncDragon07Fire",
+    "form_id": "0200C5F5|Dawnguard.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Legendary Dragon",
+    "string": "Dragón legendario",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1EncDragon07Frost",
+    "form_id": "0200C5FD|Dawnguard.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Legendary Dragon",
+    "string": "Dragón legendario",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1lvlDragonVoslaarum",
+    "form_id": "02010E99|Dawnguard.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Voslaarum",
+    "string": "Voslaarum",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1lvlDragonNaaslaarum",
+    "form_id": "02010E9C|Dawnguard.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Naaslaarum",
+    "string": "Naaslaarum",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2MiraakDragon",
+    "form_id": "04023F7B|Dragonborn.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Sahrotaar",
+    "string": "Sahrotaar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2EncDragon06Frost",
+    "form_id": "0402C88A|Dragonborn.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Serpentine Dragon",
+    "string": "Dragón serpentino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2EncDragon06Fire",
+    "form_id": "0403612E|Dragonborn.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Serpentine Dragon",
+    "string": "Dragón serpentino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2EncDragon06FrostNoScript",
+    "form_id": "04036133|Dragonborn.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Serpentine Dragon",
+    "string": "Dragón serpentino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2EncDragon06FireNoScript",
+    "form_id": "04036134|Dragonborn.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Serpentine Dragon",
+    "string": "Dragón serpentino",
+    "status": "TranslationComplete"
+  }
+]

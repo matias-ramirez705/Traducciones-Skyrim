@@ -1,0 +1,29 @@
+[
+  {
+    "editor_id": "InnerPowerDragonDeathDetectionEffect",
+    "form_id": "05000801|Cinematic Dragon Soul Absorption - ESL.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dragon Death Detection",
+    "string": "Detección de muerte de dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "InnerPowerPlayerHitDetectionEffect",
+    "form_id": "05000806|Cinematic Dragon Soul Absorption - ESL.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Inner Power Player Hit Detection Effect",
+    "string": "Efecto de detección de golpes del jugador de poder interno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "InnerPowerPerk",
+    "form_id": "05000802|Cinematic Dragon Soul Absorption - ESL.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Inner Power",
+    "string": "Poder interior",
+    "status": "TranslationComplete"
+  }
+]

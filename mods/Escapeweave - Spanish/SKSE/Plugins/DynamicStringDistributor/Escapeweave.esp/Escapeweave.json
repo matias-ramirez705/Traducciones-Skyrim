@@ -1,0 +1,227 @@
+[
+  {
+    "editor_id": "Escapeweave_EnchEffect",
+    "form_id": "04000800|Escapeweave.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Escapeweave",
+    "string": "Tejido de Escape",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Escapeweave_DescEffect",
+    "form_id": "04000804|Escapeweave.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Escapeweave Desc",
+    "string": "Descripcion del Tejido de Escape",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Escapeweave_HitEffect",
+    "form_id": "04000806|Escapeweave.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Escapeweave Hit",
+    "string": "Impacto del Tejido de Escape",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Escapeweave_BrokenStealthMonitor",
+    "form_id": "0400080C|Escapeweave.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Explosion on breaking stealth",
+    "string": "Explosion al romper el sigilo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Escapeweave_ProDesc",
+    "form_id": "0400080F|Escapeweave.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Description for Escapeweave Pro",
+    "string": "Descripcion del Tejido de Escape Pro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Escapeweave_SpeedBoostEffect",
+    "form_id": "04000810|Escapeweave.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Speed Burst",
+    "string": "Rafaga de velocidad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Escapeweave_SpeedBoostEffect",
+    "form_id": "04000810|Escapeweave.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Movement speed is increased by <mag> for <dur> seconds.",
+    "string": "La velocidad de movimiento aumenta en <mag> durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Escapeweave_EnchFree",
+    "form_id": "04000802|Escapeweave.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Escapeweave",
+    "string": "Tejido de Escape",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EscapeweaveHitEnch",
+    "form_id": "04000807|Escapeweave.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Escapeweave Hit Enchantment",
+    "string": "Encantamiento de impacto del Tejido de Escape",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Escapeweave_Enchpro",
+    "form_id": "04000808|Escapeweave.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Escapeweave",
+    "string": "Tejido de Escape",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Escapeweave_SpeedBoostSpell",
+    "form_id": "04000811|Escapeweave.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Burst of Speed",
+    "string": "Rafaga de velocidad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Escapeweave_ArmorFree",
+    "form_id": "04000801|Escapeweave.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "The Escapeweave",
+    "string": "El Tejido de Escape",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Escapeweave_ArmorFree",
+    "form_id": "04000801|Escapeweave.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "A delicate dress that erupts with a forceful blast the instant you're spotted, throwing nearby foes back and giving you a heartbeat to escape. Improves your Sneaking by 20% and Invisibility potions last twice as long.",
+    "string": "Un delicado vestido que libera una poderosa explosión en el instante en que te detectan, haciendo retroceder a los enemigos cercanos y dándote un instante para escapar. Mejora tu Sigilo un 20% y las pociones de Invisibilidad duran el doble.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Escapeweave_ArmorPro",
+    "form_id": "04000809|Escapeweave.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "The Escapeweave",
+    "string": "El Tejido de Escape",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Escapeweave_ArmorPro",
+    "form_id": "04000809|Escapeweave.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "A delicate dress that erupts with a forceful blast the instant you're spotted, throwing nearby foes back and granting a temporary speed boost; giving you a heartbeat to escape. Improves your Sneaking by 30% and Invisibility potions last twice as long.",
+    "string": "Un delicado vestido que libera una poderosa explosión en el instante en que te detectan, haciendo retroceder a los enemigos cercanos y otorgándote un aumento temporal de velocidad; dándote un instante para escapar. Mejora tu Sigilo un 30% y las pociones de Invisibilidad duran el doble.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmPalaceUpstairs01",
+    "form_id": "00097299|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Palace of the Kings Upstairs",
+    "string": "Palacio de los reyes: piso superior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000550E9|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You... you did? He has?",
+    "string": "Lo... ¿lo lograste? ¿Lo hará?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000550E9|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Oh stranger! You have made Cicero so happy! So jubilant and ecstatic! But more! Even more! My mother thanks you!",
+    "string": "¡Hurra! Seas quien seas, ¡has hecho tan feliz a Cicerón! ¡Tan alborozado y exultante! ¡Pero más aún! ¡Más que eso! ¡Mi madre te lo agradece!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000550E9|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Here, here. For your troubles! And thank you! Thank you again.",
+    "string": "Aqui, aqui. Por tus problemas... Y gracias... Gracias otra vez.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000550E9|Skyrim.esm",
+    "index": 3,
+    "type": "INFO RNAM",
+    "original": "I talked to Loreius. He's agreed to fix your wagon wheel.",
+    "string": "He hablado con Loreio. Ha accedido a arreglar la rueda de tu carromato.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000550E0|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh. Oh yes! Yes, the kindly stranger can certainly help!",
+    "string": "Ah. ¡Ah, sí! ¡Claro que puedes ayudar!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000550E0|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Go to the farm - the Loreius Farm. Just over there, off the road. Talk to Loreius. He has tools! He can help me! But he won't! He refuses!",
+    "string": "Ve a la granja... La granja de Loreio. Está por allí, fuera del camino. Habla con Loreio. ¡Tiene herramientas! ¡Puede ayudarme! ¡Pero no quiere! ¡Se niega!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000550E0|Skyrim.esm",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Convince Loreius to fix my wheel! Do that, and poor Cicero will reward you.",
+    "string": "Convence a Loreius de arreglar mi rueda. Haz eso y el pobre Cicero te recompensara.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000550E0|Skyrim.esm",
+    "index": 3,
+    "type": "INFO RNAM",
+    "original": "Is there some way I can help?",
+    "string": "¿Puedo ayudar en algo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Escapeweave_Explosion",
+    "form_id": "04000805|Escapeweave.esp",
+    "index": 1,
+    "type": "EXPL FULL",
+    "original": "Escapeweave Kabum",
+    "string": "Tejido de Escape Kabum",
+    "status": "TranslationComplete"
+  }
+]

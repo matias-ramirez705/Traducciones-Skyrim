@@ -1,0 +1,83 @@
+[
+  {
+    "editor_id": "SW21_DireWolfFaction",
+    "form_id": "05000831|SkinWalker21_DireWolves.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Dire Wolf Faction",
+    "string": "Facción del lobo terrible",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SW21_DireWolfRace",
+    "form_id": "05000800|SkinWalker21_DireWolves.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Wolf",
+    "string": "Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SW21_DireWolfPeltWhite",
+    "form_id": "05000805|SkinWalker21_DireWolves.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dire Wolf Pelt",
+    "string": "Piel de lobo terrible",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SW21_EncDireWolfWhite",
+    "form_id": "05000803|SkinWalker21_DireWolves.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dire Wolf",
+    "string": "Lobo terrible",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SW21_EncDireWolfWhiteAlpha",
+    "form_id": "0500082E|SkinWalker21_DireWolves.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Giant Dire Wolf",
+    "string": "Lobo terrible gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SW21_EncDireWolfWhitewolfpackleader",
+    "form_id": "05000832|SkinWalker21_DireWolves.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dire Wolf",
+    "string": "Lobo terrible",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SW21_FoodDireWolfMeat",
+    "form_id": "05000806|SkinWalker21_DireWolves.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Dire Wolf Meat",
+    "string": "Carne de lobo terrible",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "Skyrim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SW21_CreatureDialogueDireWolf",
+    "form_id": "05000815|SkinWalker21_DireWolves.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "CreatureDialogueDireWolf",
+    "string": "CreatureDialogueDireWolf",
+    "status": "TranslationComplete"
+  }
+]

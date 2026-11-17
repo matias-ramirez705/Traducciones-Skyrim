@@ -1,0 +1,1055 @@
+[
+  {
+    "editor_id": "aaaDisguiseImperialEffect",
+    "form_id": "04000803|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Imperial Legion Disguise",
+    "string": "Disfraz de la Legión Imperial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseImperialEffect",
+    "form_id": "04000803|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as an Imperial Soldier.",
+    "string": "Estás disfrazado como un Soldado Imperial. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseStormcloakEffect",
+    "form_id": "04000804|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Stormcloak Disguise",
+    "string": "Disfraz de los Capas de la Tormenta ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseStormcloakEffect",
+    "form_id": "04000804|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Stormcloak Soldier.",
+    "string": "Estás disfrazado como un Soldado de los Capas de la Tormenta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseThalmorEffect",
+    "form_id": "04000805|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Thalmor Disguise",
+    "string": "Disfraz de Thalmor ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseThalmorEffect",
+    "form_id": "04000805|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Thalmor Agent.",
+    "string": "Estás disfrazado como un Agente Thalmor. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseForswornEffect",
+    "form_id": "04000806|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Forsworn Disguise",
+    "string": "Disfraz de los Renegados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseForswornEffect",
+    "form_id": "04000806|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Forsworn Renegade.",
+    "string": "Estás disfrazado como un Renegado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseWitnessCloakEffect",
+    "form_id": "04000807|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Witness Cloak Effect",
+    "string": "Efecto de Capa de Testigo ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseWitnessCloakEffect",
+    "form_id": "04000807|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Detect potential witnesses who can see through your disguise.",
+    "string": "Detecta testigos potenciales que pueden ver a través de tu disfraz.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseWitnessEffect",
+    "form_id": "04000808|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Watching Disguise",
+    "string": "Disfraz Bajo Vigilancia ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseWitnessEffect",
+    "form_id": "04000808|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Someone looks suspicious",
+    "string": "Alguien parece sospechoso ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseDawnguardEffect",
+    "form_id": "0400080A|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dawnguard Disguise",
+    "string": "Disfraz de los Guardia del Albas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseDawnguardEffect",
+    "form_id": "0400080A|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Dawnguard Hunter.",
+    "string": "Estás disfrazado como un Cazador de la Guardia del Alba. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseCultistEffect",
+    "form_id": "0400080B|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cultist Disguise",
+    "string": "Disfraz de Cultista ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseCultistEffect",
+    "form_id": "0400080B|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Dragonborn Cultist.",
+    "string": "Estás disfrazado como un Cultista del Sangre de Dragón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseWitnessCalmEffect",
+    "form_id": "04000813|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Witness Calmed",
+    "string": "Testigo calmado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseWitnessAlarmEffect",
+    "form_id": "0400081C|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Recognized",
+    "string": "Conocido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseWitnessAlarmEffect",
+    "form_id": "0400081C|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You must wait <dur> seconds without being seen undisguised or by any witness who has seen through your disguise for new disguises to take effect.",
+    "string": "Debes esperar <dur> segundos sin ser visto sin disfraz o por cualquier testigo que haya visto a través de tu disfraz para que los nuevos disfraces surtan efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseWitnessCalmCloakEffect",
+    "form_id": "04000820|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Calm Witnesses",
+    "string": "Testigos tranquilos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardEastmarchEffect",
+    "form_id": "04000824|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Eastmarch Guard Disguise",
+    "string": "Disfraz de Guardia de Marca Oriental",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardEastmarchEffect",
+    "form_id": "04000824|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as an Eastmarch Hold Guard.",
+    "string": "Estás disfrazado como un Guardia de la Marca Oriental.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardFalkreathEffect",
+    "form_id": "04000825|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Falkreath Guard Disguise",
+    "string": "Disfraz de los Guardia de Falkreaths",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardFalkreathEffect",
+    "form_id": "04000825|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Falkreath Hold Guard.",
+    "string": "Estás disfrazado como Guardia del Páramo de Falkreath.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardHaafingarEffect",
+    "form_id": "04000826|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Haafingar Guard Disguise",
+    "string": "Disfraz de los Guardia de Haafingars",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardHaafingarEffect",
+    "form_id": "04000826|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Haafingar Hold Guard.",
+    "string": "Estás disfrazado como Guardia de la Marca de Haafingar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardHjaalmarchEffect",
+    "form_id": "04000827|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Hjaalmarch Guard Disguise",
+    "string": "Disfraz de los Guardia de la Marca de Hjaals",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardHjaalmarchEffect",
+    "form_id": "04000827|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Hjaalmarch Hold Guard.",
+    "string": "Estás disfrazado como Guardia de la Marca de Hjaal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardPaleEffect",
+    "form_id": "04000828|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "The Pale Guard Disguise",
+    "string": "Disfraz de Guardia Pálido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardPaleEffect",
+    "form_id": "04000828|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Pale Hold Guard.",
+    "string": "Estás disfrazado como un Guardia del Pálido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardReachEffect",
+    "form_id": "04000829|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "The Reach Guard Disguise",
+    "string": "Disfraz de Guardia de La Cuenca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardReachEffect",
+    "form_id": "04000829|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Reach Hold Guard.",
+    "string": "Estás disfrazado como un Guardia de La Cuenca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardRiftEffect",
+    "form_id": "0400082A|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "The Rift Guard Disguise",
+    "string": "Disfraz de Guardia de La Grieta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardRiftEffect",
+    "form_id": "0400082A|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Rift Hold Guard.",
+    "string": "Estás disfrazado como un Guardia de La Grieta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardWhiterunEffect",
+    "form_id": "0400082B|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Whiterun Guard Disguise",
+    "string": "Disfraz de los Guardia de Carrera Blanca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardWhiterunEffect",
+    "form_id": "0400082B|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Whiterun Hold Guard.",
+    "string": "Estás disfrazado como un Guardia de Carrera Blanca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardWinterholdEffect",
+    "form_id": "0400082C|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Winterhold Guard Disguise",
+    "string": "Disfraz de los Guardia de Hibernalia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardWinterholdEffect",
+    "form_id": "0400082C|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Winterhold Guard.",
+    "string": "Estás disfrazado como un Guardia de Hibernalia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseVigilantsOfStendarrEffect",
+    "form_id": "04000840|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Vigilant Disguise",
+    "string": "Disfraz de los Vigilantes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseVigilantsOfStendarrEffect",
+    "form_id": "04000840|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Vigilant of Stendarr.",
+    "string": "Estás disfrazado como un Vigilante de Stendarr.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseCompanionsEffect",
+    "form_id": "04000845|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Companions Disguise",
+    "string": "Disfraz de los Compañeros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseCompanionsEffect",
+    "form_id": "04000845|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a warrior of the Companions.",
+    "string": "Estás disfrazado como un guerrero de los Compañeros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguisePenitusOculatusEffect",
+    "form_id": "04000846|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Penitus Oculatus Disguise",
+    "string": "Disfraz del Penitus Oculatus.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguisePenitusOculatusEffect",
+    "form_id": "04000846|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Penitus Oculatus Agent.",
+    "string": "Estás disfrazado como un Agente penitus oculatus.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguisePsijicOrderEffect",
+    "form_id": "04000847|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Psijic Disguise",
+    "string": "Disfraz de los Psijic.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguisePsijicOrderEffect",
+    "form_id": "04000847|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Psijic Monk.",
+    "string": "Estás disfrazado como un monje Psijic.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGreybeardEffect",
+    "form_id": "04000848|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Greybeard Disguise",
+    "string": "Disfraz de los Barbas Grises.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGreybeardEffect",
+    "form_id": "04000848|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Greybeard Monk.",
+    "string": "Estás disfrazado como un monje de los Barbas Grises.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseThievesGuildEffect",
+    "form_id": "04000853|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Thieves Guild Disguise",
+    "string": "Disfraz del Gremio de Ladrones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseThievesGuildEffect",
+    "form_id": "04000853|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Thieves Guild Operative.",
+    "string": "Estás disfrazado como un operativo del Gremio de Ladrones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseDarkBrotherhoodEffect",
+    "form_id": "04000854|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dark Brotherhood Disguise",
+    "string": "Disfraz de la Hermandad Oscura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseDarkBrotherhoodEffect",
+    "form_id": "04000854|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Dark Brotherhood Assassin.",
+    "string": "Estás disfrazado como un Asesino de la Hermandad Oscura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseMythicDawnEffect",
+    "form_id": "0400086A|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Mythic Dawn Disguise",
+    "string": "Disfraz del Amanecer Mítico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseMythicDawnEffect",
+    "form_id": "0400086A|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Mythic Dawn Cultist.",
+    "string": "Estás disfrazado como un Cultista del Amanecer Mítico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseWitnessSpell",
+    "form_id": "04000809|Disguise.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Witness",
+    "string": "Testigo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseWitnessAlarmSpell",
+    "form_id": "0400081D|Disguise.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Recognized",
+    "string": "Conocido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseWitnessCalmSpell",
+    "form_id": "0400081F|Disguise.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Witness Calmed",
+    "string": "Testigo calmado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseWitnessCalmCloakSpell",
+    "form_id": "04000821|Disguise.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Calm Witnesses",
+    "string": "Testigos tranquilos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseAbility",
+    "form_id": "04000802|Disguise.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Disguise",
+    "string": "Ocultar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseConfigQuest",
+    "form_id": "04000800|Disguise.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Disguise Configuration",
+    "string": "Configuración de disfraz",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseEffectivenessPerk01",
+    "form_id": "04000876|Disguise.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Method Actor",
+    "string": "Actor de Método",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseEffectivenessPerk01",
+    "form_id": "04000876|Disguise.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You are half as likely to be discovered when disguised.",
+    "string": "Tienes la mitad de probabilidades de ser descubierto cuando estás disfrazado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseEffectivenessPerk02",
+    "form_id": "04000877|Disguise.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Method Actor",
+    "string": "Actor de Método",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseEffectivenessPerk02",
+    "form_id": "04000877|Disguise.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You are 99% less likely to be discovered when disguised.",
+    "string": "Tiene un 99% menos de probabilidades de ser descubierto cuando se disfraza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguisePerk",
+    "form_id": "04000801|Disguise.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Disguise",
+    "string": "Ocultar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguisePerk",
+    "form_id": "04000801|Disguise.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You will be recognized as a member of various factions while wearing that faction's armor or clothing.",
+    "string": "Serás reconocido como miembro de varias facciones mientras lleves puesta la armadura o vestimenta de esa facción.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AVSpeechcraft",
+    "form_id": "00000457|Skyrim.esm",
+    "index": 1,
+    "type": "AVIF FULL",
+    "original": "Speech",
+    "string": "Elocuencia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AVSpeechcraft",
+    "form_id": "00000457|Skyrim.esm",
+    "index": 1,
+    "type": "AVIF DESC",
+    "original": "This skill of persuasion can be used to get better prices from merchants, and persuade others to do as you ask.",
+    "string": "Esta habilidad de persuasión se puede emplear para obtener mejores precios de los mercaderes y para persuadir a los demás de que hagan lo que les pides.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardFalkreathStartMessage",
+    "form_id": "0400082E|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Falkreath Hold Guard.",
+    "string": "Ahora estás disfrazado como un Guardia de Falkreath.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardHaafingarStartMessage",
+    "form_id": "0400082F|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Haafingar Hold Guard.",
+    "string": "Ahora estás disfrazado como un Guardia de Haafingar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardHjaalmarchStartMessage",
+    "form_id": "04000830|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Hjaalmarch Hold Guard.",
+    "string": "Ahora estás disfrazado como un Guardia de la Marca de Hjaal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardPaleStartMessage",
+    "form_id": "04000831|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Pale Hold Guard.",
+    "string": "Ahora estás disfrazado como un Guardia de El Pálido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardReachStartMessage",
+    "form_id": "04000832|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Reach Hold Guard.",
+    "string": "Ahora estás disfrazado como un Guardia de La Cuenca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardRiftStartMessage",
+    "form_id": "04000833|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Rift Hold Guard.",
+    "string": "Ahora estás disfrazado como un Guardia de La Grieta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardWhiterunStartMessage",
+    "form_id": "04000834|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Whiterun Hold Guard.",
+    "string": "Ahora estás disfrazado como un Guardia de Carrera Blanca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardWinterholdStartMessage",
+    "form_id": "04000835|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Winterhold Guard.",
+    "string": "Ahora estás disfrazado como un Guardia de Hibernalia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardEastmarchFinishMessage",
+    "form_id": "04000836|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as an Eastmarch Hold Guard.",
+    "string": "Ya no estás disfrazado como un Guardia de Marca Oriental.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardFalkreathFinishMessage",
+    "form_id": "04000837|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Falkreath Hold Guard.",
+    "string": "Ya no estás disfrazado como un Guardia de Falkreath.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardHaafingarFinishMessage",
+    "form_id": "04000838|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Haafingar Hold Guard.",
+    "string": "Ya no estás disfrazado como un Guardia de Haafingar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardHjaalmarchFinishMessage",
+    "form_id": "04000839|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Hjaalmarch Hold Guard.",
+    "string": "Ya no estás disfrazado como un Guardia de la Marca de Hjaal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardPaleFinishMessage",
+    "form_id": "0400083A|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Pale Hold Guard.",
+    "string": "Ya no estás disfrazado como un Guardia de El Pálido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardReachFinishMessage",
+    "form_id": "0400083B|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Reach Hold Guard.",
+    "string": "Ya no estás disfrazado como un Guardia de La Cuenca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardRiftFinishMessage",
+    "form_id": "0400083C|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Rift Hold Guard.",
+    "string": "Ya no estás disfrazado como un Guardia de La Grieta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardWhiterunFinishMessage",
+    "form_id": "0400083D|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Whiterun Hold Guard.",
+    "string": "Ya no estás disfrazado como un Guardia de Carrera Blanca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardWinterholdFinishMessage",
+    "form_id": "0400083E|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Winterhold Guard.",
+    "string": "Ya no estás disfrazado como un Guardia de Hibernalia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseThievesGuildFinishMessage",
+    "form_id": "04000841|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Thieves Guild Operative.",
+    "string": "Ya no estás disfrazado como un Operativo del Gremio de Ladrones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseThievesGuildStartMessage",
+    "form_id": "04000842|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Thieves Guild Operative.",
+    "string": "Ahora estás disfrazado como un Operativo del Gremio de Ladrones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseDarkBrotherhoodFinishMessage",
+    "form_id": "04000843|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Dark Brotherhood Assassin.",
+    "string": "Ya no estás disfrazado como un Asesino de la Hermandad Oscura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseDarkBrotherhoodStartMessage",
+    "form_id": "04000844|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Dark Brotherhood Assassin.",
+    "string": "Ahora estás disfrazado como un Asesino de la Hermandad Oscura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseCompanionFinishMessage",
+    "form_id": "04000849|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a warrior of the Companions.",
+    "string": "Ya no estás disfrazado como un guerrero de los Compañeros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGreybeardFinishMessage",
+    "form_id": "0400084A|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Greybeard Monk.",
+    "string": "Ya no estás disfrazado como un Monje de la Voz.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguisePenitusOculatusFinishMessage",
+    "form_id": "0400084B|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Penitus Oculatus Agent.",
+    "string": "Ya no estás disfrazado como un Agente del Penitus Oculatus.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguisePsijicOrderFinishMessage",
+    "form_id": "0400084C|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Psijic Monk.",
+    "string": "Ya no estás disfrazado como un Monje Psijic.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseCompanionStartMessage",
+    "form_id": "0400084D|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a warrior of the Companions.",
+    "string": "Ahora estás disfrazado como un guerrero de los Compañeros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGreybeardStartMessage",
+    "form_id": "0400084E|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Greybeard Monk.",
+    "string": "Ahora estás disfrazado como un Monje de la Voz.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguisePenitusOculatusStartMessage",
+    "form_id": "0400084F|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Penitus Oculatus Agent.",
+    "string": "Ahora estás disfrazado como un Agente penitus oculatus.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguisePsijicOrderStartMessage",
+    "form_id": "04000850|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Psijic Monk.",
+    "string": "Ahora estás disfrazado como un Monje Psijic.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseVigilantOfStendarrFinishMessage",
+    "form_id": "04000851|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Vigilant of Stendarr.",
+    "string": "Ya no estás disfrazado como un Vigilante de Stendarr.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseVigilantOfStendarrStartMessage",
+    "form_id": "04000852|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Vigilant of Stendarr.",
+    "string": "Ahora estás disfrazado como un Vigilante de Stendarr.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseMythicDawnStartMessage",
+    "form_id": "0400086B|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Mythic Dawn Cultist.",
+    "string": "Ahora estás disfrazado como un Cultista del Amanecer Mítico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseMythicDawnFinishMessage",
+    "form_id": "0400086C|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Mythic Dawn Cultist.",
+    "string": "Ya no estás disfrazado como un Cultista del Amanecer Mítico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseTestItemsMessage",
+    "form_id": "04000870|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Adding Disguises",
+    "string": "Añadiendo disfraces",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseWitnessMessage",
+    "form_id": "04000874|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Someone watches you with suspicion...",
+    "string": "Alguien te observa con sospecha...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseImperialStartMessage",
+    "form_id": "0400080F|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as an Imperial Soldier.",
+    "string": "Ahora estás disfrazado como un Soldado Imperial.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseStormcloakStartMessage",
+    "form_id": "04000810|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Stormcloak Soldier.",
+    "string": "Ahora estás disfrazado como un Soldado Capa de la Tormenta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseThalmorStartMessage",
+    "form_id": "04000811|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Thalmor Agent.",
+    "string": "Ahora estás disfrazado como un Agente Thalmor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseForswornStartMessage",
+    "form_id": "04000812|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Forsworn Renegade.",
+    "string": "Ahora estás disfrazado como un Renegado de los Forajidos del Pedregal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseImperialFinishMessage",
+    "form_id": "04000816|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as an Imperial Soldier.",
+    "string": "Ya no estás disfrazado como un Soldado Imperial.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseCultistStartMessage",
+    "form_id": "04000815|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Dragonborn Cultist.",
+    "string": "Ahora estás disfrazado como un Cultista del Sangre de Dragón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseThalmorFinishMessage",
+    "form_id": "04000818|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Thalmor Agent.",
+    "string": "Ya no estás disfrazado como un Agente Thalmor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseForswornFinishMessage",
+    "form_id": "04000819|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Forsworn Renegade.",
+    "string": "Ya no estás disfrazado como un Renegado de los Forajidos del Pedregal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseStormcloakFinishMessage",
+    "form_id": "04000817|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Stormcloak Soldier.",
+    "string": "Ya no estás disfrazado como un Soldado Capa de la Tormenta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseDawnguardStartMessage",
+    "form_id": "04000814|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Dawnguard Hunter.",
+    "string": "Ahora estás disfrazado como un Cazador de la Guardia del Alba.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseDawnguardFinishMessage",
+    "form_id": "0400081A|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Dawnguard Hunter.",
+    "string": "Ya no estás disfrazado como un Cazador de la Guardia del Alba.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseCultistFinishMessage",
+    "form_id": "0400081B|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Dragonborn Cultist.",
+    "string": "Ya no estás disfrazado como un Cultista del Sangre de Dragón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseWitnessAlarmMessage",
+    "form_id": "0400081E|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your disguise is broken!",
+    "string": "¡Tu disfraz ha sido descubierto!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseGuardEastmarchStartMessage",
+    "form_id": "0400082D|Disguise.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as an Eastmarch Hold Guard.",
+    "string": "Ahora estás disfrazado como un Guardia de la Marca de Ventalia.",
+    "status": "TranslationComplete"
+  }
+]

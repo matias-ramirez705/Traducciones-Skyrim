@@ -1,0 +1,1055 @@
+[
+  {
+    "editor_id": "DDB_Letter_Lucan",
+    "form_id": "01000801|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Lucan Valerius",
+    "string": "Carta de Lucan Valerius",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Lucan",
+    "form_id": "01000801|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Friend,\n\nThe claw is back on the counter where it belongs, and Camilla has stopped telling me I should have gone after it myself. Business is up, too. Seems folk like buying from the shop with the famous claw.\n\nI've put a little something in with this letter. It isn't much, but nobody leaves the Riverwood Trader empty-handed.\n\nYour friend at the Riverwood Trader,\nLucan</font>",
+    "string": "<font face='$HandwrittenFont'>Amigo,\r\n\r\nLa garra está de vuelta en el mostrador, donde debe estar, y Camilla ha dejado de decirme que debería haber ido a buscarla yo mismo. Además, el negocio va mejor. Parece que a la gente le gusta comprar en la tienda que tiene la famosa garra.\r\n\r\nHe incluido algo con esta carta. No es mucho, pero nadie se va con las manos vacías del Comerciante de Cauce Boscoso.\r\n\r\nTu amigo del Comerciante de Cauce Boscoso,\r\nLucan</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_LucanTheft",
+    "form_id": "01000802|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Lucan Valerius",
+    "string": "Carta de Lucan Valerius",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_LucanTheft",
+    "form_id": "01000802|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>The claw is gone again.\n\nNo broken lock this time. Nothing else touched, same as before. Whoever took it walked in during the day, knew exactly where it sat, and knew what it was worth.\n\nI'd ask you to look for it again, but I'm starting to think I know where it went.\n\nLucan Valerius</font>",
+    "string": "<font face='$HandwrittenFont'>La garra ha desaparecido otra vez.\n\nEsta vez no hay ninguna cerradura forzada. No han tocado nada más, igual que antes. Quien se la llevó entró durante el día, sabía exactamente dónde estaba y cuánto valía.\n\nTe pediría que volvieras a buscarla, pero empiezo a pensar que sé adónde fue a parar.\n\nLucan Valerius</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Hroar",
+    "form_id": "01000803|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Honorhall Orphanage",
+    "string": "Carta del Orfanato Salón de Honor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Hroar",
+    "form_id": "01000803|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>We know it was you who killed Grelod. Don't worry, we won't tell.\n\nWe cheered so loud. Constance said that's not nice, but she was smiling too.\n\nWe're glad she's dead. Thank you. We found this under her bed. She doesn't need it.\n\nFrom Hroar and all of us at Honorhall</font>",
+    "string": "<font face='$HandwrittenFont'>Sabemos que fuiste tú quien mató a Grelod. No te preocupes, no se lo diremos a nadie.\r\n\r\nGritamos de alegría tan fuerte. Constance dijo que eso no estaba bien, pero también estaba sonriendo.\r\n\r\nNos alegra que esté muerta. Gracias. Encontramos esto debajo de su cama. Ella ya no lo necesita.\r\n\r\nDe parte de Hroar y de todos nosotros en el orfanato Salón de Honor</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Elenwen",
+    "form_id": "01000804|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from the Thalmor Embassy",
+    "string": "Carta de la Embajada Thalmor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Elenwen",
+    "form_id": "01000804|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>I'm sorry we had so little time to talk at my reception. You left early, and not by the front door.\n\nSeveral of my staff were hurt that night. I know who to thank for that, and I'd like to discuss it with you in person some time.\n\nElenwen</font>",
+    "string": "<font face='$HandwrittenFont'>Lamento que tuviéramos tan poco tiempo para hablar durante mi recepción. Te fuiste temprano y no saliste por la puerta principal.\n\nVarios miembros de mi personal resultaron heridos aquella noche. Sé a quién debo agradecerle eso, y me gustaría hablarlo contigo en persona algún día.\n\nElenwen</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_SvenForgery",
+    "form_id": "01000805|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Sven",
+    "string": "Carta de Sven",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_SvenForgery",
+    "form_id": "01000805|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>I know it was you who gave Camilla that letter. Faendal could never have written it on his own.\n\nI've been playing a new song at the Sleeping Giant and it's about you. People have been asking for it every night. Mother says it's one of my finest works.\n\nSven</font>",
+    "string": "<font face='$HandwrittenFont'>Sé que fuiste tú quien le entregó esa carta a Camilla. Faendal jamás habría podido escribirla por su cuenta.\n\nHe estado tocando una canción nueva en el Gigante Dormido y trata sobre ti. La gente la pide todas las noches. Mi madre dice que es una de mis mejores obras.\n\nSven</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_SvenRatted",
+    "form_id": "01000806|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Sven",
+    "string": "Carta de Sven",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_SvenRatted",
+    "form_id": "01000806|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>I gave you one letter and you walked it straight to Camilla and told her I wrote it.\n\nI've been playing a new song at the Sleeping Giant and it's about you. Everyone in Riverwood has heard it by now. Mother says it's one of my finest works.</font>",
+    "string": "<font face='$HandwrittenFont'>Te di una carta y fuiste directamente a entregársela a Camilla, diciéndole que yo la había escrito.\n\nHe estado tocando una canción nueva en el Gigante Dormido y trata sobre ti. A estas alturas, todos en Cauce Boscoso ya la han escuchado. Mi madre dice que es una de mis mejores obras.</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_FaendalForgery",
+    "form_id": "01000807|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Faendal",
+    "string": "Carta de Faendal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_FaendalForgery",
+    "form_id": "01000807|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>You gave Camilla a letter and told her it was from me. She won't even look at me now.\n\nI don't know what Sven paid you but I hope it was worth it. If you see me out in the woods with my bow, I'd keep your distance.\n\nFaendal</font>",
+    "string": "<font face='$HandwrittenFont'>Le diste una carta a Camilla y le dijiste que era mía. Ahora ni siquiera quiere mirarme.\n\nNo sé cuánto te pagó Sven, pero espero que haya valido la pena. Si me ves por el bosque con mi arco, será mejor que mantengas la distancia.\n\nFaendal</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_FaendalRatted",
+    "form_id": "01000808|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Faendal",
+    "string": "Carta de Faendal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_FaendalRatted",
+    "form_id": "01000808|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>I trusted you with that letter and you took it straight to Camilla and told her I wrote it. She hasn't spoken to me since.\n\nI won't forget it. Next time you're in Riverwood, don't come looking for me.</font>",
+    "string": "<font face='$HandwrittenFont'>Confié en ti para que entregaras esa carta, pero fuiste directamente a llevársela a Camilla y le dijiste que yo la había escrito. No me ha vuelto a dirigir la palabra.\n\nNo lo olvidaré. La próxima vez que estés en Cauce Boscoso, no me busques.</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Erik",
+    "form_id": "01000809|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Erik the Slayer",
+    "string": "Carta de Erik el Asesino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Erik",
+    "form_id": "01000809|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>I did it! I'm an adventurer now! Father bought me the armor and everything.\n\nI killed my first wolf yesterday. It was already quite old and I think it was asleep, but it still counts. Then I got lost and cried a little, but only a little.\n\nI'm calling myself Erik the Slayer. Nobody has hired me yet, but the inn is full of travelers, so it's only a matter of time.\n\nYour friend,\nErik the Slayer!</font>",
+    "string": "<font face='$HandwrittenFont'>¡Lo logré! ¡Ahora soy un aventurero! ¡Mi padre me compró la armadura y todo lo demás!\n\nAyer maté a mi primer lobo. Ya era bastante viejo y creo que estaba dormido, pero cuenta de todos modos. Después me perdí y lloré un poquito, pero solo un poquito.\n\nVoy a llamarme Erik el Asesino. Todavía nadie me ha contratado, pero la posada está llena de viajeros, así que es cuestión de tiempo.\n\nTu amigo,\n¡Erik el Asesino!</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_DerkLeft",
+    "form_id": "0100080A|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Derkeethus",
+    "string": "Carta de Derkeethus",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_DerkLeft",
+    "form_id": "0100080A|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>I'm home in Darkwater Crossing. I never got to thank you properly for getting me out of that cage, so I'm doing it now.\n\nI still don't sleep well. Some nights I can hear them in the dark, the way they talked to each other. Annekke says it will pass. I hope she's right.\n\nDerkeethus</font>",
+    "string": "<font face='$HandwrittenFont'>Estoy de vuelta en mi hogar, en Cruce de Aguas Oscuras. Nunca tuve la oportunidad de agradecerte como es debido por sacarme de aquella jaula, así que lo hago ahora.\n\nTodavía no duermo bien. Algunas noches puedo oírlos en la oscuridad, escuchando cómo hablaban entre ellos. Annekke dice que se me pasará. Espero que tenga razón.\n\nDerkeethus</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_DerkTravelled",
+    "form_id": "0100080B|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Derkeethus",
+    "string": "Carta de Derkeethus",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_DerkTravelled",
+    "form_id": "0100080B|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>I'm back home in Darkwater Crossing. Thanks for getting me out of that cage, and for letting me come along with you after.\n\nAfter all those caves I've had enough of the dark for a while. I'm staying close to the river where it's quiet.\n\nDerkeethus</font>",
+    "string": "<font face='$HandwrittenFont'>Ya estoy de vuelta en mi hogar, en Cruce de Aguas Oscuras. Gracias por sacarme de aquella jaula y por dejarme acompañarte después.\n\nDespués de tantas cuevas, ya tuve suficiente oscuridad por un tiempo. Me quedaré cerca del río, donde todo es tranquilo.\n\nDerkeethus</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Ysolda",
+    "form_id": "0100080C|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Ysolda",
+    "string": "Carta de Ysolda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Ysolda",
+    "form_id": "0100080C|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>The caravans took me seriously the moment they saw the tusk. I've made my first real trade, and my second, and I'm told my third is being smoked in a cellar in Riften as I write this.\n\nI'm putting the coin toward buying the Bannered Mare someday. For the first time it actually feels like it could happen.\n\nI've sent you something from one of my first trades.\n\nYsolda</font>",
+    "string": "<font face='$HandwrittenFont'>Las caravanas me tomaron en serio en cuanto vieron el colmillo. Ya hice mi primer intercambio de verdad, y el segundo. Me dijeron que, mientras escribo esto, están ahumando el tercero en una bodega de Riften.\n\nEstoy ahorrando las monedas para comprar algún día la Yegua Abanderada. Por primera vez, siento que de verdad podría conseguirlo.\n\nTe he enviado algo de uno de mis primeros intercambios.\n\nYsolda</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_DanicaSap",
+    "form_id": "0100080D|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Danica Pure-Spring",
+    "string": "Carta de Danica Manantial Puro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_DanicaSap",
+    "form_id": "0100080D|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>The Gildergreen is in bloom again and the temple is full. Whiterun is in your debt.\n\nI did hear the pilgrims at the sanctuary had trouble with spriggans that same week. I won't ask what happened out there.\n\nI've sent a potion from our stores.\n\nKynareth keep you,\nDanica</font>",
+    "string": "<font face='$HandwrittenFont'>El Árbol Dorado vuelve a estar en flor y el templo está lleno. Cuenca del Dragón está en deuda contigo.\n\nMe enteré de que los peregrinos del santuario tuvieron problemas con unos spriggan esa misma semana. No te preguntaré qué ocurrió allí.\n\nTe he enviado una poción de nuestras reservas.\n\nQue Kynareth te proteja,\nDanica</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_DanicaSapling",
+    "form_id": "0100080E|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Danica Pure-Spring",
+    "string": "Carta de Danica Manantial Puro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_DanicaSapling",
+    "form_id": "0100080E|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>The sapling has taken root. It is as tall as my knee, and it is growing inside the dead trunk of the old tree. People keep calling it a sign. I'm not sure what of yet.\n\nI'll admit I wanted the old tree back. But Kynareth teaches renewal, and in two or three hundred years it will be magnificent. The pilgrims seemed disappointed, but they'll come around.\n\nI've sent a potion from our stores. Thank you, truly.\n\nKynareth keep you,\nDanica</font>",
+    "string": "<font face='$HandwrittenFont'>El retoño ha echado raíces. Ya me llega hasta la rodilla y está creciendo dentro del tronco muerto del árbol antiguo. La gente no deja de decir que es una señal. Todavía no estoy segura de qué.\n\nAdmito que quería recuperar el árbol antiguo. Pero Kynareth enseña la renovación y, dentro de doscientos o trescientos años, será magnífico. Los peregrinos parecían decepcionados, pero acabarán aceptándolo.\n\nTe he enviado una poción de nuestras reservas. De verdad, gracias.\n\nQue Kynareth te proteja,\nDanica</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Amren",
+    "form_id": "0100080F|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Amren",
+    "string": "Carta de Amren",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Amren",
+    "form_id": "0100080F|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>My father's sword is home. I have hung it over the hearth where my daughter can see it.\n\nShe asked me how I got it back and I told her I fought off the bandits myself. If she ever asks you, please don't tell her any different.\n\nI've enclosed something for your trouble.\n\nAmren</font>",
+    "string": "<font face='$HandwrittenFont'>La espada de mi padre está de vuelta en casa. La he colgado sobre la chimenea, donde mi hija pueda verla.\n\nMe preguntó cómo la había recuperado y le dije que yo mismo había ahuyentado a los bandidos. Si alguna vez te pregunta, por favor, no le digas otra cosa.\n\nTe he incluido algo como agradecimiento por las molestias.\n\nAmren</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Hadvar",
+    "form_id": "01000810|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Hadvar",
+    "string": "Carta de Hadvar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Hadvar",
+    "form_id": "01000810|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>I still think about Helgen. The keep, the torturer's room, that bear in the cave we crept past on our bellies. I've served with men for years and I'd still trust you over most of them.\n\nI also think about the list. I said you weren't on it, and then I walked you to the block anyway. I've not made my peace with that. You'd have every right to hold it against me.\n\nMy uncle Alvor keeps a bed for you in Riverwood, for as long as you want it. He made the blade I've sent with this. He wanted you to have it.\n\nAnd if you've a mind to do some good, go to Castle Dour in Solitude and tell Legate Rikke that Hadvar vouches for you. That name is worth a little.\n\nYour friend,\nHadvar</font>",
+    "string": "<font face='$HandwrittenFont'>Todavía pienso en Helgen. La fortaleza, la sala del torturador, aquel oso de la cueva por el que pasamos arrastrándonos. He servido junto a hombres durante años y, aun así, confiaría en ti antes que en la mayoría de ellos.\n\nTambién pienso en la lista. Dije que no aparecías en ella y luego te acompañé hasta el cadalso de todos modos. Todavía no he podido hacer las paces con eso. Tendrías todo el derecho a reprochármelo.\n\nMi tío Alvor te guarda una cama en Cauce Boscoso durante todo el tiempo que quieras. Él forjó la espada que te envío con esta carta. Quería que la tuvieras.\n\nY si tienes ganas de hacer algo bueno, ve al Castillo Severo, en Soledad, y dile al legada Rikke que Hadvar responde por ti. Ese nombre tiene cierto peso.\n\nTu amigo,\nHadvar</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Ralof",
+    "form_id": "01000811|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Ralof",
+    "string": "Carta de Ralof",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Ralof",
+    "form_id": "01000811|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Do you remember the torturer's room? The cages, and that poor wretch dead in one of them? I've seen battle, friend, but I'd not have walked out of that keep alone. Every time I looked back, you were there.\n\nGerdur has kept your place at the table. She says anyone who brings her brother home alive eats free for life, and my sister doesn't joke about food. There's a bed by her fire whenever you want it. She sent the mead. Don't tell her I drank the third.\n\nSo I'll say this as a friend. They didn't have your name on the list, and they sent you to the block all the same. I think about that, and I think you do too. When you're ready, come to the Palace of the Kings in Windhelm and tell them Ralof of Riverwood sent you. There's nobody I'd rather have beside me.\n\nRalof of Riverwood</font>",
+    "string": "<font face='$HandwrittenFont'>¿Recuerdas la sala del torturador? ¿Las jaulas y aquel pobre desgraciado muerto dentro de una de ellas? He visto combates, amigo, pero no habría salido solo de aquella fortaleza. Cada vez que miraba atrás, estabas allí.\r\n\r\nGerdur ha mantenido tu lugar en la mesa. Dice que cualquiera que le devuelva a su hermano con vida comerá gratis de por vida, y mi hermana no bromea con la comida. Hay una cama junto al fuego cuando quieras. Te ha enviado el aguamiel. No le digas que me bebí la tercera botella.\r\n\r\nAsí que te diré esto como amigo. Tu nombre no estaba en la lista y aun así te enviaron al cadalso. Pienso en ello y sé que tú también. Cuando estés listo, ve al Palacio de los Reyes, en Ventalia, y diles que te envía Ralof de Cauce Boscoso. No hay nadie a quien prefiera tener a mi lado.\r\n\r\nRalof de Cauce Boscoso</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Nazeem",
+    "form_id": "01000812|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Nazeem",
+    "string": "Carta de Nazeem",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Nazeem",
+    "form_id": "01000812|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>So the Jarl made you a Thane. I suppose killing one dragon counts for a lot these days.\n\nDon't expect an invitation to dinner. Some of us still have standards, even if the Jarl doesn't.\n\nNazeem</font>",
+    "string": "<font face='$HandwrittenFont'>Así que el jarl te nombró thane. Supongo que matar a un dragón cuenta mucho hoy en día.\n\nNo esperes una invitación a cenar. Algunos todavía tenemos principios, aunque el jarl no los tenga.\n\nNazeem</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Lydia",
+    "form_id": "01000813|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Lydia",
+    "string": "Carta de Lydia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Lydia",
+    "form_id": "01000813|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>My Thane,\n\nIt's been a while since you were last home. The house is fine. I keep it clean and nobody has tried anything, though it gets very quiet here.\n\nI'm sworn to carry your burdens and you haven't given me any in a long time. If you want me on the road with you, you know where to find me.\n\nLydia</font>",
+    "string": "<font face='$HandwrittenFont'>Mi thane:\n\nHa pasado un tiempo desde tu última visita. La casa está bien. La mantengo limpia y nadie ha intentado nada, aunque aquí se está volviendo muy tranquilo.\n\nHe jurado cargar con tus responsabilidades y hace mucho que no me encomiendas ninguna. Si quieres que te acompañe en tus viajes, sabes dónde encontrarme.\n\nLydia</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Moira",
+    "form_id": "01000814|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Moira",
+    "string": "Carta de Moira",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Moira",
+    "form_id": "01000814|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>My love,\n\nYou put the ring on my claw and said you would be back before morning. That was some time ago. I have kept the fire lit. I have kept the cage warm.\n\nThe others say you have gone to Esmerelda, with her dark feathers. I told them you held my claw and called me beautiful. I told them you meant it.\n\nYou have my heart already, so I am sending you someone else's.\n\nYours,\nMoira</font>",
+    "string": "<font face='$HandwrittenFont'>Mi amor:\r\n\r\nMe pusiste el anillo en la garra y dijiste que volverías antes del amanecer. Ha pasado bastante tiempo desde entonces. He mantenido el fuego encendido. He mantenido la jaula caliente.\r\n\r\nLos demás dicen que te has ido con Esmerelda, la de las plumas oscuras. Les dije que me tomaste de la garra y me llamaste hermosa. Les dije que lo decías en serio.\r\n\r\nYa tienes mi corazón, así que te envío el de otra persona.\r\n\r\nTuya,\r\nMoira</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_EnnisReturned",
+    "form_id": "01000815|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Ennis",
+    "string": "Carta de Ennis",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_EnnisReturned",
+    "form_id": "01000815|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Gleda is home. I thank you for that, and only that.\n\nShe is not the same goat. She stares at the hills. She will not go in the pen with the others. Last night I found her standing on the roof, facing south, toward the giant.\n\nI do not know what she saw out there and I do not want to. Stay away from my farm.\n\nEnnis</font>",
+    "string": "<font face='$HandwrittenFont'>Gleda está en casa. Te lo agradezco, y solo eso.\r\n\r\nYa no es la misma cabra. Se queda mirando las colinas. No quiere entrar al corral con las demás. Anoche la encontré de pie en el tejado, mirando hacia el sur, en dirección al gigante.\r\n\r\nNo sé qué vio allí fuera y no quiero saberlo. Mantente alejado de mi granja.\r\n\r\nEnnis</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_EnnisLeft",
+    "form_id": "01000816|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Ennis",
+    "string": "Carta de Ennis",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_EnnisLeft",
+    "form_id": "01000816|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>My goat is still with the giant. I can see his fire from my field at night.\n\nYou were in such a hurry to be gone that I let you go. I have had time to think since. You stole her, you sold her, and you left her there.\n\nHer name was Gleda, in case you never bothered to ask.</font>",
+    "string": "<font face='$HandwrittenFont'>Mi cabra sigue con el gigante. Puedo ver su hoguera desde mi campo por las noches.\n\nTenías tanta prisa por marcharte que te dejé ir. Desde entonces he tenido tiempo para pensar. La robaste, la vendiste y la dejaste allí.\n\nSe llamaba Gleda, por si nunca te molestaste en preguntarlo.</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Mikael",
+    "form_id": "01000817|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Mikael",
+    "string": "Carta de Mikael",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Mikael",
+    "form_id": "01000817|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>I gave you my word I'd leave Carlotta alone, and I've kept it. These days I sing to the other side of the room.\n\nI've sent you a copy of A Gentleman's Guide to Whiterun. Thought you might learn something from it.\n\nMikael</font>",
+    "string": "<font face='$HandwrittenFont'>Te di mi palabra de que dejaría tranquila a Carlotta y la he cumplido. Estos días le canto a la otra parte de la sala.\n\nTe he enviado un ejemplar de La guía de un caballero para Cuenca del Dragón. Pensé que podrías aprender algo de ella.\n\nMikael</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MikaelBrawl",
+    "form_id": "01000818|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Mikael",
+    "string": "Carta de Mikael",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MikaelBrawl",
+    "form_id": "01000818|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>I gave you my word I'd leave Carlotta alone, and I've kept it. These days I sing to the other side of the room.\n\nMy jaw still hurts when I go for the high notes.\n\nI've sent you a copy of A Gentleman's Guide to Whiterun. Thought you might learn something from it.\n\nMikael</font>",
+    "string": "<font face='$HandwrittenFont'>Te di mi palabra de que dejaría tranquila a Carlotta y la he cumplido. Estos días le canto a la otra parte de la sala.\n\nTodavía me duele la mandíbula cuando intento alcanzar las notas más agudas.\n\nTe he enviado un ejemplar de La guía de un caballero para Cuenca del Dragón. Pensé que podrías aprender algo de ella.\n\nMikael</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MikaelIntimidate",
+    "form_id": "01000819|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Mikael",
+    "string": "Carta de Mikael",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MikaelIntimidate",
+    "form_id": "01000819|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>I gave you my word I'd leave Carlotta alone, and I've kept it. These days I sing to the other side of the room.\n\nAnd for the record, I wasn't scared of you. I just decided you weren't worth the trouble.\n\nI've sent you a copy of A Gentleman's Guide to Whiterun. Thought you might learn something from it.\n\nMikael</font>",
+    "string": "<font face='$HandwrittenFont'>Te di mi palabra de que dejaría tranquila a Carlotta y la he cumplido. Estos días le canto a la otra parte de la sala.\n\nY para que conste, no te tenía miedo. Simplemente decidí que no valías la pena.\n\nTe he enviado un ejemplar de La guía de un caballero para Cuenca del Dragón. Pensé que podrías aprender algo de ella.\n\nMikael</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MikaelBribe",
+    "form_id": "0100081A|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Mikael",
+    "string": "Carta de Mikael",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MikaelBribe",
+    "form_id": "0100081A|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>I gave you my word I'd leave Carlotta alone, and I've kept it. These days I sing to the other side of the room.\n\nThe gold's already gone, in case you were wondering.\n\nI've sent you a copy of A Gentleman's Guide to Whiterun. Thought you might learn something from it.\n\nMikael</font>",
+    "string": "<font face='$HandwrittenFont'>Te di mi palabra de que dejaría tranquila a Carlotta y la he cumplido. Estos días le canto a la otra parte de la sala.\n\nEl oro ya se acabó, por si te lo preguntabas.\n\nTe he enviado un ejemplar de La guía de un caballero para Cuenca del Dragón. Pensé que podrías aprender algo de ella.\n\nMikael</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MikaelPersuade",
+    "form_id": "0100081B|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Mikael",
+    "string": "Carta de Mikael",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MikaelPersuade",
+    "form_id": "0100081B|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>I gave you my word I'd leave Carlotta alone, and I've kept it. These days I sing to the other side of the room.\n\nYou were right about Carlotta, I'll give you that. Just don't go telling anyone I said so.\n\nI've sent you a copy of A Gentleman's Guide to Whiterun. Thought you might learn something from it.\n\nMikael</font>",
+    "string": "<font face='$HandwrittenFont'>Te di mi palabra de que dejaría tranquila a Carlotta y la he cumplido. Estos días le canto a la otra parte de la sala.\n\nTenías razón sobre Carlotta, te lo concedo. Pero no vayas contándole a nadie que lo dije.\n\nTe he enviado un ejemplar de La guía de un caballero para Cuenca del Dragón. Pensé que podrías aprender algo de ella.\n\nMikael</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Farkas",
+    "form_id": "0100081C|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Farkas",
+    "string": "Carta de Farkas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Farkas",
+    "form_id": "0100081C|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>I am not good at letters. Vilkas checked the spelling.\n\nIn the cairn, when the gate came down, I turned into a wolf and killed those men in front of you. Then I said I hoped I didn't scare you, and you didn't really answer. I have been thinking about that. I think the answer was yes.\n\nIt is a blessing. We can be like wild beasts. Fearsome. But I am still me when it happens. I knew which ones were you and which ones were not.\n\nFarkas</font>",
+    "string": "<font face='$HandwrittenFont'>No se me dan bien las cartas. Vilkas revisó la ortografía.\r\n\r\nEn el túmulo, cuando se cerró la puerta, me convertí en lobo y maté a aquellos hombres delante de ti. Después dije que esperaba no haberte asustado, y no respondiste realmente. He estado pensando en ello. Creo que la respuesta fue sí.\r\n\r\nEs una bendición. Podemos ser como bestias salvajes. Temibles. Pero sigo siendo yo cuando sucede. Sabía quiénes eran los tuyos y quiénes no.\r\n\r\nFarkas</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Barbas",
+    "form_id": "0100081D|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Barbas",
+    "string": "Carta de Barbas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Barbas",
+    "form_id": "0100081D|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>It's Barbas. Don't ask how a dog writes a letter.\n\nI'm back with Vile now. He's still sulking about the Masque, but I keep reminding him that you could have kept the axe and used it on me, and you didn't. That means a lot to me.\n\nThanks, friend.\nBarbas</font>",
+    "string": "<font face='$HandwrittenFont'>Soy Barbas. No preguntes cómo puede escribir una carta un perro.\n\nHe vuelto con Vile. Todavía está enfurruñado por lo de la Máscara, pero no dejo de recordarle que podrías haberte quedado con el hacha y haberla usado contra mí, pero no lo hiciste. Eso significa mucho para mí.\n\nGracias, amigo.\nBarbas</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Saadia",
+    "form_id": "0100081E|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Saadia",
+    "string": "Carta de Saadia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Saadia",
+    "form_id": "0100081E|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>You have my thanks and my gold, and now my word that the matter is finished. The Alik'r will not trouble Whiterun again.\n\nI hear you wondered afterwards whether everything I told you was true. That is a sensible thing to wonder. I would not think on it for too long.\n\nI am still pouring drinks at the Bannered Mare. Do come by. I'll remember what you did.</font>",
+    "string": "<font face='$HandwrittenFont'>Tienes mi agradecimiento, mi oro y ahora también mi palabra de que el asunto está resuelto. Los alik'r no volverán a molestar a Cuenca del Dragón.\n\nMe han dicho que después te preguntaste si todo lo que te conté era cierto. Es razonable que te lo preguntes. No le des demasiadas vueltas.\n\nSigo sirviendo bebidas en la Yegua Abanderada. Pásate cuando quieras. Recordaré lo que hiciste.</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Sinding",
+    "form_id": "0100081F|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Sinding",
+    "string": "Carta de Sinding",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Sinding",
+    "form_id": "0100081F|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>I told you I would never return to civilized life, and I have kept to that. I know now that I can't live among people. I think I knew it before the ring.\n\nIt is quiet here. The changes still come, but there is nobody near to be hurt by them. That is all I wanted from the start.\n\nI said I could be a powerful ally to you. I meant it. If you ever have need of one, you know where to find me.\n\nSinding</font>",
+    "string": "<font face='$HandwrittenFont'>Te dije que nunca volvería a la vida civilizada y he cumplido mi palabra. Ahora sé que no puedo vivir entre la gente. Creo que ya lo sabía antes del anillo.\r\n\r\nAquí hay tranquilidad. Los cambios siguen ocurriendo, pero no hay nadie cerca que pueda salir lastimado. Eso es lo único que quería desde el principio.\r\n\r\nDije que podía ser un poderoso aliado para ti. Lo decía en serio. Si alguna vez necesitas uno, sabes dónde encontrarme.\r\n\r\nSinding</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Cicero",
+    "form_id": "01000820|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Cicero",
+    "string": "Carta de Cicerón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Cicero",
+    "form_id": "01000820|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Listener! Kind Listener! Merciful Listener! It is Cicero! Cicero is not dead! But you knew that. You are the one who didn't kill him!\n\nTell me, tell me, what did you say to the pretender? Stabbed? Strangled? Drowned? Cicero hopes it was the intestines. He was proud of that one.\n\nPoor Cicero is hiding now, so quiet, so still. But he worries. Who is tending Mother? Who keeps her clean, and protected, and happy? Do look in on her, Listener. She is your mother too.\n\nSuch a friend you have now. Until we enter the Void!\n\nYour humble fool,\nCicero!</font>",
+    "string": "<font face='$HandwrittenFont'>¡Oyente! ¡Querido Oyente! ¡Misericordioso Oyente! ¡Soy Cicerón! ¡Cicerón no está muerto! Pero eso ya lo sabías. ¡Tú eres quien no lo mató!\r\n\r\nDime, dime, ¿qué le dijiste al impostor? ¿Lo apuñalaste? ¿Lo estrangulaste? ¿Lo ahogaste? Cicerón espera que fueran las entrañas. Estaba muy orgulloso de ellas.\r\n\r\nEl pobre Cicerón se esconde ahora, tan callado, tan quieto. Pero está preocupado. ¿Quién cuida de Madre? ¿Quién la mantiene limpia, protegida y feliz? Ve a visitarla, Oyente. Ella también es tu madre.\r\n\r\n¡Ahora tienes un amigo así! ¡Hasta que entremos en el Vacío!\r\n\r\nTu humilde bufón,\r\n¡Cicerón!</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Ghorza",
+    "form_id": "0100082C|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Ghorza gra-Bagol",
+    "string": "Carta de Ghorza gra-Bagol",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Ghorza",
+    "form_id": "0100082C|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>The book worked. Tacitus read it twice and has stopped ruining my iron. He still holds a hammer like an Imperial, but the blades come out straight.\n\nI still don't see why anyone learns from paper. He says the Legion smiths were right all along. I let him have that one.\n\nThe dagger is his. First one he didn't spoil. He wanted you to have it.</font>",
+    "string": "<font face='$HandwrittenFont'>El libro funcionó. Tacitus lo leyó dos veces y ha dejado de estropear mi hierro. Todavía sostiene el martillo como un imperial, pero ahora las hojas salen rectas.\n\nSigo sin entender por qué alguien aprende leyendo papel. Él dice que los herreros de la Legión siempre tuvieron razón. Le concedí esa.\n\nLa daga es suya. Es la primera que no estropea. Quería que la tuvieras.</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Lami",
+    "form_id": "0100082D|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Lami",
+    "string": "Carta de Lami",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Lami",
+    "form_id": "0100082D|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>I have read it four times since you left. I'd forgotten it was funny.\n\nI'd also forgotten it isn't a recipe. It's a song about two alchemists trying to make a king invisible. I tried it anyway. I often don't have much to do.\n\nJorgen drank some of it by mistake. Nothing happened to him that I could see, except he finished a month of the mill's accounts in one night and won't stop talking about it.\n\nI've put a bottle in with this. I don't know what it does. Tell me if you find out.\n\nCome by the hut if you're ever in Morthal.\nLami</font>",
+    "string": "<font face='$HandwrittenFont'>Lo he leído cuatro veces desde que te fuiste. Había olvidado lo divertido que era.\n\nTambién había olvidado que no es una receta. Es una canción sobre dos alquimistas que intentan volver invisible a un rey. Aun así, lo intenté. A menudo no tengo mucho que hacer.\n\nJorgen bebió un poco por accidente. No le pasó nada que yo pudiera notar, salvo que terminó en una sola noche las cuentas del molino de todo un mes y no deja de hablar de ello.\n\nHe incluido una botella con esta carta. No sé qué hace. Dímelo si lo averiguas.\n\nPásate por la cabaña si alguna vez estás en Morthal.\nLami</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Aldis",
+    "form_id": "0100082E|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Captain Aldis",
+    "string": "Carta del capitán Aldis",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Aldis",
+    "form_id": "0100082E|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>I had copies made, as I said I would. Every recruit has read it. That part went well.\n\nThe book teaches a man to keep his shield up and wait for the other fellow to make a mistake. They have all learned it. Yesterday two of them faced each other in the yard for most of an hour and neither one swung.\n\nI called it a draw and sent them to supper. We'll work on the rest.\n\nThe Legion thanks you.\nCapt. Aldis, Castle Dour</font>",
+    "string": "<font face='$HandwrittenFont'>Hice copias, tal como prometí. Todos los reclutas lo han leído. Esa parte salió bien.\n\nEl libro enseña a mantener el escudo en alto y esperar a que el adversario cometa un error. Todos lo han aprendido. Ayer, dos de ellos se enfrentaron en el patio durante casi una hora y ninguno lanzó un golpe.\n\nDeclaré un empate y los mandé a cenar. Ya trabajaremos en lo demás.\n\nLa Legión te agradece tu ayuda.\nCapitán Aldis, Castillo Severo</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Octieve",
+    "form_id": "0100082F|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Octieve San",
+    "string": "Carta de Octieve San",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Octieve",
+    "form_id": "0100082F|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Irnskar walked right past me at the Skeever last night and didn't say a word. First time in a year I've finished a drink without watching the door.\n\nMy daughter Evette told me to thank you properly and never make another bet. So thank you. I'm still working on the second part.\n\nThere's a fellow off the boats who says nobody at the Skeever can out-drink him. I'm only going to watch.\n\nOctieve</font>",
+    "string": "<font face='$HandwrittenFont'>Irnskar pasó junto a mí anoche en el Sceever y no dijo ni una palabra. Es la primera vez en un año que termino una bebida sin estar vigilando la puerta.\n\nMi hija Evette me dijo que te diera las gracias como es debido y que no volviera a hacer apuestas. Así que gracias. Todavía estoy trabajando en la segunda parte.\n\nHay un tipo que viene de los barcos y dice que nadie en el Sceever puede ganarle bebiendo. Solo voy a mirar.\n\nOctieve</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Shahvee",
+    "form_id": "01000830|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Shahvee",
+    "string": "Carta de Shahvee",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Shahvee",
+    "form_id": "01000830|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Honored friend,\n\nThe amulet is back around my neck. No fortune has come yet. The others on the dock tease me about it.\n\nI tell them Zenithar rewards honest work, and we have plenty of that. He is only taking his time.\n\nI was a thief once. I know how much longer it takes to earn a thing properly. I hope your luck comes sooner than mine.</font>",
+    "string": "<font face='$HandwrittenFont'>Estimado amigo:\n\nEl amuleto vuelve a colgar de mi cuello. Todavía no me ha llegado ninguna fortuna. Los demás del muelle se burlan de mí por ello.\n\nLes digo que Zenithar recompensa el trabajo honrado y que de eso tenemos de sobra. Simplemente se está tomando su tiempo.\n\nUna vez fui ladrón. Sé cuánto más cuesta ganarse algo como es debido. Espero que tu suerte llegue antes que la mía.</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Torbjorn",
+    "form_id": "01000831|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Torbjorn Shatter-Shield",
+    "string": "Carta de Torbjorn Escudo Quebrado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Torbjorn",
+    "form_id": "01000831|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Tova slept through the night. She hasn't done that since our girl died.\n\nShe keeps the amulet in her hand, even asleep.\n\nNilsine has her sister's face. Some mornings I forget, for a breath, that there is only the one now.\n\nI've never liked owing anyone. I don't know how I'd ever repay this.\n\nTorbjorn</font>",
+    "string": "<font face='$HandwrittenFont'>Tova durmió toda la noche. No lo había hecho desde que murió nuestra hija.\n\nSigue sujetando el amuleto en la mano, incluso mientras duerme.\n\nNilsine tiene el rostro de su hermana. Algunas mañanas, por un instante, olvido que ahora solo queda una.\n\nNunca me ha gustado deberle nada a nadie. No sé cómo podría pagarte esto.\n\nTorbjorn</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Adonato",
+    "form_id": "01000832|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Adonato Leotelli",
+    "string": "Carta de Adonato Leotelli",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Adonato",
+    "form_id": "01000832|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Giraud has finally written. His whole verdict on Olaf and the Dragon: \"Shorter than I expected.\"\n\nHe did not say he disliked it. I have read his letter four times to be sure.\n\nI hope Giraud paid you something for the trouble. I'm afraid I don't have much to send.\n\nThe next one will be longer.\n\nAdonato Leotelli</font>",
+    "string": "<font face='$HandwrittenFont'>Giraud por fin ha escrito. Todo su veredicto sobre Olaf y el Dragón fue: \"Más corto de lo que esperaba\".\n\nNo dijo que no le gustara. He leído su carta cuatro veces para asegurarme.\n\nEspero que Giraud te haya pagado algo por las molestias. Me temo que no tengo mucho que enviarte.\n\nEl siguiente será más largo.\n\nAdonato Leotelli</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Runil",
+    "form_id": "01000833|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Runil",
+    "string": "Carta de Runil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Runil",
+    "form_id": "01000833|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Blessings of Arkay to you, friend.\n\nThe journal is home again. I told you it's a collection of regrets I try not to forget, and I have spent every evening since remembering them.\n\nI suspect you read it. If you did, you know what I was. Burying the past is much harder than burying remains. I've done a great deal of both.\n\nWe'll all meet Arkay sooner or later. Best to enjoy the time we've got. Life is far too short, my friend. Don't waste it, as I did.\n\nRunil</font>",
+    "string": "<font face='$HandwrittenFont'>Que las bendiciones de Arkay te acompañen, amigo.\r\n\r\nEl diario ha vuelto a casa. Te dije que era una colección de arrepentimientos que intento no olvidar, y desde entonces he pasado todas las noches recordándolos.\r\n\r\nSospecho que lo leíste. Si lo hiciste, sabes lo que fui. Enterrar el pasado es mucho más difícil que enterrar los restos de alguien. He hecho ambas cosas en abundancia.\r\n\r\nTodos nos reuniremos con Arkay tarde o temprano. Lo mejor es disfrutar del tiempo que nos queda. La vida es demasiado corta, amigo mío. No la desperdicies como hice yo.\r\n\r\nRunil</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Sylgja",
+    "form_id": "01000834|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Sylgja",
+    "string": "Carta de Sylgja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Sylgja",
+    "form_id": "01000834|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>I've read every letter you brought back, twice over.\n\nFather says he loves Mother dearly, but wishes she'd get her head out of the clouds. Mother says Father has gone soft and won't set foot outside the house. Each of them wrote it as though the other would never see it.\n\nMy leg is mending well. I'm back in the mine and swinging a pick like I used to.\n\nDarkwater Crossing is a terrible name for such a beautiful place, and a difficult journey besides. Thank you for making it for me. Mind yourself.\n\nSylgja</font>",
+    "string": "<font face='$HandwrittenFont'>He leído todas las cartas que trajiste de vuelta, dos veces cada una.\r\n\r\nMi padre dice que ama mucho a mi madre, pero desearía que dejara de vivir en las nubes. Mi madre dice que mi padre se ha ablandado y que ya no sale de casa. Cada uno escribió como si el otro nunca fuera a leerlo.\r\n\r\nMi pierna está sanando bien. He vuelto a la mina y manejo el pico como antes.\r\n\r\nCruce del Agua Oscura es un nombre terrible para un lugar tan hermoso, y además el viaje es difícil. Gracias por hacerlo por mí. Cuídate.\r\n\r\nSylgja</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Angeline",
+    "form_id": "01000835|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Angeline Morrard",
+    "string": "Carta de Angeline Morrard",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Angeline",
+    "form_id": "01000835|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>You were the only one who would tell me. Captain Aldis couldn't find the time.\n\nI told her. I told her the Imperial Army would kill her. That this was a war of Jarls and Imperial generals, and we had no part in it. She just wouldn't hear it.\n\nThe shop is quieter now. People come in for healing more than for scents these days. I make up the salves and I think about the ones who don't come home.\n\nI said I couldn't thank you, and I still can't. But I don't blame you for bringing it to me.\n\nAngeline</font>",
+    "string": "<font face='$HandwrittenFont'>Fuiste la única persona dispuesta a decírmelo. El capitán Aldis nunca encontró el momento.\r\n\r\nSe lo dije. Le dije que el Ejército Imperial la mataría. Que esta era una guerra entre jarls y generales imperiales y que nosotros no teníamos nada que ver. Simplemente no quiso escucharme.\r\n\r\nAhora hay más tranquilidad en la tienda. Hoy en día, la gente viene más a buscar remedios que fragancias. Preparo los ungüentos y pienso en quienes no regresan a casa.\r\n\r\nDije que no podía darte las gracias, y sigo sin poder hacerlo. Pero no te culpo por haberme traído la noticia.\r\n\r\nAngeline</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Idgrod",
+    "form_id": "01000836|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Idgrod the Younger",
+    "string": "Carta de Idgrod el Joven",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Idgrod",
+    "form_id": "01000836|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Danica wrote back. She sent more potions, and a kinder letter than I expected.\n\nJoric has slept through three nights in a row. He still says strange things, and some days he seems lost. But he laughed at supper. I'd forgotten what that sounded like.\n\nSometimes I can't tell what's real anymore. But him laughing at supper, that was real.\n\nLooking after Joric is my job for now. Thank you for helping me with it.\n\nIdgrod</font>",
+    "string": "<font face='$HandwrittenFont'>Danica respondió. Envió más pociones y una carta más amable de lo que esperaba.\n\nJoric ha dormido toda la noche durante tres noches seguidas. Todavía dice cosas extrañas y algunos días parece estar perdido. Pero se rio durante la cena. Había olvidado cómo sonaba eso.\n\nA veces ya no sé distinguir qué es real. Pero que se riera durante la cena, eso sí fue real.\n\nPor ahora, cuidar de Joric es mi responsabilidad. Gracias por ayudarme con ello.\n\nIdgrod</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Glover",
+    "form_id": "01000837|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Glover Mallory",
+    "string": "Carta de Glover Mallory",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Glover",
+    "form_id": "01000837|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Figured I'd write, since my brother never does.\n\nThe formula's paying off. The Redoran Guard want everything in improved bonemold now, and I can barely keep up. Esmond got what he deserved, the bloody fool.\n\nHope you enjoyed the basement. That's what it was for.\n\nIf you see Delvin, tell him his brother's alive, in case he was wondering. He wasn't.\n\nAnd if you ever cross paths with a girl named Sapphire in the Guild, don't tell her anything. Just let me know how she's doing.\n\nGlover</font>",
+    "string": "<font face='$HandwrittenFont'>Se me ocurrió escribirte, ya que mi hermano nunca lo hace.\r\n\r\nLa fórmula está dando resultados. La Guardia Redoran ahora quiere todo en huesomolde mejorado y apenas puedo seguir el ritmo. Esmond recibió lo que se merecía, el maldito necio.\r\n\r\nEspero que hayas disfrutado del sótano. Para eso estaba.\r\n\r\nSi ves a Delvin, dile que su hermano sigue vivo, por si se lo estaba preguntando. No se lo estaba preguntando.\r\n\r\nY si alguna vez te cruzas con una chica llamada Zafiro en el Gremio, no le cuentes nada. Solo dime cómo le va.\r\n\r\nGlover</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Geldis",
+    "form_id": "01000838|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Geldis Sadri",
+    "string": "Carta de Geldis Sadri",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Geldis",
+    "form_id": "01000838|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>It sold itself, just like I said it would.\n\nThe Netch has been full every night since. Even Mogrul came in, after telling you to pour it down a well. He drank three and didn't say a word, which for him is about as nice as it gets.\n\nI've put a bottle in with this, on the house. There's morals, and then there's money, and a friend who brings in business gets both.\n\nHope you're not drinking it all yourself.\n\nGeldis</font>",
+    "string": "<font face='$HandwrittenFont'>Se vendió solo, tal como dije que ocurriría.\n\nEl Netch ha estado lleno todas las noches desde entonces. Incluso Mogrul vino, después de decirte que lo tiraras a un pozo. Bebió tres y no dijo ni una palabra, lo cual, tratándose de él, es casi lo más amable que puede hacer.\n\nHe incluido una botella con esta carta, por cuenta de la casa. Una cosa son los principios y otra el dinero, y un amigo que atrae clientes consigue ambas cosas.\n\nEspero que no te lo bebas todo tú solo.\n\nGeldis</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Neloth",
+    "form_id": "01000839|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Neloth",
+    "string": "Carta de Neloth",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Neloth",
+    "form_id": "01000839|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>I have been asked, by Talvas of all people, whether I feel any responsibility for what became of Ildari.\n\nI do not. She wanted the procedure. I performed it to the best of anyone's knowledge at the time. That the best of anyone's knowledge was wrong is hardly my fault.\n\nI will admit the outcome was annoying.\n\nI'm told it's customary to thank someone who cleans up after you, so consider yourself thanked. There's no need to reply.\n\nNeloth</font>",
+    "string": "<font face='$HandwrittenFont'>Talvas, nada menos que él, me ha preguntado si siento alguna responsabilidad por lo que le ocurrió a Ildari.\n\nNo. Ella quería someterse al procedimiento. Lo llevé a cabo según el mejor conocimiento disponible en aquel momento. Que ese conocimiento fuera erróneo difícilmente es culpa mía.\n\nAdmito que el resultado fue molesto.\n\nMe han dicho que es costumbre agradecer a quien limpia tus desastres, así que considera que te he dado las gracias. No hace falta que respondas.\n\nNeloth</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Selveni",
+    "form_id": "0100083A|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Selveni Nethri",
+    "string": "Carta de Selveni Nethri",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Selveni",
+    "form_id": "0100083A|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>The curse finally wore off. Bashnag said weeks, and for once he didn't lie.\n\nI went back to Riften. The orphanage had no record worth the name, just a line saying Savela was \"sent on.\" Sent where, no one remembers, or no one will say.\n\nA dockhand in Windhelm thinks a Dunmer girl the right age went over to Solstheim with a refugee family. Raven Rock. It's not much to go on, but it's more than I had stuck in that spider pit.\n\nAnd spare me your moral judgments about my studies. I know what people think. I don't care, so long as I find her.\n\nWhen I find my daughter, it will be thanks to you. I meant that.\n\nSelveni</font>",
+    "string": "<font face='$HandwrittenFont'>La maldición por fin desapareció. Bashnag dijo que tardaría semanas y, por una vez, no mintió.\n\nRegresé a Riften. El orfanato no tenía ningún registro que sirviera de algo, solo una línea que decía que Savela había sido \"trasladada\". Nadie recuerda adónde, o nadie quiere decirlo.\n\nUn estibador de Ventalia cree que una chica dunmer de la edad adecuada viajó a Solstheim con una familia de refugiados. Roca del Cuervo. No es mucho, pero es más de lo que tenía cuando estaba atrapada en aquel agujero de arañas.\n\nY ahórrate tus juicios morales sobre mis estudios. Sé lo que piensa la gente. No me importa, siempre que la encuentre.\n\nCuando encuentre a mi hija, será gracias a ti. Lo digo en serio.\n\nSelveni</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Malborn",
+    "form_id": "0100083B|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Unsigned Letter",
+    "string": "Carta sin firmar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Malborn",
+    "form_id": "0100083B|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Don't put my name to this if anyone asks. Burn it after.\n\nI made it. Over the border, into Morrowind, and nobody's tried to kill me in almost a month. The Dunmer here don't care much for the Thalmor, which makes us friends.\n\nI said they'd be hunting me for the rest of my life, and they probably will. But for once I'm not just waiting for a knife at my throat. I can actually sleep at night now, most nights anyway.\n\nIf you see Delphine, tell her I'm still mad. At her and at myself.\n\nThank you again. You didn't have to come back for me.</font>",
+    "string": "<font face='$HandwrittenFont'>No menciones mi nombre si alguien pregunta. Quema esta carta después de leerla.\n\nLo conseguí. Crucé la frontera y llegué a Morrowind, y nadie ha intentado matarme en casi un mes. A los dunmer de aquí no les agradan mucho los Thalmor, así que somos amigos.\n\nDije que me perseguirían el resto de mi vida, y probablemente lo harán. Pero por una vez no estoy esperando simplemente a que me claven un cuchillo en la garganta. Ahora puedo dormir por las noches, al menos la mayoría.\n\nSi ves a Delphine, dile que sigo enojado. Con ella y conmigo mismo.\n\nGracias otra vez. No tenías por qué volver por mí.</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Aela",
+    "form_id": "0100083C|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Aela the Huntress",
+    "string": "Carta de Aela la Cazadora",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_Aela",
+    "form_id": "0100083C|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Shield-Sibling,\n\nSkjor asked how things went at the cairn and I told him you held your ground. I'm not going to apologize for changing in front of you, but I would have rather told you myself.\n\nSome of the others see the blood as a curse. I never have.\n\nCome find me when you're back in Whiterun.\n\nAela</font>",
+    "string": "<font face='$HandwrittenFont'>Hermano de escudo:\n\nSkjor preguntó cómo habían ido las cosas en el túmulo y le dije que mantuviste la posición. No voy a disculparme por haberme transformado delante de ti, pero habría preferido contártelo yo misma.\n\nAlgunos de los demás consideran que la sangre es una maldición. Yo nunca lo he creído.\n\nVen a buscarme cuando vuelvas a Cuenca del Dragón.\n\nAela</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MissivesWhiterun",
+    "form_id": "0100083D|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Dragonsreach",
+    "string": "Carta de Cuenca del Dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MissivesWhiterun",
+    "form_id": "0100083D|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>The Jarl wanted me to write and say thank you for the work you did off the missive board. Most of those notices hang there for weeks and nobody touches them, so I was glad to finally cross one off.\n\nThe guards are stretched pretty thin these days and can't be everywhere at once. If you're back in Whiterun there will probably be more up on the board.\n\nFrom the Steward's office at Dragonsreach</font>",
+    "string": "<font face='$HandwrittenFont'>El jarl quería que te escribiera para agradecerte el trabajo que hiciste al aceptar un encargo del tablón de anuncios. La mayoría de esos avisos permanecen allí durante semanas sin que nadie los atienda, así que me alegró poder retirar uno por fin.\n\nEstos días los guardias están bastante ocupados y no pueden estar en todas partes al mismo tiempo. Si vuelves a Cuenca del Dragón, probablemente encontrarás más encargos en el tablón.\n\nDesde la oficina del administrador de Cuenca del Dragón</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MissivesEastmarch",
+    "form_id": "0100083E|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from the Palace of the Kings",
+    "string": "Carta del Palacio de los Reyes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MissivesEastmarch",
+    "form_id": "0100083E|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Not many people in Windhelm will lift a finger for a stranger, so when someone answers a notice on the missive board it gets talked about. The Jarl heard about the job you did and asked me to thank you for it.\n\nThere's usually something new on the board every few days. Check it next time you come through.\n\nFrom the Steward's office at the Palace of the Kings</font>",
+    "string": "<font face='$HandwrittenFont'>No mucha gente en Ventalia movería un dedo por un desconocido, así que cuando alguien responde a un aviso del tablón de anuncios, se habla de ello. El jarl se enteró del trabajo que hiciste y me pidió que te lo agradeciera.\n\nCada pocos días suele aparecer algo nuevo en el tablón. Revísalo la próxima vez que pases por aquí.\n\nDesde la oficina del administrador del Palacio de los Reyes</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MissivesFalkreath",
+    "form_id": "0100083F|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Falkreath",
+    "string": "Carta de Falkreath",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MissivesFalkreath",
+    "form_id": "0100083F|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Word reached the Jarl about the job you took from the missive board. It was handled well and the people who posted it were satisfied, which is more than I can say for most who take those notices.\n\nThe Jarl asked that you be thanked on behalf of the hold.\n\nFrom the Steward's office at the Jarl's Longhouse</font>",
+    "string": "<font face='$HandwrittenFont'>El jarl se enteró del trabajo que aceptaste del tablón de anuncios. Lo resolviste bien y quienes lo publicaron quedaron satisfechos, algo que no puedo decir de la mayoría de los que aceptan esos encargos.\n\nEl jarl pidió que te diera las gracias en nombre de la comarca.\n\nDesde la oficina del administrador de la Casa Comunal del Jarl</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MissivesHaafingar",
+    "form_id": "01000840|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from the Blue Palace",
+    "string": "Carta del Palacio Azul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MissivesHaafingar",
+    "form_id": "01000840|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Solitude is a busy city and the Jarl's court gets more requests than it can answer. The notices on the missive board are how some of them get dealt with, and you took one.\n\nIt's been confirmed as done. You have the court's thanks.\n\nFrom the Steward's office at the Blue Palace</font>",
+    "string": "<font face='$HandwrittenFont'>Soledad es una ciudad muy activa y la corte del jarl recibe más solicitudes de las que puede atender. Los avisos del tablón de anuncios sirven para resolver algunas de ellas, y tú aceptaste uno.\n\nSe ha confirmado que el trabajo está terminado. Tienes el agradecimiento de la corte.\n\nDesde la oficina del administrador del Palacio Azul</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MissivesHjaalmarch",
+    "form_id": "01000841|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Highmoon Hall",
+    "string": "Carta del Salón de la Luna Alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MissivesHjaalmarch",
+    "form_id": "01000841|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Morthal doesn't trust outsiders easily, and the people who posted that notice were no different. They've told the Jarl you did exactly what was asked and nothing more, which around here counts for a lot.\n\nThank you for your help. The Jarl won't forget it.\n\nFrom the Steward's office at Highmoon Hall</font>",
+    "string": "<font face='$HandwrittenFont'>Morthal no confía fácilmente en los forasteros, y quienes publicaron ese aviso no eran la excepción. Le han dicho al jarl que hiciste exactamente lo que te pidieron y nada más, algo que aquí se valora mucho.\n\nGracias por tu ayuda. El jarl no lo olvidará.\n\nDesde la oficina del administrador del Salón de la Luna Alta</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MissivesPale",
+    "form_id": "01000842|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from the White Hall",
+    "string": "Carta del Salón Blanco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MissivesPale",
+    "form_id": "01000842|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>The miners here don't say thank you much, so I'll do it for them. The job you took off the missive board is done and the Jarl was pleased to hear about it.\n\nDawnstar is a hard place to live and most people up here are too busy getting through the day to fix anything else. Help from outside is welcome.\n\nFrom the Steward's office at the White Hall</font>",
+    "string": "<font face='$HandwrittenFont'>Los mineros de aquí no suelen dar las gracias, así que lo haré por ellos. El encargo que aceptaste del tablón de anuncios está terminado y al jarl le alegró saberlo.\n\nLucero del Alba es un lugar difícil para vivir y la mayoría de la gente de aquí está demasiado ocupada intentando salir adelante cada día como para ocuparse de otras cosas. La ayuda de fuera siempre es bienvenida.\n\nDesde la oficina del administrador del Salón Blanco</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MissivesReach",
+    "form_id": "01000843|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Understone Keep",
+    "string": "Carta de la Fortaleza de Piedra Baja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MissivesReach",
+    "form_id": "01000843|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>In the Reach, anyone who leaves the city walls takes a risk, between the Forsworn and everything else out there. The work you did from the missive board was finished without trouble, and that's been noted at Understone Keep.\n\nThe Jarl sends his thanks. Markarth pays its debts.\n\nFrom the Steward's office at Understone Keep</font>",
+    "string": "<font face='$HandwrittenFont'>En la Cuenca, cualquiera que salga de las murallas de la ciudad corre un riesgo, entre los Renegados y todo lo demás que hay ahí fuera. El trabajo que realizaste tras aceptar el encargo del tablón de anuncios terminó sin problemas, y eso se ha tenido en cuenta en la Fortaleza de Piedra Baja.\n\nEl jarl te envía su agradecimiento. Markarth salda sus deudas.\n\nDesde la oficina del administrador de la Fortaleza de Piedra Baja</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MissivesRift",
+    "form_id": "01000844|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Mistveil Keep",
+    "string": "Carta de la Fortaleza de Velo Brumoso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MissivesRift",
+    "form_id": "01000844|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>Most notices posted in Riften go unanswered, or get answered by the wrong kind of people. You actually did the job and didn't skim anything off the top, which is rare enough here that I thought it worth writing about.\n\nThe Jarl has been told. Thank you.\n\nFrom the Steward's office at Mistveil Keep</font>",
+    "string": "<font face='$HandwrittenFont'>La mayoría de los avisos que se publican en Riften quedan sin respuesta o atraen a la clase equivocada de personas. Tú realmente hiciste el trabajo y no te quedaste con una parte del pago, algo tan poco habitual aquí que me pareció digno de mencionarlo por escrito.\n\nYa se ha informado al jarl. Gracias.\n\nDesde la oficina del administrador de la Fortaleza de Velo Brumoso</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MissivesWinterhold",
+    "form_id": "01000845|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Letter from Winterhold",
+    "string": "Carta de Hibernalia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Letter_MissivesWinterhold",
+    "form_id": "01000845|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'>There isn't much left of Winterhold since the Collapse, and what's left doesn't get many visitors who aren't headed to the College. So it was a surprise when someone took a notice off the board and actually saw it through.\n\nThe Jarl was glad to hear it. So was I.\n\nFrom the Steward's office at the Jarl's Longhouse in Winterhold</font>",
+    "string": "<font face='$HandwrittenFont'>Desde el Gran Desastre, queda muy poco de Hibernalia y lo que aún permanece en pie no recibe muchas visitas de quienes no se dirigen al Colegio. Por eso fue una sorpresa que alguien aceptara un aviso del tablón y realmente lo llevara a cabo.\n\nAl jarl le alegró saberlo. A mí también.\n\nDesde la oficina del administrador de la Casa Comunal del Jarl en Hibernalia</font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DDB_Controller",
+    "form_id": "0100082A|Dear Dragonborn.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Dear Dragonborn",
+    "string": "Estimado Sangre de Dragón",
+    "status": "TranslationComplete"
+  }
+]

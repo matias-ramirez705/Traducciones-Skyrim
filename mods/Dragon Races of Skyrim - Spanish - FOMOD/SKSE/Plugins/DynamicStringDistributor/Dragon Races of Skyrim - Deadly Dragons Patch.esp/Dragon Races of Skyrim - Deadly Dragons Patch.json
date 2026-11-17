@@ -1,0 +1,344 @@
+[
+  {
+    "editor_id": "EncDragon01Fire",
+    "form_id": "0001CA03|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dragon",
+    "string": "Dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon03Frost",
+    "form_id": "000351C3|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Frost Dragon",
+    "string": "Dragón de la escarcha",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Paarthurnax",
+    "form_id": "0003C57C|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Paarthurnax",
+    "string": "Paarthurnax",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Odahviing",
+    "form_id": "00045920|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Odahviing",
+    "string": "Odahviing",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunSkuldafnDragonDraugr",
+    "form_id": "00096E48|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dragon",
+    "string": "Dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon02Fire",
+    "form_id": "000F80FD|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Blood Dragon",
+    "string": "Dragón de sangre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon04Frost",
+    "form_id": "000F811A|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elder Dragon",
+    "string": "Dragón anciano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon04Fire",
+    "form_id": "000F811B|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elder Dragon",
+    "string": "Dragón anciano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon05Fire",
+    "form_id": "000F811C|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ancient Dragon",
+    "string": "Dragón ancestral",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon05Frost",
+    "form_id": "000F811E|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ancient Dragon",
+    "string": "Dragón ancestral",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1EncDragon06Fire",
+    "form_id": "01008431|Dawnguard.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Revered Dragon",
+    "string": "Dragón venerable",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1EncDragon07Fire",
+    "form_id": "0100C5F5|Dawnguard.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Legendary Dragon",
+    "string": "Dragón legendario",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1EncDragon07Frost",
+    "form_id": "0100C5FD|Dawnguard.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Legendary Dragon",
+    "string": "Dragón legendario",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2EncDragon06Frost",
+    "form_id": "0202C88A|Dragonborn.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Serpentine Dragon",
+    "string": "Dragón serpentino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2EncDragon06Fire",
+    "form_id": "0203612E|Dragonborn.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Serpentine Dragon",
+    "string": "Dragón serpentino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2EncDragon06FrostNoScript",
+    "form_id": "02036133|Dragonborn.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Serpentine Dragon",
+    "string": "Dragón serpentino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2EncDragon06FireNoScript",
+    "form_id": "02036134|Dragonborn.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Serpentine Dragon",
+    "string": "Dragón serpentino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nDragon03Forest",
+    "form_id": "0303DE4B|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Forest Dragon",
+    "string": "Dragon del Bosque",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nDragon04Nether",
+    "form_id": "0303DE4D|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Nether Dragon",
+    "string": "Dragon del Neter",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nDragon05Storm",
+    "form_id": "0303DE4F|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Storm Dragon",
+    "string": "Dragon de la Tormenta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nDragon05Magma",
+    "form_id": "0303DE51|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Magma Dragon",
+    "string": "Dragon de Magma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nDragon05Wyrm",
+    "form_id": "0303DE53|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wyrm",
+    "string": "Guiverno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nDragon06Blackwing",
+    "form_id": "0303DE55|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Blackwing Dragon",
+    "string": "Dragon Ala Negra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nDragon06Volcanic",
+    "form_id": "0303DE57|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Volcanic Dragon",
+    "string": "Dragon Volcanico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nDragon06Dracolich",
+    "form_id": "0303DE59|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dracolich",
+    "string": "Dracoliche",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nDragon06Arctic",
+    "form_id": "0303DE5B|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Arctic Dragon",
+    "string": "Dragon Artico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nDragon06Spectral",
+    "form_id": "0303DE5D|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Spectral Dragon",
+    "string": "Dragon Espectral",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nDragon07AoA",
+    "form_id": "0303DE5F|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Aspect of Alduin",
+    "string": "Aspecto de Alduin",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nDragon07Bone",
+    "form_id": "0303DE61|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bone Dragon",
+    "string": "Dragon Oseo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nDragon07Sun",
+    "form_id": "0303DE63|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Sun Dragon",
+    "string": "Dragon Solar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nDragon07Awakened",
+    "form_id": "0303DE65|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Awakened Dragon",
+    "string": "Dragon Despertado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nDragon06SpectralAlly",
+    "form_id": "0304CC7B|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Spectral Ally",
+    "string": "Aliado Espectral",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nDragon06Wyvern",
+    "form_id": "030543CC|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wyvern",
+    "string": "Guiverno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nDragon07Mech",
+    "form_id": "030543CE|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Mechadon",
+    "string": "Mechadon",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nDragon07Tempest",
+    "form_id": "03056B6E|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Tempest Drake",
+    "string": "Draco de la Tempestad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1EncDragon06Frost",
+    "form_id": "030CE568|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Revered Dragon",
+    "string": "Dragón venerable",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "nDragon02Skeletal",
+    "form_id": "030E2B37|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Skeletal Dragon",
+    "string": "Dragón esqueleto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon03Fire",
+    "form_id": "0310624B|DeadlyDragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Fire Dragon",
+    "string": "Dragón de Fuego",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,176 @@
+# El nombre de la habilidad aparecerá cuando se muestre el mensaje de subida de nivel de la habilidad y también en el menú de perks personalizados
+Name = "Compañero"
+
+# La descripción de la habilidad aparecerá en el menú de perks personalizados debajo del nombre y nivel, pon "" para borrarla
+# si no quieres mostrar nada
+Description = "La fuerza del deber"
+
+# NIF de fondo personalizado, INTVampirePerkSkydome.nif muestra el fondo de hombre lobo, si usas un NIF personalizado
+# que tú hayas hecho debe tener algunos nodos e imágenes, se recomienda editar este NIF en lugar de crear uno nuevo desde cero. Si usas "Interface/INTPerkSkydome.nif" 
+# como base, entonces debes configurar SkydomeNormalNif a verdadero
+Skydome = "DLC01/Interface/INTVampirePerkSkydome.nif"
+SkydomeNormalNif = false
+
+# Esto debe apuntar a una variable global que contiene el nivel actual de la habilidad. ¡Debe configurarse!
+LevelFile = "Companionsskillltree.esp"
+LevelId = 0xD63
+#LevelFile = ""
+#LevelId = 0
+
+# Esto debe apuntar a una variable global que contiene la relación de subida de nivel de la habilidad (qué tan cerca está la habilidad de subir de nivel).
+# El valor debe estar entre 0 y 1 siempre. Configura el tipo float en la variable global cuando la crees. ¡Debe configurarse!
+RatioFile = "Companionsskillltree.esp"
+RatioId = 0xD65
+
+# Esto debe apuntar a una variable global que está configurada en 0, cuando cambias esta variable global a otro número
+# el juego mostrará "SkillName ha aumentado a X" donde X es el valor que configuraste en esta variable global, el
+# juego también inmediatamente configurará el valor de la variable global de nuevo a 0. ¡Debe configurarse!
+ShowLevelupFile = "Companionsskillltree.esp"
+ShowLevelupId = 0xD64
+
+# Esto debe apuntar a una variable global que está configurada en 0, si la cambias a 1 entonces el menú de perks personalizado para esta habilidad
+# se abrirá inmediatamente (siempre que los controles del menú estén habilitados y el juego no esté pausado). Una vez que eso suceda, el juego también
+# configurará el valor de inmediato de nuevo a 0. Así es como controlas cuándo abrir el menú de perks para la habilidad. ¡Debe configurarse!
+ShowMenuFile = "Companionsskillltree.esp"
+ShowMenuId = 0xD62
+
+# Opcional! Esto debe apuntar a una variable global que contiene la cantidad actual de puntos de perk para esta habilidad específica.
+# Esto se puede usar para tener una cantidad personalizada de puntos de perk solo para esta habilidad. Si no se configura, se usará por defecto
+# los puntos de perk regulares del jugador para las habilidades.
+PerkPointsFile = ""
+PerkPointsId = 0
+
+# Opcional! Esto debe apuntar a una variable global que contiene la cantidad de veces que esta habilidad ha sido llevada a lo legendario.
+# Si no se configura, la habilidad no podrá ser llevada a lo legendario.
+LegendaryFile = "Companionsskillltree.esp"
+LegendaryId = 0x1D92
+
+# Opcional! Si esto apunta a una variable global, entonces contiene el color actual del nombre de la habilidad. Por ejemplo, si configuras el valor
+# de la variable global a 0xFF0000, el nombre de la habilidad será rojo en el menú de perks, si no se usa, el color por defecto será blanco.
+ColorFile = ""
+ColorId = 0
+
+# Opcional! Esto puede ser útil para recargar los archivos de configuración cuando el juego aún está abierto. Puede ser útil para el desarrollo para que puedas
+# ajustar la ubicación de los nodos de perks sin tener que cerrar el juego todo el tiempo. Para usar esto, crea una variable global y configúralo en 0,
+# coloca el nombre del archivo y el ID de formulario de la variable aquí. Luego, durante el juego, asegúrate de que el menú de perks esté cerrado.
+# Abre la consola y escribe
+# "set myglobalname to 1", cierra la consola y ahora todos los archivos de configuración de habilidad han sido recargados para que puedas abrir el menú de perks
+# nuevamente y ver cómo cambiaron los nodos. ¡Esto no se recomienda para jugar normalmente! Crea una fuga de memoria o algo peor. Recuerda que
+# el menú de perks debe estar cerrado cuando se recarguen los archivos.
+DebugReloadFile = "Companionsskillltree.esp"
+DebugReloadId = 0x182F
+
+# Node0 es el nodo raíz, no debe tener coordenadas ni un perk asignado a él. ¡Esto debe existir incluso si no deseas tener ningún perk!
+# Usa Node0.Links para apuntar al primer perk. Si no deseas ningún perk, elimina la línea de links o configúralo en ""
+Node0.Enable = true
+Node0.Links = "1"
+
+# Los perks reales comienzan desde aquí. Cuando estás haciendo una condición para un perk para un nivel específico de habilidad requerido, en lugar de GetBaseActorValue usa GetGlobalValue
+# para la variable global que configuraste en la opción "Level". Esto generará la descripción correcta del requisito en el juego.
+# Usa GridX y GridY para colocar el nodo (no se admiten valores negativos), X y Y es un desplazamiento extra para una ubicación más precisa (puede tener fracciones y puede ser negativo)
+# GridX va de derecha a izquierda (valor menor a mayor), GridY va de abajo a arriba (valor menor a mayor)
+
+Node1.Enable = true
+Node1.PerkFile = "Companionsskillltree.esp"
+Node1.PerkId = 0x000805
+Node1.X = 0
+Node1.Y = 0
+Node1.GridX = 3
+Node1.GridY = 0
+Node1.Links = "2 3"
+
+Node2.Enable = true
+Node2.PerkFile = "Companionsskillltree.esp"
+Node2.PerkId = 0x000806
+Node2.X = 0
+Node2.Y = 0
+Node2.GridX = 3
+Node2.GridY = 1
+Node2.Links = "4 5 6"
+
+Node3.Enable = true
+Node3.PerkFile = "Companionsskillltree.esp"
+Node3.PerkId = 0x000807
+Node3.X = 0
+Node3.Y = 0
+Node3.GridX = 4
+Node3.GridY = 1
+
+Node4.Enable = true
+Node4.PerkFile = "Companionsskillltree.esp"
+Node4.PerkId = 0x000808
+Node4.X = 0
+Node4.Y = 0
+Node4.GridX = 2
+Node4.GridY = 2
+
+Node5.Enable = true
+Node5.PerkFile = "Companionsskillltree.esp"
+Node5.PerkId = 0x00080A
+Node5.X = 0
+Node5.Y = 0
+Node5.GridX = 4
+Node5.GridY = 2
+
+Node6.Enable = true
+Node6.PerkFile = "Companionsskillltree.esp"
+Node6.PerkId = 0x00080c
+Node6.X = 0
+Node6.Y = 0
+Node6.GridX = 3
+Node6.GridY = 2
+Node6.Links = "7 10"
+
+Node7.Enable = true
+Node7.PerkFile = "Companionsskillltree.esp"
+Node7.PerkId = 0x00080D
+Node7.X = 0
+Node7.Y = 0
+Node7.GridX = 4
+Node7.GridY = 3
+Node7.Links = "8"
+
+Node8.Enable = true
+Node8.PerkFile = "Companionsskillltree.esp"
+Node8.PerkId = 0x00080E
+Node8.X = 0
+Node8.Y = 0
+Node8.GridX = 5
+Node8.GridY = 4
+Node8.Links = "9"
+
+Node9.Enable = true
+Node9.PerkFile = "Companionsskillltree.esp"
+Node9.PerkId = 0x00080F
+Node9.X = 0
+Node9.Y = 0
+Node9.GridX = 5
+Node9.GridY = 5
+
+Node10.Enable = true
+Node10.PerkFile = "Companionsskillltree.esp"
+Node10.PerkId = 0x000811
+Node10.X = 0
+Node10.Y = 0
+Node10.GridX = 2
+Node10.GridY = 3
+Node10.Links = "11"
+
+Node11.Enable = true
+Node11.PerkFile = "Companionsskillltree.esp"
+Node11.PerkId = 0x000812
+Node11.X = 0
+Node11.Y = 0
+Node11.GridX = 1
+Node11.GridY = 4
+Node11.Links = "12"
+
+Node12.Enable = true
+Node12.PerkFile = "Companionsskillltree.esp"
+Node12.PerkId = 0x000816
+Node12.X = 0
+Node12.Y = 0
+Node12.GridX = 1
+Node12.GridY = 5
+Node12.Links = "12"
+

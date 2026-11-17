@@ -1,0 +1,119 @@
+[
+  {
+    "editor_id": "K747_EncDragon04Fire_Dragon001_Inquisitive",
+    "form_id": "0100081E|Kojaks Inquisitive Dragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Inquisitive Elder Fire Dragon",
+    "string": "Dragon de Fuego Ancestral Curioso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "K747_EncDragon05Frost_Dragon002_Inquisitive",
+    "form_id": "0100084F|Kojaks Inquisitive Dragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Inquisitive Ancient Frost Dragon",
+    "string": "Dragon de Escarcha Antiguo Curioso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "K747_EncDragon04Frost_Dragon003_Inquisitive",
+    "form_id": "010008BB|Kojaks Inquisitive Dragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Inquisitive Elder Frost Dragon",
+    "string": "Dragon de Escarcha Ancestral Curioso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "K747_EncDragon04Fire_Dragon004_Inquisitive",
+    "form_id": "0100094C|Kojaks Inquisitive Dragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Inquisitive Elder Fire Dragon",
+    "string": "Dragon de Fuego Ancestral Curioso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "K747_EncDragon04Frost_Dragon003_AttacksPlayer",
+    "form_id": "01000995|Kojaks Inquisitive Dragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Agressive Elder Frost Dragon",
+    "string": "Dragon de Escarcha Ancestral Agresivo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "K747_EncDragon04Frost_Dragon003_AttacksEveryone",
+    "form_id": "01000998|Kojaks Inquisitive Dragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Frenzied Elder Frost Dragon",
+    "string": "Dragon de Escarcha Ancestral Frenetico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "K747_EncDragon04Fire_Dragon001_AttacksPlayer",
+    "form_id": "0100099B|Kojaks Inquisitive Dragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Agressive Elder Fire Dragon",
+    "string": "Dragon de Fuego Ancestral Agresivo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "K747_EncDragon04Fire_Dragon001_AttacksEveryone",
+    "form_id": "0100099C|Kojaks Inquisitive Dragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Frenzied Elder Fire Dragon",
+    "string": "Dragon de Fuego Ancestral Frenetico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "K747_EncDragon05Frost_Dragon002_AttacksPlayer",
+    "form_id": "0100099F|Kojaks Inquisitive Dragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Agressive Ancient Frost Dragon",
+    "string": "Dragon de Escarcha Antiguo Agresivo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "K747_EncDragon05Frost_Dragon002_AttacksEveryone",
+    "form_id": "010009A0|Kojaks Inquisitive Dragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Frenzied Ancient Frost Dragon",
+    "string": "Dragon de Escarcha Antiguo Frenetico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "K747_EncDragon04Fire_Dragon004_AttacksPlayer",
+    "form_id": "010009A3|Kojaks Inquisitive Dragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Agressive Elder Fire Dragon",
+    "string": "Dragon de Fuego Ancestral Agresivo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "K747_EncDragon04Fire_Dragon004_AttacksEveryone",
+    "form_id": "010009A4|Kojaks Inquisitive Dragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Frenzied Elder Fire Dragon",
+    "string": "Dragon de Fuego Ancestral Frenetico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "K747_EncDragon05Fire_Dragon000_Test",
+    "form_id": "01000D61|Kojaks Inquisitive Dragons.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Inquisitive Test Dragon",
+    "string": "Dragon de Prueba Curioso",
+    "status": "TranslationComplete"
+  }
+]

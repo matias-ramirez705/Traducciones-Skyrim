@@ -1,0 +1,72 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Exit-9B/CustomSkills/main/docs/schema/CustomSkill.json",
+  "version": 1,
+  "skydome": {
+    "model": "deepborn/Interface/intdeepbornskydome.nif",
+    "cameraRightPoint": 2
+  },
+  "showMenu": "deepborn.esp|D62",
+  "debugReload": "deepborn.esp|001",
+  "perkPoints": null,
+  "skills": [
+    {
+      "id": "mining",
+      "name": "Minería",
+      "description": "El ritmo constante al golpear las vetas de mineral y el poder del fuego se combinan en el oficio del minero. Con manos expertas, se extraen de las profundidades minerales poco comunes y piedras preciosas.",
+      "level": "deepborn.esp|D63",
+      "ratio": "deepborn.esp|D65",
+      "legendary": "deepborn.esp|002",
+      "color": null,
+      "showLevelup": "deepborn.esp|D64",
+      "experienceFormula": {
+        "useMult": 1.0,
+        "useOffset": 0.0,
+        "improveMult": 1.0,
+        "improveOffset": 0.0,
+        "enableXPPerRank": true
+      },
+      "nodes": [
+	  {
+          "id": "DetectVein",
+          "perk": "deepborn.esp|039",
+          "x": -0.3,
+          "y": -0.1,
+          "links": [ "BetterPrice","MineFortifyCarryWeight","MineFortifyMovSpeed"]
+      },	  
+	  {
+          "id": "BetterPrice",
+          "perk": "deepborn.esp|00B",
+          "x": -0.3,
+          "y": 0.9
+			
+        },
+		{
+          "id": "MineFortifyCarryWeight",
+          "perk": "deepborn.esp|02C",
+          "x": 0.7,
+          "y": 1.3,
+          "links": [ "IncreaseGemsChance" ]
+        },
+        {
+          "id": "MineFortifyMovSpeed",
+          "perk": "deepborn.esp|015",
+          "x": -1.3,
+          "y": 1.3,
+          "links": [ "IncreaseGemsChance" ]
+        },
+        {
+          "id": "IncreaseGemsChance",
+          "perk": "deepborn.esp|01E",
+          "x": -0.3,
+          "y": 2.5,
+		  "links": [ "MoreIngotSmelt" ]
+        },
+		{
+          "id": "MoreIngotSmelt",
+          "perk": "deepborn.esp|021",
+          "x": -0.35,
+          "y": 3.6
+        }
+ 
+  ]
+}

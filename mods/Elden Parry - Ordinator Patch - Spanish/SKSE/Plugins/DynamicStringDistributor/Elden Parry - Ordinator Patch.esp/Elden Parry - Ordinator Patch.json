@@ -1,0 +1,344 @@
+[
+  {
+    "editor_id": "ORD_Bck_TimedBlock_Effect_Ab",
+    "form_id": "01008B1D|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Timed Block",
+    "string": "Bloque Temporal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck_TimedBlock_Effect_Proc",
+    "form_id": "01008B1E|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Elden Armor",
+    "string": "Armadura de Elden",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck_TimedBlock_Effect_Proc",
+    "form_id": "01008B1E|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "<mag> bonus armor.",
+    "string": "<mag> de bonificación de armadura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck_PokeTheDragon_Effect",
+    "form_id": "01008B28|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Poke the Dragon",
+    "string": "Provocar al Dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck_TimingStreak_Effect_Ab",
+    "form_id": "01008B38|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Timing Streak - In Combat",
+    "string": "Racha de Tiempo - En Combate",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck_Deliverance_Effect_Proc",
+    "form_id": "0100A670|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Deliverance",
+    "string": "Liberación",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck_Deliverance_Effect_Proc",
+    "form_id": "0100A670|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Poke the Dragon affects all enemies and doubles if refreshed before it expires. (See inventory for current weapon damage.)",
+    "string": "Provocar al Dragón afecta a todos los enemigos y se duplica si se renueva antes de que expire. (Consulta el inventario para ver el daño actual del arma.)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck_TimedBlock_Spell_Proc",
+    "form_id": "01008B20|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Elden Armor",
+    "string": "Armadura de Elden",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck_PokeTheDragon_Spell",
+    "form_id": "01008B2C|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Poke the Dragon",
+    "string": "Provocar al Dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck_Deliverance_Spell_Proc",
+    "form_id": "0100A672|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Deliverance",
+    "string": "Liberación",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck_TimedBlock_Spell_Proc_2",
+    "form_id": "02000801|Elden Parry - Ordinator Patch.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Elden Armor",
+    "string": "Armadura de Elden",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck_PokeTheDragon_Spell_2",
+    "form_id": "02000803|Elden Parry - Ordinator Patch.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Poke the Dragon",
+    "string": "Provocar al Dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck_Deliverance_Spell_Proc_2",
+    "form_id": "02000804|Elden Parry - Ordinator Patch.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Deliverance",
+    "string": "Liberación",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck20_TimedBlock_Perk_20_OrdASISExclude",
+    "form_id": "01008B26|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Elden Armor",
+    "string": "Armadura de Elden",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck20_TimedBlock_Perk_20_OrdASISExclude",
+    "form_id": "01008B26|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Parrying grants 30 bonus armor for 10 seconds (20 seconds at rank 2).",
+    "string": "Bloqueo otorga 30 de armadura adicional durante 10 segundos (20 segundos en el rango 2). ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck20_TimedBlock_Perk_50_OrdASISExclude",
+    "form_id": "01008B27|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Timed Block",
+    "string": "Bloque Temporal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck20_TimedBlock_Perk_50_OrdASISExclude",
+    "form_id": "01008B27|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Parrying grants 30 Armor for 20 seconds.",
+    "string": "Bloqueo otorga 30 de armadura durante 20 segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck60_DragonTail_Perk_60_OrdASISExclude",
+    "form_id": "01008B2E|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Dragon Tail",
+    "string": "Cola de dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck60_DragonTail_Perk_60_OrdASISExclude",
+    "form_id": "01008B2E|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Elden Armor grants double power attack damage.",
+    "string": "La Armadura de Elden otorga el doble de daño en ataques poderosos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck40_ApocalypseProof_Perk_40_OrdASISExclude",
+    "form_id": "01008B32|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Apocalypse Proof",
+    "string": "A Prueba del Apocalipsis ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck40_ApocalypseProof_Perk_40_OrdASISExclude",
+    "form_id": "01008B32|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": " Elden Armor reduces incoming fire, frost and shock damage by 40% (60% at rank 2).",
+    "string": "La Armadura de Elden reduce el daño recibido por fuego, escarcha y electricidad en un 40% (60% en el rango 2). ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck60_TimingStreak_Perk_60_OrdASISExclude",
+    "form_id": "01008B3E|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Rejuvenation",
+    "string": "Rejuvenecimiento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck60_TimingStreak_Perk_60_OrdASISExclude",
+    "form_id": "01008B3E|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Parrying restores 50 points of stamina.",
+    "string": "Bloquear restaura 50 puntos de aguante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck80_BreakTheirTeeth_Perk_80_OrdASISExclude",
+    "form_id": "01008B44|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Break Their Teeth",
+    "string": "Rompe Sus Dientes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck80_BreakTheirTeeth_Perk_80_OrdASISExclude",
+    "form_id": "01008B44|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Parrying violently disarms the last attacker and staggers nearby enemies. ",
+    "string": "Bloquear desarma violentamente al último atacante y tambalea a los enemigos cercanos. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck90_HoldTheLine_Perk_90_OrdASISExclude",
+    "form_id": "010090B4|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Hold the Line",
+    "string": "Mantén la Línea",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck90_HoldTheLine_Perk_90_OrdASISExclude",
+    "form_id": "010090B4|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Elden Armor grants allies within 10 feet 250 bonus armor.",
+    "string": "La Armadura de Elden otorga a los aliados en un radio de 3 metros 250 de armadura adicional. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_BckMAX_DragonScales_Perk_MAX",
+    "form_id": "010090BB|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Dragon Scales",
+    "string": "Escamas de dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_BckMAX_DragonScales_Perk_MAX",
+    "form_id": "010090BB|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Elden Armor reduces all incoming damage by half.",
+    "string": "La Armadura de Elden reduce todo el daño recibido a la mitad. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck30_PokeTheDragon_Perk_30_OrdASISExclude",
+    "form_id": "0100A66C|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Poke the Dragon",
+    "string": "Provocar al Dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck30_PokeTheDragon_Perk_30_OrdASISExclude",
+    "form_id": "0100A66C|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Elden Armor increases your attack and critical strike damage to your attacker by 25%.",
+    "string": "La Armadura de Elden aumenta tu daño de ataque y de golpe crítico contra quien te atacó en un 25%. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck90_Deliverance_Perk_90_OrdASISExclude",
+    "form_id": "0100A674|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Deliverance",
+    "string": "Liberación",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck90_Deliverance_Perk_90_OrdASISExclude",
+    "form_id": "0100A674|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Poke the Dragon's bonus damage applies to all enemies and doubles with each successive parry.",
+    "string": "El daño adicional de Provocar al Dragón se aplica a todos los enemigos y se duplica con cada bloqueo consecutivo. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck40_ApocalypseProof_Perk_70_OrdASISExclude",
+    "form_id": "0100A675|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Apocalypse Proof",
+    "string": "A Prueba del Apocalipsis ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck40_ApocalypseProof_Perk_70_OrdASISExclude",
+    "form_id": "0100A675|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Reduce incoming fire, frost and shock damage by 60% during Elden Armor.",
+    "string": "Reduce el daño recibido por fuego, escarcha y electricidad en un 60% mientras está activa la Armadura de Elden.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AVBlock",
+    "form_id": "0000044F|Skyrim.esm",
+    "index": 1,
+    "type": "AVIF FULL",
+    "original": "Block",
+    "string": "Bloquear",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AVBlock",
+    "form_id": "0000044F|Skyrim.esm",
+    "index": 1,
+    "type": "AVIF DESC",
+    "original": "The art of blocking an enemy's blows with a shield or weapon. Blocking reduces the damage and staggering from physical attacks.",
+    "string": "El arte de Bloquear con un escudo o un arma los golpes del enemigo. El bloqueo reduce el daño y el desequilibrio causados por los ataques físicos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Bck_TimedBlock_Message",
+    "form_id": "01054BF3|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Elden Parry",
+    "string": "Elden Parry",
+    "status": "TranslationComplete"
+  }
+]

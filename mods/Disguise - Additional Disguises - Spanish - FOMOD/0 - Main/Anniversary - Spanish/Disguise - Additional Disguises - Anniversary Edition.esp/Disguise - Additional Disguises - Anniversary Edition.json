@@ -1,0 +1,191 @@
+[
+  {
+    "editor_id": "aaaDisguiseMythicDawnEffect",
+    "form_id": "0400086A|Disguise.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Mythic Dawn Disguise",
+    "string": "Disfraz del Amanecer Mítico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseMythicDawnEffect",
+    "form_id": "0400086A|Disguise.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Mythic Dawn Cultist.",
+    "string": "Estás disfrazado como un Cultista del Amanecer Mítico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseNecromancerEffect",
+    "form_id": "07000800|Disguise - Additional Disguises - Anniversary Edition.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Necromancer Disguise",
+    "string": "Disfraz de nigromante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseNecromancerEffect",
+    "form_id": "07000800|Disguise - Additional Disguises - Anniversary Edition.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Necromancer.",
+    "string": "Estás disfrazado de nigromante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseVampireEffect",
+    "form_id": "07000808|Disguise - Additional Disguises - Anniversary Edition.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Vampire Disguise",
+    "string": "Disfraz de vampiro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseVampireEffect",
+    "form_id": "07000808|Disguise - Additional Disguises - Anniversary Edition.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Vampire.",
+    "string": "Estás disfrazado de vampiro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseBanditChiefEffect",
+    "form_id": "07000809|Disguise - Additional Disguises - Anniversary Edition.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Bandit Chief Disguise",
+    "string": "Disfraz de jefe bandido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseBanditChiefEffect",
+    "form_id": "07000809|Disguise - Additional Disguises - Anniversary Edition.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Bandit Chief.",
+    "string": "Estás disfrazado de jefe bandido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseBanditEffect",
+    "form_id": "0700080E|Disguise - Additional Disguises - Anniversary Edition.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Bandit Disguise",
+    "string": "Disfraz de bandido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseBanditEffect",
+    "form_id": "0700080E|Disguise - Additional Disguises - Anniversary Edition.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are disguised as a Bandit.",
+    "string": "Estás disfrazado de bandido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaAdditionalDisguiseAbility",
+    "form_id": "07000801|Disguise - Additional Disguises - Anniversary Edition.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Additional Disguise",
+    "string": "Disfraz adicional",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguisePerk",
+    "form_id": "04000801|Disguise.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Disguise",
+    "string": "Ocultar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguisePerk",
+    "form_id": "04000801|Disguise.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You will be recognized as a member of various factions while wearing that faction's armor or clothing.",
+    "string": "Serás reconocido como miembro de varias facciones mientras lleves puesta la armadura o vestimenta de esa facción.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseNecromancerStartMessage",
+    "form_id": "07000802|Disguise - Additional Disguises - Anniversary Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Necromancer.",
+    "string": "Ahora estás disfrazado de nigromante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseNecromancerFinishMessage",
+    "form_id": "07000803|Disguise - Additional Disguises - Anniversary Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Necromancer.",
+    "string": "Ya no estás disfrazado de nigromante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseVampireStartMessage",
+    "form_id": "07000804|Disguise - Additional Disguises - Anniversary Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Vampire.",
+    "string": "Ahora estás disfrazado de vampiro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseVampireFinishMessage",
+    "form_id": "07000805|Disguise - Additional Disguises - Anniversary Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Vampire.",
+    "string": "Ya no estás disfrazado de vampiro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseBanditChiefStartMessage",
+    "form_id": "07000806|Disguise - Additional Disguises - Anniversary Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Bandit Chief.",
+    "string": "Ahora estás disfrazado de jefe bandido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseBanditChiefFinishMessage",
+    "form_id": "07000807|Disguise - Additional Disguises - Anniversary Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Bandit Chief.",
+    "string": "Ya no estás disfrazado de jefe bandido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseBanditStartMessage",
+    "form_id": "0700080C|Disguise - Additional Disguises - Anniversary Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are now disguised as a Bandit.",
+    "string": "Ahora estás disfrazado de bandido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaDisguiseBanditFinishMessage",
+    "form_id": "0700080D|Disguise - Additional Disguises - Anniversary Edition.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You are no longer disguised as a Bandit.",
+    "string": "Ya no estás disfrazado de bandido.",
+    "status": "TranslationComplete"
+  }
+]

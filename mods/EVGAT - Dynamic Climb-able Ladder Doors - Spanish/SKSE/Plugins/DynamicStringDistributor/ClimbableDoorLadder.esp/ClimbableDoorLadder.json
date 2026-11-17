@@ -1,0 +1,146 @@
+[
+  {
+    "editor_id": "CDL_MGF_TopFreeAreaDetector",
+    "form_id": "02000004|ClimbableDoorLadder.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Top Free Area Detector",
+    "string": "Detector de área libre superior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CDL_SPL_TopFreeAreaDetector",
+    "form_id": "02000005|ClimbableDoorLadder.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Top Free Area Detector",
+    "string": "Detector de área libre superior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CDL_DOR_RiftenRWHallLadderDoor01",
+    "form_id": "02000800|ClimbableDoorLadder.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Ladder",
+    "string": "Escalera",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CDL_DOR_RiftenRWHallLadderDoor01MinUse",
+    "form_id": "02000801|ClimbableDoorLadder.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Ladder",
+    "string": "Escalera",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CDL_DOR_RiftenRWRoomLadder01",
+    "form_id": "02000802|ClimbableDoorLadder.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Ladder",
+    "string": "Escalera",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CDL_DOR_ShipKatariahTrapdoorLadder01",
+    "form_id": "02000803|ClimbableDoorLadder.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Ladder",
+    "string": "Escalera",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CDL_DOR_ShipKatariahTrapdoorLadder02",
+    "form_id": "02000804|ClimbableDoorLadder.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Ladder",
+    "string": "Escalera",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CDL_DOR_TrapdoorLadder01",
+    "form_id": "02000805|ClimbableDoorLadder.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "Puerta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CDL_DOR_TrapdoorLadder01HiddenMinUse",
+    "form_id": "02000806|ClimbableDoorLadder.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "Puerta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CDL_DOR_TrapdoorLadder02",
+    "form_id": "02000807|ClimbableDoorLadder.esp",
+    "index": 1,
+    "type": "DOOR FULL",
+    "original": "Door",
+    "string": "Puerta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CDL_QST_LadderClimbQuest",
+    "form_id": "0200080A|ClimbableDoorLadder.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Ladder Climb Quest",
+    "string": "Búsqueda de subir escaleras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CDL_PRK_ActivateReplacerPerk",
+    "form_id": "02000809|ClimbableDoorLadder.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Ladder Activation Perk",
+    "string": "Beneficio de activación de escalera",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CDL_PRK_ActivateReplacerPerk",
+    "form_id": "02000809|ClimbableDoorLadder.esp",
+    "index": 0,
+    "type": "PERK EPFD",
+    "original": "Climb",
+    "string": "Trepar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CDL_MSG_MaintenanceFailedMessage",
+    "form_id": "0200080B|ClimbableDoorLadder.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Climbable Door Ladders\r\nUpdate failed. This indicates that the version you tried to update to is incompatible with the previously installed one. Please exit the game, remove the newest version, and try again ((OR)) start a new game.",
+    "string": "Escaleras de puertas trepables\r\nError en la actualización. Esto indica que la versión que intentó actualizar es incompatible con la instalada anteriormente. Sal del juego, elimina la versión más reciente y vuelve a intentarlo ((O)) inicia un nuevo juego.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CDL_MSG_MaintenanceFailedMessage",
+    "form_id": "0200080B|ClimbableDoorLadder.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Update Failed",
+    "string": "Actualización fallida",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CDL_MSG_UpdateInProgress",
+    "form_id": "02000D70|ClimbableDoorLadder.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Updating Climbable Ladders",
+    "string": "Actualización de escaleras trepables",
+    "status": "TranslationComplete"
+  }
+]

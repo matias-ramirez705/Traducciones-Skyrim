@@ -1,0 +1,857 @@
+[
+  {
+    "editor_id": "DLC1DragonDrainVitalityMagickaEffect",
+    "form_id": "01008448|Dawnguard.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Drain Vitality - Magicka",
+    "string": "Absorción de vitalidad - Magia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1DragonDrainVitalityMagickaEffect",
+    "form_id": "01008448|Dawnguard.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Drains <mag> points of Magicka per second for <dur> seconds.",
+    "string": "Consume <mag> puntos de magia por segundo durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1DragonDrainVitalityHealthEffect",
+    "form_id": "01008449|Dawnguard.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Drain Vitality - Health",
+    "string": "Absorción de vitalidad - Salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1DragonDrainVitalityHealthEffect",
+    "form_id": "01008449|Dawnguard.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Drains <mag> points of Health per second for <dur> seconds.",
+    "string": "Consume <mag> puntos de salud por segundo durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1DragonDrainVitalityStaminaEffect",
+    "form_id": "0100844A|Dawnguard.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Drain Vitality - Stamina",
+    "string": "Absorción de vitalidad - Aguante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1DragonDrainVitalityStaminaEffect",
+    "form_id": "0100844A|Dawnguard.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Drains <mag> points of Stamina per second for <dur> seconds.",
+    "string": "Consume <mag> puntos de aguante por segundo durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDragonBreathofMoraEffect",
+    "form_id": "0300086A|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Breath of Mora Effect",
+    "string": "Aliento de Mora Efecto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDurnehviirSoulBreathEffect",
+    "form_id": "0300088E|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Durnehviir Soul Breath",
+    "string": "Aliento de Alma de Durnehviir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDurnehviirFireBreathEffect",
+    "form_id": "030008FA|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Durnehviir Fire Breath",
+    "string": "Aliento de Fuego de Durnehviir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceOdahviingIceWaveEffect",
+    "form_id": "03000934|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Odahviing Ice Wave",
+    "string": "Ola de Hielo de Odahviing",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDragonFlameWaveEffect",
+    "form_id": "03000A68|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dragon Flame Wave Effect",
+    "string": "Efecto Ola de Llama de Dragon",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDragonIceWaveEffect",
+    "form_id": "03000A69|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dragon Ice Wave Effect",
+    "string": "Efecto Ola de Hielo de Dragon",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoicePaarthurnaxFlameWaveEffect",
+    "form_id": "03000A6A|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Paarthurnax Flame Wave Effect",
+    "string": "Efecto Ola de Llama de Paarthurnax",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDragonSoulBreathEffect",
+    "form_id": "03000B8F|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Soul Breath",
+    "string": "Aliento de Alma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbnewVoiceDragonFireEffect1",
+    "form_id": "0400080C|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dragon breath",
+    "string": "Aliento de Dragon",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbdunCGVoiceDragonFireEffect1",
+    "form_id": "0400080D|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dragon breath",
+    "string": "Aliento de Dragon",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbVoiceDragonFireballEffect1",
+    "form_id": "0400080E|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fireball",
+    "string": "Bola de Fuego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbVoiceDragonFireballEffect1",
+    "form_id": "0400080E|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Burns the target <mag> points per second. Targets on fire take extra damage.",
+    "string": "Quema al objetivo <mag> puntos por segundo. Los objetivos en llamas reciben daño extra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbVoiceDragonFireBreathEffect1",
+    "form_id": "0400080F|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dragon breath",
+    "string": "Aliento de Dragon",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbVoiceDragonFrostBreathEffect1",
+    "form_id": "04000812|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dragon breath",
+    "string": "Aliento de Dragon",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbVoiceDragonFrostIceStormEffect",
+    "form_id": "04000813|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Ice Storm",
+    "string": "Tormenta de Hielo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbDLC1DragonDrainVitalityHealthEffect",
+    "form_id": "04000815|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Drain Vitality - Health",
+    "string": "Drenar Vitalidad - Salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbDLC1DragonDrainVitalityHealthEffect",
+    "form_id": "04000815|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Drains <mag> points of Health per second for <dur> seconds.",
+    "string": "Drena <mag> puntos de Salud por segundo durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbDLC1DragonDrainVitalityMagickaEffect",
+    "form_id": "04000816|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Drain Vitality - Mag",
+    "string": "Drenar Vitalidad - Magia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbDLC1DragonDrainVitalityMagickaEffect",
+    "form_id": "04000816|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Drains <mag> points of Health per second for <dur> seconds.",
+    "string": "Drena <mag> puntos de Salud por segundo durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbDLC1DragonDrainVitalityStaminaEffect",
+    "form_id": "04000817|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Drain Vitality - Stam",
+    "string": "Drenar Vitalidad - Aguante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbDLC1DragonDrainVitalityStaminaEffect",
+    "form_id": "04000817|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Drains <mag> points of Health per second for <dur> seconds.",
+    "string": "Drena <mag> puntos de Salud por segundo durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbPaarthurnaxVoiceDragonFireballEffect1",
+    "form_id": "04000825|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fireball",
+    "string": "Bola de Fuego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbPaarthurnaxVoiceDragonFireballEffect1",
+    "form_id": "04000825|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Burns the target <mag> points per second. Targets on fire take extra damage.",
+    "string": "Quema al objetivo <mag> puntos por segundo. Los objetivos en llamas reciben daño extra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbOdahviingVoiceDragonFireballEffect1",
+    "form_id": "04000826|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fireball",
+    "string": "Bola de Fuego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbOdahviingVoiceDragonFireballEffect1",
+    "form_id": "04000826|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Burns the target <mag> points per second. Targets on fire take extra damage.",
+    "string": "Quema al objetivo <mag> puntos por segundo. Los objetivos en llamas reciben daño extra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbAlduinVoiceDragonFireballEffect1",
+    "form_id": "04000827|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fireball",
+    "string": "Bola de Fuego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbAlduinVoiceDragonFireballEffect1",
+    "form_id": "04000827|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Burns the target <mag> points per second. Targets on fire take extra damage.",
+    "string": "Quema al objetivo <mag> puntos por segundo. Los objetivos en llamas reciben daño extra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbPaarthurnaxVoiceDragonFireBreathEffect1",
+    "form_id": "04000828|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dragon breath",
+    "string": "Aliento de Dragon",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbOdahviingVoiceDragonFireBreathEffect1",
+    "form_id": "04000829|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dragon breath",
+    "string": "Aliento de Dragon",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "bdbAlduinVoiceDragonFireBreathEffect1",
+    "form_id": "0400082A|betterdragonbreath24.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dragon breath",
+    "string": "Aliento de Dragon",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDragonLevelledFireBreath",
+    "form_id": "0300081F|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fire Breath - Yol Toor Shul",
+    "string": "Aliento de Fuego - Yol Toor Shul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDragonLevelledFireBreathStronger",
+    "form_id": "03000821|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fire Breath - Yol Toor Shul",
+    "string": "Aliento de Fuego - Yol Toor Shul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDragonFireBall",
+    "form_id": "03000833|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dragon Fire Ball - Toor Shul",
+    "string": "Bola de Fuego de Dragon - Toor Shul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDragonFrostBall",
+    "form_id": "03000834|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Frost Ball - Krah Diin",
+    "string": "Bola de Escarcha - Krah Diin",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDragonSoulBreath",
+    "form_id": "0300083A|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Soul Breath - Rii Zii Haas",
+    "string": "Aliento de Alma - Rii Zii Haas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDragonBreathofMora",
+    "form_id": "0300086B|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Breath of Mora - Nahkriin Vobalam Al",
+    "string": "Aliento de Mora - Nahkriin Vobalam Al",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoicePaarthurnaxFireBall",
+    "form_id": "0300087A|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Paarthurnax Fire Ball",
+    "string": "Bola de Fuego de Paarthurnax",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceOdahviingFireBall",
+    "form_id": "0300087B|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Odahviing Fire Ball",
+    "string": "Bola de Fuego de Odahviing",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceAlduinFireBall",
+    "form_id": "0300087C|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Alduin Fire Ball - Toor Shul",
+    "string": "Bola de Fuego de Alduin - Toor Shul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDragonDrainVitality",
+    "form_id": "030008F8|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Drain Vitality - Gaan Laah Haas",
+    "string": "Drenar Vitalidad - Gaan Laah Haas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceOdahviingIceWave",
+    "form_id": "03000937|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Ice Wave - Iiz Krah Nus",
+    "string": "Ola de Hielo - Iiz Krah Nus",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoicePhantomDragonFireBreath",
+    "form_id": "030009D1|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Phantom Fire Breath - Toor Shul",
+    "string": "Aliento de Fuego Fantasma - Toor Shul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoicePhantomDragonFrostBreath",
+    "form_id": "030009D2|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Phantom Frost Breath - Krah Diin",
+    "string": "Aliento de Escarcha Fantasma - Krah Diin",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDragonIceWave",
+    "form_id": "03000AAA|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Ice Wave - Iiz Krah",
+    "string": "Ola de Hielo - Iiz Krah",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDragonFlameWave",
+    "form_id": "03000AAB|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flame Wave - Toor Shul",
+    "string": "Ola de Llama - Toor Shul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDragonLevelledFrostBreath",
+    "form_id": "03000AC5|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Frost Breath - Fo Krah Diin",
+    "string": "Aliento de Escarcha - Fo Krah Diin",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDragonLevelledFrostBreathStronger",
+    "form_id": "03000AC6|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Frost Breath - Fo Krah Diin",
+    "string": "Aliento de Escarcha - Fo Krah Diin",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDragonFlameWaveStronger",
+    "form_id": "03000B1C|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flame Wave - Toor Shul",
+    "string": "Ola de Llama - Toor Shul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDragonIceWaveStronger",
+    "form_id": "03000B2B|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Ice Wave - Iiz Krah",
+    "string": "Ola de Hielo - Iiz Krah",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoicePaarthurnaxFlameWave",
+    "form_id": "03000B2C|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flame Wave - Toor Shul",
+    "string": "Ola de Llama - Toor Shul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceAlduinMQ206FireBreath",
+    "form_id": "03000B31|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fire Breath - Yol Toor Shul",
+    "string": "Aliento de Fuego - Yol Toor Shul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceAlduinMQ206FrostBreath",
+    "form_id": "03000B34|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Frost Breath - Fo Krah Diin",
+    "string": "Aliento de Escarcha - Fo Krah Diin",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceAlduinFireBreath",
+    "form_id": "03000B38|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fire Breath - Yol Toor Shul",
+    "string": "Aliento de Fuego - Yol Toor Shul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceAlduinFrostBreath",
+    "form_id": "03000B39|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Frost Breath - Fo Krah Diin",
+    "string": "Aliento de Escarcha - Fo Krah Diin",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceOdahviingFireBreath",
+    "form_id": "03000B3B|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fire Breath - Yol Toor Shul",
+    "string": "Aliento de Fuego - Yol Toor Shul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoicePaarthurnaxFireBreath",
+    "form_id": "03000B3C|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fire Breath - Yol Toor Shul",
+    "string": "Aliento de Fuego - Yol Toor Shul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceDurnehviirFireBreath",
+    "form_id": "03000B3D|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fire Breath - Yol Toor Shul",
+    "string": "Aliento de Fuego - Yol Toor Shul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceAlduinMQ206FireBall",
+    "form_id": "03000B99|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Alduin Fire Ball - Toor Shul",
+    "string": "Bola de Fuego de Alduin - Toor Shul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon01Fire",
+    "form_id": "0001CA03|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dragon",
+    "string": "Dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon03Frost",
+    "form_id": "000351C3|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Frost Dragon",
+    "string": "Dragón de la escarcha",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Paarthurnax",
+    "form_id": "0003C57C|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Paarthurnax",
+    "string": "Paarthurnax",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Odahviing",
+    "form_id": "00045920|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Odahviing",
+    "string": "Odahviing",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunSkuldafnDragonDraugr",
+    "form_id": "00096E48|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dragon",
+    "string": "Dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "E3DemoEncDragonFrost",
+    "form_id": "000EAFB4|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dragon",
+    "string": "Dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "E3DemoEncDragonFrost",
+    "form_id": "000EAFB4|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "0",
+    "string": "0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon02Fire",
+    "form_id": "000F80FD|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Blood Dragon",
+    "string": "Dragón de sangre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon04Frost",
+    "form_id": "000F811A|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elder Dragon",
+    "string": "Dragón anciano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon04Fire",
+    "form_id": "000F811B|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elder Dragon",
+    "string": "Dragón anciano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon05Fire",
+    "form_id": "000F811C|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ancient Dragon",
+    "string": "Dragón ancestral",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EncDragon05Frost",
+    "form_id": "000F811E|Skyrim.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ancient Dragon",
+    "string": "Dragón ancestral",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1EncDragon06Fire",
+    "form_id": "01008431|Dawnguard.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Revered Dragon",
+    "string": "Dragón venerable",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1EncDragon07Fire",
+    "form_id": "0100C5F5|Dawnguard.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Legendary Dragon",
+    "string": "Dragón legendario",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1EncDragon07Frost",
+    "form_id": "0100C5FD|Dawnguard.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Legendary Dragon",
+    "string": "Dragón legendario",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2MiraakDragon",
+    "form_id": "02023F7B|Dragonborn.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Sahrotaar",
+    "string": "Sahrotaar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2EncDragon06Frost",
+    "form_id": "0202C88A|Dragonborn.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Serpentine Dragon",
+    "string": "Dragón serpentino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2EncDragon06Fire",
+    "form_id": "0203612E|Dragonborn.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Serpentine Dragon",
+    "string": "Dragón serpentino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2EncDragon06FrostNoScript",
+    "form_id": "02036133|Dragonborn.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Serpentine Dragon",
+    "string": "Dragón serpentino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2EncDragon06FireNoScript",
+    "form_id": "02036134|Dragonborn.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Serpentine Dragon",
+    "string": "Dragón serpentino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AmonVoiceWord1",
+    "form_id": "03000887|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "ShoutStartLong",
+    "string": "GritoInicioLargo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000B90|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yol...",
+    "string": "Yol...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000893|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fo...",
+    "string": "Fo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "03000897|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fus...",
+    "string": "Fus...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0300089D|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Faas...",
+    "string": "Faas...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "030008A0|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Zun...",
+    "string": "Zun...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "030008A7|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Iiz...",
+    "string": "Iiz...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "030008AA|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Gaan...",
+    "string": "Gaan...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "030008AC|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Rii...",
+    "string": "Rii...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "030008B8|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Feim...",
+    "string": "Feim...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "030008BB|DragonsUseThuum.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fiik...",
+    "string": "Fiik...",
+    "status": "TranslationComplete"
+  }
+]

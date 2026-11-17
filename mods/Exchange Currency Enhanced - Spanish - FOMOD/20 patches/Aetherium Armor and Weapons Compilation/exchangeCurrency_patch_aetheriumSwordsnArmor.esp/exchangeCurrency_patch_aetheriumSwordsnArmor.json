@@ -1,0 +1,92 @@
+[
+  {
+    "editor_id": "Mzulft04z",
+    "form_id": "000AF227|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dwarven Storeroom",
+    "string": "Despensa enana",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TowerOfMzark",
+    "form_id": "0002D4E3|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Tower of Mzark",
+    "string": "Torre de Mzark",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Raldbthar02",
+    "form_id": "00078124|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Raldbthar Deep Market",
+    "string": "Mercado Profundo de Raldbthar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Mzinchaleft03",
+    "form_id": "00058663|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Mzinchaleft Gatehouse",
+    "string": "Portón de Mzinchaleft",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BlackreachZcell06",
+    "form_id": "000B29D4|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Hall of Rumination",
+    "string": "Salón de la Reflexión",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1Bthalft01",
+    "form_id": "01005734|Dawnguard.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Aetherium Forge",
+    "string": "Forja de aeterio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BlackreachZcell05",
+    "form_id": "000B29D5|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Debate Hall",
+    "string": "Salón de debate",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BlackreachZCell10",
+    "form_id": "000EEC55|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Sinderion's Field Laboratory",
+    "string": "Laboratorio de campo de Sinderion",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AlftandZCell",
+    "form_id": "00069858|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Alftand Ruined Tower",
+    "string": "Torre en ruinas de Alftand",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BlackreachZcell02",
+    "form_id": "0007BEF7|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Silent Ruin",
+    "string": "Ruinas silenciosas",
+    "status": "TranslationComplete"
+  }
+]

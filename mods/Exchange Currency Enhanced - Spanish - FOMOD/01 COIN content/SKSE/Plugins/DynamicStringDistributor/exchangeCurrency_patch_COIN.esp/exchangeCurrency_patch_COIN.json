@@ -1,0 +1,263 @@
+[
+  {
+    "editor_id": "TreasDwarvenChestSmall",
+    "form_id": "00020650|Skyrim.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasDwarvenChestLarge",
+    "form_id": "0002069A|Skyrim.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasFalmerChestBossDwarven",
+    "form_id": "000B1176|Skyrim.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasDwarvenChestLarge",
+    "form_id": "0202AABB|Dragonborn.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasDwarvenChestSmall",
+    "form_id": "0202AABC|Dragonborn.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_DrakrDragon",
+    "form_id": "01DE5012|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ancient Nord Drakr",
+    "string": "Antiguo Drakr nórdico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_DrakrMoth",
+    "form_id": "01DE5013|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ancient Nord Drakr",
+    "string": "Antiguo Drakr nórdico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_DrakrOwl",
+    "form_id": "01DE5014|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ancient Nord Drakr",
+    "string": "Antiguo Drakr nórdico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_DrakrWhale",
+    "form_id": "01DE5015|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ancient Nord Drakr",
+    "string": "Antiguo Drakr nórdico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_GibberBack",
+    "form_id": "01DE5017|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Gibber",
+    "string": "Gibber",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_GibberFront",
+    "form_id": "01DE5018|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Gibber",
+    "string": "Gibber",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Mala",
+    "form_id": "01DE5019|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ayleid Mala",
+    "string": "Ayleid Mala",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Mallari",
+    "form_id": "01DE5020|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ancient Falmer Mallari",
+    "string": "Ancient Falmer Mallari",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EC_Mede",
+    "form_id": "01DE5021|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mede",
+    "string": "Mede",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Nchuark",
+    "form_id": "01DE5022|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dwarven Nchuark",
+    "string": "Nchuark Dwarven",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Sancar",
+    "form_id": "01DE5023|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Sancar",
+    "string": "Sancar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Ulfric",
+    "form_id": "01DE5024|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ulfric",
+    "string": "Ulfric",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DES_Dram",
+    "form_id": "01DE5029|Update.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dram",
+    "string": "Dram",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EC_Ohzer",
+    "form_id": "0700086F|exchangeCurrency_patch_COIN.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ohzer",
+    "string": "Ohzer",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EC_Varken",
+    "form_id": "07000870|exchangeCurrency_patch_COIN.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Varken",
+    "string": "Varken",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EC_Oshka",
+    "form_id": "07000871|exchangeCurrency_patch_COIN.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Oshka",
+    "string": "Oshka",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2Fahlbtharz04",
+    "form_id": "0201DD03|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fahlbtharz Grand Hall",
+    "string": "Gran salón de Fahlbtharz",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PluralCoinsAdded",
+    "form_id": "07000856|exchangeCurrency_patch_COIN.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "+%.0f <Alias.CurrentName=Currency>s",
+    "string": "+%.0f <Alias.CurrentName=Currency>s",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SingularCoinRemoved",
+    "form_id": "07000857|exchangeCurrency_patch_COIN.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "-%.0f <Alias.CurrentName=Currency>",
+    "string": "-%.0f <Alias.CurrentName=Currency>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SingularCoinAdded",
+    "form_id": "07000858|exchangeCurrency_patch_COIN.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "+%.0f <Alias.CurrentName=Currency>",
+    "string": "+%.0f <Alias.CurrentName=Currency>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PluralCoinsRemoved",
+    "form_id": "07000859|exchangeCurrency_patch_COIN.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "-%.0f <Alias.CurrentName=Currency>s",
+    "string": "-%.0f <Alias.CurrentName=Currency>s",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ShowTotalPluralCoins",
+    "form_id": "07000866|exchangeCurrency_patch_COIN.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "%.0f <Alias.CurrentName=Currency>s in your purse",
+    "string": "%.0f <Alias.CurrentName=Currency>s en tu bolso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ShowTotalSingularCoin",
+    "form_id": "0700086A|exchangeCurrency_patch_COIN.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "%.0f <Alias.CurrentName=Currency> in your purse",
+    "string": "%.0f <Alias.CurrentName=Currency> en tu bolso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DontAltGoldInstance",
+    "form_id": "0700086E|exchangeCurrency_patch_COIN.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This currency instance shows the total amount of septims you can spend. You should not interact with this instance, but with the other <Alias.CurrentName=Currency> instance. The coins you just dropped have been returned to you.",
+    "string": "Esta instancia de moneda muestra la cantidad total de septims que puedes gastar. No debes interactuar con esta instancia, sino con la otra instancia de <Alias.CurrentName=Currency>. Las monedas que acabas de soltar te han sido devueltas.",
+    "status": "TranslationComplete"
+  }
+]

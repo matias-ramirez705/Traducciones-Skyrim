@@ -1,0 +1,1513 @@
+{
+  "colores": {
+    "ESP": "#B36BE0",
+    "DSD": "#26A34A",
+    "Otro": "#009BD0"
+  },
+  "mods": [
+    {
+      "id": "1",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "(ESL) Khajiit's Family House SE - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/156868",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/13158"
+    },
+    {
+      "id": "2",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "A Dark Warrior's Tale - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/175349",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/175270"
+    },
+    {
+      "id": "3",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "A Dog's Life - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/142398",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/94642"
+    },
+    {
+      "id": "4",
+      "fomod": false,
+      "formato": "Otro",
+      "nombre": "A Matter of Time A HUD clock widget Settings Loader - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/141953",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/77212"
+    },
+    {
+      "id": "5",
+      "fomod": true,
+      "formato": "DSD",
+      "nombre": "Achievement Injector - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/143671",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/126220"
+    },
+    {
+      "id": "6",
+      "fomod": false,
+      "formato": "Otro",
+      "nombre": "Action Hotkeys - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/175078",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/175045"
+    },
+    {
+      "id": "7",
+      "fomod": false,
+      "formato": "ESP",
+      "nombre": "Adaptive Attribute SKSE - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/180055",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/179815"
+    },
+    {
+      "id": "8",
+      "fomod": true,
+      "formato": "DSD",
+      "nombre": "Additional Traits for Biggie Traits - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/150171",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/149770"
+    },
+    {
+      "id": "9",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Alchemist Notebook - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/166108",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/164108"
+    },
+    {
+      "id": "10",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Amazing Race Tweaks - Khajiit - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/145219",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/94063"
+    },
+    {
+      "id": "11",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Andrealletius Jobs Overhaul (AJO) - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/195892",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/109363"
+    },
+    {
+      "id": "12",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Aptitude A Minimalistic Class Overhaul Traduccion Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/101391",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/96034"
+    },
+    {
+      "id": "13",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Authentic Sinding Werewolf Follower (Official Update) - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/156770",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/153407"
+    },
+    {
+      "id": "14",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "AW Beastfolk Followers Pack - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/195895",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/186421"
+    },
+    {
+      "id": "15",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "B.O.O.B.I.E.S (aka Immersive Icons) - POTIONS - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/163989",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/163838"
+    },
+    {
+      "id": "16",
+      "fomod": false,
+      "formato": "Otro",
+      "nombre": "B612 - my little asteroid of useful UI components - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/185299",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/127701"
+    },
+    {
+      "id": "17",
+      "fomod": true,
+      "formato": "DSD",
+      "nombre": "BA Khajiit Speak Redux - DSD Version",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/182142",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/37197"
+    },
+    {
+      "id": "18",
+      "fomod": false,
+      "formato": "ESP",
+      "nombre": "BA Khajiit Speak Redux - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/158845",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/37197"
+    },
+    {
+      "id": "19",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Beastblood - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/154897",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/149470"
+    },
+    {
+      "id": "20",
+      "fomod": false,
+      "formato": "Otro",
+      "nombre": "OSkin NG - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/199424",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/199146"
+    },
+    {
+      "id": "21",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Beastial Nature perk tree - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/165541",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/141599"
+    },
+    {
+      "id": "22",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Berserker Armor (CBBE HDT-SMP) - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/146110",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/146035"
+    },
+    {
+      "id": "23",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Better Atronach Forge Offering Box - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/135419",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/132887"
+    },
+    {
+      "id": "24",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Better Carriage Destinations - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/165231",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/164485"
+    },
+    {
+      "id": "25",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Better Claws and Gauntlets for Anniversary Edition - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/165506",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/160444"
+    },
+    {
+      "id": "26",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "BetterThirdPersonSelection - Spanish - MCM",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/151109",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/64339"
+    },
+    {
+      "id": "27",
+      "fomod": true,
+      "formato": "DSD",
+      "nombre": "Biggie Traits - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/148197",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/136384"
+    },
+    {
+      "id": "28",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Bloedzuigers Mihail Monsters and Animals (SE-AE)  Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/164952",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/164922"
+    },
+    {
+      "id": "29",
+      "fomod": false,
+      "formato": "Otro",
+      "nombre": "BodySlide and Outfit Studio - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/183683",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/201"
+    },
+    {
+      "id": "30",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Bone Breaker Heavy Armour HIMBO SMP - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/143998",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/143978"
+    },
+    {
+      "id": "31",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "BrassBoy - A Most Curious Device - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/199421",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/196561"
+    },
+    {
+      "id": "32",
+      "fomod": true,
+      "formato": "DSD",
+      "nombre": "C.O.I.N. - Coins of Interesting Nature - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/179535",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/51439"
+    },
+    {
+      "id": "33",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Cardio - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/152230",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/146638"
+    },
+    {
+      "id": "34",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Character Menu - Custom Stats Framework - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/186725",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/185811"
+    },
+    {
+      "id": "35",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Character Menu SE - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/173130",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/173074"
+    },
+    {
+      "id": "36",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Character Menu SE - Thane Factions - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/175080",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/175026"
+    },
+    {
+      "id": "37",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Collectible Coins and New Currency in Skyrim - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/191236",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/190649"
+    },
+    {
+      "id": "38",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Collectibles Helper - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/132011",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/130354"
+    },
+    {
+      "id": "39",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Companions Perk Tree - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/142124",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/53806"
+    },
+    {
+      "id": "40",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Compare Equipment NG - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/162167",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/158874"
+    },
+    {
+      "id": "41",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Compendio de Traducciones al Spanish de Krou",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/164797",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/107676"
+    },
+    {
+      "id": "42",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Conditional Expressions Extended - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/165143",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/91438"
+    },
+    {
+      "id": "43",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Dear Dragonborn - Quest Follow Up Letters - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/195372",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/194826"
+    },
+    {
+      "id": "44",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Deepborn - Mining Perks - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/152609",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/151948"
+    },
+    {
+      "id": "45",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Denizens of Skyrim - Khajiit Caravans SE - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/168110",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/168018"
+    },
+    {
+      "id": "46",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Dire Wolves (Prehistoric Content Series) SE-AE - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/168109",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/168019"
+    },
+    {
+      "id": "47",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Disguise - Additional Disguises - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/195458",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/194665"
+    },
+    {
+      "id": "48",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Disguise - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/150179",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/133426"
+    },
+    {
+      "id": "49",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Dragon Races of Skyrim - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/167956",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/159377"
+    },
+    {
+      "id": "50",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Dragon Souls to Perk Points - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/170324",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/2879"
+    },
+    {
+      "id": "51",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Draugr Warrior Armor - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/145224",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/98609"
+    },
+    {
+      "id": "52",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Dynamic Tooltip - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/167717",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/167484"
+    },
+    {
+      "id": "53",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Edmond's SkyTEST - Realistic Animals and Predators - Lite - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/152228",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/84539"
+    },
+    {
+      "id": "54",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Elden Parry - Ordinator Patch - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/148435",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/74004"
+    },
+    {
+      "id": "55",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Escapeweave - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/169292",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/168685"
+    },
+    {
+      "id": "56",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "EVG Animated Traversal Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/141653",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/63232"
+    },
+    {
+      "id": "57",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "EVGAT - Dynamic Climb-able Ladder Doors - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/176784",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/108900"
+    },
+    {
+      "id": "58",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Exchange Currency Enhanced - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/165027",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/141884"
+    },
+    {
+      "id": "59",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Experience Creation Club Main Quest Patchs - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/143680",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/77408"
+    },
+    {
+      "id": "60",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Experience MCM - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/147006",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/65880"
+    },
+    {
+      "id": "61",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Faction Ranks - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/170838",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/170776"
+    },
+    {
+      "id": "62",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "FAMILY LIFE - Immersive Dialogue Expansion - Hearthfire - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/179843",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/179647"
+    },
+    {
+      "id": "63",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Firmament - Traducion Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/179257",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/153781"
+    },
+    {
+      "id": "64",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "First Person Interactions - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/170494",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/123129"
+    },
+    {
+      "id": "65",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Floating Subtitles - Spanish 3.X",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/167955",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/154424"
+    },
+    {
+      "id": "66",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Follower Dialogue Expansion - Faendal - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/132131",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/130418"
+    },
+    {
+      "id": "67",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Follower Stats - Spanish v1.0.12",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/160438",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/159406"
+    },
+    {
+      "id": "68",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Fourth Era Spell Crafting y menu - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/164758",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/157287"
+    },
+    {
+      "id": "69",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Fury - Animal Taming of Skyrim - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/150174",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/108212"
+    },
+    {
+      "id": "70",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Fuzz's Legally Intelligible Core Kit - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/182918",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/181603"
+    },
+    {
+      "id": "71",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Gate of Awakening Custom Skill - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/154898",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/153508"
+    },
+    {
+      "id": "72",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "GemFuse - Gemstones for Weapon Enchantments - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/181576",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/181157"
+    },
+    {
+      "id": "73",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "GeoNir - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/163452",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/159736"
+    },
+    {
+      "id": "74",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Growl Features (Werewolf Additional) - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/103058",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/41258"
+    },
+    {
+      "id": "75",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Growl Features Fixed - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/103059",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/88015"
+    },
+    {
+      "id": "76",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Growl Tweaks - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/103061",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/31378"
+    },
+    {
+      "id": "77",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Havocrels and ruinachs - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/102774",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/102715"
+    },
+    {
+      "id": "78",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Hearthfire Additions Where You Want Them - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/180313",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/180190"
+    },
+    {
+      "id": "79",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Hero's Feast (Conjure Food) - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/162165",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/161931"
+    },
+    {
+      "id": "80",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Highlight Objects - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/184217",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/183648"
+    },
+    {
+      "id": "81",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Hircine's Quest Gives Werewolf Damage Boost - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/156870",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/140189"
+    },
+    {
+      "id": "82",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Horde - A Light-Weight SKSE Follower Management System - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/175659",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/175589"
+    },
+    {
+      "id": "83",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "ImmersiveHUD SKSE - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/167716",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/166799"
+    },
+    {
+      "id": "84",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "iNeed - Food Water and Sleep - Continued - Traduccion spanish full y con FOMOD",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/174592",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/19390"
+    },
+    {
+      "id": "85",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Inigo Immersive Note - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/151417",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/102927"
+    },
+    {
+      "id": "86",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Inigo Official Patch SE - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/151414",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/62868"
+    },
+    {
+      "id": "87",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Inventory Atlas - Inventory Attributes Library and Stuff - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/190298",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/178801"
+    },
+    {
+      "id": "88",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Jewelry Limiter - Another Multiple Rings and Amulets - Traduccion Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/104292",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/22098"
+    },
+    {
+      "id": "89",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "J'zargo - Follower Overhaul - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/148494",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/148112"
+    },
+    {
+      "id": "90",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "J'zargo Unleashed - Dialogue Add-On - ESPFE - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/169858",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/169768"
+    },
+    {
+      "id": "91",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Keep it Clean - A Bathing Mod - Spanish - FOMOD",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/179770",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/17846"
+    },
+    {
+      "id": "92",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Khajiit Paw (Digitigrade looking feet) - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/102925",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/43511"
+    },
+    {
+      "id": "93",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Khajiit Skills Improvement - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/144149",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/20353"
+    },
+    {
+      "id": "94",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Khajiit will follow ES - Continuacion",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/179339",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/2227"
+    },
+    {
+      "id": "95",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Khajiit's Pets SE - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/156869",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/14113"
+    },
+    {
+      "id": "96",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Kill Feed - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/182041",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/179053"
+    },
+    {
+      "id": "97",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "kryptopyr's Patch Hub  - Patches - Spanish FOMOD",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/104638",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/19518"
+    },
+    {
+      "id": "98",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Lawbringer - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/163492",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/29882"
+    },
+    {
+      "id": "99",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Line and Lure - Fishing Perks - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/145283",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/145240"
+    },
+    {
+      "id": "100",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Lollygaggin' - Vanilla Guard Armor Replacer - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/136241",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/117833"
+    },
+    {
+      "id": "101",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "LoreBox - Armor Lore - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/160847",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/157027"
+    },
+    {
+      "id": "102",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "M.I.N.T. - Mint-Issued National Tenders - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/179533",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/178940"
+    },
+    {
+      "id": "103",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "marth Follower Overhaul - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/187584",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/187445"
+    },
+    {
+      "id": "104",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "MCM super SEEDED - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/164794",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/164370"
+    },
+    {
+      "id": "105",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Menu Visuals Enhanced - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/165142",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/151191"
+    },
+    {
+      "id": "106",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Misplaced - Memory Minigame - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/160845",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/160680"
+    },
+    {
+      "id": "107",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Missives - Notes and Announcements - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/168442",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/116028"
+    },
+    {
+      "id": "108",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Missives - Voice and Quest Expansion - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/166345",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/166094"
+    },
+    {
+      "id": "109",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Missives - Worldspace Additions - Spanish FOMOD",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/181539",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/26788"
+    },
+    {
+      "id": "110",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Modex - A Mod Explorer Menu - Spanish v3.x",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/174343",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/137877"
+    },
+    {
+      "id": "111",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Moonlight Tales Mini - MCM - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/100425",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/97942"
+    },
+    {
+      "id": "112",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Moonlight Tales Mini Highly Compatible Werewolf and Werebear Addon - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/101007",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/85234"
+    },
+    {
+      "id": "113",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "More Informative Console - Spanish Continuacion",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/198806",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/19250"
+    },
+    {
+      "id": "114",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "More Recruitable Dogs - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/184500",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/184388"
+    },
+    {
+      "id": "115",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Muscle Matters - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/179769",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/172681"
+    },
+    {
+      "id": "116",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Music Conductor - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/176788",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/176705"
+    },
+    {
+      "id": "117",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "My Precious...es - Multiple Rings SKSE - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/181132",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/180015"
+    },
+    {
+      "id": "118",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Navigation Bar for SkyUI - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/192193",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/123425"
+    },
+    {
+      "id": "119",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "New Skill Menu - NSM - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/174172",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/174085"
+    },
+    {
+      "id": "120",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Nirn's Chosen - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/165029",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/121427"
+    },
+    {
+      "id": "121",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "No Racial Abilities (No Racial Powers) - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/135415",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/135411"
+    },
+    {
+      "id": "122",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Nordic UI Clean Start Menu AE - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/142309",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/118936"
+    },
+    {
+      "id": "123",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "NPC Mining Yields Ore Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/166111",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/152723"
+    },
+    {
+      "id": "124",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Oblivion Interaction Icons - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/174869",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/52743"
+    },
+    {
+      "id": "125",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Ordinator - Disguise Patch - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/150173",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/149801"
+    },
+    {
+      "id": "126",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Ordinator's got Talent - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/167031",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/129241"
+    },
+    {
+      "id": "127",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Pan's Nameless Hunters - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/135019",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/134952"
+    },
+    {
+      "id": "128",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Parry for all - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/188772",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/167873"
+    },
+    {
+      "id": "129",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Pawboots for CC Civil War Champion - Traduccion Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/103841",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/43511"
+    },
+    {
+      "id": "130",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Pigs- Mihail Monsters and Animals (SE-AE) -  Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/151411",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/150479"
+    },
+    {
+      "id": "131",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Pilgrim - A Religion Overhaul DSD - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/184771",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/54099"
+    },
+    {
+      "id": "132",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Practical Necromancy - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/158410",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/29834"
+    },
+    {
+      "id": "133",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Quest Perk Rewards (QPR) - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/137951",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/136858"
+    },
+    {
+      "id": "134",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Racemenu Enhancer - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/182917",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/182536"
+    },
+    {
+      "id": "135",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Ra'zorro Male Khajiit Custom Follower - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/195891",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/192090"
+    },
+    {
+      "id": "136",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Realistic Baggage - A Complete Rebalance Overhaul for Bags and Pouches - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/146443",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/145315"
+    },
+    {
+      "id": "137",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Realistic Reflections - Mirrors - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/192761",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/191282"
+    },
+    {
+      "id": "138",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Relationship Dialogue Overhaul - Update and MCM - Spanish Continuacion",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/192965",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/44601"
+    },
+    {
+      "id": "139",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Relighting Skyrim SE - spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/141044",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/8586"
+    },
+    {
+      "id": "140",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Reliquary of Myth - Artifacts of Skyrim - Traduccion Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/103173",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/31612"
+    },
+    {
+      "id": "141",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Reticle Arcs - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/196413",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/193635"
+    },
+    {
+      "id": "142",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Ruinachs - Mihail Monsters and Animals (SE-AE version) - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/136542",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/49543"
+    },
+    {
+      "id": "143",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Say No to Werewolf - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/196415",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/194858"
+    },
+    {
+      "id": "144",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Scrolling Speed NG - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/174351",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/154251"
+    },
+    {
+      "id": "145",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Selling of Stacks or Singles - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/182919",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/182537"
+    },
+    {
+      "id": "146",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Significance of Strength (SPID) - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/155060",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/116493"
+    },
+    {
+      "id": "147",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Simple Add Carry Weight - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/150178",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/149442"
+    },
+    {
+      "id": "148",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Simple hand to hand - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/154899",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/154561"
+    },
+    {
+      "id": "149",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Simple Outfit Manager - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/174746",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/72330"
+    },
+    {
+      "id": "150",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Simply More Skill Trainers - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/174349",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/84004"
+    },
+    {
+      "id": "151",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Skeleton Key Custom Skills Framework - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/165551",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/165266"
+    },
+    {
+      "id": "152",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "SKSE Menu Framework Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/165379",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/120352"
+    },
+    {
+      "id": "153",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Sky Signs - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/148195",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/147884"
+    },
+    {
+      "id": "154",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "SkyPrompt - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/198808",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/148703"
+    },
+    {
+      "id": "155",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Skyrim Cave Fixes - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/187582",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/187476"
+    },
+    {
+      "id": "156",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Skyrim Outfit Equipment System NG-Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/147789",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/147011"
+    },
+    {
+      "id": "157",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Skyrim Outfit System SE Revived - Traduccion Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/103646",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/42162"
+    },
+    {
+      "id": "158",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Skyrim Party Sheet - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/167719",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/167538"
+    },
+    {
+      "id": "159",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Skyrim Vanity System - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/178773",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/175182"
+    },
+    {
+      "id": "160",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "SkyUI - Smart Search - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/184988",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/183703"
+    },
+    {
+      "id": "161",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Smart Talk (Dialogue Menu Enhancer) - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/163445",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/161500"
+    },
+    {
+      "id": "162",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Sons of Skyrim HDT Physics for Cloaks Patch - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/145703",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/114690"
+    },
+    {
+      "id": "163",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Sorcery Summons - Werewolf Spirits - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/150177",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/149577"
+    },
+    {
+      "id": "164",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Spirit wolf sprint - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/104392",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/103432"
+    },
+    {
+      "id": "165",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Stages of Suffering An SKSE Death Alternative - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/147008",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/146568"
+    },
+    {
+      "id": "166",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Starting Skills - Rewritten - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/189174",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/187047"
+    },
+    {
+      "id": "167",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Stay In Shape - A Pumping Iron Addon - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/158210",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/50371"
+    },
+    {
+      "id": "168",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Stones of Sacrifice - Traduccion Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/151106",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/121629"
+    },
+    {
+      "id": "169",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Superior Stones Reworked - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/103557",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/103501"
+    },
+    {
+      "id": "170",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Tales of Skyrim - Berserkyr - Traduccion Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/103641",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/103559"
+    },
+    {
+      "id": "171",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Tales of Skyrim - Berserkyr Patch Collection - Traduccion Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/103640",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/103318"
+    },
+    {
+      "id": "172",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "The Dragonborn Dreams - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/166684",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/60384"
+    },
+    {
+      "id": "173",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Tome And Spell Identifier NG - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/174955",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/153342"
+    },
+    {
+      "id": "174",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Torches Candlelight and Lanterns - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/163174",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/162694"
+    },
+    {
+      "id": "175",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Train with me DSD - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/184773",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/184708"
+    },
+    {
+      "id": "176",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "True Armor SKSE - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/193251",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/192706"
+    },
+    {
+      "id": "177",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "True Collision Damage and True Fall Damage - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/180542",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/179433"
+    },
+    {
+      "id": "178",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "True Light - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/178554",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/135488"
+    },
+    {
+      "id": "179",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "TrueHUD Focus - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/187583",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/187483"
+    },
+    {
+      "id": "180",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Unarmed - Damage Tweaks Knockdowns and Skill Progression - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/170495",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/133447"
+    },
+    {
+      "id": "181",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Unequip Quiver SE (NG) - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/154955",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/44031"
+    },
+    {
+      "id": "182",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Unique Region Names Framework - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/190301",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/190139"
+    },
+    {
+      "id": "183",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "USMP - Patch Emporium - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/154900",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/50813"
+    },
+    {
+      "id": "184",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Weapons Armor Clothing and Clutter Fixes - Spanish - DSD",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/175656",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/18994"
+    },
+    {
+      "id": "185",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Wearable Coin Bags - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/181727",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/181545"
+    },
+    {
+      "id": "186",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Werewolf Behemoths (SE) - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/156142",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/156098"
+    },
+    {
+      "id": "187",
+      "fomod": false,
+      "formato": "DSD",
+      "nombre": "Werewolf Circle Redux - Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/156771",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/153414"
+    },
+    {
+      "id": "188",
+      "fomod": false,
+      "formato": "ESP/Otro",
+      "nombre": "Where Are You - Lookup And Track Followers and other NPCs - Traduccion Spanish",
+      "link_trad": "https://www.nexusmods.com/skyrimspecialedition/mods/102932",
+      "link_mod": "https://www.nexusmods.com/skyrimspecialedition/mods/76063"
+    }
+  ]
+}

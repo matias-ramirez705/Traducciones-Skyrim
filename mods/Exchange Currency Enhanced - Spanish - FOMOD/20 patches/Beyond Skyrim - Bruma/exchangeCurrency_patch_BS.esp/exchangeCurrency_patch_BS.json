@@ -1,0 +1,137 @@
+[
+  {
+    "editor_id": "BSKRhinoVltHide",
+    "form_id": "01601B09|BSAssets.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Rhino Hide",
+    "string": "Piel de Rinoceronte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSKOreTin",
+    "form_id": "01601C4F|BSAssets.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tin Ore",
+    "string": "Mineral de Estaño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSKOreCopper",
+    "form_id": "01601C50|BSAssets.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Copper Ore",
+    "string": "Mineral de Cobre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSKIngotBronze",
+    "form_id": "01601C51|BSAssets.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bronze Ingot",
+    "string": "Lingote de Bronce",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSKIngotCopper",
+    "form_id": "01601C5A|BSAssets.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Pure Copper Ingot",
+    "string": "Lingote de Cobre Puro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSKOreAdamantium",
+    "form_id": "01601C87|BSAssets.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Adamantium Ore",
+    "string": "Mineral de Adamantita",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSKOreZinc",
+    "form_id": "01601C88|BSAssets.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Zinc Ore",
+    "string": "Mineral de Zinc",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSKIngotBrass",
+    "form_id": "01601C89|BSAssets.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Brass Ingot",
+    "string": "Lingote de Laton",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSKIngotMeteoricIron",
+    "form_id": "01601C91|BSAssets.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Meteoric Iron Ingot",
+    "string": "Lingote de Hierro Meteoritico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSKOreMeteoricIron",
+    "form_id": "01601C92|BSAssets.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Meteoric Iron Ore",
+    "string": "Mineral de Hierro Meteoritico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSKIngotAdamantium",
+    "form_id": "01602099|BSAssets.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Adamantium Ingot",
+    "string": "Lingote de Adamantita",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSKIngotTin",
+    "form_id": "0160209A|BSAssets.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tin Ingot",
+    "string": "Lingote de Estaño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CYRMinotaurHide",
+    "form_id": "016026E2|BSAssets.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Minotaur Hide",
+    "string": "Piel de Minotauro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSKAyleidGold001",
+    "form_id": "016028DC|BSAssets.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ayleid Mala",
+    "string": "Ayleid Mala",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BSKBYOHMaterialClay_PROXY_HF",
+    "form_id": "01602B24|BSAssets.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Clay",
+    "string": "Arcilla",
+    "status": "TranslationComplete"
+  }
+]

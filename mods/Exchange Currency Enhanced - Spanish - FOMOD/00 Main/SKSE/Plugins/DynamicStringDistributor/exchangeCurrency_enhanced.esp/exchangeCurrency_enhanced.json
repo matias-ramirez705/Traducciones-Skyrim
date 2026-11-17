@@ -1,0 +1,668 @@
+[
+  {
+    "editor_id": "DLC2GoldPile01",
+    "form_id": "02018486|Dragonborn.esm",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Pile of silver septims",
+    "string": "Montón de septims de plata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2GoldPile02",
+    "form_id": "02018488|Dragonborn.esm",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Pile of gold septims",
+    "string": "Montón de septims de oro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2GoldPile03",
+    "form_id": "06000825|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Pile of copper septims",
+    "string": "Montón de septims de cobre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2GoldPile04",
+    "form_id": "06000826|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Pile of copper septims",
+    "string": "Montón de septims de cobre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EECExemptionDocument",
+    "form_id": "060009D9|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Exemption Certificate - East Empire Company",
+    "string": "Certificado de Exención - Compañía del Imperio Oriental",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EECExemptionDocument",
+    "form_id": "060009D9|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<p align=\"center\"><b>Exemption Certificate</b></p>\r\n<p align=\"left\">The Eastern Empire Company exempts the holder of this document from exchange tax.</p>",
+    "string": "<p align=\"center\"><b>Certificado de Exención</b></p>\r\n<p align=\"left\">La Compañía del Imperio del Este exime al portador de este documento del impuesto de intercambio.</p>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkoomaBook",
+    "form_id": "06000A66|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Smuggler journal",
+    "string": "Diario del contrabandista",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkoomaBook",
+    "form_id": "06000A66|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face='$HandwrittenFont'><div align=\"left\">\r\n\r\nThis cabin will be perfect for preparing my mixtures. The old grain mill outside will allow me to grind the sugar cane I bought from the apothecary.\n\nI've managed to assemble a refining vat, all I have to do now is distil the moon sugar.\r\n\nFinding customers won't be easy as the authorities are on the lookout for skooma trafficking. Perhaps the Khajiits in the caravan will be interested in what I have to offer... I'll have to find them.\r\n\r\n</div></font>",
+    "string": "<font face='$HandwrittenFont'><div align=\"left\">\r\n\r\nEsta cabaña sera perfecta para preparar mis mezclas. El viejo molino de grano afuera me permitirá moler la cana de azúcar que compre al boticario.\r\n\r\nHe logrado ensamblar una cuba de refinado, solo me falta destilar el azúcar lunar.\r\n\r\nNo sera fácil encontrar clientes, ya que las autoridades están al acecho del trafico de skooma. Quizá los Khajiitas de la caravana estén interesados en lo que tengo para ofrecer... tendré que encontrarlos.\r\n\r\n</div></font>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasDwarvenChestSmall",
+    "form_id": "00020650|Skyrim.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasDwarvenChestBoss",
+    "form_id": "00020652|Skyrim.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasDwarvenJewelryBox",
+    "form_id": "00020653|Skyrim.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasDwarvenChestLarge",
+    "form_id": "0002069A|Skyrim.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TreasFalmerChestBossDwarven",
+    "form_id": "000B1176|Skyrim.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasDwarvenChestBoss",
+    "form_id": "0202AABA|Dragonborn.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasDwarvenChestLarge",
+    "form_id": "0202AABB|Dragonborn.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasDwarvenChestSmall",
+    "form_id": "0202AABC|Dragonborn.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TreasDwarvenJewelryBox",
+    "form_id": "0202AABD|Dragonborn.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SafewithLockDUPLICATE001",
+    "form_id": "06000A65|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Smuggler's chest",
+    "string": "Cofre del contrabandista",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MoonSugar",
+    "form_id": "000D8E3F|Skyrim.esm",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Moon Sugar",
+    "string": "Azúcar lunar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SugarCane",
+    "form_id": "06000A1F|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Sugar cane",
+    "string": "Caña de azucar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CaneSugar",
+    "form_id": "06000A21|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "INGR FULL",
+    "original": "Brown sugar",
+    "string": "Azúcar morena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Gold001",
+    "form_id": "0000000F|Skyrim.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Septim",
+    "string": "Septim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TestJeffLTankard",
+    "form_id": "00056189|Skyrim.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "coin",
+    "string": "moneda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Gold002",
+    "form_id": "06000823|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Silver Septim",
+    "string": "Septim de plata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Gold003",
+    "form_id": "06000824|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Gold Septim",
+    "string": "Septim de oro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EC_IngotAetherium",
+    "form_id": "060009DB|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Aetherium Ingot",
+    "string": "Lingote de aetherium",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EC_OreAetherium",
+    "form_id": "060009DC|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Aetherium Ore",
+    "string": "Mineral de aetherium",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EC_IngotAetheriumCoreTab",
+    "form_id": "06000A08|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Aetherium Core",
+    "string": "Núcleo de Aetherium",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Gold004",
+    "form_id": "06000B6D|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Copper Septim",
+    "string": "Septim de cobre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PluralFormSilverSeptims",
+    "form_id": "06000BCF|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Silver Septims",
+    "string": "Septims de plata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PluralFormCopperSeptims",
+    "form_id": "06000BD0|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Copper Septims",
+    "string": "Septims de cobre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PluralFormGoldSeptims",
+    "form_id": "06000BD1|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Gold Septims",
+    "string": "Septims de oro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PluralFormGold001",
+    "form_id": "06000BD2|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Septims",
+    "string": "Septims",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CraftingCookingFireSpit",
+    "form_id": "00068ADB|Skyrim.esm",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Cooking Spit",
+    "string": "Asador de cocina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CraftingCookingPotSm",
+    "form_id": "001010B3|Skyrim.esm",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Cooking Spit",
+    "string": "Asador de cocina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SmallCookingPotDBPoison",
+    "form_id": "001010B4|Skyrim.esm",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Cooking Spit",
+    "string": "Asador de cocina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CraftingCookingPotLG",
+    "form_id": "00104110|Skyrim.esm",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Cooking Spit",
+    "string": "Asador de cocina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CraftingCookingPotSmNoHandle",
+    "form_id": "00108230|Skyrim.esm",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Cooking Spit",
+    "string": "Asador de cocina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "moonsugarBrewer",
+    "form_id": "06000A5F|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Moon Sugar Vat",
+    "string": "Cuba de azúcar lunar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "moonsugarBrewerLid",
+    "form_id": "06000A60|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Lid",
+    "string": "Tapa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "skoomaLaboratory",
+    "form_id": "06000A61|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Smuggler's Laboratory",
+    "string": "Laboratorio del contrabandista",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmDoubleDistilledSkooma",
+    "form_id": "0003F4BD|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Double-Distilled Skooma",
+    "string": "Skooma doblemente destilada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Skooma",
+    "form_id": "00057A7A|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Skooma",
+    "string": "Skooma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "dunSleepingTreeCampSap",
+    "form_id": "000AED90|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Sleeping Tree Sap",
+    "string": "Savia del Árbol Durmiente",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TGTQ02BalmoraBlue",
+    "form_id": "000DC172|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Balmora Blue",
+    "string": "Balmora Azul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1RedwaterDenSkooma",
+    "form_id": "0101391D|Dawnguard.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Redwater Skooma",
+    "string": "Skooma de Aguas Rojas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "Skyrim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000ECF4F|Skyrim.esm",
+    "index": 1,
+    "type": "REFR FULL",
+    "original": "Riverside Shack",
+    "string": "Choza junto al río",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Blackreach",
+    "form_id": "0001EE62|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Blackreach",
+    "string": "Límite Sombrío",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EastEmpireWarehouse",
+    "form_id": "0004F838|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "East Empire Company Warehouse",
+    "string": "Almacén de la Compañía del Imperio Oriental",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KatariahWorld",
+    "form_id": "000C350D|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Emperor's Quarters",
+    "string": "Aposentos del Emperador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FrostmereCryptWorld",
+    "form_id": "000C97EB|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Frostmere Depths",
+    "string": "Profundidades de Frostmere",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LabyrinthianMazeWorld",
+    "form_id": "00104217|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Shalidor's Maze",
+    "string": "Laberinto de Shalidor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2SolstheimWorld",
+    "form_id": "02000800|Dragonborn.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Solstheim",
+    "string": "Solstheim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ShowTotalSeptims",
+    "form_id": "06000B7C|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "%.0f <Alias.CurrentName=gold001Name>[%.0f copper, %.0f silver, %.0f gold]",
+    "string": "%.0f <Alias.CurrentName=gold001Name>[%.0f cobre, %.0f plata, %.0f oro]",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PluralCopperAdded",
+    "form_id": "06000BB7|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "+%.0f <Alias.CurrentName=PluralFormCopperSeptims>",
+    "string": "+%.0f <Alias.CurrentName=PluralFormCopperSeptims>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SingularCopperAdded",
+    "form_id": "06000BB8|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "+%.0f <Alias.CurrentName=gold004Name>",
+    "string": "+%.0f <Alias.CurrentName=gold004Name>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PluralCopperRemoved",
+    "form_id": "06000BB9|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "-%.0f <Alias.CurrentName=PluralFormCopperSeptims>",
+    "string": "-%.0f <Alias.CurrentName=PluralFormCopperSeptims>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SingularCopperRemoved",
+    "form_id": "06000BBA|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "-%.0f <Alias.CurrentName=gold004Name>",
+    "string": "-%.0f <Alias.CurrentName=gold004Name>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PluralSilverAdded",
+    "form_id": "06000BBB|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "+%.0f <Alias.CurrentName=PluralFormSilverSeptims>",
+    "string": "+%.0f <Alias.CurrentName=PluralFormSilverSeptims>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PluralSilverRemoved",
+    "form_id": "06000BBC|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "-%.0f <Alias.CurrentName=PluralFormSilverSeptims>",
+    "string": "-%.0f <Alias.CurrentName=PluralFormSilverSeptims>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SingularSilverAdded",
+    "form_id": "06000BBD|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "+%.0f <Alias.CurrentName=gold002Name>",
+    "string": "+%.0f <Alias.CurrentName=gold002Name>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SingularSilverRemoved",
+    "form_id": "06000BBE|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "-%.0f <Alias.CurrentName=gold002Name>",
+    "string": "-%.0f <Alias.CurrentName=gold002Name>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PluralGoldAdded",
+    "form_id": "06000BBF|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "+%.0f <Alias.CurrentName=PluralFormGoldSeptims>",
+    "string": "+%.0f <Alias.CurrentName=PluralFormGoldSeptims>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PluralGoldRemoved",
+    "form_id": "06000BC0|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "-%.0f <Alias.CurrentName=PluralFormGoldSeptims>",
+    "string": "-%.0f <Alias.CurrentName=PluralFormGoldSeptims>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SingularGoldAdded",
+    "form_id": "06000BC1|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "+%.0f <Alias.CurrentName=gold003Name>",
+    "string": "+%.0f <Alias.CurrentName=gold003Name>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SingularGoldRemoved",
+    "form_id": "06000BC2|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "-%.0f <Alias.CurrentName=gold003Name>",
+    "string": "-%.0f <Alias.CurrentName=gold003Name>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DontSeptimInstance",
+    "form_id": "06000BC3|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This currency instance shows the total gold you can spend in this region. You should not interact with this instance, but with the other Septim instances. The coins you just dropped have been returned to you.",
+    "string": "Esta instancia de moneda muestra todo el oro que puedes gastar en esta región. No debes interactuar con esta instancia, sino con las otras instancias de septims. Las monedas que acabas de soltar te han sido devueltas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MessageExchanger",
+    "form_id": "06000BC4|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The exchanger is going to pay out your winnings. Select the type of septim you would like to receive by pressing the corresponding key on the keyboard : 'C' = copper septims, 'S' = silver septims, 'G' = gold septims.",
+    "string": "El cambista va a pagarte tus ganancias. Selecciona el tipo de septim que deseas recibir presionando la tecla correspondiente en el teclado: 'C' = septims de cobre, 'S' = septims de plata, 'G' = septims de oro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CopperConversion",
+    "form_id": "06000BC5|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Currency conversion : <Alias.CurrentName=gold004Name>",
+    "string": "Conversión de moneda: <Alias.CurrentName=gold004Name>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SilverConversion",
+    "form_id": "06000BC8|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Currency conversion : <Alias.CurrentName=gold002Name>",
+    "string": "Conversión de moneda: <Alias.CurrentName=gold002Name>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GoldConversion",
+    "form_id": "06000BC9|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Currency conversion : <Alias.CurrentName=gold003Name>",
+    "string": "Conversión de moneda: <Alias.CurrentName=gold003Name>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PluralCopperAddedMoneyBack",
+    "form_id": "06000BCA|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "+%.0f <Alias.CurrentName=PluralFormCopperSeptims> - Money back",
+    "string": "+%.0f <Alias.CurrentName=PluralFormCopperSeptims> - Dinero devuelto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SingularCopperAddedMoneyBack",
+    "form_id": "06000BCB|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "+%.0f <Alias.CurrentName=gold004Name> - Money back",
+    "string": "+%.0f <Alias.CurrentName=gold004Name> - Dinero devuelto",
+    "status": "TranslationComplete"
+  }
+]

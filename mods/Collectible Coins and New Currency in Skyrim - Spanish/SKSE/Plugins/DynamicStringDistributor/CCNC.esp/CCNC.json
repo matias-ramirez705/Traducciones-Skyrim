@@ -1,0 +1,1118 @@
+[
+  {
+    "editor_id": "Coin_ChestRedoran",
+    "form_id": "0500002E|CCNC.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Daggerfall",
+    "form_id": "05000001|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Deleyn Dragon",
+    "string": "Dragón de Deleyn",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Daggerfall",
+    "form_id": "05000001|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Daggerfall Crown minted during the reign of King Bergamot Deleyn. Only has value for collectors and historians.",
+    "string": "Corona de Daggerfall acuñada durante el reinado del rey Bergamot Deleyn. Solo tiene valor para coleccionistas e historiadores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Wayrest",
+    "form_id": "05000007|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Jewel-Crown",
+    "string": "Joya-Corona",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Wayrest",
+    "form_id": "05000007|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Wayrest Crown minted during the reign of King Farangel Gardner. Only has value for collectors and historians.",
+    "string": "Corona de Wayrest acuñada durante el reinado del rey Farangel Gardner. Solo tiene valor para coleccionistas e historiadores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Camlorn",
+    "form_id": "05000008|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Rielle Wolfpiece",
+    "string": "Pieza de lobo de Rielle",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Camlorn",
+    "form_id": "05000008|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Camlorn Crown minted during the reign of Duke Sebastien Rielle. Only has value for collectors and historians.",
+    "string": "Corona de Camlorn acuñada durante el reinado del duque Sebastien Rielle. Solo tiene valor para coleccionistas e historiadores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Shornhelm",
+    "form_id": "05000009|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Triumvir",
+    "string": "Triunvir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Shornhelm",
+    "form_id": "05000009|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Shornhelm Crown minted during the triumvirate rule. Only has value for collectors and historians.",
+    "string": "Corona de Shornhelm acuñada durante el gobierno del triunvirato. Solo tiene valor para coleccionistas e historiadores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Evermore",
+    "form_id": "0500000A|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Martyr's Crown",
+    "string": "Corona del Mártir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Evermore",
+    "form_id": "0500000A|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Evermore Crown minted during the reign of King Eamond Guimard. Also called \"Vanguard's Gold\". Only has value for collectors and historians.",
+    "string": "Corona de Evermore acuñada durante el reinado del rey Eamond Guimard. También llamada \"Oro de la Vanguardia\". Solo tiene valor para coleccionistas e historiadores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Northpoint",
+    "form_id": "0500000B|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dorell Coastpiece",
+    "string": "Pieza de la Costa de Dorell",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Northpoint",
+    "form_id": "0500000B|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Northpoint Crown minted during the reign of Baron Alard Dorell. Only has value for historians and some Solitude or Windhelm nobles.",
+    "string": "Corona de Northpoint acuñada durante el reinado del barón Alard Dorell. Solo tiene valor para historiadores y algunos nobles de Soledad o Ventalia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Farrun",
+    "form_id": "0500000C|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Spoils of Fharun",
+    "string": "Botín de Fharun",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Farrun",
+    "form_id": "0500000C|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Farrun Crown minted right after conquering Fharun stronghold. Has some value for historians and some Solitude nobles. Valuable relic for Wrothgarian Orcs.",
+    "string": "Corona de Farrun acuñada justo después de conquistar la fortaleza de Fharun. Tiene cierto valor para historiadores y algunos nobles de Soledad. Es una reliquia valiosa para los orcos de Wrothgar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Jehanna",
+    "form_id": "0500000D|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Border-Crown",
+    "string": "Corona Fronteriza",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Jehanna",
+    "form_id": "0500000D|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Jehanna Crown minted during the reign of the first king of Jehanna. Only has value for historians, Solitude nobles and wealthy Bretons.",
+    "string": "Corona de Jehanna acuñada durante el reinado del primer rey de Jehanna. Solo tiene valor para historiadores, nobles de Soledad y bretones adinerados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Covenant",
+    "form_id": "0500000F|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Covenant Lion",
+    "string": "León del Pacto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Covenant",
+    "form_id": "0500000F|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Covenant Crown minted in Wayrest during the reign of High King Emeric. Only has value for collectors and historians.",
+    "string": "Corona del Pacto acuñada en Wayrest durante el reinado del Gran Rey Emeric. Solo tiene valor para coleccionistas e historiadores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Balfiera",
+    "form_id": "05000010|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Adamant",
+    "string": "Adamant",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Balfiera",
+    "form_id": "05000010|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Ancient coin of the Direnni Hegemony minted during the reign of Aidan Direnni. Also called \"Hegemon\". Very valuable to mages as a magic catalyst.",
+    "string": "Moneda antigua de la Hegemonía Direnni acuñada durante el reinado de Aidan Direnni. También llamada \"Hegemón\". Muy valiosa para los magos como catalizador mágico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Orsinium",
+    "form_id": "05000011|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Torhg",
+    "string": "Torhg",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Orsinium",
+    "form_id": "05000011|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Used by the First Orsinium for trading with outsiders. Also called \"Osh-Ghar\". For many Orcs a symbol of the early economic power of their people.",
+    "string": "Utilizada por el Primer Orsinium para comerciar con los forasteros. También llamada \"Osh-Ghar\". Para muchos orcos, es un símbolo del antiguo poder económico de su pueblo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Orc",
+    "form_id": "05000012|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Osh",
+    "string": "Osh",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Orc",
+    "form_id": "05000012|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Currency used by stronghold Orcs, but in general most Orcs will accept them. Made of crude iron with traces of orichalcum.",
+    "string": "Moneda utilizada por los orcos de las fortalezas, aunque en general la mayoría de los orcos la aceptan. Fabricada con hierro rudimentario con trazas de oricalco.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Crowns",
+    "form_id": "05000013|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Na-Totambu Doubloon",
+    "string": "Doblón de Na-Totambu",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Crowns",
+    "form_id": "05000013|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Redguard coin named after the Yokudan nobility, minted by the traditionalist, isolationist Crowns. Only has value for collectors and historians.",
+    "string": "Moneda guardia roja nombrada en honor a la nobleza yokudana, acuñada por los Coronas tradicionalistas y aislacionistas. Solo tiene valor para coleccionistas e historiadores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Forebears",
+    "form_id": "05000016|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Forebear Sail",
+    "string": "Vela de los Antepasados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Forebears",
+    "form_id": "05000016|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Redguard coin minted by the cosmopolitan, open minded Forebears. Only has value for collectors and historians.",
+    "string": "Moneda guardia roja acuñada por los Antepasados cosmopolitas y de mente abierta. Solo tiene valor para coleccionistas e historiadores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Hammerfell",
+    "form_id": "05000017|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Gada",
+    "string": "Gada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Hammerfell",
+    "form_id": "05000017|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Unified currency of Hammerfell. Officially called \"Ra Gada\", after the Yokudan \"Warrior Waves\" as a provocation towards both the elves and the weak Empire.",
+    "string": "Moneda unificada de Páramo del Martillo. Oficialmente llamada \"Ra Gada\", en honor a las \"Olas Guerreras\" yokudanas, como provocación tanto hacia los elfos como hacia el débil Imperio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Reman",
+    "form_id": "05000018|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Reman Drake",
+    "string": "Draco de Reman",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Reman",
+    "form_id": "05000018|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Currency of the Second Empire. Only has value for Imperial officers and Penitus Oculatus.",
+    "string": "Moneda del Segundo Imperio. Solo tiene valor para oficiales imperiales y los Ojos de Penitus.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Coronation01",
+    "form_id": "0500001B|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "First Coronation Token",
+    "string": "Ficha de la Primera Coronación",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Coronation01",
+    "form_id": "0500001B|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Looks like it could be an Alessian coin, but actually a forged religious artifact manufactured by the Alessian Order. Only has value for historians.",
+    "string": "Parece una moneda alesiana, pero en realidad es un artefacto religioso falsificado fabricado por la Orden Alesiana. Solo tiene valor para historiadores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Coronation02",
+    "form_id": "0500001C|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "First Coronation Token",
+    "string": "Ficha de la Primera Coronación",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Coronation02",
+    "form_id": "0500001C|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "A damaged gold-plated coin. A forged religious artifact manufactured by the Alessian Order. Only has value for historians.",
+    "string": "Una moneda dañada bañada en oro. Un artefacto religioso falsificado fabricado por la Orden Alesiana. Solo tiene valor para historiadores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Ascension",
+    "form_id": "0500001D|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Al-Esh Ascension Coin",
+    "string": "Moneda de la Ascensión de Al-Esh",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Ascension",
+    "form_id": "0500001D|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Also called \"Lirulorne's Tribute coin\". A handful of these coins were given to the Demigod Morihaus. Rarest coin in Tamriel.",
+    "string": "También llamada \"moneda del tributo de Lirulorne\". Un puñado de estas monedas fue entregado al semidiós Morihaus. Es la moneda más rara de Tamriel.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Elsweyr01",
+    "form_id": "0500001E|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ja'zenn",
+    "string": "Ja'zenn",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Elsweyr01",
+    "form_id": "0500001E|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Short for \"Ja'zennji Siir\" meaning \"Jode's light\" in Ta'agra. Currency of Elsweyr as a vassal state of the Aldmeri Dominion.",
+    "string": "Abreviatura de \"Ja'zennji Siir\", que significa \"luz de Jode\" en ta'agra. Moneda de Elsweyr como estado vasallo del Dominio de Aldmer.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Elsweyr02",
+    "form_id": "0500001F|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Senche",
+    "string": "Senche",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Elsweyr02",
+    "form_id": "0500001F|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Variant of Ja'zenn. Has the image of a roaring Senche-Raht instead of the Mane.",
+    "string": "Variante de Ja'zenn. Tiene la imagen de un Senche-Raht rugiendo en lugar de la del Mane.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Summerset",
+    "form_id": "05000021|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "An-Malondo",
+    "string": "An-Malondo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Summerset",
+    "form_id": "05000021|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Ancient Altmeri coin. Also called \"Sun-gold\". High purity gold refined by elven magic. Valuable to mages as a magic catalyst.",
+    "string": "Moneda altmer antigua. También llamada \"oro solar\". Oro de gran pureza refinado mediante magia élfica. Valiosa para los magos como catalizador mágico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Almalexia",
+    "form_id": "05000022|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Amulet of Almalexia",
+    "string": "Amuleto de Almalexia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Almalexia",
+    "form_id": "05000022|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Amulet once given to those that completed a pilgrimage. Most Dunmer treat these as heirlooms, while the New Temple would perfer to see them destoyed.",
+    "string": "Amuleto que antiguamente se entregaba a quienes completaban una peregrinación. La mayoría de los dunmer los consideran reliquias familiares, mientras que el Nuevo Templo preferiría verlos destruidos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_SothaSil",
+    "form_id": "05000023|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Amulet of Sotha Sil",
+    "string": "Amuleto de Sotha Sil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_SothaSil",
+    "form_id": "05000023|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Amulet once given to those that completed a pilgrimage. Most Dunmer treat these as heirlooms, while the New Temple would perfer to see them destoyed.",
+    "string": "Amuleto que antiguamente se entregaba a quienes completaban una peregrinación. La mayoría de los dunmer los consideran reliquias familiares, mientras que el Nuevo Templo preferiría verlos destruidos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Vivec",
+    "form_id": "05000024|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Amulet of Vivec",
+    "string": "Amuleto de Vivec",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Vivec",
+    "form_id": "05000024|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Amulet once given to those that completed a pilgrimage. Most Dunmer treat these as heirlooms, while the New Temple would perfer to see them destoyed.",
+    "string": "Amuleto que antiguamente se entregaba a quienes completaban una peregrinación. La mayoría de los dunmer los consideran reliquias familiares, mientras que el Nuevo Templo preferiría verlos destruidos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Redoran",
+    "form_id": "05000025|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Scarab",
+    "string": "Escarabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_Redoran",
+    "form_id": "05000025|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Attempt of a faction in House Redoran to monopolize a new currency, but ended in failure. Many of these coins are scattered throughout Redoran lands.",
+    "string": "Intento de una facción de la Casa Redoran por monopolizar una nueva moneda, pero terminó en fracaso. Muchas de estas monedas están esparcidas por las tierras de Redoran.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_FirstDominion",
+    "form_id": "050000F8|CCNC.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ayrenn-Sancari",
+    "string": "Ayrenn-Sancari",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Coin_FirstDominion",
+    "form_id": "050000F8|CCNC.esp",
+    "index": 1,
+    "type": "MISC DESF",
+    "original": "Altmeri coin minted during the reign of High Queen Ayrenn. High purity gold refined by elven magic. Valuable to mages as a magic catalyst.",
+    "string": "Moneda altmer acuñada durante el reinado de la reina suprema Ayrenn. Oro de gran pureza refinado mediante magia élfica. Valiosa para los magos como catalizador mágico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Orc_CoinPurseSmall",
+    "form_id": "05000041|CCNC.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "Bolsa de monedas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Orc_CoinPurseSmall",
+    "form_id": "05000041|CCNC.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "Tomar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Orc_CoinPurseLarge",
+    "form_id": "05000043|CCNC.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "Bolsa de monedas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Orc_CoinPurseLarge",
+    "form_id": "05000043|CCNC.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "Tomar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Orc_CoinPurseMedium",
+    "form_id": "05000042|CCNC.esp",
+    "index": 1,
+    "type": "FLOR FULL",
+    "original": "Coin Purse",
+    "string": "Bolsa de monedas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Orc_CoinPurseMedium",
+    "form_id": "05000042|CCNC.esp",
+    "index": 1,
+    "type": "FLOR RNAM",
+    "original": "Take",
+    "string": "Tomar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LargashburShagrolsLonghouse",
+    "form_id": "0001525C|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Largashbur Longhouse",
+    "string": "Casa comunal de Largashbur",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DushnikhYalLonghouse",
+    "form_id": "000198E2|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Burguk's Longhouse",
+    "string": "Casa comunal de Burguk",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "NarzulburMauhulakhsLonghouse",
+    "form_id": "00015238|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Mauhulakh's Longhouse",
+    "string": "Casa comunal de Mauhulakh",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2HrodulfsHouse",
+    "form_id": "04021074|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Hrodulf's House",
+    "string": "Casa de Hrodulf",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2TelMithryn",
+    "form_id": "04017787|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Tel Mithryn",
+    "string": "Tel Mithryn",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MorKhazgurLaraksLonghouse",
+    "form_id": "0005B5DD|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Larak's Longhouse",
+    "string": "Casa comunal de Larak",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2SolstheimWorld",
+    "form_id": "04000800|Dragonborn.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Solstheim",
+    "string": "Solstheim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BarterWithOshTopic",
+    "form_id": "0500004B|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to trade in Osh.",
+    "string": "Me gustaría comerciar con Osh.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BarterWithGadaTopic",
+    "form_id": "05000050|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to trade in Gada.",
+    "string": "Me gustaría comerciar con Gada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BarterWithJazennTopic",
+    "form_id": "05000053|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to trade in Ja'zenn.",
+    "string": "Me gustaría comerciar con Ja'zenn.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeCurrencyOsh",
+    "form_id": "05000056|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to exchange currency.",
+    "string": "Me gustaría cambiar moneda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeOsh",
+    "form_id": "05000058|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to exchange my Osh for Septims.",
+    "string": "Me gustaría cambiar mis Osh por séptimos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSeptimsOsh",
+    "form_id": "0500005A|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Will you trade Septims for Osh?",
+    "string": "¿Cambiarás séptimos por Osh?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSeptimsOsh01",
+    "form_id": "0500005C|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "100 Septims.",
+    "string": "100 Septims.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSeptimsOsh02",
+    "form_id": "0500005F|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "500 Septims.",
+    "string": "500 Septims.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSeptimsOsh03",
+    "form_id": "05000062|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "1000 Septims.",
+    "string": "1000 Septims.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSeptimsOsh04",
+    "form_id": "05000065|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Never mind.",
+    "string": "No importa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeCurrencyGada",
+    "form_id": "05000068|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to exchange currency.",
+    "string": "Me gustaría cambiar moneda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeGada",
+    "form_id": "0500006A|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to exchange my Gada for Septims.",
+    "string": "Me gustaría cambiar mis Gada por séptimos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeCurrencyJazenn",
+    "form_id": "0500006D|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to exchange currency.",
+    "string": "Me gustaría cambiar moneda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeJazenn",
+    "form_id": "0500006F|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to exchange my Ja'zenn for Septims.",
+    "string": "Me gustaría cambiar mis Ja'zenn por séptimos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSeptimsJazenn",
+    "form_id": "05000071|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Will you trade Septims for Ja'zenn?",
+    "string": "¿Cambiarás séptimos por Ja'zenn?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSeptimsJazenn01",
+    "form_id": "05000073|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "100 Septims.",
+    "string": "100 Septims.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSeptimsJazenn02",
+    "form_id": "05000076|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "500 Septims.",
+    "string": "500 Septims.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSeptimsJazenn03",
+    "form_id": "05000079|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "1000 Septims.",
+    "string": "1000 Septims.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSeptimsJazenn04",
+    "form_id": "0500007C|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Never mind.",
+    "string": "No importa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BarterWithScarabs",
+    "form_id": "0500007F|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to trade in Scarabs.",
+    "string": "Me gustaría comerciar con escarabajos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeCurrencyScarab",
+    "form_id": "0500008B|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to exchange currency.",
+    "string": "Me gustaría cambiar moneda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeScarab",
+    "form_id": "0500008D|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to exchange Scarabs for Septims.",
+    "string": "Me gustaría cambiar escarabajos por séptimos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSenchesJazenn",
+    "form_id": "05000091|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can I exchange Senches for Ja'zenn?",
+    "string": "¿Puedo cambiar Senches por Ja'zenn?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeAncientElvenCoins",
+    "form_id": "05000094|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have heard that you might be interested in some unusual coins?",
+    "string": "He oído que podrían interesarte algunas monedas inusuales.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeAdamant",
+    "form_id": "05000096|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to sell these Adamants.",
+    "string": "Me gustaría vender estos Adamants.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeAnMalondo",
+    "form_id": "05000098|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to sell these An-Malondo.",
+    "string": "Me gustaría vender estos An-Malondo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeTorhg",
+    "form_id": "0500009D|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've found a coin you might be interested in.",
+    "string": "He encontrado una moneda que podría interesarte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeTorhg01",
+    "form_id": "0500009F|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This is a Torhg, isn't it? I'd like to sell it.",
+    "string": "Esto es un Torhg, ¿verdad? Me gustaría venderlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeTribunalCoins",
+    "form_id": "050000A3|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I've found these Tribunal amulets. Could you take a look?",
+    "string": "He encontrado estos amuletos del Tribunal. ¿Podrías echarles un vistazo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeAmulets",
+    "form_id": "050000A5|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I would like to sell them to you, if you don't mind.",
+    "string": "Me gustaría vendértelos, si no te importa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeReman",
+    "form_id": "050000B9|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I picked up these Imperial coins recently.",
+    "string": "Encontré estas monedas imperiales recientemente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeReman01",
+    "form_id": "050000BB|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Would you like to buy some?",
+    "string": "¿Te gustaría comprar algunas?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeShipwreck",
+    "form_id": "050000BE|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I have been told these coins might interest you.",
+    "string": "Me han dicho que estas monedas podrían interesarte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeDaggerfall",
+    "form_id": "050000C0|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to sell these Deleyn Dragons.",
+    "string": "Me gustaría vender estos Dragones de Deleyn.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeWayrest",
+    "form_id": "050000C2|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to sell these Jewel-Crowns.",
+    "string": "Me gustaría vender estas Joyas-Corona.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeNorthpoint",
+    "form_id": "050000C4|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to sell these Dorell Coastpieces.",
+    "string": "Me gustaría vender estas Piezas de la Costa de Dorell.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeForebears",
+    "form_id": "050000C6|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to sell these Forebear Sails.",
+    "string": "Me gustaría vender estas Velas de los Antepasados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSolitudeNobles",
+    "form_id": "050000C9|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Would you like to purchase some historic coins?",
+    "string": "¿Te gustaría comprar algunas monedas históricas?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSolitudeNorthpoint",
+    "form_id": "050000CB|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to sell these Dorell Coastpieces.",
+    "string": "Me gustaría vender estas Piezas de la Costa de Dorell.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSolitudeFarrun",
+    "form_id": "050000CD|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to sell these Spoils of Fharun.",
+    "string": "Me gustaría vender estos Botines de Fharun.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSolitudeJehanna",
+    "form_id": "050000CF|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to sell these Border-Crowns.",
+    "string": "Me gustaría vender estas Coronas Fronterizas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeFarrun",
+    "form_id": "050000D1|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "This is a \"Spoils of Fharun\", isn't it? I'd like to sell it.",
+    "string": "Esto es un \"Botín de Fharun\", ¿verdad? Me gustaría venderlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeHistoric",
+    "form_id": "050000D4|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Any interest in some old coins?",
+    "string": "¿Te interesan algunas monedas antiguas?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeCamlorn",
+    "form_id": "050000D6|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to sell these Rielle Wolfpieces.",
+    "string": "Me gustaría vender estas Piezas de lobo de Rielle.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeShornhelm",
+    "form_id": "050000D8|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to sell these Triumvirs.",
+    "string": "Me gustaría vender estos Triunvires.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeEvermore",
+    "form_id": "050000DA|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to sell these Martyr's Crowns.",
+    "string": "Me gustaría vender estas Coronas del Mártir.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeCovenant",
+    "form_id": "050000DC|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to sell these Covenant Lions.",
+    "string": "Me gustaría vender estos Leones del Pacto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeCrowns",
+    "form_id": "050000DE|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to sell these Na-Totambu Doubloons.",
+    "string": "Me gustaría vender estos Doblones de Na-Totambu.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeCoronation",
+    "form_id": "050000E1|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to sell some coins.",
+    "string": "Me gustaría vender algunas monedas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeCoronation01",
+    "form_id": "050000E3|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to sell these Coronation Tokens.",
+    "string": "Me gustaría vender estas Fichas de Coronación.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSeptimsGada",
+    "form_id": "050000E6|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Will you trade Septims for Gada?",
+    "string": "¿Cambiarás séptimos por Gada?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSeptimsGada01",
+    "form_id": "050000E8|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "100 Septims.",
+    "string": "100 Septims.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSeptimsGada02",
+    "form_id": "050000E9|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "500 Septims.",
+    "string": "500 Septims.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSeptimsGada03",
+    "form_id": "050000EA|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "1000 Septims.",
+    "string": "1000 Septims.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeSeptimsGada04",
+    "form_id": "050000EB|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Never mind.",
+    "string": "No importa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ExchangeAyrennSancari",
+    "form_id": "050000FB|CCNC.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like to sell these Ayrenn-Sancari.",
+    "string": "Me gustaría vender estas Ayrenn-Sancari.",
+    "status": "TranslationComplete"
+  }
+]

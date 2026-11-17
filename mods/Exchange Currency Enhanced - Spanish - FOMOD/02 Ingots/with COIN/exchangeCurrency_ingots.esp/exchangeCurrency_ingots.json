@@ -1,0 +1,200 @@
+[
+  {
+    "editor_id": "IngotCopperJeweller",
+    "form_id": "0300080D|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Copper Bar",
+    "string": "Barra de Cobre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IngotCopperTab",
+    "form_id": "0300080E|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Copper Ounce",
+    "string": "Onza de Cobre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IngotDwarvenJeweller",
+    "form_id": "0300080F|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dwarven Bar",
+    "string": "Barra Enana",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IngotDwarvenTab",
+    "form_id": "03000810|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dwarven Ounce",
+    "string": "Onza Enana",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IngotEbonyJeweler",
+    "form_id": "03000811|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ebony Bar",
+    "string": "Barra de Ebano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IngotEbonyTab",
+    "form_id": "03000812|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Ebony Ounce",
+    "string": "Onza de Ebano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IngotGoldSmith",
+    "form_id": "03000813|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Gold Bar",
+    "string": "Barra de Oro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IngotGoldTab",
+    "form_id": "03000814|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Gold Ounce",
+    "string": "Onza de Oro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IngotIronTab",
+    "form_id": "03000815|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Iron Ounce",
+    "string": "Onza de Hierro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IngotIronWeapon",
+    "form_id": "03000816|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Iron Bar",
+    "string": "Barra de Hierro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IngotMalachiteJeweller",
+    "form_id": "03000817|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Malachite Bar",
+    "string": "Barra de Malaquita",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IngotMalachiteTab",
+    "form_id": "03000818|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Malachite Ounce",
+    "string": "Onza de Malaquita",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IngotMoonstoneJeweller",
+    "form_id": "03000819|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Moonstone Bar",
+    "string": "Barra de Piedra Lunar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IngotMoonstoneTab",
+    "form_id": "0300081A|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Moonstone Ounce",
+    "string": "Onza de Piedra Lunar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IngotOrichalcumTab",
+    "form_id": "0300081B|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Orichalcum Ounce",
+    "string": "Onza de Oricalco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IngotOrichalcumWeapon",
+    "form_id": "0300081C|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Orichalcum Bar",
+    "string": "Barra de Oricalco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IngotQuicksilverJeweller",
+    "form_id": "0300081D|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Quicksilver Bar",
+    "string": "Barra de Azogue",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IngotQuicksilverTab",
+    "form_id": "0300081E|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Quicksilver Ounce",
+    "string": "Onza de Azogue",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ingotSilverSmith",
+    "form_id": "0300081F|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Silver Bar",
+    "string": "Barra de Plata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ingotSilverTab",
+    "form_id": "03000820|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Silver Ounce",
+    "string": "Onza de Plata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IngotSteelTab",
+    "form_id": "03000821|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Steel Ounce",
+    "string": "Onza de Acero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "IngotSteelWeapon",
+    "form_id": "03000822|exchangeCurrency_enhanced.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Steel Bar",
+    "string": "Barra de Acero",
+    "status": "TranslationComplete"
+  }
+]

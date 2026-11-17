@@ -1,0 +1,722 @@
+[
+  {
+    "editor_id": "EVGAnimTLSlide",
+    "form_id": "01000954|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "EVGAT Tall Slide",
+    "string": "EVGAT Tobogán Alto ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimVault",
+    "form_id": "01000802|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "EVGAT Vault",
+    "string": "EVGAT Salto Sobre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimLadderS",
+    "form_id": "01000805|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "EVGAT Ladder Short",
+    "string": "EVGAT Escalado Corto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimDuck",
+    "form_id": "0100080B|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "EVGAT Duck",
+    "string": "EVGAT Agacharse",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimSqueeze",
+    "form_id": "0100080D|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "EVGAT Squeeze",
+    "string": "EVGAT Deslizarse",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimRaiderDrop",
+    "form_id": "0100083C|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "EVGAT Raider Drop",
+    "string": "EVGAT Caída del Asaltante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimLedge",
+    "form_id": "0100088D|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "EVGAT Ledge",
+    "string": "EVGAT Cornisa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimFailLedge",
+    "form_id": "01000F3D|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "EVGAT Failed Ledge",
+    "string": "EVGAT Cornisa Fallido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimRaiderRoll",
+    "form_id": "01000979|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "EVGAT Raider Roll",
+    "string": "EVGAT Rodar del Asaltante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimWallDropShort",
+    "form_id": "0100097B|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "EVGAT Wall Drop Short",
+    "string": "EVGAT Caída de Pared Corta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimWallDropFar",
+    "form_id": "0100097D|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "EVGAT Wall Drop Far",
+    "string": "EVGAT Caída de Pared Lejos ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimLadderT",
+    "form_id": "01000994|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "EVGAT Ladder Tall",
+    "string": "EVGAT Escalado Alto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimDeepWalk",
+    "form_id": "0100099D|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "EVGAT Deep Walk",
+    "string": "EVGAT Caminata Profunda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimMedLedge",
+    "form_id": "010009BD|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "EVGAT Medium Ledge",
+    "string": "EVGAT Cornisa Mediana",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimLedgeCatch",
+    "form_id": "010009C9|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "EVGAT Ledge Catch",
+    "string": "EVGAT Agarre en la Cornisa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimLadderSSpell",
+    "form_id": "01000806|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "EVGAT Ladder Short",
+    "string": "EVGAT Escalado Corto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimVaultSpell",
+    "form_id": "01000803|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "EVGAT Vault",
+    "string": "EVGAT Salto Sobre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimFailLedgeSpell",
+    "form_id": "01000F3E|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "EVGAT Failed Ledge",
+    "string": "EVGAT Agarre fallido en la cornisa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimDuckSpell",
+    "form_id": "0100080C|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "EVGAT Duck",
+    "string": "EVGAT Agacharse",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimSqueezeSpell",
+    "form_id": "0100080E|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "EVGAT Squeeze",
+    "string": "EVGAT Deslizarse",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimRaiderDropSpell",
+    "form_id": "0100083D|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "EVGAT Raider Drop",
+    "string": "EVGAT Caída del Asaltante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimLedgeSpell",
+    "form_id": "0100088E|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "EVGAT Ledge",
+    "string": "EVGAT Cornisa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimTLSlideSpell",
+    "form_id": "01000955|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "EVGAT TL Slide",
+    "string": "EVGAT Deslizamiento en cuerda floja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimRaiderRollSpell",
+    "form_id": "0100097A|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "EVGAT Raider Roll",
+    "string": "EVGAT Rodar del Asaltante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimWallDropShortSpell",
+    "form_id": "0100097C|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "EVGAT Wall Drop Short",
+    "string": "EVGAT Caída de Pared Corta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimWallDropFarSpell",
+    "form_id": "0100097E|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "EVGAT Wall Drop Far",
+    "string": "EVGAT Caída de Pared Lejos ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimLadderTSpell",
+    "form_id": "01000995|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "EVGAT Ladder Tall",
+    "string": "EVGAT Escalado Alto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimDeepWalkSpell",
+    "form_id": "0100099E|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "EVGAT Deep Walk",
+    "string": "EVGAT Caminata Profunda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimMedLedgeSpell",
+    "form_id": "010009BE|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "EVGAT Medium Ledge",
+    "string": "EVGAT Cornisa Mediana",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGAnimLedgeCatchSpell",
+    "form_id": "010009CA|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "EVGAT Ledge Catch",
+    "string": "EVGAT Agarre en la Cornisa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorDuck",
+    "form_id": "01000855|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Under",
+    "string": "Por debajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorDuck",
+    "form_id": "01000855|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Duck",
+    "string": "Esquivar agachado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorSqueeze",
+    "form_id": "01000856|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Through",
+    "string": "Atravesar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorSqueeze",
+    "form_id": "01000856|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Squeeze",
+    "string": "Deslizarse",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorRDrop",
+    "form_id": "01000857|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Through",
+    "string": "Atravesar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorRDrop",
+    "form_id": "01000857|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Climb",
+    "string": "Escalada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorSLadder",
+    "form_id": "01000858|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Ladder",
+    "string": "Escalar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorSLadder",
+    "form_id": "01000858|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Climb",
+    "string": "Escalada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorLedge",
+    "form_id": "01000894|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Up",
+    "string": "Subir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorLedge",
+    "form_id": "01000894|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Climb",
+    "string": "Escalada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorVault",
+    "form_id": "010008F5|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Over",
+    "string": "Encima",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorVault",
+    "form_id": "010008F5|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Vault",
+    "string": "Salto sobre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorTLSlide",
+    "form_id": "0100095E|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Down",
+    "string": "Abajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorTLSlide",
+    "form_id": "0100095E|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Slide",
+    "string": "Deslizar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorRRoll",
+    "form_id": "01000983|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Through",
+    "string": "Atravesar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorRRoll",
+    "form_id": "01000983|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Climb",
+    "string": "Escalada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorWallDropF",
+    "form_id": "0100098C|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Down",
+    "string": "Bajar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorWallDropF",
+    "form_id": "0100098C|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Drop",
+    "string": "Soltar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorWallDropS",
+    "form_id": "01000993|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Down",
+    "string": "Bajar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorWallDropS",
+    "form_id": "01000993|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Drop",
+    "string": "Descenso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorDWalk",
+    "form_id": "0100099C|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Under",
+    "string": "Por debajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorDWalk",
+    "form_id": "0100099C|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Duck",
+    "string": "Esquivar agachado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorMedLedge",
+    "form_id": "010009C0|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Up",
+    "string": "Subir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorMedLedge",
+    "form_id": "010009C0|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Climb",
+    "string": "Escalada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorLedgeCatch",
+    "form_id": "010009C7|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Catch",
+    "string": "Atrapar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorLedgeCatch",
+    "form_id": "010009C7|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Ledge",
+    "string": "Cornisa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorTLUp",
+    "form_id": "01000F1E|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Up",
+    "string": "Subir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorTLUp",
+    "form_id": "01000F1E|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Climb",
+    "string": "Escalada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorFailLedge",
+    "form_id": "01000F44|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Up",
+    "string": "Subir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGSelectorFailLedge",
+    "form_id": "01000F44|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Climb",
+    "string": "Escalada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGATMediumLedgeMarker",
+    "form_id": "010009BF|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Ledge",
+    "string": "Repisa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGATLadderShort",
+    "form_id": "0100080A|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Ladder",
+    "string": "Escalar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGATSqueezeMarker",
+    "form_id": "01000812|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Squeeze",
+    "string": "Deslizarse",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGATDuckMarker",
+    "form_id": "01000827|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Duck",
+    "string": "Esquivar agachado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGATRaiderDropMarker",
+    "form_id": "0100083E|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Raider Drop",
+    "string": "Caída de Asaltante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGATLedgeMarker",
+    "form_id": "01000891|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Ledge",
+    "string": "Cornisa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGATVaultMarker",
+    "form_id": "010008F4|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Vault",
+    "string": "Salto sobre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGATLadderShortMO",
+    "form_id": "01000920|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Climb Up",
+    "string": "Subir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGATTLSlideMO",
+    "form_id": "01000956|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Slide Down",
+    "string": "Bajar Deslizándose",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGATRaiderRollMarker",
+    "form_id": "01000982|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Raider Roll",
+    "string": "Rodar Asaltante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGATWallDropFMarker",
+    "form_id": "0100098A|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Wall Drop",
+    "string": "Caída de Pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGATWallDropSMarker",
+    "form_id": "01000992|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Wall Drop",
+    "string": "Caída de Pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGATDeepWalkMarker",
+    "form_id": "0100099A|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Deep Walk",
+    "string": "Caminata Profunda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGATLedgeCatchMarker",
+    "form_id": "010009C4|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Ledge",
+    "string": "Cornisa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGATTallLadderUpMarker",
+    "form_id": "01000F1D|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Climb Up",
+    "string": "Subir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGATFailedLedgeMarker",
+    "form_id": "01000F43|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Ledge",
+    "string": "Cornisa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGMotionCourseKey",
+    "form_id": "010008BC|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "EVGAT Key",
+    "string": "EVGAT Tecla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGMotionCourseKey2",
+    "form_id": "01000911|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "KEYM FULL",
+    "original": "EVGAT Key 2",
+    "string": "EVGATL 2 Tecla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGMotionCourse",
+    "form_id": "01000D61|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "EVG Motion Course",
+    "string": "EVG Curso de movimiento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EVGNPCDoorQuest",
+    "form_id": "0100096E|EVGAnimatedTraversal.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "EVGATNPCDoorQuest",
+    "string": "EVGATNPCDoorQuest",
+    "status": "TranslationComplete"
+  }
+]

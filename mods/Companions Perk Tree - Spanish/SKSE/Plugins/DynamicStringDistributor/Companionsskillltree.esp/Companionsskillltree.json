@@ -1,0 +1,317 @@
+[
+  {
+    "editor_id": "zzzspeedmult",
+    "form_id": "04000813|Companionsskillltree.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Speedmult",
+    "string": "Multiplicador de velocidad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZZZBrawler",
+    "form_id": "04000802|Companionsskillltree.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Brawler",
+    "string": "Peleador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZZZBrawlerrank2",
+    "form_id": "04000803|Companionsskillltree.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Skilled Brawler",
+    "string": "Peleador hábil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZZZSharpenedclaws",
+    "form_id": "04000810|Companionsskillltree.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Practiced blows",
+    "string": "Golpes practicados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "XXXBeastspeed",
+    "form_id": "04000815|Companionsskillltree.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Beastspeed",
+    "string": "Velocidad de la bestia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Companionswarhorn",
+    "form_id": "04000817|Companionsskillltree.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Horn of the Companions",
+    "string": "Cuerno de los compañeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunJorrvaskrBasement",
+    "form_id": "0007947A|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Jorrvaskr Living Quarters",
+    "string": "Salón de Jorrvaskr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk01",
+    "form_id": "04000805|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Honorable band",
+    "string": "Banda honorable",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk01",
+    "form_id": "04000805|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Deal 10% more melee damage to and take 10% less melee damage from thieves and assassins.",
+    "string": "Infliges un 10% más de daño cuerpo a cuerpo y recibes un 10% menos de daño cuerpo a cuerpo de ladrones y asesinos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk02",
+    "form_id": "04000806|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Power of a Name",
+    "string": "El poder de un nombre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk02",
+    "form_id": "04000806|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Intimidation attempts are 10% more likely to succeed and bribes are 10% cheaper. ",
+    "string": "Los intentos de intimidación tienen un 10% más de probabilidad de éxito y los sobornos son un 10% más baratos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk03_0",
+    "form_id": "04000807|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Mead Fetcher",
+    "string": "Recolector de hidromiel",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk03_0",
+    "form_id": "04000807|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "10% lower prices from merchants that sell alcohol.",
+    "string": "Los precios de las bebidas alcohólicas son un 10% más bajos en los comerciantes que las venden.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk03_1",
+    "form_id": "04000808|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Practiced exterminator",
+    "string": "Exterminador experimentado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk03_1",
+    "form_id": "04000808|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You take 5% less damage and your weapons deal 5% more damage to animals. ",
+    "string": "Recibes un 5% menos de daño y tus armas infligen un 5% más de daño a los animales.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk03_1_2",
+    "form_id": "04000809|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Practiced exterminator",
+    "string": "Exterminador experimentado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk03_1_2",
+    "form_id": "04000809|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You take 10% less damage from and your weapons deal 10% more damage to animals.",
+    "string": "Recibes un 10% menos de daño y tus armas infligen un 10% más de daño a los animales.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZZZcompanionsbrawlerperkrankone",
+    "form_id": "0400080A|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Brawler",
+    "string": "Peleador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZZZcompanionsbrawlerperkrankone",
+    "form_id": "0400080A|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Your unarmed attacks do 3  more damage in human form. ",
+    "string": "Tus ataques sin armas infligen 3 más de daño en forma humana.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZZZcompanionsbrawlerperkranktwo",
+    "form_id": "0400080B|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Experienced Brawler",
+    "string": "Peleador experimentado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZZZcompanionsbrawlerperkranktwo",
+    "form_id": "0400080B|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Your unarmed attacks do 5  more damage in human form. ",
+    "string": "Tus ataques sin armas infligen 5 más de daño en forma humana.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZZZshieldbrotherperk",
+    "form_id": "0400080C|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Shield Brother",
+    "string": "Hermano de escudo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZZZshieldbrotherperk",
+    "form_id": "0400080C|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Blocking is 5% more effective and the armor rating of your shield is increased by 10%.",
+    "string": "Bloquear es un 5% más efectivo y la calificación de armadura de tu escudo aumenta en un 10%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZZZoldwaysbranchone",
+    "form_id": "0400080D|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Old Tricks of the Clever Men",
+    "string": "Viejas tretas de los Hombres Astutos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZZZoldwaysbranchone",
+    "form_id": "0400080D|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Your Magicka regenerates 5% faster. You absorbe 2% of incomming spells and reflect 2% of melee damage back on your opponents.",
+    "string": "Tu Magicka se regenera un 5% más rápido. Absorbes un 2% de los hechizos entrantes y reflejas un 2% del daño cuerpo a cuerpo a tus oponentes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZZZancientshield",
+    "form_id": "0400080E|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Ancient Shield",
+    "string": "Escudo ancestral",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZZZancientshield",
+    "form_id": "0400080E|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You take take 10% less physical damage from elves.",
+    "string": "Recibes un 10% menos de daño físico de los elfos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZZZoldvoice",
+    "form_id": "0400080F|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Ancient Tongues",
+    "string": "Lenguas ancestrales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZZZoldvoice",
+    "form_id": "0400080F|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Shout power and duration are increased by 10%.",
+    "string": "El poder y la duración de tus gritos aumentan en un 10%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZZZControlledblows",
+    "form_id": "04000811|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Controlled Blows",
+    "string": "Golpes controlados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ZZZControlledblows",
+    "form_id": "04000811|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Your unarmed attacks in beast form do 5 more damage.",
+    "string": "Tus ataques sin armas en forma de bestia infligen 5 más de daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "XXXfalsehunters",
+    "form_id": "04000812|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "False Hunters",
+    "string": "Cazadores falsos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "XXXfalsehunters",
+    "form_id": "04000812|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You take 10% less damage from Vigilants and the Silver Hand.",
+    "string": "Recibes un 10% menos de daño de los Vigilantes y la Mano de Plata.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "XXXfastbeast",
+    "form_id": "04000816|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Hunters Haste",
+    "string": "Prisa del cazador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "XXXfastbeast",
+    "form_id": "04000816|Companionsskillltree.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You run 10% faster in beast form. ",
+    "string": "Corres un 10% más rápido en forma de bestia.",
+    "status": "TranslationComplete"
+  }
+]

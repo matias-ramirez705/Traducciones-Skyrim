@@ -1,0 +1,497 @@
+[
+  {
+    "editor_id": "MBW_SoulToPerkPointMagicEffect",
+    "form_id": "01000D63|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Convert Dragon Soul",
+    "string": "Convierte Alma de Dragon",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointMagicEffect",
+    "form_id": "01000D63|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Converts a dragon soul to a perk point",
+    "string": "Convierte un alma de dragon en un punto de ventaja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSpell",
+    "form_id": "01000D64|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dragon Soul Shift (Dovah Sil Vuld)",
+    "string": "Cambio de Alma de Dragon (Dovah Sil Vuld)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointTome",
+    "form_id": "01000D65|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Dragon Soul Shift",
+    "string": "Tomo de Hechizo: Cambio de Alma de Dragon",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_PerkAmountToggleOff",
+    "form_id": "01000D78|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "OFF",
+    "string": "DESACTIVADO",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulCostIncreaseToggleOn",
+    "form_id": "01000D74|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Increase: ON",
+    "string": "Aumento: ENCENDIDO",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_PerkAmountToggleDecrease",
+    "form_id": "01000D77|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "DECREASE",
+    "string": "Disminuye",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_PerkAmountToggleIncrease",
+    "form_id": "01000D76|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "INCREASE",
+    "string": "Aumenta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulCostIncreaseToggleOff",
+    "form_id": "01000D75|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Increase: OFF",
+    "string": "Aumento: APAGADO",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HighHrothgar",
+    "form_id": "00087764|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "High Hrothgar",
+    "string": "Alto Hrothgar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "Skyrim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulsToPerkPointSettings",
+    "form_id": "01000D7A|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "MBW_SoulsToPerkPointSettings",
+    "string": "MBW_SoulsToPerkPointSettings",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointPerkIncreaseDecreaseSettingsMenu",
+    "form_id": "01000D79|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Increase/Decrease: <Alias=MBW_PerkAmountToggleAlias>\r\n\r\nWith the increase setting enabled, the amount of perk points you receive per exchange will increase by 1. With the decrease setting enabled, the amount will decrease by 1, with a minimum of 1 perk point per exchange.",
+    "string": "Aumenta/Disminuye: <Alias=MBW_PerkAmountToggleAlias>\r\n\r\nCon el ajuste de aumento habilitado, la cantidad de puntos de ventaja que recibes por intercambio aumentara en 1. Con el ajuste de disminucion habilitado, la cantidad disminuira en 1, con un minimo de 1 punto de ventaja por intercambio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointPerkIncreaseDecreaseSettingsMenu",
+    "form_id": "01000D79|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Perks Per Exchange Settings",
+    "string": "Ajustes de Ventajas por Intercambio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointPerkIncreaseDecreaseSettingsMenu",
+    "form_id": "01000D79|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Increase",
+    "string": "Aumenta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointPerkIncreaseDecreaseSettingsMenu",
+    "form_id": "01000D79|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Decrease",
+    "string": "Disminuye",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointPerkIncreaseDecreaseSettingsMenu",
+    "form_id": "01000D79|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Off",
+    "string": "Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointPerkIncreaseDecreaseSettingsMenu",
+    "form_id": "01000D79|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "Cancelar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointPerkAmountSettingsMenu",
+    "form_id": "01000D73|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Perks Received per exchange:\r\n\r\nIncrease/Decrease: <Alias=MBW_PerkAmountToggleAlias>     |    Amount: %.0f\r\n\r\nChanging this will completely reset the amount of perks you receive for your next exchange. Any changes you make will not retroactively apply to your previous exchanges.",
+    "string": "Ventajas recibidas por intercambio:\r\n\r\nAumenta/Disminuye: <Alias=MBW_PerkAmountToggleAlias>     |    Cantidad: %.0f\r\n\r\nCambiar esto reiniciara por completo la cantidad de ventajas que recibes en tu proximo intercambio. Cualquier cambio que hagas no se aplicara de forma retroactiva a tus intercambios anteriores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointPerkAmountSettingsMenu",
+    "form_id": "01000D73|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Perks Per Exchange Settings",
+    "string": "Ajustes de Ventajas por Intercambio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointPerkAmountSettingsMenu",
+    "form_id": "01000D73|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "1",
+    "string": "1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointPerkAmountSettingsMenu",
+    "form_id": "01000D73|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "2",
+    "string": "2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointPerkAmountSettingsMenu",
+    "form_id": "01000D73|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "3",
+    "string": "3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointPerkAmountSettingsMenu",
+    "form_id": "01000D73|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "4",
+    "string": "4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointPerkAmountSettingsMenu",
+    "form_id": "01000D73|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "5",
+    "string": "5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointPerkAmountSettingsMenu",
+    "form_id": "01000D73|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "Cancelar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointMenu",
+    "form_id": "01000D62|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Spend %.0f dragon soul(s) for %.0f perk point(s)?",
+    "string": "Gastar %.0f alma(s) de dragon por %.0f punto(s) de ventaja?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointMenu",
+    "form_id": "01000D62|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Convert Soul",
+    "string": "Convierte Alma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointMenu",
+    "form_id": "01000D62|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "Sí",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointMenu",
+    "form_id": "01000D62|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "No",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointMenu",
+    "form_id": "01000D62|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Settings",
+    "string": "Ajustes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSoulCostIncreaseSettingsMenu",
+    "form_id": "01000D72|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=MBW_SoulCostIncreaseAlias>      |      Amount: %.0f\r\n\r\nEnabling this setting will increase the amount of souls required for your next exchange by the amount you select. Changing the ammount will reset the cost increase for your next exchange, and will not retroactively apply to previous exchanges.",
+    "string": "<Alias=MBW_SoulCostIncreaseAlias>      |      Cantidad: %.0f\r\n\r\nHabilitar este ajuste aumentara la cantidad de almas necesarias para tu proximo intercambio segun la cantidad que selecciones. Cambiar la cantidad reiniciara el aumento de costo para tu proximo intercambio y no se aplicara de forma retroactiva a intercambios anteriores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSoulCostIncreaseSettingsMenu",
+    "form_id": "01000D72|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Increase Cost Settings",
+    "string": "Ajustes de Aumento de Costo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSoulCostIncreaseSettingsMenu",
+    "form_id": "01000D72|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "1",
+    "string": "1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSoulCostIncreaseSettingsMenu",
+    "form_id": "01000D72|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "2",
+    "string": "2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSoulCostIncreaseSettingsMenu",
+    "form_id": "01000D72|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "3",
+    "string": "3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSoulCostIncreaseSettingsMenu",
+    "form_id": "01000D72|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "4",
+    "string": "4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSoulCostIncreaseSettingsMenu",
+    "form_id": "01000D72|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "5",
+    "string": "5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSoulCostIncreaseSettingsMenu",
+    "form_id": "01000D72|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Increase Toggle",
+    "string": "Alterna Aumento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSoulCostIncreaseSettingsMenu",
+    "form_id": "01000D72|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "Cancelar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSoulCostSettingsMenu",
+    "form_id": "01000D71|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Current amount: %.0f\r\n\r\nChanging this will completely reset the amount for your next exchange. The total cost will not be retroactively applied to previous exchanges.",
+    "string": "Cantidad actual: %.0f\r\n\r\nCambiar esto reiniciara por completo la cantidad para tu proximo intercambio. El costo total no se aplicara de forma retroactiva a intercambios anteriores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSoulCostSettingsMenu",
+    "form_id": "01000D71|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Souls Per Exchange Settings:",
+    "string": "Ajustes de Almas por Intercambio:",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSoulCostSettingsMenu",
+    "form_id": "01000D71|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "1",
+    "string": "1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSoulCostSettingsMenu",
+    "form_id": "01000D71|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "3",
+    "string": "3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSoulCostSettingsMenu",
+    "form_id": "01000D71|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "5",
+    "string": "5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSoulCostSettingsMenu",
+    "form_id": "01000D71|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "7",
+    "string": "7",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSoulCostSettingsMenu",
+    "form_id": "01000D71|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "10",
+    "string": "10",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSoulCostSettingsMenu",
+    "form_id": "01000D71|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "Cancelar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSettingsMenu",
+    "form_id": "01000800|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Main Settings Menu",
+    "string": "Menu Principal de Ajustes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSettingsMenu",
+    "form_id": "01000800|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Dragons Souls to Perk Points",
+    "string": "Almas de Dragon a Puntos de Ventaja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSettingsMenu",
+    "form_id": "01000800|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Souls needed",
+    "string": "Almas necesarias",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSettingsMenu",
+    "form_id": "01000800|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Increase Souls needed",
+    "string": "Aumenta almas necesarias",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSettingsMenu",
+    "form_id": "01000800|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Perks Per Exchange",
+    "string": "Ventajas por Intercambio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSettingsMenu",
+    "form_id": "01000800|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Increase/Decrease Perks Per Exchange",
+    "string": "Aumenta/Disminuye Ventajas por Intercambio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MBW_SoulToPerkPointSettingsMenu",
+    "form_id": "01000800|MBW Dragon Souls to Perk Points - v3-2.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "Cancelar",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,605 @@
+[
+  {
+    "editor_id": "DremoraGreatsword",
+    "form_id": "01001E23|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Dremora Greatsword",
+    "string": "Mandoble Dremora",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CaravanDenizen11",
+    "form_id": "010039FA|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ak'zaddha",
+    "string": "Ak'zaddha",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CaravanDenizen10",
+    "form_id": "010039F9|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "J'ada",
+    "string": "J'ada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CaravanDenizen9",
+    "form_id": "010039F0|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Do'aana",
+    "string": "Do'aana",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CaravanDenizen8",
+    "form_id": "010039E7|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Dar'hannar",
+    "string": "Dar'hannar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CaravanDenizen1",
+    "form_id": "01000D62|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bumamul gro-Mogdtur",
+    "string": "Bumamul gro-Mogdtur",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CaravanDenizen1",
+    "form_id": "01000D62|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Bumamul",
+    "string": "Bumamul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CaravanDenizen6",
+    "form_id": "01001E22|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Uxiite",
+    "string": "Uxiite",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CaravanDenizen2",
+    "form_id": "01000D67|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Yo'draska",
+    "string": "Yo'draska",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CaravanDenizen3",
+    "form_id": "010012E1|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rakasada the Meek",
+    "string": "Rakasada el Manso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CaravanDenizen3",
+    "form_id": "010012E1|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Rakasada",
+    "string": "Rakasada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CaravanDenizen7",
+    "form_id": "01001E27|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Daro'avi",
+    "string": "Daro'avi",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CaravanDenizen5",
+    "form_id": "01001E26|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Gluph gra-Bolmgub",
+    "string": "Gluph gra-Bolmgub",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CaravanDenizen5",
+    "form_id": "01001E26|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Gluph",
+    "string": "Gluph",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CaravanDenizen4",
+    "form_id": "01001E24|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ko'dasha",
+    "string": "Ko'dasha",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AbandonedShackInterior",
+    "form_id": "00050F1E|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Abandoned Shack",
+    "string": "Choza abandonada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "Skyrim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100343E|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Pitiful mortal scum. Death would be a mercy compared to the life you live.",
+    "string": "Patetica escoria mortal. La muerte seria una misericordia comparada con la vida que llevas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003443|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "These Khajiit are despicable. Binding me to their will, and forcing me to do as they wish. If only I could drain them of their blood.",
+    "string": "Estos khajiit son despreciables. Atandome a su voluntad y obligandome a hacer lo que desean. Si tan solo pudiera drenarles la sangre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003444|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you want, feeble mortal?",
+    "string": "Que quieres, mortal debil?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003445|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you seek death? I will grant you that wish if you continue to bother me.",
+    "string": "Buscas la muerte? Te concedere ese deseo si sigues molestandome.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003446|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What is it, mortal scum?",
+    "string": "Que es lo que quieres, escoria mortal?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003447|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bastard mortals.",
+    "string": "Mortales bastardos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003448|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do you wish to die where you stand? If not, leave me be!",
+    "string": "Deseas morir donde estas? Si no, dejame en paz!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003449|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Do not trifle with the Khajiit, and I will not trifle with you.",
+    "string": "No juegues con los khajiit y yo no jugare contigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100344B|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Take that!",
+    "string": "Toma esto!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100344C|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hah!",
+    "string": "Hah!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100344D|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Eyyagh!",
+    "string": "Eyyagh!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100344E|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Die, mortal filth!",
+    "string": "Muere, inmundicia mortal!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100344F|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hoagh!",
+    "string": "Hoagh!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003451|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Heeeeeeeeyaaaaagh!",
+    "string": "Heeeeeeeeyaaaaagh!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003452|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oooooooaaaaaarggghhh!",
+    "string": "Oooooooaaaaaarggghhh!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003453|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Haaaaaaaaaaargh!",
+    "string": "Haaaaaaaaaaargh!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003454|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yeaaaaaaaaaaaaah!",
+    "string": "Yeaaaaaaaaaaaaah!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003456|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Agh!",
+    "string": "Agh!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003457|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ahhh!",
+    "string": "Ahhh!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003458|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Argh!",
+    "string": "Argh!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003459|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oof!",
+    "string": "Oof!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100345A|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Aiiieeee!",
+    "string": "Aiiieeee!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100345C|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well.... done....",
+    "string": "Bien.... hecho....",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100345E|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I shall honor my Lord... by destroying you!",
+    "string": "Honrare a mi Senor... destruyendote!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100345F|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A challenger draws near!",
+    "string": "Un retador se acerca!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003460|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I smell your fear!",
+    "string": "Huelo tu miedo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003461|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You will die this day, mortal filth!",
+    "string": "Moriras hoy, inmundicia mortal!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003462|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "These bindings shall not prevent me from eradicating you!",
+    "string": "Estas ataduras no me impediran erradicarte!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003463|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your blood is forfeit, your flesh is mine!",
+    "string": "Tu sangre es mia, tu carne me pertenece!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003464|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you ready to die?!",
+    "string": "Estas listo para morir?!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003465|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "May your \"Divines\" show you mercy, for I shall not!",
+    "string": "Que tus 'Divinos' te muestren misericordia, porque yo no lo hare!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003466|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Suffer!",
+    "string": "Sufre!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003467|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Weep, fettlekyn!",
+    "string": "Llora, fettlekyn!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003468|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Kneel, churl!",
+    "string": "Arrodillate, churl!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003469|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Kyn, and Valkyn!",
+    "string": "Kyn y Valkyn!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100346A|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Burst, fleshbag!",
+    "string": "Explota, saco de carne!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100346B|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Open wide!",
+    "string": "Abre bien!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100346C|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Time to bleed you dry!",
+    "string": "Hora de drenarte hasta secarte!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100346D|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your death draws near!",
+    "string": "Tu muerte se acerca!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100346E|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A worthy challenger has appeared! Now you shall die!",
+    "string": "Ha aparecido un retador digno! Ahora moriras!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100346F|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fall to me, dragon!",
+    "string": "Cae ante mi, dragon!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003470|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your scales are now my trophies!",
+    "string": "Tus escamas ahora son mis trofeos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003471|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Slay the dragon!",
+    "string": "Mata al dragon!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003472|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Land! So I may slaughter you!",
+    "string": "Aterriza! Para que pueda masacrarte!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003474|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "S..strong...",
+    "string": "F..fuerte...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003475|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Powerful....",
+    "string": "Poderoso....",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003476|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your strength... is admirable...",
+    "string": "Tu fuerza... es admirable...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003478|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Not.... today....",
+    "string": "No.... hoy....",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01003479|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I won't.... be done in.... by a mortal...",
+    "string": "No.... caere.... ante.... un mortal...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100347A|Denizens of Skyrim - Khajiit Caravans.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No... Not... Like this...",
+    "string": "No... No... Asi no...",
+    "status": "TranslationComplete"
+  }
+]

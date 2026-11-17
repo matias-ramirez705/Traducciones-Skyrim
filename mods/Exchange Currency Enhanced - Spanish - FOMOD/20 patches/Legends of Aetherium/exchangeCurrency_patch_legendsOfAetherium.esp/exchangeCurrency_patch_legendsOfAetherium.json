@@ -1,0 +1,74 @@
+[
+  {
+    "editor_id": "aaaLOAMineOreAetherium",
+    "form_id": "04010084|LegendsOfAetherium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Aetherium Vein",
+    "string": "Vena de Aetherium",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaLOAMineOreAetherium",
+    "form_id": "04010084|LegendsOfAetherium.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Mine",
+    "string": "Mina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaLOAMineOreAetheriumMine",
+    "form_id": "040A533D|LegendsOfAetherium.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Aetherium Vein",
+    "string": "Vena de Aetherium",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaLOAMineOreAetheriumMine",
+    "form_id": "040A533D|LegendsOfAetherium.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Mine",
+    "string": "Mina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaLOASiphonasium",
+    "form_id": "04090BAA|LegendsOfAetherium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Itharzel Siphonasium",
+    "string": "Itharzel Siphonasium",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaLOAManufactorium",
+    "form_id": "04034113|LegendsOfAetherium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Itharzel Manufactorium",
+    "string": "Itharzel Manufactorium",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaLOAArmoury",
+    "form_id": "040D3444|LegendsOfAetherium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Aetherial Armory",
+    "string": "Armeria Aetherial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaLOAMage",
+    "form_id": "040100B7|LegendsOfAetherium.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Itharzel Chironasium",
+    "string": "Itharzel Chironasium",
+    "status": "TranslationComplete"
+  }
+]

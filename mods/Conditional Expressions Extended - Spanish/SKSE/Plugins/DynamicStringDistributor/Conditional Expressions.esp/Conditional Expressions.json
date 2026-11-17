@@ -1,0 +1,164 @@
+[
+  {
+    "editor_id": "CondiExp_Water_Effect",
+    "form_id": "03000808|Conditional Expressions.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Underwater Effect",
+    "string": "Efecto al bucear",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CondiExp_Clothes_Effect",
+    "form_id": "03000809|Conditional Expressions.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "No Clothes Effect",
+    "string": "Efecto al estar desnudo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CondiExp_Skooma_Effect",
+    "form_id": "0300080A|Conditional Expressions.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Skooma Effect",
+    "string": "Efecto del Skooma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CondiExp_Drunk_Effect",
+    "form_id": "0300080F|Conditional Expressions.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Drunk Effect",
+    "string": "Efecto al beber",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CondiExp_Angry_Effect",
+    "form_id": "03000810|Conditional Expressions.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Combat Effect",
+    "string": "Efecto en combate",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CondiExp_Pain_Effect",
+    "form_id": "03000811|Conditional Expressions.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Pain Effect",
+    "string": "Efecto de dolor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CondiExp_Sneaking_Effect",
+    "form_id": "03000812|Conditional Expressions.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Sneaking Effect",
+    "string": "Efecto al nadar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CondiExp_Eating_Effect",
+    "form_id": "03000813|Conditional Expressions.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Eating Effect",
+    "string": "Efecto al comer",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CondiExp_Random_Effect",
+    "form_id": "03000817|Conditional Expressions.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Random Effect",
+    "string": "Efecto aleatorio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CondiExp_Cold_Effect",
+    "form_id": "0300081A|Conditional Expressions.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cold Effect",
+    "string": "Efecto del frío",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CondiExp_Headache_Effect",
+    "form_id": "03000820|Conditional Expressions.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "NoMana Effect",
+    "string": "Efecto sin mana",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CondiExp_Trauma_Effect",
+    "form_id": "03000830|Conditional Expressions.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Trauma Effect",
+    "string": "Efecto de Trauma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CondiExp_Dirty_Effect",
+    "form_id": "0300083E|Conditional Expressions.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "DirtyEffect",
+    "string": "Efecto de Suciedad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CondiExp_Aroused_Effect",
+    "form_id": "03000844|Conditional Expressions.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "ArousedEffect",
+    "string": "Efecto de Exaltacion",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CondiExp_Fatigue_Effect",
+    "form_id": "03000D62|Conditional Expressions.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fatigue Effect",
+    "string": "Efecto de fatiga",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CondiExp_Effects",
+    "form_id": "03000D61|Conditional Expressions.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conditional Expression Checks",
+    "string": "Comprobaciones de expresiones condicionales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CondiExp_Followers",
+    "form_id": "03000846|Conditional Expressions.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Quest Conditional Expressions Followers",
+    "string": "Mision Expresiones Condicionales para Seguidores\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CondiExp_StartMod",
+    "form_id": "03000D64|Conditional Expressions.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Quest Conditional Expressions",
+    "string": "Misión Expresiones condicionales",
+    "status": "TranslationComplete"
+  }
+]

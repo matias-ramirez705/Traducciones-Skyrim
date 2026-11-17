@@ -1,0 +1,83 @@
+[
+  {
+    "editor_id": "PredatorFaction",
+    "form_id": "0002E893|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Predator Faction",
+    "string": "Facción de depredador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PreyFaction",
+    "form_id": "0002E894|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Prey Faction",
+    "string": "Facción de presa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WolfFaction",
+    "form_id": "0003E691|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Wolf Faction",
+    "string": "Facción de lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SlaughterfishFaction",
+    "form_id": "000418EA|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Slaughterfish Faction",
+    "string": "Facción de pez asesino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MammothFaction",
+    "form_id": "0004359B|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Mammoth Faction",
+    "string": "Facción de mamut",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GoatFaction",
+    "form_id": "0004359D|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Goat Faction",
+    "string": "Facción de cabras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SabreCatFaction",
+    "form_id": "000435A2|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Sabre Cat Faction",
+    "string": "Facción de gato sable",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KynesPeaceFaction",
+    "form_id": "000E0D58|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Kyne's Peace",
+    "string": "Paz de Kyne",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BearFaction",
+    "form_id": "000FBBF3|Skyrim.esm",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Bear Faction",
+    "string": "Facción del Oso",
+    "status": "TranslationComplete"
+  }
+]

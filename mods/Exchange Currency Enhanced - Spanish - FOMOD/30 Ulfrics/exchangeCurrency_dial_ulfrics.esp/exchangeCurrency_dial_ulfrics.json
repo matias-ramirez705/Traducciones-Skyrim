@@ -1,0 +1,47 @@
+[
+  {
+    "editor_id": "FreeformWinterholdABirnaSellBranchTopic",
+    "form_id": "00062F44|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll take that claw for 50 ulfrics.",
+    "string": "Tomaré esa garra por 50 ulfrics.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00062F4C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, I'd be happy to sell it to you if you had enough money.",
+    "string": "Oh, estaria feliz de vendertela si tuvieras suficiente dinero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "00062F4C|Skyrim.esm",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But this isn't the case... is it ?",
+    "string": "Pero este no es el caso... o si ?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MS12QuintusCheapskate",
+    "form_id": "000C97CB|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Nurelion only gave me five ulfrics.",
+    "string": "Nurelion solo me dio cinco ulfrics.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000C97CF|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh, I'm sorry about that.",
+    "string": "Oh, lo siento por eso.",
+    "status": "TranslationComplete"
+  }
+]

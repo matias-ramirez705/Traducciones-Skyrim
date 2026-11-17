@@ -1,0 +1,811 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with XIMOD Architect 2.3.0 [https://www.nexusmods.com/site/mods/2141] -->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
+	<moduleName>Exchange Currency Enhanced - Spanish</moduleName>
+	<moduleImage path="fomod\images\font0.jpg"/>
+	<requiredInstallFiles>
+		<folder source="00 Main\interface" destination="interface" priority="0"/>
+	</requiredInstallFiles>
+	<installSteps order="Explicit">
+		<installStep name="Base">
+			<optionalFileGroups>
+				<group name="ESL for Exchange Currency" type="SelectExactlyOne">
+					<plugins order="Explicit">
+						<plugin name="ESL">
+							<description>Este plugin está marcado como ESL. El mod solo ofrece la versión &quot;Sin contador&quot;, ya que proporciona la mejor compatibilidad con mods que modifican celdas y el entorno. Además, centrarse en una sola versión del plugin facilita la aplicación de parches.</description>
+							<conditionFlags>
+								<flag name="NoCounter">On</flag>
+							</conditionFlags>
+							<files>
+								<folder source="00 base\NoCounter\SL99Exchanger.esp" destination="SKSE\Plugins\DynamicStringDistributor\SL99Exchanger.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+											</dependencies>
+											<type name="Required"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+		<installStep name="Exchange Currency Enhanced">
+			<optionalFileGroups>
+				<group name="Main" type="SelectExactlyOne">
+					<plugins order="Explicit">
+						<plugin name="New Septims + regional currencies">
+							<description>Seleccione esta opción si desea los nuevos septims y las nuevas monedas regionales (drams, drakrs, ulfrics, medes). Esto desbloquea la posibilidad de integrar drams, drakrs, ulfrics y medes en las ubicaciones que elija, utilizando la palabra clave &quot;Item Distributor&quot;. Se requieren &quot;C.O.I.N.&quot; y &quot;M.I.N.T.&quot; para obtener las monedas regionales.
+
+
+
+Si selecciona esta opción y ya utiliza &quot;Morrowind Mint&quot; o &quot;Skyrim Silver&quot; de &quot;M.I.N.T.&quot;, el código de Exchange Currency Enhanced para la gestión de monedas regionales tendrá prioridad sobre M.I.N.T. Si prefiere la forma en que M.I.N.T. gestiona las monedas regionales, seleccione la opción &quot;Solo nuevos septims&quot;.</description>
+							<image path="fomod\images\font0.jpg"/>
+							<conditionFlags>
+								<flag name="coin content">On</flag>
+								<flag name="septims content">On</flag>
+							</conditionFlags>
+							<files>
+								<folder source="01 COIN content\scripts" destination="scripts\" priority="0"/>
+								<file source="01 COIN content\exchangeCurrency_patch_COIN.esp" destination="" priority="0"/>
+								<file source="01 COIN content\C.O.I.N_DESC.ini" destination="" priority="0"/>
+								<file source="00 Main\exchangeCurrency_enhanced.esp" destination="" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="C.O.I.N.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="New Septims only">
+							<description>Select this option if you want the new septims WITHOUT the regional currencies content. The options related to the regional currencies will not be shown during this installation.
+
+If you select this option and are already using “Morrowind Mint” or “Skyrim Silver” from “M.I.N.T”, the code in Exchange Currency Enhanced for managing regional currencies won&apos;t take precedence over M.I.N.T.</description>
+							<conditionFlags>
+								<flag name="septims content">On</flag>
+								<flag name="septims only">On</flag>
+							</conditionFlags>
+							<files>
+								<file source="00 Main\exchangeCurrency_enhanced.esp" destination="" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="C.O.I.N.esp" state="Missing"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Regional currencies only">
+							<description>Seleccione esta opción si desea las monedas regionales (ulfrics, drams, drakrs medes) SIN los nuevos septims. Las opciones relacionadas con los nuevos septims no se mostrarán durante esta instalación.
+
+
+
+No se puede usar si ya utiliza las funciones &quot;Morrowind Mint&quot; y &quot;Skyrim Silver&quot; de &quot;M.I.N.T&quot;.</description>
+							<conditionFlags>
+								<flag name="coin content">On</flag>
+								<flag name="NoCopperNoSilver">On</flag>
+							</conditionFlags>
+							<files>
+								<file source="01 Regional currencies only\exchangeCurrency_patch_COIN.esp" destination="" priority="2"/>
+								<file source="01 Regional currencies only\C.O.I.N_DESC.ini" destination="" priority="2"/>
+								<file source="01 Regional currencies only\exchangeCurrency_enhanced_DESC.ini" destination="" priority="2"/>
+								<file source="00 Main\exchangeCurrency_enhanced.esp" destination="" priority="2"/>
+								<folder source="01 COIN content\scripts" destination="scripts\" priority="0"/>
+								<folder source="01 Regional currencies only\scripts" destination="scripts\" priority="2"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="WindhelmUsesUlfrics.esp" state="Active"/>
+												<fileDependency file="MorrowindUsesDrams.esp" state="Active"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="None">
+							<description>Seleccione esta opción si no desea el nuevo contenido (nuevos septims y monedas regionales). Solo necesita el complemento ESL.</description>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+		<installStep name="Seleccione monedas y valores">
+			<visible>
+				<dependencies operator="Or">
+					<flagDependency flag="septims content" value="On"/>
+				</dependencies>
+			</visible>
+			<optionalFileGroups>
+				<group name="Elige texturas para septims (No Requieren traduccion)" type="SelectExactlyOne">
+					<plugins order="Explicit">
+						<plugin name="Vanilla textures">
+							<description>Puedes editar el nombre, el peso y el valor de las monedas en SKSE\Plugins\SkyPatcher\misc. Se requiere Skypatcher.
+
+
+
+No requiere traduccion asi que esto no aplicara ningun cambio al seleccionar.</description>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Nerapharu textures">
+							<description>Puedes editar el nombre, el peso y el valor de las monedas en SKSE\Plugins\SkyPatcher\misc. Se requiere Skypatcher.
+
+
+
+No requiere traduccion asi que esto no aplicara ningun cambio al seleccionar.</description>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Wizkid textures (Ancient Imperial Septims required )">
+							<description>Se requieren Septims Imperiales Antiguos.
+
+Puedes editar el nombre, el peso y el valor de las monedas en SKSE\Plugins\SkyPatcher\misc. Se requiere Skypatcher.
+
+
+
+No requiere traduccion asi que esto no aplicara ningun cambio al seleccionar.</description>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="JohnSkyrim textures (JS Purses and Septims HD required)">
+							<description>Se requiere JS Purses and Septims HD.
+
+Puedes editar el nombre, el peso y el valor de las monedas en SKSE\Plugins\SkyPatcher\misc. Se requiere Skypatcher.
+
+
+
+No requiere traduccion asi que esto no aplicara ningun cambio al seleccionar.</description>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+				<group name="El peso de las monedas no supone un problema tan grande si se eligen las de mayor denominación." type="SelectExactlyOne">
+					<plugins order="Explicit">
+						<plugin name="1, 25, 100">
+							<description>Los septims de plata tendrán un valor de 25, y los septims de oro un valor de 100.
+
+
+
+Peso de las monedas: cobre = 0,01 | plata = 0,02 | oro = 0,03.
+
+
+
+Si estos valores no le convienen, puede modificarlos en SKSE\Plugins\SkyPatcher\misc\ECE_septims.ini</description>
+							<files>
+								<file source="02 settings skypatcher\SKSE\Plugins\SkyPatcher\misc\ECE_septims_100.ini" destination="SKSE\Plugins\SkyPatcher\misc\" priority="10"/>
+							</files>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="1, 12, 60">
+							<description>Los septims de plata tendrán un valor de 12, y los septims de oro un valor de 60.
+
+
+
+Peso de las monedas: cobre = 0,01 | plata = 0,02 | oro = 0,03
+
+
+
+Si estos valores no le convienen, puede modificarlos en SKSE\Plugins\SkyPatcher\misc\ECE_septims.ini</description>
+							<files>
+								<file source="02 settings skypatcher\SKSE\Plugins\SkyPatcher\misc\ECE_septims_60.ini" destination="SKSE\Plugins\SkyPatcher\misc\" priority="10"/>
+							</files>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="1, 10, 50">
+							<description>Los septims de plata tendrán un valor de 10, y los septims de oro un valor de 50,10.
+
+
+
+Peso de las monedas: cobre = 0,01 | plata = 0,02 | oro = 0,03,10.
+
+
+
+Si estos valores no le convienen, puede modificarlos en SKSE\Plugins\SkyPatcher\misc\ECE_septims.ini</description>
+							<files>
+								<file source="02 settings skypatcher\SKSE\Plugins\SkyPatcher\misc\ECE_septims_50.ini" destination="SKSE\Plugins\SkyPatcher\misc\" priority="10"/>
+							</files>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="1, 10, 20">
+							<description>Los septims de plata tendrán un valor de 10, y los septims de oro un valor de 20,10.
+
+
+
+Peso de las monedas: cobre = 0,01 | plata = 0,02 | oro = 0,03,10.
+
+
+
+Si estos valores no le convienen, puede modificarlos en SKSE\Plugins\SkyPatcher\misc\ECE_septims.ini</description>
+							<files>
+								<file source="02 settings skypatcher\SKSE\Plugins\SkyPatcher\misc\ECE_septims_20.ini" destination="SKSE\Plugins\SkyPatcher\misc\" priority="10"/>
+							</files>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+		<installStep name="Lingotes y cambios varios">
+			<visible>
+				<dependencies operator="Or">
+					<flagDependency flag="coin content" value="On"/>
+					<flagDependency flag="septims content" value="On"/>
+				</dependencies>
+			</visible>
+			<optionalFileGroups>
+				<group name="Nuevos lingotes" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="New ingots - Don&apos;t install if you have Immersive Jewelry">
+							<description>Ahora existen tres tipos de lingotes que se pueden encontrar y fundir:
+
+
+
+- Lingotes de vainilla
+
+
+
+- Barras: necesitas 10 barras para hacer un lingote. Se pueden usar para forjar joyas.
+
+
+
+- Onzas: necesitas 4 onzas para hacer una barra. Se pueden usar para forjar joyas.
+
+
+
+Esta opción incluye un parche si tienes &quot;anillos para la mano izquierda&quot;.</description>
+							<conditionFlags>
+								<flag name="ingots">On</flag>
+							</conditionFlags>
+							<files>
+								<file source="02 Ingots\without COIN\exchangeCurrency_ingots.esp" destination="" priority="2"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Immersive Jewelry.esp" state="Missing"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+				<group name="Cambios de peso y valores (No Requieren Traduccion)" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Increase values of all dwarven metals">
+							<description>Aumenta el valor de los objetos dwemer para que el saqueo en las mazmorras enanas sea más interesante. Todas las modificaciones se realizan con Skypatcher. Si deseas realizar cambios por tu cuenta, puedes editar el archivo .ini en SKSE/Plugins/SkyPatcher/Misc.
+
+Se requiere Skypatcher.
+
+Si tienes el &quot;Proyecto AHO&quot;, esta opción también incluye un parche que modifica el valor de los artefactos dwemer.
+
+No requiere traduccion asi que esto no aplicara ningun cambio al seleccionar.</description>
+							<conditionFlags>
+								<flag name="dwarven modifications">On</flag>
+							</conditionFlags>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Increase Ingots values and weight">
+							<description>Una función para que los lingotes sean un poco más realistas. El peso de las barras varía según la densidad del mineral. El valor es proporcional al peso. Todas las modificaciones se realizan con Skypatcher. Si deseas realizar cambios por tu cuenta, puedes editar el archivo .ini en SKSE/Plugins/SkyPatcher/Misc.
+
+
+
+Se requiere Skypatcher.
+
+
+
+
+
+No requiere traduccion asi que esto no aplicara ningun cambio al seleccionar.</description>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Leather and pelts">
+							<description>Las pieles son mucho más pesadas, pero producen más cuero. Además, obtendrás mejores precios al venderlas. Todas las modificaciones se realizan con Skypatcher. Si deseas realizar cambios por tu cuenta, puedes editar el archivo .ini en SKSE/Plugins/SkyPatcher/Misc.
+
+
+
+Se requiere Skypatcher.
+
+
+
+
+
+No requiere traduccion asi que esto no aplicara ningun cambio al seleccionar.</description>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Silver plates and other valuables">
+							<description>Los platos, copas y cuencos de plata son más valiosos. Lo mismo ocurre con las estatuas de Dibella y el ojo del Falmer.
+
+
+
+Se requiere Skypatcher.
+
+
+
+
+
+No requiere traduccion asi que esto no aplicara ningun cambio al seleccionar.</description>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+		<installStep name="Nueva moneda rebelde">
+			<visible>
+				<dependencies operator="Or">
+					<flagDependency flag="coin content" value="On"/>
+				</dependencies>
+			</visible>
+			<optionalFileGroups>
+				<group name="Una nueva moneda para Windhelm, Dawnstar y Winterhold." type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Ulfrics (disabled if you have Skyrim Silver)">
+							<description>Ahora, Windhelm, Dawnstar y Winterhold comercian con Ulfric. Esto se aplica a mercaderes, posaderos, instructores y reclutas. Se instalará automáticamente un parche para la expansión de la capital de Windhelm para añadir los Ulfric a las nuevas ubicaciones.
+
+
+
+Si utilizas «Skyrim Silver» de «M.I.N.T.», los parches se instalarán automáticamente según las opciones que hayas seleccionado previamente.</description>
+							<conditionFlags>
+								<flag name="ulf">On</flag>
+							</conditionFlags>
+							<files>
+								<file source="30 Ulfrics\exchangeCurrency_dial_ulfrics.esp" destination="" priority="30"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="WindhelmUsesUlfrics.esp" state="Active"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+		<installStep name="Dos nuevas monedas en Solstheim">
+			<visible>
+				<dependencies operator="Or">
+					<flagDependency flag="coin content" value="On"/>
+				</dependencies>
+			</visible>
+			<optionalFileGroups>
+				<group name="Moneda Dunmer y moneda Skaal (No Requiere traduccion)" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Drams and drakrs (disabled if you have Morrowind Mint)">
+							<description>Encontrarás drams en Ravenrock y sus alrededores (mercaderes, contenedores, entrenadores, PNJ). Encontrarás antiguos draks nórdicos en las mazmorras de draugr de Solstheim y en la zona de Skaal.
+
+
+
+Si utilizas «Morrowind Mint» de «M.I.N.T.», los parches se instalarán automáticamente según las opciones que hayas seleccionado anteriormente.
+
+
+
+No requiere traduccion asi que esto no aplicara ningun cambio al seleccionar.</description>
+							<conditionFlags>
+								<flag name="drams and drakrs">On</flag>
+							</conditionFlags>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="MorrowindUsesDrams.esp" state="Active"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="And">
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+		<installStep name="Nueva moneda en las fortalezas orcas: Oshka">
+			<visible>
+				<dependencies operator="Or">
+					<flagDependency flag="coin content" value="On"/>
+				</dependencies>
+			</visible>
+			<optionalFileGroups>
+				<group name="Oshkas" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Orcos usan Oshkas">
+							<description>Los mercaderes orcos usan oshkas para comerciar en las fortalezas orcas. Puedes fundirlas para obtener lingotes de oricalco.
+
+
+
+NO REQUIERE TRADUCCION</description>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+		<installStep name="Nueva moneda para BS Bruma">
+			<visible>
+				<dependencies operator="Or">
+					<flagDependency flag="coin content" value="On"/>
+				</dependencies>
+			</visible>
+			<optionalFileGroups>
+				<group name="Mede en Cyrodiil" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="El mede es la nueva moneda imperial.">
+							<description>Requiere &apos;Beyond Skyrim - Bruma&apos;.
+
+Encontrarás medes por todas partes más allá de las montañas de Jerall. Los mercaderes, posaderos y entrenadores solo aceptan medes en esta provincia.</description>
+							<files>
+								<file source="50 Medes Cyrodiil\exchangeCurrency_dial_medes.esp" destination="" priority="50"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="BSAssets.esm" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+		<installStep name="Los parches se comprobarán automáticamente si tienes los mods adecuados.">
+			<visible>
+				<dependencies operator="Or">
+					<flagDependency flag="coin content" value="On"/>
+					<flagDependency flag="septims content" value="On"/>
+				</dependencies>
+			</visible>
+			<optionalFileGroups>
+				<group name="Project AHO" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Drams in Project AHO">
+							<description>Requiere Project AHO.
+
+
+
+Este parche permite que los PNJ de &quot;Project AHO&quot; comercien con drams.
+
+
+
+
+
+No requiere traduccion asi que esto no aplicara ningun cambio al seleccionar.</description>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="Dwarfsphere.esp" state="Active"/>
+												<flagDependency flag="coin content" value="On"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+				<group name="Beyond Skyrim Bruma" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Crafting patch">
+							<description>Cambia el nombre del cobre en &apos;Beyond Skyrim Bruma&apos; a &apos;Pure Copper&apos; para distinguirlo del lingote de cobre en &apos;Exchange Currency Enhanced&apos;, y permite fundir malas (moneda ayleid) para convertirlas en malaquita.</description>
+							<files>
+								<file source="20 patches\Beyond Skyrim - Bruma\exchangeCurrency_patch_BS.esp" destination="" priority="20"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="BSAssets.esm" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+				<group name="RND - Realistic Needs" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Textures patch">
+							<description>Este parche hace que las nuevas texturas de skooma en ‘Exchange Currency Enhanced’ sean compatibles con ‘Realistic Needs’.</description>
+							<files>
+								<file source="20 patches\Realistic Needs and Diseases\exchangeCurrency_patch_RND.esp" destination="" priority="20"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="RealisticNeedsandDiseases.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+				<group name="Aetherium armor and weapons compilation" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Compatibility patch - A single version of the aetherium ingot and ore to avoid duplication">
+							<description>Requiere &quot;Aetherium armor and weapons compilation&quot; (Compilación de armaduras y armas de Aetherium)
+
+
+
+Exchange Currency Enhanced añade su propia versión de mineral de Aetherium y lingotes de Aetherium. Este parche reemplaza los ID de los lingotes y el mineral de Aetherium de &quot;Aetherium armour and weapon compilation&quot; por los de &quot;Exchange Currency&quot; para evitar recursos duplicados en el menú de creación.</description>
+							<files>
+								<file source="20 patches\Aetherium Armor and Weapons Compilation\exchangeCurrency_patch_aetheriumSwordsnArmor.esp" destination="" priority="20"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="AetheriumSwordsnArmorFixes.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+				<group name="Legends of Aetherium" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Compatibility patch - A single version of the aetherium ingot and ore to avoid duplication">
+							<description>Requiere «Legends of Aetherium»
+
+
+
+«Exchange Currency Enhanced» añade su propia versión de lingotes y menas de aetherium. Este parche reemplaza los ID de los lingotes y menas de aetherium de «Legends of Aetherium» por los de «Exchange Currency» para evitar duplicados en los menús de creación.</description>
+							<files>
+								<file source="20 patches\Legends of Aetherium\exchangeCurrency_patch_legendsOfAetherium.esp" destination="" priority="20"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="LegendsOfAetherium.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+	</installSteps>
+	<conditionalFileInstalls>
+		<patterns>
+			<pattern>
+				<dependencies operator="Or">
+					<flagDependency flag="coin content" value="On"/>
+					<flagDependency flag="septims content" value="On"/>
+				</dependencies>
+				<files>
+					<file source="00 Main\exchangeCurrency_enhanced_DESC.ini" destination="" priority="0"/>
+				</files>
+			</pattern>
+			<pattern>
+				<dependencies operator="Or">
+					<flagDependency flag="coin content" value="On"/>
+				</dependencies>
+			</pattern>
+			<pattern>
+				<dependencies operator="And">
+					<flagDependency flag="coin content" value="On"/>
+					<flagDependency flag="ingots" value="On"/>
+				</dependencies>
+				<files>
+					<file source="02 Ingots\with COIN\exchangeCurrency_ingots.esp" destination="" priority="3"/>
+				</files>
+			</pattern>
+			<pattern>
+				<dependencies operator="And">
+					<flagDependency flag="ingots" value="On"/>
+					<fileDependency file="LeftHandRings.esp" state="Active"/>
+				</dependencies>
+			</pattern>
+			<pattern>
+				<dependencies operator="And">
+					<flagDependency flag="dwarven modifications" value="On"/>
+					<fileDependency file="Dwarfsphere.esp" state="Active"/>
+				</dependencies>
+			</pattern>
+			<pattern>
+				<dependencies operator="And">
+					<flagDependency flag="ulf" value="On"/>
+					<fileDependency file="WindhelmSSE.esp" state="Active"/>
+				</dependencies>
+			</pattern>
+			<pattern>
+				<dependencies operator="And">
+					<fileDependency file="WindhelmUsesUlfrics.esp" state="Active"/>
+					<flagDependency flag="septims only" value="On"/>
+				</dependencies>
+				<files>
+					<folder source="20 patches\MINT\septims only\scripts" destination="scripts\" priority="50"/>
+				</files>
+			</pattern>
+			<pattern>
+				<dependencies operator="And">
+					<fileDependency file="MorrowindUsesDrams.esp" state="Active"/>
+					<flagDependency flag="septims only" value="On"/>
+				</dependencies>
+				<files>
+					<folder source="20 patches\MINT\septims only\scripts" destination="scripts\" priority="60"/>
+				</files>
+			</pattern>
+			<pattern>
+				<dependencies operator="And">
+					<flagDependency flag="coin content" value="On"/>
+					<flagDependency flag="septims content" value="On"/>
+					<fileDependency file="WindhelmUsesUlfrics.esp" state="Active"/>
+				</dependencies>
+				<files>
+					<file source="30 Ulfrics\exchangeCurrency_dial_ulfrics.esp" destination="" priority="50"/>
+				</files>
+			</pattern>
+			<pattern>
+				<dependencies operator="And">
+					<flagDependency flag="septims content" value="On"/>
+					<flagDependency flag="coin content" value="On"/>
+					<fileDependency file="MorrowindUsesDrams.esp" state="Active"/>
+				</dependencies>
+				<files>
+					<file source="20 patches\MINT\septims + regCurrencies\exchangeCurrency_patch_MINT_dram.esp" destination="" priority="60"/>
+				</files>
+			</pattern>
+			<pattern>
+				<dependencies operator="And">
+					<fileDependency file="DominionUsesSancar.esp" state="Active"/>
+				</dependencies>
+			</pattern>
+		</patterns>
+	</conditionalFileInstalls>
+</config>
