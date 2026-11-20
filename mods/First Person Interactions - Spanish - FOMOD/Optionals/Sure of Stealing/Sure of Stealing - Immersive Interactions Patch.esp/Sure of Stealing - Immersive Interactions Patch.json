@@ -1,0 +1,92 @@
+[
+  {
+    "editor_id": "AR_AnimPerk",
+    "form_id": "06000802|ImmersiveInteractions.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "AR_AnimPerk",
+    "string": "AR_AnimPerk",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AR_AnimPerk",
+    "form_id": "06000802|ImmersiveInteractions.esp",
+    "index": 0,
+    "type": "PERK EPFD",
+    "original": "Pet",
+    "string": "Acaricia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AR_AnimPerk",
+    "form_id": "06000802|ImmersiveInteractions.esp",
+    "index": 1,
+    "type": "PERK EPFD",
+    "original": "Pet",
+    "string": "Acaricia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AR_AnimPerk",
+    "form_id": "06000802|ImmersiveInteractions.esp",
+    "index": 2,
+    "type": "PERK EPFD",
+    "original": "Wave",
+    "string": "Saluda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AR_AnimPerk",
+    "form_id": "06000802|ImmersiveInteractions.esp",
+    "index": 3,
+    "type": "PERK EPFD",
+    "original": "Applaud",
+    "string": "Aplaude",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AR_AnimPerk",
+    "form_id": "06000802|ImmersiveInteractions.esp",
+    "index": 2,
+    "type": "PERK EPF2",
+    "original": "Loot",
+    "string": "Saquea",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FP_AnimPerk",
+    "form_id": "07000801|FirstPersonInteractions.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "FP_AnimPerk",
+    "string": "FP_AnimPerk",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FP_AnimPerk",
+    "form_id": "07000801|FirstPersonInteractions.esp",
+    "index": 0,
+    "type": "PERK EPFD",
+    "original": "Applaud",
+    "string": "Aplaude",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FP_AnimPerk",
+    "form_id": "07000801|FirstPersonInteractions.esp",
+    "index": 1,
+    "type": "PERK EPFD",
+    "original": "Pet",
+    "string": "Acaricia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FP_AnimPerk",
+    "form_id": "07000801|FirstPersonInteractions.esp",
+    "index": 2,
+    "type": "PERK EPFD",
+    "original": "Wave",
+    "string": "Saluda",
+    "status": "TranslationComplete"
+  }
+]

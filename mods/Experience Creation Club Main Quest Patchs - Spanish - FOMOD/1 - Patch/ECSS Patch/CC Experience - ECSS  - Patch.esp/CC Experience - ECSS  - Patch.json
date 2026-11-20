@@ -1,0 +1,110 @@
+[
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "01000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Balance of Power",
+    "string": "El equilibrio del poder",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestB",
+    "form_id": "01000913|ccBGSSSE025-AdvDSGS.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Restoring Order",
+    "string": "Restaurar el orden",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_MiscQuest_GSDSGearBook",
+    "form_id": "01000C4B|ccBGSSSE025-AdvDSGS.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Golden and Dark Smithing",
+    "string": "Forja de oro y oscuridad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_MiscQuest_AmberMadnessGear",
+    "form_id": "01000C4D|ccBGSSSE025-AdvDSGS.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Amber and Madness Smithing",
+    "string": "Forja de ámbar y locura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_MiscQuest_Nerveshatter",
+    "form_id": "010010BF|ccBGSSSE025-AdvDSGS.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Nerveshatter",
+    "string": "Quebrantavoluntades",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EC_SS_ElytraPetAcquisition_Dementia",
+    "form_id": "010010C0|ccBGSSSE025-AdvDSGS.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "My Pet Elytra (Dementia)",
+    "string": "Mi mascota elitra (Demencia)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EC_SS_ElytraPetAcquisition_Dementia",
+    "form_id": "010010C0|ccBGSSSE025-AdvDSGS.esm",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Free the Elytra Nymph",
+    "string": "Libera a la ninfa elitra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EC_SS_ElytraPetAcquisition_Mania",
+    "form_id": "010010C3|ccBGSSSE025-AdvDSGS.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "My Pet Elytra (Mania)",
+    "string": "Mi mascota elitra (Manía)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "EC_SS_ElytraPetAcquisition_Mania",
+    "form_id": "010010C3|ccBGSSSE025-AdvDSGS.esm",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Free the Elytra Nymph",
+    "string": "Libera a la ninfa elitra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_StaadaQuest",
+    "form_id": "01198277|ccBGSSSE025-AdvDSGS.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Staada Quest",
+    "string": "Misión de Staada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_WIKillSaintLeader",
+    "form_id": "0121BD5F|ccBGSSSE025-AdvDSGS.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Revenge, Hired Thugs",
+    "string": "Venganza, matones a sueldo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_WIKillSeducerLeader",
+    "form_id": "0121BD6D|ccBGSSSE025-AdvDSGS.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Revenge, Hired Thugs",
+    "string": "Venganza, matones a sueldo",
+    "status": "TranslationComplete"
+  }
+]

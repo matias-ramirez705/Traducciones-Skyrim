@@ -1,0 +1,38 @@
+[
+  {
+    "editor_id": "FP_ReduceStressEffect",
+    "form_id": "04000830|FirstPersonInteractions.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "ReduceStress",
+    "string": "ReduceStress",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FP_ReduceStressSpell",
+    "form_id": "0400082F|FirstPersonInteractions.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Reduce Stress Spell",
+    "string": "Hechizo Reducir Estres",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FP_AnimQuest",
+    "form_id": "04000800|FirstPersonInteractions.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "FP_AnimationQuest",
+    "string": "FP_AnimationQuest",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FP_AnimPerk",
+    "form_id": "04000801|FirstPersonInteractions.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "FP_AnimPerk",
+    "string": "FP_AnimPerk",
+    "status": "TranslationComplete"
+  }
+]

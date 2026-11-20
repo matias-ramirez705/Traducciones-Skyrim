@@ -1,0 +1,479 @@
+[
+  {
+    "editor_id": "HRI_Mortal_Effect_Beastblood_Regeneratemagickamoonwell",
+    "form_id": "05005900|growltweak.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Regenerate Magicka",
+    "string": "Regenerar magia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Effect_Beastblood_Regeneratemagickamoonwell",
+    "form_id": "05005900|growltweak.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Regenerate <mag>% of maximum Magicka per second",
+    "string": "Regenera <mag>% de la magia máxima por segundo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Effect_Beastblood_RegenerateHealth_Abmoonwell",
+    "form_id": "05005901|growltweak.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Regenerate Health",
+    "string": "Regenerar salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Effect_Beastblood_RegenerateHealth_Abmoonwell",
+    "form_id": "05005901|growltweak.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Regenerate <mag>% of maximum Health per second",
+    "string": "Regenera <mag>% de la salud máxima por segundo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Effect_Beastblood_RegenerateStamina_Abmoonwell",
+    "form_id": "05005902|growltweak.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Regenerate Stamina",
+    "string": "Regenerar aguante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Effect_Beastblood_RegenerateStamina_Abmoonwell",
+    "form_id": "05005902|growltweak.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Regenerate <mag>% of maximum Stamina per second",
+    "string": "Regenera <mag>% de la resistencia máxima por segundo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Effect_Beastblood_Resistmagic",
+    "form_id": "0500FB04|growltweak.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Resist Magic",
+    "string": "Resistir magia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Effect_Beastblood_Resistmagic",
+    "form_id": "0500FB04|growltweak.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your beastblood increase your resistance to magic by <mag>% in mortal form.",
+    "string": "Tu sangre de bestia aumenta tu resistencia a la magia en un <mag>% en forma mortal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AbWeaknessFireConstantbeast",
+    "form_id": "0500FB07|growltweak.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Weakness to Fire",
+    "string": "Debilidad al fuego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AbWeaknessFireConstantbeast",
+    "form_id": "0500FB07|growltweak.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your beast blood makes you <mag>% weaker to fire.",
+    "string": "Tu sangre de bestia te hace <mag>% más débil al fuego.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Effect_Beastblood_FortifySpeed_Abswipe",
+    "form_id": "05023F0C|growltweak.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Speed",
+    "string": "Fortalecer la velocidad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Effect_Beastblood_FortifySpeed_Abswipe",
+    "form_id": "05023F0C|growltweak.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Move <mag>% faster.",
+    "string": "Te mueves <mag>% más rápido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Spell_Beastblood_Drawbacks_Ab",
+    "form_id": "0404C7A7|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Beastblood",
+    "string": "Sangre de bestia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Spell_Beastblood_RegenerateHealthAndStamina_Ab_1",
+    "form_id": "040C0F46|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Lycanthropic Regeneration",
+    "string": "Regeneración licantrópica",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Spell_Beastblood_RegenerateHealthAndStamina_Ab_1",
+    "form_id": "040C0F46|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "The beastblood regenerates <0.5>% of your maximum Health and <1>% of your maximum Stamina per second.",
+    "string": "La sangre de bestia regenera el <0,5>% de tu salud máxima y el <1>% de tu resistencia máxima por segundo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Spell_Beastblood_RegenerateHealthAndStamina_Ab_2",
+    "form_id": "040C0F4F|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Lycanthropic Regeneration",
+    "string": "Regeneración licantrópica",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Spell_Beastblood_RegenerateHealthAndStamina_Ab_2",
+    "form_id": "040C0F4F|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "The beastblood regenerates <1>% of your maximum Health and <2>% of your maximum Stamina per second.",
+    "string": "La sangre de bestia regenera el <1>% de tu salud máxima y el <2>% de tu resistencia máxima por segundo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Growlbeastbloodmoonwell",
+    "form_id": "05005903|growltweak.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Moonwell",
+    "string": "Pozo de la Luna",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Growlbeastbloodmoonwell",
+    "form_id": "05005903|growltweak.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Outside at night, you regenerate <1>% of your maximum health, magicka and stamina in mortal form.",
+    "string": "Afuera por la noche, regeneras <1>% de tu salud, magia y resistencia máximas en forma mortal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRIperkmagicresistance",
+    "form_id": "0500FB05|growltweak.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Magic Resistance",
+    "string": "Resistencia mágica",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Spell_Beastblood_FortifySpeed_sprint",
+    "form_id": "05023F0A|growltweak.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Lycanthropic Haste",
+    "string": "Prisa licantrópica",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Spell_Beastblood_FortifySpeed_sprint",
+    "form_id": "05023F0A|growltweak.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Your beastblood grant you <15>% increased speed when sprinting.",
+    "string": "Tu sangre de bestia te otorga un <15>% más de velocidad al correr.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_1_Perk_AnimalVigor",
+    "form_id": "020059A5|Dawnguard.esm",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Animal Vigor",
+    "string": "Vigor animal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_1_Perk_AnimalVigor",
+    "form_id": "020059A5|Dawnguard.esm",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Additional 100 point bonus to Health and Stamina in beast form. In mortal form, you regenerate your attributes faster outside at night.",
+    "string": "Inflige un 100 % más de daño de ataque en forma de bestia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_0_Perk_BestialStrength_2",
+    "form_id": "02007A3F|Dawnguard.esm",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Bestial Strength",
+    "string": "Fuerza bestial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_0_Perk_BestialStrength_2",
+    "form_id": "02007A3F|Dawnguard.esm",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Deal 50% more attack damage in beast form. In mortal form, you inflict 20% more critical damages. ",
+    "string": "Inflige un 50 % más de daño de ataque en forma de bestia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_0_Perk_BestialStrength_3",
+    "form_id": "02011CFA|Dawnguard.esm",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Bestial Strength",
+    "string": "Fuerza bestial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_0_Perk_BestialStrength_3",
+    "form_id": "02011CFA|Dawnguard.esm",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Deal 75% more attack damage in beast form. In mortal form, you inflict 20% more critical damages, and you take 10% less damages from normal attacks. ",
+    "string": "Inflige un 75 % más de daño de ataque en forma de bestia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_0_Perk_BestialStrength_4",
+    "form_id": "02011CFB|Dawnguard.esm",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Bestial Strength",
+    "string": "Fuerza bestial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_0_Perk_BestialStrength_4",
+    "form_id": "02011CFB|Dawnguard.esm",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Deal 100% more attack damage in beast form.In mortal form, you inflict 30% more critical damages, take 15% less damages from normal attacks and you ignore 20% of humanoids enemies' armor.",
+    "string": "Inflige un 100 % más de daño de ataque en forma de bestia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Werewolf_Perk_NoFallDamage",
+    "form_id": "0403D487|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "No fall damage",
+    "string": "No hay daño por caida",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_2_Perk_ImprovedBloodthirst_1",
+    "form_id": "0403D489|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Improved Bloodthirst",
+    "string": "Sed de sangre mejorada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_2_Perk_ImprovedBloodthirst_1",
+    "form_id": "0403D489|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Beast form attacks do an additional 10 points of bleed damage, healing you for the same amount.In both beast and human form, you gain 10% magic resistance",
+    "string": "Los ataques en forma de bestia hacen 5 puntos adicionales de daño por sangrado, curándote por la misma cantidad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_3_Perk_Rampage",
+    "form_id": "0404769E|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Rampage",
+    "string": "Alboroto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_3_Perk_Rampage",
+    "form_id": "0404769E|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Beast form lasts 50% longer and feeding extends the duration 50% more. If you unlocked all three previous perks, you gain 15% increased damages against targets below half health, and 25% against targets below 25% health",
+    "string": "La forma de bestia dura un 50% más y la alimentación extiende la duración un 50% más.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_2_Perk_InfiniteDuress",
+    "form_id": "0405BACC|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Infinite Duress",
+    "string": "Coacción infinita",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_2_Perk_InfiniteDuress",
+    "form_id": "0405BACC|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Frenzy attacks (one-handed standing power attacks) in beast form stun targets for the duration. In mortal form, you mitigate 25% of incoming damages when staggered and take 10% less stagger",
+    "string": "Los ataques de frenesí (ataques de poder de pie con una mano) en forma de bestia aturden a los objetivos durante la duración.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_2_Perk_ImprovedBloodthirst_2",
+    "form_id": "0405BACD|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Improved Bloodthirst",
+    "string": "Sed de sangre mejorada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_2_Perk_ImprovedBloodthirst_2",
+    "form_id": "0405BACD|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Beast form attacks do an additional 20 points of bleed damage, healing you for the same amount. In both beast and human form, you gain 10% magic resistance and take 15% less damages and stagger from power attacks",
+    "string": "Los ataques en forma de bestia hacen 10 puntos adicionales de daño por sangrado, curándote por la misma cantidad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_3_Perk_Swipe",
+    "form_id": "0405BACE|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Swipe",
+    "string": "Golpe fuerte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_3_Perk_Swipe",
+    "form_id": "0405BACE|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Power attacks in beast form can hit multiple targets in front of you. When sprinting, you gain 15% increased movement speed.",
+    "string": "Los ataques de poder en forma de bestia pueden golpear múltiples objetivos frente a ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_2_Perk_Roadkill",
+    "form_id": "0405BACF|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Roadkill",
+    "string": "Atropellado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_2_Perk_Roadkill",
+    "form_id": "0405BACF|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Leap attacks (two-handed sprinting power attacks) in beast form do a critical strike equal to your Stamina and throw targets. You take no fall damage in mortal and Beast form.",
+    "string": "Los ataques de salto (ataques de poder de carrera a dos manos) en forma de bestia hacen un golpe crítico igual a tu resistencia y lanzan objetivos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_2_Perk_LycanthropicRegeneration_1",
+    "form_id": "04060BE3|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Lycanthropic Regeneration",
+    "string": "Regeneración licantrópica",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_2_Perk_LycanthropicRegeneration_1",
+    "form_id": "04060BE3|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Regenerate an additional 0.5% of your maximum Health and 1% of your maximum Stamina per second, both in and out of beast form.",
+    "string": "Regenera un 1% adicional de tu salud y resistencia máximas por segundo, tanto dentro como fuera de la forma de bestia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_1_Perk_BuryTheBeast",
+    "form_id": "04060BE5|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Bury the Beast",
+    "string": "Enterrar a la bestia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_1_Perk_BuryTheBeast",
+    "form_id": "04060BE5|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "No longer forced to transform at night. Your weakness to fire is mitigated by 25%.",
+    "string": "Ya no está obligado a transformarse por la noche.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_2_Perk_SupernaturalStrength",
+    "form_id": "04060BE7|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Supernatural Strength",
+    "string": "Fuerza Sobrenatural",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_2_Perk_SupernaturalStrength",
+    "form_id": "04060BE7|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Back hand attacks (two-handed standing power attacks) in beast form disarm targets. In mortal form, your power attacks inflict 15% more damages but cost 10% more stamina while your stamina is above 50%",
+    "string": "Ataques de revés (ataques de poder de dos manos) en forma de bestia desarmar objetivos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_2_Perk_LycanthropicRegeneration_2",
+    "form_id": "04060BE9|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Lycanthropic Regeneration",
+    "string": "Regeneración licantrópica",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_2_Perk_LycanthropicRegeneration_2",
+    "form_id": "04060BE9|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Regenerate an additional 2% of your maximum Stamina and 1% of your maximum health per second, both in and out of beast form.",
+    "string": "Regenera un 2% adicional de tu salud y resistencia máximas por segundo, tanto dentro como fuera de la forma de bestia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "hrimoonwellend",
+    "form_id": "05019D09|growltweak.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The soothing light of the moon fade away",
+    "string": "La relajante luz de la luna se desvanece",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_moonwellstart",
+    "form_id": "05019D08|growltweak.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The light of the moon and stars rejuvenate you.",
+    "string": "La luz de la luna y las estrellas te rejuvenecen.",
+    "status": "TranslationComplete"
+  }
+]

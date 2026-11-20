@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with XIMOD Architect 2.3.0 [https://www.nexusmods.com/site/mods/2141] -->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
+	<moduleName>Experience Creation Club Main Quest Patchs - Spanish</moduleName>
+	<installSteps order="Explicit">
+		<installStep name="Main">
+			<optionalFileGroups>
+				<group name="Main - Solo seleccione uno de los archivos principales" type="SelectExactlyOne">
+					<plugins order="Explicit">
+						<plugin name="CC Quest - Experience Patch - ENG">
+							<description>Requiere el archivo CC Quest - Experience Patch - ENG
+contiene solo Fishing and Saints y Seducers</description>
+							<files>
+								<folder source="0 - MAIN\CC Quest - Experience Patch - ENG\CCQuest - Experience Patch.esp" destination="SKSE\Plugins\DynamicStringDistributor\CCQuest - Experience Patch.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="CC Quest - Experience Patch AIO - ENG">
+							<description>Requiere el archivo CC Quest - Experience Patch AIO - ENG
+contiene Todo Creation Clubs content</description>
+							<files>
+								<folder source="0 - MAIN\CC Quest - Experience Patch AIO - ENG\CCQuest - Experience Patch.esp" destination="SKSE\Plugins\DynamicStringDistributor\CCQuest - Experience Patch.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+		<installStep name="Parches">
+			<optionalFileGroups>
+				<group name="Parches" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="ECSS Patch">
+							<description></description>
+							<files>
+								<folder source="1 - Patch\ECSS Patch\CC Experience - ECSS  - Patch.esp" destination="SKSE\Plugins\DynamicStringDistributor\CC Experience - ECSS  - Patch.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="CC Experience - ECSS  - Patch.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="CC Experience - ECSS  - Patch.esp" state="Inactive"/>
+												<fileDependency file="CC Experience - ECSS  - Patch.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="MorrowLoot Ultimate AE - Patch - ENG">
+							<description></description>
+							<files>
+								<folder source="1 - Patch\MorrowLoot Ultimate AE - Patch - ENG\CC Experience - MLU-AE patch.esp" destination="SKSE\Plugins\DynamicStringDistributor\CC Experience - MLU-AE patch.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="CC Experience - MLU-AE patch.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="CC Experience - MLU-AE patch.esp" state="Inactive"/>
+												<fileDependency file="CC Experience - MLU-AE patch.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Quest Requirements - Patch">
+							<description></description>
+							<files>
+								<folder source="1 - Patch\Quest Requirements - Patch\CCQE - RAEQ.esp" destination="SKSE\Plugins\DynamicStringDistributor\CCQE - RAEQ.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="CCQE - RAEQ.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="CCQE - RAEQ.esp" state="Inactive"/>
+												<fileDependency file="CCQE - RAEQ.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="USCCCP - Patch - ENG">
+							<description></description>
+							<files>
+								<folder source="1 - Patch\USCCCP - Patch - ENG\CC Experience - USCCCP patch.esp" destination="SKSE\Plugins\DynamicStringDistributor\CC Experience - USCCCP patch.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="CC Experience - USCCCP patch.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="CC Experience - USCCCP patch.esp" state="Inactive"/>
+												<fileDependency file="CC Experience - USCCCP patch.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+	</installSteps>
+</config>

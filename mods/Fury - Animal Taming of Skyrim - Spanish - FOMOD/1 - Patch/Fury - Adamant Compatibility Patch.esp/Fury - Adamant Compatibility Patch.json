@@ -1,0 +1,20 @@
+[
+  {
+    "editor_id": "AVSpeechcraft",
+    "form_id": "00000457|Skyrim.esm",
+    "index": 1,
+    "type": "AVIF FULL",
+    "original": "Speech",
+    "string": "Elocuencia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AVSpeechcraft",
+    "form_id": "00000457|Skyrim.esm",
+    "index": 1,
+    "type": "AVIF DESC",
+    "original": "Speech is the art of persuasion and bartering. Those who are skilled in Speech receive better prices from merchants and are more likely to convince others to do as they ask.",
+    "string": "Elocuencia es el arte de la persuasión y el trueque. Quienes dominan la Elocuencia obtienen mejores precios de los comerciantes y tienen más probabilidades de convencer a otros para que hagan lo que les piden.",
+    "status": "TranslationComplete"
+  }
+]

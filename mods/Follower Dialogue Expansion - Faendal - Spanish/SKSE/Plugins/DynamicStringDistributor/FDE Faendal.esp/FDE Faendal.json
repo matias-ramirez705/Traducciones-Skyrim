@@ -1,0 +1,2432 @@
+[
+  {
+    "editor_id": "null",
+    "form_id": "0500083E|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dragonborn, huh? So instead of shooting arrows at the dragons, you shout magic at them?",
+    "string": "Sangre de dragón, ¿eh? Entonces, en lugar de dispararles flechas, ¿les gritas magia?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083F|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I fail to see the meaning of this trial about some ancient Nord's horn. It's not like you can blow your shouts into it.",
+    "string": "No logro entender el sentido de este juicio sobre el cuerno de un antiguo nórdico. No es como si pudieras lanzar tus gritos en él.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000840|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "To think someone would go to such lengths to steal Windcaller's Horn... maybe all this does mean something after all.",
+    "string": "Pensar que alguien llegaría a tales extremos para robar el Cuerno del Invocador del Viento... tal vez todo esto signifique algo después de todo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000841|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Remind me to be nice to the innkeeps. You never know which of them turns out to be a secret dragon hunter.",
+    "string": "Recuérdame que sea amable con los posaderos. Nunca se sabe cuál de ellos resulta ser un cazador de dragones secreto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000842|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I thought I'd escaped the Thalmor for good, but it seems we're always bound to run into those crazy Altmer.",
+    "string": "Pensé que había escapado de los Thalmor para siempre, pero parece que siempre estamos destinados a toparnos con esos locos Altmer.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B2|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It might be hypocritical of me to say, but a Thalmor killed is a tree avenged in Valenwood.",
+    "string": "Quizás sea hipócrita por mi parte decirlo, pero un Thalmor asesinado es un árbol vengado en Bosque Valen.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000844|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hard to imagine Delphine has friends all the way in Riften.",
+    "string": "Es difícil imaginar que Delphine tenga amigos en Riften.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000845|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Such a shame that Delphine is leaving the inn to Orgnar. I might have to go all the way to Whiterun for a decent inn from now on.",
+    "string": "Es una pena que Delphine le deje la posada a Orgnar. A partir de ahora, tal vez tenga que ir hasta Carrera Blanca para encontrar una posada decente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000846|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why do we even need a shout to bring the dragons down? We have good old arrows right here.",
+    "string": "¿Por qué necesitamos siquiera un grito para derribar a los dragones? Aquí tenemos las buenas y antiguas flechas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000848|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I thought the dragons were a thing of legend. And now you're telling me there are even friendly dragons?",
+    "string": "Creía que los dragones eran cosa de leyenda. ¿Y ahora me dices que incluso hay dragones amigables?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084A|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If the Elder Scrolls do foretell everything, maybe it'll tell me when Camilla will answer my love.",
+    "string": "Si los Elder Scrolls predicen todo, tal vez me digan cuándo Camilla responderá a mi amor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084B|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All this trouble you went through to learn Dragon Rend, and Alduin still escaped. Should've just trusted my arrows.",
+    "string": "Pasaste por todos estos problemas para aprender Desgarro del dragón y Alduin logró escapar. Deberías haber confiado en mis flechas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084E|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If only Camilla were here to witness me... I mean us, capture and tame a dragon.",
+    "string": "Ojalá Camilla estuviera aquí para presenciarme... quiero decir, para presenciarnos, capturar y domesticar un dragón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084C|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I never thought I'd be in a council with the Empire's general. Think you can convince him to give me my taxes back?",
+    "string": "Nunca pensé que estaría en un consejo con el general del Imperio. ¿Crees que puedes convencerlo de que me devuelva mis impuestos?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000801|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Framing an innocent bystander, huh? Almost reminds me of that cursed trip in Bravil.",
+    "string": "¿Estás incriminando a un inocente transeúnte? Casi me recuerda a ese maldito viaje en Bravil.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000802|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I thought you were joining the Thieves Guild. Are you going to steal from those shopkeeps or something?",
+    "string": "Pensé que te unirías al gremio de ladrones. ¿Vas a robarles a esos comerciantes o algo así?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000803|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So much for the no killing policy. You're about to burn hundreds of bees in those bee hives, you know.",
+    "string": "Hasta ahí llegó la política de no matar abejas. Estás a punto de quemar cientos de abejas en esas colmenas, ¿sabes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000804|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good thing I'm not much of a drinker. After the Honningbrew job, I think I'm going to be sick whenever I see mead.",
+    "string": "Menos mal que no bebo mucho. Después del trabajo en la Destilería Amielada, creo que me voy a poner enfermo cada vez que vea hidromiel.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000805|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you sure that Argonian doesn't know we're following him? Maybe he does, and he just doesn't care.",
+    "string": "¿Estás seguro de que Argonian no sabe que lo estamos siguiendo? Tal vez sí lo sepa y simplemente no le importe.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000806|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Something stinks, and it's not the Ratway.",
+    "string": "Algo huele mal, y no es La Ratonera.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000807|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nothing's quite the same as robbing a crazy wizard's research.",
+    "string": "No hay nada igual que robar la investigación de un mago loco.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000808|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mercer Frey just left his plans in his house? Sounds like he wanted you to find them.",
+    "string": "¿Mercer Frey acaba de dejar sus planos en su casa? Parece que quería que los encontraras.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000809|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why do we even need Nocturnal's help anyway? Mercer Frey is just a thief. Arrows, daggers, even a fall can kill him.",
+    "string": "¿Por qué necesitamos la ayuda de Nocturnal? Mercer Frey es solo un ladrón. Las flechas, las dagas, incluso una caída pueden matarlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080A|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you can take the Skeleton Key for yourself, you should. Who cares about the other thieves? It's not like they're doing the divines' work.",
+    "string": "Si puedes tomar la llave maestra para ti, hazlo. ¿A quién le importan los otros ladrones? No es como si estuvieran haciendo el trabajo de los teólogos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080B|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Killing the Emperor seems like a drastic action to make a point.",
+    "string": "Matar al Emperador parece una acción drástica para demostrar algo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080C|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How many towns' taxes do you think went into this Vici's wedding?",
+    "string": "¿Cuántos impuestos municipales crees que se gastaron en la boda de este Vici?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080D|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Those Penitus something claim to protect the Emperor, yet they can't even protect themselves.",
+    "string": "Esos Penitus dicen proteger al Emperador, pero ni siquiera pueden protegerse a sí mismos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080E|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I could swear I've seen this Cicero in Cyrodiil before.",
+    "string": "Podría jurar que he visto a este Cicerón en Cyrodiil antes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500080F|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've never met an Orc who could cook anything edible, much less a literate Orc. And now you're telling me an Orc wrote a cook book!",
+    "string": "Nunca he conocido a un orco que pudiera cocinar algo comestible, y mucho menos a un orco alfabetizado. ¡Y ahora me estás diciendo que un orco escribió un libro de cocina!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000811|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Emperor of Tamriel - dead because the food tasted funny. Must be an amusing read for our descendants.",
+    "string": "Emperador de Tamriel: murió porque la comida tenía un sabor extraño. Debe ser una lectura divertida para nuestros descendientes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000812|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bloody guards. I wanted them to be more competent, but not when we are the criminals!",
+    "string": "Malditos guardias. Quería que fueran más competentes, ¡pero no cuando los criminales somos nosotros!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000813|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't have much love for the Emperor, but it's still hard to fathom he's soon to die because of us.",
+    "string": "No siento mucho cariño por el Emperador, pero aún así me resulta difícil imaginar que pronto morirá por nuestra culpa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000814|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wonder how the Emperor's heir plans to pay back his father's debts.",
+    "string": "Me pregunto cómo planea el heredero del Emperador pagar las deudas de su padre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000815|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What kind of warriors are these Companions if they're too important to run their own errands?",
+    "string": "¿Qué clase de guerreros son estos Compañeros si son demasiado importantes para hacer sus propios recados?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000816|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Nords have always been fixated on their axes. Much more so, their dead ancestors' axes.",
+    "string": "Los nórdicos siempre han tenido una obsesión con sus hachas. Y mucho más con las hachas de sus antepasados ​​muertos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000817|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My mother used to read me stories of the Wild Hunt. When you transformed into a werewolf... It was like I witnessed the tale myself.",
+    "string": "Mi madre solía leerme historias de la Cacería Salvaje. Cuando te transformabas en hombre lobo... era como si yo mismo hubiera presenciado el cuento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000818|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll be happy to put a few arrows into those Glenmoril Witches' eyes. The old Companion didn't say their eyes had to be intact, did he?",
+    "string": "Estaré encantado de clavarles unas cuantas flechas en los ojos a esas brujas de Glenmoril. El viejo Compañero no dijo que sus ojos tuvieran que estar intactos, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000819|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I thought Cyrodiil's guards were lousy enough, but Whiterun's guards just let some bandits barge into the city and pick fights with the Companions!",
+    "string": "Pensé que los guardias de Cyrodiil eran bastante pésimos, ¡pero los guardias de Carrera Blanca simplemente dejaron que algunos bandidos irrumpieran en la ciudad y se pelearan con los Compañeros!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081A|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I still can't see how an axe can open Ysgramor's Tomb. Do you plan to cleave the door open or something?",
+    "string": "Todavía no entiendo cómo un hacha puede abrir la Tumba de Ysgramor. ¿Piensas abrir la puerta con un hacha o algo así?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000853|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whatever the vampires are looking for, it's probably best left alone. After we stop them, that is.",
+    "string": "Sea lo que sea lo que estén buscando los vampiros, probablemente sea mejor dejarlo en paz. Después de que los detengamos, claro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000854|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How gallant of you to escort a girl home. Except the part where the girl is a vampire, and her home is an ancient haunted castle!",
+    "string": "Qué galante de tu parte acompañar a una chica a su casa. ¡Excepto en la parte en la que la chica es una vampiresa y su casa es un antiguo castillo embrujado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000855|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm going to be sick for weeks after we leave this castle...",
+    "string": "Estaré enfermo durante semanas después de que dejemos este castillo...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000856|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I thought the vampire castle was sickening enough. Clearly, I had no idea.",
+    "string": "Pensé que el castillo de los vampiros era bastante repugnante. Claramente, no tenía idea.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000857|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hard to believe the Falmer once had such a civilization. Makes one think whether our own civilization will suffer the same fate in the far future.",
+    "string": "Resulta difícil creer que los falmer tuvieran una civilización así. Hace pensar en si nuestra civilización correrá la misma suerte en un futuro lejano.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000858|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This Harkon has lived long enough. Time to give him the mortality he's long deserved.",
+    "string": "Este Harkon ha vivido lo suficiente. Es hora de darle la mortalidad que se merece desde hace mucho tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000859|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sounds like this Miraak is inviting you to an adventure. I say we answer him.",
+    "string": "Parece que este Miraak te está invitando a una aventura. Propongo que le respondamos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085A|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm going to put some arrows in Miraak's face when we meet him.",
+    "string": "Voy a poner algunas flechas en la cara de Miraak cuando lo encontremos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085B|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Skaal get themselves enthralled by Miraak all too easily.",
+    "string": "Los Skaal se dejan cautivar por Miraak con demasiada facilidad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085C|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A mad wizard helps us find a book that drives people mad, in a city built by a mad race! Are we mad too?",
+    "string": "¡Un mago loco nos ayuda a encontrar un libro que vuelve loca a la gente en una ciudad construida por una raza loca! ¿Nosotros también estamos locos?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085E|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wonder what Hermaeus Mora's bargain would've been if he had already known the Skaal's secrets.",
+    "string": "Me pregunto cuál habría sido el trato con Hermaeus Mora si ya hubiera conocido los secretos de los Skaal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085F|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You should go to Apocrypha and show Miraak who the real Dragonborn is.",
+    "string": "Deberías ir a Apocrypha y mostrarle a Miraak quién es el verdadero Sangre de dragón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000862|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Looks like a messy situation we've gotten ourselves into, this assassination plot. Just as always.",
+    "string": "Parece que nos hemos metido en una situación complicada con este plan de asesinato. Como siempre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000863|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If the ebony mine is re-opened after this, I can bet the East Empire Company will swoop back in and try to reclaim it.",
+    "string": "Si la mina de ébano se vuelve a abrir después de esto, puedo apostar que la East Empire Company volverá y tratará de recuperarla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000850|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I helped the Dragonborn stop Alduin. That's something to tell my children when I have them, no?",
+    "string": "Ayudé a los Sangre de dragón a detener a Alduin. Eso es algo que les contaré a mis hijos cuando los tenga, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085D|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Reading is a good habit, but I'm not sure if the same can be said for a tentacle monster's book.",
+    "string": "Leer es un buen hábito, pero no estoy seguro de si lo mismo puede decirse del libro de un monstruo con tentáculos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000800|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You went through so much trouble to stop Miraak, but there's scarcely anyone on Solstheim who even knows it.",
+    "string": "Pasaste por muchos problemas para detener a Miraak, pero casi no hay nadie en Solstheim que lo sepa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000861|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Bold of you to take Miraak from the tentacle monster. Let's hope you're also bold enough for his revenge.",
+    "string": "Qué valiente eres al arrebatarle a Miraak al monstruo de los tentáculos. Esperemos que también seas lo suficientemente valiente para vengarte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000860|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Now that the mine is reopened, Raven Rock seems more lively than before.",
+    "string": "Ahora que la mina ha vuelto a abrir, Roca del Cuervo parece más animada que antes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000869|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So many brutes gather at this place, each of them possessing a level of intelligence that far exceeds Sven's.",
+    "string": "En este lugar se reúnen muchos brutos, cada uno de ellos con un nivel de inteligencia que supera con creces al de Sven.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081B|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hard to imagine that not long ago, the Harbinger of Jorrvaskr was still running errands for his subordinates.",
+    "string": "Es difícil imaginar que no hace mucho tiempo, el Heraldo de Jorrvaskr todavía estaba haciendo recados para sus subordinados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B4|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hard to imagine that not long ago, the Harbinger of Jorrvaskr was still running errands for her subordinates.",
+    "string": "Es difícil imaginar que no hace mucho tiempo, el Heraldo de Jorrvaskr todavía estaba haciendo recados para sus subordinados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081C|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I never paid much thought to the Thalmor... until I realized they've probably done to Valenwood what they almost did in Winterhold.",
+    "string": "Nunca presté mucha atención a los Thalmor... hasta que me di cuenta de que probablemente le habían hecho a Bosque Valen lo que casi le hicieron en Hibernalia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081D|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Come to think of it, the course of history was changed all because of this crazy crone in the orphanage.",
+    "string": "Ahora que lo pienso, el curso de la historia cambió por culpa de esta vieja loca del orfanato.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081E|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's hope you prove to be a luckier Guild Master than Gallus. It's a treacherous line of business you're working in, my friend.",
+    "string": "Esperemos que tengas más suerte como maestro del gremio que Gallus. Te dedicas a un negocio peligroso, amigo mío.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000868|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I seldom traveled to Whiterun. Riverwood has got all I needed.",
+    "string": "Viajé poco a Carrera Blanca. En Cauce Boscoso encontré todo lo que necesitaba.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086A|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Whiterun is the center of Skyrim, and the city reflects that in many ways.",
+    "string": "Carrera Blanca es el centro de Skyrim y la ciudad lo refleja de muchas maneras.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DA|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Anoriath always competed with me on the tundra, stealing my game. Things turned ugly eventually.",
+    "string": "Anoriath siempre competía conmigo en la tundra y me robaba el juego. Al final, las cosas se pusieron feas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086B|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Camilla's brother would sometimes travel to Whiterun to negotiate deals. That's when I could get some alone time with her.",
+    "string": "El hermano de Camilla viajaba a veces a Carrera Blanca para negociar acuerdos. Era entonces cuando podía pasar un rato a solas con ella.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086D|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "For all its reputation, the Bards College produced a dimwit such as Sven.",
+    "string": "A pesar de su reputación, el Colegio de Bardos produjo un tonto como Sven.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086E|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I fail to see how a refined, cultured city such as Solitude could create a brash, indecent swine such as a certain bard.",
+    "string": "No logro comprender cómo una ciudad tan refinada y culta como Soledad pudo crear un cerdo descarado e indecente como cierto bardo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500086F|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Solitude is beautiful and all, but it's so far up the mountains, removed from the forests.",
+    "string": "La soledad es hermosa y todo eso, pero está muy arriba en las montañas, lejos de los bosques.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D7|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why don't we stop by the Fletcher? I'd love to browse their selection of hunter supplies.",
+    "string": "¿Por qué no pasamos por Fletcher? Me encantaría echar un vistazo a su selección de suministros para cazadores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000871|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can't stress how much I loathe this city. Its weather, its people... And its weather.",
+    "string": "No puedo expresar lo mucho que detesto esta ciudad. Su clima, su gente... Y su clima.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DB|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You sure showed that brash Nord a lesson of humility, though I doubt the likes of him are capable of learning.",
+    "string": "Seguro que le mostraste a ese impetuoso nórdico una lección de humildad, aunque dudo que alguien como él sea capaz de aprender.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000872|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You can scarcely find a Bosmer in this city. There are good reasons for that.",
+    "string": "En esta ciudad es difícil encontrar un Elfos del bosque. Y hay buenas razones para ello.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000873|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The best thing about Windhelm is its harbor, where I can sail away from this city.",
+    "string": "Lo mejor de Ventalia es su puerto, desde donde puedo navegar lejos de esta ciudad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000875|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This city somewhat reminds me of my time in Cyrodiil.",
+    "string": "Esta ciudad me recuerda un poco a mi estancia en Cyrodiil.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D8|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This city smells of rot, and it's not just from the sewers.",
+    "string": "Esta ciudad huele a podrido, y no sólo por las alcantarillas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000876|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Thieves Guild lurk in the shadows, waiting to pounce on their victims.",
+    "string": "El gremio de ladrones acecha en las sombras, esperando atacar a sus víctimas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000877|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Riften doesn't really have a bard, does it? I have a fine candidate for that vacancy.",
+    "string": "En realidad, Riften no tiene un bardo, ¿no? Tengo un buen candidato para esa vacante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087B|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why on sweet Nirn would anyone make home in a city of stone with barely any trees? Why, gods, why?",
+    "string": "¿Por qué, en la dulce Nirn, alguien querría vivir en una ciudad de piedra donde apenas hay árboles? ¿Por qué, dioses, por qué?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087C|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Dwemer should have destroyed this city before they died off. Markarth itself is an abomination.",
+    "string": "Los dwemer deberían haber destruido esta ciudad antes de morir. Markarth en sí es una abominación.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087D|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why don't we find a better place to be?",
+    "string": "¿por qué no buscamos un lugar mejor donde estar?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D9|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm just glad the Dwemer are extinct that they can't build more cities. One Markarth is one too many.",
+    "string": "Me alegro de que los dwemer se hayan extinguido y no puedan construir más ciudades. Un Markarth ya es demasiado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000884|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Riverwood has only been my home for a few years, yet I feel as if I can spend the rest of my life here.",
+    "string": "Cauce Boscoso sólo ha sido mi hogar durante unos pocos años, pero siento que puedo pasar el resto de mi vida aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000885|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "With High Hrothgar's importance and Ivarstead being its entrance, you'd think this town would get a lot busier.",
+    "string": "Teniendo en cuenta la importancia de Alto Hrothgar y con Ivarstead como entrada, uno pensaría que esta ciudad estaría mucho más concurrida.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000887|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This land may be exotic to you, but to be fair... it's equally exotic to me.",
+    "string": "Puede que esta tierra te parezca exótica, pero para ser justos... es igualmente exótica para mí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000888|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I don't think I've seen many Bosmer on Solstheim. Not hard to imagine why.",
+    "string": "No creo haber visto muchos Elfos del bosque en Solstheim. No es difícil imaginar por qué.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000889|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wonder if there's any meaning to the name \"Solstheim\". Hopefully not \"ash wasteland\".",
+    "string": "Me pregunto si el nombre \"Solstheim\" tiene algún significado. Ojalá no sea \"páramo de ceniza\".",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088A|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There doesn't seem to be a bard on Solstheim. Think we should recommend Sven to come here? As far removed from Riverwood as possible?",
+    "string": "No parece haber ningún bardo en Solstheim. ¿Crees que deberíamos recomendarle a Sven que venga aquí? ¿Lo más lejos posible de Cauce Boscoso?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088C|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's kind of hard to breathe in all this ash, though I suppose the locals are used to it.",
+    "string": "Es un poco difícil respirar entre tanta ceniza, aunque supongo que los lugareños están acostumbrados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088D|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Red Mountain is gorgeous when you don't remind yourself how deadly it is.",
+    "string": "La Montaña Roja es hermosa cuando no recuerdas lo mortal que es.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000890|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A crazy wizard in his mushroom tower... How oddly familiar.",
+    "string": "Un mago loco en su torre de hongos... Qué extrañamente familiar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088F|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I hope... I can bring Camilla here one day.",
+    "string": "Espero... poder traer a Camilla aquí algún día.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000892|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "These bandits are a blight to people like us.",
+    "string": "Estos bandidos son una plaga para gente como nosotros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000893|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I should put some arrows in those bandits' faces.",
+    "string": "Debería poner algunas flechas en las caras de esos bandidos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000894|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A bandit killed is a villager saved.",
+    "string": "Un bandido asesinado es un aldeano salvado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000896|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "These Forsworn have tempered with nature in a sickening way.",
+    "string": "Estos Renegados se han adaptado a la naturaleza de una manera enfermiza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000897|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "When a Bosmer feels repulsed by nature, you can tell something is wrong.",
+    "string": "Cuando un Elfos del bosque siente repulsión por la naturaleza, se nota que algo anda mal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000898|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Reach is a twisted land. I have to say it suits the Forsworn fine.",
+    "string": "El Dominio es una tierra retorcida. Debo decir que es ideal para los Renegados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089A|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Dwemer built their machines to last.",
+    "string": "Los dwemer construyeron sus máquinas para que duraran.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089B|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Dwemer dwelled in darkness and resented nature. No wonder they were a twisted people.",
+    "string": "Los dwemer vivían en la oscuridad y resentían a la naturaleza. No es de extrañar que fueran un pueblo perverso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089C|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have this little theory... that the Dwemer didn't just disappear, but got stuffed into their machines instead.",
+    "string": "Tengo esta pequeña teoría... que los Dwemer no simplemente desaparecieron, sino que fueron introducidos en sus máquinas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089E|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Falmer got themselves into this abominable fate.",
+    "string": "Los falmer se metieron en este abominable destino.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089F|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A Falmer's poison is the deadliest weapon they have.",
+    "string": "El veneno de un Falmer es el arma más letal que tienen.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A0|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Looking at the Falmer's twisted form, you can't even tell they were once elves.",
+    "string": "Mirando la forma retorcida de los Falmer, ni siquiera puedes decir que alguna vez fueron elfos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A2|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Draugr are vile enemies. Nothing my arrows can't fix though.",
+    "string": "Los Draugr son enemigos viles, pero nada que mis flechas no puedan solucionar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A3|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How long have these Draugr been dead for? A century? Ten? How come they still smell so bad?",
+    "string": "¿Cuánto tiempo llevan muertos estos Draugr? ¿Un siglo? ¿Diez? ¿Cómo es que todavía huelen tan mal?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A4|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Nords do take their deaths seriously, considering Skyrim is full of Draugr crypts like this.",
+    "string": "Los nórdicos se toman sus muertes en serio, considerando que Skyrim está lleno de criptas Draugr como esta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A6|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Should I aim at the mages' mouths or hands to disrupt their spells? Bah, who am I kidding. I should aim for their heads.",
+    "string": "¿Debería apuntar a la boca o a las manos de los magos para interrumpir sus hechizos? Bah, ¿a quién engaño? Debería apuntar a sus cabezas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A7|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The rogue mages play with powers they don't understand. Not that I do.",
+    "string": "Los magos rebeldes juegan con poderes que no comprenden. Yo no lo entiendo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B0|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "These bloodsuckers are any man's worst nightmare.",
+    "string": "Estos chupasangres son la peor pesadilla de cualquier hombre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B1|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I can't imagine being forced to live in the dark forever, denied the vibrance of our world.",
+    "string": "No puedo imaginarme estar obligado a vivir en la oscuridad para siempre, privado de la vitalidad de nuestro mundo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AB|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My arrows can bring down any dragon.",
+    "string": "Mis flechas pueden derribar a cualquier dragón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AC|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What these dragons hoard treasures they've absolutely no use for, I'll never understand.",
+    "string": "Nunca entenderé por qué estos dragones acumulan tesoros que no les sirven para nada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AE|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The giants embody one fact perfectly - even if you mind your own business, there will always be greedy people who come to mess with you.",
+    "string": "Los gigantes encarnan a la perfección un hecho: incluso si te ocupas de tus propios asuntos, siempre habrá gente codiciosa que vendrá a meterse contigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AF|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If I could choose, I'd rather hunt sabre cats and wolves than giants.",
+    "string": "Si pudiera elegir, preferiría cazar sables y lobos que gigantes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081F|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If only it'd rain when we don't have to go out.",
+    "string": "Ojalá lloviera cuando no tengamos que salir.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000820|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mind your steps. It's getting slippery.",
+    "string": "Cuidado por donde pisas, el camino se está poniendo resbaladizo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000821|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Beautiful weather today. I can feel a gentle breeze kissing my cheeks.",
+    "string": "Hoy hace un tiempo precioso. Puedo sentir una suave brisa besando mis mejillas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000822|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The sun gives a warm tint to the cold lands of Skyrim.",
+    "string": "El sol da un tono cálido a las frías tierras de Skyrim.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000823|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wonder if another bear will show up amidst the snow. I'm still savoring the kill in that blizzard.",
+    "string": "Me pregunto si aparecerá otro oso entre la nieve. Todavía estoy saboreando la matanza en esa ventisca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000824|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The best hunters use the snow as their shroud.",
+    "string": "Los mejores cazadores utilizan la nieve como sudario.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000825|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The sky seems quiet tonight.",
+    "string": "El cielo parece tranquilo esta noche.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000826|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The northern nights are a spectacle to behold.",
+    "string": "Las noches del norte son un espectáculo para contemplar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000827|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The north's aurora is a beauty unmatched by all of Tamriel.",
+    "string": "La aurora del norte es de una belleza incomparable con toda Tamriel.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000828|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The aurora is looking mesmerizing tonight.",
+    "string": "La aurora luce fascinante esta noche.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aazEXITTopic",
+    "form_id": "0500082C|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let's talk about something else.",
+    "string": "Hablemos de otra cosa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalBG0",
+    "form_id": "0500082F|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me more about yourself, Faendal.",
+    "string": "Cuéntame más sobre ti, Faendal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000830|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sure, my friend.",
+    "string": "Claro, amigo mío.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalBG1",
+    "form_id": "05000831|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Have you always been living in Riverwood?",
+    "string": "¿Siempre has vivido en Cauce Boscoso?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000832|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Wouldn't anyone like to stay in Riverwood forever?",
+    "string": "¿A alguien no le gustaría quedarse en Cauce Boscoso para siempre?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000832|FDE Faendal.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But no. Come to recount my past homes... Riverwood is actually my third.",
+    "string": "Pero no. Si vamos a contarles mis hogares anteriores... Cauce Boscoso es en realidad mi tercero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalBG1a",
+    "form_id": "05000833|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You've lived in other places before?",
+    "string": "¿has vivido en otros lugares antes?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000834|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yeah. I spent a good deal of my childhood in my ancestral homeland Valenwood, but my family moved to Skingrad eventually.",
+    "string": "Sí. Pasé gran parte de mi infancia en mi tierra ancestral, Bosque Valen, pero mi familia finalmente se mudó a Skingrad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000834|FDE Faendal.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The Thalmor weren't exactly benevolent rulers, you see.",
+    "string": "Los Thalmor no eran exactamente gobernantes benévolos, ¿ves?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000834|FDE Faendal.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "Not that the Emperor was a saint, but at least he didn't confiscate the wealth of anyone he disliked. At least back when we moved.",
+    "string": "No es que el Emperador fuera un santo, pero al menos no confiscaba la riqueza de nadie que no le agradaba. Al menos cuando nos mudamos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalBG1ai",
+    "form_id": "05000835|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you have much memory of Valenwood?",
+    "string": "¿Tienes muchos recuerdos de Bosque Valen?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000836|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I remember the trees, a few faces... But much of my childhood memory was muddy. Like anyone's childhood was, I guess.",
+    "string": "Recuerdo los árboles, algunas caras... Pero gran parte de mi memoria de la infancia era borrosa. Como lo era la infancia de cualquiera, supongo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000836|FDE Faendal.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The last memory I had of Valenwood was the Thalmor clearing entire forests to build fortresses and roads, while we were on our way to Skingrad.",
+    "string": "El último recuerdo que tengo de Bosque Valen es el de los Thalmor talando bosques enteros para construir fortalezas y caminos, mientras íbamos de camino a Skingrad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000836|FDE Faendal.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "It was a beautiful place before I left. Although I'm not sure if I can ever return to the home I remembered.",
+    "string": "Era un lugar hermoso antes de irme, aunque no estoy segura de si algún día podré regresar a la casa que recordaba.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalBG1aii",
+    "form_id": "05000837|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why Skingrad?",
+    "string": "¿Por qué Skingrad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000838|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, it was the closest place to Valenwood that wasn't owned by the Thalmor.",
+    "string": "Bueno, era el lugar más cercano a Bosque Valen que no era propiedad de los Thalmor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000838|FDE Faendal.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "As a matter of fact, many of my people moved to Skingrad after the Thalmor takeover. I guess my parents thought it'd be just like home.",
+    "string": "De hecho, muchos de mis compatriotas se mudaron a Skingrad después de la conquista de Thalmor. Supongo que mis padres pensaron que sería como estar en casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalBG1aiii",
+    "form_id": "05000839|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It seems you dislike the Thalmor.",
+    "string": "Parece que no te gustan los Thalmor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083A|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My thoughts are with putting food on my table, not arguing higher politics.",
+    "string": "Mis pensamientos están en poner comida en mi mesa, no en discutir sobre política superior.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083A|FDE Faendal.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "As far as I'm concerned, they're far away in the south, and I'm basking in the beauty of the north.",
+    "string": "En lo que a mí respecta, ellos están muy lejos, en el sur, y yo estoy disfrutando de la belleza del norte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalBG1aiv",
+    "form_id": "0500083B|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why did you move to Skyrim then?",
+    "string": "¿Por qué entonces te mudaste a Skyrim?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083C|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It might almost seem ridiculous to you... but it's just a matter of money.",
+    "string": "Quizá te parezca casi ridículo... pero es sólo una cuestión de dinero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083C|FDE Faendal.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "After the Great War, there began outrageous taxes in Cyrodiil. Heard it's because the Emperor owes the nobles three generations' debts.",
+    "string": "Después de la Gran Guerra, comenzaron a cobrarse impuestos exorbitantes en Cyrodiil. Se dice que es porque el Emperador debe a los nobles deudas de tres generaciones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083C|FDE Faendal.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "So I left for Skyrim. Was planning to go for a big city similar to Skingrad... Better work and all, you know.",
+    "string": "Así que me fui a Skyrim. Tenía pensado ir a una ciudad grande similar a Skingrad... Mejor trabajo y todo eso, ya sabes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083C|FDE Faendal.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "But when I passed through Riverwood, I was immediately reminded of Valenwood. Of home and its beauty.",
+    "string": "Pero cuando pasé por Cauce Boscoso, inmediatamente me acordé de Bosque Valen, de mi hogar y de su belleza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500083C|FDE Faendal.esp",
+    "index": 5,
+    "type": "INFO NAM1",
+    "original": "It's where I wanted to stay... for good, this time.",
+    "string": "Es donde quería quedarme... para siempre, esta vez.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalBG2",
+    "form_id": "0500083D|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Why did you become a lumber?",
+    "string": "¿por qué te hiciste maderero?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000843|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Ironic for a Bosmer to cut trees for a living, right?",
+    "string": "Resulta irónico que un Elfos del bosque tale árboles para ganarse la vida, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000843|FDE Faendal.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The truth is... I wanted to stay in Riverwood, and the mill was the only place that had a job for me.",
+    "string": "La verdad es que quería quedarme en Cauce Boscoso y la fábrica era el único lugar que tenía trabajo para mí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000843|FDE Faendal.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I'm not too averse to the notion of cutting trees. It's not like I grew up with the Spinners or believe in Y'ffre or whatnot.",
+    "string": "No me opongo demasiado a la idea de talar árboles. No es que haya crecido con los Spinners ni crea en Y'ffre ni nada de eso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalCamilla0",
+    "form_id": "05000849|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "How did your infatuation with Camilla begin?",
+    "string": "¿Cómo empezó tu fascinación por Camilla?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084D|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You might not believe it, but my feelings for her go way back to my time in Skingrad.",
+    "string": "Puede que no lo creas, pero mis sentimientos por ella se remontan a mi época en Skingrad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084D|FDE Faendal.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Her house was a street away from mine. Every time I woke up, I'd look outside the window, and see her feeding the stray cats.",
+    "string": "Su casa estaba a una calle de la mía. Cada vez que me despertaba, miraba por la ventana y la veía alimentando a los gatos callejeros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084D|FDE Faendal.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I never mustered enough courage to talk to her.",
+    "string": "Nunca reuní el suficiente coraje para hablar con ella.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084D|FDE Faendal.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "I mean, we talked of course. About weather and things.",
+    "string": "Quiero decir, hablamos, por supuesto. Sobre el clima y esas cosas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalCamilla1",
+    "form_id": "0500084F|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Did your parents approve of you seeing her?",
+    "string": "¿tus padres aprobaron que la vieras?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000852|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "They had passed away by then. But if they were there, I have faith they would've loved Camilla.",
+    "string": "Ya habían fallecido, pero si hubieran estado allí, tengo fe en que habrían amado a Camilla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000852|FDE Faendal.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "They've always wanted me to find a Bosmer girl. But there's a... How do I put it? Exotic, yet gentle beauty in human girls that's absent in elves.",
+    "string": "Siempre han querido que encuentre una chica Elfos del bosque. Pero hay una... ¿Cómo decirlo? Una belleza exótica y a la vez delicada en las chicas humanas que está ausente en las elfas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalCamilla1a",
+    "form_id": "05000864|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You find human girls exotic?",
+    "string": "¿encuentras exóticas a las chicas humanas?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000865|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Similar to how a human might find an elf exotic, I'd presume.",
+    "string": "Supongo que es similar a cómo un humano podría encontrar exótico a un elfo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000865|FDE Faendal.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "It's not the reason for the feelings I've developed for Camilla, of course.",
+    "string": "No es esa la razón de los sentimientos que he desarrollado por Camilla, por supuesto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalCamilla2",
+    "form_id": "05000866|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Didn't you miss Camilla when you left Skingrad?",
+    "string": "¿No extrañaste a Camilla cuando dejaste Skingrad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000867|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I liked her, and I wanted to be with her... But I also wanted a better life, and that life couldn't be found in Cyrodiil after the war.",
+    "string": "Ella me gustaba y quería estar con ella... Pero también quería una vida mejor, y esa vida no la podía encontrar en Cyrodiil después de la guerra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000867|FDE Faendal.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "So I made a choice. Uneasy, but not entirely regrettable.",
+    "string": "Así que tomé una decisión. Incómoda, pero no del todo lamentable.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalCamilla3",
+    "form_id": "0500086C|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No doubt you were happy to see her again in Riverwood.",
+    "string": "Sin duda te alegraste de volver a verla en Cauce Boscoso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000870|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Anyone would be happy to see a woman like Camilla.",
+    "string": "Cualquiera estaría feliz de ver a una mujer como Camilla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000870|FDE Faendal.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "But yes. When I saw her again in Riverwood, I could scarcely believe my eyes...",
+    "string": "Pero sí. Cuando la volví a ver en Cauce Boscoso, no podía creer lo que veía...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000870|FDE Faendal.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "I thought I'd never see her again. But it seemed as if the gods had given me another chance to be with the woman I loved again.",
+    "string": "Creí que nunca volvería a verla, pero parecía como si los dioses me hubieran dado otra oportunidad de estar con la mujer que amaba otra vez.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalCamilla3a",
+    "form_id": "05000874|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you know why she left Skingrad?",
+    "string": "¿Sabes por qué dejó Skingrad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000878|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Her brother owned a lucrative business back there. Fat cattle for the Emperor, no?",
+    "string": "Su hermano tenía un negocio lucrativo allí. Ganado gordo para el Emperador, ¿no?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000878|FDE Faendal.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I guess they've just had enough of making money for the Empire instead of themselves.",
+    "string": "Supongo que ya están hartos de ganar dinero para el Imperio en lugar de para ellos mismos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalSven0",
+    "form_id": "0500087A|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What do you think of Sven?",
+    "string": "¿Qué opinas de Sven?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087E|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That bard thinks he can woo Camilla away with a few half-decent poems. I've seen drunken men blabber with more sense than his \"poetry\".",
+    "string": "Ese bardo cree que puede conquistar a Camilla con unos cuantos poemas medio decentes. He visto a hombres borrachos parlotear con más sentido que su \"poesía\".",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087E|FDE Faendal.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The fool is a full-grown man, but still lives with his mother with no better thing to do than to loiter at the inn.",
+    "string": "El tonto es un hombre adulto, pero aún vive con su madre y no tiene nada mejor que hacer que holgazanear en la posada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087E|FDE Faendal.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "That speaks volumes for the kind of man he'll be for whoever is unfortunate enough to be his bride.",
+    "string": "Eso dice mucho del tipo de hombre que será para quien tenga la mala suerte de ser su novia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalSven1",
+    "form_id": "0500087F|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You only hate him because he also liked Camilla.",
+    "string": "Sólo lo odias porque a él también le gustaba Camilla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000880|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Oh no. He's been a thorn in my eyes since the first day.",
+    "string": "Oh no. Ha sido una espina en mis ojos desde el primer día.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000880|FDE Faendal.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The first day I came to Riverwood, I just wanted to get some sleeps in the inn.",
+    "string": "El primer día que llegué a Cauce Boscoso, solo quería dormir un rato en la posada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000880|FDE Faendal.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "But the idiot brought in his loudest drums and created the most hideous symphony to ever hex my ears!",
+    "string": "¡pero el idiota trajo sus tambores más ruidosos y creó la sinfonía más espantosa que jamás haya hechizado mis oídos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalSven2",
+    "form_id": "05000881|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I agree. Sven is insufferable.",
+    "string": "Estoy de acuerdo. Sven es insoportable.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000882|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How he managed to graduate from the Bards College, I'll never understand.",
+    "string": "Cómo logró graduarse en el Colegio de bardos es algo que nunca entenderé.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000882|FDE Faendal.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Either Skyrim's education is as lousy as Cyrodiil's guards, or he had some shady deals with the professors, I'd reckon.",
+    "string": "Supongo que o bien la educación de Skyrim es tan pésima como la de los guardias de Cyrodiil, o bien tuvo algunos tratos turbios con los profesores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088E|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I trusted you as a friend, I gave you my loyalty - and this is how you repay me? By stealing the woman I've loved for years?",
+    "string": "Confié en ti como amigo, te di mi lealtad, ¿y así es como me lo pagas? ¿Robándome a la mujer que he amado durante años?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088E|FDE Faendal.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "The thought of killing you crossed my mind... But that'll just break Camilla's heart.",
+    "string": "La idea de matarte cruzó por mi mente... Pero eso solo romperá el corazón de Camilla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500088E|FDE Faendal.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "So let this be the end of our partnership. I don't owe you a thing anymore.",
+    "string": "Así que que este sea el final de nuestra relación. Ya no te debo nada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalCamillaMarry1",
+    "form_id": "05000891|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You'd abandon our friendship just for a woman?",
+    "string": "¿abandonarías nuestra amistad sólo por una mujer?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000895|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You did that yourself, you liar.",
+    "string": "Eso lo hiciste tú mismo, mentiroso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalCamillaMarry2",
+    "form_id": "05000899|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I love her... but your friendship is also important to me, Faendal.",
+    "string": "La amo... pero tu amistad también es importante para mí, Faendal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500089D|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If it truly was, then you would never have made Camilla fall for you.",
+    "string": "Si realmente lo fuera, entonces nunca habrías hecho que Camilla se enamorara de ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalCamillaMarry3",
+    "form_id": "050008A1|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You've had years to pursue her, but you didn't. It's not my fault she moved on.",
+    "string": "Has tenido años para perseguirla, pero no lo hiciste. No es mi culpa que ella haya seguido adelante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A5|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know what truly sickens me?",
+    "string": "¿sabes qué es lo que realmente me enferma?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A5|FDE Faendal.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "...It's that you actually have a point.",
+    "string": "...Es que realmente tienes razón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A5|FDE Faendal.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "But I can't. I can't treat you as a friend anymore, knowing I'll see you with Camilla day and night...",
+    "string": "Pero no puedo. Ya no puedo tratarte como amiga, sabiendo que te veré con Camilla día y noche...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A5|FDE Faendal.esp",
+    "index": 4,
+    "type": "INFO NAM1",
+    "original": "This... has to be goodbye for us.",
+    "string": "Esto... tiene que ser una despedida para nosotros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalCamillaMarry4",
+    "form_id": "050008A8|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Camilla is not an object. She is free to choose who to love and marry.",
+    "string": "Camilla no es un objeto. Es libre de elegir a quién amar y con quién casarse.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008A9|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The gall you had by saying that. You led her on!",
+    "string": "¡Qué descaro tuviste al decir eso! ¡La engañaste!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008AD|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It's goodbye for us.",
+    "string": "Es un adiós para nosotros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalCamillaPreMarry0",
+    "form_id": "050008B6|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Can we talk about Camilla?",
+    "string": "¿Podemos hablar de Camilla?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalCamillaPreMarry1",
+    "form_id": "050008B8|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I think you should tell Camilla how you feel about her.",
+    "string": "Creo que deberías decirle a Camilla lo que sientes por ella.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B9|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're right. We won't get anywhere if all we chat about is the weather.",
+    "string": "Tienes razón. No llegaremos a ninguna parte si solo hablamos del tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B9|FDE Faendal.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I'm not much of a poet, but I bet I can conjure up finer words than that braggard Sven. Maybe I'll write her a love letter the next time we stop.",
+    "string": "No soy muy poeta, pero apuesto a que puedo encontrar palabras más bonitas que ese fanfarrón de Sven. Quizá le escriba una carta de amor la próxima vez que pasemos por allí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008B9|FDE Faendal.esp",
+    "index": 3,
+    "type": "INFO NAM1",
+    "original": "If this works out, I'm naming our first child after you!",
+    "string": "¡Si esto funciona, nombraré a nuestro primer hijo en tu honor!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaGoodbye",
+    "form_id": "050008BA|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "aaGoodbye",
+    "string": "aaadiós",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C2|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Talk to you soon, my friend.",
+    "string": "Hablamos pronto, amigo mío.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BB|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's bathe in the beauty of our world.",
+    "string": "Bañémonos en la belleza de nuestro mundo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BD|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's do this.",
+    "string": "Vamos a hacer esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BE|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I sense a good adventure ahead.",
+    "string": "Siento que me espera una buena aventura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalCamillaPreMarry2",
+    "form_id": "050008BC|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I want to pursue Camilla, and as a friend, I would like your blessing.",
+    "string": "Quiero seguir a Camilla, y como amiga, me gustaría tu bendición.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008BF|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You know how I feel about her! How could you do this to me? ",
+    "string": "¡Ya sabes lo que siento por ella! ¿Cómo pudiste hacerme esto?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalCamillaPreMarry2a",
+    "form_id": "050008C0|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You deserve someone who loves you back the same. Camilla doesn't.",
+    "string": "Mereces a alguien que te ame de la misma manera. Camilla no.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C1|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You can't know that!",
+    "string": "¡no puedes saberlo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalCamillaPreMarry2b",
+    "form_id": "050008C3|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The right person for you is out there, but it's not Camilla.",
+    "string": "La persona adecuada para ti está ahí fuera, pero no es Camilla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C4|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Even if you're right... Seeing you every day, knowing you're going home to Camilla's embrace... It would be too much for me to bear.",
+    "string": "Incluso si tienes razón... Verte todos los días, saber que vas a casa, al abrazo de Camilla... Sería demasiado para mí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalCamillaPreMarry2ai",
+    "form_id": "050008C5|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "You may be my friend, but she is my true love. I have to marry her.",
+    "string": "Puede que seas mi amigo, pero ella es mi verdadero amor. Tengo que casarme con ella.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C6|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "We've had a good partnership. Shame it didn't last.",
+    "string": "Hemos tenido una buena relación. Es una pena que no haya durado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaFaendalCamillaPreMarry2aii",
+    "form_id": "050008C7|FDE Faendal.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "If Camilla is that important to you, then I won't press on this further.",
+    "string": "Si Camilla es tan importante para ti, entonces no insistiré más en esto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008C8|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Thank you for understanding. I hope that one day, you can find your true love too.",
+    "string": "Gracias por tu comprensión. Espero que algún día puedas encontrar tu verdadero amor también.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CC|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Damn Spriggan is avenging all the trees I've cut!",
+    "string": "¡Maldito Spriggan está vengando todos los árboles que he cortado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CD|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This ain't the first time I cut wood, Spriggan!",
+    "string": "¡Esta no es la primera vez que corto madera, Spriggan!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CE|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Lighting yourself on fire won't save you from being cut!",
+    "string": "¡prendarte fuego no te salvará de cortarte!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008CF|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Damnable Forsworn! The Reach is a twisted land because of you!",
+    "string": "¡Malditos Renegados! ¡El Dominio es una tierra retorcida por tu culpa!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D0|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Die, Forsworn! The Reach will be a cleaner place without you!",
+    "string": "¡Muere, Renegado! ¡El Dominio será un lugar más limpio sin ti!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D1|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How does it feel being bested by a woodcutter?",
+    "string": "¿qué se siente al ser vencido por un leñador?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D2|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Fall, dragon! Your wings will be full of holes when I'm done!",
+    "string": "¡Cae, dragón! ¡Tus alas estarán llenas de agujeros cuando termine!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D3|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your pelts will fetch for a good price!",
+    "string": "¡tus pieles se venderán a buen precio!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D4|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am the hunter here, you beast!",
+    "string": "¡yo soy el cazador aquí, bestia!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D5|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Observe the master hunter in action!",
+    "string": "¡observa al maestro cazador en acción!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008D6|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Die, Sven! Die!",
+    "string": "¡Muere, Sven! ¡Muere!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008EE|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You'd think getting the Orcs' trust would be harder than getting some random gauntlets.",
+    "string": "Uno pensaría que ganarse la confianza de los orcos sería más difícil que conseguir algunos guanteletes al azar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008EF|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This Potema was a dangerous necromancer, but no one thought to exorcise her remains. Sounds to me they were just waiting for her to return.",
+    "string": "Esta Potema era una nigromante peligrosa, pero a nadie se le ocurrió exorcizar sus restos. Me parece que simplemente estaban esperando a que regresara.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F0|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "With how ominous this town is, it's no wonder Morthal attracts all sorts of dark sorcery and evil plots.",
+    "string": "Con lo siniestra que es esta ciudad, no es de extrañar que Morthal atraiga todo tipo de hechicerías oscuras y complots malvados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F1|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Daedra of light can't even shine upon her temple without your help, huh?",
+    "string": "Los Daedra de la luz ni siquiera pueden brillar sobre su templo sin tu ayuda, ¿eh?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F2|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Three parts of a dagger scattered all over Skyrim. Sounds like a whole lot of running around.",
+    "string": "Tres partes de una daga esparcidas por todo Skyrim. Parece que hubo mucho tráfico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F3|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Look at you. You walked into a haunted house so gullibly, and now you're bound to the Lord of Brutality himself.",
+    "string": "Mírate. Entraste en una casa embrujada con mucha ingenuidad y ahora estás atado al mismísimo Señor de la Brutalidad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F4|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why would you want to help the Prince of Diseases? You longing for a cough or something?",
+    "string": "¿Por qué querrías ayudar al Príncipe de las Enfermedades? ¿Anhelas tener tos o algo así?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F5|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Some of my ancestors proudly practiced cannibalism. How can anyone be proud of something so disgusting?",
+    "string": "Algunos de mis antepasados ​​practicaban con orgullo el canibalismo. ¿Cómo puede alguien enorgullecerse de algo tan repugnante?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F6|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sounds like this Hircine will guide us to a great hunt. Wonder if I'll impress him somewhat.",
+    "string": "Parece que este Hircine nos guiará hacia una gran cacería. Me pregunto si lo impresionaré de alguna manera.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F7|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The Forsworn hail Red Eagle as a hero, but looks to me he's just a Draugr buried in a Nord crypt. Who can say he wasn't actually a Nord?",
+    "string": "Los Renegados consideran a Águila Roja un héroe, pero a mí me parece que no es más que un Draugr enterrado en una cripta nórdica. ¿Quién puede decir que en realidad no era un nórdico?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F8|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll be glad to cut down a few Spriggans here just to spite those creatures.",
+    "string": "Estaré encantado de cortar algunos Spriggans aquí sólo para fastidiar a esas criaturas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008F9|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sounds like a waste of time, gathering something that grows all over the place.",
+    "string": "Parece una pérdida de tiempo recolectar algo que crece por todas partes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FA|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "See, what happened with that Sam fellow is precisely why I never drink with strangers.",
+    "string": "Mira, lo que pasó con ese tal Sam es precisamente la razón por la que nunca bebo con extraños.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FB|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You got yourself into this mess with Sam for a staff. This had better be a good staff, not another junk to be sold for a few hundred gold.",
+    "string": "Te metiste en este lío con Sam por un bastón. Más vale que sea un buen bastón, no otra chatarra que se pueda vender por unos cientos de monedas de oro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FC|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You might think that night with Sam was a something to remember, but if I were you, I'd wipe it off my memory if I could.",
+    "string": "Podrías pensar que esa noche con Sam fue algo para recordar, pero si yo fuera tú, la borraría de mi memoria si pudiera.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FD|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Helping repair Whiterun's tree ought to be repentence enough for a woodcutter.",
+    "string": "Ayudar a reparar el árbol de Carrera Blanca debería ser arrepentimiento suficiente para un leñador.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FE|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That bard Mikael thinks he can woo whoever he wants. Goddamn bards and their unshackled lust...",
+    "string": "Ese bardo Mikael cree que puede cortejar a quien quiera. Malditos bardos y su lujuria desenfrenada...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008FF|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Who's really the villain in Markarth? The Silver-Blood or the Forsworn? Possibly both.",
+    "string": "¿Quién es realmente el villano en Markarth? ¿El Sangre Plateada o el Renegado? Posiblemente ambos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000900|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What's with all this investigation anyway? I say we just put a few arrows into those Silver-Bloods' faces.",
+    "string": "¿A qué viene toda esta investigación? Yo digo que les metamos unas cuantas flechas en la cara a esos Sangre Plateada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000901|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Once we return the Golden Claw to Camilla's brother, maybe she will finally see me for the hero that I want her to see me as.",
+    "string": "Una vez que devolvamos la Garra Dorada al hermano de Camilla, tal vez ella finalmente me verá como el héroe que quiero que me vea.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DD|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm happy enough to sit by the fire and thaw my fingers a little.",
+    "string": "Me siento feliz sentándome junto al fuego y descongelando un poco mis dedos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E5|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Feeling a bit weary. Maybe we can rest up here a bit?",
+    "string": "Me siento un poco cansado. ¿Quizás podamos descansar un poco aquí arriba?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DC|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'd love to try the food here. Been a while since I had a good meal.",
+    "string": "Me encantaría probar la comida de aquí. Ha pasado mucho tiempo desde que comí algo bueno.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E4|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wonder what kinds of spice this inn uses on its chicken.",
+    "string": "Me pregunto qué tipo de especias utiliza esta posada en su pollo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E9|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey, I've ordered something for you. Let's not leave with an empty belly!",
+    "string": "Oye, te he pedido algo. ¡No nos vayamos con el estómago vacío!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DE|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why don't we just sit and enjoy the bard's performance? I'd say we've earned it.",
+    "string": "¿Por qué no nos sentamos y disfrutamos de la actuación del bardo? Yo diría que nos lo hemos ganado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E8|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "After the long journey, a song from the bard does help ease my nerves.",
+    "string": "Después de un largo viaje, una canción del bardo me ayuda a calmar los nervios.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E0|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You look like you can use a drink. Here's one on me!",
+    "string": "Parece que necesitas una bebida. ¡Aquí tienes una, por mi cuenta!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008DF|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why don't we grab some ale? Wine will work nicely too.",
+    "string": "¿Por qué no tomamos una cerveza? El vino también funcionaría bien.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E2|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Why don't we grab some ale or wine? Just no mead, please. Not after that Honningbrew job.",
+    "string": "¿Por qué no tomamos una cerveza o un vino? Pero nada de hidromiel, por favor. No después de ese trabajo en la Destilería Amielada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E6|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Cyrodiil's inn patrons liked to mingle with strangers. Makes me appreciate Skyrim's inns all the more.",
+    "string": "A los clientes de las posadas de Cyrodiil les gustaba relacionarse con extraños, lo que me hace apreciar aún más las posadas de Skyrim.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008E7|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Sitting by the fire and enjoying the food... It's a simple joy.",
+    "string": "Sentarse junto al fuego y disfrutar de la comida... Es una alegría sencilla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008EB|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Would really love a hot soup. It's freezing out there.",
+    "string": "Me encantaría tomar una sopa caliente. Hace mucho frío ahí fuera.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008EC|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wonder how is the beef stew here?",
+    "string": "¿me pregunto cómo estará el guiso de carne aquí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "050008ED|FDE Faendal.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Nothing's quite like a good meal with a good friend surrounded by a good atmosphere.",
+    "string": "No hay nada como una buena comida con un buen amigo rodeado de un buen ambiente.",
+    "status": "TranslationComplete"
+  }
+]

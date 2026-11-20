@@ -1,0 +1,1100 @@
+[
+  {
+    "editor_id": "PotentialSkillTree",
+    "form_id": "01000805|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Gate of Awakening",
+    "string": "Puerta del Despertar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PotentialSkillTree",
+    "form_id": "01000805|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Awaken your hidden potential through this ancient tome of forgotten mastery.",
+    "string": "Despierta tu potencial oculto a través de este antiguo tomo de maestría olvidada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Alteration",
+    "form_id": "01000816|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Enhancing Alteration",
+    "string": "Mejorar Alteración",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Alteration",
+    "form_id": "01000816|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Alteration spells and effects last <mag>% longer.",
+    "string": "Los hechizos y efectos de Alteración duran un <mag>% más.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Illusion",
+    "form_id": "01000817|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Enhancing Illusion",
+    "string": "Mejorar Ilusión",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Illusion",
+    "form_id": "01000817|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Illusion spells and effects are <mag>% stronger.",
+    "string": "Los hechizos y efectos de Ilusión son un <mag>% más fuertes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Conjuration",
+    "form_id": "01000818|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Enhancing Conjuration",
+    "string": "Mejorar Conjuración",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Conjuration",
+    "form_id": "01000818|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Conjuration spells and effects last <mag>% longer.",
+    "string": "Los hechizos y efectos de Conjuración duran un <mag>% más.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Destruction",
+    "form_id": "01000819|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Enhancing Destruction",
+    "string": "Mejorar Destrucción",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Destruction",
+    "form_id": "01000819|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Destruction spells and effects are <mag>% stronger.",
+    "string": "Los hechizos y efectos de Destrucción son un <mag>% más fuertes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Restoration",
+    "form_id": "0100081A|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Enhancing Restoration",
+    "string": "Mejorar Restauración",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Restoration",
+    "form_id": "0100081A|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Restoration spells and effects are <mag>% stronger.",
+    "string": "Los hechizos y efectos de Restauración son un <mag>% más fuertes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyHealth",
+    "form_id": "0100083B|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Health",
+    "string": "Reforzar salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyHealth",
+    "form_id": "0100083B|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Increases Health by <mag> points.",
+    "string": "Aumenta la Salud en <mag> puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyStamina",
+    "form_id": "0100083C|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Stamina",
+    "string": "Reforzar aguante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyStamina",
+    "form_id": "0100083C|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Increases Stamina by <mag> points.",
+    "string": "Aumenta la Resistencia en <mag> puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyMagicka",
+    "form_id": "0100083D|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Magicka",
+    "string": "Reforzar magia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyMagicka",
+    "form_id": "0100083D|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Increases Magicka by <mag> points.",
+    "string": "Aumenta la Magia en <mag> puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyArmorRating",
+    "form_id": "0100083E|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Armor Rating",
+    "string": "Reforzar índice de armadura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyArmorRating",
+    "form_id": "0100083E|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Increases Armor rating by <mag> points.",
+    "string": "Aumenta la Armadura en <mag> puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_ResistMagic",
+    "form_id": "0100083F|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Resist Magic",
+    "string": "Resistir magia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_ResistMagic",
+    "form_id": "0100083F|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Grants <mag>% resistance to all magic.",
+    "string": "Otorga un <mag>% de resistencia a toda la magia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_ResistPoison",
+    "form_id": "01000840|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Resist Poison",
+    "string": "Resistencia al veneno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_ResistPoison",
+    "form_id": "01000840|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Grants <mag>% resistance to poison.",
+    "string": "Otorga un <mag>% de resistencia al veneno.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Up_ResistDisease",
+    "form_id": "01000841|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Resist Disease",
+    "string": "Resistencia a la enfermedad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Up_ResistDisease",
+    "form_id": "01000841|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Grants <mag>% resistance to disease.",
+    "string": "Otorga un <mag>% de resistencia a las enfermedades.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyAlteration",
+    "form_id": "01000842|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Alteration",
+    "string": "Reforzar alteración",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyAlteration",
+    "form_id": "01000842|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Alteration spells and enchantments cost <mag>% less.",
+    "string": "Los hechizos y encantamientos de Alteración cuestan un <mag>% menos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyConjuration",
+    "form_id": "01000843|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Conjuration",
+    "string": "Reforzar conjuración",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyConjuration",
+    "form_id": "01000843|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Conjuration spells and enchantments cost <mag>% less.",
+    "string": "Los hechizos y encantamientos de Conjuración cuestan un <mag>% menos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyDestruction",
+    "form_id": "01000844|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Destruction",
+    "string": "Reforzar destrucción",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyDestruction",
+    "form_id": "01000844|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Destruction spells and enchantments cost <mag>% less.",
+    "string": "Los hechizos y encantamientos de Destrucción cuestan un <mag>% menos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyIllusion",
+    "form_id": "01000845|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Illusion",
+    "string": "Reforzar ilusión",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyIllusion",
+    "form_id": "01000845|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Illusion spells and enchantments cost <mag>% less.",
+    "string": "Los hechizos y encantamientos de Ilusión cuestan un <mag>% menos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyRestoration",
+    "form_id": "01000846|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Restoration",
+    "string": "Reforzar restauración",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyRestoration",
+    "form_id": "01000846|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Restoration spells and enchantments cost <mag>% less.",
+    "string": "Los hechizos y encantamientos de Restauración cuestan un <mag>% menos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyCarry",
+    "form_id": "01000847|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Carry",
+    "string": "Fortalecer carga",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyCarry",
+    "form_id": "01000847|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Carrying capacity increased by <mag> points.",
+    "string": "La capacidad de carga aumenta en <mag> puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Up_FortifyLockpicking",
+    "form_id": "01000848|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Lockpicking",
+    "string": "Reforzar abrir cerraduras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Up_FortifyLockpicking",
+    "form_id": "01000848|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Lockpicking is <mag>% easier.",
+    "string": "Forzar cerraduras es un <mag>% más fácil.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyArchery",
+    "form_id": "01000849|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Archery",
+    "string": "Reforzar arquería",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyArchery",
+    "form_id": "01000849|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Bows do <mag>% more damage.",
+    "string": "Los arcos hacen un <mag>% más de daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyOneHanded",
+    "form_id": "0100084A|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify OneHanded",
+    "string": "Reforzar a una mano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyOneHanded",
+    "form_id": "0100084A|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "One-handed attacks do <mag>% more damage.",
+    "string": "Los ataques con una mano hacen un <mag>% más de daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyPickpocket",
+    "form_id": "0100084B|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Pickpocket",
+    "string": "Reforzar robo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyPickpocket",
+    "form_id": "0100084B|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Pickpocket chances are <mag>% higher.",
+    "string": "Las probabilidades de robar al bolsillo son un <mag>% mayores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifySneak",
+    "form_id": "0100084C|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Sneak",
+    "string": "Reforzar discreción",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifySneak",
+    "form_id": "0100084C|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are <mag>% harder to detect while sneaking.",
+    "string": "Eres un <mag>% más difícil de detectar al moverte en sigilo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifySpeechcraft",
+    "form_id": "0100084D|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Speechcraft",
+    "string": "Reforzar elocuencia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyTwoHanded",
+    "form_id": "0100084E|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify TwoHanded",
+    "string": "Reforzar a dos manos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyTwoHanded",
+    "form_id": "0100084E|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Two-handed attacks do <mag>% more damage.",
+    "string": "Los ataques a dos manos hacen un <mag>% más de daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyStaminaRate",
+    "form_id": "0100084F|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify StaminaRate",
+    "string": "Reforzar índice de aguante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyStaminaRate",
+    "form_id": "0100084F|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Stamina regenerates <mag>% faster.",
+    "string": "La resistencia se regenera un <mag>% más rápido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyShoutTimer",
+    "form_id": "01000852|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify ShoutTimer",
+    "string": "Fortalecer Temporizador de Grito",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_FortifyShoutTimer",
+    "form_id": "01000852|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Time between shouts is reduced by <mag>%.",
+    "string": "El tiempo entre gritos se reduce un <mag>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Waterbreathing",
+    "form_id": "01000853|The_potential.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Waterbreathing",
+    "string": "Respiración acuática",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "UP_Waterbreathing",
+    "form_id": "01000853|The_potential.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Can swim underwater without drowning.",
+    "string": "Puedes nadar bajo el agua sin ahogarte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PotentialSkillTreeSpell",
+    "form_id": "01000804|The_potential.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Call of Potential",
+    "string": "Llamado del Potencial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_HMS_UP_1",
+    "form_id": "01000809|The_potential.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Wellspring of Vitalis",
+    "string": "Manantial de Vitalis",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_HMS_UP_1",
+    "form_id": "01000809|The_potential.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Unleashes inner vitality, increasing Health, Magicka, and Stamina.",
+    "string": "Desata la vitalidad interior, aumentando Salud, Magia y Aguante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_ACMR_UP_1",
+    "form_id": "0100080F|The_potential.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Aegis of the Unseen",
+    "string": "Égida del Invisible",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_ACMR_UP_1",
+    "form_id": "0100080F|The_potential.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Strengthens your hidden defenses, enhancing armor and magic resistance.",
+    "string": "Fortalece tus defensas ocultas, mejorando armadura y resistencia mágica.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_DPR_UP_1",
+    "form_id": "01000810|The_potential.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Essence of Purity",
+    "string": "Esencia de Pureza",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_DPR_UP_1",
+    "form_id": "01000810|The_potential.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Awakens resilience against corruption, boosting poison and disease resistance.",
+    "string": "Despierta la resiliencia contra la corrupción, aumentando resistencia a venenos y enfermedades.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_MAGE_UP_1",
+    "form_id": "01000815|The_potential.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Arcane Awakening",
+    "string": "Despertar Arcano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_MAGE_UP_1",
+    "form_id": "01000815|The_potential.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Draws from latent magical power, reducing spell cost and increasing potency.",
+    "string": "Extrae poder mágico latente, reduciendo el costo de los hechizos y aumentando su potencia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_WARRIOR_UP_1",
+    "form_id": "0100081F|The_potential.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Bloodforged Might",
+    "string": "Fuerza Forjada en Sangre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_WARRIOR_UP_1",
+    "form_id": "0100081F|The_potential.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Taps into battle-born strength, increasing weapon damage and stamina flow.",
+    "string": "Aprovecha la fuerza nacida en batalla, aumentando el daño de armas y el flujo de aguante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_THIEF_UP_1",
+    "form_id": "01000824|The_potential.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Veil of Shadows",
+    "string": "Velo de Sombras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_THIEF_UP_1",
+    "form_id": "01000824|The_potential.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Harnesses the art of deception, enhancing sneak and cunning skills.",
+    "string": "Domina el arte del engaño, mejorando habilidades de sigilo y astucia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_DRAGON_UP_100",
+    "form_id": "01000826|The_potential.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Voice of the Ancients",
+    "string": "Voz de los Antiguos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_DRAGON_UP_100",
+    "form_id": "01000826|The_potential.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Channels ancient dragonborn power, removing cooldowns on shouts.",
+    "string": "Canaliza el poder antiguo del Dovahkiin, eliminando tiempos de reutilización de los gritos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_WB_UP_00",
+    "form_id": "01000828|The_potential.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Deepborn Resilience",
+    "string": "Resiliencia Nacida en las Profundidades",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AB_WB_UP_00",
+    "form_id": "01000828|The_potential.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Calls on aquatic instincts, increasing underwater breathing and carry weight.",
+    "string": "Invoca instintos acuáticos, aumentando la respiración bajo el agua y la capacidad de carga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PotentialSkillTreeTome",
+    "form_id": "01000806|The_potential.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Tome of Hidden Potential",
+    "string": "Tomo del Potencial Oculto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "PotentialSkillTreeTome",
+    "form_id": "01000806|The_potential.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>Awaken your hidden potential through this ancient tome of forgotten mastery.",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>Despierta tu potencial oculto a través de este antiguo tomo de maestría olvidada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyMageSkillPerk01",
+    "form_id": "01000800|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Arcane Awakening",
+    "string": "Despertar Arcano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyMageSkillPerk01",
+    "form_id": "01000800|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each Perk invested, the Magicka cost of all spells by 25% and increases their effectiveness by 75%, across all schools of magic.",
+    "string": "Por cada talento invertido, el costo de Magia de todos los hechizos aumenta un 25% y su efectividad incrementa un 75%, en todas las escuelas de magia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyMageSkillPerk02",
+    "form_id": "01000801|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Arcane Awakening",
+    "string": "Despertar Arcano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyMageSkillPerk02",
+    "form_id": "01000801|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each Perk invested, the Magicka cost of all spells by 25% and increases their effectiveness by 75%, across all schools of magic.",
+    "string": "Por cada talento invertido, el costo de Magia de todos los hechizos aumenta un 25% y su efectividad incrementa un 75%, en todas las escuelas de magia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyMageSkillPerk03",
+    "form_id": "01000807|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Arcane Awakening",
+    "string": "Despertar Arcano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyMageSkillPerk03",
+    "form_id": "01000807|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each Perk invested, the Magicka cost of all spells by 25% and increases their effectiveness by 75%, across all schools of magic.",
+    "string": "Por cada talento invertido, el costo de Magia de todos los hechizos aumenta un 25% y su efectividad incrementa un 75%, en todas las escuelas de magia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk01",
+    "form_id": "01000808|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Inner Wellspring",
+    "string": "Manantial Interior ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk01",
+    "form_id": "01000808|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each perk invested, Gain 100 Health, Magicka, Stamina.",
+    "string": "Por cada talento invertido, ganas 100 de Salud, Magia y Aguante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk02",
+    "form_id": "0100080A|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Inner Wellspring",
+    "string": "Manantial Interior ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk02",
+    "form_id": "0100080A|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each perk invested, Gain 100 Health, Magicka, Stamina.",
+    "string": "Por cada talento invertido, ganas 100 de Salud, Magia y Aguante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk03",
+    "form_id": "0100080B|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Inner Wellspring",
+    "string": "Manantial Interior ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk03",
+    "form_id": "0100080B|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each perk invested, Gain 100 Health, Magicka, Stamina.",
+    "string": "Por cada talento invertido, ganas 100 de Salud, Magia y Aguante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk04",
+    "form_id": "0100080C|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Awakened Aegis",
+    "string": "Égida Despierta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk04",
+    "form_id": "0100080C|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each perk invested, you gain 150 Armor and 20% Magic Resistance.",
+    "string": "Por cada talento invertido, ganas 150 de Armadura y 20% de Resistencia Mágica.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk05",
+    "form_id": "0100080D|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Awakened Aegis",
+    "string": "Égida Despierta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk05",
+    "form_id": "0100080D|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each perk invested, you gain 150 Armor and 20% Magic Resistance.",
+    "string": "Por cada talento invertido, ganas 150 de Armadura y 20% de Resistencia Mágica.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk06",
+    "form_id": "0100080E|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Awakened Aegis",
+    "string": "Égida Despierta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk06",
+    "form_id": "0100080E|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each perk invested, you gain 150 Armor and 20% Magic Resistance.",
+    "string": "Por cada talento invertido, ganas 150 de Armadura y 20% de Resistencia Mágica.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk07",
+    "form_id": "01000811|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Purified Essence",
+    "string": "Esencia Purificada ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk07",
+    "form_id": "01000811|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each Perk invested, you gain 40% increased resistance to poisons and diseases.",
+    "string": "Por cada talento invertido, ganas 40% de resistencia aumentada a venenos y enfermedades.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk08",
+    "form_id": "01000812|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Purified Essence",
+    "string": "Esencia Purificada ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk08",
+    "form_id": "01000812|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each Perk invested, you gain 40% increased resistance to poisons and diseases.",
+    "string": "Por cada talento invertido, ganas 40% de resistencia aumentada a venenos y enfermedades.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk09",
+    "form_id": "01000813|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Purified Essence",
+    "string": "Esencia Purificada ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk09",
+    "form_id": "01000813|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each Perk invested, you gain 40% increased resistance to poisons and diseases.",
+    "string": "Por cada talento invertido, ganas 40% de resistencia aumentada a venenos y enfermedades.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyMageSkillPerk04",
+    "form_id": "01000814|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Arcane Awakening",
+    "string": "Despertar Arcano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyMageSkillPerk04",
+    "form_id": "01000814|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each Perk invested, the Magicka cost of all spells by 25% and increases their effectiveness by 75%, across all schools of magic.",
+    "string": "Por cada talento invertido, el costo de Magia de todos los hechizos aumenta un 25% y su efectividad incrementa un 75%, en todas las escuelas de magia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyWarriorSkillPerk01",
+    "form_id": "0100081B|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Bloodforged Might",
+    "string": "Fuerza Forjada en Sangre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyWarriorSkillPerk01",
+    "form_id": "0100081B|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each Perk invested, your weapons deal 50% more damage, regenerate Stamina 100% faster.",
+    "string": "Por cada talento invertido, tus armas infligen 50% más daño, y regeneran aguante un 100% más rápido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyWarriorSkillPerk02",
+    "form_id": "0100081C|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Bloodforged Might",
+    "string": "Fuerza Forjada en Sangre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyWarriorSkillPerk02",
+    "form_id": "0100081C|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each Perk invested, your weapons deal 50% more damage, regenerate Stamina 100% faster.",
+    "string": "Por cada talento invertido, tus armas infligen 50% más daño, y regeneran aguante un 100% más rápido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyWarriorSkillPerk03",
+    "form_id": "0100081D|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Bloodforged Might",
+    "string": "Fuerza Forjada en Sangre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyWarriorSkillPerk03",
+    "form_id": "0100081D|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each Perk invested, your weapons deal 50% more damage, regenerate Stamina 100% faster.",
+    "string": "Por cada talento invertido, tus armas infligen 50% más daño, y regeneran aguante un 100% más rápido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyWarriorSkillPerk04",
+    "form_id": "0100081E|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Bloodforged Might",
+    "string": "Fuerza Forjada en Sangre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyWarriorSkillPerk04",
+    "form_id": "0100081E|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each Perk invested, your weapons deal 50% more damage, regenerate Stamina 100% faster.",
+    "string": "Por cada talento invertido, tus armas infligen 50% más daño, y regeneran aguante un 100% más rápido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyThiefSkillPerk01",
+    "form_id": "01000820|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Veil of Shadows",
+    "string": "Velo de Sombras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyThiefSkillPerk01",
+    "form_id": "01000820|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each Perk you invest in, you gain a 100% increase to Sneak, Speech, Pickpocketing, and Lockpicking.",
+    "string": "Por cada talento invertido, ganas un aumento del 100% en Sigilo, Discurso, Robo y Cerrajería.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyThiefSkillPerk02",
+    "form_id": "01000821|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Veil of Shadows",
+    "string": "Velo de Sombras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyThiefSkillPerk02",
+    "form_id": "01000821|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each Perk you invest in, you gain a 100% increase to Sneak, Speech, Pickpocketing, and Lockpicking.",
+    "string": "Por cada talento invertido, ganas un aumento del 100% en Sigilo, Discurso, Robo y Cerrajería.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyThiefSkillPerk03",
+    "form_id": "01000822|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Veil of Shadows",
+    "string": "Velo de Sombras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyThiefSkillPerk03",
+    "form_id": "01000822|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each Perk you invest in, you gain a 100% increase to Sneak, Speech, Pickpocketing, and Lockpicking.",
+    "string": "Por cada talento invertido, ganas un aumento del 100% en Sigilo, Discurso, Robo y Cerrajería.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyThiefSkillPerk04",
+    "form_id": "01000823|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Veil of Shadows",
+    "string": "Velo de Sombras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyThiefSkillPerk04",
+    "form_id": "01000823|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "For each Perk you invest in, you gain a 100% increase to Sneak, Speech, Pickpocketing, and Lockpicking.",
+    "string": "Por cada talento invertido, ganas un aumento del 100% en Sigilo, Discurso, Robo y Cerrajería.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyDragonSkillPerk",
+    "form_id": "01000825|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Voice of the Ancients",
+    "string": "Voz de los Antiguos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MyDragonSkillPerk",
+    "form_id": "01000825|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Reduces the cooldown of Shout by 100%",
+    "string": "Reduce el tiempo de reutilización del Grito en un 100%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk10",
+    "form_id": "01000829|The_potential.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Deepborn Resilience",
+    "string": "Resiliencia Nacida en las Profundidades",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MySkillPerk10",
+    "form_id": "01000829|The_potential.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "You can breathe underwater and increase your carryweight.",
+    "string": "Puedes respirar bajo el agua y aumentas tu capacidad de carga.",
+    "status": "TranslationComplete"
+  }
+]

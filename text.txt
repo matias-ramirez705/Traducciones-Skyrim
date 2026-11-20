@@ -1,0 +1,7 @@
+[center][size=6]Puedes encontrar mis demás traducciones en mi compendio:[/size][/center]
+[center][size=6][url=https://www.nexusmods.com/skyrimspecialedition/mods/164797]Compendio de Traducciones al Spanish de Krou[/url][/size][/center]
+
+
+Traducción realizada con ia y luego revisada linea a linea en lo posible en búsqueda de errores
+
+SKSE\Plugins\DynamicStringDistributor\

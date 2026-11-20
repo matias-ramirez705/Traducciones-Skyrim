@@ -1,0 +1,7 @@
+{
+    "papyrus_event": "OpenTween_HLO",
+    "menuName": "Resaltar objetos",
+    "icon": "eye",
+    "priority": 15,
+    "category": "bottom"
+}

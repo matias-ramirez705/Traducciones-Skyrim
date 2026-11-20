@@ -1,0 +1,821 @@
+[
+  {
+    "editor_id": "ccASVSSE001_QuestA",
+    "form_id": "02000CA0|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Buyer Beware",
+    "string": "Cuidado con el comprador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestA",
+    "form_id": "02000CA0|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I've discovered a temple near Raven Rock where worshipers of Almalexia gather. It seems the temple Matriarch is searching for the lost Masks of Vivec and Sotha Sil.",
+    "string": "He descubierto un templo cerca de Roca de Cuervo donde se reúnen los adoradores de Almalexia. Parece que la matriarca del templo está buscando las máscaras perdidas de Vivec y Sotha Sil.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestA",
+    "form_id": "02000CA0|ccasvsse001-almsivi.esm",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've discovered a temple near Raven Rock where worshipers of Almalexia gather. It seems the temple Matriarch is searching for the lost Masks of Vivec and Sotha Sil. Rumor has it that the Mask of Vivec is being transported back to Morrowind, but an enterprising guard is looking to sell to another buyer. I should watch the Bulwark for any guards leaving their post near midnight.",
+    "string": "He descubierto un templo cerca de Roca de Cuervo donde se reúnen los adoradores de Almalexia. Parece que la matriarca del templo está buscando las máscaras perdidas de Vivec y Sotha Sil. Se rumorea que la máscara de Vivec está siendo transportada de vuelta a Morrowind, pero un guardia ambicioso busca venderla a otro comprador. Debería vigilar el Baluarte por si algún guardia abandona su puesto cerca de la medianoche.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestA",
+    "form_id": "02000CA0|ccasvsse001-almsivi.esm",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I've discovered a temple near Raven Rock where worshipers of Almalexia gather. It seems the temple Matriarch is searching for the lost Masks of Vivec and Sotha Sil. Rumor has it that the Mask of Vivec is being transported back to Morrowind, but an enterprising guard is looking to sell to another buyer. I followed a guard to a secret cellar where he intends to make the sale.",
+    "string": "He descubierto un templo cerca de Roca de Cuervo donde se reúnen los adoradores de Almalexia. Parece que la matriarca del templo está buscando las máscaras perdidas de Vivec y Sotha Sil. Se rumorea que la máscara de Vivec está siendo transportada de vuelta a Morrowind, pero un guardia ambicioso busca venderla a otro comprador. Seguí a un guardia hasta un sótano secreto donde pretende realizar la venta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestA",
+    "form_id": "02000CA0|ccasvsse001-almsivi.esm",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I've discovered a temple near Raven Rock where worshipers of Almalexia gather. It seems the temple Matriarch is searching for the lost Masks of Vivec and Sotha Sil. Rumor has it that the Mask of Vivec is being transported back to Morrowind, but an enterprising guard is looking to sell to another buyer. I followed the guard to a secret cellar where he intends to make the sale.",
+    "string": "He descubierto un templo cerca de Roca de Cuervo donde se reúnen los adoradores de Almalexia. Parece que la matriarca del templo está buscando las máscaras perdidas de Vivec y Sotha Sil. Se rumorea que la máscara de Vivec está siendo transportada de vuelta a Morrowind, pero un guardia ambicioso busca venderla a otro comprador. Seguí al guardia hasta un sótano secreto donde pretende realizar la venta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestA",
+    "form_id": "02000CA0|ccasvsse001-almsivi.esm",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I've discovered a temple near Raven Rock where worshipers of Almalexia gather. It seems the temple Matriarch is searching for the lost Masks of Vivec and Sotha Sil. Rumor has it that the Mask of Vivec is being transported back to Morrowind, but an enterprising guard is looking to sell to another buyer. I followed the guard to a secret cellar where he planned to make the sale, and killed the buyer.",
+    "string": "He descubierto un templo cerca de Roca de Cuervo donde se reúnen los adoradores de Almalexia. Parece que la matriarca del templo está buscando las máscaras perdidas de Vivec y Sotha Sil. Se rumorea que la máscara de Vivec está siendo transportada de vuelta a Morrowind, pero un guardia ambicioso busca venderla a otro comprador. Seguí al guardia hasta un sótano secreto donde planeaba realizar la venta y maté al comprador.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestA",
+    "form_id": "02000CA0|ccasvsse001-almsivi.esm",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "I've discovered a temple near Raven Rock where worshipers of Almalexia gather. It seems the temple Matriarch is searching for the lost Masks of Vivec and Sotha Sil. Rumor has it that the Mask of Vivec is being transported back to Morrowind, but an enterprising guard is looking to sell to another buyer. I followed the guard to a secret cellar where he planned to make the sale, killed the buyer, and picked up the Mask of Vivec.",
+    "string": "He descubierto un templo cerca de Roca de Cuervo donde se reúnen los adoradores de Almalexia. Parece que la matriarca del templo está buscando las máscaras perdidas de Vivec y Sotha Sil. Se rumorea que la máscara de Vivec está siendo transportada de vuelta a Morrowind, pero un guardia ambicioso busca venderla a otro comprador. Seguí al guardia hasta un sótano secreto donde planeaba realizar la venta, maté al comprador y recogí la máscara de Vivec.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestA",
+    "form_id": "02000CA0|ccasvsse001-almsivi.esm",
+    "index": 11,
+    "type": "QUST NNAM",
+    "original": "Read Masks of the Tribunal",
+    "string": "Lee Máscaras del Tribunal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestA",
+    "form_id": "02000CA0|ccasvsse001-almsivi.esm",
+    "index": 21,
+    "type": "QUST NNAM",
+    "original": "Shoot down the bird outside the Bulwark's south gate",
+    "string": "Derriba al pájaro que está afuera de la puerta sur del Baluarte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestA",
+    "form_id": "02000CA0|ccasvsse001-almsivi.esm",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Retrieve the note",
+    "string": "Recupera la nota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestA",
+    "form_id": "02000CA0|ccasvsse001-almsivi.esm",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Read the Note on the Target",
+    "string": "Lee la nota del objetivo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestA",
+    "form_id": "02000CA0|ccasvsse001-almsivi.esm",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Track the Redoran Guard's movements after midnight",
+    "string": "Sigue los movimientos del guardia redoran después de la medianoche",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestA",
+    "form_id": "02000CA0|ccasvsse001-almsivi.esm",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Look for clues in the cellar",
+    "string": "Busca pistas en el sótano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestA",
+    "form_id": "02000CA0|ccasvsse001-almsivi.esm",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Kill the Buyer",
+    "string": "Mata al comprador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestA",
+    "form_id": "02000CA0|ccasvsse001-almsivi.esm",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Retrieve the Mask of Vivec",
+    "string": "Recupera la máscara de Vivec",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_QuestA",
+    "form_id": "02000CA0|ccasvsse001-almsivi.esm",
+    "index": 2000,
+    "type": "QUST NNAM",
+    "original": "Return to the temple",
+    "string": "Regresa al templo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "03000822|ccbgssse050-ba_daedric.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Beyond the Grave",
+    "string": "Más allá de la tumba",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "03000822|ccbgssse050-ba_daedric.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I've heard stories of bandits being an issue throughout Skyrim. Perhaps if I visit the Dragonsreach Dungeon in Whiterun, I might find some information on their whereabouts.",
+    "string": "He oído historias de bandidos que causan problemas por todo Skyrim. Quizás si visito la mazmorra de Carrera Blanca, en el castillo de Cuenca del Dragón, encuentre información sobre su paradero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "03000822|ccbgssse050-ba_daedric.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've heard stories of bandits being an issue throughout Skyrim. At the dungeon in Whiterun, I read about one such bandit who died in Falkreath. I should visit the cemetery to confirm he's dead.",
+    "string": "He oído historias de bandidos que causan problemas por todo Skyrim. En la mazmorra de Carrera Blanca, leí sobre un bandido que murió en Falkreath. Debería visitar el cementerio para confirmar que está muerto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "03000822|ccbgssse050-ba_daedric.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I've heard stories of bandits being an issue throughout Skyrim. At the dungeon in Whiterun, I read about one such bandit who died in Falkreath. However, upon arriving at the grave site, I found the body of a dead Khajiit.",
+    "string": "He oído historias de bandidos que causan problemas por todo Skyrim. En la mazmorra de Carrera Blanca, leí sobre un bandido que murió en Falkreath. Sin embargo, al llegar al lugar de la tumba, encontré el cadáver de un khajiita.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "03000822|ccbgssse050-ba_daedric.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I've heard stories of bandits being an issue throughout Skyrim. At the dungeon in Whiterun, I read about one such bandit who died in Falkreath. However, upon arriving at the grave site, I found the body of a dead Khajiit. The Khajiit was previously investigating a lead that points to Knifepoint Ridge.",
+    "string": "He oído historias de bandidos que causan problemas por todo Skyrim. En la mazmorra de Carrera Blanca, leí sobre un bandido que murió en Falkreath. Sin embargo, al llegar al lugar de la tumba, encontré el cadáver de un khajiita. El khajiita estaba investigando una pista que apunta a la Cresta del Filo de la Navaja.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "03000822|ccbgssse050-ba_daedric.esl",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I've heard stories of bandits being an issue throughout Skyrim. At the dungeon in Whiterun, I read about one such bandit who died in Falkreath. However, upon arriving at the grave site, I found the body of a dead Khajiit. The Khajiit was previously investigating a lead that points to Knifepoint Ridge. After traveling to the bandit camp, I was attacked by a warrior in full Nordic armor.",
+    "string": "He oído historias de bandidos que causan problemas por todo Skyrim. En la mazmorra de Carrera Blanca, leí sobre un bandido que murió en Falkreath. Sin embargo, al llegar al lugar de la tumba, encontré el cadáver de un khajiita. El khajiita estaba investigando una pista que apunta a la Cresta del Filo de la Navaja. Después de viajar al campamento de bandidos, me atacó un guerrero con una armadura nórdica completa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "03000822|ccbgssse050-ba_daedric.esl",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "I've heard stories of bandits being an issue throughout Skyrim. At the dungeon in Whiterun, I read about one such bandit who died in Falkreath. However, upon arriving at the grave site, I found the body of a dead Khajiit. The Khajiit was previously investigating a lead that points to Knifepoint Ridge. After traveling to the bandit camp, I was attacked by a warrior in full Nordic armor. I defeated the warrior and retrieved his armor.",
+    "string": "He oído historias de bandidos que causan problemas por todo Skyrim. En la mazmorra de Carrera Blanca, leí sobre un bandido que murió en Falkreath. Sin embargo, al llegar al lugar de la tumba, encontré el cadáver de un khajiita. El khajiita estaba investigando una pista que apunta a la Cresta del Filo de la Navaja. Después de viajar al campamento de bandidos, me atacó un guerrero con una armadura nórdica completa. Derroté al guerrero y recuperé su armadura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "03000822|ccbgssse050-ba_daedric.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Look for a note in Dragonsreach Dungeon",
+    "string": "Busca una nota en la mazmorra de Cuenca del Dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "03000822|ccbgssse050-ba_daedric.esl",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Visit Edward's grave in Falkreath",
+    "string": "Visita la tumba de Edward en Falkreath",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "03000822|ccbgssse050-ba_daedric.esl",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Read the Khajiit's Note",
+    "string": "Lee la nota del khajiita",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "03000822|ccbgssse050-ba_daedric.esl",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Investigate Knifepoint Ridge",
+    "string": "Investiga la Cresta del Filo de la Navaja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "03000822|ccbgssse050-ba_daedric.esl",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Retrieve the armor",
+    "string": "Recupera la armadura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE064_Quest",
+    "form_id": "04000819|ccbgssse064-ba_elven.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Once a Hunter",
+    "string": "Un cazador de antaño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE064_Quest",
+    "form_id": "04000819|ccbgssse064-ba_elven.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "At the barracks in Falkreath, I found information implicating a hunter to the south of Sunderstone Gorge. Apparently in another life, he was a notorious bandit. I should investigate the camps in the area and see what I can find.",
+    "string": "En el cuartel de Falkreath, encontré información que incrimina a un cazador al sur de la Garganta de Sunderstone. Al parecer, en otra vida fue un bandido famoso. Debería investigar los campamentos de la zona y ver qué encuentro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE064_Quest",
+    "form_id": "04000819|ccbgssse064-ba_elven.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "At the barracks in Falkreath, I found information implicating a hunter to the south of Sunderstone Gorge. Apparently in another life, he was a notorious bandit. After reading the note, I found a camp in the area and killed the High Elf.",
+    "string": "En el cuartel de Falkreath, encontré información que incrimina a un cazador al sur de la Garganta de Sunderstone. Al parecer, en otra vida fue un bandido famoso. Después de leer la nota, encontré un campamento en la zona y maté al alto elfo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE064_Quest",
+    "form_id": "04000819|ccbgssse064-ba_elven.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "At the barracks in Falkreath, I found information implicating a hunter to the south of Sunderstone Gorge. Apparently in another life, he was a notorious bandit. After reading the note, I found a camp in the area and killed the High Elf. On his body was a a valuable set of armor and a key.",
+    "string": "En el cuartel de Falkreath, encontré información que incrimina a un cazador al sur de la Garganta de Sunderstone. Al parecer, en otra vida fue un bandido famoso. Después de leer la nota, encontré un campamento en la zona y maté al alto elfo. En su cadáver había una valiosa armadura y una llave.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE064_Quest",
+    "form_id": "04000819|ccbgssse064-ba_elven.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "At the barracks in Falkreath, I found information implicating a hunter to the south of Sunderstone Gorge. Apparently in another life, he was a notorious bandit. After reading the note, I found a camp in the area and killed the High Elf. On his body was a valuable set of armor and a key to a nearby chest containing his journal.",
+    "string": "En el cuartel de Falkreath, encontré información que incrimina a un cazador al sur de la Garganta de Sunderstone. Al parecer, en otra vida fue un bandido famoso. Después de leer la nota, encontré un campamento en la zona y maté al alto elfo. En su cadáver había una valiosa armadura y una llave de un cofre cercano que contiene su diario.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE064_Quest",
+    "form_id": "04000819|ccbgssse064-ba_elven.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Kill Aesrael",
+    "string": "Mata a Aesrael",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE064_Quest",
+    "form_id": "04000819|ccbgssse064-ba_elven.esl",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Search Aesrael's body",
+    "string": "Busca en el cadáver de Aesrael",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE064_Quest",
+    "form_id": "04000819|ccbgssse064-ba_elven.esl",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Retrieve the armor",
+    "string": "Recupera la armadura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE060_Quest",
+    "form_id": "0500081B|ccbgssse060-ba_dragonscale.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Tilted Scales",
+    "string": "Escamas inclinadas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE060_Quest",
+    "form_id": "0500081B|ccbgssse060-ba_dragonscale.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "At Candlehearth Hall in Windhelm, I found a book that mentioned a set of valuable armor may have been stashed away at Yorgrim's Overlook. I should head to the barrow and see what I can uncover.",
+    "string": "En la posada Hogar de la Vela, en Ventalia, encontré un libro que mencionaba que un conjunto de armadura valiosa podría estar escondido en el Mirador de Yorgrim. Debería dirigirme al túmulo y ver qué puedo descubrir.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE060_Quest",
+    "form_id": "0500081B|ccbgssse060-ba_dragonscale.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "At Candlehearth Hall in Windhelm, I found a book that mentioned a set of valuable armor may have been stashed away at Yorgrim's Overlook. Upon reaching the overlook I was attacked by an armed skeleton.",
+    "string": "En la posada Hogar de la Vela, en Ventalia, encontré un libro que mencionaba que un conjunto de armadura valiosa podría estar escondido en el Mirador de Yorgrim. Al llegar al mirador, me atacó un esqueleto armado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE060_Quest",
+    "form_id": "0500081B|ccbgssse060-ba_dragonscale.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "At Candlehearth Hall in Windhelm, I found a book that mentioned a set of valuable armor may have been stashed away at Yorgrim's Overlook. Upon reaching the overlook I was attacked by an armed skeleton. I defeated the undead creature and can now investigate the area for the armor.",
+    "string": "En la posada Hogar de la Vela, en Ventalia, encontré un libro que mencionaba que un conjunto de armadura valiosa podría estar escondido en el Mirador de Yorgrim. Al llegar al mirador, me atacó un esqueleto armado. Derroté a la criatura no muerta y ahora puedo investigar la zona en busca de la armadura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE060_Quest",
+    "form_id": "0500081B|ccbgssse060-ba_dragonscale.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "At Candlehearth Hall in Windhelm, I found a book that mentioned a set of valuable armor may have been stashed away at Yorgrim's Overlook. Upon reaching the overlook I was attacked by an armed skeleton. I defeated the undead creature and found a key on his body.",
+    "string": "En la posada Hogar de la Vela, en Ventalia, encontré un libro que mencionaba que un conjunto de armadura valiosa podría estar escondido en el Mirador de Yorgrim. Al llegar al mirador, me atacó un esqueleto armado. Derroté a la criatura no muerta y encontré una llave en su cadáver.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE060_Quest",
+    "form_id": "0500081B|ccbgssse060-ba_dragonscale.esl",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "At Candlehearth Hall in Windhelm, I found a book that mentioned a set of valuable armor may have been stashed away at Yorgrim's Overlook. At the overlook I learned the pathetic fate of Fathrys and the truth of Ulfnir Bone-Skin: his fabled armor was of ordinary make and battle prowess exaggerated. Zaharia, however, may still be single...",
+    "string": "En la posada Hogar de la Vela, en Ventalia, encontré un libro que mencionaba que un conjunto de armadura valiosa podría estar escondido en el Mirador de Yorgrim. En el mirador descubrí el patético destino de Fathrys y la verdad sobre Ulfnir Piel de Hueso: su legendaria armadura era de fabricación corriente y su destreza en combate había sido exagerada. Sin embargo, puede que Zaharia aún esté soltera...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE060_Quest",
+    "form_id": "0500081B|ccbgssse060-ba_dragonscale.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Investigate Yorgrim's Overlook",
+    "string": "Investiga el Mirador de Yorgrim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE060_Quest",
+    "form_id": "0500081B|ccbgssse060-ba_dragonscale.esl",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Defeat the skeleton warrior",
+    "string": "Derrota al guerrero esqueleto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE060_Quest",
+    "form_id": "0500081B|ccbgssse060-ba_dragonscale.esl",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Pick up the Overlook Key",
+    "string": "Recoge la llave del mirador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE060_Quest",
+    "form_id": "0500081B|ccbgssse060-ba_dragonscale.esl",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Retrieve the armor",
+    "string": "Recupera la armadura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE056_Quest",
+    "form_id": "06000814|ccbgssse056-ba_silver.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "When the Cat's Away",
+    "string": "Cuando el gato no está",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE056_Quest",
+    "form_id": "06000814|ccbgssse056-ba_silver.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "People from across Tamriel have migrated to Skyrim in the wake of the Great War. Perhaps if I poke around the tavern in Whiterun, I can learn some of their stories.",
+    "string": "Personas de todo Tamriel han migrado a Skyrim tras la Gran Guerra. Quizás si investigo en la taberna de Carrera Blanca, pueda conocer algunas de sus historias.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE056_Quest",
+    "form_id": "06000814|ccbgssse056-ba_silver.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I found a note at the Bannered Mare written by a Khajiit named M'Sharra. She claims to have been a warrior in another life, and decided to start a fight with the guards so she could relive some of her past glory. I should visit the dungeon to see what became of her.",
+    "string": "Encontré una nota en la Yegua Abanderada escrita por una khajiita llamada M'Sharra. Afirma que fue una guerrera en otra vida y decidió iniciar una pelea con los guardias para revivir parte de su antigua gloria. Debería visitar la mazmorra para ver qué fue de ella.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE056_Quest",
+    "form_id": "06000814|ccbgssse056-ba_silver.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I found a note at the Bannered Mare written by a Khajiit named M'Sharra. She claims to have been a warrior in another life, and decided to start a fight with the guards so she could relive some of her past glory. While she was no longer present, I found a note next to the evidence chest that implies she left an armor set in an abandoned hut near Rorikstead.",
+    "string": "Encontré una nota en la Yegua Abanderada escrita por una khajiita llamada M'Sharra. Afirma que fue una guerrera en otra vida y decidió iniciar una pelea con los guardias para revivir parte de su antigua gloria. Aunque ya no estaba allí, encontré una nota junto al cofre de pruebas que indica que dejó un conjunto de armadura en una cabaña abandonada cerca de Rorikstead.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE056_Quest",
+    "form_id": "06000814|ccbgssse056-ba_silver.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I found a note at the Bannered Mare written by a Khajiit named M'Sharra. She claims to have been a warrior in another life, and decided to start a fight with the guards so she could relive some of her past glory. While she was no longer present, I found a note next to the evidence chest that implies she left an armor set in an abandoned hut near Rorikstead. Inside the hut was a set of silver armor.",
+    "string": "Encontré una nota en la Yegua Abanderada escrita por una khajiita llamada M'Sharra. Afirma que fue una guerrera en otra vida y decidió iniciar una pelea con los guardias para revivir parte de su antigua gloria. Aunque ya no estaba allí, encontré una nota junto al cofre de pruebas que indica que dejó un conjunto de armadura en una cabaña abandonada cerca de Rorikstead. Dentro de la cabaña había un conjunto de armadura de plata.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE056_Quest",
+    "form_id": "06000814|ccbgssse056-ba_silver.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Search for a note at the Bannered Mare",
+    "string": "Busca una nota en la Yegua Abanderada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE056_Quest",
+    "form_id": "06000814|ccbgssse056-ba_silver.esl",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Inspect Dragonsreach Dungeon for clues on M'Sharra",
+    "string": "Investiga la mazmorra de Cuenca del Dragón en busca de pistas sobre M'Sharra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE056_Quest",
+    "form_id": "06000814|ccbgssse056-ba_silver.esl",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Retrieve the armor from the Hut",
+    "string": "Recupera la armadura de la cabaña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE055_Quest",
+    "form_id": "07000830|ccbgssse055-ba_orcishscaled.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Gambler's Edge",
+    "string": "La ventaja del apostador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE055_Quest",
+    "form_id": "07000830|ccbgssse055-ba_orcishscaled.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I've heard stories of former bandits living as fugitives across Tamriel. Perhaps if I visit the guard barracks in Riften I might find some information on their whereabouts.",
+    "string": "He oído historias de antiguos bandidos que viven como fugitivos por todo Tamriel. Quizás si visito los barracones de la guardia en Riften, pueda encontrar información sobre su paradero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE055_Quest",
+    "form_id": "07000830|ccbgssse055-ba_orcishscaled.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've heard stories of former bandits living as fugitives across Tamriel. At the barracks in Riften, I found information on an Imperial wagering on the pit fights at Cragslane Cavern. ",
+    "string": "He oído historias de antiguos bandidos que viven como fugitivos por todo Tamriel. En los barracones de Riften encontré información sobre un imperial que apostaba en las peleas de la fosa de la Caverna de Cragslane.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE055_Quest",
+    "form_id": "07000830|ccbgssse055-ba_orcishscaled.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I've heard stories of former bandits living as fugitives across Tamriel. At the barracks in Riften, I found information on an Imperial wagering on the pit fights at Cragslane Cavern. Unfortunately, the gambler was already dead by the time I arrived.",
+    "string": "He oído historias de antiguos bandidos que viven como fugitivos por todo Tamriel. En los barracones de Riften encontré información sobre un imperial que apostaba en las peleas de la fosa de la Caverna de Cragslane. Lamentablemente, el apostador ya estaba muerto cuando llegué.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE055_Quest",
+    "form_id": "07000830|ccbgssse055-ba_orcishscaled.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I've heard stories of former bandits living as fugitives across Tamriel. At the barracks in Riften, I found information on an Imperial wagering on the pit fights at Cragslane Cavern. Unfortunately, the gambler was already dead by the time I arrived. It seems he incurred some debts, and sold his armor to a collector in Riften.",
+    "string": "He oído historias de antiguos bandidos que viven como fugitivos por todo Tamriel. En los barracones de Riften encontré información sobre un imperial que apostaba en las peleas de la fosa de la Caverna de Cragslane. Lamentablemente, el apostador ya estaba muerto cuando llegué. Parece que contrajo algunas deudas y vendió su armadura a una coleccionista de Riften.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE055_Quest",
+    "form_id": "07000830|ccbgssse055-ba_orcishscaled.esl",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I've heard stories of former bandits living as fugitives across Tamriel. At the barracks in Riften, I found information on an Imperial wagering on the pit fights at Cragslane Cavern. Unfortunately, the gambler was already dead by the time I arrived. It seems he incurred some debts, and sold his armor to a collector in Riften. I killed the collector in order to take the armor from her.",
+    "string": "He oído historias de antiguos bandidos que viven como fugitivos por todo Tamriel. En los barracones de Riften encontré información sobre un imperial que apostaba en las peleas de la fosa de la Caverna de Cragslane. Lamentablemente, el apostador ya estaba muerto cuando llegué. Parece que contrajo algunas deudas y vendió su armadura a una coleccionista de Riften. Maté a la coleccionista para quitarle la armadura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE055_Quest",
+    "form_id": "07000830|ccbgssse055-ba_orcishscaled.esl",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "I've heard stories of former bandits living as fugitives across Tamriel. At the barracks in Riften, I found information on an Imperial wagering on the pit fights at Cragslane Cavern. Unfortunately, the gambler was already dead by the time I arrived. It seems he incurred some debts, and sold his armor to a collector in Riften. After some effort, I managed to get the custom armor from the collector.",
+    "string": "He oído historias de antiguos bandidos que viven como fugitivos por todo Tamriel. En los barracones de Riften encontré información sobre un imperial que apostaba en las peleas de la fosa de la Caverna de Cragslane. Lamentablemente, el apostador ya estaba muerto cuando llegué. Parece que contrajo algunas deudas y vendió su armadura a una coleccionista de Riften. Tras algunos esfuerzos, logré conseguir la armadura personalizada de la coleccionista.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE055_Quest",
+    "form_id": "07000830|ccbgssse055-ba_orcishscaled.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Search for a dossier at the Mistveil Keep Barracks",
+    "string": "Busca un expediente en los barracones del Castillo de la Grieta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE055_Quest",
+    "form_id": "07000830|ccbgssse055-ba_orcishscaled.esl",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Find Antonius in Cragslane Cavern",
+    "string": "Encuentra a Antonius en la Caverna de Cragslane",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE055_Quest",
+    "form_id": "07000830|ccbgssse055-ba_orcishscaled.esl",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Read Antonius' Note",
+    "string": "Lee la nota de Antonius",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE055_Quest",
+    "form_id": "07000830|ccbgssse055-ba_orcishscaled.esl",
+    "index": 35,
+    "type": "QUST NNAM",
+    "original": "(Optional) Intimidate or persuade the collector into leaving the city's protection",
+    "string": "(Opcional) Intimida o persuade a la coleccionista para que abandone la protección de la ciudad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE055_Quest",
+    "form_id": "07000830|ccbgssse055-ba_orcishscaled.esl",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Buy the armor from collector at the Bee and Barb",
+    "string": "Compra la armadura a la coleccionista en la Abeja y el Dardo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE055_Quest",
+    "form_id": "07000830|ccbgssse055-ba_orcishscaled.esl",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Kill the collector",
+    "string": "Mata a la coleccionista",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE055_Quest",
+    "form_id": "07000830|ccbgssse055-ba_orcishscaled.esl",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Retrieve the armor",
+    "string": "Recupera la armadura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE051_Quest",
+    "form_id": "08000819|ccbgssse051-ba_daedricmail.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Missing Merchant",
+    "string": "Mercader desaparecida",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE051_Quest",
+    "form_id": "08000819|ccbgssse051-ba_daedricmail.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I received a notice from the Jarl's steward regarding a missing person. I should read it and see if I can be of help.",
+    "string": "Recibí un aviso del administrador del jarl sobre una persona desaparecida. Debería leerlo y ver si puedo ayudar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE051_Quest",
+    "form_id": "08000819|ccbgssse051-ba_daedricmail.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I received a notice from the Jarl's steward regarding a missing person and a dangerous criminal. I should head over to Traitor's Post and see what I can learn.",
+    "string": "Recibí un aviso del administrador del jarl sobre una persona desaparecida y un peligroso criminal. Debería dirigirme al Puesto del Traidor y ver qué puedo averiguar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE051_Quest",
+    "form_id": "08000819|ccbgssse051-ba_daedricmail.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I received a notice from the Jarl's steward regarding a missing person. At Traitor's Post I found the missing person was already killed by the outlaw Erwam.",
+    "string": "Recibí un aviso del administrador del jarl sobre una persona desaparecida. En el Puesto del Traidor descubrí que la persona desaparecida ya había sido asesinada por el forajido Erwam.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE051_Quest",
+    "form_id": "08000819|ccbgssse051-ba_daedricmail.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I received a notice from the Jarl's steward regarding a missing person. At Traitor's Post I found the missing person was already killed by the outlaw Erwam. On her body was a journal that implied she sold a \"beautiful shiny shield\" to a Khajiit merchant. She mentioned that if she ever wanted it back, the merchant would trade it for a valuable Khajiit ring.",
+    "string": "Recibí un aviso del administrador del jarl sobre una persona desaparecida. En el Puesto del Traidor descubrí que la persona desaparecida ya había sido asesinada por el forajido Erwam. En su cuerpo había un diario que indicaba que vendió un \"escudo brillante y hermoso\" a un mercader khajiita. Mencionó que, si alguna vez quería recuperarlo, el mercader lo cambiaría por un valioso anillo khajiita.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE051_Quest",
+    "form_id": "08000819|ccbgssse051-ba_daedricmail.esl",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I received a notice from the Jarl's steward regarding a missing person. At Traitor's Post I found the missing person was already killed by the outlaw Erwam. On her body was a journal that implied she sold a \"beautiful shiny shield\" to a Khajiit merchant. She mentioned that if she ever wanted it back, the merchant would trade it for a valuable Khajiit ring. I picked up the ring and can now trade it for the shield.",
+    "string": "Recibí un aviso del administrador del jarl sobre una persona desaparecida. En el Puesto del Traidor descubrí que la persona desaparecida ya había sido asesinada por el forajido Erwam. En su cuerpo había un diario que indicaba que vendió un \"escudo brillante y hermoso\" a un mercader khajiita. Mencionó que, si alguna vez quería recuperarlo, el mercader lo cambiaría por un valioso anillo khajiita. Recogí el anillo y ahora puedo cambiarlo por el escudo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE051_Quest",
+    "form_id": "08000819|ccbgssse051-ba_daedricmail.esl",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "I received a notice from the Jarl's steward regarding a missing person. At Traitor's Post I found the missing person was already killed by the outlaw Erwam. On her body was a journal that implied she sold a \"beautiful shiny shield\" to a Khajiit merchant. She mentioned that if she ever wanted it back, the merchant would trade it for a valuable Khajiit ring. I picked up the ring and traded it for what was a Glass shield.",
+    "string": "Recibí un aviso del administrador del jarl sobre una persona desaparecida. En el Puesto del Traidor descubrí que la persona desaparecida ya había sido asesinada por el forajido Erwam. En su cuerpo había un diario que indicaba que vendió un \"escudo brillante y hermoso\" a un mercader khajiita. Mencionó que, si alguna vez quería recuperarlo, el mercader lo cambiaría por un valioso anillo khajiita. Recogí el anillo y lo cambié por un escudo de cristal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE051_Quest",
+    "form_id": "08000819|ccbgssse051-ba_daedricmail.esl",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "I received a notice from the Jarl's steward regarding a missing person. At Traitor's Post I found the missing person was already killed by the outlaw Erwam. On her body was a journal that implied she sold a \"beautiful shiny shield\" to a Khajiit merchant. She mentioned that if she ever wanted it back, the merchant would trade it for a valuable Khajiit ring. Wanting to keep the ring, I purchased what was a Glass shield for 5,000 gold instead.",
+    "string": "Recibí un aviso del administrador del jarl sobre una persona desaparecida. En el Puesto del Traidor descubrí que la persona desaparecida ya había sido asesinada por el forajido Erwam. En su cuerpo había un diario que indicaba que vendió un \"escudo brillante y hermoso\" a un mercader khajiita. Mencionó que, si alguna vez quería recuperarlo, el mercader lo cambiaría por un valioso anillo khajiita. Como quería conservar el anillo, compré el escudo de cristal por 5.000 monedas de oro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE051_Quest",
+    "form_id": "08000819|ccbgssse051-ba_daedricmail.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Read the missing merchant note",
+    "string": "Lee la nota del mercader desaparecido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE051_Quest",
+    "form_id": "08000819|ccbgssse051-ba_daedricmail.esl",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Investigate Traitor's Post",
+    "string": "Investiga el Puesto del Traidor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE051_Quest",
+    "form_id": "08000819|ccbgssse051-ba_daedricmail.esl",
+    "index": 24,
+    "type": "QUST NNAM",
+    "original": "Search the bandit corpse",
+    "string": "Busca en el cadáver del bandido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE051_Quest",
+    "form_id": "08000819|ccbgssse051-ba_daedricmail.esl",
+    "index": 25,
+    "type": "QUST NNAM",
+    "original": "Read Erwan's Journal",
+    "string": "Lee el diario de Erwan",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE051_Quest",
+    "form_id": "08000819|ccbgssse051-ba_daedricmail.esl",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Retrieve the Ring of Masser",
+    "string": "Recupera el Anillo de Masser",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE051_Quest",
+    "form_id": "08000819|ccbgssse051-ba_daedricmail.esl",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Trade the ring for the shiny shield",
+    "string": "Cambia el anillo por el escudo brillante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE051_Quest",
+    "form_id": "08000819|ccbgssse051-ba_daedricmail.esl",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "(Optional) Purchase the shiny shield for 5,000 gold",
+    "string": "(Opcional) Compra el escudo brillante por 5.000 monedas de oro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE057_Quest",
+    "form_id": "0900081A|ccbgssse057-ba_stalhrim.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Ancient Ice",
+    "string": "Hielo antiguo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE057_Quest",
+    "form_id": "0900081A|ccbgssse057-ba_stalhrim.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "At a camp to the south of Skaal Village, I found a dead villager and a journal. The journal implies a warrior named Skjol killed the villager and went north in search of stalhrim. I should investigate the area and see what I can find.",
+    "string": "En un campamento al sur de la Aldea Skaal encontré a un aldeano muerto y un diario. El diario indica que un guerrero llamado Skjol mató al aldeano y se dirigió al norte en busca de stalhrim. Debería investigar la zona y ver qué puedo encontrar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE057_Quest",
+    "form_id": "0900081A|ccbgssse057-ba_stalhrim.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "At a camp to the south of Skaal Village, I found a dead villager and a journal. The journal implies a warrior named Skjol killed the villager and went north in search of stalhrim. At the location I found a burial tomb and was attacked by a Nord.",
+    "string": "En un campamento al sur de la Aldea Skaal encontré a un aldeano muerto y un diario. El diario indica que un guerrero llamado Skjol mató al aldeano y se dirigió al norte en busca de stalhrim. En el lugar encontré una tumba funeraria y fui atacado por un nórdico.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE057_Quest",
+    "form_id": "0900081A|ccbgssse057-ba_stalhrim.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "At a camp to the south of Skaal Village, I found a dead villager and a journal. The journal implies a warrior named Skjol killed the villager and went north in search of stalhrim. At the location I found a burial tomb and was attacked by a Nord. I defeated the Nord and can now claim the armor he uncovered.",
+    "string": "En un campamento al sur de la Aldea Skaal encontré a un aldeano muerto y un diario. El diario indica que un guerrero llamado Skjol mató al aldeano y se dirigió al norte en busca de stalhrim. En el lugar encontré una tumba funeraria y fui atacado por un nórdico. Derroté al nórdico y ahora puedo reclamar la armadura que desenterró.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE057_Quest",
+    "form_id": "0900081A|ccbgssse057-ba_stalhrim.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "At a camp to the south of Skaal Village, I found a dead villager and a journal. The journal implies a warrior named Skjol killed the villager and went north in search of stalhrim. At the location I found a burial tomb and was attacked by a Nord. I defeated the Nord and claimed the armor he uncovered.",
+    "string": "En un campamento al sur de la Aldea Skaal encontré a un aldeano muerto y un diario. El diario indica que un guerrero llamado Skjol mató al aldeano y se dirigió al norte en busca de stalhrim. En el lugar encontré una tumba funeraria y fui atacado por un nórdico. Derroté al nórdico y reclamé la armadura que desenterró.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE057_Quest",
+    "form_id": "0900081A|ccbgssse057-ba_stalhrim.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Search the island for stalhrim",
+    "string": "Busca stalhrim en la isla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE057_Quest",
+    "form_id": "0900081A|ccbgssse057-ba_stalhrim.esl",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Kill Skjol",
+    "string": "Mata a Skjol",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE057_Quest",
+    "form_id": "0900081A|ccbgssse057-ba_stalhrim.esl",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Retrieve the armor",
+    "string": "Recupera la armadura",
+    "status": "TranslationComplete"
+  }
+]

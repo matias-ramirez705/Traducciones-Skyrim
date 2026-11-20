@@ -1,0 +1,191 @@
+[
+  {
+    "editor_id": "HircineDamageBoostEffect",
+    "form_id": "02005904|HircineQuestDamageBoost.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Hircine's Favor",
+    "string": "Favor del Hircine",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HircineDamageBoostEffect",
+    "form_id": "02005904|HircineQuestDamageBoost.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your attacks do <25>% more damage in Beast Form.",
+    "string": "Tus ataques hacen <25>% más de daño en forma de bestia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HircineDamageBoostSpell",
+    "form_id": "02005902|HircineQuestDamageBoost.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Hircine's Favor",
+    "string": "Favor del Hircine",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05",
+    "form_id": "0002A49A|Skyrim.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Ill Met By Moonlight",
+    "string": "Emboscada nocturna",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05",
+    "form_id": "0002A49A|Skyrim.esm",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "There are stories in Falkreath of a strange vagrant who savagely killed a little girl. ",
+    "string": "En Falkreath se habla de un extraño vagabundo que mató salvajemente a una niña pequeña. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05",
+    "form_id": "0002A49A|Skyrim.esm",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've met Sinding, a werewolf who the Daedric Lord Hircine has punished by preventing his transformations. He's given me the ring he stole and asked me to entreat Hircine for forgiveness.",
+    "string": "He conocido a Sinding, un hombre lobo que no puede transformarse porque el señor daédrico Hircine lo ha castigado. Me ha dado el anillo que robó y me ha pedido que le ruegue a Hircine que lo perdone.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05",
+    "form_id": "0002A49A|Skyrim.esm",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I've met Sinding, a werewolf who the Daedric Lord Hircine has punished by preventing his transformations. Hircine has asked me to finish the job and gain his favor by killing Sinding.",
+    "string": "He conocido a Sinding, un hombre lobo que no puede transformarse porque el señor daédrico Hircine lo ha castigado. Hircine me ha pedido que acabe el trabajo y me gane su favor matando a Sinding.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05",
+    "form_id": "0002A49A|Skyrim.esm",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I've met Sinding, a werewolf who the Daedric Lord Hircine has punished by preventing his transformations. I'm going to defend him against the hunters that Hircine has sent to end his life. ",
+    "string": "He conocido a Sinding, un hombre lobo que no puede transformarse porque el señor daédrico Hircine lo ha castigado. Voy a defenderlo de los cazadores que Hircine ha enviado para acabar con su vida. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05",
+    "form_id": "0002A49A|Skyrim.esm",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I met Sinding, a werewolf who the Daedric Lord Hircine had punished by preventing his transformations. I helped kill him as a service to Hircine, and have been rewarded with the Savior's Hide.",
+    "string": "Conocí a Sinding, un hombre lobo que no podía transformarse porque el señor daédrico Hircine lo había castigado. Ayudé a matarlo como atención hacia Hircine y he sido recompensado con la Piel del salvador.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05",
+    "form_id": "0002A49A|Skyrim.esm",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "I met Sinding, a werewolf who the Daedric Lord Hircine had punished by preventing his transformations. I defended him against the hunters that Hircine sent to end his life, and earned his friendship.",
+    "string": "He conocido a Sinding, un hombre lobo que no puede transformarse porque el señor daédrico Hircine lo ha castigado. Lo he defendido contra los cazadores que Hircine envió para acabar con su vida y nos hemos hecho amigos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05",
+    "form_id": "0002A49A|Skyrim.esm",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Speak to Sinding",
+    "string": "Habla con Sinding",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05",
+    "form_id": "0002A49A|Skyrim.esm",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Kill the great beast",
+    "string": "Mata a la gran bestia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05",
+    "form_id": "0002A49A|Skyrim.esm",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Begin the hunt",
+    "string": "Inicia la cacería",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05",
+    "form_id": "0002A49A|Skyrim.esm",
+    "index": 55,
+    "type": "QUST NNAM",
+    "original": "Join the hunt",
+    "string": "Únete a la cacería",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05",
+    "form_id": "0002A49A|Skyrim.esm",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Kill Sinding",
+    "string": "Mata a Sinding",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05",
+    "form_id": "0002A49A|Skyrim.esm",
+    "index": 61,
+    "type": "QUST NNAM",
+    "original": "Skin Sinding",
+    "string": "Despelleja a Sinding",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05",
+    "form_id": "0002A49A|Skyrim.esm",
+    "index": 65,
+    "type": "QUST NNAM",
+    "original": "Speak with Hircine",
+    "string": "Habla con Hircine",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05",
+    "form_id": "0002A49A|Skyrim.esm",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Kill the Hunters",
+    "string": "Mata a los cazadores",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA05",
+    "form_id": "0002A49A|Skyrim.esm",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Talk to Sinding",
+    "string": "Habla con Sinding",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HircineDamageBoost",
+    "form_id": "02005901|HircineQuestDamageBoost.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Hircine's Favor",
+    "string": "Favor del Hircine",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HircineDamageBoost",
+    "form_id": "02005901|HircineQuestDamageBoost.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Your attacks do <25>% more damage in Beast Form.",
+    "string": "Tus ataques hacen <25>% más de daño en forma de bestia.",
+    "status": "TranslationComplete"
+  }
+]

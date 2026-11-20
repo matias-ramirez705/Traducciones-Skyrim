@@ -1,0 +1,4178 @@
+[
+  {
+    "editor_id": "FURY_Faction_IsTamedPet",
+    "form_id": "0500007E|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Is Tamed Pet",
+    "string": "Es una mascota domesticada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_MudcrabLarge",
+    "form_id": "0500007F|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Mudcrab",
+    "string": "Cangrejo del barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_MudcrabGiant",
+    "form_id": "05000080|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Mudcrab",
+    "string": "Cangrejo del barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_FoxArctic",
+    "form_id": "05000081|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Snow Fox",
+    "string": "Zorro de las nieves",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_SabreCatVale",
+    "form_id": "05000082|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Vale Sabre Cat",
+    "string": "Gato sable del valle",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_DeerValue",
+    "form_id": "05000083|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Vale Deer",
+    "string": "Ciervo del valle",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_BearBrown",
+    "form_id": "05000084|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Bear",
+    "string": "Oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_Chaurus",
+    "form_id": "05000085|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Chaurus",
+    "string": "Cauro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_Chicken",
+    "form_id": "05000086|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Chicken",
+    "string": "Pollo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_Cow",
+    "form_id": "05000087|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Cow",
+    "string": "Vaca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_Deer",
+    "form_id": "05000088|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Deer",
+    "string": "Ciervo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_Boar",
+    "form_id": "05000089|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Boar",
+    "string": "Jabalí",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_AshHopper",
+    "form_id": "0500008A|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Scrib",
+    "string": "Scrib",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_Elk",
+    "form_id": "0500008B|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Elk",
+    "string": "Alce",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_Fox",
+    "form_id": "0500008C|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Fox",
+    "string": "Zorro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_FrostbiteSpider",
+    "form_id": "0500008D|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Frostbite Spider",
+    "string": "Guardia rojo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_Goat",
+    "form_id": "0500008E|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Goat",
+    "string": "Cabra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_Hare",
+    "form_id": "0500008F|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Rabbit",
+    "string": "Conejo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_Horker",
+    "form_id": "05000090|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Horker",
+    "string": "Horker",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_Mammoth",
+    "form_id": "05000091|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Mammoth",
+    "string": "Mamut",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_Mudcrab",
+    "form_id": "05000092|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Mudcrab",
+    "string": "Cangrejo del barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_SabreCat",
+    "form_id": "05000093|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Sabre Cat",
+    "string": "Gato sable",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_Skeever",
+    "form_id": "05000094|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Skeever",
+    "string": "Skeever",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_BearBlack",
+    "form_id": "05000095|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Cave Bear",
+    "string": "Oso de cueva",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_BearSnow",
+    "form_id": "05000096|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Snow Bear",
+    "string": "Oso polar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_SabreCatSnowy",
+    "form_id": "05000097|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Snowy Sabre Cat",
+    "string": "Gato sable de las nieves",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_FrostbiteSpiderLarge",
+    "form_id": "05000098|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Large Frostbite Spider",
+    "string": "Araña Escupe Escarcha Grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_FrostbiteSpiderGiant",
+    "form_id": "05000099|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Giant Frostbite Spider",
+    "string": "Araña congeladora gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_ChaurusReaper",
+    "form_id": "0500009A|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Chaurus Reaper",
+    "string": "Cauro segador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_ChaurusHunter",
+    "form_id": "0500009B|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Chaurus Hunter",
+    "string": "Cauro cazador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_WolfIce",
+    "form_id": "0500009C|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Ice Wolf",
+    "string": "Lobo del hielo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_FrostbiteSpiderLargeSnow",
+    "form_id": "0500009D|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Large Snowy Frostbite Spider",
+    "string": "Araña Escupe Escarcha Grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_FrostbiteSpiderGiantSnow",
+    "form_id": "0500009E|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Giant Snowy Frostbite Spider",
+    "string": "Araña Escupe Escarcha Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_FrostbiteSpiderSnow",
+    "form_id": "0500009F|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Snowy Frostbite Spider",
+    "string": "Araña Escupe Escarcha",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_MudcrabMedium",
+    "form_id": "050000A0|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Mudcrab",
+    "string": "Cangrejo del barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Race_Pet_Wolf",
+    "form_id": "050000A1|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Wolf",
+    "string": "Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HorkerRace",
+    "form_id": "000131FC|Skyrim.esm",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Horker",
+    "string": "Horker",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Spider_Ab",
+    "form_id": "050000A4|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Lay Eggs",
+    "string": "Poner huevos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Spider_Ab",
+    "form_id": "050000A4|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Periodically lays an egg.",
+    "string": "Pone un huevo periódicamente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_FortifyArmor_Ab",
+    "form_id": "050000A5|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Armor",
+    "string": "Fortalecer armadura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_FortifyArmor_Ab",
+    "form_id": "050000A5|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Armor improved by <mag> points.",
+    "string": "La armadura mejora <mag> puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Cow_Ab",
+    "form_id": "050000A6|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Got Milk?",
+    "string": "¿Tienes leche?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Cow_Ab",
+    "form_id": "050000A6|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Periodically creates milk.",
+    "string": "Crea leche periódicamente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_ShieldCompanions",
+    "form_id": "050000A7|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Armor - Shield Companions",
+    "string": "Armadura - Compañeros con escudo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_ShieldCompanions",
+    "form_id": "050000A7|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Improves the armor rating of nearby tamed animals by <mag> points for <dur> seconds.",
+    "string": "Mejora la armadura de los animales domesticados cercanos en <mag> puntos durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_HungerRateDown_Ab",
+    "form_id": "050000A8|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Resistance to Hunger",
+    "string": "Resistencia al hambre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_HungerRateDown_Ab",
+    "form_id": "050000A8|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Becomes hungry <mag>% slower.",
+    "string": "Siente hambre un <mag>% más lento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_HungerRateUp_Ab",
+    "form_id": "050000A9|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Weakness to Hunger",
+    "string": "Debilidad al hambre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_HungerRateUp_Ab",
+    "form_id": "050000A9|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Becomes hungry <mag>% faster.",
+    "string": "Siente hambre un <mag>% más rápido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_ExperienceDown_Ab",
+    "form_id": "050000AA|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Stubborn",
+    "string": "Terco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_ExperienceDown_Ab",
+    "form_id": "050000AA|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Can be trained <mag>% slower.",
+    "string": "Puede entrenarse un <mag>% más lento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_ExperienceUp_Ab",
+    "form_id": "050000AB|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Good Boi",
+    "string": "Buen chico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_ExperienceUp_Ab",
+    "form_id": "050000AB|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Can be trained <mag>% faster.",
+    "string": "Puede entrenarse un <mag>% más rápido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_SpeedUp_Ab",
+    "form_id": "050000AC|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Speed",
+    "string": "Fortalecer la velocidad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_SpeedDown_Ab",
+    "form_id": "050000AD|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Drain Speed",
+    "string": "Drenar velocidad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_DamageDown_Ab",
+    "form_id": "050000AE|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Drain Damage",
+    "string": "Drenar daño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_DamageUp_Ab",
+    "form_id": "050000AF|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Damage",
+    "string": "Fortalecer daño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Attack_XP_Ab",
+    "form_id": "050000B0|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Hunting Instinct",
+    "string": "Instinto de Caza",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Attack_XP_Ab",
+    "form_id": "050000B0|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Attacking grants experience.",
+    "string": "Atacar otorga experiencia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Attack_Hunger_Ab",
+    "form_id": "050000B1|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Predator",
+    "string": "Depredador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Attack_Hunger_Ab",
+    "form_id": "050000B1|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Attacking reduces Hunger.",
+    "string": "Atacar reduce el hambre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Bleedout_Ab",
+    "form_id": "050000B2|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Bleedout Heal",
+    "string": "Curación en estado crítico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Heartbreak",
+    "form_id": "050000B3|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Heartbreak",
+    "string": "Corazón Roto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_SpeedUp_Ab_Distance",
+    "form_id": "050000B4|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Close Distance",
+    "string": "Acortar distancia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Dummy_Ab",
+    "form_id": "050000B5|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dummy",
+    "string": "Muñeco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_SummonCompanions",
+    "form_id": "050000B6|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Summon Companions",
+    "string": "Invocar Compañeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_SummonCompanions",
+    "form_id": "050000B6|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Summons your tamed animals to your location.",
+    "string": "Invoca a tus animales domesticados a tu ubicación.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_SummonCompanions_Fail",
+    "form_id": "050000B7|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Summon Companions - Fail No Pets",
+    "string": "Invocar compañeros - Falla sin mascotas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_ExperienceDown_Ab_Hunger",
+    "form_id": "050000B8|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Reduced Experience - Hunger",
+    "string": "Experiencia reducida - Hambre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_ExperienceUp_Ab_Hunger",
+    "form_id": "050000B9|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Increased Experience - Hunger",
+    "string": "Experiencia aumentada - Hambre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Chicken_Ab",
+    "form_id": "050000BA|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Lay Eggs",
+    "string": "Poner huevos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Chicken_Ab",
+    "form_id": "050000BA|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Periodically lays an egg.",
+    "string": "Pone un huevo periódicamente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Chaurus_Ab",
+    "form_id": "050000BB|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Lay Eggs",
+    "string": "Poner huevos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Chaurus_Ab",
+    "form_id": "050000BB|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Periodically lays an egg.",
+    "string": "Pone un huevo periódicamente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_ResistMagic_Ab",
+    "form_id": "05000218|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Resist Magic",
+    "string": "Resist magic",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_ResistMagic_Ab",
+    "form_id": "05000218|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Resist <mag>% of all magic.",
+    "string": "Resiste un <mag>% de toda la magia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Racial_Breton_Ab",
+    "form_id": "05000219|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Magic Resistance",
+    "string": "Resistencia mágica",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Racial_Breton_Ab",
+    "form_id": "05000219|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Animal resists <mag>% of all magic.",
+    "string": "El animal resiste un <mag>% de toda la magia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Racial_Khajiit_Ab",
+    "form_id": "0500021A|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Speed",
+    "string": "Fortalecer la velocidad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Racial_Khajiit_Ab",
+    "form_id": "0500021A|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Animal moves <mag>% faster.",
+    "string": "El animal se mueve un <mag>% más rápido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Racial_Nord_Ab",
+    "form_id": "0500021B|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Attack Damage",
+    "string": "Reforzar daño de ataque",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Racial_Nord_Ab",
+    "form_id": "0500021B|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Animal gets <15>% extra attack damage.",
+    "string": "El animal obtiene un <15>% de daño de ataque adicional.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Altmer_Ab",
+    "form_id": "0500021C|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Butterfly Effect",
+    "string": "Efecto mariposa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Altmer_Ab",
+    "form_id": "0500021C|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Spells and scrolls cast on your tamed animal are <mag>% stronger and last <mag>% longer.",
+    "string": "Los hechizos y pergaminos que lances sobre tu animal domesticado son un <mag>% más fuertes y duran un <mag>% más.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Imperial_Ab",
+    "form_id": "0500021D|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Battlefield Companion",
+    "string": "Compañero de batalla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Imperial_Ab",
+    "form_id": "0500021D|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Healing spells and effects cast on your tamed animal are <mag>% stronger.",
+    "string": "Los hechizos y efectos de curación que lances sobre tu animal domesticado son un <mag>% más fuertes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Racial_Redguard_Ab",
+    "form_id": "0500021E|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Health",
+    "string": "Reforzar salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Racial_Redguard_Ab",
+    "form_id": "0500021E|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Docile animal gets <mag> points of Health and <mag> points of carry weight.",
+    "string": "Los animales dóciles obtienen <mag> puntos de salud y <mag> puntos de capacidad de carga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Redguard_Ab",
+    "form_id": "0500021F|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Caravaner",
+    "string": "Caravanero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Redguard_Ab",
+    "form_id": "0500021F|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Docile tamed animals get <mag> points of Health and <mag> points of carry weight.",
+    "string": "Los animales domesticados dóciles obtienen <mag> puntos de salud y <mag> puntos de capacidad de carga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Breton_Ab",
+    "form_id": "05000220|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Magical Beasts",
+    "string": "Bestias mágicas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Breton_Ab",
+    "form_id": "05000220|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Tamed animals are <mag>% resistant to all magic.",
+    "string": "Los animales domesticados son un <mag>% más resistentes a toda la magia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Bosmer_Ab",
+    "form_id": "05000221|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Balanced Diet",
+    "string": "Dieta equilibrada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Bosmer_Ab",
+    "form_id": "05000221|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Feeding tamed animals is <15>% more effective.",
+    "string": "Alimentar a los animales domesticados es un <15>% más efectivo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Khajiit_Ab",
+    "form_id": "05000222|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Pack Hunter",
+    "string": "Cazador en manada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Khajiit_Ab",
+    "form_id": "05000222|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Tamed animals move <mag>% faster.",
+    "string": "Los animales domesticados se mueven un <mag>% más rápido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Orc_Ab",
+    "form_id": "05000223|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Hard Times",
+    "string": "Tiempos difíciles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Orc_Ab",
+    "form_id": "05000223|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Tamed animals get hungry <mag>% slower.",
+    "string": "Los animales domesticados sienten hambre un <mag>% más lento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Racial_Argonian_Ab",
+    "form_id": "05000224|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Healing Secretions",
+    "string": "Secreciones curativas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Pet_Racial_Argonian_Ab",
+    "form_id": "05000224|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Animal restores <mag> Health per second.",
+    "string": "El animal restaura <mag> puntos de salud por segundo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Argonian_Ab",
+    "form_id": "05000225|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Healing Secretions",
+    "string": "Secreciones curativas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Argonian_Ab",
+    "form_id": "05000225|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Tamed animals heal <mag> points per second in your presence.",
+    "string": "Los animales domesticados se curan <mag> puntos por segundo en tu presencia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Dunmer_Ab",
+    "form_id": "05000226|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Hounds of Night",
+    "string": "Sabuesos de la noche",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Dunmer_Ab",
+    "form_id": "05000226|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your fire spells and effects heal your tamed animals instead for <50>% of their damage.",
+    "string": "Tus hechizos y efectos de fuego curan a tus animales domesticados en lugar de dañarlos por un <50>% de su daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Nord_Ab",
+    "form_id": "05000227|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Wolves of War",
+    "string": "Lobos de guerra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_Racial_Nord_Ab",
+    "form_id": "05000227|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Aggressive tamed animals do <15>% extra damage.",
+    "string": "Los animales domesticados agresivos infligen un <15>% de daño adicional.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_HealCompanion_Respite",
+    "form_id": "05000239|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Restore Stamina",
+    "string": "Restaurar aguante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_HealCompanion",
+    "form_id": "05000237|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Restore Health",
+    "string": "Restaurar salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Effect_HealCompanion",
+    "form_id": "05000237|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Heals your tamed animal <mag> points per second.",
+    "string": "Cura a tu animal domesticado <mag> puntos por segundo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SprigganCallEffect",
+    "form_id": "000CB12C|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Call of the Wild",
+    "string": "Llamada de lo salvaje",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "VoiceKynesPeaceFactionEffect",
+    "form_id": "0006E0C1|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Faction - Kyne's Peace",
+    "string": "Facción - Paz de Kyne",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_FrostbiteSpider_Ab",
+    "form_id": "050000DC|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Frostbite Spider Abilities",
+    "string": "Habilidades de la Araña de Escarcha mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_FrostbiteSpiderGiantSnow_Ab",
+    "form_id": "050000DD|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Giant Snowy Frostbite Spider Abilities",
+    "string": "Habilidades de la Araña de Escarcha Nevada Gigante mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_ChaurusHunter_Ab",
+    "form_id": "050000DE|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Chaurus Hunter Abilities",
+    "string": "Habilidades del Cazador Chaurus mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_FrostbiteSpiderSnow_Ab",
+    "form_id": "050000DF|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Frostbite Spider (snowy) Abilities",
+    "string": "Habilidades de la Araña de Escarcha (nevada) mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_FrostbiteSpiderLargeSnow_Ab",
+    "form_id": "050000E0|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Large Frostbite Spider (snowy) Abilities",
+    "string": "Habilidades de la Araña de Escarcha Grande (nevada) mascota ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Attack_XP",
+    "form_id": "050000E1|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Hunting Instinct",
+    "string": "Instinto de Caza",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_SabreCatSnowy_Ab",
+    "form_id": "050000E2|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Snowy Saber Cat Abilities",
+    "string": "Habilidades del Gato Sable Nevado mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Attack_Hunger",
+    "form_id": "050000E3|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Predator",
+    "string": "Depredador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_MudcrabMedium_Ab",
+    "form_id": "050000E4|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Mudcrab (medium) Abilities",
+    "string": "Habilidades del Cangrejo de Barro (mediano) mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_MudcrabLarge_Ab",
+    "form_id": "050000E5|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Mudcrab (large) Abilities",
+    "string": "Habilidades del Cangrejo de Barro (grande) mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_MudcrabGiant_Ab",
+    "form_id": "050000E6|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Mudcrab (giant) Abilities",
+    "string": "Habilidades del Cangrejo de Barro (gigante) mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_Skeever_Ab",
+    "form_id": "050000E7|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Skeever Abilities",
+    "string": "Habilidades del Rata Topo mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_FoxArctic_Ab",
+    "form_id": "050000E8|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Snow Fox Abilities",
+    "string": "Habilidades del Zorro de Nieve mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_SabreCat_Ab",
+    "form_id": "050000E9|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Saber Cat Abilities",
+    "string": "Habilidades del Gato Sable mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Heartbreak",
+    "form_id": "050000EA|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Heartbreak",
+    "string": "Corazón Roto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_Hare_Ab",
+    "form_id": "050000EB|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Hare Abilities",
+    "string": "Habilidades de la Liebre mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_Mammoth_Ab",
+    "form_id": "050000BC|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Mammoth Abilities",
+    "string": "Habilidades del Mamút mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_AshHopper_Ab",
+    "form_id": "050000BD|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Ash Hopper Abilities",
+    "string": "Habilidades del Saltador de Ceniza mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_Chicken_Ab",
+    "form_id": "050000BE|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Chicken Abilities",
+    "string": "Habilidades del Pollo mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_Deer_Ab",
+    "form_id": "050000BF|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Deer Abilities",
+    "string": "Habilidades del Ciervo mascota ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Hunger_3",
+    "form_id": "050000C0|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Hungry",
+    "string": "Con hambre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_Fox_Ab",
+    "form_id": "050000C1|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Fox Abilities",
+    "string": "Habilidades del Zorro mascota ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_DeerVale_Ab",
+    "form_id": "050000C2|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Vale Deer Abilities",
+    "string": "Habilidades del Ciervo del valle mascota ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_Chaurus_Ab",
+    "form_id": "050000C3|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Chaurus Abilities",
+    "string": "Habilidades del Cauro mascota ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_BearBrown_Ab",
+    "form_id": "050000C4|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Bear Abilities",
+    "string": "Habilidades del Oso mascota ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_Cow_Ab",
+    "form_id": "050000C5|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Cow Abilities",
+    "string": "Habilidades del Vaca mascota ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_SabreCatVale_Ab",
+    "form_id": "050000C6|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Vale Saber Cat Abilities",
+    "string": "Habilidades del Gato Sable del Valle mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_PetBleedout_Ab",
+    "form_id": "050000C7|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Bleedout",
+    "string": "Desangrado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_FrostbiteSpiderGiant_Ab",
+    "form_id": "050000C8|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Giant Frostbite Spider Abilities",
+    "string": "Habilidades de la Araña de Escarcha Gigante mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Hunger_5",
+    "form_id": "050000C9|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Starving",
+    "string": "Hambriento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_SummonCompanions",
+    "form_id": "050000CA|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Summon Companions",
+    "string": "Invocar Compañeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_Wolf_Ab",
+    "form_id": "050000CB|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Wolf Abilities",
+    "string": "Habilidades del Lobo mascota ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_Mudcrab_Ab",
+    "form_id": "050000CC|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Mudcrab Abilities",
+    "string": "Habilidades del Cangrejo del barro mascota ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_WolfIce_Ab",
+    "form_id": "050000CD|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Ice Wolf Abilities",
+    "string": "Habilidades del Lobo del hielo mascota ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_BearBlack_Ab",
+    "form_id": "050000CE|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Bear Abilities",
+    "string": "Habilidades del Oso mascota ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_BearSnow_Ab",
+    "form_id": "050000CF|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Snow Bear Abilities",
+    "string": "Habilidades del Oso de Nieve mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_ChaurusReaper_Ab",
+    "form_id": "050000D0|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Chaurus Reaper Abilities",
+    "string": "Habilidades del Segador Chaurus mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Racial_Altmer_Ab",
+    "form_id": "05000228|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Animal Taming",
+    "string": "Domesticación de Animales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Racial_Bosmer_Ab",
+    "form_id": "05000229|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Animal Taming",
+    "string": "Domesticación de Animales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_ShieldCompanions",
+    "form_id": "050000D1|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Shield Companions",
+    "string": "Escudo de Compañeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Racial_Breton_Ab",
+    "form_id": "0500022A|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Animal Taming",
+    "string": "Domesticación de Animales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Racial_Imperial_Ab",
+    "form_id": "0500022B|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Animal Taming",
+    "string": "Domesticación de Animales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Racial_Khajiit_Ab",
+    "form_id": "0500022C|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Animal Taming",
+    "string": "Domesticación de Animales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Racial_Redguard_Ab",
+    "form_id": "0500022D|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Animal Taming",
+    "string": "Domesticación de Animales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_Ab",
+    "form_id": "050000D2|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Abilities",
+    "string": "Habilidades de la Mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Racial_Orc_Ab",
+    "form_id": "0500022E|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Animal Taming",
+    "string": "Domesticación de Animales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_Elk_Ab",
+    "form_id": "050000D3|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Elk Abilities",
+    "string": "Habilidades del Alce mascota ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Hunger_4",
+    "form_id": "050000D4|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Famished",
+    "string": "Hambriento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Racial_Argonian_Ab",
+    "form_id": "0500022F|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Animal Taming",
+    "string": "Domesticación de Animales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Hunger_1",
+    "form_id": "050000D5|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Satisfied",
+    "string": "Satisfecho",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_Horker_Ab",
+    "form_id": "050000D6|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Horker Abilities",
+    "string": "Habilidades del Horker mascota ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Racial_Dunmer_Ab",
+    "form_id": "05000230|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Animal Taming",
+    "string": "Domesticación de Animales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Racial_Nord_Ab",
+    "form_id": "05000231|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Animal Taming",
+    "string": "Domesticación de Animales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_Racials_Ab",
+    "form_id": "05000232|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Animal Taming",
+    "string": "Domesticación de Animales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_Boar_Ab",
+    "form_id": "050000D7|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Boar Abilities",
+    "string": "Habilidades del Jabalí mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_HealCompanion",
+    "form_id": "05000238|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Heal Companion",
+    "string": "Curar Compañero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Hunger_0",
+    "form_id": "050000D8|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Well Fed",
+    "string": "Bien alimentado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_FrostbiteSpiderLarge_Ab",
+    "form_id": "050000D9|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Large Frostbite Spider Abilities",
+    "string": "Habilidades de la Araña de Escarcha Grande mascota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Pet_Goat_Ab",
+    "form_id": "050000DA|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Pet Goat Abilities",
+    "string": "Habilidades del Cabra mascota ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Spell_Hunger_2",
+    "form_id": "050000DB|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Peckish",
+    "string": "Hambriento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Scroll_ShieldCompanions",
+    "form_id": "050000EC|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Shield Companions",
+    "string": "Pergamino de Escudo de Compañeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Scroll_SummonCompanions",
+    "form_id": "050000ED|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "SCRL FULL",
+    "original": "Scroll of Summon Companions",
+    "string": "Pergamino de Invocar Compañeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_Docile_00",
+    "form_id": "0500011A|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Alba",
+    "string": "Alba",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_Docile_01",
+    "form_id": "0500011B|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Skervaldr",
+    "string": "Skervaldr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_Docile_01",
+    "form_id": "0500011C|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Arnheidr",
+    "string": "Arnheidr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_03",
+    "form_id": "0500011D|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Baldrekr",
+    "string": "Baldrekr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_Docile_02",
+    "form_id": "0500011E|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Bergfinnr",
+    "string": "Bergfinnr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_Docile_03",
+    "form_id": "0500011F|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Vani",
+    "string": "Vani",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_Docile_04",
+    "form_id": "05000120|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Dyggvi",
+    "string": "Dyggvi",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_05",
+    "form_id": "05000121|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Eyvindr",
+    "string": "Eyvindr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_06",
+    "form_id": "05000122|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Eldgrimr",
+    "string": "Eldgrimr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_Docile_05",
+    "form_id": "05000123|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Eyjarr",
+    "string": "Eyjarr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_14",
+    "form_id": "05000124|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Ormr",
+    "string": "Ormr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_Docile_07",
+    "form_id": "05000125|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Freyr",
+    "string": "Freyr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_07",
+    "form_id": "05000126|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Frohila",
+    "string": "Frohila",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_Docile_08",
+    "form_id": "05000127|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Galmr",
+    "string": "Galmr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_Docile_09",
+    "form_id": "05000128|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Hafljotr",
+    "string": "Hafljotr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_08",
+    "form_id": "05000129|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Gunnleikr",
+    "string": "Gunnleikr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_09",
+    "form_id": "0500012A|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Hannar",
+    "string": "Hannar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_10",
+    "form_id": "0500012B|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Hildingr",
+    "string": "Hildingr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_Docile_10",
+    "form_id": "0500012C|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Ingvarr",
+    "string": "Ingvarr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_Docile_11",
+    "form_id": "0500012D|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Karr",
+    "string": "Karr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_11",
+    "form_id": "0500012E|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Reginn",
+    "string": "Reginn",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_12",
+    "form_id": "0500012F|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Kollungr",
+    "string": "Kollungr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_Docile_12",
+    "form_id": "05000130|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Mimr",
+    "string": "Mimr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetHunger_3",
+    "form_id": "05000131|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Hungry",
+    "string": "Hungry",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetHunger_5",
+    "form_id": "05000132|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Starving",
+    "string": "Starving",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetHunger_2",
+    "form_id": "05000133|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Peckish",
+    "string": "Peckish",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetHunger_4",
+    "form_id": "05000134|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Famished",
+    "string": "Famished",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_Docile_06",
+    "form_id": "050000F8|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Gra",
+    "string": "Gra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_Docile_08",
+    "form_id": "050000F9|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Halldis",
+    "string": "Halldis",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_Docile_14",
+    "form_id": "050000EE|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Odun",
+    "string": "Odun",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetHunger_1",
+    "form_id": "050000EF|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Satisfied",
+    "string": "Satisfied",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_13",
+    "form_id": "050000F0|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Nidungr",
+    "string": "Nidungr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_04",
+    "form_id": "050000F1|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Borgarr",
+    "string": "Borgarr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_Docile_15",
+    "form_id": "050000F2|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Randr",
+    "string": "Randr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_15",
+    "form_id": "050000F3|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Skalli",
+    "string": "Skalli",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_Docile_02",
+    "form_id": "050000F4|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Dagrun",
+    "string": "Dagrun",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_Docile_03",
+    "form_id": "050000F5|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Eyja",
+    "string": "Eyja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_Docile_04",
+    "form_id": "050000F6|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Fenja",
+    "string": "Fenja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_Docile_05",
+    "form_id": "050000F7|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Freydis",
+    "string": "Freydis",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_15",
+    "form_id": "05000113|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Thrudr",
+    "string": "Thrudr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetHunger_0",
+    "form_id": "05000114|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Well Fed",
+    "string": "Well Fed",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_Docile_09",
+    "form_id": "050000FA|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Ilmr",
+    "string": "Ilmr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_Docile_10",
+    "form_id": "050000FB|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Jard",
+    "string": "Jard",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_Docile_11",
+    "form_id": "050000FC|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Modgudr",
+    "string": "Modgudr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_Docile_12",
+    "form_id": "050000FD|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Ragna",
+    "string": "Ragna",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_Docile_13",
+    "form_id": "050000FE|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Reidunn",
+    "string": "Reidunn",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_Docile_14",
+    "form_id": "050000FF|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Sefa",
+    "string": "Sefa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_Docile_15",
+    "form_id": "05000100|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Undrlaug",
+    "string": "Undrlaug",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetName",
+    "form_id": "05000101|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Companion",
+    "string": "Companion",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_05",
+    "form_id": "05000102|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Hildr",
+    "string": "Hildr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_Docile_07",
+    "form_id": "05000103|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Gaeirvi",
+    "string": "Gaeirvi",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_Docile_06",
+    "form_id": "05000104|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Vetr",
+    "string": "Vetr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_00",
+    "form_id": "05000105|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Brynhildr",
+    "string": "Brynhildr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_01",
+    "form_id": "05000106|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Eir",
+    "string": "Eir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_02",
+    "form_id": "05000107|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Geiravor",
+    "string": "Geiravor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_03",
+    "form_id": "05000108|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Gunnr",
+    "string": "Gunnr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_04",
+    "form_id": "05000109|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Herja",
+    "string": "Herja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_06",
+    "form_id": "0500010A|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Hjorthrimul",
+    "string": "Hjorthrimul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_07",
+    "form_id": "0500010B|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Hlokk",
+    "string": "Hlokk",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_08",
+    "form_id": "0500010C|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Kara",
+    "string": "Kara",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_09",
+    "form_id": "0500010D|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Randgrid",
+    "string": "Randgrid",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_10",
+    "form_id": "0500010E|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Reginleif",
+    "string": "Reginleif",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_11",
+    "form_id": "0500010F|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Rota",
+    "string": "Rota",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_12",
+    "form_id": "05000110|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Sanngridr",
+    "string": "Sanngridr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_13",
+    "form_id": "05000111|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Sigrun",
+    "string": "Sigrun",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_14",
+    "form_id": "05000112|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Skuld",
+    "string": "Skuld",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_01",
+    "form_id": "05000116|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Adalradr",
+    "string": "Adalradr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_Docile_13",
+    "form_id": "05000117|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Nordri",
+    "string": "Nordri",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_00",
+    "form_id": "05000115|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Abjorn",
+    "string": "Abjorn",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameF_Docile_00",
+    "form_id": "05000118|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Adisla",
+    "string": "Adisla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Activator_PetNameM_02",
+    "form_id": "05000119|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Agvaldr",
+    "string": "Agvaldr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Book_HealCompanion",
+    "form_id": "0500023A|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Heal Companion",
+    "string": "Libro de Hechizo: Curar Compañero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Book_HealCompanion",
+    "form_id": "0500023A|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nHeal Companion",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nCurar Compañero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Book_ShieldCompanions",
+    "form_id": "05000135|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Shield Companions",
+    "string": "Libro de Hechizo: Proteger Compañeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Book_ShieldCompanions",
+    "form_id": "05000135|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nShield Companions",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nProteger Compañeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Book_SummonCompanions",
+    "form_id": "05000136|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Summon Companions",
+    "string": "Libro de Hechizo: Invocar Compañeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Book_SummonCompanions",
+    "form_id": "05000136|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nSummon Companions",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nInvocar Compañeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Furniture_Training",
+    "form_id": "05000138|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Sit Down",
+    "string": "Sentarse",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_FrostbiteSpiderF_Large_Snow",
+    "form_id": "05000166|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Large Snowy Frostbite Spider",
+    "string": "Araña Escupe Escarcha Grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_BearBrownF",
+    "form_id": "05000167|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cave Bear",
+    "string": "Oso de cueva",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_AshHopperM",
+    "form_id": "05000168|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ash Hopper",
+    "string": "Saltador de cenizas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_BearBrownM",
+    "form_id": "05000169|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cave Bear",
+    "string": "Oso de cueva",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_BearSnowM",
+    "form_id": "0500016A|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Snow Bear",
+    "string": "Oso polar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_MudcrabF_Medium",
+    "form_id": "0500016B|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Mudcrab",
+    "string": "Cangrejo del barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_MudcrabM_Medium",
+    "form_id": "0500016C|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Mudcrab",
+    "string": "Cangrejo del barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_MudcrabF_Large",
+    "form_id": "0500016D|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Large Mudcrab",
+    "string": "Cangrejo de Barro Grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_MudcrabM_Large",
+    "form_id": "0500016E|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Large Mudcrab",
+    "string": "Cangrejo de Barro Grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_MudcrabM_Giant",
+    "form_id": "0500016F|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Giant Mudcrab",
+    "string": "Cangrejo de Barro Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_SabreCatF_Snowy",
+    "form_id": "05000170|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Snowy Sabre Cat",
+    "string": "Gato sable de las nieves",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_WolfM_Ice",
+    "form_id": "05000171|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ice Wolf",
+    "string": "Lobo del hielo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_ElkM",
+    "form_id": "05000172|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elk",
+    "string": "Alce",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_MammothF",
+    "form_id": "05000173|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Mammoth",
+    "string": "Mamut",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_MudcrabF",
+    "form_id": "05000174|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Mudcrab",
+    "string": "Cangrejo del barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_SabreCatF",
+    "form_id": "05000175|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Sabre Cat",
+    "string": "Gato sable",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_SkeeverF",
+    "form_id": "05000176|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Skeever",
+    "string": "Skeever",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_WolfF",
+    "form_id": "05000177|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wolf",
+    "string": "Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_WolfF_Ice",
+    "form_id": "05000178|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ice Wolf",
+    "string": "Lobo del hielo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_HorkerM",
+    "form_id": "05000179|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horker",
+    "string": "Horker",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_MammothM",
+    "form_id": "0500017A|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Mammoth",
+    "string": "Mamut",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_MudcrabM",
+    "form_id": "0500017B|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Mudcrab",
+    "string": "Cangrejo del barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_SabreCatM",
+    "form_id": "0500017C|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Sabre Cat",
+    "string": "Gato sable",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_HareM",
+    "form_id": "0500017D|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rabbit",
+    "string": "Conejo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_AshHopperF",
+    "form_id": "0500017E|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ash Hopper",
+    "string": "Saltador de cenizas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_FoxF_Arctic",
+    "form_id": "0500013F|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Snow Fox",
+    "string": "Zorro de las nieves",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_ChaurusM",
+    "form_id": "0500013E|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Chaurus",
+    "string": "Cauro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_BoarM",
+    "form_id": "0500013D|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bristleback",
+    "string": "Tatabro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_MudcrabF_Giant",
+    "form_id": "0500013C|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Giant Mudcrab",
+    "string": "Cangrejo de Barro Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_SabreCatF_Vale",
+    "form_id": "0500013B|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Vale Sabre Cat",
+    "string": "Gato sable del valle",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_WolfM",
+    "form_id": "0500013A|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Wolf",
+    "string": "Lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_BearBlackF",
+    "form_id": "05000139|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bear",
+    "string": "Oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_CowM",
+    "form_id": "05000144|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cow",
+    "string": "Vaca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_ChickenM",
+    "form_id": "05000143|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Chicken",
+    "string": "Pollo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_ChaurusReaperM",
+    "form_id": "05000141|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Chaurus Reaper",
+    "string": "Cauro segador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_ChaurusHunterM",
+    "form_id": "05000142|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Chaurus Hunter",
+    "string": "Cauro cazador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_FoxM_Arctic",
+    "form_id": "05000140|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Snow Fox",
+    "string": "Zorro de las nieves",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_FrostbiteSpiderF",
+    "form_id": "0500015A|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Frostbite Spider",
+    "string": "Araña congeladora",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_FoxF",
+    "form_id": "05000159|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Fox",
+    "string": "Zorro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_ElkF",
+    "form_id": "05000158|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Elk",
+    "string": "Alce",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_DeerF",
+    "form_id": "05000157|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Deer",
+    "string": "Ciervo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_CowF",
+    "form_id": "05000156|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Cow",
+    "string": "Vaca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_ChickenF",
+    "form_id": "05000155|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Chicken",
+    "string": "Pollo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_ChaurusReaperF",
+    "form_id": "05000154|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Chaurus Reaper",
+    "string": "Cauro segador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_SabreCatM_Vale",
+    "form_id": "05000153|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Vale Sabre Cat",
+    "string": "Gato sable del valle",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_DeerM",
+    "form_id": "05000152|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Deer",
+    "string": "Ciervo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_DeerM_Vale",
+    "form_id": "05000151|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Deer",
+    "string": "Ciervo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_DeerF_Vale",
+    "form_id": "05000150|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Deer",
+    "string": "Ciervo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_ChaurusHunterF",
+    "form_id": "0500014F|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Chaurus Hunter",
+    "string": "Cauro cazador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_ChaurusF",
+    "form_id": "0500014E|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Chaurus",
+    "string": "Cauro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_BoarF",
+    "form_id": "0500014D|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bristleback",
+    "string": "Tatabro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_BearSnowF",
+    "form_id": "0500014C|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Snow Bear",
+    "string": "Oso polar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_FrostbiteSpiderM_Snow",
+    "form_id": "0500014B|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Snowy Frostbite Spider",
+    "string": "Araña Escupe Escarcha",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_FrostbiteSpiderF_Snow",
+    "form_id": "0500014A|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Snowy Frostbite Spider",
+    "string": "Araña Escupe Escarcha",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_FrostbiteSpiderM_Large",
+    "form_id": "05000149|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Large Frostbite Spider",
+    "string": "Araña Escupe Escarcha Grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_FrostbiteSpiderM_Giant",
+    "form_id": "05000148|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Giant Frostbite Spider",
+    "string": "Araña congeladora gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_FrostbiteSpiderM",
+    "form_id": "05000147|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Frostbite Spider",
+    "string": "Araña congeladora",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_FoxM",
+    "form_id": "05000146|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Fox",
+    "string": "Zorro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_GoatM",
+    "form_id": "05000145|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Goat",
+    "string": "Cabra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_HorkerF",
+    "form_id": "0500015F|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Horker",
+    "string": "Horker",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_HareF",
+    "form_id": "0500015E|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rabbit",
+    "string": "Conejo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_FrostbiteSpiderF_Large",
+    "form_id": "0500015C|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Large Frostbite Spider",
+    "string": "Araña Escupe Escarcha Grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_GoatF",
+    "form_id": "0500015D|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Goat",
+    "string": "Cabra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_FrostbiteSpiderF_Giant",
+    "form_id": "0500015B|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Giant Frostbite Spider",
+    "string": "Araña congeladora gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_SabreCatM_Snowy",
+    "form_id": "05000161|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Snowy Sabre Cat",
+    "string": "Gato sable de las nieves",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_FrostbiteSpiderM_Large_Snow",
+    "form_id": "05000160|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Large Snowy Frostbite Spider",
+    "string": "Araña Escupe Escarcha Grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_BearBlackM",
+    "form_id": "05000163|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Bear",
+    "string": "Oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_SkeeverM",
+    "form_id": "05000162|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Skeever",
+    "string": "Skeever",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_FrostbiteSpiderF_Giant_Snow",
+    "form_id": "05000164|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Giant Snowy Frostbite Spider",
+    "string": "Araña Escupe Escarcha Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Actor_Pet_FrostbiteSpiderM_Giant_Snow",
+    "form_id": "05000165|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Giant Snowy Frostbite Spider",
+    "string": "Araña Escupe Escarcha Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Topic_Wait",
+    "form_id": "0500017F|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Wait here.",
+    "string": "Espera aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000180|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(grunt)",
+    "string": "(resoplido)\r\n(resoplido)\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Topic_WaitStop",
+    "form_id": "05000181|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Come with me!",
+    "string": "Ven conmigo!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000182|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(grunt)",
+    "string": "(resoplido)\r\n(resoplido)\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Topic_Feeding",
+    "form_id": "05000183|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Here is some food.",
+    "string": "Aquí hay algo de comida.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000184|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(grunt)",
+    "string": "(resoplido)\r\n(resoplido)\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Topic_Release",
+    "form_id": "05000185|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It is time for us to part ways.",
+    "string": "Es hora de que nos separemos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000186|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(grunt)",
+    "string": "(resoplido)\r\n(resoplido)\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Topic_Train",
+    "form_id": "05000187|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let me teach you a few tricks...",
+    "string": "Déjame enseñarte algunos trucos...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000188|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(grunt)",
+    "string": "(resoplido)\r\n(resoplido)\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Topic_Name",
+    "form_id": "05000189|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let me change your name.",
+    "string": "Déjame cambiar tu nombre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500018A|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(grunt)",
+    "string": "(resoplido)\r\n(resoplido)\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Topic_Command",
+    "form_id": "0500018B|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do something for me.",
+    "string": "Haz algo por mí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500018C|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(grunt)",
+    "string": "(resoplido)\r\n(resoplido)\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Topic_Stats",
+    "form_id": "0500018D|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Show me how strong you are!",
+    "string": "Muéstrame lo fuerte que eres.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500018E|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(grunt)",
+    "string": "(resoplido)\r\n(resoplido)\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Topic_Carry",
+    "form_id": "0500018F|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need you to carry something.",
+    "string": "Necesito que cargues algo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000190|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(grunt)",
+    "string": "(resoplido)\r\n(resoplido)\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Topic_CommandStop",
+    "form_id": "05000191|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "No. Never mind.",
+    "string": "No. Da igual.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000192|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(grunt)",
+    "string": "(resoplido)\r\n(resoplido)\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Topic_SetPassive",
+    "form_id": "05000193|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need you to stay out of my fights.",
+    "string": "Necesito que te mantengas fuera de mis peleas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000194|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(grunt)",
+    "string": "(resoplido)\r\n(resoplido)\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Topic_SetPassiveStop",
+    "form_id": "05000195|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I need you to fight with me.",
+    "string": "Necesito que luches conmigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000196|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(grunt)",
+    "string": "(resoplido)\r\n(resoplido)\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Topic_Block",
+    "form_id": "05000197|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "FURY_Topic_Block",
+    "string": "FURY_Topic_Block",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000198|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(grunt)",
+    "string": "(resoplido)\r\n(resoplido)\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Topic_MarkLocation",
+    "form_id": "05000199|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Stay here. This is our home now.",
+    "string": "Quédate aquí. Este es nuestro hogar ahora.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500019A|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(growl)",
+    "string": "(gruñido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Topic_SendToMarkedLocation",
+    "form_id": "0500019B|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Go to our home.",
+    "string": "Ve a nuestro hogar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500019C|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(growl)",
+    "string": "(gruñido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Topic_Ride",
+    "form_id": "0500019D|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Let me ride you.",
+    "string": "Déjame montarte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500019E|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(grunt)",
+    "string": "(resoplido)\r\n(resoplido)\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Quest_Init",
+    "form_id": "050001A0|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Setup",
+    "string": "Configuración",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Quest_StatsManager",
+    "form_id": "0500019F|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Stats Manager",
+    "string": "Administrador de Estadísticas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_LoadingScreen_Hunger",
+    "form_id": "050001A6|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "Tamed animals will go hungry over time. Restore their strength by feeding them food they like.",
+    "string": "Los animales domesticados se irán quedando hambrientos con el tiempo. Restaura su fuerza dándoles la comida que les gusta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_LoadingScreen_Upgrade",
+    "form_id": "050001A5|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "Tamed animals gain experience until they reach the level of their master. When they level up, you may choose to increase their damage or carry weight, their health, or their hunger resistance.",
+    "string": "Los animales domesticados ganan experiencia hasta alcanzar el nivel de su amo. Al subir de nivel, puedes elegir aumentar su daño o capacidad de carga, su salud, o su resistencia al hambre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_LoadingScreen_Taming",
+    "form_id": "050001A7|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "You can tame animals by feeding them food they like. Aggressive animals must first be reduced to 25% or less health.",
+    "string": "Puedes domesticar animales alimentándolos con la comida que les gusta. Los animales agresivos deben tener primero su salud reducida al 25% o menos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_LoadingScreen_Name",
+    "form_id": "050001A8|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "You can name your tamed animals.",
+    "string": "Puedes ponerle nombre a tus animales domesticados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Perk_Racial_Imperial",
+    "form_id": "05000236|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Imperial",
+    "string": "Imperial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Perk_Riding",
+    "form_id": "050001C6|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Animal Riding",
+    "string": "Montar Animales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Perk_Riding",
+    "form_id": "050001C6|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Able to ride tamed animals with size 5 or up.",
+    "string": "Capacidad para montar animales domesticados de tamaño 5 o más.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Perk_TamingCapable",
+    "form_id": "050001C7|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Animal Taming",
+    "string": "Domesticación de Animales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Perk_TamingCapable",
+    "form_id": "050001C7|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Able to tame animals. Aggressive animals must be reduced to 25% health first. Total size of your tamed animals is limited by Speech skill.",
+    "string": "Capacidad para domesticar animales. Los animales agresivos deben ser reducidos a 25% de salud primero. El tamaño total de tus animales domesticados está limitado por la habilidad de Habla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Perk_TamingCapable",
+    "form_id": "050001C7|Fury - Animal Taming of Skyrim.esl",
+    "index": 0,
+    "type": "PERK EPF2",
+    "original": "Animal Taming: Feed",
+    "string": "Domesticación de Animales: Alimentar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Perk_TamingCapable",
+    "form_id": "050001C7|Fury - Animal Taming of Skyrim.esl",
+    "index": 0,
+    "type": "PERK EPF2",
+    "original": "Animal Taming: Feed",
+    "string": "Domesticación de Animales: Alimentar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Perk_IncreasedWeight",
+    "form_id": "050001C8|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Beastmaster",
+    "string": "Maestro de bestias",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Perk_IncreasedWeight",
+    "form_id": "050001C8|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Increases the total size limit of your tamed animals by 1, enabling you to tame more and bigger animals.",
+    "string": "Aumenta el límite total de tamaño de tus animales domesticados en 1, permitiéndote domesticar más y animales más grandes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Perk_Racial_Altmer",
+    "form_id": "05000233|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Altmer",
+    "string": "Altmer",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Perk_Racial_Dunmer",
+    "form_id": "05000234|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Dunmer",
+    "string": "Dunmer",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Perk_Racial_Bosmer",
+    "form_id": "05000235|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Imperial",
+    "string": "Imperial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AVSpeechcraft",
+    "form_id": "00000457|Skyrim.esm",
+    "index": 1,
+    "type": "AVIF FULL",
+    "original": "Speech",
+    "string": "Elocuencia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AVSpeechcraft",
+    "form_id": "00000457|Skyrim.esm",
+    "index": 1,
+    "type": "AVIF DESC",
+    "original": "This skill of persuasion can be used to get better prices from merchants, and persuade others to do as you ask.",
+    "string": "Esta habilidad de persuasión se puede emplear para obtener mejores precios de los mercaderes y para persuadir a los demás de que hagan lo que les pides.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetBleedout_1",
+    "form_id": "050001D2|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_1> has been knocked out.",
+    "string": "<Alias.Race=FURY_Pet_Alias_1> ha sido derribado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetName_2",
+    "form_id": "050001D3|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "<Alias=Player>'s <Alias=FURY_Name_Alias_2> (<Alias=FURY_Hunger_Alias_2>)",
+    "string": "<Alias=Player>'s <Alias=FURY_Name_Alias_2> (<Alias=FURY_Hunger_Alias_2>)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Tamed_1",
+    "form_id": "050001F6|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_1> has been successfully tamed.",
+    "string": "<Alias.Race=FURY_Pet_Alias_1> ha sido domesticado con éxito.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatsM_0",
+    "form_id": "050001F5|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_0>\r\n\r\nCurrent Level: %.0f\r\nCan be Trained up to Level: %.0f (%.0f%% to next)\r\n\r\nDamage: %.0f\r\nCarry Weight: %.0f\r\nHealth: %.0f\r\nHunger Resistance: %+.0f%%\r\nExperience Gain: %+.0f%%\r\nSize: %.0f\r\nMale",
+    "string": "<Alias.Race=FURY_Pet_Alias_0>\r\n\r\nNivel actual: %.0f  \r\nPuede entrenarse hasta el nivel: %.0f (%.0f%% para el siguiente)\r\n\r\nDaño: %.0f  \r\nCapacidad de carga: %.0f  \r\nSalud: %.0f  \r\nResistencia al hambre: %+.0f%%  \r\nGanancia de experiencia: %+.0f%%  \r\nTamaño: %.0f  \r\nMacho",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_ChanceToTame",
+    "form_id": "050001F4|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Chance to tame this animal: %.0f%%",
+    "string": "Probabilidad de domesticar este animal: %.0f%%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetHungerChange_0",
+    "form_id": "050001D8|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Player>'s <Alias.Race=FURY_Pet_Alias_0>'s hunger reduced by %.0f%%.",
+    "string": "El hambre de <Alias=Player>'s <Alias.Race=FURY_Pet_Alias_0> se redujo en %.0f%%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Help_PetBleedout",
+    "form_id": "050001D9|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your animal is knocked out. It will slowly recover health, and will be unresponsive until then.",
+    "string": "Tu animal está derribado. Recuperará salud lentamente y no responderá hasta entonces.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_0_Docile",
+    "form_id": "050001F3|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_0> will become permanently stronger, and its level will increase by 1.\r\n\r\nCurrent Level: %.0f\r\n\r\nCarry Weight: %.0f\r\nHealth: %.0f\r\nHunger Resistance: %+.0f%%",
+    "string": "<Alias.Race=FURY_Pet_Alias_0> se volverá permanentemente más fuerte, y su nivel aumentará en 1.\r\n\r\nNivel actual: %.0f\r\n\r\nCapacidad de carga: %.0f\r\nSalud: %.0f\r\nResistencia al hambre: %+.0f%%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_0_Docile",
+    "form_id": "050001F3|Fury - Animal Taming of Skyrim.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Train Carry Weight",
+    "string": "Entrenar capacidad de carga ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_0_Docile",
+    "form_id": "050001F3|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Train Health",
+    "string": "Entrenar salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_0_Docile",
+    "form_id": "050001F3|Fury - Animal Taming of Skyrim.esl",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Train Hunger Resistance",
+    "string": "Entrenar resistencia al hambre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_0_Docile",
+    "form_id": "050001F3|Fury - Animal Taming of Skyrim.esl",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Finish Training",
+    "string": "Finalizar entrenamiento ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatsF_0",
+    "form_id": "050001DA|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_0>\r\n\r\nCurrent Level: %.0f\r\nCan be Trained up to Level: %.0f (%.0f%% to next)\r\n\r\nDamage: %.0f\r\nCarry Weight: %.0f\r\nHealth: %.0f\r\nHunger Resistance: %+.0f%%\r\nExperience Gain: %+.0f%%\r\nSize: %.0f\r\nFemale",
+    "string": "<Alias.Race=FURY_Pet_Alias_0>\r\n\r\nNivel actual: %.0f  \r\nPuede entrenarse hasta el nivel: %.0f (%.0f%% para el siguiente)\r\n\r\nDaño: %.0f  \r\nCapacidad de carga: %.0f  \r\nSalud: %.0f  \r\nResistencia al hambre: %+.0f%%  \r\nGanancia de experiencia: %+.0f%%  \r\nTamaño: %.0f  \r\nHembra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_1_Docile",
+    "form_id": "050001DB|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_1> will become permanently stronger, and its level will increase by 1.\r\n\r\nCurrent Level: %.0f\r\n\r\nCarry Weight: %.0f\r\nHealth: %.0f\r\nHunger Resistance: %+.0f%%",
+    "string": "<Alias.Race=FURY_Pet_Alias_1> se volverá permanentemente más fuerte, y su nivel aumentará en 1.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_1_Docile",
+    "form_id": "050001DB|Fury - Animal Taming of Skyrim.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Train Carry Weight",
+    "string": "Entrenar capacidad de carga ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_1_Docile",
+    "form_id": "050001DB|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Train Health",
+    "string": "Entrenar salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_1_Docile",
+    "form_id": "050001DB|Fury - Animal Taming of Skyrim.esl",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Train Hunger Resistance",
+    "string": "Entrenar resistencia al hambre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_1_Docile",
+    "form_id": "050001DB|Fury - Animal Taming of Skyrim.esl",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Finish Training",
+    "string": "Finalizar entrenamiento ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetHungerLimitMax_2",
+    "form_id": "050001DC|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Player>'s <Alias.Race=FURY_Pet_Alias_2> is no longer hungry.",
+    "string": "<Alias=Player>'s <Alias.Race=FURY_Pet_Alias_2> ya no tiene hambre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetHungerLimitMax_1",
+    "form_id": "050001DD|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Player>'s <Alias.Race=FURY_Pet_Alias_1> is no longer hungry.",
+    "string": "<Alias=Player>'s <Alias.Race=FURY_Pet_Alias_1> ya no tiene hambre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Tamed_0",
+    "form_id": "050001DE|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_0> has been successfully tamed.",
+    "string": "<Alias.Race=FURY_Pet_Alias_0> ha sido domesticado con éxito.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Help_ChanceToTame",
+    "form_id": "050001DF|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Feed this animal for a chance to tame it.",
+    "string": "Alimenta a este animal para tener una oportunidad de domesticarlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetBleedout_2",
+    "form_id": "050001E0|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_2> has been knocked out.",
+    "string": "<Alias.Race=FURY_Pet_Alias_2> ha sido derribado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Taming_Fail_PetCount",
+    "form_id": "050001E1|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You can only tame up to 3 animals at a time.",
+    "string": "Solo puedes domesticar hasta 3 animales al mismo tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetWeight_Fail",
+    "form_id": "050001E2|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This animal is too big to tame right now.\r\n\r\nTotal size of tamed animals: %.0f/%.0f\r\nSize of this animal: %.0f\r\n\r\nRelease animals or raise your Speech level to tame this animal.",
+    "string": "Este animal es demasiado grande para ser domesticado en este momento.\r\n\r\nTamaño total de los animales domesticados: %.0f/%.0f  \r\nTamaño de este animal: %.0f\r\n\r\nLibera animales o sube tu nivel de Elocuencia para domesticar este animal.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Taming_Fail_Rng",
+    "form_id": "050001E3|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Failed to tame this animal: not enough food.",
+    "string": "No se pudo domesticar al animal: no hay suficiente comida. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Rehome_AreYouSure",
+    "form_id": "050001E4|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to set this location as your home?\r\n\r\nTamed animals can be sent home, and will appear at this location.",
+    "string": "Estás seguro de que quieres establecer esta ubicación como tu hogar?\r\n\r\nLos animales domesticados pueden enviarse al hogar y aparecerán en esta ubicación. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Rehome_AreYouSure",
+    "form_id": "050001E4|Fury - Animal Taming of Skyrim.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Set as Home",
+    "string": "Establecer como hogar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Rehome_AreYouSure",
+    "form_id": "050001E4|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "Cancelar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetName_1",
+    "form_id": "050001E5|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "<Alias=Player>'s <Alias=FURY_Name_Alias_1> (<Alias=FURY_Hunger_Alias_1>)",
+    "string": "<Alias=Player>'s <Alias=FURY_Name_Alias_1> (<Alias=FURY_Hunger_Alias_1>)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetBleedout_0",
+    "form_id": "050001EF|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_0> has been knocked out.",
+    "string": "<Alias.Race=FURY_Pet_Alias_0> ha sido derribado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatsF_2",
+    "form_id": "050001EE|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_2>\r\n\r\nCurrent Level: %.0f\r\nCan be Trained up to Level: %.0f (%.0f%% to next)\r\n\r\nDamage: %.0f\r\nCarry Weight: %.0f\r\nHealth: %.0f\r\nHunger Resistance: %+.0f%%\r\nExperience Gain: %+.0f%%\r\nSize: %.0f\r\nFemale",
+    "string": "<Alias.Race=FURY_Pet_Alias_2>\r\n\r\nNivel actual: %.0f  \r\nPuede entrenarse hasta el nivel: %.0f (%.0f%% para el siguiente)\r\n\r\nDaño: %.0f  \r\nCapacidad de carga: %.0f  \r\nSalud: %.0f  \r\nResistencia al hambre: %+.0f%%  \r\nGanancia de experiencia: %+.0f%%  \r\nTamaño: %.0f  \r\nHembra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetHungerLimitMin_1",
+    "form_id": "050001ED|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Player>'s <Alias.Race=FURY_Pet_Alias_1> is starving.",
+    "string": "<Alias=Player>'s <Alias.Race=FURY_Pet_Alias_1> está muriéndose de hambre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetNonEssential_Fail",
+    "form_id": "050001EC|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This animal is protected by a thread of fate.",
+    "string": "Este animal está protegido por el hilo del destino.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_2",
+    "form_id": "050001EB|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_2> will become permanently stronger, and its level will increase by 1.\r\n\r\nCurrent Level: %.0f\r\n\r\nDamage: %.0f\r\nHealth: %.0f\r\nHunger Resistance: %+.0f%%",
+    "string": "<Alias.Race=FURY_Pet_Alias_2> se volverá permanentemente más fuerte, y su nivel aumentará en 1.\r\n\r\nNivel actual: %.0f\r\n\r\nDaño: %.0f\r\nSalud: %.0f\r\nResistencia al hambre: %+.0f%%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_2",
+    "form_id": "050001EB|Fury - Animal Taming of Skyrim.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Train Damage",
+    "string": "Entrenar daño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_2",
+    "form_id": "050001EB|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Train Health",
+    "string": "Entrenar salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_2",
+    "form_id": "050001EB|Fury - Animal Taming of Skyrim.esl",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Train Hunger Resistance",
+    "string": "Entrenar resistencia al hambre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_2",
+    "form_id": "050001EB|Fury - Animal Taming of Skyrim.esl",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Finish Training",
+    "string": "Finalizar entrenamiento ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_2_Docile",
+    "form_id": "050001F2|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_2> will become permanently stronger, and its level will increase by 1.\r\n\r\nCurrent Level: %.0f\r\n\r\nCarry Weight: %.0f\r\nHealth: %.0f\r\nHunger Resistance: %+.0f%%",
+    "string": "<Alias.Race=FURY_Pet_Alias_2> se volverá permanentemente más fuerte, y su nivel aumentará en 1.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_2_Docile",
+    "form_id": "050001F2|Fury - Animal Taming of Skyrim.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Train Carry Weight",
+    "string": "Entrenar capacidad de carga ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_2_Docile",
+    "form_id": "050001F2|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Train Health",
+    "string": "Entrenar salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_2_Docile",
+    "form_id": "050001F2|Fury - Animal Taming of Skyrim.esl",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Train Hunger Resistance",
+    "string": "Entrenar resistencia al hambre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_2_Docile",
+    "form_id": "050001F2|Fury - Animal Taming of Skyrim.esl",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Finish Training",
+    "string": "Finalizar entrenamiento ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatsF_1",
+    "form_id": "050001F1|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_1>\r\n\r\nCurrent Level: %.0f\r\nCan be Trained up to Level: %.0f (%.0f%% to next)\r\n\r\nDamage: %.0f\r\nCarry Weight: %.0f\r\nHealth: %.0f\r\nHunger Resistance: %+.0f%%\r\nExperience Gain: %+.0f%%\r\nSize: %.0f\r\nFemale",
+    "string": "<Alias.Race=FURY_Pet_Alias_1>\r\n\r\nNivel actual: %.0f  \r\nPuede entrenarse hasta el nivel: %.0f (%.0f%% para el siguiente)\r\n\r\nDaño: %.0f  \r\nCapacidad de carga: %.0f  \r\nSalud: %.0f  \r\nResistencia al hambre: %+.0f%%  \r\nGanancia de experiencia: %+.0f%%  \r\nTamaño: %.0f  \r\nHembra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Tamed_2",
+    "form_id": "050001EA|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_2> has been successfully tamed.",
+    "string": "<Alias.Race=FURY_Pet_Alias_2> ha sido domesticado con éxito.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Training_ConfirmAttackDamage",
+    "form_id": "050001F7|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Level: %.0f to %.0f\r\nAttack Damage: %.0f to %.0f",
+    "string": "Nivel: %.0f a %.0f  \r\nDaño de ataque: %.0f a %.0f  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Training_ConfirmAttackDamage",
+    "form_id": "050001F7|Fury - Animal Taming of Skyrim.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Train",
+    "string": "Entrenar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Training_ConfirmAttackDamage",
+    "form_id": "050001F7|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "Cancelar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_1",
+    "form_id": "050001E9|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_1> will become permanently stronger, and its level will increase by 1.\r\n\r\nCurrent Level: %.0f\r\n\r\nDamage: %.0f\r\nHealth: %.0f\r\nHunger Resistance: %+.0f%%",
+    "string": "<Alias.Race=FURY_Pet_Alias_1> se volverá permanentemente más fuerte, y su nivel aumentará en 1.\r\n\r\nNivel actual: %.0f\r\n\r\nDaño: %.0f\r\nSalud: %.0f\r\nResistencia al hambre: %+.0f%%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_1",
+    "form_id": "050001E9|Fury - Animal Taming of Skyrim.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Train Damage",
+    "string": "Entrenar daño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_1",
+    "form_id": "050001E9|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Train Health",
+    "string": "Entrenar salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_1",
+    "form_id": "050001E9|Fury - Animal Taming of Skyrim.esl",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Train Hunger Resistance",
+    "string": "Entrenar resistencia al hambre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_1",
+    "form_id": "050001E9|Fury - Animal Taming of Skyrim.esl",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Finish Training",
+    "string": "Finalizar entrenamiento ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetProgressionAvailable_2",
+    "form_id": "050001E8|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_2> can now be trained up to level %.0f.",
+    "string": "<Alias.Race=FURY_Pet_Alias_2> ahora puede entrenarse hasta el nivel %.0f.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Rename_AreYouSure",
+    "form_id": "050001E7|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to give this animal a random name?",
+    "string": "¿Estás seguro de que quieres darle un nombre aleatorio a este animal?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Rename_AreYouSure",
+    "form_id": "050001E7|Fury - Animal Taming of Skyrim.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Name",
+    "string": "Nombre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Rename_AreYouSure",
+    "form_id": "050001E7|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "Cancelar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetHungerLimitMin_2",
+    "form_id": "050001E6|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Player>'s <Alias.Race=FURY_Pet_Alias_2> is starving.",
+    "string": "<Alias=Player>'s <Alias.Race=FURY_Pet_Alias_2> está muriéndose de hambre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Mount_Fail_WeaponsDrawn",
+    "form_id": "050001F0|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Cannot mount this animal with weapons drawn.",
+    "string": "No puedes montar este animal con las armas desenvainadas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatsM_1",
+    "form_id": "050001F8|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_1>\r\n\r\nCurrent Level: %.0f\r\nCan be Trained up to Level: %.0f (%.0f%% to next)\r\n\r\nDamage: %.0f\r\nCarry Weight: %.0f\r\nHealth: %.0f\r\nHunger Resistance: %+.0f%%\r\nExperience Gain: %+.0f%%\r\nSize: %.0f\r\nMale",
+    "string": "<Alias.Race=FURY_Pet_Alias_1>\r\n\r\nNivel actual: %.0f  \r\nPuede entrenarse hasta el nivel: %.0f (%.0f%% para el siguiente)\r\n\r\nDaño: %.0f  \r\nCapacidad de carga: %.0f  \r\nSalud: %.0f  \r\nResistencia al hambre: %+.0f%%  \r\nGanancia de experiencia: %+.0f%%  \r\nTamaño: %.0f  \r\nMacho",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Training_ConfirmCarryWeight",
+    "form_id": "050001FA|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Level: %.0f to %.0f\r\nCarry Weight: %.0f to %.0f",
+    "string": "Nivel: %.0f a %.0f  \r\nCapacidad de carga: %.0f a %.0f",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Training_ConfirmCarryWeight",
+    "form_id": "050001FA|Fury - Animal Taming of Skyrim.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Train",
+    "string": "Entrenar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Training_ConfirmCarryWeight",
+    "form_id": "050001FA|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "Cancelar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Training_ConfirmHealth",
+    "form_id": "050001FB|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Level: %.0f to %.0f\r\nHealth: %.0f to %.0f",
+    "string": "Nivel: %.0f a %.0f  \r\nSalud: %.0f a %.0f ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Training_ConfirmHealth",
+    "form_id": "050001FB|Fury - Animal Taming of Skyrim.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Train",
+    "string": "Entrenar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Training_ConfirmHealth",
+    "form_id": "050001FB|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "Cancelar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatsM_2",
+    "form_id": "050001F9|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_2>\r\n\r\nCurrent Level: %.0f\r\nCan be Trained up to Level: %.0f (%.0f%% to next)\r\n\r\nDamage: %.0f\r\nCarry Weight: %.0f\r\nHealth: %.0f\r\nHunger Resistance: %+.0f%%\r\nExperience Gain: %+.0f%%\r\nSize: %.0f\r\nMale",
+    "string": "<Alias.Race=FURY_Pet_Alias_2>\r\n\r\nNivel actual: %.0f  \r\nPuede entrenarse hasta el nivel: %.0f (%.0f%% para el siguiente)\r\n\r\nDaño: %.0f  \r\nCapacidad de carga: %.0f  \r\nSalud: %.0f  \r\nResistencia al hambre: %+.0f%%  \r\nGanancia de experiencia: %+.0f%%  \r\nTamaño: %.0f  \r\nMacho",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetHungerLimitMin_0",
+    "form_id": "050001FC|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Player>'s <Alias.Race=FURY_Pet_Alias_0> is starving.",
+    "string": "<Alias=Player>'s <Alias.Race=FURY_Pet_Alias_0> está muriéndose de hambre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_SummonCompanions_Fail",
+    "form_id": "050001FD|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You have no animal companions.",
+    "string": "No tienes compañeros animales.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetHungerChange_2",
+    "form_id": "050001D4|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Player>'s <Alias.Race=FURY_Pet_Alias_2>'s hunger reduced by %.0f%%.",
+    "string": "El hambre de <Alias=Player>'s <Alias.Race=FURY_Pet_Alias_2> se redujo en %.0f%%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetDeath_0",
+    "form_id": "050001FE|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_0> has died.",
+    "string": "<Alias.Race=FURY_Pet_Alias_0> ha muerto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetDeath_1",
+    "form_id": "050001CA|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_1> has died.",
+    "string": "<Alias.Race=FURY_Pet_Alias_1> ha muerto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetHungerLimitMax_0",
+    "form_id": "050001D6|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Player>'s <Alias.Race=FURY_Pet_Alias_0> is no longer hungry.",
+    "string": "<Alias=Player>'s <Alias.Race=FURY_Pet_Alias_0> ya no tiene hambre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Release_AreYouSure",
+    "form_id": "050001D5|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to release this animal permanently?",
+    "string": "¿Estás seguro de que quieres liberar a este animal de forma permanente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Release_AreYouSure",
+    "form_id": "050001D5|Fury - Animal Taming of Skyrim.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Release Permanently",
+    "string": "Liberar permanentemente",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Release_AreYouSure",
+    "form_id": "050001D5|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "Cancelar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetName_0",
+    "form_id": "050001D7|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "<Alias=Player>'s <Alias=FURY_Name_Alias_0> (<Alias=FURY_Hunger_Alias_0>)",
+    "string": "<Alias=Player>'s <Alias=FURY_Name_Alias_0> (<Alias=FURY_Hunger_Alias_0>)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetDeath_2",
+    "form_id": "050001CB|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_2> has died.",
+    "string": "<Alias.Race=FURY_Pet_Alias_2> ha muerto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetHungerChange_1",
+    "form_id": "050001CC|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias=Player>'s <Alias.Race=FURY_Pet_Alias_1>'s hunger reduced by %.0f%%.",
+    "string": "El hambre de <Alias=Player>'s <Alias.Race=FURY_Pet_Alias_1> se redujo en %.0f%%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetProgressionAvailable_0",
+    "form_id": "050001CD|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_0> can now be trained up to level %.0f.",
+    "string": "<Alias.Race=FURY_Pet_Alias_0> ahora puede entrenarse hasta el nivel %.0f.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_LevelUp",
+    "form_id": "050001CF|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Animal is now level %.0f.",
+    "string": "El animal ahora está en el nivel %.0f.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_0",
+    "form_id": "050001CE|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_0> will become permanently stronger, and its level will increase by 1.\r\n\r\nCurrent Level: %.0f\r\n\r\nDamage: %.0f\r\nHealth: %.0f\r\nHunger Resistance: %+.0f%%",
+    "string": "<Alias.Race=FURY_Pet_Alias_0> se volverá permanentemente más fuerte, y su nivel aumentará en 1.\r\n\r\nNivel actual: %.0f\r\n\r\nDaño: %.0f\r\nSalud: %.0f\r\nResistencia al hambre: %+.0f%%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_0",
+    "form_id": "050001CE|Fury - Animal Taming of Skyrim.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Train Damage",
+    "string": "Entrenar daño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_0",
+    "form_id": "050001CE|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Train Health",
+    "string": "Entrenar salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_0",
+    "form_id": "050001CE|Fury - Animal Taming of Skyrim.esl",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Train Hunger Resistance",
+    "string": "Entrenar resistencia al hambre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetStatisticsTraining_0",
+    "form_id": "050001CE|Fury - Animal Taming of Skyrim.esl",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Finish Training",
+    "string": "Finalizar entrenamiento ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_PetProgressionAvailable_1",
+    "form_id": "050001D1|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "<Alias.Race=FURY_Pet_Alias_1> can now be trained up to level %.0f.",
+    "string": "<Alias.Race=FURY_Pet_Alias_1> ahora puede entrenarse hasta el nivel %.0f.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Training_ConfirmHungerFortify",
+    "form_id": "050001D0|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Level: %.0f to %.0f\r\nHunger Resistance: %+.0f%% to %+.0f%%",
+    "string": "Nivel: %.0f a %.0f  \r\nResistencia al hambre: %+.0f%% a %+.0f%%",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Training_ConfirmHungerFortify",
+    "form_id": "050001D0|Fury - Animal Taming of Skyrim.esl",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Train",
+    "string": "Entrenar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FURY_Message_Training_ConfirmHungerFortify",
+    "form_id": "050001D0|Fury - Animal Taming of Skyrim.esl",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Cancel",
+    "string": "Cancelar",
+    "status": "TranslationComplete"
+  }
+]

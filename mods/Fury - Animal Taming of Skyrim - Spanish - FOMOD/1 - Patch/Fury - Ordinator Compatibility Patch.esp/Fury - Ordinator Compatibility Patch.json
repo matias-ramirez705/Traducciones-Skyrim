@@ -1,0 +1,38 @@
+[
+  {
+    "editor_id": "ORD_Spe70_HornOfSovngarde_Perk_70_OrdASISExclude",
+    "form_id": "01024368|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Horn of Sovngarde",
+    "string": "Cuerno de Sovngarde",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ORD_Spe70_HornOfSovngarde_Perk_70_OrdASISExclude",
+    "form_id": "01024368|Ordinator - Perks of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Grants the \"Horn of Sovngarde\" power. Once a day, blow a horn to call the nearest three friendly people (except followers) within 200 feet to follow you for 600 seconds.",
+    "string": "Otorga el poder \"Cuerno de Sovngarde\". Una vez al día, toca un cuerno para que las tres personas amistosas más cercanas (excepto seguidores) dentro de un radio de 200 pies te sigan durante 600 segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AVSpeechcraft",
+    "form_id": "00000457|Skyrim.esm",
+    "index": 1,
+    "type": "AVIF FULL",
+    "original": "Speech",
+    "string": "Elocuencia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AVSpeechcraft",
+    "form_id": "00000457|Skyrim.esm",
+    "index": 1,
+    "type": "AVIF DESC",
+    "original": "This skill of persuasion can be used to get better prices from merchants, and persuade others to do as you ask.",
+    "string": "Esta habilidad de persuasión se puede emplear para obtener mejores precios de los mercaderes y para persuadir a los demás de que hagan lo que les pides.",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,731 @@
+[
+  {
+    "editor_id": "Horde_FollowerFaction",
+    "form_id": "0100082F|Horde.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Horde Follower Faction",
+    "string": "Facción de seguidores de la horda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Horde_SandboxEnabledFaction",
+    "form_id": "0100083A|Horde.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Horde Sandbox Enabled",
+    "string": "Habilitar entorno de grupo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Horde_PowerFollowAll",
+    "form_id": "01000834|Horde.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Horde: Follow",
+    "string": "Horda: Sigue",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Horde_PowerFollowAll",
+    "form_id": "01000834|Horde.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "All followers resume following you.",
+    "string": "Todos los seguidores reanudan seguirte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Horde_PowerPassiveAll",
+    "form_id": "01000837|Horde.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Horde: Passive",
+    "string": "Horda: Pasivo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Horde_PowerPassiveAll",
+    "form_id": "01000837|Horde.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Toggle passive. Passive followers break off combat and return to you.",
+    "string": "Activa el modo pasivo. Los seguidores pasivos abandonan el combate y regresan contigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Horde_PowerSummonAll",
+    "form_id": "01000836|Horde.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Horde: Summon",
+    "string": "Horda: Invoca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Horde_PowerSummonAll",
+    "form_id": "01000836|Horde.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "All followers teleport to your location.",
+    "string": "Todos los seguidores se teletransportan a tu ubicación.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Horde_PowerUI",
+    "form_id": "01000833|Horde.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Horde",
+    "string": "Horda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Horde_PowerUI",
+    "form_id": "01000833|Horde.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Open the Horde follower management panel.",
+    "string": "Abre el panel de gestión de seguidores de la horda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Horde_PowerWaitAll",
+    "form_id": "01000835|Horde.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Horde: Wait",
+    "string": "Horda: Espera",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Horde_PowerWaitAll",
+    "form_id": "01000835|Horde.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "All followers wait at their current positions.",
+    "string": "Todos los seguidores esperan en sus posiciones actuales.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Horde_HoldingCell",
+    "form_id": "01000806|Horde.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Horde Holding Cell",
+    "string": "Celda de retención de la horda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerDismissTopic",
+    "form_id": "0005C80C|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It's time for us to part ways.",
+    "string": "Es el momento de que nos separemos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0005C826|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I will be back at your house if you need me, Thane.",
+    "string": "Estaré en tu casa si me necesitas, thane.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0005C827|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(whine)",
+    "string": "(gemido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0005C827|Skyrim.esm",
+    "index": 1,
+    "type": "INFO RNAM",
+    "original": "It's time for you to go back home, dog.",
+    "string": "Es hora de que te vuelvas a tu casa, perro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007A1EA|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll head back home if you need me.",
+    "string": "Yo volveré a casa por si me necesitas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007A50B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If that's what you want. Come find me at the College if you change your mind.",
+    "string": "Si eso es lo que quieres. Ven a buscarme al Colegio si cambias de opinión.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007A50C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "So you think you can make it on your own, then? We'll just see about that.",
+    "string": "¿Así que crees que ya no necesitas ayuda, eh? Eso ya lo veremos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007A50D|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If that's what you want. Watch your back out there, and if you need me again, you know where I'll be.",
+    "string": "Si eso es lo que quieres. Ten cuidado ahí afuera y, si me necesitas de nuevo, ya sabes dónde encontrarme.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007A50E|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It is a lonely thing, facing all the dangers of Skyrim by yourself. Come and find me if you decide that you miss my companionship.",
+    "string": "Es una misión muy solitaria, enfrentarte a todos los peligros de Skyrim por tu cuenta. Ven a verme si echas de menos mi compañía.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007A50F|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're letting me go? What's wrong, is my skill with a blade making you look bad? Hah! I'm kidding, friend. Until we meet again!",
+    "string": "¿Me dejas marchar? ¿Qué sucede? ¿Mi habilidad con la espada te hace quedar mal? ¡Ja! Estoy de broma. ¡Hasta otra!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D8DD1|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Then back home is where you'll find me.",
+    "string": "Pues entonces, si me buscas, me encontrarás en mi casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D8DD2|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll be heading home, then, if you need me.",
+    "string": "Entonces, me iré a casa. Si me necesitas, allí estaré.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D8DD3|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You need my strength again, I'll be home.",
+    "string": "Estaré en casa, por si vuelves a necesitar mi fuerza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D8DD4|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm heading home if you need me.",
+    "string": "Vuelvo a casa, por si me necesitas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E155A|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I understand. We must all follow our own paths. If you wish to find me again, I'll be in Nightcaller Temple.",
+    "string": "Lo entiendo. Todos tenemos que seguir nuestro propio camino. Si deseas volver a verme, estaré en el templo de la Visita Nocturna.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E155B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Farewell, then. If you need my services again, just come and look for me in the usual place.",
+    "string": "Hasta la vista, entonces. Si vuelves a necesitar de mis servicios, ven a buscarme al sitio de siempre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E26F8|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You'll be all right on your own? Then I'll see you back at the College.",
+    "string": "¿Estarás bien sin mí? En ese caso, nos veremos cuando vuelvas al Colegio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E26F9|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Really? J'zargo was having such fun. Ah, well. Back to the College then.",
+    "string": "¿En serio? J'zargo se lo estaba pasando tan bien... En fin, de vuelta al Colegio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E2702|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Such a shame. I thought we were getting along so well. I'll head back to Riften if you should have second thoughts.",
+    "string": "Qué lástima. Pensaba que nos llevábamos muy bien. Volveré a Riften por si te lo piensas mejor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000F11B2|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Well, it's been fun. I guess I'll head back to Rorikstead.",
+    "string": "Bueno, ha sido divertido. Supongo que volveré a Paraje de Rorik.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerFollowTopic",
+    "form_id": "00075083|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Follow me.",
+    "string": "Sígueme.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0002CD25|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(bark)",
+    "string": "(ladrido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0004C468|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good. I'm ready for anything.",
+    "string": "Bien. Estoy preparado para cualquier cosa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0005C838|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As you will, my Thane. I will protect you with my life.",
+    "string": "Como desees, thane. Te protegeré con mi vida.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007508E|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm right with you.",
+    "string": "Estoy contigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007508F|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I've got your back.",
+    "string": "Te cubro las espaldas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007A1EB|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Let's get going.",
+    "string": "Sigamos adelante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007A515|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Try not to walk into any spike-filled pits or filthy skeever dens.",
+    "string": "Intenta no caer en ningún foso lleno de estacas o en un cubil de inmundos skeevers.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007A516|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Onward to our next adventure!",
+    "string": "¡Hacia nuestra próxima aventura!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007A517|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am the shadow at your back.",
+    "string": "Seré tu sombra tras de ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007A518|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good! Let's go find something to fight.",
+    "string": "¡Bien! Vamos a buscar pelea.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007A519|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm ready.",
+    "string": "Quiero hacerlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D8DB0|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Khajiit walks in your footsteps.",
+    "string": "El khajiita camina tras tus pasos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D8DB1|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I will walk alongside you.",
+    "string": "Caminaré a tu lado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D8DB2|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "To the next fight.",
+    "string": "A por la próxima batalla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D8DB3|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Lead the way.",
+    "string": "Ve tú delante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E155C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Good. We should keep moving.",
+    "string": "Bien. Debemos seguir avanzando.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E26F2|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "J'zargo is ready for more adventure.",
+    "string": "J'zargo está listo para más aventuras.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E26F3|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Of course. Let's go.",
+    "string": "Desde luego. Vamos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E36DB|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'm ready. Let's go.",
+    "string": "Todo listo. Adelante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E3E79|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Certainly, I'm ready.",
+    "string": "Desde luego, estoy listo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000F11B1|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Great! Let's go!",
+    "string": "¡Estupendo, vamos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollowerWaitTopic",
+    "form_id": "00075084|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Wait here.",
+    "string": "Espera aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0004C470|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You sure? All right. I'll keep guard here.",
+    "string": "¿Seguro? De acuerdo. Haré guardia aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0005C83B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As you wish, my Thane.",
+    "string": "Como desees, thane.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0005C83C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(growl)",
+    "string": "(gruñido)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000750A5|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All right. Don't be long.",
+    "string": "De acuerdo. No tardes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000750A6|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you say so.",
+    "string": "Si tú lo dices.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007A1E9|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You go on ahead.",
+    "string": "Ve tú delante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007A51A|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Patience isn't exactly my strong suit, but alright.",
+    "string": "La paciencia no es exactamente lo mío, pero vale.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007A51B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As you wish.",
+    "string": "Como desees.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007A51C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Don't make me wait too long. I get bored very easily.",
+    "string": "No me hagas esperar demasiado. Me aburro con facilidad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007A51D|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Very well. Just be careful!",
+    "string": "Muy bien. ¡Ten cuidado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0007A51E|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll wait here. Just don't start any trouble without me.",
+    "string": "Estaré aquí mismo. Pero no empieces ninguna pelea sin mí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D8E19|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Head on, then. I'll keep an eye out.",
+    "string": "Ve, pues. Yo me mantendré alerta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D8E1A|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll keep watch from here.",
+    "string": "Vigilaré desde aquí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D8E1B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You sure? Fine. I'll stand watch.",
+    "string": "¿En serio? Vale. Vigilaré.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000D8E1C|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Go on ahead. I'll stand guard.",
+    "string": "Adelante. Yo haré guardia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E158B|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll stay here. You try not to get into too much trouble.",
+    "string": "Me quedaré aquí. Intenta no meterte en muchos líos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E158D|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "All right. Don't take too long.",
+    "string": "Muy bien. No tardes demasiado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E26F4|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "As you wish. Just don't forget about me.",
+    "string": "Como quieras. Pero no te olvides de mí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E26F5|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Here? Right here? Very well, J'zargo shall wait.",
+    "string": "¿Aquí? ¿Aquí mismo? Muy bien, J'zargo te esperará.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000E36DF|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Certainly. Be careful.",
+    "string": "Desde luego. Ten cuidado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "000F11B0|Skyrim.esm",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll be right here. Be careful now!",
+    "string": "Yo me quedaré aquí. ¡Ten cuidado!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollower",
+    "form_id": "000750BA|Skyrim.esm",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "<Alias=Follower> is waiting for you",
+    "string": "<Alias=Follower> te está esperando",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DialogueFollower",
+    "form_id": "000750BA|Skyrim.esm",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "<Alias=Animal> is waiting for you",
+    "string": "<Alias=Animal> te está esperando",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Horde_FollowerQuest",
+    "form_id": "01000805|Horde.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Horde Follower Manager",
+    "string": "Gestor de seguidores de la horda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Horde_ResidenceQuest",
+    "form_id": "0100083B|Horde.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Horde Follower Homes",
+    "string": "Hogares de seguidores del grupo",
+    "status": "TranslationComplete"
+  }
+]

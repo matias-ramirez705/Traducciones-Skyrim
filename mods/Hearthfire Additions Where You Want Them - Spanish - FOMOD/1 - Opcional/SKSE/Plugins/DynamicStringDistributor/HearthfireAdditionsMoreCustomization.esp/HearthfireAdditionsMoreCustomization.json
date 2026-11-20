@@ -1,0 +1,1631 @@
+[
+  {
+    "editor_id": "BYHLadderTrigger",
+    "form_id": "04007D03|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Ladder",
+    "string": "Escalera",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLadderTrigger",
+    "form_id": "04007D03|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Climb",
+    "string": "Trepa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHHouseGuideMC",
+    "form_id": "04009893|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "The Beginner's Guide to Homesteading",
+    "string": "Guía de construcción de casas para principiantes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHHouseGuideMC",
+    "form_id": "04009893|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n<b>The Beginner's Guide to Homesteading</b>\r\n\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\nIf you're like most people, you've always dreamed of owning your own steading and building your own home. But where to start? Never fear, you hold in your hands the guide to everything you need to know. Before long, you'll be gazing complacently across your well-tended lands from the porch of your own manor house.\r\n\r\n[pagebreak]\r\n<b>Getting Started</b>\r\n\r\nThere are two vital pieces of equipment that the prospective homeowner needs: the Drafting Table and the Carpenter's Workbench.\r\n\r\nYour Drafting Table is where you'll lay out the plans for each stage of your new house. Don't worry about making a mistake here - you can always change your mind, and making a new plan costs you nothing. Remember: measure twice and cut once.\r\n\r\nYour Carpenter's Workbench is where you'll do the actual construction. Once you've settled on a plan at the Drafting Table, you can start building your house at the Carpenter's Workbench. Avoid the common beginner's mistake - don't try to build the roof without building the proper supports first!\r\n\r\n<b>Space for the Family</b>\r\n\r\nIf you have a spouse or children, you'll certainly want to get the house in a livable state as soon as possible. Your loving spouse will no doubt make do with nothing more than a roof over her head and a bed to sleep in, but what about the children? Don't worry - all they need is a bed and a chest or dresser to store their treasures, and they will be perfectly content.\r\n\r\n<b>Building Materials</b>\r\n\r\nYou will need a lot of supplies to complete your house, but it isn't necessary to gather everything you need ahead of time. Unless you're in a hurry, you can just build in stages as materials become available. You'll enjoy watching your home progress from dream to reality.\r\n\r\nThe most common materials you'll need are sawn logs, cut stone, and clay. Luckily, these are plentiful in Skyrim - in fact, most building sites will have one or more easily accessible sources of clay and stone. For sawn lumber, any lumber mill owner will be glad to sell and deliver as much as you need.\r\n\r\nYou'll need a lot of nails - fortunately even a novice blacksmith will soon find themselves turning iron into nails with ease.\r\n\r\nWhen you turn to furnishing your completed house, you'll need a much wider variety of materials. Some of them, such as straw and glass, are commonly obtained from general goods stores. For the rest - the whole of Skyrim will become your general store!\r\n\r\n<b>Hiring a Steward</b>\r\n\r\nOnce your estate is well-established, you may wish to consider hiring a steward to help manage your affairs. A good steward can be invaluable - from hiring a carriage driver to buying a cow to keeping you supplied with building materials - freeing you to enjoy the fruits of your labors.\r\n\r\nBefore hiring a steward, it's advisable to bring a potential candidate to your manor and observe whether they are a good fit for your requirements. Remember, you are putting your entire estate into their hands - you need someone you can trust implicitly.\r\n\r\n<b>Remodeling</b>\r\n\r\nMeasuring twice and cutting once is always a good standard to follow, but mistakes can still happen. If you find yourself regretting any decisions made regarding how to furnish rooms or even which additions to build, don't worry! Once you've finished building a wing, you can tear it down and start over with another floor plan at any time. Just use your Drafting Table to build a Remodeling Workbench, from which you can undertake the reconstruction process. Or if you want a less drastic change, you can use the Remodeling Workbench to clear out the furniture in the wing while keeping the architecture intact.\r\n\r\nBefore either removing furniture or tearing down an addition, make sure to visit the room and remove any possessions you've left there - in particular, any books on shelves, weapons or shields on racks and plaques, and items in display cases. And clear out any planters unless you want plants growing wild in your new room!\r\n\r\n<b>Building Your House</b>\r\n\r\nThe rest of this guide will review plans for each room that you might want to build.\r\n\r\n[pagebreak]\r\n[pagebreak]\r\n\r\n<b>Small House</b>\r\n\r\nBefore you get too ambitious, gain confidence by building this tidy cottage. It is the perfect starter home, and might turn out to be all you need. But don't worry - if you decide to keep building, you can remodel this into an entry way to the rest of your house.\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHShack.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Main Hall</b>\r\n\r\nYou may decide the Small House is not enough - perhaps you need room for a growing family? The next step is to add a Main Hall, which will turn your cottage into an imposing manor house: two floors, including space for two small bedrooms, a back room and a large dining area.\r\n\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHHub.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Attic</b>\r\n\r\nIf your household needs extra space to accomodate staff, you can build an attic room above the 2nd-floor bedrooms. There's enough room for four, with some space left over for a small storage area.\r\n\r\n[pagebreak]\r\n<b>Back Room</b>\r\n\r\nThe 1st-floor back room can be dedicated to one of three different uses. You don't have to make any changes to the structure of the main hall - simply choose the option you want when furnishing the room.\r\n\r\n[pagebreak]\r\n<b>Back Room - Kitchen</b>\r\n\r\nChoose this option if you'd like to extend the food preparation area of the main hall's hearth into the back room. With an oven, butter churn, and plenty of storage, the back room kitchen is sure to please any aspiring chef.\r\n\r\n[pagebreak]\r\n<b>Back Room - Crafting Room</b>\r\n\r\nDon't want to run all over the estate just to make one enchanted helmet? This option allows you to build crafting stations in one convenient location.\r\n[pagebreak]\r\n\r\n<b>Back Room - Library</b>\r\n\r\nBook collectors will enjoy all the shelf space available in this large library. While away the day reading in a cozy chair, or work on the estate's affairs at your desk.\r\n\r\n[pagebreak]\r\n<b>Additions</b>\r\n\r\nOnce you've built a Main Hall, your options become almost unlimited - you now have room to add three more additional wings, if you decide you still need more space.\r\n\r\nFor each wing, you have three choices of floor plan, with three furnishing options each, giving a total of nine possible additions! (But remember - you can only build three of them, so choose wisely.)\r\n\r\nThere's no need to decide on furnishings while building the basic structure, but keep in mind that each room requires a certain floor plan. You won't be able to fit a full kitchen into a small tower room!\r\n\r\n[pagebreak]\r\n<b>Porch Additions</b>\r\n\r\nThis floor plan includes a 1st-floor room, as well as a spacious exterior porch - perfect for those who love to spend time outdoors. If you build the North wing porch addition as well as either of the other two, the porches can even be connected. Additionally, you can designate any of the outdoor porches for three different purposes.\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHPorch_left.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHPorch_back.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHPorch_right.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Porch (Indoor) - Bedrooms</b>\r\n\r\nThe Bedroom addition is perfect if you have a family who needs more comfortable living quarters than the Main Hall affords. The Bedroom has space for a master bedroom plus two children's beds, as well as all the dressers, wardrobes, etc. that anyone could desire.\r\n\r\n[pagebreak]\r\n<b>Porch (Indoor) - Storage Room</b>\r\n\r\nIf you simply need more space to store your many possessions and collections, build yourself a Storage Room.\r\n\r\n[pagebreak]\r\n<b>Porch (Indoor) - Armory</b>\r\n\r\nIf you like nothing better than to spend a day hammering metal, or are simply a collector of armor and weapons, the Armory is for you. With space for smithing, as well as plenty of room to display your martial collections in style, the Armory is the perfect addition to any house.\r\n\r\n[pagebreak]\r\n<b>Porch (Outdoor) - Garden</b>\r\n\r\nThe avid gardener may wish for more growing space than what's available in the small plot beside the entryway. This porch option provides planters and a small sitting area. Plant your garden and watch as butterflies arrive along with the blooms!\r\n\r\n[pagebreak]\r\n<b>Porch (Outdoor) - Dining/Kitchen</b>\r\n\r\nThose who want to enjoy the outdoors with their family and friends will like this option. Not only does it provide an outdoor dining area, it can also be equipped with a firepit, cooking pot, and oven so that you can cook food and serve it, all on your porch.\r\n\r\n[pagebreak]\r\n<b>Porch (Outdoor) - Training Area</b>\r\n\r\nSpend your free time practicing your aim at the archery targets or honing your weapon techniques on the practice dummies.\r\n\r\n[pagebreak]\r\n<b>Longhouse Additions</b>\r\n\r\nIf you wish to make your main hall even grander, you may find the longhouse additions suitable. This single-story floor plan offers lofty ceilings and plenty of windows.\r\n\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHLonghouse_left.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHLonghouse_back.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHLonghouse_right.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Longhouse - Greenhouse</b>\r\n\r\nPerhaps you are a gardener at heart? If so, the Greenhouse provides room for planters where you can grow almost whatever you wish, sheltered from Skyrim's harsh climate. Tend and harvest your crops from the comfort of your own home!\r\n\r\n[pagebreak]\r\n<b>Longhouse - Trophy Room</b>\r\n\r\nAre you a big game hunter who wants to show off your prizes? The Trophy Room provides space for displaying up to seven magnificent mounted specimens of your choice, sure to amaze and impress your guests.And there's no need to worry about displaying an early prize and later running out of room for something more impressive. You can remove a trophy and replace it at any time!\r\n\r\n[pagebreak]\r\n<b>Longhouse - Kitchen</b>\r\n\r\nThe Kitchen provides everything you need to pursue the highest culinary arts. Tired of cooking everything in a pot over a fire? You can even equip it with a new-fangled oven!\r\n\r\n[pagebreak]\r\n<b>Tower Additions</b>\r\n\r\nThose who have a scholarly nature or simply appreciate fantastic views of the surrounding wilderness might opt for a tower or two. This floor plan provides a 1st-floor room, a 2nd-floor room, and a rooftop shielded from the elements by a canopy.\r\n\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHTower_left.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHTower_back.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHTower_right.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Splitting a Tower</b>\r\n\r\nIf you're looking to use your space efficiently, you can opt to furnish the upper and lower rooms of a tower for different purposes. When furnishing the rooms at the workbench, simply commit to splitting the tower and then proceed with your plans for each room.\r\n\r\n[pagebreak]\r\n<b>Tower - Enchanter's Tower</b>\r\n\r\nIf your interests lie in the magical realm, this tower addition is for you. Conduct your research in privacy and comfort. Plenty of space for keeping your collections and artifacts organized. And the view from the tower is guaranteed to take your breath away.\r\n\r\n[pagebreak]\r\n<b>Tower - Alchemy Laboratory</b>\r\n\r\nPerfect for the aspiring alchemist, this tower addition will give you plenty of space and storage to hone your craft in comfort. And when you need a break from brewing potions, enjoy the view from the tower roof.\r\n\r\n[pagebreak]\r\n<b>Tower - Library</b>\r\n\r\nThe Library tower is sure to please those who value literature. With space for all the bookshelves you could desire, you'll be able to enjoy your collection of books in style. Or perhaps take a book to the tower roof and enjoy the view of your steading?",
+    "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n<b>La guía para principiantes de la construcción de hogares</b>\r\n\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\nSi eres como la mayoría de las personas, siempre has soñado con tener tu propia hacienda y construir tu propio hogar. Pero, ¿por dónde empezar? No temas, tienes en tus manos la guía con todo lo que necesitas saber. Antes de que te des cuenta, contemplarás con satisfacción tus tierras bien cuidadas desde el porche de tu propia mansión.\r\n\r\n[pagebreak]\r\n<b>Primeros pasos</b>\r\n\r\nHay dos herramientas fundamentales que todo futuro propietario necesita: la Mesa de Diseño y el Banco de Carpintero.\r\n\r\nLa Mesa de Diseño es donde prepararás los planos de cada etapa de tu nueva casa. No te preocupes por cometer un error: siempre puedes cambiar de opinión, y hacer un nuevo plano no cuesta nada. Recuerda: mide dos veces y corta una.\r\n\r\nEl Banco de Carpintero es donde realizarás la construcción propiamente dicha. Una vez que hayas decidido un plano en la Mesa de Diseño, podrás comenzar a construir tu casa en el Banco de Carpintero. Evita el error típico de los principiantes: ¡no intentes construir el techo antes de levantar los soportes adecuados!\r\n\r\n<b>Espacio para la familia</b>\r\n\r\nSi tienes cónyuge o hijos, sin duda querrás que la casa sea habitable lo antes posible. Seguramente tu querido cónyuge se conformará con poco más que un techo sobre su cabeza y una cama donde dormir, ¿pero qué hay de los niños? No te preocupes: todo lo que necesitan es una cama y un cofre o una cómoda donde guardar sus tesoros, y estarán perfectamente felices.\r\n\r\n<b>Materiales de construcción</b>\r\n\r\nNecesitarás una gran cantidad de suministros para completar tu casa, pero no es necesario reunir todo lo que necesitas de antemano. A menos que tengas prisa, puedes construir por etapas a medida que dispongas de los materiales. Disfrutarás viendo cómo tu hogar pasa de ser un sueño a convertirse en realidad.\r\n\r\nLos materiales más comunes que necesitarás son troncos aserrados, piedra labrada y arcilla. Por suerte, abundan en Skyrim; de hecho, la mayoría de los terrenos de construcción cuentan con una o más fuentes de piedra y arcilla de fácil acceso. En cuanto a la madera aserrada, cualquier propietario de un aserradero estará encantado de venderte y entregarte toda la que necesites.\r\n\r\nNecesitarás muchos clavos; por fortuna, incluso un herrero novato aprenderá rápidamente a convertir hierro en clavos con facilidad.\r\n\r\nCuando llegue el momento de amueblar tu casa terminada, necesitarás una variedad mucho mayor de materiales. Algunos de ellos, como la paja y el vidrio, suelen conseguirse en las tiendas de artículos generales. En cuanto al resto... ¡todo Skyrim se convertirá en tu tienda de artículos generales!\r\n\r\n<b>Contratar a un mayordomo</b>\r\n\r\nUna vez que tu propiedad esté bien establecida, quizá quieras considerar contratar a un mayordomo para ayudarte a administrar tus asuntos. Un buen mayordomo puede ser invaluable: desde contratar a un cochero hasta comprar una vaca o mantenerte abastecido de materiales de construcción, permitiéndote disfrutar de los frutos de tu trabajo.\r\n\r\nAntes de contratar a un mayordomo, es recomendable llevar a un posible candidato a tu mansión y observar si se adapta bien a tus necesidades. Recuerda que pondrás toda tu propiedad en sus manos; necesitas a alguien en quien puedas confiar plenamente.\r\n\r\n<b>Remodelación</b>\r\n\r\nMedir dos veces y cortar una siempre es una buena regla, pero los errores pueden ocurrir. Si llegas a arrepentirte de alguna decisión sobre cómo amueblar una habitación o incluso de qué ampliaciones construir, ¡no te preocupes! Una vez que hayas terminado de construir un ala, puedes derribarla y comenzar de nuevo con otro plano cuando quieras. Solo utiliza la Mesa de Diseño para construir un Banco de Remodelación, desde el cual podrás llevar a cabo el proceso de reconstrucción. O, si deseas un cambio menos drástico, puedes utilizar el Banco de Remodelación para retirar los muebles del ala mientras mantienes intacta la estructura.\r\n\r\nAntes de retirar muebles o derribar una ampliación, asegúrate de visitar la habitación y retirar cualquier pertenencia que hayas dejado allí; en particular, libros en estanterías, armas o escudos en soportes y placas, y objetos en vitrinas. ¡Y vacía todos los maceteros, a menos que quieras que las plantas crezcan libremente en tu nueva habitación!\r\n\r\n<b>Construcción de tu casa</b>\r\n\r\nEl resto de esta guía repasará los planos de cada habitación que podrías querer construir.\r\n\r\n[pagebreak]\r\n[pagebreak]\r\n\r\n<b>Casa pequeña</b>\r\n\r\nAntes de volverte demasiado ambicioso, gana confianza construyendo esta acogedora cabaña. Es el hogar inicial perfecto y podría resultar ser todo lo que necesitas. Pero no te preocupes: si decides seguir construyendo, podrás remodelarla para convertirla en el vestíbulo de entrada al resto de tu casa.\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHShack.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Salón principal</b>\r\n\r\nPuede que decidas que la Casa pequeña no es suficiente. ¿Quizá necesitas espacio para una familia en crecimiento? El siguiente paso es añadir un Salón Principal, que convertirá tu cabaña en una imponente mansión: dos pisos que incluyen espacio para dos dormitorios pequeños, una habitación trasera y un gran comedor.\r\n\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHHub.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Ático</b>\r\n\r\nSi tu hogar necesita espacio adicional para alojar al personal, puedes construir un ático sobre los dormitorios del segundo piso. Hay espacio suficiente para cuatro personas, además de una pequeña zona de almacenamiento.\r\n\r\n[pagebreak]\r\n<b>Habitación trasera</b>\r\n\r\nLa habitación trasera del primer piso puede dedicarse a uno de tres usos diferentes. No tienes que realizar ningún cambio en la estructura del salón principal; simplemente elige la opción que prefieras al amueblar la habitación.\r\n\r\n[pagebreak]\r\n<b>Habitación trasera - Cocina</b>\r\n\r\nElige esta opción si deseas ampliar el área de preparación de alimentos de la chimenea del salón principal hacia la habitación trasera. Con un horno, una mantequera y abundante espacio de almacenamiento, la cocina trasera hará las delicias de cualquier aspirante a chef.\r\n\r\n[pagebreak]\r\n<b>Habitación trasera - Sala de fabricación</b>\r\n\r\n¿No quieres recorrer toda la propiedad solo para fabricar un casco encantado? Esta opción te permite construir estaciones de fabricación en un solo lugar.\r\n\r\n[pagebreak]\r\n\r\n<b>Habitación trasera - Biblioteca</b>\r\n\r\nLos coleccionistas de libros disfrutarán del abundante espacio en estanterías disponible en esta gran biblioteca. Pasa el día leyendo en un cómodo sillón o trabaja en los asuntos de la propiedad desde tu escritorio.\r\n\r\n[pagebreak]\r\n<b>Ampliaciones</b>\r\n\r\nUna vez que hayas construido un Salón Principal, tus opciones serán casi ilimitadas: ahora tendrás espacio para añadir tres alas adicionales si decides que aún necesitas más espacio.\r\n\r\nPara cada ala tendrás tres opciones de plano, con tres opciones de mobiliario cada una, lo que da un total de nueve ampliaciones posibles. (Pero recuerda: solo puedes construir tres de ellas, así que elige con sabiduría).\r\n\r\nNo es necesario decidir el mobiliario mientras construyes la estructura básica, pero ten presente que cada habitación requiere un plano específico. ¡No podrás instalar una cocina completa en una pequeña habitación de torre!\r\n\r\n[pagebreak]\r\n<b>Ampliaciones con porche</b>\r\n\r\nEste plano incluye una habitación en el primer piso, además de un amplio porche exterior, perfecto para quienes disfrutan pasar tiempo al aire libre. Si construyes el porche del ala norte junto con cualquiera de los otros dos, los porches incluso podrán conectarse entre sí. Además, puedes destinar cualquiera de los porches exteriores a tres propósitos diferentes.\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHPorch_left.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHPorch_back.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHPorch_right.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Porche (interior) - Dormitorios</b>\r\n\r\nLa ampliación de Dormitorios es perfecta si tienes una familia que necesita habitaciones más cómodas de las que ofrece el Salón Principal. Incluye espacio para un dormitorio principal y dos camas infantiles, además de todas las cómodas, armarios, etc. que cualquiera podría desear.\r\n\r\n[pagebreak]\r\n<b>Porche (interior) - Almacén</b>\r\n\r\nSi simplemente necesitas más espacio para guardar tus numerosas pertenencias y colecciones, constrúyete un Almacén.\r\n\r\n[pagebreak]\r\n<b>Porche (interior) - Armería</b>\r\n\r\nSi no hay nada que disfrutes más que pasar el día forjando metal, o simplemente eres coleccionista de armaduras y armas, la Armería es para ti. Con espacio para la herrería y mucho sitio para exhibir tus colecciones marciales con estilo, la Armería es el complemento perfecto para cualquier casa.\r\n\r\n[pagebreak]\r\n<b>Porche (exterior) - Jardín</b>\r\n\r\nEl jardinero apasionado quizá desee más espacio de cultivo que el disponible en el pequeño terreno junto a la entrada. Esta opción de porche proporciona maceteros y una pequeña zona para sentarse. ¡Planta tu jardín y observa cómo las mariposas llegan junto con las flores!\r\n\r\n[pagebreak]\r\n<b>Porche (exterior) - Comedor/Cocina</b>\r\n\r\nQuienes quieran disfrutar del aire libre con su familia y amigos apreciarán esta opción. No solo ofrece un comedor al aire libre, sino que también puede equiparse con una fogata, una olla de cocina y un horno para cocinar y servir la comida, todo desde tu porche.\r\n\r\n[pagebreak]\r\n<b>Porche (exterior) - Área de entrenamiento</b>\r\n\r\nPasa tu tiempo libre practicando tu puntería en las dianas de arquería o perfeccionando tus técnicas con las armas en los muñecos de entrenamiento.\r\n\r\n[pagebreak]\r\n<b>Ampliaciones de casa comunal</b>\r\n\r\nSi deseas que tu salón principal sea aún más grandioso, las ampliaciones de casa comunal pueden ser justo lo que buscas. Este plano de un solo piso ofrece techos altos y numerosas ventanas.\r\n\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHLonghouse_left.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHLonghouse_back.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHLonghouse_right.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Casa comunal - Invernadero</b>\r\n\r\n¿Quizá llevas un jardinero en el corazón? Si es así, el Invernadero ofrece espacio para maceteros donde podrás cultivar casi todo lo que desees, protegido del duro clima de Skyrim. ¡Cuida y cosecha tus cultivos desde la comodidad de tu propio hogar!\r\n\r\n[pagebreak]\r\n<b>Casa comunal - Sala de trofeos</b>\r\n\r\n¿Eres un cazador de caza mayor que quiere exhibir sus premios? La Sala de Trofeos ofrece espacio para mostrar hasta siete magníficos ejemplares disecados de tu elección, capaces de asombrar e impresionar a tus invitados. Y no tienes que preocuparte por exhibir un trofeo demasiado pronto y quedarte sin espacio para otro más impresionante. ¡Puedes retirar un trofeo y reemplazarlo cuando quieras!\r\n\r\n[pagebreak]\r\n<b>Casa comunal - Cocina</b>\r\n\r\nLa Cocina proporciona todo lo necesario para alcanzar el más alto nivel de las artes culinarias. ¿Cansado de cocinar todo en una olla sobre el fuego? ¡Incluso puedes equiparla con un moderno horno!\r\n\r\n[pagebreak]\r\n<b>Ampliaciones de torre</b>\r\n\r\nQuienes tengan una naturaleza estudiosa o simplemente aprecien las fantásticas vistas de la naturaleza circundante quizá prefieran construir una o dos torres. Este plano ofrece una habitación en el primer piso, otra en el segundo y una azotea protegida de los elementos por un dosel.\r\n\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHTower_left.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHTower_back.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHTower_right.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Dividir una torre</b>\r\n\r\nSi buscas aprovechar el espacio de manera eficiente, puedes optar por amueblar las habitaciones superior e inferior de una torre para diferentes propósitos. Al amueblar las habitaciones en el banco de trabajo, simplemente decide dividir la torre y luego continúa con los planes de cada habitación.\r\n\r\n[pagebreak]\r\n<b>Torre - Torre del encantador</b>\r\n\r\nSi tus intereses se encuentran en el ámbito de la magia, esta ampliación de torre es para ti. Realiza tus investigaciones con privacidad y comodidad. Tendrás abundante espacio para mantener organizadas tus colecciones y artefactos. Y la vista desde la torre te dejará sin aliento.\r\n\r\n[pagebreak]\r\n<b>Torre - Laboratorio de alquimia</b>\r\n\r\nPerfecta para el alquimista aspirante, esta ampliación de torre te brindará mucho espacio y almacenamiento para perfeccionar tu oficio con comodidad. Y cuando necesites descansar de preparar pociones, disfruta de la vista desde la azotea de la torre.\r\n\r\n[pagebreak]\r\n<b>Torre - Biblioteca</b>\r\n\r\nLa torre Biblioteca encantará a quienes valoran la literatura. Con espacio para todas las estanterías que puedas desear, podrás disfrutar de tu colección de libros con estilo. O quizá prefieras llevar un libro a la azotea de la torre y disfrutar de la vista de tu hacienda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightArmory",
+    "form_id": "030116A7|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Indoor - Armory",
+    "string": "Interior - Armería",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightBedrooms",
+    "form_id": "030116A8|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Indoor - Bedrooms",
+    "string": "Interior - Dormitorios",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightStorage",
+    "form_id": "030116A9|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Indoor - Storage Room",
+    "string": "Interior - Sala de almacenamiento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftStorage",
+    "form_id": "0301224B|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Indoor - Storage Room",
+    "string": "Interior - Sala de almacenamiento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftBedrooms",
+    "form_id": "03012250|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Indoor - Bedrooms",
+    "string": "Interior - Dormitorios",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftArmory",
+    "form_id": "03012251|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Indoor - Armory",
+    "string": "Interior - Armería",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackArmory",
+    "form_id": "03013F3F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Indoor - Armory",
+    "string": "Interior - Armería",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackBedrooms",
+    "form_id": "03013F40|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Indoor - Bedrooms",
+    "string": "Interior - Dormitorios",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackStorage",
+    "form_id": "03013F45|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Indoor - Storage Room",
+    "string": "Interior - Sala de almacenamiento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearLeftPorch",
+    "form_id": "03014BF8|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch - Clear Furniture",
+    "string": "Porche oeste - Retirar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearLeftTower",
+    "form_id": "03014BFF|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower - Clear Furniture",
+    "string": "Torre oeste - Quitar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearBackTower",
+    "form_id": "03014C05|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower - Clear Furniture",
+    "string": "Torre norte - Quitar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearBackPorch",
+    "form_id": "03014C07|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch - Clear Furniture",
+    "string": "Porche norte - Retirar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearRightPorch",
+    "form_id": "03015169|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch - Clear Furniture",
+    "string": "Porche este - Retirar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearRightTower",
+    "form_id": "0301516B|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower - Clear Furniture",
+    "string": "Torre este - Quitar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1RemoveBackTower",
+    "form_id": "03018756|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower - Tear Down",
+    "string": "Torre Norte - Derribar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1RemoveLeftTower",
+    "form_id": "03018759|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower - Tear Down",
+    "string": "Torre Oeste - Derribar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1RemoveRightTower",
+    "form_id": "0301875C|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower - Tear Down",
+    "string": "Torre Este - Derribar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1RemoveBackPorch",
+    "form_id": "0301E417|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch - Tear Down",
+    "string": "Porche norte - Demoler",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1RemoveLeftPorch",
+    "form_id": "0301E418|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch - Tear Down",
+    "string": "Porche oeste - Demoler",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1RemoveRightPorch",
+    "form_id": "0301E419|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch - Tear Down",
+    "string": "Porche este - Demoler",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAttPart596Barrels01",
+    "form_id": "0400B380|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Barrels",
+    "string": "Barriles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAttPart606Washbasin01",
+    "form_id": "0400B381|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Washbasin on Stand",
+    "string": "Lavabo sobre soporte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAttPart607Washbasin02",
+    "form_id": "0400B382|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Washbasin on Stand",
+    "string": "Lavabo sobre soporte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAttPart608WallSconce01",
+    "form_id": "0400B383|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconce",
+    "string": "Aplique de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAttPart609WallSconcex2_01",
+    "form_id": "0400B384|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconces (2)",
+    "string": "Apliques de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAttPart604WardrobeTallx2_01",
+    "form_id": "0400B385|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Wardrobe (2)",
+    "string": "Armarios altos (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAttPart601TableRoundChairs01",
+    "form_id": "0400B386|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Round Table and Chairs",
+    "string": "Mesa redonda y sillas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAttPart599ChestWithBarrels596",
+    "form_id": "0400B387|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAttPart597BedSinglex2_01",
+    "form_id": "0400B388|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Single Bed (2)",
+    "string": "Camas individuales (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAttPart600Safe01",
+    "form_id": "0400B389|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Safe",
+    "string": "Caja fuerte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAttPart602TableThin01",
+    "form_id": "0400B38A|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Thin Table",
+    "string": "Mesa estrecha",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAttPart598BedSinglex2_02",
+    "form_id": "0400B38B|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Single Bed (2)",
+    "string": "Camas individuales (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAttPart603TableThin02",
+    "form_id": "0400B38C|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Thin Table",
+    "string": "Mesa estrecha",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAttPart605WardrobeTallx2_02",
+    "form_id": "0400B38D|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Wardrobe (2)",
+    "string": "Armarios altos (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGarPart564PlanterLargeExterior01",
+    "form_id": "0400B38E|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Large Planter",
+    "string": "Macetero grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGarPart565PlanterLargeExterior02",
+    "form_id": "0400B38F|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Large Planter",
+    "string": "Macetero grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMBCraPart489ChestWithTable494",
+    "form_id": "0400B3B8|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMBCraPart492DisplayCaseWithTable494",
+    "form_id": "0400B3BA|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Display Case, Small",
+    "string": "Vitrina, pequeña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMBCraPart484Bench01",
+    "form_id": "0400B3BE|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bench",
+    "string": "Banco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMBCraPart502TanningRack01",
+    "form_id": "0400B3C2|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tanning Rack",
+    "string": "Curtidor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMBCraPart505WeaponPlaquex2_01",
+    "form_id": "0400B3C3|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Weapon Plaques (2)",
+    "string": "Placas de armas (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMBCraPart506WeaponRackx2_01",
+    "form_id": "0400B3C4|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Weapon Racks (2)",
+    "string": "Soportes para armas (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMBCraPart498Mannequin01",
+    "form_id": "0400B3C8|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Armor Mannequin",
+    "string": "Maniquí de armadura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMBCraPart501Safe01",
+    "form_id": "0400B3C9|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Safe",
+    "string": "Caja fuerte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMBCraPart497ChestLong01",
+    "form_id": "0400B3CA|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest, Long",
+    "string": "Cofre, largo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMBCraPart481Anvil01",
+    "form_id": "0400B3CD|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Blacksmith Anvil",
+    "string": "Yunque de herrero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMBLibPart435Bookshelf02",
+    "form_id": "0400B3E2|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bookshelf",
+    "string": "Estantería",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMBLibPart470BookshelfTall06",
+    "form_id": "0400B3EC|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Bookshelf",
+    "string": "Estantería alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMBLibPart471BookshelfTall07",
+    "form_id": "0400B3ED|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Bookshelf",
+    "string": "Estantería alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMBLibPart472BookshelfTall08",
+    "form_id": "0400B3EE|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Bookshelf",
+    "string": "Estantería alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMBLibPart473BookshelfTall09",
+    "form_id": "0400B3EF|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Bookshelf",
+    "string": "Estantería alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMBLibPart474BookshelfTall10",
+    "form_id": "0400B3F0|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Bookshelf",
+    "string": "Estantería alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMBLibPart475BookshelfTall11",
+    "form_id": "0400B3F1|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Bookshelf",
+    "string": "Estantería alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMBLibPart476BookshelfTall12",
+    "form_id": "0400B3F2|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Bookshelf",
+    "string": "Estantería alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMBLibPart478Desk01",
+    "form_id": "0400B3F4|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Desk",
+    "string": "Escritorio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHDinPart577BenchExteriorx2_01",
+    "form_id": "0400B3F6|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Benches (2)",
+    "string": "Bancos (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHDinPart585TableSquareExterior01",
+    "form_id": "0400B3F7|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Square Table",
+    "string": "Mesa cuadrada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHDinPart587WallSconceExteriorx2",
+    "form_id": "0400B3F8|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconces (2)",
+    "string": "Apliques de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHDinPart588WashbasinExterior01",
+    "form_id": "0400B3F9|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Washbasin on Stand",
+    "string": "Lavabo sobre soporte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHDinPart586TableBenchesExterior",
+    "form_id": "0400B3FA|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Table with Benches",
+    "string": "Mesa con bancos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHDinPart576BarrelsExterior01",
+    "form_id": "0400B3FB|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Barrels",
+    "string": "Barriles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHDinPart580HangingRackExterior01",
+    "form_id": "0400B3FC|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Hanging Rack",
+    "string": "Estante colgante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHDinPart582OvenExterior01",
+    "form_id": "0400B3FD|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Oven",
+    "string": "Horno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHDinPart583TableThinExterior01",
+    "form_id": "0400B3FE|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Thin Table",
+    "string": "Mesa estrecha",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHDinPart578BenchExteriorx2_02",
+    "form_id": "0400B3FF|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Benches (2)",
+    "string": "Bancos (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHDinPart579FirepitExterior01",
+    "form_id": "0400B400|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Firepit",
+    "string": "Fogata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHDinPart581HangingRackExterior02",
+    "form_id": "0400B401|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Hanging Rack",
+    "string": "Estante colgante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHDinPart584TableThinExterior02",
+    "form_id": "0400B402|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Thin Table",
+    "string": "Mesa estrecha",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGarPart566PlanterLargeExterior03",
+    "form_id": "0400B403|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Large Planter",
+    "string": "Macetero grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGarPart568PlanterLargeExterior05",
+    "form_id": "0400B405|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Large Planter",
+    "string": "Macetero grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGarPart569PlanterLargeExterior06",
+    "form_id": "0400B406|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Large Planter",
+    "string": "Macetero grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGarPart570PlanterLargeExterior07",
+    "form_id": "0400B407|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Large Planter",
+    "string": "Macetero grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGarPart571TableRoundChairsExterior01",
+    "form_id": "0400B408|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Round Table and Chairs",
+    "string": "Mesa redonda y sillas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGarPart572WallSconceExteriorx2",
+    "form_id": "0400B409|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconces (2)",
+    "string": "Apliques de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTraPart589ArcheryTargetx2Exterior01",
+    "form_id": "0400B40A|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Archery Targets (2)",
+    "string": "Blancos de arquería (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTraPart590BenchExterior01",
+    "form_id": "0400B40B|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bench",
+    "string": "Banco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTraPart593WallSconceExteriorx2",
+    "form_id": "0400B40C|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconces (2)",
+    "string": "Apliques de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTraPart594WashbasinExterior01",
+    "form_id": "0400B40D|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Washbasin on Stand",
+    "string": "Lavabo sobre soporte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTraPart595WeaponRackx6Exterior01",
+    "form_id": "0400B40E|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Weapon Racks (6)",
+    "string": "Soportes para armas (6)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTraPart592TableSquareExterior01",
+    "form_id": "0400B40F|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Square Table",
+    "string": "Mesa cuadrada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTraPart591PracticeDummiesx2Exterior01",
+    "form_id": "0400B410|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Practice Dummies (2)",
+    "string": "Muñecos de práctica (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGarPart567PlanterLargeExterior04",
+    "form_id": "0400B41B|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Large Planter",
+    "string": "Macetero grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomMBKitchen",
+    "form_id": "0400BF61|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Kitchen",
+    "string": "Cocina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomMBLibrary",
+    "form_id": "0400BF62|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Library",
+    "string": "Biblioteca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomMBCrafting",
+    "form_id": "0400BF63|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Crafting Room",
+    "string": "Sala de artesanía",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomAttic",
+    "form_id": "0400BF64|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Attic",
+    "string": "Ático",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackDining",
+    "form_id": "0400BF65|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Outdoor - Dining/Kitchen",
+    "string": "Exterior - Comedor/Cocina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackGarden",
+    "form_id": "0400BF66|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Outdoor - Garden",
+    "string": "Exterior - Jardín",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackTraining",
+    "form_id": "0400BF67|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Outdoor - Training Area",
+    "string": "Exterior - Área de entrenamiento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftDining",
+    "form_id": "0400BF68|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Outdoor - Dining/Kitchen",
+    "string": "Exterior - Comedor/Cocina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftGarden",
+    "form_id": "0400BF69|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Outdoor - Garden",
+    "string": "Exterior - Jardín",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftTraining",
+    "form_id": "0400BF6A|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Outdoor - Training Area",
+    "string": "Exterior - Área de entrenamiento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightTraining",
+    "form_id": "0400BF6B|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Outdoor - Training Area",
+    "string": "Exterior - Área de entrenamiento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightGarden",
+    "form_id": "0400BF6C|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Outdoor - Garden",
+    "string": "Exterior - Jardín",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightDining",
+    "form_id": "0400BF6D|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Outdoor - Dining/Kitchen",
+    "string": "Exterior - Comedor/Cocina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorMain2ndMoveShelf056",
+    "form_id": "0400CA4A|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Attic - Move Shelf",
+    "string": "Ático - Mover estante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMain2ndPart056ShelfTall01_Moved",
+    "form_id": "0400CA4B|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Shelf",
+    "string": "Estante alto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorMain2ndMoveChandelier058",
+    "form_id": "0400CA4E|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Attic - Lower Chandelier",
+    "string": "Ático - Bajar araña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorMain2ndMoveChandelier059",
+    "form_id": "0400CA4F|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Attic - Lower Chandelier",
+    "string": "Ático - Bajar araña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMain2ndPart058ChandelierSmall01_Moved",
+    "form_id": "0400CA53|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chandelier, Small",
+    "string": "Araña, pequeña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHMain2ndPart059ChandelierSmall02_Moved",
+    "form_id": "0400CA54|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chandelier, Small",
+    "string": "Araña, pequeña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerAlcPart526AlchemyTable01",
+    "form_id": "0400D018|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Alchemy Lab",
+    "string": "Laboratorio de alquimia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerAlcPart527Barrels01",
+    "form_id": "0400D019|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Barrels",
+    "string": "Barriles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerAlcPart528ChandelierSmall01",
+    "form_id": "0400D01A|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chandelier, Small",
+    "string": "Araña, pequeña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerAlcPart529Chest01",
+    "form_id": "0400D01B|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerAlcPart530DisplayWardrobeSmall01",
+    "form_id": "0400D01C|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Display Case and Small Wardrobe",
+    "string": "Vitrina y armario pequeño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerAlcPart531HangingRack01",
+    "form_id": "0400D01D|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Hanging Rack",
+    "string": "Estante colgante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerAlcPart532MountedMudcrab01",
+    "form_id": "0400D01E|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Mudcrab",
+    "string": "Cangrejo de lodo disecado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerAlcPart533TableEndx2_01",
+    "form_id": "0400D01F|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "End Tables (2)",
+    "string": "Mesas auxiliares (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerAlcPart534SafeWithShelf537",
+    "form_id": "0400D020|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Safe",
+    "string": "Caja fuerte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerAlcPart535SafeWithShelf537",
+    "form_id": "0400D021|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Safe",
+    "string": "Caja fuerte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerAlcPart536ShelfSmall1",
+    "form_id": "0400D022|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Small Shelf",
+    "string": "Estante pequeño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerAlcPart537ShelfTall01",
+    "form_id": "0400D023|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Shelf",
+    "string": "Estante alto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerAlcPart538WallSconcex2_01",
+    "form_id": "0400D024|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconces (2)",
+    "string": "Apliques de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerAlcPart539WallShelf01",
+    "form_id": "0400D025|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Shelf",
+    "string": "Estante de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerAlcPart540Washbasin01",
+    "form_id": "0400D026|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Washbasin on Stand",
+    "string": "Lavabo sobre soporte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerEncPart513Brazier01",
+    "form_id": "0400D027|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Brazier",
+    "string": "Brasero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerEncPart514Brazier02",
+    "form_id": "0400D028|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Brazier",
+    "string": "Brasero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerEncPart516EnchantingTable01",
+    "form_id": "0400D02A|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Arcane Enchanter",
+    "string": "Encantador arcano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerEncPart517TableEnd01",
+    "form_id": "0400D02B|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "End Table",
+    "string": "Mesa auxiliar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerEncPart518Mannequin01",
+    "form_id": "0400D02C|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Armor Mannequin",
+    "string": "Maniquí de armadura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerEncPart519WallShelf01",
+    "form_id": "0400D02D|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Shelf",
+    "string": "Estante de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerEncPart520WeaponPlaque01",
+    "form_id": "0400D02E|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Weapon Plaque",
+    "string": "Placa de armas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerEncPart521WeaponRackx3_01",
+    "form_id": "0400D02F|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Weapon Racks (3)",
+    "string": "Soportes para armas (3)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerEncPart522ChestWithCupboard523",
+    "form_id": "0400D030|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerEncPart523Cupboard01",
+    "form_id": "0400D031|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Cupboard",
+    "string": "Armario",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerLibPart541Bookshelf01",
+    "form_id": "0400D032|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bookshelf",
+    "string": "Estantería",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerLibPart542Bookshelf02",
+    "form_id": "0400D033|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bookshelf",
+    "string": "Estantería",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerLibPart543BookshelfTall01",
+    "form_id": "0400D034|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Bookshelf",
+    "string": "Estantería alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerLibPart544BookshelfTall02",
+    "form_id": "0400D035|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Bookshelf",
+    "string": "Estantería alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerLibPart545BookshelfTall03",
+    "form_id": "0400D036|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Bookshelf",
+    "string": "Estantería alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerLibPart546BookshelfTall04",
+    "form_id": "0400D037|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Bookshelf",
+    "string": "Estantería alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerLibPart548ChandelierSmall01",
+    "form_id": "0400D039|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chandelier, Small",
+    "string": "Araña, pequeña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerLibPart549TableNight01",
+    "form_id": "0400D03A|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Night Table",
+    "string": "Mesa de noche",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerLibPart547Chair01",
+    "form_id": "0400D03B|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chair",
+    "string": "Silla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHUpperAlcPart525ChandelierSmall01",
+    "form_id": "0400D03C|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chandelier, Small",
+    "string": "Araña, pequeña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHUpperEncPart524Brazier01",
+    "form_id": "0400D03F|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Brazier",
+    "string": "Brasero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLowerEncPart515Chest01",
+    "form_id": "0400D059|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackLowerAlchemy",
+    "form_id": "0400D110|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Lower Alchemy Laboratory",
+    "string": "Laboratorio de alquimia inferior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackLowerEnchanting",
+    "form_id": "0400D111|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Lower Enchanter's Tower",
+    "string": "Torre del encantador inferior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackLowerLibrary",
+    "form_id": "0400D112|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Lower Library",
+    "string": "Biblioteca inferior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftLowerAlchemy",
+    "form_id": "0400D113|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Lower Alchemy Laboratory",
+    "string": "Laboratorio de alquimia inferior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftLowerEnchanting",
+    "form_id": "0400D114|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Lower Enchanter's Tower",
+    "string": "Torre del encantador inferior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftLowerLibrary",
+    "form_id": "0400D115|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Lower Library",
+    "string": "Biblioteca inferior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightLowerAlchemy",
+    "form_id": "0400D116|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Lower Alchemy Laboratory",
+    "string": "Laboratorio de alquimia inferior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightLowerEnchanting",
+    "form_id": "0400D117|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Lower Enchanter's Tower",
+    "string": "Torre del encantador inferior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightLowerLibrary",
+    "form_id": "0400D118|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Lower Library",
+    "string": "Biblioteca inferior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightUpperLibrary",
+    "form_id": "0400D119|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Upper Library",
+    "string": "Biblioteca superior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightUpperEnchanting",
+    "form_id": "0400D11A|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Upper Enchanter's Tower",
+    "string": "Torre del encantador superior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightUpperAlchemy",
+    "form_id": "0400D11B|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Upper Alchemy Laboratory",
+    "string": "Laboratorio de alquimia superior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftUpperLibrary",
+    "form_id": "0400D11C|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Upper Library",
+    "string": "Biblioteca superior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftUpperEnchanting",
+    "form_id": "0400D11D|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Upper Enchanter's Tower",
+    "string": "Torre del encantador superior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftUpperAlchemy",
+    "form_id": "0400D11E|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Upper Alchemy Laboratory",
+    "string": "Laboratorio de alquimia superior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackUpperLibrary",
+    "form_id": "0400D11F|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Upper Library",
+    "string": "Biblioteca superior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackUpperEnchanting",
+    "form_id": "0400D120|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Upper Enchanter's Tower",
+    "string": "Torre del encantador superior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackUpperAlchemy",
+    "form_id": "0400D121|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Upper Alchemy Laboratory",
+    "string": "Laboratorio de alquimia superior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackSplitTower",
+    "form_id": "0400D122|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Split Tower Into Upper and Lower",
+    "string": "Dividir torre en superior e inferior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftSplitTower",
+    "form_id": "0400D123|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Split Tower Into Upper and Lower",
+    "string": "Dividir torre en superior e inferior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightSplitTower",
+    "form_id": "0400D124|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Split Tower Into Upper and Lower",
+    "string": "Dividir torre en superior e inferior",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearMainBack",
+    "form_id": "0400F189|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Back Room - Clear Furniture",
+    "string": "Habitación trasera - Quitar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearRightPorchInterior",
+    "form_id": "0400FC4D|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch Interior - Clear Furniture",
+    "string": "Porche este interior - Quitar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearRightPorchExterior",
+    "form_id": "0400FC4E|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch Exterior - Clear Furniture",
+    "string": "Porche este exterior - Quitar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearLeftPorchInterior",
+    "form_id": "0400FC4F|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch Interior - Clear Furniture",
+    "string": "Porche oeste interior - Quitar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearLeftPorchExterior",
+    "form_id": "0400FC50|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch Exterior - Clear Furniture",
+    "string": "Porche oeste exterior - Quitar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearBackPorchInterior",
+    "form_id": "0400FC51|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch Interior - Clear Furniture",
+    "string": "Porche norte interior - Quitar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearBackPorchExterior",
+    "form_id": "0400FC52|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch Exterior - Clear Furniture",
+    "string": "Porche norte exterior - Quitar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseInteriorWorkbenchRoom02_BackBYH",
+    "form_id": "04000EB1|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Carpenter's Workbench",
+    "string": "Banco de trabajo de carpintero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseInteriorWorkbenchRoom02_BedroomsBYH",
+    "form_id": "04008300|HearthfireAdditionsMoreCustomization.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Carpenter's Workbench",
+    "string": "Banco de trabajo de carpintero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouse1Bard",
+    "form_id": "02018DE0|HearthFires.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Llewellyn the Nightingale",
+    "string": "Llewellyn el Ruiseñor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouse1Bard",
+    "form_id": "02018DE0|HearthFires.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Llewellyn",
+    "string": "Llewellyn",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousecarlFalkreath",
+    "form_id": "02005215|HearthFires.esm",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Rayya",
+    "string": "Rayya",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousecarlFalkreath",
+    "form_id": "02005215|HearthFires.esm",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Rayya",
+    "string": "Rayya",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouse1Falkreath",
+    "form_id": "02002FEC|HearthFires.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Lakeview Manor",
+    "string": "Mansión de Vista Lacustre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "Skyrim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouseBuilding",
+    "form_id": "0200305D|HearthFires.esm",
+    "index": 100,
+    "type": "QUST NNAM",
+    "original": "Buy lumber for building your house",
+    "string": "Compra madera para construir tu casa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageFIN",
+    "form_id": "00021382|Skyrim.esm",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Visit your spouse's house",
+    "string": "Visita la casa de tu cónyuge",
+    "status": "TranslationComplete"
+  }
+]

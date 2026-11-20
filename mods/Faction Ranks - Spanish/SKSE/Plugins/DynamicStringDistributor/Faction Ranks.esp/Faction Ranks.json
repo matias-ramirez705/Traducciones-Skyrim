@@ -1,0 +1,1298 @@
+[
+  {
+    "editor_id": "FactionRanks_TG_ArmorDescEffect",
+    "form_id": "02000814|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Thieves Guild Armor",
+    "string": "Armadura del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_ArmorDescEffect",
+    "form_id": "02000814|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Carrying capacity increased by 20 points. While wearing the guild's complete set, an additional 15 points of carrying capacity is added each time you rank up in the Thieves Guild. Current rank: <Global=FactionRanks_ThievesGuildRank>",
+    "string": "La capacidad de carga aumenta en 20 puntos. Al usar el conjunto completo del gremio, se anaden 15 puntos adicionales de capacidad de carga cada vez que asciendes de rango en el Gremio de Ladrones. Rango actual: <Global=FactionRanks_ThievesGuildRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_BootsDescEffect",
+    "form_id": "02000815|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Thieves Guild Boots",
+    "string": "Botas del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_BootsDescEffect",
+    "form_id": "02000815|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Fall damage is reduced by 20%, movement speed is increased by 10%. While wearing the guild's complete set, each time you rank up in the Thieves Guild fall damage is reduced by further 20% and movement speed is increased by 2%. Current rank: <Global=FactionRanks_ThievesGuildRank>",
+    "string": "El daño por caida se reduce en 20%, la velocidad de movimiento aumenta en 10%. Mientras lleves el conjunto completo del gremio, cada vez que asciendas de rango en el Gremio de Ladrones el daño por caida se reduce en 20% adicional y la velocidad de movimiento aumenta en 2%. Rango actual: <Global=FactionRanks_ThievesGuildRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_GlovesDescEffect",
+    "form_id": "02000816|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Thieves Guild Gloves",
+    "string": "Guantes del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_GlovesDescEffect",
+    "form_id": "02000816|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Pickpocketing an enemy reduces their poison resistance by 30%. While wearing the guild's complete set, an additional 10% is added each time you rank up in the Thieves Guild. Current rank: <Global=FactionRanks_ThievesGuildRank>",
+    "string": "Robar a un enemigo reduce su resistencia al veneno en 30%. Mientras lleves el conjunto completo del gremio, se añade un 10% adicional cada vez que asciendas de rango en el Gremio de Ladrones. Rango actual: <Global=FactionRanks_ThievesGuildRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_HoodDescEffect",
+    "form_id": "02000817|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Thieves Guild Hood",
+    "string": "Capucha del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_HoodDescEffect",
+    "form_id": "02000817|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Prices are 5% better. While wearing the guild's complete set, an additional 3% is added each time you rank up in the Thieves Guild. Current rank: <Global=FactionRanks_ThievesGuildRank>",
+    "string": "Los precios son un 5% mejores. Al usar el conjunto completo del gremio, se anade un 3% adicional cada vez que asciendes de rango en el Gremio de Ladrones. Rango actual: <Global=FactionRanks_ThievesGuildRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifySpeechcraft",
+    "form_id": "02000818|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Barter",
+    "string": "Fortificar trueque",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifySpeechcraft",
+    "form_id": "02000818|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Prices are <mag>% better.",
+    "string": "Los precios son <mag>% mejores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifyCarry",
+    "form_id": "02000819|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Carry Weight",
+    "string": "Fortificar carga",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifyCarry",
+    "form_id": "02000819|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Carrying capacity increased by <mag> points.",
+    "string": "La capacidad de carga aumenta en <mag> puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifyLockpicking",
+    "form_id": "0200081A|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Lockpicking",
+    "string": "Fortificar forzar cerraduras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifyLockpicking",
+    "form_id": "0200081A|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Lockpicking is <mag>% easier.",
+    "string": "Forzar cerraduras es <mag>% mas facil.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifyPickpocket",
+    "form_id": "0200081B|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Pickpocket",
+    "string": "Fortificar robar bolsillos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifyPickpocket",
+    "form_id": "0200081B|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Pickpocket success is <mag>% better.",
+    "string": "El exito al robar bolsillos es <mag>% mejor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifyMagicka",
+    "form_id": "0200081C|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Magicka",
+    "string": "Fortificar magia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifyMagicka",
+    "form_id": "0200081C|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Increases your Magicka by <mag> points.",
+    "string": "Aumenta tu magia en <mag> puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifyMagickaRate",
+    "form_id": "0200081D|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Regenerate Magicka",
+    "string": "Regenerar magia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifyMagickaRate",
+    "form_id": "0200081D|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Magicka regenerates <mag>% faster.",
+    "string": "La magia se regenera <mag>% mas rapido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_RobesDescEffect",
+    "form_id": "02000822|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "College of Winterhold Robes",
+    "string": "Tunica del Colegio de Hibernalia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_RobesDescEffect",
+    "form_id": "02000822|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Magicka regenerates 50% faster. Each time you rank up an additional 10% is added, provided you're wearing the guild's complete set. Current rank: <Global=FactionRanks_MagesGuildRank>",
+    "string": "La magia se regenera un 50% mas rapido. Cada vez que asciendes de rango se anade un 10% adicional, siempre que uses el conjunto completo del gremio. Rango actual: <Global=FactionRanks_MagesGuildRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_BootsDescEffect",
+    "form_id": "02000823|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "College of Winterhold Boots",
+    "string": "Botas del Colegio de Hibernalia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_BootsDescEffect",
+    "form_id": "02000823|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "5% chance to absorb hostile spells. While wearing the guild's complete set, an additional 3% is added each time you rank up in the Mages Guild. Current rank: <Global=FactionRanks_MagesGuildRank>",
+    "string": "5% de probabilidad de absorber hechizos hostiles. Mientras lleves el conjunto completo del gremio, se añade un 3% adicional cada vez que asciendas de rango en el Gremio de Magos. Rango actual: <Global=FactionRanks_MagesGuildRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_GlovesDescEffect",
+    "form_id": "02000824|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "College of Winterhold Gloves",
+    "string": "Guantes del Colegio de Hibernalia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_GlovesDescEffect",
+    "form_id": "02000824|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Novice spells are 15% stronger or last longer. This bonus applies to spells of higher level as well when you rank up in the guild and you're wearing the guild's complete set of attire.",
+    "string": "Los hechizos de nivel Aprendiz son 15% mas fuertes o duran mas tiempo. Este bonus tambien se aplica a hechizos de nivel superior cuando asciendas de rango en el gremio y lleves el conjunto completo de vestimenta del gremio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_HoodDescEffect",
+    "form_id": "02000825|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "College of Winterhold Hood",
+    "string": "Capucha del Colegio de Hibernalia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_HoodDescEffect",
+    "form_id": "02000825|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Magicka is increased by 30. Each time you rank up an additional 10 points is added, provided you're wearing the guild's complete set. Current rank: <Global=FactionRanks_MagesGuildRank>",
+    "string": "La magia aumenta en 30 puntos. Cada vez que asciendes de rango se anaden 10 puntos adicionales, siempre que uses el conjunto completo del gremio. Rango actual: <Global=FactionRanks_MagesGuildRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchAbsorb",
+    "form_id": "0200082B|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Magicka Shield",
+    "string": "Escudo de magia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_BootsDescEffect",
+    "form_id": "0200082C|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dark Brotherhood Boots",
+    "string": "Botas de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_BootsDescEffect",
+    "form_id": "0200082C|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Movement noise is reduced by 15%. While wearing the guild's complete set, an additional 7% is added each time you rank up in the Dark Brotherhood. Current rank: <Global=FactionRanks_DarkBrotherhoodRank>",
+    "string": "El ruido de movimiento se reduce en un 15%. Al usar el conjunto completo del gremio, se anade un 7% adicional cada vez que asciendes de rango en la Hermandad Oscura. Rango actual: <Global=FactionRanks_DarkBrotherhoodRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_GlovesDescEffect",
+    "form_id": "0200082D|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dark Brotherhood Gloves",
+    "string": "Guantes de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_GlovesDescEffect",
+    "form_id": "0200082D|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Sneak attacks with One-handed weapons deal 25% more damage. While wearing the guild's complete set, an additional 15% is added each time you rank up in the Dark Brotherhood. Current rank: <Global=FactionRanks_DarkBrotherhoodRank>",
+    "string": "Los ataques furtivos con armas de una mano hacen un 25% mas de daño. Al usar el conjunto completo del gremio, se anade un 15% adicional cada vez que asciendes de rango en la Hermandad Oscura. Rango actual: <Global=FactionRanks_DarkBrotherhoodRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_ArmorDescEffect",
+    "form_id": "0200082E|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dark Brotherhood Armor",
+    "string": "Armadura de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_ArmorDescEffect",
+    "form_id": "0200082E|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Destruction spells cost 10% less to cast. While wearing the guild's complete set, an additional 5% is added each time you rank up in the Dark Brotherhood. Current rank: <Global=FactionRanks_DarkBrotherhoodRank>",
+    "string": "Los hechizos de destruccion cuestan un 10% menos de lanzar. Al usar el conjunto completo del gremio, se anade un 5% adicional cada vez que asciendes de rango en la Hermandad Oscura. Rango actual: <Global=FactionRanks_DarkBrotherhoodRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchMuffle",
+    "form_id": "02000830|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Muffle",
+    "string": "Silencio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchMuffle",
+    "form_id": "02000830|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Wearer is muffled and moves silently.",
+    "string": "El portador se mueve en silencio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_CowlDescEffect",
+    "form_id": "02000831|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dark Brotherhood Cowl",
+    "string": "Capucha de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_CowlDescEffect",
+    "form_id": "02000831|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Bows do 10% more damage. While wearing the guild's complete set, an additional 5% is added each time you rank up in the Dark Brotherhood. Current rank: <Global=FactionRanks_DarkBrotherhoodRank>",
+    "string": "Los arcos hacen un 10% mas de daño. Al usar el conjunto completo del gremio, se anade un 5% adicional cada vez que asciendes de rango en la Hermandad Oscura. Rango actual: <Global=FactionRanks_DarkBrotherhoodRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifyArchery",
+    "form_id": "02000832|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Archery",
+    "string": "Fortificar arqueria",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifyArchery",
+    "form_id": "02000832|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Bows do <mag>% more damage.",
+    "string": "Los arcos hacen <mag>% mas de daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifySneak",
+    "form_id": "02000833|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Sneak",
+    "string": "Fortificar sigilo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifySneak",
+    "form_id": "02000833|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Sneaking is <mag>% better.",
+    "string": "El sigilo es <mag>% mejor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_HoodDescEffect",
+    "form_id": "02000834|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dark Brotherhood Hood",
+    "string": "Capucha de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_HoodDescEffect",
+    "form_id": "02000834|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Sneaking is 10% better. While wearing the guild's complete set, an additional 5% is added each time you rank up in the Dark Brotherhood. Current rank: <Global=FactionRanks_DarkBrotherhoodRank>",
+    "string": "El sigilo es un 10% mejor. Al usar el conjunto completo del gremio, se anade un 5% adicional cada vez que asciendes de rango en la Hermandad Oscura. Rango actual: <Global=FactionRanks_DarkBrotherhoodRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_RobesDescEffect",
+    "form_id": "0200083B|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dark Brotherhood Robes",
+    "string": "Tunica de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_RobesDescEffect",
+    "form_id": "0200083B|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Destruction spells cost 10% less and are 10% more powerful. While wearing the guild's complete set, an additional 5% is added each time you rank up in the Dark Brotherhood. Current rank: <Global=FactionRanks_DarkBrotherhoodRank>",
+    "string": "Los hechizos de destruccion cuestan un 10% menos y son un 10% mas poderosos. Al usar el conjunto completo del gremio, se anade un 5% adicional cada vez que asciendes de rango en la Hermandad Oscura. Rango actual: <Global=FactionRanks_DarkBrotherhoodRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifyMelee",
+    "form_id": "02000847|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Melee",
+    "string": "Fortificar combate cuerpo a cuerpo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifyMelee",
+    "form_id": "02000847|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Melee attacks do <mag>% more damage.",
+    "string": "Los ataques cuerpo a cuerpo hacen <mag>% mas de daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifyStamina",
+    "form_id": "02000848|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Stamina",
+    "string": "Fortificar aguante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifyStamina",
+    "form_id": "02000848|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Increases your stamina by <mag> points.",
+    "string": "Aumenta tu aguante en <mag> puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_ArmorDescEffect",
+    "form_id": "02000849|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Companion Armor",
+    "string": "Armadura de los Companeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_ArmorDescEffect",
+    "form_id": "02000849|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Melee attacks do 15% more damage. While wearing the guild's complete set, an additional 5% is added each time you rank up in The Companions. Current rank: <Global=FactionRanks_CompanionsRank>",
+    "string": "Los ataques cuerpo a cuerpo hacen un 15% mas de daño. Al usar el conjunto completo del gremio, se anade un 5% adicional cada vez que asciendes de rango en los Companeros. Rango actual: <Global=FactionRanks_CompanionsRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_BootsDescEffect",
+    "form_id": "0200084A|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Companion Boots",
+    "string": "Botas de los Companeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_BootsDescEffect",
+    "form_id": "0200084A|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Stamina is increased by 40 points. While wearing the guild's complete set, an additional 10 points is added each time you rank up in The Companions. Current rank: <Global=FactionRanks_CompanionsRank>",
+    "string": "El aguante aumenta en 40 puntos. Al usar el conjunto completo del gremio, se anaden 10 puntos adicionales cada vez que asciendes de rango en los Companeros. Rango actual: <Global=FactionRanks_CompanionsRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_GlovesDescEffect",
+    "form_id": "0200084B|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Companion Gauntlets",
+    "string": "Guanteletes de los Companeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_GlovesDescEffect",
+    "form_id": "0200084B|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "+10% critical chance. While wearing the guild's complete set, an additional 3% is added each time you rank up in The Companions. Current rank: <Global=FactionRanks_CompanionsRank>",
+    "string": "+10% de probabilidad de golpe critico. Al usar el conjunto completo del gremio, se anade un 3% adicional cada vez que asciendes de rango en los Companeros. Rango actual: <Global=FactionRanks_CompanionsRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_HelmetDescEffect",
+    "form_id": "0200084C|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Companion Helmet",
+    "string": "Yelmo de los Companeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_HelmetDescEffect",
+    "form_id": "0200084C|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Bows do 15% more damage. While wearing the guild's complete set, an additional 5% is added each time you rank up in The Companions. Current rank: <Global=FactionRanks_CompanionsRank>",
+    "string": "Los arcos hacen un 15% mas de daño. Al usar el conjunto completo del gremio, se anade un 5% adicional cada vez que asciendes de rango en los Companeros. Rango actual: <Global=FactionRanks_CompanionsRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_PoisonWeaknessEffect",
+    "form_id": "0200085F|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Weakness to Poison",
+    "string": "Debilidad al veneno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_PoisonWeaknessEffect",
+    "form_id": "0200085F|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Target is <mag>% weaker to poison for <dur> seconds.",
+    "string": "El objetivo es <mag>% mas debil al veneno durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_EnchFortifySpeed",
+    "form_id": "02000861|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Speed Burst",
+    "string": "Rafaga de velocidad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_BoonToggleEffect",
+    "form_id": "02000862|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Toggle Companions Boon",
+    "string": "Alterna la bendicion de los Compañeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_BoonToggleEffect",
+    "form_id": "02000863|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Toggle Dark Brotherhood Boon",
+    "string": "Alterna la bendicion de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_BoonToggleEffect",
+    "form_id": "02000864|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Toggle Mages Guild Boon",
+    "string": "Alterna la bendicion del Gremio de Magos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_BoonToggleEffect",
+    "form_id": "02000865|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Toggle Thieves Guild Boon",
+    "string": "Alterna la bendicion del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_BoonEffect",
+    "form_id": "02000866|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Companion's Boon",
+    "string": "Bendicion de los Compañeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_BoonEffect",
+    "form_id": "02000866|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "After killing an enemy without sneaking, your very next attack deals +10% more damage.",
+    "string": "Tras matar a un enemigo sin estar en sigilo, tu siguiente ataque inflige +10% mas daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_BoonResetEffect",
+    "form_id": "02000869|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Reset Companion's Boon",
+    "string": "Restablece la bendicion de los Compañeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_BoonEffect",
+    "form_id": "0200086C|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Mages Guild Boon",
+    "string": "Bendicion del Gremio de Magos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_BoonEffect",
+    "form_id": "0200086C|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "After killing an enemy, the next spell you cast is 10% is more powerful or lasts longer.",
+    "string": "Tras matar a un enemigo, el siguiente hechizo que lances es 10% mas poderoso o dura mas tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_BoonEffect",
+    "form_id": "0200086E|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dark Brotherhood Boon",
+    "string": "Bendicion de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_BoonEffect",
+    "form_id": "0200086E|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "After killing an enemy in sneak mode, your very next attack deals +10% damage.",
+    "string": "Tras matar a un enemigo en modo sigilo, tu siguiente ataque inflige +10% de daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_BoonResetEffect",
+    "form_id": "0200086F|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Reset Dark Brotherbood's Boon",
+    "string": "Restablece la bendicion de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_BoonEffect",
+    "form_id": "02000874|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Thieves Guild's Boon",
+    "string": "Bendicion del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_BoonEffect",
+    "form_id": "02000874|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Each time you pickpocket anything your damage is increased by 2%, for up to 10%. Resets after your next attack.",
+    "string": "Cada vez que robes algo, tu daño aumenta en 2%, hasta un maximo de 10%. Se restablece tras tu siguiente ataque.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_BoonResetEffect",
+    "form_id": "02000878|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Reset Thieves Guild's Boon",
+    "string": "Restablece la bendicion del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_ArmorImprovedDescEffect",
+    "form_id": "02000881|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Thieves Guild Improved Armor",
+    "string": "Armadura mejorada del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_ArmorImprovedDescEffect",
+    "form_id": "02000881|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Carrying capacity increased by 25 points. While wearing the guild's complete set, an additional 20 points of carrying capacity is added each time you rank up in the Thieves Guild. Current rank: <Global=FactionRanks_ThievesGuildRank>",
+    "string": "La capacidad de carga aumenta en 25 puntos. Mientras lleves puesto el conjunto completo del gremio, obtendrás 20 puntos adicionales de capacidad de carga cada vez que asciendas de rango en el Gremio de Ladrones. Rango actual: <Global=FactionRanks_ThievesGuildRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_BootsImprovedDescEffect",
+    "form_id": "02000882|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Thieves Guild Improved Boots",
+    "string": "Botas mejoradas del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_BootsImprovedDescEffect",
+    "form_id": "02000882|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Fall damage is reduced by 20%, movement speed is increased by 12%. While wearing the guild's complete set, each time you rank up in the Thieves Guild fall damage is reduced by further 20% and movement speed is increased by 3%. Current rank: <Global=FactionRanks_ThievesGuildRank>",
+    "string": "El daño por caída se reduce un 20% y la velocidad de movimiento aumenta un 12%. Mientras lleves puesto el conjunto completo del gremio, cada vez que asciendas de rango en el Gremio de Ladrones el daño por caída se reduce un 20% adicional y la velocidad de movimiento aumenta un 3%. Rango actual: <Global=FactionRanks_ThievesGuildRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_GlovesImprovedDescEffect",
+    "form_id": "02000883|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Thieves Guild Improved Gloves",
+    "string": "Guantes mejorados del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_GlovesImprovedDescEffect",
+    "form_id": "02000883|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Pickpocketing an enemy reduces their poison resistance by 50%. While wearing the guild's complete set, an additional 10% is added each time you rank up in the Thieves Guild. Current rank: <Global=FactionRanks_ThievesGuildRank>",
+    "string": "Robar a un enemigo reduce su resistencia al veneno un 50%. Mientras lleves puesto el conjunto completo del gremio, se añade un 10% adicional cada vez que asciendas de rango en el Gremio de Ladrones. Rango actual: <Global=FactionRanks_ThievesGuildRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_HoodImprovedDescEffect",
+    "form_id": "02000884|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Thieves Guild Improved Hood",
+    "string": "Capucha mejorada del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_HoodImprovedDescEffect",
+    "form_id": "02000884|Faction Ranks.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Prices are 7% better. While wearing the guild's complete set, an additional 4% is added each time you rank up in the Thieves Guild. Current rank: <Global=FactionRanks_ThievesGuildRank>",
+    "string": "Los precios mejoran un 7%. Mientras lleves puesto el conjunto completo del gremio, se añade un 4% adicional cada vez que asciendas de rango en el Gremio de Ladrones. Rango actual: <Global=FactionRanks_ThievesGuildRank>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_CuirassEnch",
+    "form_id": "02000810|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Thieves Guild Cuirass",
+    "string": "Coraza del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_GauntletsEnch",
+    "form_id": "02000811|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Thieves Guild Gauntlets",
+    "string": "Guanteletes del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_BootsEnch",
+    "form_id": "02000812|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Thieves Guild Boots",
+    "string": "Botas del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_HelmetEnch",
+    "form_id": "02000813|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Thieves Guild Helmet",
+    "string": "Casco del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_BootsEnch",
+    "form_id": "02000826|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "College of Winterhold Boots",
+    "string": "Botas del Colegio de Hibernalia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_HoodEnch",
+    "form_id": "02000827|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "College of Winterhold Hood",
+    "string": "Capucha del Colegio de Hibernalia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_RobesEnch",
+    "form_id": "02000828|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "College of Winterhold Robes",
+    "string": "Tunica del Colegio de Hibernalia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_GlovesEnch",
+    "form_id": "02000829|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "College of Winterhold Gloves",
+    "string": "Guantes del Colegio de Hibernalia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_BootsEnch",
+    "form_id": "02000835|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Dark Brotherhood Boots",
+    "string": "Botas de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_RobesEnch",
+    "form_id": "02000836|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Dark Brotherhood Robes",
+    "string": "Tunica de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_HoodsEnch",
+    "form_id": "02000837|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Dark Brotherhood Hoods",
+    "string": "Capuchas de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_CowlEnch",
+    "form_id": "02000838|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Dark Brotherhood Cowl",
+    "string": "Capucha de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_GlovesEnch",
+    "form_id": "0200083A|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Dark Brotherhood Gloves",
+    "string": "Guantes de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_ArmorEnch",
+    "form_id": "0200083D|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Dark Brotherhood Armor",
+    "string": "Armadura de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_BootsEnch",
+    "form_id": "0200084D|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Companion Boots",
+    "string": "Botas de los Companeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_HelmetEnch",
+    "form_id": "0200084E|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Companion Helmet",
+    "string": "Yelmo de los Companeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_ArmorEnch",
+    "form_id": "0200084F|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Companion Armor",
+    "string": "Armadura de los Companeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_GuantletEnch",
+    "form_id": "02000851|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Companion Guantlets",
+    "string": "Guanteletes de los Companeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_BootsEnchImproved",
+    "form_id": "0200087D|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Thieves Guild Boots Improved",
+    "string": "Botas del Gremio de Ladrones mejoradas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_CuirassEnchImproved",
+    "form_id": "0200087E|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Thieves Guild Cuirass Improved",
+    "string": "Armadura del Gremio de Ladrones mejorada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_GauntletsEnchImproved",
+    "form_id": "0200087F|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Thieves Guild Gauntlets Improved",
+    "string": "Guantes del Gremio de Ladrones mejorados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_HelmetEnchImproved",
+    "form_id": "02000880|Faction Ranks.esp",
+    "index": 1,
+    "type": "ENCH FULL",
+    "original": "Thieves Guild Helmet Improved",
+    "string": "Capucha del Gremio de Ladrones mejorada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_BoonAb",
+    "form_id": "02000868|Faction Ranks.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Companion's Boon",
+    "string": "Bendicion de los Compañeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_BoonAb",
+    "form_id": "0200086D|Faction Ranks.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Mages Guild's Boon",
+    "string": "Bendicion del Gremio de Magos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_BoonAb",
+    "form_id": "02000871|Faction Ranks.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dark Brotherhood's Boon",
+    "string": "Bendicion de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_BoonAb",
+    "form_id": "02000876|Faction Ranks.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Thieves Guild's Boon",
+    "string": "Bendicion del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_Boots",
+    "form_id": "0200080C|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "The Companions Boots",
+    "string": "Botas de los Companeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_Cuirass",
+    "form_id": "0200080D|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "The Companions Armor",
+    "string": "Armadura de los Companeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_Gauntlets",
+    "form_id": "0200080E|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "The Companions Gauntlets",
+    "string": "Guanteletes de los Companeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_C_Helmet",
+    "form_id": "0200080F|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "The Companions Helmet",
+    "string": "Yelmo de los Companeros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_Hood",
+    "form_id": "0200081E|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "College of Winterhold Hood",
+    "string": "Capucha del Colegio de Hibernalia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_Boots",
+    "form_id": "0200081F|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "College of Winterhold Boots",
+    "string": "Botas del Colegio de Hibernalia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_Robes",
+    "form_id": "02000820|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "College of Winterhold Robes",
+    "string": "Tunica del Colegio de Hibernalia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_MG_Gloves",
+    "form_id": "02000821|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "College of Winterhold Gloves",
+    "string": "Guantes del Colegio de Hibernalia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_ArmorCuirass",
+    "form_id": "0200083E|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dark Brotherhood Armor",
+    "string": "Armadura de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_ArmorBoots",
+    "form_id": "0200083F|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dark Brotherhood Boots",
+    "string": "Botas de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_ArmorCowl",
+    "form_id": "02000840|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dark Brotherhood Cowl",
+    "string": "Capucha de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_ArmorCowlMaskless",
+    "form_id": "02000841|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dark Brotherhood Cowl Maskless",
+    "string": "Capucha de la Hermandad Oscura sin mascara",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_ArmorGloves",
+    "form_id": "02000842|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dark Brotherhood Gloves",
+    "string": "Guantes de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_ArmorGloves",
+    "form_id": "02000842|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO DESC",
+    "original": "Backstab does double damage.",
+    "string": "La puñalada por la espalda inflige el doble de daño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_Gloves",
+    "form_id": "02000843|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dark Brotherhood Hand Wraps",
+    "string": "Vendas de manos de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_Hood",
+    "form_id": "02000844|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dark Brotherhood Hood",
+    "string": "Capucha de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_Robes",
+    "form_id": "02000845|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dark Brotherhood Robes",
+    "string": "Tunica de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_DB_Shoes",
+    "form_id": "02000846|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Dark Brotherhood Shoes",
+    "string": "Zapatos de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_Boots",
+    "form_id": "02000853|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Thieves Guild Boots",
+    "string": "Botas del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_Cuirass",
+    "form_id": "02000854|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Thieves Guild Armor",
+    "string": "Armadura del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_Guantlets",
+    "form_id": "02000855|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Thieves Guild Gauntlets",
+    "string": "Guanteletes del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_Hood",
+    "form_id": "02000856|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Thieves Guild Hood",
+    "string": "Capucha del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_BootsImproved",
+    "form_id": "02000879|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Thieves Guild Boots",
+    "string": "Botas del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_CuirassImproved",
+    "form_id": "0200087A|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Thieves Guild Armor",
+    "string": "Armadura del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_GuantletsImproved",
+    "form_id": "0200087B|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Thieves Guild Gauntlets",
+    "string": "Guanteletes del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FactionRanks_TG_HoodImproved",
+    "form_id": "0200087C|Faction Ranks.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Thieves Guild Hood",
+    "string": "Capucha del Gremio de Ladrones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunJorrvaskrBasement",
+    "form_id": "0007947A|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Jorrvaskr Living Quarters",
+    "string": "Salón de Jorrvaskr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenThievesGuildHeadquarters",
+    "form_id": "00016BD0|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Ragged Flagon - Cistern",
+    "string": "El jarro ajado (cisterna)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DarkBrotherhoodSanctuary",
+    "form_id": "000AD5A1|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Dark Brotherhood Sanctuary",
+    "string": "Santuario de la Hermandad Oscura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG04PostToniliaBranchTopic05",
+    "form_id": "000D3A9F|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll trade in my boots.",
+    "string": "Quiero cambiar mis botas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG04PostToniliaBranchTopic04",
+    "form_id": "000D3AA0|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll trade in my gloves.",
+    "string": "Quiero cambiar mis guantes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG04PostToniliaBranchTopic03",
+    "form_id": "000D3AA1|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll trade in my armor.",
+    "string": "Quiero cambiar mi armadura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TG04PostToniliaBranchTopic02",
+    "form_id": "000D3AA3|Skyrim.esm",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'll trade in my hood.",
+    "string": "Quiero cambiar mi capucha.",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "editor_id": "zHeroFeastEffect",
+    "form_id": "03000D61|HeroFeast.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Hero's Feast",
+    "string": "Banquete del Heroe",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zHeroFeastEffect",
+    "form_id": "03000D61|HeroFeast.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Create a hero's feast",
+    "string": "Creen un banquete del heroe",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zHeroFeastSpell",
+    "form_id": "03000D62|HeroFeast.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Hero's Feast",
+    "string": "Banquete del Heroe",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zHeroFeastSpell",
+    "form_id": "03000D62|HeroFeast.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Create a hero's feast",
+    "string": "Creen un banquete del heroe",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zSpellTomeHeroFeast",
+    "form_id": "03000D64|HeroFeast.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Hero's feast",
+    "string": "Tomo de hechizo: Banquete del heroe",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "zSpellTomeHeroFeast",
+    "form_id": "03000D64|HeroFeast.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nHero's Feast",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\nBanquete del Heroe",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MerchantRiverwoodTraderChest",
+    "form_id": "00078C0C|Skyrim.esm",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  }
+]

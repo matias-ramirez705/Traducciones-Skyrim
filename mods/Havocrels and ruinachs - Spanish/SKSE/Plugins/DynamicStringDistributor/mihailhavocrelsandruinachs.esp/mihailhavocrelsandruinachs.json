@@ -1,0 +1,713 @@
+[
+  {
+    "editor_id": "mihailhavocrel_deadlands_NPC_faction",
+    "form_id": "0500081C|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "FACT FULL",
+    "original": "Daedra",
+    "string": "Daedra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_race",
+    "form_id": "05000800|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "RACE FULL",
+    "original": "Dremora",
+    "string": "Dremora",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_AB2_general_fx",
+    "form_id": "0500080E|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Ghost Visuals",
+    "string": "Efectos visuales de fantasma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_spell_fire_spell_fx_LESSER",
+    "form_id": "05000812|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Havocrel Hell Orb",
+    "string": "Orbe infernal de Havocrel",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_weapon_spell_fx",
+    "form_id": "05000815|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Stagger Area Attack",
+    "string": "Ataque de desequilibrio con área de efecto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_AB_general_fx",
+    "form_id": "0500081B|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Ghost Visuals",
+    "string": "Efectos visuales de fantasma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_spell_fire_spell_fx",
+    "form_id": "05000845|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Havocrel Hell Orb",
+    "string": "Orbe infernal de Havocrel",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_summon_havocrel1_fx",
+    "form_id": "0500085F|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Havocrel",
+    "string": "Conjurar Havocrel",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_summon_havocrel1_fx",
+    "form_id": "0500085F|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Conjures an Havocrel for <dur> seconds. It can only be used outdoors.",
+    "string": "Conjura un Havocrel durante <dur> segundos. Solo se puede usar al aire libre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailminotaurshamanSPELLragefx",
+    "form_id": "05000863|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dagon's Wrath",
+    "string": "La ira de Dagon",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_summon_fx_1",
+    "form_id": "05000876|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Ruinach Demolisher",
+    "string": "Conjurar Demoledor Ruinach",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_summon_fx_1",
+    "form_id": "05000876|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Conjures a Ruinach Demolisher for <dur> seconds.",
+    "string": "Conjura un Demoledor Ruinach durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_summon_fx_2",
+    "form_id": "05000879|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Conjure Ruinach Blazemaul",
+    "string": "Conjurar Ruinach Blazemaul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_summon_fx_2",
+    "form_id": "05000879|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Conjures a Ruinach Blazemaul for <dur> seconds.",
+    "string": "Conjura un Ruinach Blazemaul durante <dur> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_AB",
+    "form_id": "0500080D|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Flame Atronach abilities",
+    "string": "Aptitudes del atronach de las llamas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_AB2_general",
+    "form_id": "0500080F|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Spriggan abilities",
+    "string": "Aptitudes de spriggan",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_AB_general",
+    "form_id": "05000810|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Spriggan abilities",
+    "string": "Aptitudes de spriggan",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_spell_fire_spell_LESSER",
+    "form_id": "05000813|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Heat Blast",
+    "string": "Ráfaga de calor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_weapon_spell",
+    "form_id": "05000814|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Havocrel Weapon",
+    "string": "Arma de Havocrel",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_spell_fire_spell",
+    "form_id": "05000847|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Havocrel Hell Orb",
+    "string": "Orbe infernal de Havocrel",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_summon_havocrel1_spell",
+    "form_id": "0500085E|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Havocrel",
+    "string": "Conjurar Havocrel",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailminotaurshamanSPELLrage",
+    "form_id": "05000862|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Dagon's Wrath",
+    "string": "La ira de Dagon",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_summon_spell_1",
+    "form_id": "05000877|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Ruinach Demolisher",
+    "string": "Conjurar Demoledor Ruinach",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_summon_spell_2",
+    "form_id": "0500087A|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Conjure Ruinach Blazemaul",
+    "string": "Conjurar Ruinach Blazemaul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_summon_havocrel1_book",
+    "form_id": "0500085D|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Havocrel",
+    "string": "Tomo de Hechizos: Conjurar Havocrel",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_summon_havocrel1_book",
+    "form_id": "0500085D|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Havocrel",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjurar Havocrel",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_summon_book_1",
+    "form_id": "05000878|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Ruinach Demolisher",
+    "string": "Tomo de Hechizos: Conjurar Demoledor Ruinach",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_summon_book_1",
+    "form_id": "05000878|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Ruinach Demolisher",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjurar Demoledor Ruinach",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_summon_book_2",
+    "form_id": "0500087B|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Spell Tome: Conjure Ruinach Blazemaul",
+    "string": "Tomo de Hechizos: Conjurar Ruinach Blazemaul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_summon_book_2",
+    "form_id": "0500087B|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjure Ruinach Blazemaul",
+    "string": "<font face'$HandwrittenFont'><font size='40'><p align='center'>\r\nConjurar Ruinach Blazemaul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_weaponinvisible",
+    "form_id": "05000808|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Mace",
+    "string": "Maza daédrica",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_weapon2_mace",
+    "form_id": "05000817|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Havocrel Sword",
+    "string": "Espada de Havocrel",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_weapon_mace",
+    "form_id": "05000849|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Havocrel Maul",
+    "string": "Maza de Havocrel",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_weaponinvisible2",
+    "form_id": "0500086C|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Mace",
+    "string": "Maza daédrica",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_weaponinvisibleb",
+    "form_id": "05000872|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Mace",
+    "string": "Maza daédrica",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_weaponinvisible2b",
+    "form_id": "05000873|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "WEAP FULL",
+    "original": "Daedric Mace",
+    "string": "Maza daédrica",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_NPC_havocrel1_summon",
+    "form_id": "05000804|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Havocrel",
+    "string": "Havocrel",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_NPC1",
+    "form_id": "05000807|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ruinach Demolisher",
+    "string": "Demoledor Ruinach",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_sound",
+    "form_id": "0500080C|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "AudioTemplateBear",
+    "string": "AudioTemplateBear",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_NPC_havocrel2_summon",
+    "form_id": "05000818|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Havocrel",
+    "string": "Havocrel",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_voice_entrance",
+    "form_id": "05000860|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "AudioTemplateVampireLord",
+    "string": "AudioTemplateVampireLord",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_NPC2",
+    "form_id": "0500086B|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ruinach Blazemaul",
+    "string": "Ruinach Blazemaul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_NPC1summon",
+    "form_id": "05000874|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ruinach Demolisher",
+    "string": "Demoledor Ruinach",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_NPC2summon",
+    "form_id": "05000875|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Ruinach Blazemaul",
+    "string": "Ruinach Blazemaul",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinacharea1",
+    "form_id": "05000886|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Logavegr Ruins",
+    "string": "Ruinas de Logavegr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinacharea2",
+    "form_id": "05000954|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Huskarlheimr Ruins",
+    "string": "Ruinas de Huskarlheimr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "Skyrim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000843|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "REFR FULL",
+    "original": "Halldor Outpost",
+    "string": "Puesto avanzado de Halldor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A59|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "REFR FULL",
+    "original": "Huskarlheimr Ruins",
+    "string": "Ruinas de Huskarlheimr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A5C|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "REFR FULL",
+    "original": "Logavegr Ruins",
+    "string": "Ruinas de Logavegr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084D|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Give me a good fight, and your corpse will not be desecrated in Oblivion! You have my word...",
+    "string": "¡Dame una buena pelea, y tu cadáver no será profanado en Oblivion! Tienes mi palabra...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500084F|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000848|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000851|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(...)",
+    "string": "(...)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000853|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I'll tear you from the face of this realm!",
+    "string": "¡Te arrancaré de la faz de este reino!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000854|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You will be unmade by my hands!",
+    "string": "¡Serás deshecho por mis manos!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000855|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Blasted insect! You will know the wrath of an Havocrel!",
+    "string": "¡Maldito insecto! ¡Conocerás la ira de un Havocrel!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000856|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Laughable weakling, you have no power here!",
+    "string": "¡Enclenque risible, aquí no tienes poder!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000857|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You will be destroyed for your audacity, puny weakling!",
+    "string": "¡Serás destruido por tu audacia, enclenque!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000858|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You are outclassed and outmatched, puny flea!",
+    "string": "¡Te superan, pulga enclenque!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000859|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You won't last much longer!",
+    "string": "¡No durarás mucho más!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000816|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Can your insignificance be more apparent? You're pathetic! You can't be my enemy, you are too weak for that role! ",
+    "string": "¿Puede ser más evidente tu insignificancia? ¡Eres patético! No puedes ser mi enemigo, ¡eres demasiado débil para ese papel! ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000819|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Grow, maggot! Grow into something strong! You are weak!",
+    "string": "¡Crece, gusano! ¡Crece en algo fuerte! ¡Eres débil!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500081A|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It will take more than this to destroy me!",
+    "string": "¡Se necesitará más que esto para destruirme!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085A|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Only cowards will mourn you!",
+    "string": "¡Sólo los cobardes te llorarán!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500085C|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Face me, insect! Your death is my burden!",
+    "string": "¡Enfréntame, insecto! ¡Tu muerte es mi carga!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0500087E|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(gggrrrraaauuurrrhhh)",
+    "string": "(gggrrrraaauuurrrhhh)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000880|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(uuuggghhh)",
+    "string": "(uuuggghhh)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000882|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Foolish mortal! Nobody can stop Mehrunes Dagon's fifth hand!",
+    "string": "¡Tonto mortal! ¡Nadie puede detener la quinta mano de Mehrunes Dagon!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000883|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I will bring destruction and death into your life, worm!",
+    "string": "¡Traeré destrucción y muerte a tu vida, gusano!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000884|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "May the wrath of Dagon decimate your pitiful existence!",
+    "string": "¡Que la ira de Dagon diezme tu lamentable existencia!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000885|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You will be charred in my hands, and your corpse desecrated in Oblivion!",
+    "string": "¡Serás carbonizado en mis manos, y tu cadáver profanado en Oblivion!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A65|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Your soul will be my offering to the Prince of Destruction!",
+    "string": "¡Tu alma será mi ofrenda al Príncipe de la Destrucción!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A66|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I was born of Dagon's own flesh, and no one can destroy one of his Harbingers!",
+    "string": "Nací de la propia carne de Dagón, ¡y nadie puede destruir a uno de sus Precursores!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "05000A67|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This is the day you will meet the terrible power of the Ruinachs!",
+    "string": "¡Este es el día en que te encontrarás con el terrible poder de los Ruinachs!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailhavocrel_deadlands_dialogue",
+    "form_id": "0500084B|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Dremora Dialogue",
+    "string": "Diálogo con dremora",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "mihailruinach_dialogue",
+    "form_id": "0500087C|mihailhavocrelsandruinachs.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Dremora Dialogue",
+    "string": "Diálogo con dremora",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SkuldafnLocation",
+    "form_id": "000192AB|Skyrim.esm",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Skuldafn",
+    "string": "Skuldafn",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RagnvaldLocation",
+    "form_id": "0001928F|Skyrim.esm",
+    "index": 1,
+    "type": "LCTN FULL",
+    "original": "Ragnvald",
+    "string": "Ragnvald",
+    "status": "TranslationComplete"
+  }
+]

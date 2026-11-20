@@ -1,0 +1,83 @@
+[
+  {
+    "editor_id": "GeoNirMainland_TreasureMap03",
+    "form_id": "02000009|GeoNir Mainland.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Treasure Map",
+    "string": "Mapa del tesoro  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNirMainland_TreasureMap03",
+    "form_id": "02000009|GeoNir Mainland.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "\r\n    <img src='img://Textures/treasuremaps/03.png' width='290' height='389'>",
+    "string": "<img src='img://Textures/treasuremaps/03.png' width='290' height='389'>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNirMainland_TreasureMap04",
+    "form_id": "02000022|GeoNir Mainland.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Treasure Map",
+    "string": "Mapa del tesoro  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNirMainland_TreasureMap04",
+    "form_id": "02000022|GeoNir Mainland.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "\r\n    <img src='img://Textures/treasuremaps/04.png' width='290' height='389'>",
+    "string": "\r\n    <img src='img://Textures/treasuremaps/04.png' width='290' height='389'>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNirMainland_TreasureMap05",
+    "form_id": "02000023|GeoNir Mainland.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Treasure Map",
+    "string": "Mapa del tesoro  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNirMainland_TreasureMap05",
+    "form_id": "02000023|GeoNir Mainland.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "\r\n    <img src='img://Textures/treasuremaps/05.png' width='290' height='389'>",
+    "string": "\r\n    <img src='img://Textures/treasuremaps/05.png' width='290' height='389'>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNirMainland_TreasureMap07",
+    "form_id": "02000024|GeoNir Mainland.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Treasure Map",
+    "string": "Mapa del tesoro  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNirMainland_TreasureMap07",
+    "form_id": "02000024|GeoNir Mainland.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "\r\n    <img src='img://Textures/treasuremaps/07.png' width='290' height='389'>",
+    "string": "\r\n    <img src='img://Textures/treasuremaps/07.png' width='290' height='389'>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "Skyrim",
+    "status": "TranslationComplete"
+  }
+]

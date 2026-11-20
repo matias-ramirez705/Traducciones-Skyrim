@@ -1,0 +1,20 @@
+[
+  {
+    "editor_id": "AVSpeechcraft",
+    "form_id": "00000457|Skyrim.esm",
+    "index": 1,
+    "type": "AVIF FULL",
+    "original": "Speech",
+    "string": "Elocuencia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AVSpeechcraft",
+    "form_id": "00000457|Skyrim.esm",
+    "index": 1,
+    "type": "AVIF DESC",
+    "original": "Get better prices from merchants, and persuade others to do as you ask. The Speech skill improves buying and selling prices at merchants.",
+    "string": "Consigue mejores precios con los comerciantes y convence a otros para que hagan lo que les pides. La habilidad de Elocuencia mejora los precios de compra y venta con los comerciantes.",
+    "status": "TranslationComplete"
+  }
+]

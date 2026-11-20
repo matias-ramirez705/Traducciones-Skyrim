@@ -1,0 +1,4628 @@
+[
+  {
+    "editor_id": "BYHTrophyRemovalTrigger",
+    "form_id": "0301AD8A|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Trophy",
+    "string": "Trofeo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTrophyRemovalTrigger",
+    "form_id": "0301AD8A|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Remove",
+    "string": "Retirar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHHouseGuide",
+    "form_id": "0300EFDB|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "The Beginner's Guide to Homesteading",
+    "string": "Guía de construcción de casas para principiantes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHHouseGuide",
+    "form_id": "0300EFDB|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n<b>The Beginner's Guide to Homesteading</b>\r\n\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\nIf you're like most people, you've always dreamed of owning your own steading and building your own home. But where to start? Never fear, you hold in your hands the guide to everything you need to know. Before long, you'll be gazing complacently across your well-tended lands from the porch of your own manor house.\r\n\r\n[pagebreak]\r\n<b>Getting Started</b>\r\n\r\nThere are two vital pieces of equipment that the prospective homeowner needs: the Drafting Table and the Carpenter's Workbench.\r\n\r\nYour Drafting Table is where you'll lay out the plans for each stage of your new house. Don't worry about making a mistake here - you can always change your mind, and making a new plan costs you nothing. Remember: measure twice and cut once.\r\n\r\nYour Carpenter's Workbench is where you'll do the actual construction. Once you've settled on a plan at the Drafting Table, you can start building your house at the Carpenter's Workbench. Avoid the common beginner's mistake - don't try to build the roof without building the proper supports first!\r\n\r\n<b>Space for the Family</b>\r\n\r\nIf you have a spouse or children, you'll certainly want to get the house in a livable state as soon as possible. Your loving spouse will no doubt make do with nothing more than a roof over her head and a bed to sleep in, but what about the children? Don't worry - all they need is a bed and a chest or dresser to store their treasures, and they will be perfectly content.\r\n\r\n<b>Building Materials</b>\r\n\r\nYou will need a lot of supplies to complete your house, but it isn't necessary to gather everything you need ahead of time. Unless you're in a hurry, you can just build in stages as materials become available. You'll enjoy watching your home progress from dream to reality.\r\n\r\nThe most common materials you'll need are sawn logs, cut stone, and clay. Luckily, these are plentiful in Skyrim - in fact, most building sites will have one or more easily accessible sources of clay and stone. For sawn lumber, any lumber mill owner will be glad to sell and deliver as much as you need.\r\n\r\nYou'll need a lot of nails - fortunately even a novice blacksmith will soon find themselves turning iron into nails with ease.\r\n\r\nWhen you turn to furnishing your completed house, you'll need a much wider variety of materials. Some of them, such as straw and glass, are commonly obtained from general goods stores. For the rest - the whole of Skyrim will become your general store!\r\n\r\n<b>Hiring a Steward</b>\r\n\r\nOnce your estate is well-established, you may wish to consider hiring a steward to help manage your affairs. A good steward can be invaluable - from hiring a carriage driver to buying a cow to keeping you supplied with building materials - freeing you to enjoy the fruits of your labors.\r\n\r\nBefore hiring a steward, it's advisable to bring a potential candidate to your manor and observe whether they are a good fit for your requirements. Remember, you are putting your entire estate into their hands - you need someone you can trust implicitly.\r\n\r\n<b>Remodeling</b>\r\n\r\nMeasuring twice and cutting once is always a good standard to follow, but mistakes can still happen. If you find yourself regretting any decisions made regarding how to furnish rooms or even which additions to build, don't worry! Once you've finished building a wing, you can tear it down and start over with another floor plan at any time. Just use your Drafting Table to build a Remodeling Workbench, from which you can undertake the reconstruction process. Or if you want a less drastic change, you can use the Remodeling Workbench to clear out the furniture in the wing while keeping the architecture intact.\r\n\r\nBefore either removing furniture or tearing down an addition, make sure to visit the room and remove any possessions you've left there - in particular, any books on shelves, weapons or shields on racks and plaques, and items in display cases. And clear out any planters unless you want plants growing wild in your new room!\r\n\r\n<b>Building Your House</b>\r\n\r\nThe rest of this guide will review plans for each room that you might want to build.\r\n\r\n[pagebreak]\r\n[pagebreak]\r\n\r\n<b>Small House</b>\r\n\r\nBefore you get too ambitious, gain confidence by building this tidy cottage. It is the perfect starter home, and might turn out to be all you need. But don't worry - if you decide to keep building, you can remodel this into an entry way to the rest of your house.\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHShack.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Main Hall</b>\r\n\r\nYou may decide the Small House is not enough - perhaps you need room for a growing family? The next step is to add a Main Hall, which will turn your cottage into an imposing manor house: two floors, including space for two small bedrooms, a back room and a large dining area.\r\n\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHHub.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Additions</b>\r\n\r\nOnce you've built a Main Hall, your options become almost unlimited - you now have room to add three more additional wings, if you decide you still need more space.\r\n\r\nFor each wing, you have three choices of floor plan, with three furnishing options each, giving a total of nine possible additions! (But remember - you can only build three of them, so choose wisely.)\r\n\r\nThere's no need to decide on furnishings while building the basic structure, but keep in mind that each room requires a certain floor plan. You won't be able to fit a full kitchen into a small tower room!\r\n\r\n[pagebreak]\r\n<b>Porch Additions</b>\r\n\r\nThis floor plan includes a 1st-floor room, as well as a spacious exterior porch - perfect for those who love to spend time outdoors. If you build the North wing porch addition as well as either of the other two, the porches can even be connected.\r\n\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHPorch_left.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHPorch_back.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHPorch_right.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Porch - Bedrooms</b>\r\n\r\nThe Bedroom addition is perfect if you have a family who needs more comfortable living quarters than the Main Hall affords. The Bedroom has space for a master bedroom plus two children's beds, as well as all the dressers, wardrobes, etc. that anyone could desire.\r\n\r\n[pagebreak]\r\n<b>Porch - Storage Room</b>\r\n\r\nIf you simply need more space to store your many possessions and collections, build yourself a Storage Room.\r\n\r\n[pagebreak]\r\n<b>Porch - Armory</b>\r\n\r\nIf you like nothing better than to spend a day hammering metal, or are simply a collector of armor and weapons, the Armory is for you. With space for smithing, as well as plenty of room to display your martial collections in style, the Armory is the perfect addition to any house.\r\n\r\n[pagebreak]\r\n<b>Longhouse Additions</b>\r\n\r\nIf you wish to make your main hall even grander, you may find the longhouse additions suitable. This single-story floor plan offers lofty ceilings and plenty of windows.\r\n\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHLonghouse_left.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHLonghouse_back.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHLonghouse_right.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Longhouse - Greenhouse</b>\r\n\r\nPerhaps you are a gardener at heart? If so, the Greenhouse provides room for planters where you can grow almost whatever you wish, sheltered from Skyrim's harsh climate. Tend and harvest your crops from the comfort of your own home!\r\n\r\n[pagebreak]\r\n<b>Longhouse - Trophy Room</b>\r\n\r\nAre you a big game hunter who wants to show off your prizes? The Trophy Room provides space for displaying up to seven magnificent mounted specimens of your choice, sure to amaze and impress your guests. And there's no need to worry about displaying an early prize and later running out of room for something more impressive. You can remove a trophy and replace it at any time!\r\n\r\n[pagebreak]\r\n<b>Longhouse - Kitchen</b>\r\n\r\nThe Kitchen provides everything you need to pursue the highest culinary arts. Tired of cooking everything in a pot over a fire? You can even equip it with a new-fangled oven!\r\n\r\n[pagebreak]\r\n<b>Tower Additions</b>\r\n\r\nThose who have a scholarly nature or simply appreciate fantastic views of the surrounding wilderness might opt for a tower or two. This floor plan provides a 1st-floor room, a 2nd-floor room, and a rooftop shielded from the elements by a canopy.\r\n\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHTower_left.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHTower_back.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHTower_right.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Tower - Enchanter's Tower</b>\r\n\r\nIf your interests lie in the magical realm, this tower addition is for you. Conduct your research in privacy and comfort. Plenty of space for keeping your collections and artifacts organized. And the view from the tower is guaranteed to take your breath away.\r\n[pagebreak]\r\n<b>Tower - Alchemy Laboratory</b>\r\n\r\nPerfect for the aspiring alchemist, this tower addition will give you plenty of space and storage to hone your craft in comfort. And when you need a break from brewing potions, enjoy the view from the tower roof.\r\n\r\n[pagebreak]\r\n<b>Tower - Library</b>\r\n\r\nThe Library tower is sure to please those who value literature. With space for all the bookshelves you could desire, you'll be able to enjoy your collection of books in style. Or perhaps take a book to the tower roof and enjoy the view of your steading?\r\n\r\n",
+    "string": "[pagebreak]\r\n<p align=\"center\">\r\n\r\n<b>La guía para principiantes de la construcción de hogares</b>\r\n\r\n</p>\r\n[pagebreak]\r\n<p align=\"left\">\r\nSi eres como la mayoría de las personas, siempre has soñado con tener tu propia hacienda y construir tu propio hogar. Pero, ¿por dónde empezar? No temas, tienes en tus manos la guía con todo lo que necesitas saber. Antes de que te des cuenta, contemplarás con satisfacción tus tierras bien cuidadas desde el porche de tu propia mansión.\r\n\r\n[pagebreak]\r\n<b>Primeros pasos</b>\r\n\r\nHay dos herramientas fundamentales que todo futuro propietario necesita: la Mesa de Diseño y el Banco de Carpintero.\r\n\r\nLa Mesa de Diseño es donde prepararás los planos de cada etapa de tu nueva casa. No te preocupes por cometer un error: siempre puedes cambiar de opinión, y hacer un nuevo plano no cuesta nada. Recuerda: mide dos veces y corta una.\r\n\r\nEl Banco de Carpintero es donde realizarás la construcción propiamente dicha. Una vez que hayas decidido un plano en la Mesa de Diseño, podrás comenzar a construir tu casa en el Banco de Carpintero. Evita el error típico de los principiantes: ¡no intentes construir el techo antes de levantar los soportes adecuados!\r\n\r\n<b>Espacio para la familia</b>\r\n\r\nSi tienes cónyuge o hijos, sin duda querrás que la casa sea habitable lo antes posible. Seguramente tu querido cónyuge se conformará con poco más que un techo sobre su cabeza y una cama donde dormir, ¿pero qué hay de los niños? No te preocupes: todo lo que necesitan es una cama y un cofre o una cómoda donde guardar sus tesoros, y estarán perfectamente felices.\r\n\r\n<b>Materiales de construcción</b>\r\n\r\nNecesitarás una gran cantidad de suministros para completar tu casa, pero no es necesario reunir todo lo que necesitas de antemano. A menos que tengas prisa, puedes construir por etapas a medida que dispongas de los materiales. Disfrutarás viendo cómo tu hogar pasa de ser un sueño a convertirse en realidad.\r\n\r\nLos materiales más comunes que necesitarás son troncos aserrados, piedra labrada y arcilla. Por suerte, abundan en Skyrim; de hecho, la mayoría de los terrenos de construcción cuentan con una o más fuentes de piedra y arcilla de fácil acceso. En cuanto a la madera aserrada, cualquier propietario de un aserradero estará encantado de venderte y entregarte toda la que necesites.\r\n\r\nNecesitarás muchos clavos; por fortuna, incluso un herrero novato aprenderá rápidamente a convertir hierro en clavos con facilidad.\r\n\r\nCuando llegue el momento de amueblar tu casa terminada, necesitarás una variedad mucho mayor de materiales. Algunos de ellos, como la paja y el vidrio, suelen conseguirse en las tiendas de artículos generales. En cuanto al resto... ¡todo Skyrim se convertirá en tu tienda de artículos generales!\r\n\r\n<b>Contratar a un mayordomo</b>\r\n\r\nUna vez que tu propiedad esté bien establecida, quizá quieras considerar contratar a un mayordomo para ayudarte a administrar tus asuntos. Un buen mayordomo puede ser invaluable: desde contratar a un cochero hasta comprar una vaca o mantenerte abastecido de materiales de construcción, permitiéndote disfrutar de los frutos de tu trabajo.\r\n\r\nAntes de contratar a un mayordomo, es recomendable llevar a un posible candidato a tu mansión y observar si se adapta bien a tus necesidades. Recuerda que pondrás toda tu propiedad en sus manos; necesitas a alguien en quien puedas confiar plenamente.\r\n\r\n<b>Remodelación</b>\r\n\r\nMedir dos veces y cortar una siempre es una buena regla, pero los errores pueden ocurrir. Si llegas a arrepentirte de alguna decisión sobre cómo amueblar una habitación o incluso de qué ampliaciones construir, ¡no te preocupes! Una vez que hayas terminado de construir un ala, puedes derribarla y comenzar de nuevo con otro plano cuando quieras. Solo utiliza la Mesa de Diseño para construir un Banco de Remodelación, desde el cual podrás llevar a cabo el proceso de reconstrucción. O, si deseas un cambio menos drástico, puedes utilizar el Banco de Remodelación para retirar los muebles del ala mientras mantienes intacta la estructura.\r\n\r\nAntes de retirar muebles o derribar una ampliación, asegúrate de visitar la habitación y retirar cualquier pertenencia que hayas dejado allí; en particular, libros en estanterías, armas o escudos en soportes y placas, y objetos en vitrinas. ¡Y vacía todos los maceteros, a menos que quieras que las plantas crezcan libremente en tu nueva habitación!\r\n\r\n<b>Construcción de tu casa</b>\r\n\r\nEl resto de esta guía repasará los planos de cada habitación que podrías querer construir.\r\n\r\n[pagebreak]\r\n[pagebreak]\r\n\r\n<b>Casa pequeña</b>\r\n\r\nAntes de volverte demasiado ambicioso, gana confianza construyendo esta acogedora cabaña. Es el hogar inicial perfecto y podría resultar ser todo lo que necesitas. Pero no te preocupes: si decides seguir construyendo, podrás remodelarla para convertirla en el vestíbulo de entrada al resto de tu casa.\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHShack.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Salón principal</b>\r\n\r\nPuede que decidas que la Casa pequeña no es suficiente. ¿Quizá necesitas espacio para una familia en crecimiento? El siguiente paso es añadir un Salón Principal, que convertirá tu cabaña en una imponente mansión: dos pisos que incluyen espacio para dos dormitorios pequeños, una habitación trasera y un gran comedor.\r\n\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHHub.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Ampliaciones</b>\r\n\r\nUna vez que hayas construido un Salón Principal, tus opciones serán casi ilimitadas: ahora tendrás espacio para añadir tres alas adicionales si decides que aún necesitas más espacio.\r\n\r\nPara cada ala tendrás tres opciones de plano, con tres opciones de mobiliario cada una, lo que da un total de nueve ampliaciones posibles. (Pero recuerda: solo puedes construir tres de ellas, así que elige con sabiduría).\r\n\r\nNo es necesario decidir el mobiliario mientras construyes la estructura básica, pero ten presente que cada habitación requiere un plano específico. ¡No podrás instalar una cocina completa en una pequeña habitación de torre!\r\n\r\n[pagebreak]\r\n<b>Ampliaciones con porche</b>\r\n\r\nEste plano incluye una habitación en el primer piso, además de un amplio porche exterior, perfecto para quienes disfrutan pasar tiempo al aire libre. Si construyes el porche del ala norte junto con cualquiera de los otros dos, los porches incluso podrán conectarse entre sí.\r\n\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHPorch_left.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHPorch_back.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHPorch_right.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Porche - Dormitorios</b>\r\n\r\nLa ampliación de Dormitorios es perfecta si tienes una familia que necesita habitaciones más cómodas de las que ofrece el Salón Principal. Incluye espacio para un dormitorio principal y dos camas infantiles, además de todas las cómodas, armarios, etc. que cualquiera podría desear.\r\n\r\n[pagebreak]\r\n<b>Porche - Almacén</b>\r\n\r\nSi simplemente necesitas más espacio para guardar tus numerosas pertenencias y colecciones, constrúyete un Almacén.\r\n\r\n[pagebreak]\r\n<b>Porche - Armería</b>\r\n\r\nSi no hay nada que disfrutes más que pasar el día forjando metal, o simplemente eres coleccionista de armaduras y armas, la Armería es para ti. Con espacio para la herrería y mucho sitio para exhibir tus colecciones marciales con estilo, la Armería es el complemento perfecto para cualquier casa.\r\n\r\n[pagebreak]\r\n<b>Ampliaciones de casa comunal</b>\r\n\r\nSi deseas que tu salón principal sea aún más grandioso, las ampliaciones de casa comunal pueden ser justo lo que buscas. Este plano de un solo piso ofrece techos altos y numerosas ventanas.\r\n\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHLonghouse_left.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHLonghouse_back.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHLonghouse_right.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Casa comunal - Invernadero</b>\r\n\r\n¿Quizá llevas un jardinero en el corazón? Si es así, el Invernadero ofrece espacio para maceteros donde podrás cultivar casi todo lo que desees, protegido del duro clima de Skyrim. ¡Cuida y cosecha tus cultivos desde la comodidad de tu propio hogar!\r\n\r\n[pagebreak]\r\n<b>Casa comunal - Sala de trofeos</b>\r\n\r\n¿Eres un cazador de caza mayor que quiere exhibir sus premios? La Sala de Trofeos ofrece espacio para mostrar hasta siete magníficos ejemplares disecados de tu elección, capaces de asombrar e impresionar a tus invitados. Y no tienes que preocuparte por exhibir un trofeo demasiado pronto y quedarte sin espacio para otro más impresionante. ¡Puedes retirar un trofeo y reemplazarlo cuando quieras!\r\n\r\n[pagebreak]\r\n<b>Casa comunal - Cocina</b>\r\n\r\nLa Cocina proporciona todo lo necesario para alcanzar el más alto nivel de las artes culinarias. ¿Cansado de cocinar todo en una olla sobre el fuego? ¡Incluso puedes equiparla con un moderno horno!\r\n\r\n[pagebreak]\r\n<b>Ampliaciones de torre</b>\r\n\r\nQuienes tengan una naturaleza estudiosa o simplemente aprecien las fantásticas vistas de la naturaleza circundante quizá prefieran construir una o dos torres. Este plano ofrece una habitación en el primer piso, otra en el segundo y una azotea protegida de los elementos por un dosel.\r\n\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHTower_left.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHTower_back.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<p align='center'><img src='img://Textures/Interface/Books/BYOHTower_right.png' width='262' height='400'></p>\r\n[pagebreak]\r\n<b>Torre - Torre del encantador</b>\r\n\r\nSi tus intereses se encuentran en el ámbito de la magia, esta ampliación de torre es para ti. Realiza tus investigaciones con privacidad y comodidad. Tendrás abundante espacio para mantener organizadas tus colecciones y artefactos. Y la vista desde la torre te dejará sin aliento.\r\n[pagebreak]\r\n<b>Torre - Laboratorio de alquimia</b>\r\n\r\nPerfecta para el alquimista aspirante, esta ampliación de torre te brindará mucho espacio y almacenamiento para perfeccionar tu oficio con comodidad. Y cuando necesites descansar de preparar pociones, disfruta de la vista desde la azotea de la torre.\r\n\r\n[pagebreak]\r\n<b>Torre - Biblioteca</b>\r\n\r\nLa torre Biblioteca encantará a quienes valoran la literatura. Con espacio para todas las estanterías que puedas desear, podrás disfrutar de tu colección de libros con estilo. O quizá prefieras llevar un libro a la azotea de la torre y disfrutar de la vista de tu hacienda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart266WallShelvesx4_01",
+    "form_id": "03012803|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Shelves (4)",
+    "string": "Estantes de pared (4)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart265PlanterSmallWithCupboard06",
+    "form_id": "03012804|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Small Planter with Cupboard",
+    "string": "Macetero pequeño con alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart100Room3ADoor",
+    "form_id": "02003197|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch, Doors",
+    "string": "Porche oeste, Puertas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart060Room3ALayoutHouse1",
+    "form_id": "02003198|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Addition - West Wing - Porch",
+    "string": "Ampliación - Ala oeste - Porche",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart061Room4ALayoutHouse1",
+    "form_id": "020031AB|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Addition - West Wing - Longhouse",
+    "string": "Ampliación - Ala oeste - Casa comunal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart062Room5ALayoutHouse1",
+    "form_id": "020031AC|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Addition - West Wing - Tower",
+    "string": "Ampliación - Ala oeste - Torre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart063Room6ALayoutHouse1",
+    "form_id": "020031AD|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Addition - North Wing - Porch",
+    "string": "Ampliación - Ala norte - Porche",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart064Room7ALayoutHouse1",
+    "form_id": "020031AE|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Addition - North Wing - Longhouse",
+    "string": "Ampliación - Ala norte - Casa comunal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart065Room8ALayoutHouse1",
+    "form_id": "020031AF|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Addition - North Wing - Tower",
+    "string": "Ampliación - Ala norte - Torre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart066Room9ALayoutHouse1",
+    "form_id": "020031B0|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Addition - East Wing - Porch",
+    "string": "Ampliación - Ala este - Porche",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart067Room10ALayoutHouse1",
+    "form_id": "020031B1|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Addition - East Wing - Longhouse",
+    "string": "Ampliación - Ala este - Casa comunal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart068Room11ALayoutHouse1",
+    "form_id": "020031B2|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Addition - East Wing - Tower",
+    "string": "Ampliación - Ala este - Torre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart110Room4ADoor",
+    "form_id": "020031CB|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse, Doors",
+    "string": "Casa comunal oeste, Puertas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart120Room5ADoor",
+    "form_id": "020031CC|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower, Doors",
+    "string": "Torre oeste, Puertas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart130Room6ADoor",
+    "form_id": "020031CD|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch, Doors",
+    "string": "Porche norte, Puertas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart140Room7ADoor",
+    "form_id": "020031CE|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse, Doors",
+    "string": "Casa comunal norte, Puertas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart150Room8ADoor",
+    "form_id": "020031CF|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower, Doors",
+    "string": "Torre norte, Puertas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart160Room9ADoor",
+    "form_id": "020031D0|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch, Doors",
+    "string": "Porche este, Puertas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart170Room10ADoor",
+    "form_id": "020031D1|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse, Doors",
+    "string": "Casa comunal este, Puertas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart180Room11ADoor",
+    "form_id": "020031D2|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower, Doors",
+    "string": "Torre este, Puertas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart101Room3AFoundation",
+    "form_id": "020031DB|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch, Foundation",
+    "string": "Porche oeste, Cimientos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart102Room3AWallFraming",
+    "form_id": "020031DC|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch, Wall Supports",
+    "string": "Porche oeste, Soportes de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart103Room3AFloor",
+    "form_id": "020031DD|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch, Floor",
+    "string": "Porche oeste, Suelo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart104Room3ARoof",
+    "form_id": "020031DE|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch, Roof",
+    "string": "Porche oeste, Techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart105Room3AWalls",
+    "form_id": "020031DF|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch, Walls",
+    "string": "Porche oeste, Paredes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart111Room4AFoundation",
+    "form_id": "02003255|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse, Foundation",
+    "string": "Casa comunal oeste, Cimientos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart112Room4AWallFraming",
+    "form_id": "02003256|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse, Wall Supports",
+    "string": "Casa comunal oeste, Soportes de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart113Room4AFloor",
+    "form_id": "02003257|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse, Floor",
+    "string": "Casa comunal oeste, Suelo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart114Room4AWalls",
+    "form_id": "02003258|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse, Walls",
+    "string": "Casa comunal oeste, Paredes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart115Room4ARoofFraming",
+    "form_id": "0200325A|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse, Roof Framing",
+    "string": "Casa comunal oeste, Estructura del techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart116Room4ARoof",
+    "form_id": "0200325B|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse, Roof",
+    "string": "Casa comunal oeste, Techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart117Room4AChimney",
+    "form_id": "0200325C|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse, Fireplace",
+    "string": "Casa comunal oeste, Chimenea",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart154Room8AWallFraming2",
+    "form_id": "0200373C|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower, Second Floor Supports",
+    "string": "Torre norte, Soportes del segundo piso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart121Room5AFoundation",
+    "form_id": "0200373D|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower, Foundation",
+    "string": "Torre oeste, Cimientos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart122Room5AFloor",
+    "form_id": "0200373E|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower, Floor",
+    "string": "Torre oeste, Suelo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart123Room5AWallFraming1",
+    "form_id": "0200373F|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower, Main Supports",
+    "string": "Torre oeste, Soportes principales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart124Room5AWallFraming2",
+    "form_id": "02003740|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower, Second Floor Supports",
+    "string": "Torre oeste, Soportes del segundo piso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart125Room5AWalls1",
+    "form_id": "02003741|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower, First Floor Walls",
+    "string": "Torre oeste, Paredes del primer piso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart126Room5AWalls2",
+    "form_id": "02003742|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower, Second Floor Walls",
+    "string": "Torre oeste, Paredes del segundo piso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart127Room5ARoof",
+    "form_id": "02003743|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower, Roof",
+    "string": "Torre oeste, Techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart131Room6AFoundation",
+    "form_id": "02003744|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch, Foundation",
+    "string": "Porche norte, Cimientos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart132Room6AWallFraming",
+    "form_id": "02003745|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch, Wall Supports",
+    "string": "Porche norte, Soportes de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart133Room6AFloor",
+    "form_id": "02003746|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch, Floor",
+    "string": "Porche norte, Suelo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart134Room6ARoof",
+    "form_id": "02003747|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch, Roof",
+    "string": "Porche norte, Techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart135Room6AWalls",
+    "form_id": "02003748|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch, Walls",
+    "string": "Porche norte, Paredes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart141Room7AFoundation",
+    "form_id": "02003749|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse, Foundation",
+    "string": "Casa comunal norte, Cimientos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart142Room7AWallFraming",
+    "form_id": "0200374A|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse, Wall Supports",
+    "string": "Casa comunal norte, Soportes de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart143Room7AFloor",
+    "form_id": "0200374B|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse, Floor",
+    "string": "Casa comunal norte, Suelo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart144Room7AWalls",
+    "form_id": "0200374C|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse, Walls",
+    "string": "Casa comunal norte, Paredes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart145Room7ARoofFraming",
+    "form_id": "0200374D|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse, Roof Framing",
+    "string": "Casa comunal norte, Estructura del techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart146Room7ARoof",
+    "form_id": "0200374E|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse, Roof",
+    "string": "Casa comunal norte, Techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart153Room8AWallFraming1",
+    "form_id": "02003750|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower, Main Supports",
+    "string": "Torre norte, Soportes principales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart152Room8AFloor",
+    "form_id": "02003751|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower, Floor",
+    "string": "Torre norte, Suelo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart151Room8AFoundation",
+    "form_id": "02003752|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower, Foundation",
+    "string": "Torre norte, Cimientos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart156Room8AWalls2",
+    "form_id": "02003753|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower, Second Floor Walls",
+    "string": "Torre norte, Paredes del segundo piso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart157Room8ARoof",
+    "form_id": "02003754|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower, Roof",
+    "string": "Torre norte, Techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart155Room8AWalls1",
+    "form_id": "02003755|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower, First Floor Walls",
+    "string": "Torre norte, Paredes del primer piso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart200Room3Workbench",
+    "form_id": "02003ADA|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch - Workbench",
+    "string": "Porche oeste - Banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart201Room3WorkbenchDisable",
+    "form_id": "02003ADB|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch - Remove Workbench",
+    "string": "Porche oeste - Quitar banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart202Room4Workbench",
+    "form_id": "02003ADC|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse - Workbench",
+    "string": "Casa comunal oeste - Banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart203Room4WorkbenchDisable",
+    "form_id": "02003ADD|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse - Remove Workbench",
+    "string": "Casa comunal oeste - Quitar banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart204Room5Workbench",
+    "form_id": "02003ADE|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower - Workbench",
+    "string": "Torre oeste - Banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart205Room5WorkbenchDisable",
+    "form_id": "02003ADF|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower - Remove Workbench",
+    "string": "Torre oeste - Quitar banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart206Room6Workbench",
+    "form_id": "02003AE0|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch - Workbench",
+    "string": "Porche norte - Banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart207Room6WorkbenchDisable",
+    "form_id": "02003AE1|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch - Remove Workbench",
+    "string": "Porche norte - Quitar banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart208Room7Workbench",
+    "form_id": "02003AE2|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse - Workbench",
+    "string": "Casa comunal norte - Banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart209Room7WorkbenchDisable",
+    "form_id": "02003AE3|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse - Remove Workbench",
+    "string": "Casa comunal norte - Quitar banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart210Room8Workbench",
+    "form_id": "02003AE4|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower - Workbench",
+    "string": "Torre norte - Banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart211Room8WorkbenchDisable",
+    "form_id": "02003AE5|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower - Remove Workbench",
+    "string": "Torre norte - Quitar banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart212Room9Workbench",
+    "form_id": "02003AE6|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch - Workbench",
+    "string": "Porche este - Banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart213Room9WorkbenchDisable",
+    "form_id": "02003AE7|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch - Remove Workbench",
+    "string": "Porche este - Quitar banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart214Room10Workbench",
+    "form_id": "02003AE8|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse - Workbench",
+    "string": "Casa comunal este - Banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart215Room10WorkbenchDisable",
+    "form_id": "02003AE9|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse - Remove Workbench",
+    "string": "Casa comunal este - Quitar banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart216Room11Workbench",
+    "form_id": "02003AEA|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower - Workbench",
+    "string": "Torre este - Banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart217Room11WorkbenchDisable",
+    "form_id": "02003AEB|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower - Remove Workbench",
+    "string": "Torre este - Quitar banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart161Room9AFoundation",
+    "form_id": "02003CD6|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch, Foundation",
+    "string": "Porche este, Cimientos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart162Room9AWallFraming",
+    "form_id": "02003CD7|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch, Wall Supports",
+    "string": "Porche este, Soportes de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart163Room9AFloor",
+    "form_id": "02003CD8|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch, Floor",
+    "string": "Porche este, Suelo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart164Room9ARoof",
+    "form_id": "02003CD9|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch, Roof",
+    "string": "Porche este, Techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart165Room9AWalls",
+    "form_id": "02003CDA|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch, Walls",
+    "string": "Porche este, Paredes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart171Room10AFoundation",
+    "form_id": "02003CDB|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse, Foundation",
+    "string": "Casa comunal este, Cimientos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart172Room10AWallFraming",
+    "form_id": "02003CDC|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse, Wall Supports",
+    "string": "Casa comunal este, Soportes de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart173Room10AFloor",
+    "form_id": "02003CDD|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse, Floor",
+    "string": "Casa comunal este, Suelo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart175Room10ARoofFraming",
+    "form_id": "02003CDE|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse, Roof Framing",
+    "string": "Casa comunal este, Estructura del techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart174Room10AWalls",
+    "form_id": "02003CDF|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse, Walls",
+    "string": "Casa comunal este, Paredes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart176Room10ARoof",
+    "form_id": "02003CE0|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse, Roof",
+    "string": "Casa comunal este, Techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart177Room10AChimney",
+    "form_id": "02003CE1|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse, Fireplace",
+    "string": "Casa comunal este, Chimenea",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart181Room11AFoundation",
+    "form_id": "02003CE2|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower, Foundation",
+    "string": "Torre este, Cimientos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart182Room11AFloor",
+    "form_id": "02003CE3|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower, Floor",
+    "string": "Torre este, Suelo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart183Room11AWallFraming1",
+    "form_id": "02003CE4|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower, Main Supports",
+    "string": "Torre este, Soportes principales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart184Room11AWallFraming2",
+    "form_id": "02003CE5|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower, Second Floor Supports",
+    "string": "Torre este, Soportes del segundo piso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart185Room11AWalls1",
+    "form_id": "02003CE6|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower, First Floor Walls",
+    "string": "Torre este, Paredes del primer piso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart186Room11AWalls2",
+    "form_id": "02003CE7|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower, Second Floor Walls",
+    "string": "Torre este, Paredes del segundo piso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart187Room11ARoof",
+    "form_id": "02003CE8|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower, Roof",
+    "string": "Torre este, Techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart230Room5ACanopy",
+    "form_id": "020068F1|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower, Roof Canopy",
+    "string": "Torre oeste, Cubierta del techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart231Room8ACanopy",
+    "form_id": "020068F2|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower, Roof Canopy",
+    "string": "Torre norte, Cubierta del techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart232Room11ACanopy",
+    "form_id": "020068F3|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower, Roof Canopy",
+    "string": "Torre este, Cubierta del techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart390Room5BCanopy",
+    "form_id": "02009545|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower, Roof Canopy",
+    "string": "Torre oeste, Cubierta del techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart391Room8BCanopy",
+    "form_id": "02009546|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower, Roof Canopy",
+    "string": "Torre norte, Cubierta del techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHousePart392Room11BCanopy",
+    "form_id": "02009547|HearthFires.esm",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower, Roof Canopy",
+    "string": "Torre este, Cubierta del techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightGreenhouse",
+    "form_id": "03010ACE|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Greenhouse",
+    "string": "Invernadero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightTrophy",
+    "form_id": "0301107C|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Trophy Room",
+    "string": "Sala de trofeos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightKitchen",
+    "form_id": "03011094|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Kitchen",
+    "string": "Cocina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightAlchemy",
+    "form_id": "030110C7|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Alchemy Laboratory",
+    "string": "Laboratorio de alquimia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightEnchanting",
+    "form_id": "030110C8|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Enchanter's Tower",
+    "string": "Torre del encantador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightLibrary",
+    "form_id": "030110C9|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Library",
+    "string": "Biblioteca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightArmory",
+    "form_id": "030116A7|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Armory",
+    "string": "Armería",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightBedrooms",
+    "form_id": "030116A8|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bedrooms",
+    "string": "Dormitorios",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomRightStorage",
+    "form_id": "030116A9|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Storage Room",
+    "string": "Sala de almacenamiento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftTrophy",
+    "form_id": "03012249|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Trophy Room",
+    "string": "Sala de trofeos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftAlchemy",
+    "form_id": "0301224A|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Alchemy Laboratory",
+    "string": "Laboratorio de alquimia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftStorage",
+    "form_id": "0301224B|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Storage Room",
+    "string": "Sala de almacenamiento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftLibrary",
+    "form_id": "0301224C|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Library",
+    "string": "Biblioteca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftKitchen",
+    "form_id": "0301224D|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Kitchen",
+    "string": "Cocina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftGreenhouse",
+    "form_id": "0301224E|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Greenhouse",
+    "string": "Invernadero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftEnchanting",
+    "form_id": "0301224F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Enchanter's Tower",
+    "string": "Torre del encantador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftBedrooms",
+    "form_id": "03012250|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bedrooms",
+    "string": "Dormitorios",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomLeftArmory",
+    "form_id": "03012251|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Armory",
+    "string": "Armería",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart322Barrels01",
+    "form_id": "0301225B|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Barrels",
+    "string": "Barriles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart343WallShelvesx2_02",
+    "form_id": "0301225C|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Shelves (2)",
+    "string": "Estantes de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart342WallShelvesx2_01",
+    "form_id": "0301225D|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Shelves (2)",
+    "string": "Estantes de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart341WallSconcex2_01",
+    "form_id": "0301225E|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconces (2)",
+    "string": "Apliques de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart340TrophyBaseSmall04",
+    "form_id": "0301225F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Trophy Base, Small",
+    "string": "Base para trofeo, pequeña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart339TrophyBaseSmall03",
+    "form_id": "03012260|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Trophy Base, Small",
+    "string": "Base para trofeo, pequeña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart338TrophyBaseSmall02",
+    "form_id": "03012261|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Trophy Base, Small",
+    "string": "Base para trofeo, pequeña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart337TrophyBaseSmall01",
+    "form_id": "03012262|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Trophy Base, Small",
+    "string": "Base para trofeo, pequeña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart336TrophyBaseLarge03",
+    "form_id": "03012263|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Trophy Base, Large",
+    "string": "Base para trofeo, grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart335TrophyBaseLarge02",
+    "form_id": "03012264|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Trophy Base, Large",
+    "string": "Base para trofeo, grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart334TrophyBaseLarge01",
+    "form_id": "03012265|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Trophy Base, Large",
+    "string": "Base para trofeo, grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart333Shelf01",
+    "form_id": "03012266|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Shelf",
+    "string": "Estante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart332TableNight01",
+    "form_id": "03012267|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Night Table",
+    "string": "Mesa de noche",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart331MountedHeadHorker01",
+    "form_id": "03012268|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Horker Head",
+    "string": "Cabeza de horker disecada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart330MountedHeadGoat01",
+    "form_id": "03012269|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Goat Head",
+    "string": "Cabeza de cabra disecada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart329DisplayShelf01",
+    "form_id": "0301226A|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Display Case and Shelf",
+    "string": "Vitrina y estante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart328Cupboard04",
+    "form_id": "0301226B|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Cupboard",
+    "string": "Alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart327Cupboard03",
+    "form_id": "0301226C|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Cupboard",
+    "string": "Alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart326Cupboard02",
+    "form_id": "0301226D|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Cupboard",
+    "string": "Alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart325Cupboard01",
+    "form_id": "0301226E|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Cupboard",
+    "string": "Alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart324Chest01",
+    "form_id": "0301226F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTroPart323ChandelierSmall01",
+    "form_id": "03012270|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chandelier, Small",
+    "string": "Candelabro pequeño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart433Washbasin01",
+    "form_id": "030127EB|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Washbasin on Stand",
+    "string": "Lavamanos con soporte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart432WallShelf01",
+    "form_id": "030127EC|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Shelf",
+    "string": "Estante de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart431WallSconcex2_01",
+    "form_id": "030127ED|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconces (2)",
+    "string": "Apliques de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart430TableSquareChairs02",
+    "form_id": "030127EE|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Square Table and Chairs",
+    "string": "Mesa cuadrada con sillas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart429TableSquareChairs01",
+    "form_id": "030127EF|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Square Table and Chairs",
+    "string": "Mesa cuadrada con sillas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart428TableRound01",
+    "form_id": "030127F0|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Round Table",
+    "string": "Mesa redonda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart427TableLow02",
+    "form_id": "030127F1|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Low Table",
+    "string": "Mesa baja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart426TableLow01",
+    "form_id": "030127F2|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Low Table",
+    "string": "Mesa baja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart425ShelfTall01",
+    "form_id": "030127F3|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Shelf",
+    "string": "Estantería alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart424Oven",
+    "form_id": "030127F4|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Oven",
+    "string": "Horno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart423MountedHeadHorkerFireplace",
+    "form_id": "030127F5|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Horker Head",
+    "string": "Cabeza de horker disecada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart422MountedHeadElkAntlers01",
+    "form_id": "030127F6|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Elk Antlers",
+    "string": "Cornamenta de alce disecada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart421HangingRack04",
+    "form_id": "030127F7|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Hanging Rack",
+    "string": "Perchero colgante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart420HangingRack03",
+    "form_id": "030127F8|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Hanging Rack",
+    "string": "Perchero colgante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart419HangingRack02",
+    "form_id": "030127F9|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Hanging Rack",
+    "string": "Perchero colgante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart418HangingRack01",
+    "form_id": "030127FA|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Hanging Rack",
+    "string": "Perchero colgante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart417Fireplace",
+    "form_id": "030127FB|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Fireplace",
+    "string": "Chimenea",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart416Cupboard03",
+    "form_id": "030127FC|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Cupboard",
+    "string": "Alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart415Cupboard02",
+    "form_id": "030127FD|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Cupboard",
+    "string": "Alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart414Cupboard01",
+    "form_id": "030127FE|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Cupboard",
+    "string": "Alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart413ChandelierSmall02",
+    "form_id": "030127FF|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chandelier, Small",
+    "string": "Candelabro pequeño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart412ChandelierSmall01",
+    "form_id": "03012800|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chandelier, Small",
+    "string": "Candelabro pequeño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart411Barrels02",
+    "form_id": "03012801|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Barrels",
+    "string": "Barriles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHKitPart410Barrels01",
+    "form_id": "03012802|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Barrels",
+    "string": "Barriles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart351DisplayWardrobeSmall01",
+    "form_id": "030133BB|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Display Case and Small Wardrobe",
+    "string": "Vitrina y armario pequeño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart350Cupboard01",
+    "form_id": "030133BC|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Cupboard",
+    "string": "Alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart264PlanterSmallWithCupboard05",
+    "form_id": "03012805|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Small Planter with Cupboard",
+    "string": "Macetero pequeño con alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart263PlanterSmallWithCupboard04",
+    "form_id": "03012806|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Small Planter with Cupboard",
+    "string": "Macetero pequeño con alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart262PlanterSmallWithCupboard03",
+    "form_id": "03012807|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Small Planter with Cupboard",
+    "string": "Macetero pequeño con alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart260PlanterSmallWithCupboard01",
+    "form_id": "03012809|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Small Planter with Cupboard",
+    "string": "Macetero pequeño con alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart259MountedMudcrab02",
+    "form_id": "0301280A|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Mudcrab",
+    "string": "Mudcrab disecado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart258PlanterLarge03",
+    "form_id": "0301280B|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Large Planter",
+    "string": "Macetero grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart257PlanterLarge02",
+    "form_id": "0301280C|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Large Planter",
+    "string": "Macetero grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart255TableNightx2_02",
+    "form_id": "0301280D|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Night Tables (2)",
+    "string": "Mesas de noche (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart254TableNightx2_01",
+    "form_id": "0301280E|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Night Tables (2)",
+    "string": "Mesas de noche (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart253MountedMudcrab01",
+    "form_id": "0301280F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Mudcrab",
+    "string": "Mudcrab disecado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart252MountedHeadGoat02",
+    "form_id": "03012810|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Goat Head",
+    "string": "Cabeza de cabra disecada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart251MountedHeadGoat01",
+    "form_id": "03012811|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Goat Head",
+    "string": "Cabeza de cabra disecada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart250DisplayCupboard02",
+    "form_id": "03012812|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Display Case and Cupboard",
+    "string": "Vitrina y alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart249DisplayCupboard01",
+    "form_id": "03012813|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Display Case and Cupboard",
+    "string": "Vitrina y alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart248DisplayCase02",
+    "form_id": "03012814|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Display Case",
+    "string": "Vitrina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart247DisplayCase01",
+    "form_id": "03012815|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Display Case",
+    "string": "Vitrina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart246Cupboard02",
+    "form_id": "03012816|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Cupboard",
+    "string": "Alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart245Cupboard01",
+    "form_id": "03012817|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Cupboard",
+    "string": "Alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart244ChandelierSmall02",
+    "form_id": "03012818|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chandelier, Small",
+    "string": "Candelabro pequeño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart243ChandelierSmall01",
+    "form_id": "03012819|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chandelier, Small",
+    "string": "Candelabro pequeño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart242Barrels02",
+    "form_id": "0301281A|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Barrels",
+    "string": "Barriles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart241Barrels01",
+    "form_id": "0301281B|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Barrels",
+    "string": "Barriles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart256PlanterLarge01",
+    "form_id": "0301281C|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Large Planter",
+    "string": "Macetero grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart315WallSconceExteriorx2",
+    "form_id": "03013320|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconces (2)",
+    "string": "Apliques de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart314WallSconcex2_01",
+    "form_id": "03013321|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconces (2)",
+    "string": "Apliques de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart313TableWithChest01",
+    "form_id": "03013322|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Large Table with Chest",
+    "string": "Mesa grande con cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart312TableBenchesExterior",
+    "form_id": "03013323|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Table with Benches",
+    "string": "Mesa con bancos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart311TableRoundChairsExterior01",
+    "form_id": "03013324|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Round Table and Chairs",
+    "string": "Mesa redonda con sillas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart310TableLowExterior02",
+    "form_id": "03013325|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Low Table",
+    "string": "Mesa baja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart309TableLowExterior01",
+    "form_id": "03013326|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Low Table",
+    "string": "Mesa baja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart308ShelfTall01",
+    "form_id": "03013327|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Shelf",
+    "string": "Estantería alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart307SafeWithDisplayTable298",
+    "form_id": "03013328|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Safe",
+    "string": "Caja fuerte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart306MountedHeadWolf01",
+    "form_id": "03013329|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Wolf Head",
+    "string": "Cabeza de lobo disecada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart305MountedMudcrab01",
+    "form_id": "0301332A|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Mudcrab",
+    "string": "Mudcrab disecado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart304MountedHeadGoat01",
+    "form_id": "0301332B|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Goat Head",
+    "string": "Cabeza de cabra disecada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart303TableEnd02",
+    "form_id": "0301332C|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "End Table",
+    "string": "Mesa auxiliar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart302TableEnd01",
+    "form_id": "0301332D|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "End Table",
+    "string": "Mesa auxiliar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart301Dresser01",
+    "form_id": "0301332E|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dresser",
+    "string": "Cómoda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart300DisplayWardrobeSmall01",
+    "form_id": "0301332F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Display Case and Small Wardrobe",
+    "string": "Vitrina y armario pequeño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart299DisplayShelf01",
+    "form_id": "03013330|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Display Case and Shelf",
+    "string": "Vitrina y estante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart298DisplayTableLarge01",
+    "form_id": "03013331|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Table with Display Cases",
+    "string": "Mesa con vitrinas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart297Cupboard02",
+    "form_id": "03013332|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Cupboard",
+    "string": "Alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart296Cupboard01",
+    "form_id": "03013333|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Cupboard",
+    "string": "Alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart295ChestWithTable313",
+    "form_id": "03013334|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart294ChestWithTable313",
+    "form_id": "03013335|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart293ChestWithTable302",
+    "form_id": "03013336|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart292ChestWithDisplayTable298",
+    "form_id": "03013337|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart291ChestWithDisplayShelf299",
+    "form_id": "03013339|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart290Chest02",
+    "form_id": "0301333A|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart289Chest01",
+    "form_id": "0301333B|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart288BenchExterior02",
+    "form_id": "0301333C|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bench",
+    "string": "Banco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart287BenchExterior01",
+    "form_id": "0301333D|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bench",
+    "string": "Banco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart286BarrelsWithTable303",
+    "form_id": "0301333E|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Barrels",
+    "string": "Barriles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart285Barrels02",
+    "form_id": "0301333F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Barrels",
+    "string": "Barriles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart284Barrels01",
+    "form_id": "03013340|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Barrels",
+    "string": "Barriles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLibPart450WallSconce01",
+    "form_id": "03013341|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconce",
+    "string": "Aplique de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLibPart449ShelfCorner01",
+    "form_id": "03013342|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Corner Shelf",
+    "string": "Estante de esquina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLibPart448TableNight01",
+    "form_id": "03013343|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Night Table",
+    "string": "Mesa de noche",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLibPart447LampStand01",
+    "form_id": "03013344|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Lamp Stand",
+    "string": "Soporte para lámpara",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLibPart446ChestExterior01",
+    "form_id": "03013345|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLibPart445Chest01",
+    "form_id": "03013346|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLibPart444ChandelierSmall01",
+    "form_id": "03013347|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chandelier, Small",
+    "string": "Candelabro pequeño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLibPart443Chair01",
+    "form_id": "03013348|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chair",
+    "string": "Silla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLibPart442BookshelfTall05",
+    "form_id": "03013349|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Bookshelf",
+    "string": "Biblioteca alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLibPart441BookshelfTall04",
+    "form_id": "0301334A|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Bookshelf",
+    "string": "Biblioteca alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLibPart440BookshelfTall03",
+    "form_id": "0301334B|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Bookshelf",
+    "string": "Biblioteca alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLibPart439BookshelfTall02",
+    "form_id": "0301334C|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Bookshelf",
+    "string": "Biblioteca alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLibPart438BookshelfTall01",
+    "form_id": "0301334D|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Bookshelf",
+    "string": "Biblioteca alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLibPart437Bookshelf04",
+    "form_id": "0301334E|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bookshelf",
+    "string": "Biblioteca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLibPart436Bookshelf03",
+    "form_id": "0301334F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bookshelf",
+    "string": "Biblioteca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLibPart435Bookshelf02",
+    "form_id": "03013350|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bookshelf",
+    "string": "Biblioteca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHLibPart434Bookshelf01",
+    "form_id": "03013351|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bookshelf",
+    "string": "Biblioteca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHEncPart283WeaponRackx3_01",
+    "form_id": "03013352|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Weapon Racks (3)",
+    "string": "Soportes para armas (3)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHEncPart282WeaponPlaque01",
+    "form_id": "03013353|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Weapon Plaque",
+    "string": "Placa para armas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHEncPart281WallShelf01",
+    "form_id": "03013354|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Shelf",
+    "string": "Estante de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHEncPart280WallSconce01",
+    "form_id": "03013355|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconce",
+    "string": "Aplique de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHEncPart279ShelfTall01",
+    "form_id": "03013356|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Shelf",
+    "string": "Estantería alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHEncPart278MountedHeadGoat01",
+    "form_id": "03013357|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Goat Head",
+    "string": "Cabeza de cabra disecada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHEncPart277Mannequin01",
+    "form_id": "03013358|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Armor Mannequin",
+    "string": "Maniquí para armadura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHEncPart276TableEnd01",
+    "form_id": "03013359|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "End Table",
+    "string": "Mesa auxiliar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHEncPart275EnchantingTable01",
+    "form_id": "0301335A|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Arcane Enchanter",
+    "string": "Encantador Arcano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHEncPart274DisplayTableLow01",
+    "form_id": "0301335B|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Display Case on Low Table",
+    "string": "Vitrina sobre mesa baja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHEncPart273DisplayCase01",
+    "form_id": "0301335C|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Display Case",
+    "string": "Vitrina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHEncPart272Cupboard01",
+    "form_id": "0301335D|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Cupboard",
+    "string": "Alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHEncPart271ChestWithCupboard272",
+    "form_id": "0301335E|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHEncPart270Chest01",
+    "form_id": "0301335F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHEncPart269ChairExterior01",
+    "form_id": "03013360|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chair",
+    "string": "Silla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHEncPart268Brazier02",
+    "form_id": "03013361|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Brazier",
+    "string": "Brasero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHEncPart267Brazier01",
+    "form_id": "03013362|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Brazier",
+    "string": "Brasero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart240WeaponPlaque01",
+    "form_id": "03013363|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Weapon Plaque",
+    "string": "Placa para armas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart239WashbasinExterior01",
+    "form_id": "03013364|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Washbasin on Stand",
+    "string": "Lavamanos con soporte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart238Washbasin01",
+    "form_id": "03013365|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Washbasin on Stand",
+    "string": "Lavamanos con soporte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart237WardrobeTall01",
+    "form_id": "03013366|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Wardrobe",
+    "string": "Armario alto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart236WardrobeSmall02",
+    "form_id": "03013367|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wardrobe, Small",
+    "string": "Armario pequeño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart235WardrobeSmall01",
+    "form_id": "03013368|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wardrobe, Small",
+    "string": "Armario pequeño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart234WallShelvesx3",
+    "form_id": "03013369|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Shelves (3)",
+    "string": "Estantes de pared (3)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart233WallShelvesx2_01",
+    "form_id": "0301336A|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Shelves (2)",
+    "string": "Estantes de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart232WallSconceExteriorx2",
+    "form_id": "0301336B|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconces (2)",
+    "string": "Apliques de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart231WallSconcex2_01",
+    "form_id": "0301336C|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconces (2)",
+    "string": "Apliques de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart230TableBenchesExterior",
+    "form_id": "0301336D|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Table with Benches",
+    "string": "Mesa con bancos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart229TableSquareChairs01",
+    "form_id": "0301336E|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Square Table and Chairs",
+    "string": "Mesa cuadrada con sillas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart228TableLowExterior03",
+    "form_id": "0301336F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Low Table",
+    "string": "Mesa baja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart227TableLowExterior02",
+    "form_id": "03013370|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Low Table",
+    "string": "Mesa baja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart226TableLowExterior01",
+    "form_id": "03013371|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Low Table",
+    "string": "Mesa baja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart225ShelfTall02",
+    "form_id": "03013372|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Shelf",
+    "string": "Estantería alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart224ShelfTall01",
+    "form_id": "03013373|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Shelf",
+    "string": "Estantería alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart223Lectern01",
+    "form_id": "03013374|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Lectern",
+    "string": "Atril",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart222Safe01",
+    "form_id": "03013375|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Safe",
+    "string": "Caja fuerte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart221MountedMudcrab01",
+    "form_id": "03013376|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Mudcrab",
+    "string": "Mudcrab disecado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart220MountedHeadBear01",
+    "form_id": "03013377|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Bear Head",
+    "string": "Cabeza de oso disecada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart219ChestLongWithBed01",
+    "form_id": "03013378|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest, Long",
+    "string": "Cofre largo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart218DisplayWardrobeSmall01",
+    "form_id": "03013379|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Display Case and Small Wardrobe",
+    "string": "Vitrina y armario pequeño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart217DisplayShelf01",
+    "form_id": "0301337A|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Display Case and Shelf",
+    "string": "Vitrina y estante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart216ChestWithBed208",
+    "form_id": "0301337B|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Child's Chest",
+    "string": "Cofre infantil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart215ChestWithBed207",
+    "form_id": "0301337C|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Child's Chest",
+    "string": "Cofre infantil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart214Chest01",
+    "form_id": "0301337D|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart213Chair01",
+    "form_id": "0301337E|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chair",
+    "string": "Silla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart212BenchExterior03",
+    "form_id": "0301337F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bench",
+    "string": "Banco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart211BenchExterior02",
+    "form_id": "03013380|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bench",
+    "string": "Banco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart210BenchExterior01",
+    "form_id": "03013381|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bench",
+    "string": "Banco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart209BedDouble01",
+    "form_id": "03013382|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Double Bed",
+    "string": "Cama doble",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart208BedChild02",
+    "form_id": "03013383|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Child's Bed",
+    "string": "Cama infantil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBedPart207BedChild01",
+    "form_id": "03013384|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Child's Bed",
+    "string": "Cama infantil",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart409WeaponRackx4_02",
+    "form_id": "03013385|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Weapon Racks (4)",
+    "string": "Soportes para armas (4)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart408WeaponRackx4_01",
+    "form_id": "03013386|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Weapon Racks (4)",
+    "string": "Soportes para armas (4)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart407WeaponPlaque02",
+    "form_id": "03013387|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Weapon Plaque",
+    "string": "Placa para armas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart406WeaponPlaque01",
+    "form_id": "03013388|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Weapon Plaque",
+    "string": "Placa para armas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart405WashbasinExterior01",
+    "form_id": "03013389|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Washbasin on Stand",
+    "string": "Lavamanos con soporte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart404WallSconceExteriorx2",
+    "form_id": "0301338A|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconces (2)",
+    "string": "Apliques de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart403WallSconcex2_02",
+    "form_id": "0301338B|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconces (2)",
+    "string": "Apliques de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart402WallSconcex2_01",
+    "form_id": "0301338C|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconces (2)",
+    "string": "Apliques de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart401TanningRackExterior01",
+    "form_id": "0301338D|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tanning Rack",
+    "string": "Curtidor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart400TanningRack01",
+    "form_id": "0301338E|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tanning Rack",
+    "string": "Curtidor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart399TableSquareExterior01",
+    "form_id": "0301338F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Square Table",
+    "string": "Mesa cuadrada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart398MannequinWithCupboard05",
+    "form_id": "03013390|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Armor Mannequin with Cupboard",
+    "string": "Maniquí para armadura con alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart397TableRound01",
+    "form_id": "03013391|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Round Table",
+    "string": "Mesa redonda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart396MountedHeadWolf01",
+    "form_id": "03013392|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Wolf Head",
+    "string": "Cabeza de lobo disecada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart395MountedHeadSabreCat01",
+    "form_id": "03013393|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Sabre Cat Head",
+    "string": "Cabeza de tigre dientes de sable disecada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart394MountedHeadHorker01",
+    "form_id": "03013394|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Horker Head",
+    "string": "Cabeza de horker disecada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart393MountedHeadBear01",
+    "form_id": "03013395|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Bear Head",
+    "string": "Cabeza de oso disecada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart392MannequinWithCupboard04",
+    "form_id": "03013396|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Armor Mannequin with Cupboard",
+    "string": "Maniquí para armadura con alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart391MannequinWithCupboard03",
+    "form_id": "03013397|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Armor Mannequin with Cupboard",
+    "string": "Maniquí para armadura con alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart390MannequinWithCupboard02",
+    "form_id": "03013398|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Armor Mannequin with Cupboard",
+    "string": "Maniquí para armadura con alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart389MannequinWithCupboard01",
+    "form_id": "03013399|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Armor Mannequin with Cupboard",
+    "string": "Maniquí para armadura con alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart388LampStand02",
+    "form_id": "0301339A|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Lamp Stand",
+    "string": "Soporte para lámpara",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart386LampStand01",
+    "form_id": "0301339B|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Lamp Stand",
+    "string": "Soporte para lámpara",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart385Grindstone01",
+    "form_id": "0301339C|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Grindstone",
+    "string": "Piedra de afilar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart384Dresser02",
+    "form_id": "0301339D|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dresser",
+    "string": "Cómoda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart383Dresser01",
+    "form_id": "0301339E|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Dresser",
+    "string": "Cómoda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart382DisplayTableLow02",
+    "form_id": "0301339F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Display Case on Low Table",
+    "string": "Vitrina sobre mesa baja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart381DisplayTableLow01",
+    "form_id": "030133A0|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Display Case on Low Table",
+    "string": "Vitrina sobre mesa baja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart379DisplayCupboard02",
+    "form_id": "030133A1|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Display Case and Cupboard",
+    "string": "Vitrina y alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart377DisplayCupboard01",
+    "form_id": "030133A2|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Display Case and Cupboard",
+    "string": "Vitrina y alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart376Cupboard01",
+    "form_id": "030133A3|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Cupboard",
+    "string": "Alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart374ChestWithCupboard376",
+    "form_id": "030133A4|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart373Chest01",
+    "form_id": "030133A5|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart371BenchExterior01",
+    "form_id": "030133A6|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bench",
+    "string": "Banco",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart370ArmorWorkbench01",
+    "form_id": "030133A7|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Armorer Workbench",
+    "string": "Banco de trabajo de armero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHArmPart369ArcheryTargetx2Exterior01",
+    "form_id": "030133A9|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Archery Targets (2)",
+    "string": "Blancos de arquería (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart368Washbasin01",
+    "form_id": "030133AA|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Washbasin on Stand",
+    "string": "Lavamanos con soporte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart367WallShelvesx2_01",
+    "form_id": "030133AB|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Shelves (2)",
+    "string": "Estantes de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart366WallShelf01",
+    "form_id": "030133AC|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Shelf",
+    "string": "Estante de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart365WallSconcex2_03",
+    "form_id": "030133AD|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconces (2)",
+    "string": "Apliques de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart364WallSconcex2_02",
+    "form_id": "030133AE|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconces (2)",
+    "string": "Apliques de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart363WallSconcex2_01",
+    "form_id": "030133AF|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconces (2)",
+    "string": "Apliques de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart362WallSconce01",
+    "form_id": "030133B0|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Sconce",
+    "string": "Aplique de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart361ShelfTall01",
+    "form_id": "030133B1|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Tall Shelf",
+    "string": "Estantería alta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart360ShelfSmall1",
+    "form_id": "030133B2|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Small Shelf",
+    "string": "Estante pequeño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart359SafeWithShelf361",
+    "form_id": "030133B3|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Safe",
+    "string": "Caja fuerte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart358SafeWithShelf361",
+    "form_id": "030133B4|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Safe",
+    "string": "Caja fuerte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart357MountedMudcrab01",
+    "form_id": "030133B5|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Mounted Mudcrab",
+    "string": "Mudcrab disecado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart356HangingRack02",
+    "form_id": "030133B6|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Hanging Rack",
+    "string": "Perchero colgante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart355HangingRack01",
+    "form_id": "030133B7|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Hanging Rack",
+    "string": "Perchero colgante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart354TableEndx2_01",
+    "form_id": "030133B8|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "End Tables (2)",
+    "string": "Mesas auxiliares (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart353TableEnd01",
+    "form_id": "030133B9|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "End Table",
+    "string": "Mesa auxiliar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart352DisplayWardrobeSmall02",
+    "form_id": "030133BA|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Display Case and Small Wardrobe",
+    "string": "Vitrina y armario pequeño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart349ChestExterior01",
+    "form_id": "030133BD|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart348Chest01",
+    "form_id": "030133BE|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chest",
+    "string": "Cofre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart347ChandelierSmall01",
+    "form_id": "030133BF|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Chandelier, Small",
+    "string": "Candelabro pequeño",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart346Barrels02",
+    "form_id": "030133C0|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Barrels",
+    "string": "Barriles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart345Barrels01",
+    "form_id": "030133C1|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Barrels",
+    "string": "Barriles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHAlcPart344AlchemyTable01",
+    "form_id": "030133C2|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Alchemy Lab",
+    "string": "Laboratorio de alquimia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart321WashbasinExterior01",
+    "form_id": "030133C3|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Washbasin on Stand",
+    "string": "Lavamanos con soporte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart320Washbasin01",
+    "form_id": "030133C4|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Washbasin on Stand",
+    "string": "Lavamanos con soporte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart319WallShelvesx2_04",
+    "form_id": "030133C5|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Shelves (2)",
+    "string": "Estantes de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart318WallShelvesx2_03",
+    "form_id": "030133C6|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Shelves (2)",
+    "string": "Estantes de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart317WallShelvesx2_02",
+    "form_id": "030133C7|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Shelves (2)",
+    "string": "Estantes de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHStoPart316WallShelvesx2_01",
+    "form_id": "030133C8|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Wall Shelves (2)",
+    "string": "Estantes de pared (2)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackAlchemy",
+    "form_id": "03013F3D|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Alchemy Laboratory",
+    "string": "Laboratorio de alquimia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackArmory",
+    "form_id": "03013F3F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Armory",
+    "string": "Armería",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackBedrooms",
+    "form_id": "03013F40|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Bedrooms",
+    "string": "Dormitorios",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackEnchanting",
+    "form_id": "03013F41|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Enchanter's Tower",
+    "string": "Torre del encantador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackGreenhouse",
+    "form_id": "03013F42|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Greenhouse",
+    "string": "Invernadero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackKitchen",
+    "form_id": "03013F43|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Kitchen",
+    "string": "Cocina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackLibrary",
+    "form_id": "03013F44|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Library",
+    "string": "Biblioteca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackStorage",
+    "form_id": "03013F45|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Storage Room",
+    "string": "Sala de almacenamiento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1HouseInteriorRoomBackTrophy",
+    "form_id": "03013F46|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Trophy Room",
+    "string": "Sala de trofeos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearLeftPorch",
+    "form_id": "03014BF8|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch - Clear Furniture",
+    "string": "Porche Oeste - Quitar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchRemodelEnable",
+    "form_id": "03014BFA|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Remodeling Workbench",
+    "string": "Banco de remodelación",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchRemodelDisable",
+    "form_id": "03014BFB|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Remove Remodeling Workbench",
+    "string": "Retirar banco de remodelación",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearLeftLonghs",
+    "form_id": "03014BFE|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse - Clear Furniture",
+    "string": "Casa comunal Oeste - Quitar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearLeftTower",
+    "form_id": "03014BFF|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower - Clear Furniture",
+    "string": "Torre Oeste - Quitar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearBackTower",
+    "form_id": "03014C05|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower - Clear Furniture",
+    "string": "Torre Norte - Quitar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearBackLonghs",
+    "form_id": "03014C06|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse - Clear Furniture",
+    "string": "Casa comunal Norte - Quitar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearBackPorch",
+    "form_id": "03014C07|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch - Clear Furniture",
+    "string": "Porche Norte - Quitar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearRightPorch",
+    "form_id": "03015169|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch - Clear Furniture",
+    "string": "Porche Este - Quitar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearRightLonghs",
+    "form_id": "0301516A|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse - Clear Furniture",
+    "string": "Casa comunal Este - Quitar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1ClearRightTower",
+    "form_id": "0301516B|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower - Clear Furniture",
+    "string": "Torre Este - Quitar muebles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1RemoveBackLonghs",
+    "form_id": "03018754|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse - Tear Down",
+    "string": "Casa comunal norte - Demoler",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1RemoveBackTower",
+    "form_id": "03018756|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower - Tear Down",
+    "string": "Torre Norte - Derribar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1RemoveLeftLonghs",
+    "form_id": "03018757|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse - Tear Down",
+    "string": "Casa comunal oeste - Demoler",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1RemoveLeftTower",
+    "form_id": "03018759|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower - Tear Down",
+    "string": "Torre Oeste - Derribar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1RemoveRightLonghs",
+    "form_id": "0301875A|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse - Tear Down",
+    "string": "Casa comunal este - Demoler",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1RemoveRightTower",
+    "form_id": "0301875C|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower - Tear Down",
+    "string": "Torre Este - Derribar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildBackLonghs0Layout",
+    "form_id": "03019CF4|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Addition - North Wing - Longhouse",
+    "string": "Ampliación - Ala norte - Casa comunal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildBackPorch0Layout",
+    "form_id": "03019CF5|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Addition - North Wing - Porch",
+    "string": "Ampliación - Ala norte - Porche",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildBackTower0Layout",
+    "form_id": "03019CF6|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Addition - North Wing - Tower",
+    "string": "Ampliación - Ala norte - Torre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildLeftLonghs0Layout",
+    "form_id": "03019CF7|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Addition - West Wing - Longhouse",
+    "string": "Ampliación - Ala oeste - Casa comunal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildLeftPorch0Layout",
+    "form_id": "03019CF8|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Addition - West Wing - Porch",
+    "string": "Ampliación - Ala oeste - Porche",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildLeftTower0Layout",
+    "form_id": "03019CF9|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Addition - West Wing - Tower",
+    "string": "Ampliación - Ala oeste - Torre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildRightLonghs0Layout",
+    "form_id": "03019CFA|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Addition - East Wing - Longhouse",
+    "string": "Ampliación - Ala este - Casa comunal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildRightPorch0Layout",
+    "form_id": "03019CFB|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Addition - East Wing - Porch",
+    "string": "Ampliación - Ala este - Porche",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildRightTower0Layout",
+    "form_id": "03019CFC|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Addition - East Wing - Tower",
+    "string": "Ampliación - Ala este - Torre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildBackLonghs1Door",
+    "form_id": "03019CFD|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse, Door",
+    "string": "Casa comunal norte, Puerta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildBackLonghs2Foundation",
+    "form_id": "03019D07|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse, Foundation",
+    "string": "Casa comunal norte, Cimientos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildBackPorch1Doors",
+    "form_id": "03019D08|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch, Doors",
+    "string": "Porche norte, Puertas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildBackTower1Doors",
+    "form_id": "03019D09|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower, Doors",
+    "string": "Torre norte, Puertas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildRightLonghs1Doors",
+    "form_id": "03019D0A|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse, Doors",
+    "string": "Casa comunal este, Puertas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildRightPorch1Doors",
+    "form_id": "03019D0B|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch, Doors",
+    "string": "Porche este, Puertas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildRightTower1Doors",
+    "form_id": "03019D0C|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower, Doors",
+    "string": "Torre este, Puertas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildRightLonghs2Foundation",
+    "form_id": "03019D12|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse, Foundation",
+    "string": "Casa comunal este, Cimientos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildRightLonghs5Roof_Finish",
+    "form_id": "03019D18|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse, Roof",
+    "string": "Casa comunal este, Techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildRightPorch2Foundation",
+    "form_id": "03019D1E|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch, Foundation",
+    "string": "Porche este, Cimientos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildRightPorch4Roof",
+    "form_id": "03019D21|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch, Roof",
+    "string": "Porche este, Techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildRightPorch5Walls_Finish",
+    "form_id": "0301A283|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch, Walls",
+    "string": "Porche este, Paredes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildRightTower2Foundation",
+    "form_id": "0301A284|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower, Foundation",
+    "string": "Torre este, Cimientos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildRightTower6Roof_Finish",
+    "form_id": "0301A28B|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower, Roof",
+    "string": "Torre este, Techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildLeftLonghs3Floor",
+    "form_id": "0301A28D|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse, Floor",
+    "string": "Casa comunal oeste, Suelo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildLeftLonghs3WallFraming",
+    "form_id": "0301A28E|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse, Wall Supports",
+    "string": "Casa comunal oeste, Soportes de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildLeftLonghs4RoofFraming",
+    "form_id": "0301A28F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse, Roof Framing",
+    "string": "Casa comunal oeste, Armazón del techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildLeftLonghs4Walls",
+    "form_id": "0301A290|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse, Walls",
+    "string": "Casa comunal oeste, Paredes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildBackLonghs5Roof_Finish",
+    "form_id": "0301A291|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse, Roof",
+    "string": "Casa comunal norte, Techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildBackPorch2Foundation",
+    "form_id": "0301A7F3|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch, Foundation",
+    "string": "Porche norte, Cimientos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildLeftPorch3Floor",
+    "form_id": "0301A7F4|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch, Floor",
+    "string": "Porche oeste, Suelo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildLeftPorch3WallFraming",
+    "form_id": "0301A7F5|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch, Wall Supports",
+    "string": "Porche oeste, Soportes de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildBackPorch4Roof",
+    "form_id": "0301A7F6|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch, Roof",
+    "string": "Porche norte, Techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildBackPorch5Walls_Finish",
+    "form_id": "0301A7F7|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch, Walls",
+    "string": "Porche norte, Paredes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildBackTower2Foundation",
+    "form_id": "0301A7F8|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower, Foundation",
+    "string": "Torre norte, Cimientos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildLeftTower3Floor",
+    "form_id": "0301A7F9|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower, Floor",
+    "string": "Torre oeste, Suelo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildLeftTower3WallFraming1",
+    "form_id": "0301A7FA|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower, Main Supports",
+    "string": "Torre oeste, Soportes principales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildLeftTower4WallFraming2",
+    "form_id": "0301A7FB|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower, Second Floor Supports",
+    "string": "Torre oeste, Soportes del segundo piso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildLeftTower4Walls1",
+    "form_id": "0301A7FC|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower, First Floor Walls",
+    "string": "Torre oeste, Paredes del primer piso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildLeftTower5Walls2",
+    "form_id": "0301A7FD|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower, Second Floor Walls",
+    "string": "Torre oeste, Paredes del segundo piso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildBackTower6Roof_Finish",
+    "form_id": "0301A7FE|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower, Roof",
+    "string": "Torre norte, Techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildLeftTower7Canopy",
+    "form_id": "0301A7FF|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower, Roof Canopy",
+    "string": "Torre oeste, Dosel del techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildLeftLonghs1Doors",
+    "form_id": "0301A800|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse, Doors",
+    "string": "Casa comunal oeste, Puertas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildLeftPorch1Doors",
+    "form_id": "0301A801|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch, Doors",
+    "string": "Porche oeste, Puertas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildLeftTower1Doors",
+    "form_id": "0301A802|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower, Doors",
+    "string": "Torre oeste, Puertas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildLeftLonghs2Foundation",
+    "form_id": "0301A803|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse, Foundation",
+    "string": "Casa comunal oeste, Cimientos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildLeftLonghs5Roof_Finish",
+    "form_id": "0301A808|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse, Roof",
+    "string": "Casa comunal oeste, Techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildLeftPorch2Foundation",
+    "form_id": "0301A809|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch, Foundation",
+    "string": "Porche oeste, Cimientos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildLeftPorch4Roof",
+    "form_id": "0301A80C|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch, Roof",
+    "string": "Porche oeste, Techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildLeftPorch5Walls_Finish",
+    "form_id": "0301A80D|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch, Walls",
+    "string": "Porche oeste, Paredes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildLeftTower2Foundation",
+    "form_id": "0301A80E|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower, Foundation",
+    "string": "Torre oeste, Cimientos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildLeftTower6Roof_Finish",
+    "form_id": "0301A810|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower, Roof",
+    "string": "Torre oeste, Techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHGrePart261PlanterSmallWithCupboard02",
+    "form_id": "0301C3A4|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Small Planter with Cupboard",
+    "string": "Macetero pequeño con alacena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildRightLonghs3Floor",
+    "form_id": "0301DE9E|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse, Floor",
+    "string": "Casa comunal este, Suelo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildRightLonghs3WallFraming",
+    "form_id": "0301DE9F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse, Wall Supports",
+    "string": "Casa comunal este, Soportes de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildRightLonghs4RoofFraming",
+    "form_id": "0301DEA0|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse, Roof Framing",
+    "string": "Casa comunal este, Armazón del techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildRightLonghs4Walls",
+    "form_id": "0301DEA1|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse, Walls",
+    "string": "Casa comunal este, Paredes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildRightPorch3Floor",
+    "form_id": "0301DEA2|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch, Floor",
+    "string": "Porche este, Suelo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildRightPorch3WallFraming",
+    "form_id": "0301DEA3|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch, Wall Supports",
+    "string": "Porche este, Soportes de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildRightTower3Floor",
+    "form_id": "0301DEA4|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower, Floor",
+    "string": "Torre este, Suelo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildRightTower3WallFraming1",
+    "form_id": "0301DEA5|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower, Main Supports",
+    "string": "Torre este, Soportes principales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildRightTower4WallFraming2",
+    "form_id": "0301DEA6|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower, Second Floor Supports",
+    "string": "Torre este, Soportes del segundo piso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildRightTower4Walls1",
+    "form_id": "0301DEA7|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower, First Floor Walls",
+    "string": "Torre este, Paredes del primer piso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildRightTower5Walls2",
+    "form_id": "0301DEA8|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower, Second Floor Walls",
+    "string": "Torre este, Paredes del segundo piso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildRightTower7Canopy",
+    "form_id": "0301DEA9|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower, Roof Canopy",
+    "string": "Torre este, Dosel del techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildBackLonghs3Floor",
+    "form_id": "0301DEAA|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse, Floor",
+    "string": "Casa comunal norte, Suelo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildBackLonghs3WallFraming",
+    "form_id": "0301DEAB|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse, Wall Supports",
+    "string": "Casa comunal norte, Soportes de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildBackLonghs4RoofFraming",
+    "form_id": "0301DEAC|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse, Roof Framing",
+    "string": "Casa comunal norte, Armazón del techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildBackLonghs4Walls",
+    "form_id": "0301DEAD|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse, Walls",
+    "string": "Casa comunal norte, Paredes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildBackPorch3Floor",
+    "form_id": "0301DEAE|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch, Floor",
+    "string": "Porche norte, Suelo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildBackPorch3WallFraming",
+    "form_id": "0301DEAF|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch, Wall Supports",
+    "string": "Porche norte, Soportes de pared",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildBackTower3Floor",
+    "form_id": "0301DEB0|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower, Floor",
+    "string": "Torre norte, Suelo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildBackTower3WallFraming1",
+    "form_id": "0301DEB1|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower, Main Supports",
+    "string": "Torre norte, Soportes principales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildBackTower4WallFraming2",
+    "form_id": "0301DEB2|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower, Second Floor Supports",
+    "string": "Torre norte, Soportes del segundo piso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildBackTower4Walls1",
+    "form_id": "0301DEB3|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower, First Floor Walls",
+    "string": "Torre norte, Paredes del primer piso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildBackTower5Walls2",
+    "form_id": "0301DEB4|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower, Second Floor Walls",
+    "string": "Torre norte, Paredes del segundo piso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHBuildBackTower7Canopy",
+    "form_id": "0301DEB5|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower, Roof Canopy",
+    "string": "Torre norte, Dosel del techo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1RemoveBackPorch",
+    "form_id": "0301E417|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch - Tear Down",
+    "string": "Porche norte - Demoler",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1RemoveLeftPorch",
+    "form_id": "0301E418|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch - Tear Down",
+    "string": "Porche oeste - Demoler",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1RemoveRightPorch",
+    "form_id": "0301E419|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch - Tear Down",
+    "string": "Porche este - Demoler",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildLeftPorchBridge",
+    "form_id": "0301E981|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch, Bridge",
+    "string": "Porche oeste, Puente",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1BuildRightPorchBridge",
+    "form_id": "0301E982|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch, Bridge",
+    "string": "Porche este, Puente",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchLeftPorchDisable",
+    "form_id": "0301EEE6|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch - Remove Workbench",
+    "string": "Porche oeste - Retirar banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchLeftPorchEnable",
+    "form_id": "0301EEE7|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Porch - Workbench",
+    "string": "Porche oeste - Banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchLeftLonghsDisable",
+    "form_id": "0301EEEA|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse - Remove Workbench",
+    "string": "Casa comunal oeste - Retirar banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchLeftLonghsEnable",
+    "form_id": "0301EEEB|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Longhouse - Workbench",
+    "string": "Casa comunal oeste - Banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchLeftTowerDisable",
+    "form_id": "0301EEEC|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower - Remove Workbench",
+    "string": "Torre oeste - Retirar banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchLeftTowerEnable",
+    "form_id": "0301EEED|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "West Tower - Workbench",
+    "string": "Torre oeste - Banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchBackLonghsDisable",
+    "form_id": "0301EEEE|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse - Remove Workbench",
+    "string": "Casa comunal norte - Retirar banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchBackLonghsEnable",
+    "form_id": "0301EEEF|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Longhouse - Workbench",
+    "string": "Casa comunal norte - Banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchBackPorchDisable",
+    "form_id": "0301EEF0|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch - Remove Workbench",
+    "string": "Porche norte - Retirar banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchBackPorchEnable",
+    "form_id": "0301EEF1|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Porch - Workbench",
+    "string": "Porche norte - Banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchBackTowerDisable",
+    "form_id": "0301EEF2|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower - Remove Workbench",
+    "string": "Torre norte - Retirar banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchBackTowerEnable",
+    "form_id": "0301EEF3|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "North Tower - Workbench",
+    "string": "Torre norte - Banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchRightLonghsDisable",
+    "form_id": "0301EEF4|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse - Remove Workbench",
+    "string": "Casa comunal este - Retirar banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchRightLonghsEnable",
+    "form_id": "0301EEF5|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Longhouse - Workbench",
+    "string": "Casa comunal este - Banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchRightPorchDisable",
+    "form_id": "0301EEF6|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch - Remove Workbench",
+    "string": "Porche este - Retirar banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchRightPorchEnable",
+    "form_id": "0301EEF7|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Porch - Workbench",
+    "string": "Porche este - Banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchRightTowerDisable",
+    "form_id": "0301EEF8|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower - Remove Workbench",
+    "string": "Torre este - Retirar banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYH1WorkbenchRightTowerEnable",
+    "form_id": "0301EEF9|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "East Tower - Workbench",
+    "string": "Torre este - Banco de trabajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHRemodelWorkbench",
+    "form_id": "03014BF5|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Remodeling Workbench",
+    "string": "Banco de remodelación",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHWorkbenchRoom08BackTower",
+    "form_id": "030061A1|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Carpenter's Workbench",
+    "string": "Banco de Carpintero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHWorkbenchRoom11RightTower",
+    "form_id": "030061A2|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Carpenter's Workbench",
+    "string": "Banco de Carpintero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHWorkbenchRoom06BackPorch",
+    "form_id": "030084A0|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Carpenter's Workbench",
+    "string": "Banco de Carpintero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHWorkbenchRoom07BackLonghs",
+    "form_id": "03001591|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Carpenter's Workbench",
+    "string": "Banco de Carpintero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHWorkbenchRoom03LeftPorch",
+    "form_id": "0300849F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Carpenter's Workbench",
+    "string": "Banco de Carpintero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTrophyBase2",
+    "form_id": "0301BE10|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Large Trophy Base",
+    "string": "Base para trofeo grande",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTrophyBase1",
+    "form_id": "0301BE0F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Small Trophy Base",
+    "string": "Base para trofeo pequeña",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHWorkbenchRoom09RightPorch",
+    "form_id": "030084A1|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Carpenter's Workbench",
+    "string": "Banco de Carpintero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHWorkbenchRoom04LeftLonghs",
+    "form_id": "030060E3|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Carpenter's Workbench",
+    "string": "Banco de Carpintero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHDraftingTableBYH",
+    "form_id": "03014BF3|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Drafting Table",
+    "string": "Mesa de dibujo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHWorkbenchRoom05LeftTower",
+    "form_id": "030061A0|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Carpenter's Workbench",
+    "string": "Banco de Carpintero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHWorkbenchRoom10RightLonghs",
+    "form_id": "030060E4|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "FURN FULL",
+    "original": "Carpenter's Workbench",
+    "string": "Banco de Carpintero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHHouse1Falkreath",
+    "form_id": "02002FEC|HearthFires.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Lakeview Manor",
+    "string": "Mansión de Vista Lacustre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "Skyrim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RelationshipMarriageFIN",
+    "form_id": "00021382|Skyrim.esm",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Visit your spouse's house",
+    "string": "Visita la casa de tu cónyuge",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHRemoveMsgSoil",
+    "form_id": "0301E980|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to tear down this wing? Make sure there are no plants or seeds in planters first.",
+    "string": "¿Seguro que quieres demoler esta ala? Asegúrate primero de que no haya plantas ni semillas en los maceteros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHRemoveMsgSoil",
+    "form_id": "0301E980|HearthfireAdditions.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "Sí",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHRemoveMsgSoil",
+    "form_id": "0301E980|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "No",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHRemoveMsg",
+    "form_id": "0301E97F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to tear down this wing?",
+    "string": "¿Seguro que quieres demoler esta ala?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHRemoveMsg",
+    "form_id": "0301E97F|HearthfireAdditions.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "Sí",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHRemoveMsg",
+    "form_id": "0301E97F|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "No",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHClearMsg",
+    "form_id": "0301E97E|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to clear this wing?",
+    "string": "¿Seguro que quieres vaciar esta ala?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHClearMsg",
+    "form_id": "0301E97E|HearthfireAdditions.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "Sí",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHClearMsg",
+    "form_id": "0301E97E|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "No",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHClearMsgSoil",
+    "form_id": "0301DE99|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to clear this wing? Make sure there are no plants or seeds in planters first.",
+    "string": "¿Seguro que quieres vaciar esta ala? Asegúrate primero de que no haya plantas ni semillas en los maceteros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHClearMsgSoil",
+    "form_id": "0301DE99|HearthfireAdditions.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "Sí",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHClearMsgSoil",
+    "form_id": "0301DE99|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "No",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTrophyRemovalMsg",
+    "form_id": "0301BE11|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Do you want to remove this trophy?",
+    "string": "¿Quieres retirar este trofeo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTrophyRemovalMsg",
+    "form_id": "0301BE11|HearthfireAdditions.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "Sí",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYHTrophyRemovalMsg",
+    "form_id": "0301BE11|HearthfireAdditions.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "No",
+    "status": "TranslationComplete"
+  }
+]

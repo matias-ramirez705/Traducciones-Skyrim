@@ -1,0 +1,1892 @@
+[
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Ghosts of the Tribunal",
+    "string": "Fantasmas del Tribunal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "There's been plenty of upheaval in Solstheim since the eruption of the Red Mountain, both politically and religiously. I should investigate the Temple in Raven Rock and see if I can learn more.",
+    "string": "En Solstheim reina la agitación política y religiosa desde la erupción de la Montaña Roja. Tengo que investigar el templo de Roca del Cuervo, a ver si consigo averiguar alguna cosa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "There's been plenty of upheaval in Solstheim since the eruption of the Red Mountain, both politically and religiously. At the Temple in Raven Rock I learned of a heretic attempting to use a forge in Fahlbtharz to enchant a Dwemer weapon.",
+    "string": "En Solstheim reina la agitación política y religiosa desde la erupción de la Montaña Roja. En el templo de Roca del Cuervo he descubierto que unos herejes pretenden usar una forja de Fahlbtharz para encantar un arma dwemer.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "In the wake of the Red Mountain's eruption, worship of the old Tribunal waned, and in its place there came a Reclamation of the original Dunmer gods. However, it's possible some still cling to the old ways. At the Temple in Raven Rock I learned of a heretic attempting to use a forge in Fahlbtharz to enchant a Dwemer weapon. Upon entering the forge area, the heretic attacked.",
+    "string": "Tras la erupción de la Montaña Roja, el culto al antiguo Tribunal se vino abajo, y, en su lugar, se alzó la llamada Recuperación de los dioses dunmer originales. No obstante, es posible que todavía quede quien se aferre a las antiguas costumbres. En el templo de Roca del Cuervo he descubierto que unos herejes pretenden usar una forja de Fahlbtharz para encantar un arma dwemer. Al entrar en la zona de la forja, me ha atacado uno de ellos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "In the wake of the Red Mountain's eruption, worship of the old Tribunal waned, and in its place there came a Reclamation of the original Dunmer gods. However, it's possible some still cling to the old ways. At the Temple in Raven Rock I learned of a heretic attempting to use a forge in Fahlbtharz to enchant a Dwemer weapon. Upon entering the forge area, the heretic attacked, and I managed to kill him.",
+    "string": "Tras la erupción de la Montaña Roja, el culto al antiguo Tribunal se vino abajo, y, en su lugar, se alzó la llamada Recuperación de los dioses dunmer originales. No obstante, es posible que todavía quede quien se aferre a las antiguas costumbres. En el templo de Roca del Cuervo he descubierto que unos herejes pretenden usar una forja de Fahlbtharz para encantar un arma dwemer. Al entrar en la zona de la forja, me ha atacado uno de ellos, pero he conseguido darle muerte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "At the Temple in Raven Rock I learned of a heretic attempting to use a forge in Fahlbtharz to enchant a Dwemer weapon. I traveled to the ruin and picked up the Pyroil Tar required to enchant it.",
+    "string": "En el templo de Roca del Cuervo he descubierto que unos herejes pretenden usar una forja de Fahlbtharz para encantar un arma dwemer. He viajado hasta las ruinas y he conseguido el alquitrán de piróleo que hace falta para ello.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "In the wake of the Red Mountain's eruption, worship of the old Tribunal waned, and in its place there came a Reclamation of the original Dunmer gods. However, it's possible some still cling to the old ways. At the Temple in Raven Rock I learned of a heretic attempting to use a forge in Fahlbtharz to enchant a Dwemer weapon. Upon entering the forge area, the heretic attacked, and I managed to kill him and found the weapon on his body.",
+    "string": "Tras la erupción de la Montaña Roja, el culto al antiguo Tribunal se vino abajo, y, en su lugar, se alzó la llamada Recuperación de los dioses dunmer originales. No obstante, es posible que todavía quede quien se aferre a las antiguas costumbres. En el templo de Roca del Cuervo he descubierto que unos herejes pretenden usar una forja de Fahlbtharz para encantar un arma dwemer. Al entrar en la zona de la forja, me ha atacado uno de ellos y, tras acabar con él, he descubierto que llevaba el arma consigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "At the Temple in Raven Rock I learned of a heretic attempting to use a forge in Fahlbtharz to enchant a Dwemer weapon. I traveled to the ruin and picked up the weapon and the tar required to enchant it. I can now place the materials in the forge.",
+    "string": "En el templo de Roca del Cuervo he descubierto que unos herejes pretenden usar una forja de Fahlbtharz para encantar un arma dwemer. He viajado hasta las ruinas, donde he conseguido el arma y el alquitrán de piróleo que hace falta para encantarla. Ya puedo colocar los materiales en la forja.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "At the Temple in Raven Rock I learned of a heretic attempting to use a forge in Fahlbtharz to enchant a Dwemer weapon. I traveled to the ruin and picked up the weapon and the tar required to enchant it. I placed the materials in the forge and can now activate it.",
+    "string": "En el templo de Roca del Cuervo he descubierto que unos herejes pretenden usar una forja de Fahlbtharz para encantar un arma dwemer. He viajado hasta las ruinas, donde he conseguido el arma y el alquitrán de piróleo que hace falta para encantarla. He colocado los materiales en la forja y ya puedo activarla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 9,
+    "type": "QUST CNAM",
+    "original": "At the Temple in Raven Rock I learned of a heretic attempting to use a forge in Fahlbtharz to enchant a Dwemer weapon. I traveled to the forge, placed the crafting materials inside and activated it. I should now be able to pick up the enchanted Trueflame.",
+    "string": "En el templo de Roca del Cuervo he descubierto que unos herejes pretenden usar una forja de Fahlbtharz para encantar un arma dwemer. He viajado hasta la forja y, tras colocar los materiales necesarios en ella, la he activado. Ahora ya puedo recoger el arma encantada, Llamaveraz.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 10,
+    "type": "QUST CNAM",
+    "original": "At the Temple in Raven Rock I learned of a heretic attempting to use a forge in Fahlbtharz to enchant a Dwemer weapon. I traveled to the forge and was attacked by a potential heretic. I should investigate further to find out more about this clandestine group.",
+    "string": "En el templo de Roca del Cuervo he descubierto que unos herejes pretenden usar una forja de Fahlbtharz para encantar un arma dwemer. He viajado hasta la forja, donde me ha atacado alguien que podría ser uno de ellos. Debería seguir investigando para averiguar más cosas sobre este grupo clandestino.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 11,
+    "type": "QUST CNAM",
+    "original": "At the Temple in Raven Rock I learned of a heretic attempting to use a forge in Fahlbtharz to enchant a Dwemer weapon. I traveled to the forge and was attacked by a potential heretic. I should investigate further to find out more about this clandestine group.",
+    "string": "En el templo de Roca del Cuervo he descubierto que unos herejes pretenden usar una forja de Fahlbtharz para encantar un arma dwemer. He viajado hasta la forja, donde me ha atacado alguien que podría ser uno de ellos. Debería seguir investigando para averiguar más cosas sobre este grupo clandestino.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 12,
+    "type": "QUST CNAM",
+    "original": "After finding information on a group of Tribunal heretics, I followed the trail to a hidden temple full of worshipers.",
+    "string": "Tras encontrar información sobre un grupo de herejes del Tribunal, he seguido su rastro hasta un templo oculto lleno de adoradores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 13,
+    "type": "QUST CNAM",
+    "original": "After finding information on a group of Tribunal heretics, I followed the trail to a hidden temple full of worshipers. I attacked the Matriarch and her guard, clearing the temple of the heretics.",
+    "string": "Tras encontrar información sobre un grupo de herejes del Tribunal, he seguido su rastro hasta un templo oculto lleno de adoradores. He atacado a la matriarca y a su guardia, y he limpiado el templo de herejes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 14,
+    "type": "QUST CNAM",
+    "original": "After finding information on a group of Tribunal heretics, I followed the trail to a hidden temple full of worshipers. I revealed my identity to the Matriarch and must now prove my loyalty by praying at the shrine.",
+    "string": "Tras encontrar información sobre un grupo de herejes del Tribunal, he seguido su rastro hasta un templo oculto lleno de adoradores. Tras revelarle mi identidad, ahora debo demostrar mi lealtad rezando en la capilla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 15,
+    "type": "QUST CNAM",
+    "original": "After finding information on a group of Tribunal heretics, I followed the trail to a hidden temple full of worshipers. I revealed my identity to the Matriarch and was able to prove my loyalty by praying at the shrine.",
+    "string": "Tras encontrar información sobre un grupo de herejes del Tribunal, he seguido su rastro hasta un templo oculto lleno de adoradores. Tras revelarle mi identidad, he podido demostrar mi lealtad rezando en la capilla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 16,
+    "type": "QUST CNAM",
+    "original": "After finding information on a group of Tribunal heretics, I followed the trail to a hidden temple full of worshipers. After reading a note written by the Matriarch, I learned of several activities outside temple I can investigate.",
+    "string": "Tras encontrar información sobre un grupo de herejes del Tribunal, he seguido su rastro hasta un templo oculto lleno de adoradores. He leído una nota escrita por la matriarca donde se habla de varias actividades que se realizan fuera del templo que puedo investigar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 17,
+    "type": "QUST CNAM",
+    "original": "After finding information on a group of Tribunal heretics, I followed the trail to a hidden temple full of worshipers. Posing as one of Her Hands, I was able to speak to the Matriarch and receive the Goddess' commands.",
+    "string": "Tras encontrar información sobre un grupo de herejes del Tribunal, he seguido su rastro hasta un templo oculto lleno de adoradores. Haciéndome pasar por una de las manos de su diosa, he podido hablar con la matriarca para que me diese las instrucciones de su señora.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 18,
+    "type": "QUST CNAM",
+    "original": "After finding information on a group of Tribunal heretics, I followed the trail to a hidden temple full of worshipers. Posing as one of Her Hands, I was able to speak to the Matriarch and receive the Goddess' commands. Having completed her tasks, I returned to the temple to find it being attacked by Ash Zombies.",
+    "string": "Tras encontrar información sobre un grupo de herejes del Tribunal, he seguido su rastro hasta un templo oculto lleno de adoradores. Haciéndome pasar por una de las manos de su diosa, he podido hablar con la matriarca para que me diese las instrucciones de su señora. He completado las tareas que me ha encomendado y, al volver al templo, me he encontrado con que lo estaban atacando unos zombis de ceniza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 19,
+    "type": "QUST CNAM",
+    "original": "After finding information on a group of Tribunal heretics, I followed the trail to a hidden temple full of worshipers. Posing as one of Her Hands, I was able to speak to the Matriarch and receive the Goddess' commands. Having completed her tasks, I should now return to the temple.",
+    "string": "Tras encontrar información sobre un grupo de herejes del Tribunal, he seguido su rastro hasta un templo oculto lleno de adoradores. Haciéndome pasar por una de las manos de su diosa, he podido hablar con la matriarca para que me diese las instrucciones de su señora. He completado las tareas que me ha encomendado y ahora debo volver al templo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 20,
+    "type": "QUST CNAM",
+    "original": "After finding information on a group of Tribunal heretics, I followed the trail to a hidden temple full of worshipers. Posing as one of Her Hands, I was able to speak to the Matriarch and receive the Goddess' commands. Having completed her tasks, I returned to the temple to find it being attacked by Ash Zombies. I defeated the zombies and should speak with the Matriarch.",
+    "string": "Tras encontrar información sobre un grupo de herejes del Tribunal, he seguido su rastro hasta un templo oculto lleno de adoradores. Haciéndome pasar por una de las manos de su diosa, he podido hablar con la matriarca para que me diese las instrucciones de su señora. He completado las tareas que me ha encomendado y, al volver al templo, me he encontrado con que lo estaban atacando unos zombis de ceniza. Los he derrotado y ahora debo hablar con la matriarca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 21,
+    "type": "QUST CNAM",
+    "original": "After finding information on a group of Tribunal heretics, I followed the trail to a hidden temple full of worshipers. Posing as one of Her Hands, I was able to speak to the Matriarch and receive the Goddess' commands. Having completed her tasks, I was given a key to the armory.",
+    "string": "Tras encontrar información sobre un grupo de herejes del Tribunal, he seguido su rastro hasta un templo oculto lleno de adoradores. Haciéndome pasar por una de las manos de su diosa, he podido hablar con la matriarca para que me diese las instrucciones de su señora. Una vez completadas sus tareas, me han dado la llave de la armería.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 22,
+    "type": "QUST CNAM",
+    "original": "After finding information on a group of Tribunal heretics, I followed the trail to a hidden temple full of worshipers. Posing as one of Her Hands, I was able to speak to the Matriarch and receive the Goddess' commands. Having completed her tasks, I was given a key to the armory.",
+    "string": "Tras encontrar información sobre un grupo de herejes del Tribunal, he seguido su rastro hasta un templo oculto lleno de adoradores. Haciéndome pasar por una de las manos de su diosa, he podido hablar con la matriarca para que me diese las instrucciones de su señora. Una vez completadas sus tareas, me han dado la llave de la armería.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Look for clues at the Temple in Raven Rock",
+    "string": "Busca pistas en el templo de Roca del Cuervo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 15,
+    "type": "QUST NNAM",
+    "original": "Read Hand Kenro's Note",
+    "string": "Lee la nota de la mano Kenro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Travel to the forge in Fahlbtharz",
+    "string": "Viaja a la forja de Fahlbtharz.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 25,
+    "type": "QUST NNAM",
+    "original": "Kill the heretic",
+    "string": "Mata al hereje.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Retrieve the Pyroil Tar",
+    "string": "Recupera el alquitrán de piróleo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 35,
+    "type": "QUST NNAM",
+    "original": "Examine Kenro's corpse for further clues",
+    "string": "Examina el cadáver de Kenro para ver si hay más pistas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Retrieve the unenchanted weapon",
+    "string": "Recupera el arma sin encantar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Add the materials to the forge",
+    "string": "Añade los materiales a la forja.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Activate the forge",
+    "string": "Activa la forja.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Retrieve Trueflame",
+    "string": "Recupera Llamaveraz.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 100,
+    "type": "QUST NNAM",
+    "original": "Travel to the hidden temple mentioned in the notes",
+    "string": "Viaja hasta el templo oculto que se menciona en las notas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 105,
+    "type": "QUST NNAM",
+    "original": "(Optional) Wear Kenro's helmet and robes and infiltrate the temple ranks",
+    "string": "(Opcional) Ponte el yelmo y la túnica de Kenro para infiltrarte en el templo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 110,
+    "type": "QUST NNAM",
+    "original": "Ask the Matriarch for a command from the Goddess",
+    "string": "Pide a la matriarca una orden de la diosa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 120,
+    "type": "QUST NNAM",
+    "original": "(Optional) Kill the cultists",
+    "string": "(Opcional) Mata a los sectarios.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 125,
+    "type": "QUST NNAM",
+    "original": "(Optional) Earn the Matriarch's trust and join the temple heretics",
+    "string": "(Opcional) Gánate la confianza de la matriarca para unirte a los herejes del templo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 130,
+    "type": "QUST NNAM",
+    "original": "Examine the priest's body",
+    "string": "Examina el cuerpo del sacerdote.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 140,
+    "type": "QUST NNAM",
+    "original": "Read the note on the missing Curate",
+    "string": "Lee la nota sobre la coadjutora desaparecida.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 148,
+    "type": "QUST NNAM",
+    "original": "Pray at the shrine",
+    "string": "Reza en la capilla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 149,
+    "type": "QUST NNAM",
+    "original": "Defeat Almalexia's Hands in single combat (<Global=ccASVSSE001_FightGlobal>/4)",
+    "string": "Derrota a las manos de Almalexia en combate singular (<Global=ccASVSSE001_FightGlobal>/4).",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 150,
+    "type": "QUST NNAM",
+    "original": "Speak to the Matriarch",
+    "string": "Habla con la matriarca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 155,
+    "type": "QUST NNAM",
+    "original": "Read Masks of the Tribunal",
+    "string": "Lee \"Máscaras del Tribunal\".",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 160,
+    "type": "QUST NNAM",
+    "original": "Complete the tasks of the Goddess (<Global=ccASVSSE001_TaskGlobal>/3)",
+    "string": "Completa las tareas de la diosa (<Global=ccASVSSE001_TaskGlobal>/3).",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 200,
+    "type": "QUST NNAM",
+    "original": "Return to the temple",
+    "string": "Vuelve al templo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 250,
+    "type": "QUST NNAM",
+    "original": "Clear the temple of Ash Zombies",
+    "string": "Limpia el templo de zombis de ceniza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 260,
+    "type": "QUST NNAM",
+    "original": "Speak to the Matriarch",
+    "string": "Habla con la matriarca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccASVSSE001_Quest",
+    "form_id": "04000CC3|ccasvsse001-almsivi.esm",
+    "index": 300,
+    "type": "QUST NNAM",
+    "original": "Enter the armory",
+    "string": "Entra en la armería.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven",
+    "form_id": "05000AD6|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Beneath Bronze Waters",
+    "string": "Bajo aguas de bronce",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven",
+    "form_id": "05000AD6|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Calcelmo has heard fishermen's tales of a strange apparatus outside of Bronze Water Cave. He believes it is an ancient Dwemer mechanism of unknown purpose, waiting to be brought to life. I should investigate the area and see if there might be any way to trigger it.",
+    "string": "Calcelmo ha oído hablar a los pescadores sobre un extraño aparato que se encuentra a la entrada de la Cueva del Agua de Bronce. Cree que se trata de un antiguo mecanismo dwemer, cuya finalidad se desconoce. Debería investigar la zona y ver si hay alguna forma de activarlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven",
+    "form_id": "05000AD6|ccBGSSSE001-Fish.esm",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've arrived at the entrance of Bronze Water Cave. The fishermen that once fished here seem to have left behind a journal. It may contain a clue for activating the mechanisms nearby.",
+    "string": "He llegado a la entrada de la Cueva del Agua de Bronce. Los pescadores que solían acudir aquí han dejado un diario. Quizá contenga alguna pista que me permita activar los mecanismos que hay aquí cerca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven",
+    "form_id": "05000AD6|ccBGSSSE001-Fish.esm",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "The fishermen at Bronze Water Cave saw faint glowing objects at the bottom of the lake near Bronze Water Cave, but they were unable to fish them up. They believed that a fishing rod of Dwarven make might be needed to retrieve them. They recently left for Alftand Ruined Tower, where the schematics for such a rod might be located.",
+    "string": "Los pescadores de la Cueva del Agua de Bronce han visto el leve brillo de unos objetos al fondo del lago que queda cerca de esta, pero no han sido capaces de pescarlos. Creen que quizá haga falta una caña de pescar de manufactura enana para recogerlos. Han partido hace poco hacia la torre en ruinas de Alftand, donde podrían estar los planos de este tipo de caña.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven",
+    "form_id": "05000AD6|ccBGSSSE001-Fish.esm",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I've found the schematics for the Dwarven fishing rod that might be used to catch the glowing objects that lie below the water's surface outside of Bronze Water Cave. I should return it to Calcelmo so that he can construct it.",
+    "string": "He encontrado los planos de la caña de pesca enana que quizá pueda usar para recoger los objetos que brillan bajo la superficie del agua en la Cueva del Agua de Bronce. Debería llevárselos a Calcelmo para que la construya.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven",
+    "form_id": "05000AD6|ccBGSSSE001-Fish.esm",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I've given Calcelmo the schematics for the Dwarven fishing rod. I now need to wait for him to construct it. I should ask him about it at this time tomorrow.",
+    "string": "He entregado a Calcelmo los planos de la caña de pescar enana. Ahora tengo que esperar a que la construya. Debería preguntarle por ella mañana a esta hora.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven",
+    "form_id": "05000AD6|ccBGSSSE001-Fish.esm",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "Calcelmo should be finished constructing the Dwarven fishing rod from the schematic I discovered.",
+    "string": "Calcelmo ya debería haber terminado de construir la caña de pescar enana con los planos que descubrí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven",
+    "form_id": "05000AD6|ccBGSSSE001-Fish.esm",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "Calcelmo has given me the Dwarven fishing rod. I should cast it at the fishing spots near Bronze Water Cave so that I might be able to catch the objects that might activate the mechanisms near the cave.",
+    "string": "Calcelmo me ha entregado la caña de pescar enana. Debería usarla en las zonas de pesca que hay cerca de la Cueva del Agua de Bronce para poder recoger los objetos que podrían activar los mecanismos que hay cerca de ella.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven",
+    "form_id": "05000AD6|ccBGSSSE001-Fish.esm",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "I cast the Dwarven fishing rod into the water near Bronze Water Cave, and caught an aetherium dynamo core. An empty socket on the pedestal nearby appears to be shaped to hold such a core. I'll have to insert the dynamo core to bring the rest of the mechanism to life.",
+    "string": "He usado la caña de pesca enana en el agua que hay cerca de la Cueva del Agua de Bronce, y he conseguido un núcleo de dinamo de Aeterius. El pedestal que hay cerca de aquí tiene una hueco, y la forma sugiere que puede ser para conectar un núcleo de este tipo. Tendré que insertar el núcleo de dinamo para activar el resto del mecanismo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven",
+    "form_id": "05000AD6|ccBGSSSE001-Fish.esm",
+    "index": 9,
+    "type": "QUST CNAM",
+    "original": "I cast the Dwarven fishing rod into the water near Bronze Water Cave, and caught an aetherium dynamo core. An empty socket on the pedestal nearby appears to be shaped to hold such a core. I'll have to insert the dynamo core to bring the rest of the mechanism to life.",
+    "string": "He usado la caña de pesca enana en el agua que hay cerca de la Cueva del Agua de Bronce, y he conseguido un núcleo de dinamo de Aeterius. El pedestal que hay cerca de aquí tiene una hueco, y la forma sugiere que puede ser para conectar un núcleo de este tipo. Tendré que insertar el núcleo de dinamo para activar el resto del mecanismo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven",
+    "form_id": "05000AD6|ccBGSSSE001-Fish.esm",
+    "index": 10,
+    "type": "QUST CNAM",
+    "original": "After using the Dwarven fishing rod near Bronze Water Cave and powering up an ancient mechanism using aetherium dynamo cores, a pedestal rose from beneath the surface revealing a submerged chest.",
+    "string": "Después de usar la caña de pescar enana cerca de la Cueva del Agua de Bronce, y de activar un antiguo mecanismo usando un núcleo de dinamo de Aeterius, de debajo de la superficie ha surgido un pedestal que dejaba a la vista un cofre sumergido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven",
+    "form_id": "05000AD6|ccBGSSSE001-Fish.esm",
+    "index": 0,
+    "type": "QUST NNAM",
+    "original": "Investigate the entrance of Bronze Water Cave",
+    "string": "Investiga la entrada de la Cueva del Agua de Bronce.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven",
+    "form_id": "05000AD6|ccBGSSSE001-Fish.esm",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Read the fisherman's journal",
+    "string": "Lee el diario del pescador.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven",
+    "form_id": "05000AD6|ccBGSSSE001-Fish.esm",
+    "index": 15,
+    "type": "QUST NNAM",
+    "original": "Find the Dwarven fishing rod schematic in Alftand Ruined Tower",
+    "string": "Busca los planos de la caña de pescar enana en la torre en ruinas de Alftand.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven",
+    "form_id": "05000AD6|ccBGSSSE001-Fish.esm",
+    "index": 18,
+    "type": "QUST NNAM",
+    "original": "Bring the Dwarven fishing rod schematic to Calcelmo",
+    "string": "Lleva los planos de la caña de pescar enana a Calcelmo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven",
+    "form_id": "05000AD6|ccBGSSSE001-Fish.esm",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Wait 24 hours for Calcelmo to build the fishing rod",
+    "string": "Espera 24 horas a que Calcelmo construya la caña de pescar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven",
+    "form_id": "05000AD6|ccBGSSSE001-Fish.esm",
+    "index": 25,
+    "type": "QUST NNAM",
+    "original": "Return to Calcelmo",
+    "string": "Vuelve con Calcelmo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven",
+    "form_id": "05000AD6|ccBGSSSE001-Fish.esm",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Use the dwarven fishing rod to catch the strange objects near Bronze Water Cave (<Global=ccBGSSSE001_MDDLeft>/<Global=ccBGSSSE001_MDDTotal>)",
+    "string": "Usa la caña de pescar enana para pescar los extraños objetos que hay cerca de la Cueva del Agua de Bronce (<Global=ccBGSSSE001_MDDLeft>/<Global=ccBGSSSE001_MDDTotal>).",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_Misc_Dwarven",
+    "form_id": "05000AD6|ccBGSSSE001-Fish.esm",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Insert the aetherium dynamo core into the dynamo actuator (<Global=ccBGSSSE001_CoresLeft>/<Global=ccBGSSSE001_CoresTotal>)",
+    "string": "Inserta el núcleo de dinamo de Aeterius en el actuador (<Global=ccBGSSSE001_CoresLeft>/<Global=ccBGSSSE001_CoresTotal>).",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE016_UmbraMainQuest",
+    "form_id": "0A0021B6|ccbgssse016-umbra.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Vile Whispers",
+    "string": "Susurros perversos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE016_UmbraMainQuest",
+    "form_id": "0A0021B6|ccbgssse016-umbra.esm",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I've heard rumors that a Nordic ruin, Champion's Rest, was recently uncovered in a silver mine near Shor's Stone. The miners reportedly fled, leaving their belongings behind. I should investigate the miner's campsite to see if I can learn anything about what caused them to flee.",
+    "string": "He oído rumores de que se han descubierto hace poco, en una mina de plata cercana a Peñón de Shor, unas ruinas nórdicas con el nombre de Descanso del campeón. Debería investigar el campamento de los mineros para intentar averiguar por qué salieron huyendo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE016_UmbraMainQuest",
+    "form_id": "0A0021B6|ccbgssse016-umbra.esm",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "The miners witnessed an armor-clad ghost wielding a menacing blade that struck fear into them, causing them to flee. A Vigilant of Stendarr investigated, and suspects that this blade may be Umbra, a Daedric artifact with the power to steal souls and bend its bearer to its will. I should investigate the ruins to find the source of this dark presence. As long as this threat remains, Shor's Stone is not safe.",
+    "string": "Los mineros presenciaron la aparición de un fantasma con armadura que blandía una espada amenazante y les infundió tal terror que les hizo salir huyendo. Una Vigilante de Stendarr investigó el suceso y sospecha que la espada podría ser Umbra, un artefacto daédrico con el poder de robar almas y someter a su voluntad a quien la lleve. Debería investigar las ruinas para encontrar el origen de esta presencia oscura. Mientras no se erradique este peligro, Peñón de Shor no estará a salvo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE016_UmbraMainQuest",
+    "form_id": "0A0021B6|ccbgssse016-umbra.esm",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I witnessed an armor-clad ghost that quickly disappeared while exploring Champion's Rest. The sighting filled me with a sense of dread. I should investigate the ruins to find the source of this dark presence.",
+    "string": "Mientras exploraba Descanso del campeón, he presenciado la aparición de un fantasma con armadura que ha desaparecido rápidamente. La visión me ha provocado una gran sensación de pavor. Debería investigar las ruinas para encontrar el origen de esta presencia oscura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE016_UmbraMainQuest",
+    "form_id": "0A0021B6|ccbgssse016-umbra.esm",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I've come to the great battle arena within Champion's Rest, and discovered an armored specter wielding Umbra. I will need to defeat the phantom in order to rid Shor's Stone of the danger posed by this powerful force.",
+    "string": "He llegado a la gran arena de combate de Descanso del campeón y he descubierto a un espectro con armadura que blande la espada Umbra. Tendré que derrotar a esta aparición para librar a Peñón de Shor del peligro que supone esta poderosa fuerza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE016_UmbraMainQuest",
+    "form_id": "0A0021B6|ccbgssse016-umbra.esm",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I've come to the great battle arena within Champion's Rest, and discovered an armored specter. I will need to defeat the phantom in order to rid Shor's Stone of the danger posed by this powerful force.",
+    "string": "He llegado a la gran arena de combate de Descanso del campeón y he descubierto a un espectro con armadura. Tendré que derrotar a esta aparición para librar a Peñón de Shor del peligro que supone esta poderosa fuerza.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE016_UmbraMainQuest",
+    "form_id": "0A0021B6|ccbgssse016-umbra.esm",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "The Daedric artifact Umbra awaits a new owner. I should take it to prevent it from falling into the wrong hands again.",
+    "string": "La espada daédrica Umbra flota inmóvil en el centro de la arena, esperando a que la recoja un nuevo dueño. Debería llevármela para evitar que caiga de nuevo en manos de quien no debe.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE016_UmbraMainQuest",
+    "form_id": "0A0021B6|ccbgssse016-umbra.esm",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "The blade of the defeated spectral warrior awaits a new owner. When I gaze upon it, a single word is whispered in my mind: \"Umbra\". I should take it to prevent it from falling into the wrong hands again.",
+    "string": "La espada del guerrero fantasmal derrotado flota inmóvil en el centro de la arena. Cuando la miro, susurra una única palabra en mi mente: \"Umbra\". Debería llevármela para evitar que caiga de nuevo en manos de quien no debe.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE016_UmbraMainQuest",
+    "form_id": "0A0021B6|ccbgssse016-umbra.esm",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "I was able to rid Shor's Stone of the danger posed by the artifact sword Umbra by defeating its former bearer and retrieving it for myself.",
+    "string": "He podido librar a Peñón de Shor del peligro que suponía la espada Umbra derrotando a su antiguo portador y quedándomela.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE016_UmbraMainQuest",
+    "form_id": "0A0021B6|ccbgssse016-umbra.esm",
+    "index": 0,
+    "type": "QUST NNAM",
+    "original": "Search the miner's camp",
+    "string": "Investiga el campamento de los mineros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE016_UmbraMainQuest",
+    "form_id": "0A0021B6|ccbgssse016-umbra.esm",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Investigate the dark presence in Champion's Rest",
+    "string": "Investiga la presencia oscura en Descanso del campeón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE016_UmbraMainQuest",
+    "form_id": "0A0021B6|ccbgssse016-umbra.esm",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Defeat Umbra",
+    "string": "Derrota a Umbra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE016_UmbraMainQuest",
+    "form_id": "0A0021B6|ccbgssse016-umbra.esm",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Retrieve the artifact Umbra",
+    "string": "Hazte con la espada Umbra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE019_StaffOfSheogorathQuest",
+    "form_id": "06000822|ccbgssse019-staffofsheogorath.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Put A Fork In It",
+    "string": "Cállale con un tenedor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE019_StaffOfSheogorathQuest",
+    "form_id": "06000822|ccbgssse019-staffofsheogorath.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "There's something waiting for me on the island of Solstheim.  I should travel there and investigate.",
+    "string": "Algo me aguarda en la isla de Solstheim. Tengo que viajar allí e investigar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE019_StaffOfSheogorathQuest",
+    "form_id": "06000822|ccbgssse019-staffofsheogorath.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "There's something waiting for me in Raven Rock, I should see what it is.",
+    "string": "Algo me espera en Roca del Cuervo. Tengo que ver de qué se trata.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE019_StaffOfSheogorathQuest",
+    "form_id": "06000822|ccbgssse019-staffofsheogorath.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I've accepted Sheogorath's combat trial. I'll need to find these special Bull Netches, kill them with the Fork of Horripilation, and obtain the artifacts.",
+    "string": "He aceptado la prueba de combate de Sheogorath. Debo encontrar esos netches macho especiales, matarlos con el Tenedor de la Horripilación y obtener los artefactos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE019_StaffOfSheogorathQuest",
+    "form_id": "06000822|ccbgssse019-staffofsheogorath.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I've killed the Bull Netches and obtained the artifacts. I need to gain access to a Staff Enchanter and combine them to create The Staff of Sheogorath.",
+    "string": "He matado a los netches macho y he conseguido los artefactos. Necesito acceso a un encantador de bastones para combinarlos y crear el bastón de Sheogorath.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE019_StaffOfSheogorathQuest",
+    "form_id": "06000822|ccbgssse019-staffofsheogorath.esl",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I have completed the trial, and crafted the Staff of Sheogorath.",
+    "string": "He completado la prueba y he fabricado el bastón de Sheogorath.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE019_StaffOfSheogorathQuest",
+    "form_id": "06000822|ccbgssse019-staffofsheogorath.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Travel to Solstheim",
+    "string": "Viaja a Solstheim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE019_StaffOfSheogorathQuest",
+    "form_id": "06000822|ccbgssse019-staffofsheogorath.esl",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Investigate the Retching Netch",
+    "string": "Investiga el Netch de las Arcadas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE019_StaffOfSheogorathQuest",
+    "form_id": "06000822|ccbgssse019-staffofsheogorath.esl",
+    "index": 25,
+    "type": "QUST NNAM",
+    "original": "Take the Fork of Horripilation",
+    "string": "Coge el Tenedor de la Horripilación.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE019_StaffOfSheogorathQuest",
+    "form_id": "06000822|ccbgssse019-staffofsheogorath.esl",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Obtain the Eye of Ciirta",
+    "string": "Obtén el Ojo de Ciirta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE019_StaffOfSheogorathQuest",
+    "form_id": "06000822|ccbgssse019-staffofsheogorath.esl",
+    "index": 35,
+    "type": "QUST NNAM",
+    "original": "Obtain the Branch of the Tree of Shades",
+    "string": "Obtén la rama del árbol de las sombras.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE019_StaffOfSheogorathQuest",
+    "form_id": "06000822|ccbgssse019-staffofsheogorath.esl",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Craft the Staff of Sheogorath",
+    "string": "Fabrica el bastón de Sheogorath.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Pets of Skyrim",
+    "string": "Mascotas de Skyrim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "*Add log entry here*",
+    "string": "*Add log entry here*",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "The journey through Skyrim can be hard and long, and I could use the companionship of a loyal animal. I should inquire in town to see if there are any tamed animals for sale.",
+    "string": "Mi viaje por Skyrim puede ser largo y duro. Me vendría bien la compañía de un animal fiel. Debería preguntar por la ciudad, a ver si hay algún animal domesticado a la venta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I found a notice in the Bannered Mare offering a tamed goat for sale. I need to talk to Halvar in Rorikstead to purchase it.",
+    "string": "He encontrado un anuncio en La yegua abanderada. Alguien vende una cabra. Debo ir a Paraje de Rorik y hablar con Halvar para comprársela.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "After reading Halvar's journal on his adventures throughout Skyrim, I've discovered that there are many other tame animal companions out there in the wild. I should set out to find them.",
+    "string": "Después de leer el diario de Halvar sobre sus aventuras en Skyrim, he descubierto que hay muchos animales salvajes que puedo domar y convertirlos en compañeros. Debería partir en su busca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Find the tamed rabbit",
+    "string": "Busca al conejo domesticado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Find the tamed skeever",
+    "string": "Busca al skeever domesticado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Find the tamed spider",
+    "string": "Busca a la araña domesticada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Find the tamed fox",
+    "string": "Busca a la zorrita domesticada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Find <Alias=AliasGoat> the goat",
+    "string": "Busca a <Alias=AliasGoat> la cabra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 100,
+    "type": "QUST NNAM",
+    "original": "Find a treat for the rabbit",
+    "string": "Busca un premio para el conejo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 110,
+    "type": "QUST NNAM",
+    "original": "Feed <Alias=AliasRabbit> a carrot",
+    "string": "Dale una zanahoria a <Alias=AliasRabbit>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 200,
+    "type": "QUST NNAM",
+    "original": "Find a key to the skeever cage",
+    "string": "Encuentra la llave para la jaula del skeever.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 210,
+    "type": "QUST NNAM",
+    "original": "Free <Alias=AliasSkeever> from its cage",
+    "string": "Saca a <Alias=AliasSkeever> de la jaula.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 300,
+    "type": "QUST NNAM",
+    "original": "Find a key to the spider cage",
+    "string": "Encuentra la llave para la jaula de la araña.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 310,
+    "type": "QUST NNAM",
+    "original": "Free <Alias=AliasSpider> from its cage",
+    "string": "Saca a <Alias=AliasSpider> de la jaula.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 400,
+    "type": "QUST NNAM",
+    "original": "Find out more about the fox",
+    "string": "Averigua más sobre la zorrita.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 410,
+    "type": "QUST NNAM",
+    "original": "Feed <Alias=AliasFox> a sweet roll",
+    "string": "Dale un panecillo dulce a <Alias=AliasFox>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 500,
+    "type": "QUST NNAM",
+    "original": "Find out more about the goat",
+    "string": "Averigua más sobre la cabra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 510,
+    "type": "QUST NNAM",
+    "original": "Buy <Alias=AliasGoat> from <Alias=AliasFarmer>",
+    "string": "Cómprale <Alias=AliasGoat> a <Alias=AliasFarmer>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 1000,
+    "type": "QUST NNAM",
+    "original": "Check the notices at the Bannered Mare",
+    "string": "Mira los avisos en La yegua abanderada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 1010,
+    "type": "QUST NNAM",
+    "original": "Purchase a tamed goat from <Alias=AliasFarmer>",
+    "string": "Cómprale una cabra domesticada a <Alias=AliasFarmer>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 1020,
+    "type": "QUST NNAM",
+    "original": "Greet <Alias=AliasGoat> the goat",
+    "string": "Saluda a <Alias=AliasGoat> la cabra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE002_MainQuest",
+    "form_id": "070008C8|ccvsvsse002-pets.esl",
+    "index": 1030,
+    "type": "QUST NNAM",
+    "original": "Find out more about <Alias=AliasGoat>",
+    "string": "Averigua más sobre <Alias=AliasGoat>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE034_WildHorsesQuest",
+    "form_id": "08000D65|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Horse Whisperer",
+    "string": "Encantador de caballos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE034_WildHorsesQuest",
+    "form_id": "08000D65|ccbgssse034-mntuni.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Hostlers in Skyrim have begun taming wild horses in order to keep up with the demand. I should speak with a hostler and see if they can give me some information. Perhaps I could find and tame some of them myself.",
+    "string": "Los mozos de cuadra de Skyrim han empezado a domar caballos salvajes para satisfacer la demanda. Debería hablar con alguno para ver si puede darme información. Tal vez pueda encontrar yo algunos y domarlos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE034_WildHorsesQuest",
+    "form_id": "08000D65|ccbgssse034-mntuni.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've acquired a map and a journal with locations of where wild horses have been known to roam. I should find and tame them. Afterward I can bring them to a stable to add a saddle or change their name.",
+    "string": "He conseguido un mapa y un diario con las ubicaciones conocidas de los caballos salvajes. Debería buscarlos y domarlos. Después podré llevarlos al establo para ponerles una silla de montar o cambiarles el nombre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE034_WildHorsesQuest",
+    "form_id": "08000D65|ccbgssse034-mntuni.esl",
+    "index": 0,
+    "type": "QUST NNAM",
+    "original": "Purchase a map of wild horse locations",
+    "string": "Compra un mapa con las ubicaciones de los caballos salvajes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Legends Lost",
+    "string": "Leyendas perdidas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Rumors say an old refugee trunk full of letters has been uncovered in Windhelm. I should see if I can find a copy of those letters and more information on the cargo they were carrying.",
+    "string": "Se dice que en Ventalia han descubierto un viejo baúl perteneciente a refugiados, repleto de cartas. Veamos si puedo encontrar una copia de esas cartas y más información sobre la carga que transportaban.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've found one of the letters, which details the routes of both the caravans as well as decoys designed to misdirect potential thieves. According to the letter, the first caravan was headed west toward Nightgate Inn. Perhaps following its trail will lead to another clue.",
+    "string": "He encontrado una de las cartas, en la que se detallan las rutas de las caravanas y de los señuelos diseñados para confundir a posibles ladrones. Según esta carta, la primera caravana se dirigía al oeste, hacia la posada El portal nocturno. Si sigo su rastro, quizás descubra otra pista.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "The first caravan was attacked by Dwarven creatures. They managed to escape but I found a copy of their logs, along with details of all the other caravans. The next carriage was headed towards Whiterun. I should see what I can find.",
+    "string": "La primera caravana fue atacada por criaturas de los enanos. Se las arreglaron para escapar, pero encontré una copia de sus registros, junto con información sobre las demás caravanas. El siguiente carruaje se dirigía a Carrera Blanca. Veremos qué puedo descubrir.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "On the road to Whiterun I found the remnants of another sacked caravan. According to a note I found in the wreckage, the remaining caravans were set to regroup in Whiterun, and one of the guards visited the Halls of the Dead there.",
+    "string": "De camino a Carrera Blanca di con los restos de otra caravana saqueada. Según una nota que encontré entre el desastre, enviaron a las caravanas restantes a que se reagruparan en Carrera Blanca, y uno de los guardias visitó los Salones de los Muertos que hay allí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "In response to the attacks, the caravans took a detour towards Falkreath. I'll need to follow their trail to see if they left anything behind.",
+    "string": "En respuesta a los ataques, la caravana se desvió hacia Falkreath. Debo seguirles la pista y comprobar si han dejado algo tras de sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "The cargo the caravans were delivering appears to hold the missing Tools of Kagremac: Sunder and Wraithguard. Apparently the items were surrendered to Dwemer drones and taken to a vault in the Sightless Pit. If I'm to open the door, I need to take this attunement crystal I found and use it to unlock the vault.",
+    "string": "El cargamento que transportaban las caravanas parece contener las herramientas perdidas de Kagremac: División y Guardamano espectral. Por lo visto, estos objetos fueron entregados a drones dwemer y llevados a una cámara del Pozo inescrutable. Necesitaré este cristal de sintonización para abrir la cerradura de la cámara.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "I've unlocked the Sightless Vault. Within lies Sunder and Wraithguard.",
+    "string": "He abierto la cripta inescrutable. En su interior se encuentran División y Guardamano espectral.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "As predicted, both Tools are guarded by a powerful Dwarven Centurion. I'll have to defeat it if I'm to claim them as my own.",
+    "string": "Tal y como estaba previsto, ambas herramientas se encuentran vigiladas por un poderoso centurión enano. Tendré que derrotarlo si quiero apoderarme de ellas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 9,
+    "type": "QUST CNAM",
+    "original": "I've defeated the Dwarven defenses and claimed both Sunder and Wraithguard for myself.",
+    "string": "He derrotado a las defensas de los enanos y me he apoderado de División y Guardamano espectral.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 0,
+    "type": "QUST NNAM",
+    "original": "Find the caravan's letters in Windhelm",
+    "string": "Encuentra las cartas de la caravana en Ventalia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 1,
+    "type": "QUST NNAM",
+    "original": "Follow the caravan's trail",
+    "string": "Sigue el rastro de la caravana",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 2,
+    "type": "QUST NNAM",
+    "original": "Find the second caravan",
+    "string": "Encuentra la segunda caravana.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 3,
+    "type": "QUST NNAM",
+    "original": "Find evidence of the caravans in Whiterun",
+    "string": "Encuentra indicios de las caravanas en Carrera Blanca.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 4,
+    "type": "QUST NNAM",
+    "original": "Find the detoured caravans",
+    "string": "Encuentra las caravanas desviadas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Enter the vault in the Sightless Pit",
+    "string": "Entra en la cámara del Pozo inescrutable.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 6,
+    "type": "QUST NNAM",
+    "original": "Retrieve Sunder and Wraithguard",
+    "string": "Recupera a División y a Guardamano espectral.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 7,
+    "type": "QUST NNAM",
+    "original": "Defeat the Messenger",
+    "string": "Derrota al mensajero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 8,
+    "type": "QUST NNAM",
+    "original": "Retrieve the Attunement Crystal",
+    "string": "Recupera el cristal de sintonización.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 9,
+    "type": "QUST NNAM",
+    "original": "Restore steam in the left valve system",
+    "string": "Restablece el vapor en el sistema de válvulas izquierdo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Restore steam in the right valve system",
+    "string": "Restablece el vapor en el sistema de válvulas derecho.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 11,
+    "type": "QUST NNAM",
+    "original": "Find a way to open the vault gates",
+    "string": "Encuentra la forma de abrir las puertas de la cámara.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 12,
+    "type": "QUST NNAM",
+    "original": "Read the Carriage Driver's Note",
+    "string": "Lee la nota del conductor del carruaje.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 13,
+    "type": "QUST NNAM",
+    "original": "Read the Seedy Guard's Note",
+    "string": "Lee la nota del guardia andrajoso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "09000AB0|ccbgssse008-wraithguard.esl",
+    "index": 14,
+    "type": "QUST NNAM",
+    "original": "Read Velyne's Letter",
+    "string": "Lee la carta de Velyne.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "0B000822|ccbgssse050-ba_daedric.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Beyond the Grave",
+    "string": "Más allá de la tumba",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "0B000822|ccbgssse050-ba_daedric.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I've heard stories of bandits being an issue throughout Skyrim. Perhaps if I visit the Dragonsreach Dungeon in Whiterun, I might find some information on their whereabouts.",
+    "string": "Me han hablado sobre los problemas que ocasionan los bandidos por todo Skyrim. Si visito la mazmorra de Cuenca del Dragón en Carrera Blanca quizá encuentre información sobre su paradero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "0B000822|ccbgssse050-ba_daedric.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've heard stories of bandits being an issue throughout Skyrim. At the dungeon in Whiterun, I read about one such bandit who died in Falkreath. I should visit the cemetery to confirm he's dead.",
+    "string": "Me han hablado sobre los problemas que ocasionan los bandidos por todo Skyrim. En la mazmorra de Carrera Blanca leí algo sobre uno de estos bandidos, que murió en Falkreath. Debería visitar el cementerio para confirmar que está muerto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "0B000822|ccbgssse050-ba_daedric.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I've heard stories of bandits being an issue throughout Skyrim. At the dungeon in Whiterun, I read about one such bandit who died in Falkreath. However, upon arriving at the grave site, I found the body of a dead Khajiit.",
+    "string": "Me han hablado sobre los problemas que ocasionan los bandidos por todo Skyrim. En la mazmorra de Carrera Blanca leí algo sobre uno de estos bandidos, que murió en Falkreath. Sin embargo, cuando llegué al lugar donde estaba enterrado, encontré el cuerpo de un khajiita muerto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "0B000822|ccbgssse050-ba_daedric.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I've heard stories of bandits being an issue throughout Skyrim. At the dungeon in Whiterun, I read about one such bandit who died in Falkreath. However, upon arriving at the grave site, I found the body of a dead Khajiit. The Khajiit was previously investigating a lead that points to Knifepoint Ridge.",
+    "string": "Me han hablado sobre los problemas que ocasionan los bandidos por todo Skyrim. En la mazmorra de Carrera Blanca leí algo sobre uno de estos bandidos, que murió en Falkreath. Sin embargo, cuando llegué al lugar donde estaba enterrado encontré el cuerpo de un khajiita muerto. Este había estado investigando una pista que apuntaba a Cresta de Punta del Cuchillo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "0B000822|ccbgssse050-ba_daedric.esl",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I've heard stories of bandits being an issue throughout Skyrim. At the dungeon in Whiterun, I read about one such bandit who died in Falkreath. However, upon arriving at the grave site, I found the body of a dead Khajiit. The Khajiit was previously investigating a lead that points to Knifepoint Ridge. After traveling to the bandit camp, I was attacked by a warrior in Daedric Plate armor.",
+    "string": "Me han hablado sobre los problemas que ocasionan los bandidos por todo Skyrim. En la mazmorra de Carrera Blanca leí algo sobre uno de estos bandidos, que murió en Falkreath. Sin embargo, cuando llegué al lugar donde estaba enterrado encontré el cuerpo de un khajiita muerto. Este había estado investigando una pista que apuntaba a Cresta de Punta del Cuchillo. Después de viajar al campamento de los bandidos, me atacó un guerrero vestido con una armadura de placas daédrica.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "0B000822|ccbgssse050-ba_daedric.esl",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "I've heard stories of bandits being an issue throughout Skyrim. At the dungeon in Whiterun, I read about one such bandit who died in Falkreath. However, upon arriving at the grave site, I found the body of a dead Khajiit. The Khajiit was previously investigating a lead that points to Knifepoint Ridge. After traveling to the bandit camp, I was attacked by a warrior in Daedric Plate armor. I defeated the warrior and retrieved his armor.",
+    "string": "Me han hablado sobre los problemas que ocasionan los bandidos por todo Skyrim. En la mazmorra de Carrera Blanca leí algo sobre uno de estos bandidos, que murió en Falkreath. Sin embargo, cuando llegué al lugar donde estaba enterrado, encontré el cuerpo de un khajiita muerto. Este había estado investigando una pista que apuntaba a Cresta de Punta del Cuchillo. Después de viajar al campamento de los bandidos me atacó un guerrero vestido con una armadura de placas daédrica. Lo derroté y me quedé con ella.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "0B000822|ccbgssse050-ba_daedric.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Look for a note in Dragonsreach Dungeon",
+    "string": "Busca una nota en la mazmorra de Cuenca del Dragón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "0B000822|ccbgssse050-ba_daedric.esl",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Visit Edward's grave in Falkreath",
+    "string": "Visita la tumba de Edward en Falkreath.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "0B000822|ccbgssse050-ba_daedric.esl",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Read the Khajiit's Note",
+    "string": "Lee la nota del khajiita.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "0B000822|ccbgssse050-ba_daedric.esl",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Investigate Knifepoint Ridge",
+    "string": "Investiga Cresta de Punta del Cuchillo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE050_Quest",
+    "form_id": "0B000822|ccbgssse050-ba_daedric.esl",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Retrieve the armor",
+    "string": "Recupera la armadura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Crypt of the Heart",
+    "string": "La cripta del corazón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "The inns of Skyrim are a good place to look for rumors. Being on the western border, Markarth is one of the busiest holds in Skyrim. I should head to the inn there and see what I can find.",
+    "string": "Las posadas de Skyrim son buenos lugares para oír rumores. Markarth está situada en la frontera occidental, por lo que es una de las ciudades con más movimiento de Skyrim. Debería dirigirme a la posada, a ver qué encuentro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I found a book at the Silver-Blood Inn that mentions the ghost of a Breton knight named Simon Rodayne. According to the book, he haunts the river below his tomb, south of Markarth. I should investigate the area and see what I can find.",
+    "string": "En la posada Sangre Argéntea he encontrado un libro que habla sobre el fantasma de un caballero bretón llamado Simon Rodayne. En él se dice que merodea por el río que pasa cerca de su tumba, al sur de Markarth. Debería investigar la zona y ver qué encuentro.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I found a book at the Silver-Blood Inn that mentions the ghost of a Breton knight named Simon Rodayne. According to the book, he haunts the river below his tomb, south of Markarth. At the river, I found the presence of a ghost who wandered off further south.",
+    "string": "En la posada Sangre Argéntea he encontrado un libro que habla sobre el fantasma de un caballero bretón llamado Simon Rodayne. En él se dice que merodea por el río que pasa cerca de su tumba, al sur de Markarth. En el río he descubierto la presencia de un fantasma que vagaba en dirección al sur.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I found a book at the Silver-Blood Inn that mentions the ghost of a Breton knight named Simon Rodayne. According to the book, he haunts the river below his tomb, south of Markarth. At the river, I found the presence of a ghost who wandered off further south. I followed the ghost up the hill when it vanished. The knight's tomb must be somewhere in the surrounding area.",
+    "string": "En la posada Sangre Argéntea he encontrado un libro que habla sobre el fantasma de un caballero bretón llamado Simon Rodayne. En él se dice que merodea por el río que pasa cerca de su tumba, al sur de Markarth. En el río he descubierto la presencia de un fantasma que vagaba en dirección al sur. He subido la colina siguiendo sus pasos, y al llegar arriba se ha desvanecido. La tumba del caballero debe de estar en los alrededores.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I found a book at the Silver-Blood Inn that mentions the ghost of a Breton knight named Simon Rodayne. According to the book, he haunts the river below his tomb, south of Markarth. After following the ghost and climbing up to the top of the mountain, I found a tomb surrounded by three Forsworn.",
+    "string": "En la posada Sangre Argéntea he encontrado un libro que habla sobre el fantasma de un caballero bretón llamado Simon Rodayne. En él se dice que merodea por el río que pasa cerca de su tumba, al sur de Markarth. Tras seguir al fantasma y subir hasta la cima de la montaña, he descubierto una tumba rodeada por tres Renegados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "I found a book at the Silver-Blood Inn that mentions the ghost of a Breton knight named Simon Rodayne. According to the book, he haunts the river below his tomb, south of Markarth. After following the ghost and climbing up to the top of the mountain, I found a tomb surrounded by three Forsworn, and defeated them in battle.",
+    "string": "En la posada Sangre Argéntea he encontrado un libro que habla sobre el fantasma de un caballero bretón llamado Simon Rodayne. En él se dice que merodea por el río que pasa cerca de su tumba, al sur de Markarth. Tras seguir al fantasma y subir hasta la cima de la montaña, he descubierto una tumba rodeada por tres Renegados, y los he derrotado en combate.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "I investigated the area south of Markarth and was confronted by a ghost. After following the ghost and climbing up to the top of the mountain, I found a tomb surrounded by three Forsworn, and defeated them in battle. On the shaman I found a note that may provide additional clues.",
+    "string": "Mientras investigaba la zona al sur de Markarth, me he topado con un fantasma. Después de seguirle y subir hasta la cima de la montaña, he encontrado a tres Renegados junto a la tumba de un caballero, y los he derrotado en combate. El chamán llevaba una nota que podría contener más pistas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "I investigated the area south of Markarth and was confronted by a ghost. After following the ghost and climbing up to the top of the mountain, I found a tomb surrounded by three Forsworn, and defeated them in battle. On the shaman I found a note that implied they defiled the tomb and took the knight's heart to Karthspire.",
+    "string": "Mientras investigaba la zona al sur de Markarth, me he topado con un fantasma. Después de seguirle y subir hasta la cima de la montaña, he encontrado a tres Renegados junto a la tumba de un caballero, y los he derrotado en combate. El chamán llevaba una nota que sugería que la habían profanado y se habían llevado el corazón del caballero a la Aguja de Karth.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 9,
+    "type": "QUST CNAM",
+    "original": "I investigated the area south of Markarth and was confronted by a ghost. After following the ghost and climbing up to the top of the mountain, I found a tomb surrounded by three Forsworn, and defeated them in battle. On the shaman I found a note that implied they defiled the tomb and took the knight's heart to Karthspire. At Karthspire, I found two hagravens conducting a ritual with the heart at its center. I retrieved the heart and can now return it to the knight's tomb.",
+    "string": "Mientras investigaba la zona al sur de Markarth, me he topado con un fantasma. Después de seguirle y subir hasta la cima de la montaña, he encontrado a tres Renegados junto a la tumba de un caballero, y los he derrotado en combate. El chamán llevaba una nota que sugería que la habían profanado y se habían llevado el corazón del caballero a la Aguja de Karth. Allí he encontrado a dos brujas cuervo celebrando un ritual en torno al corazón. Me he hecho con él y ya puedo devolverlo a la tumba del caballero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 10,
+    "type": "QUST CNAM",
+    "original": "I investigated the area south of Markarth and was confronted by a ghost. After following the ghost and climbing up to the top of the mountain, I found a tomb surrounded by three Forsworn, and defeated them in battle. On the shaman I found a note that implied they defiled the tomb and took the knight's heart to Karthspire. At Karthspire, I found two hagravens conducting a ritual with the heart at its center. I retrieved the heart and returned it to the knight's tomb.",
+    "string": "Mientras investigaba la zona al sur de Markarth, me he topado con un fantasma. Después de seguirle y subir hasta la cima de la montaña, he encontrado a tres Renegados junto a la tumba de un caballero, y los he derrotado en combate. El chamán llevaba una nota que sugería que la habían profanado y se habían llevado el corazón del caballero a la Aguja de Karth. Allí he encontrado a dos brujas cuervo celebrando un ritual en torno al corazón. Me he hecho con él y lo he devuelto a la tumba del caballero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 11,
+    "type": "QUST CNAM",
+    "original": "I found a knight's tomb in Markarth surrounded by three Forsworn, and defeated them in battle. On the shaman I found a note that implied they defiled the tomb and took the knight's heart to Karthspire. At Karthspire, I found two hagravens conducting a ritual with the heart at its center. I retrieved the heart and returned it to the knight's tomb. The heart was still corrupted, however, and the knight's ghost turned hostile as a result.",
+    "string": "He encontrado a tres Renegados reunidos junto a la tumba de un caballero en Markarth, y los he derrotado en combate. El chamán llevaba una nota que sugería que la habían profanado y se habían llevado el corazón del caballero a la Aguja de Karth. Allí he encontrado a dos brujas cuervo celebrando un ritual en torno al corazón. Me he hecho con él y lo he devuelto a la tumba del caballero. Sin embargo, este se ha vuelto hostil porque el corazón seguía estando corrupto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 12,
+    "type": "QUST CNAM",
+    "original": "I found a knight's tomb in Markarth surrounded by three Forsworn, and defeated them in battle. On the shaman I found a note that implied they defiled the tomb and took the knight's heart to Karthspire. At Karthspire, I found two hagravens conducting a ritual with the heart at its center. I retrieved the heart and returned it to the knight's tomb. The heart was still corrupted, however, and the knight's ghost turned hostile as a result. I defeated the knight and can now retrieve his armor from the tomb.",
+    "string": "He encontrado a tres Renegados junto a la tumba de un caballero en Markarth, y los he derrotado en combate. El chamán llevaba una nota que sugería que la habían profanado y se habían llevado el corazón del caballero a la Aguja de Karth. Allí he encontrado a dos brujas cuervo celebrando un ritual en torno al corazón. Me he hecho con él y lo he devuelto a la tumba del caballero. Sin embargo, este se ha vuelto hostil porque el corazón seguía estando corrupto. He derrotado al caballero y ya puedo coger su armadura de la tumba.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 13,
+    "type": "QUST CNAM",
+    "original": "I found a knight's tomb in Markarth surrounded by three Forsworn, and defeated them in battle. On the shaman I found a note that implied they defiled the tomb and took the knight's heart to Karthspire. At Karthspire, I found two hagravens conducting a ritual with the heart at its center. I retrieved the heart and returned it to the knight's tomb. ",
+    "string": "He encontrado a tres Renegados junto a la tumba de un caballero en Markarth, y los he derrotado en combate. El chamán llevaba una nota que sugería que la habían profanado y se habían llevado el corazón del caballero a la Aguja de Karth. Allí he encontrado a dos brujas cuervo celebrando un ritual en torno al corazón. Me he hecho con él y lo he devuelto a la tumba del caballero. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 14,
+    "type": "QUST CNAM",
+    "original": "I found a knight's tomb in Markarth surrounded by three Forsworn, and defeated them in battle. On the shaman I found a note that implied they defiled the tomb and took the knight's heart to Karthspire. At Karthspire, I found two hagravens conducting a ritual with the heart at its center. I retrieved the heart and returned it to the knight's tomb. ",
+    "string": "He encontrado a tres Renegados junto a la tumba de un caballero en Markarth, y los he derrotado en combate. El chamán llevaba una nota que sugería que la habían profanado y se habían llevado el corazón del caballero a la Aguja de Karth. Allí he encontrado a dos brujas cuervo celebrando un ritual en torno al corazón. Me he hecho con él y lo he devuelto a la tumba del caballero. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 15,
+    "type": "QUST CNAM",
+    "original": "I found a knight's tomb in Markarth surrounded by three Forsworn, and defeated them in battle. On the shaman I found a note that implied they defiled the tomb and took the knight's heart to Karthspire. At Karthspire, I found two hagravens conducting a ritual with the heart at its center. I retrieved the heart and returned it to the knight's tomb. The heart was still corrupted, however, and the knight's ghost turned hostile as a result. I defeated the knight and took his armor for myself.",
+    "string": "He encontrado a tres Renegados junto a la tumba de un caballero en Markarth, y los he derrotado en combate. El chamán llevaba una nota que sugería que la habían profanado y se habían llevado el corazón del caballero a la Aguja de Karth. Allí he encontrado a dos brujas cuervo celebrando un ritual en torno al corazón. Me he hecho con él y lo he devuelto a la tumba del caballero. Sin embargo, este se ha vuelto hostil porque el corazón seguía estando corrupto. He derrotado al caballero y me he quedado con su armadura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 16,
+    "type": "QUST CNAM",
+    "original": "I found a knight's tomb in Markarth surrounded by three Forsworn, and defeated them in battle. On the shaman I found a note that implied they defiled the tomb and took the knight's heart to Karthspire. At Karthspire, I found two hagravens conducting a ritual with the heart at its center. I retrieved the heart and returned it to the knight's tomb. After purifying the heart, I saw a visage of the knight and the witch reunited once more. ",
+    "string": "He encontrado a tres Renegados junto a la tumba de un caballero en Markarth, y los he derrotado en combate. El chamán llevaba una nota que sugería que la habían profanado y se habían llevado el corazón del caballero a la Aguja de Karth. Allí he encontrado a dos brujas cuervo celebrando un ritual en torno al corazón. Me he hecho con él y lo he devuelto a la tumba. Después de purificarlo, he tenido una visión del caballero y la bruja reunidos una vez más. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Investigate the Silver-Blood Inn",
+    "string": "Investiga la posada Sangre Argéntea.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Look for the knight's ghost in the area south of Markarth",
+    "string": "Busca al fantasma del caballero en la zona al sur de Markarth.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 25,
+    "type": "QUST NNAM",
+    "original": "Follow the ghost",
+    "string": "Sigue al fantasma.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Search the hills for the knight's tomb",
+    "string": "Busca la tumba del caballero en las colinas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Defeat the Forsworn",
+    "string": "Derrota a los Renegados.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Search the Forsworn Shaman",
+    "string": "Examina al chamán Renegado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 55,
+    "type": "QUST NNAM",
+    "original": "Read the Forsworn Shaman's note",
+    "string": "Lee la nota del chamán Renegado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Search Karthspire for the stolen heart",
+    "string": "Busca el corazón robado en la Aguja de Karth.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Return the heart to the knight's tomb",
+    "string": "Devuelve el corazón a la tumba del caballero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "(Optional) Purify the heart at the altar",
+    "string": "(Opcional) Purifica el corazón en el altar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 90,
+    "type": "QUST NNAM",
+    "original": "Defeat the Corrupted Knight",
+    "string": "Derrota al caballero corrupto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 1000,
+    "type": "QUST NNAM",
+    "original": "Retrieve the knight's armor",
+    "string": "Hazte con la armadura del caballero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEDHSSE002_Quest",
+    "form_id": "0C000800|ccedhsse002-splkntset.esl",
+    "index": 2000,
+    "type": "QUST NNAM",
+    "original": "Retrieve the knight's armor",
+    "string": "Hazte con la armadura del caballero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccVSVSSE003_MainQuest",
+    "form_id": "0D0008B7|ccvsvsse003-necroarts.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Necromantic Arts",
+    "string": "Artes nigrománticas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "A Soul Divided",
+    "string": "Un alma dividida",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I've heard rumors about a ghostly apparition that has been haunting the Ratway in Riften. I should head there and see if I can learn more.",
+    "string": "I've heard rumors about a ghostly apparition that has been haunting the Ratway in Riften. I should head there and see if I can learn more.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've heard rumors about a ghostly apparition that has been haunting the Ratway in Riften. I should investigate the area and see if I can learn more.",
+    "string": "Había escuchado rumores sobre una aparición fantasmal en la Ratonera de Riften. Debería investigar la zona para ver lo que consigo averiguar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I found the ghostly woman, but as I drew near to her, she approached a nearby sewer entrance and vanished before my eyes. I should follow her and see where the sewer entrance leads.",
+    "string": "Encontré a la mujer fantasmal, pero cuando me acerqué a ella, se dirigió hacia la entrada de una alcantarilla cercana y se desvaneció ante mis ojos. Debería seguirla para ver a dónde conduce la alcantarilla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "Having followed the apparition, I have found myself inside an abandoned vault. A mysterious sword floats suspended in a magical field at the heart of the vault. Judging by the condition of this place, it looks as if it has lain undisturbed for a very long time. Perhaps if I proceed forward, I may find some answers and a way to unlock the sword.",
+    "string": "Having followed the apparition, I have found myself inside an abandoned vault. A mysterious sword floats suspended in a magical field at the heart of the vault. Judging by the condition of this place, it looks as if it has lain undisturbed for a very long time. Perhaps if I proceed forward, I may find some answers and a way to unlock the sword.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I have battled a strange warrior in the depths of this vault, but he vanished before I could strike my killing blow. However, when he vanished, there was a great burst of magic energy and the ground shook beneath me. I should head back to the sword chamber where perhaps I may encounter him again.",
+    "string": "Me he enfrentado a un extraño guerrero en las profundidades de esta cámara, pero se desvaneció antes de que pudiese asestarle el golpe final. Sin embargo, al esfumarse, hubo un gran estallido de energía mágica y el suelo tembló bajo mis pies. Debería volver a la sala de la espada, donde puede que vuelva a encontrarme con él.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "Upon returning to the sword chamber, I found the shield surrounding the sword had altered its magical appearance and its hold upon the blade. Could it be that the shield is influenced by defeating the Guardian? As another chamber door has opened, I should proceed into this new area and see if this theory holds any truth.",
+    "string": "Upon returning to the sword chamber, I found the shield surrounding the sword had altered its magical appearance and its hold upon the blade. Could it be that the shield is influenced by defeating the Guardian? As another chamber door has opened, I should proceed into this new area and see if this theory holds any truth.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "I have encountered the Guardian once more, only this time he was empowered with dark magic. Once again, upon nearing defeat, he vanished and the vault reacted to this magic. I should return to the sword chamber to see if more of this vault has now become accessible.",
+    "string": "He vuelto a toparme con el guardián, pero esta vez estaba fortalecido por magia oscura. Una vez más, cuando estaba a punto de caer derrotado, se ha desvanecido y la cámara ha reaccionado a su magia. Debería volver a la sala de la espada para ver si esta cámara ahora es accesible.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "Once again, my encounter with the Guardian has affected the shield that surrounds the sword. I should search the newly opened area where I may encounter the Guardian once more.",
+    "string": "Once again, my encounter with the Guardian has affected the shield that surrounds the sword. I should search the newly opened area where I may encounter the Guardian once more.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 9,
+    "type": "QUST CNAM",
+    "original": "I have vanquished the Guardian. I should return to the sword chamber to see if his defeat has affected the shield.",
+    "string": "He derrotado al guardián. Debería volver a la sala de la espada para ver si su derrota ha afectado al escudo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 10,
+    "type": "QUST CNAM",
+    "original": "Upon returning to the sword chamber, I witnessed what appeared to be a reconciliation between the Guardian and the woman, for I saw their spirits embrace and fade away. Perhaps in defeating him, I have actually freed his spirit from his binds to the sword and this vault. Now he is free and so too is the sword. ",
+    "string": "Cuando regresé a la sala de la espada, fui testigo de lo que parecía ser una reconciliación entre el guardián y la mujer, pues vi sus espíritus abrazarse y desaparecer. Es posible que, al derrotarlo, haya liberado su espíritu de las ataduras de la espada y esta cámara. Ahora que él es libre, también lo es la espada. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Investigate rumors of ghosts in the Riften Ratway",
+    "string": "Investiga los rumores sobre fantasmas en la Ratonera de Riften.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Find the ghost in the Ratway",
+    "string": "Encuentra al fantasma en la Ratonera.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 17,
+    "type": "QUST NNAM",
+    "original": "Follow the ghost",
+    "string": "Sigue al fantasma.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 18,
+    "type": "QUST NNAM",
+    "original": "Investigate the vault",
+    "string": "Investiga la cámara.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 19,
+    "type": "QUST NNAM",
+    "original": "Find a way to free the sword",
+    "string": "Busca un modo de liberar la espada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 24,
+    "type": "QUST NNAM",
+    "original": "Investigate the north chamber",
+    "string": "Investiga la sala norte.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 25,
+    "type": "QUST NNAM",
+    "original": "Defeat the Guardian",
+    "string": "Derrota al guardián.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Investigate the east chamber",
+    "string": "Investiga la cámara este.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Return to the sword chamber",
+    "string": "Vuelve a la sala de la espada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE013_AquisitionQuest",
+    "form_id": "0E000F18|ccbgssse013-dawnfang.esl",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Retrieve the sword",
+    "string": "Hazte con la espada.",
+    "status": "TranslationComplete"
+  }
+]

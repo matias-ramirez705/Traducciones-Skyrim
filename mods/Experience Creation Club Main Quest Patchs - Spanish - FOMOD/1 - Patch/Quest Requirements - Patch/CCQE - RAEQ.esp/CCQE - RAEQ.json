@@ -1,0 +1,2675 @@
+[
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Cause",
+    "string": "La causa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I found the Oblivion Gate and defeated the leader of the Mythic Dawn, Vonos. It appears this was an elaborate ritual designed to deceive me, and killing Vonos was the final step. I have become an unwitting instrument of Mehrunes Dagon, and my actions have opened the Oblivion Gate.",
+    "string": "Encontré la Puerta de Oblivion y derroté al líder del Amanecer Mítico, Vonos. Parece que se trataba de un elaborado ritual diseñado para engañarme, y matar a Vonos era el paso final. Me he convertido en un instrumento involuntario de Mehrunes Dagon, y mis acciones han abierto la Puerta de Oblivion.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Centuries have passed since the Oblivion Crisis, yet remnants of that era may still exist in Skyrim. I should pay attention to any news or rumors.",
+    "string": "Han pasado siglos desde la Crisis de Oblivion, pero es posible que aún existan vestigios de aquella época en Skyrim. Debería prestar atención a cualquier noticia o rumor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "A courier has delivered a letter from a stranger. It looks like a plea for help. I should read it and see what it says.",
+    "string": "Un mensajero me ha entregado una carta de un desconocido. Parece una petición de ayuda. Debería leerla y ver qué dice.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I received a letter from someone named Skorvild claiming to be a reformed member of the Mythic Dawn. He mentioned the Oblivion Crisis and asked me to meet him at the Shrine to Stendarr. I should go there and see what he has to say.",
+    "string": "Recibí una carta de alguien llamado Skorvild, quien afirma ser un antiguo miembro reformado del Amanecer Mítico. Mencionó la Crisis de Oblivion y me pidió que me reuniera con él en el Santuario de Stendarr. Debería ir allí y ver qué tiene que decir.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "The stranger who sent me the letter, Skorvild, was apparently murdered by two Mythic Dawn assassins before I could meet with him. They ambushed me when I arrived, but I defeated them. I should look around to find any additional information.",
+    "string": "Al parecer, Skorvild, el desconocido que me envió la carta, fue asesinado por dos asesinos del Amanecer Mítico antes de que pudiera reunirme con él. Me emboscaron cuando llegué, pero los derroté. Debería buscar más información.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "A stranger asked for my help, but he was killed before I arrived. I was then ambushed by two assassins. I learned that the Mythic Dawn have reemerged, and that they've somehow reassembled an Oblivion gate, but need a powerful artifact to open it. A camp was mentioned in the notes I found. I should go there to see what I can find.",
+    "string": "Un desconocido pidió mi ayuda, pero lo mataron antes de que llegara. Luego me emboscaron dos asesinos. Descubrí que el Amanecer Mítico ha resurgido y que, de alguna manera, han reconstruido una Puerta de Oblivion, pero necesitan un poderoso artefacto para abrirla. En las notas que encontré se mencionaba un campamento. Debería ir allí y ver qué puedo averiguar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "The Mythic Dawn have repaired an Oblivion Gate, but need a Great Welkynd Stone to open it. To avoid the Vigilants of Stendarr they've excavated a back way into an ancient Ayleid ruin where such a stone is rumored to be hidden. A journal at their camp mentioned something about a secret chamber. I should investigate the ruin and see if I can find it before they do.",
+    "string": "El Amanecer Mítico ha reparado una Puerta de Oblivion, pero necesita una Gran Piedra Welkynd para abrirla. Para evitar a los Vigilantes de Stendarr, excavaron una entrada trasera a unas antiguas ruinas ayleid donde se rumorea que está oculta una piedra de este tipo. En el campamento había un diario que mencionaba algo sobre una cámara secreta. Debería investigar las ruinas y ver si puedo encontrarla antes que ellos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "The Mythic Dawn have been searching an Ayleid ruin where a Great Welkynd Stone is rumored to be hidden within a secret chamber. They have been unable to find this chamber, but one of the explorers discovered Ayleid Elemental Shards may be the keys to opening it. I should find the shards.",
+    "string": "El Amanecer Mítico ha estado buscando en unas ruinas ayleid donde se rumorea que hay una Gran Piedra Welkynd oculta en una cámara secreta. No han logrado encontrarla, pero uno de los exploradores descubrió que los Fragmentos elementales ayleid podrían ser las llaves para abrirla. Debería encontrar los fragmentos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 9,
+    "type": "QUST CNAM",
+    "original": "The Mythic Dawn have been searching for a secret chamber within an Ayleid ruin that may contain a Great Welkynd Stone. I found four Ayleid Elemental Shards that may help me gain access to this chamber. I should return them to their holders.",
+    "string": "El Amanecer Mítico ha estado buscando una cámara secreta dentro de unas ruinas ayleid que podría contener una Gran Piedra Welkynd. Encontré cuatro Fragmentos elementales ayleid que podrían ayudarme a acceder a esta cámara. Debería devolverlos a sus soportes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 10,
+    "type": "QUST CNAM",
+    "original": "I placed the four Ayleid Elemental Shards in their holders, and a passage to a hidden chamber opened. I should investigate and see if I can locate the Great Welkynd Stone.",
+    "string": "Coloqué los cuatro Fragmentos elementales ayleid en sus soportes y se abrió un pasaje hacia una cámara oculta. Debería investigar y ver si puedo encontrar la Gran Piedra Welkynd.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 11,
+    "type": "QUST CNAM",
+    "original": "I gained access to the secret chamber within Rielle and retrieved the Great Welkynd Stone, but was ambushed by an Ayleid Lich. I need to defeat him in order to escape.",
+    "string": "Logré acceder a la cámara secreta de Rielle y recuperé la Gran Piedra Welkynd, pero me emboscó un liche ayleid. Debo derrotarlo para poder escapar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 12,
+    "type": "QUST CNAM",
+    "original": "I found and retrieved the Great Welkynd Stone from within Rielle, and defeated the Ayleid Lich guardian, but the Mythic Dawn will stop at nothing to bring Mehrunes Dagon into power. I should search for any clues nearby that might lead me to the location of the Oblivion Gate.",
+    "string": "Encontré y recuperé la Gran Piedra Welkynd de Rielle, y derroté al liche ayleid que la custodiaba, pero el Amanecer Mítico no se detendrá ante nada para llevar a Mehrunes Dagon al poder. Debería buscar pistas cercanas que puedan conducirme a la ubicación de la Puerta de Oblivion.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 13,
+    "type": "QUST CNAM",
+    "original": "While searching for clues about the Mythic Dawn's whereabouts I found a journal on a dead Vigilant of Stendarr. They learned of the Mythic Dawn's plot by capturing and interrogating a priest, and were able to decipher the location of the Oblivion Gate. I should go there and see if I can get inside. Wearing a set of Mythic Dawn robes might make it easier, but I need to be careful.",
+    "string": "Mientras buscaba pistas sobre el paradero del Amanecer Mítico, encontré un diario en un Vigilante de Stendarr muerto. Descubrieron el plan del Amanecer Mítico capturando e interrogando a un sacerdote, y lograron descifrar la ubicación de la Puerta de Oblivion. Debería ir allí y ver si puedo entrar. Llevar un conjunto de túnicas del Amanecer Mítico podría facilitar las cosas, pero debo tener cuidado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 14,
+    "type": "QUST CNAM",
+    "original": "I've found the repaired Oblivion Gate deep inside Red Scar Cavern, the Mythic Dawn hideout. The leader of the Mythic Dawn, Vonos, will stop at nothing to bring Mehrunes Dagon to power, and must be defeated.",
+    "string": "He encontrado la Puerta de Oblivion reparada en lo profundo de la Caverna de la Cicatriz Roja, el escondite del Amanecer Mítico. El líder del Amanecer Mítico, Vonos, no se detendrá ante nada para llevar a Mehrunes Dagon al poder y debe ser derrotado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 15,
+    "type": "QUST CNAM",
+    "original": "I found the Oblivion Gate and defeated the leader of the Mythic Dawn, Vonos. It appears this was an elaborate ritual designed to decieve me, and killing Vonos was the final step. I have become an unwitting instrument of Mehrunes Dagon, and my actions have opened the Oblivion Gate.",
+    "string": "Encontré la Puerta de Oblivion y derroté al líder del Amanecer Mítico, Vonos. Parece que se trataba de un elaborado ritual diseñado para engañarme, y matar a Vonos era el paso final. Me he convertido en un instrumento involuntario de Mehrunes Dagon, y mis acciones han abierto la Puerta de Oblivion.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 16,
+    "type": "QUST CNAM",
+    "original": "I've found the weakened Sigil Stone within the Deadlands, and now must make a decision. If I take the Sigil Stone, the gate will close and the Mythic Dawn will be defeated. However, if I place the Great Welkynd stone on the altar, it will recharge the gate, and seal it open...",
+    "string": "He encontrado la Piedra del Sigilo debilitada en las Tierras Muertas y ahora debo tomar una decisión. Si me llevo la Piedra del Sigilo, la puerta se cerrará y el Amanecer Mítico será derrotado. Sin embargo, si coloco la Gran Piedra Welkynd en el altar, recargará la puerta y la sellará abierta...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 17,
+    "type": "QUST CNAM",
+    "original": "Gate Closed",
+    "string": "Puerta cerrada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 18,
+    "type": "QUST CNAM",
+    "original": "Gate Open",
+    "string": "Puerta abierta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 19,
+    "type": "QUST CNAM",
+    "original": "A stranger informed me that the Mythic Dawn reformed and unearthed an ancient Oblivion Gate. They were searching for a Great Welkynd Stone to charge the gate, which I found within Rielle before they could. I infiltrated the Mythic Dawn's hideout and went inside the Deadlands to find the Sigil Stone. Rather than remove the stone and close the portal, I decided to follow the will of Mehrunes Dagon by using the Great Welkynd Stone to charge the gate and protect the Sigil Stone.",
+    "string": "Un desconocido me informó de que el Amanecer Mítico se había reorganizado y había desenterrado una antigua Puerta de Oblivion. Buscaban una Gran Piedra Welkynd para cargar la puerta, que encontré en Rielle antes que ellos. Me infiltré en el escondite del Amanecer Mítico y entré en las Tierras Muertas para encontrar la Piedra del Sigilo. En lugar de retirar la piedra y cerrar el portal, decidí seguir la voluntad de Mehrunes Dagon y usar la Gran Piedra Welkynd para cargar la puerta y proteger la Piedra del Sigilo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 20,
+    "type": "QUST CNAM",
+    "original": "A stranger informed me that the Mythic Dawn reformed and unearthed an ancient Oblivion Gate. They were searching for a Great Welkynd Stone to charge the gate, which I found within Rielle before they could. I infiltrated the Mythic Dawn's hideout and went inside the Deadlands to find the Sigil Stone. I defeated two of Mehrunes Dagon's champions, and retrieved the Sigil Stone, thereby closing the portal and destroying the gate.",
+    "string": "Un desconocido me informó de que el Amanecer Mítico se había reorganizado y había desenterrado una antigua Puerta de Oblivion. Buscaban una Gran Piedra Welkynd para cargar la puerta, que encontré en Rielle antes que ellos. Me infiltré en el escondite del Amanecer Mítico y entré en las Tierras Muertas para encontrar la Piedra del Sigilo. Derroté a dos campeones de Mehrunes Dagon y recuperé la Piedra del Sigilo, cerrando así el portal y destruyendo la puerta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Await news from a courier",
+    "string": "Espera noticias de un mensajero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Read the Stranger's Plea",
+    "string": "Lee la petición del desconocido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Meet Skorvild at the Shrine to Stendarr",
+    "string": "Reúnete con Skorvild en el Santuario de Stendarr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Defeat the Mythic Dawn Assassins",
+    "string": "Derrota a los asesinos del Amanecer Mítico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Search the bodies for information",
+    "string": "Busca información en los cadáveres",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Read Skorvild's Journal",
+    "string": "Lee el diario de Skorvild",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Read the Mythic Dawn Orders",
+    "string": "Lee las órdenes del Amanecer Mítico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Search for clues in the Mythic Dawn camp",
+    "string": "Busca pistas en el campamento del Amanecer Mítico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 90,
+    "type": "QUST NNAM",
+    "original": "Search Rielle for clues about the secret chamber",
+    "string": "Busca pistas sobre la cámara secreta en Rielle",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 100,
+    "type": "QUST NNAM",
+    "original": "Read Janus' Journal",
+    "string": "Lee el diario de Janus",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 110,
+    "type": "QUST NNAM",
+    "original": "Retrieve the Ayleid Elemental Shards (<Global=ccBGSSSE067_QuestShardCounter>/4)",
+    "string": "Recupera los Fragmentos elementales ayleid (<Global=ccBGSSSE067_QuestShardCounter>/4)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 115,
+    "type": "QUST NNAM",
+    "original": "Locate the Ayleid Elemental Shard Holders",
+    "string": "Localiza los soportes de los Fragmentos elementales ayleid",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 120,
+    "type": "QUST NNAM",
+    "original": "Place the Ayleid Elemental Shards",
+    "string": "Coloca los Fragmentos elementales ayleid",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 130,
+    "type": "QUST NNAM",
+    "original": "Enter the secret chamber",
+    "string": "Entra en la cámara secreta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 140,
+    "type": "QUST NNAM",
+    "original": "Take the Great Welkynd Stone",
+    "string": "Toma la Gran Piedra Welkynd",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 150,
+    "type": "QUST NNAM",
+    "original": "Defeat Norion the Undying",
+    "string": "Derrota a Norion el Imperecedero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 160,
+    "type": "QUST NNAM",
+    "original": "Search Norion's remains",
+    "string": "Busca entre los restos de Norion",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 170,
+    "type": "QUST NNAM",
+    "original": "Find clues to the Oblivion Gate's location",
+    "string": "Encuentra pistas sobre la ubicación de la Puerta de Oblivion",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 180,
+    "type": "QUST NNAM",
+    "original": "Read the Vigil Enforcer's Journal",
+    "string": "Lee el diario del vigilante ejecutor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 190,
+    "type": "QUST NNAM",
+    "original": "Locate the Oblivion Gate",
+    "string": "Localiza la Puerta de Oblivion",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 200,
+    "type": "QUST NNAM",
+    "original": "(Optional) Wear a set of Mythic Dawn robes",
+    "string": "(Opcional) Lleva un conjunto de túnicas del Amanecer Mítico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 205,
+    "type": "QUST NNAM",
+    "original": "Defeat Vonos",
+    "string": "Derrota a Vonos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 210,
+    "type": "QUST NNAM",
+    "original": "Retrieve Vonos' Journal",
+    "string": "Recupera el diario de Vonos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 220,
+    "type": "QUST NNAM",
+    "original": "Read Vonos' Journal",
+    "string": "Lee el diario de Vonos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 230,
+    "type": "QUST NNAM",
+    "original": "Use the Scroll of Liminal Breach",
+    "string": "Usa el pergamino de Brecha liminal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 235,
+    "type": "QUST NNAM",
+    "original": "(Optional) Find the missing Vigilants (<Global=ccBGSSSE067_QuestVigilantRescueCounter>/3)",
+    "string": "(Opcional) Encuentra a los Vigilantes desaparecidos (<Global=ccBGSSSE067_QuestVigilantRescueCounter>/3)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 240,
+    "type": "QUST NNAM",
+    "original": "Locate the Sigil Stone in the Deadlands",
+    "string": "Localiza la Piedra del Sigilo en las Tierras Muertas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 250,
+    "type": "QUST NNAM",
+    "original": "Defeat the Dremora Valkynaz",
+    "string": "Derrota al Valkynaz dremora",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 260,
+    "type": "QUST NNAM",
+    "original": "Retrieve Scourge",
+    "string": "Recupera Azote",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 270,
+    "type": "QUST NNAM",
+    "original": "Defeat Valkyn Skoria",
+    "string": "Derrota a Valkyn Skoria",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 280,
+    "type": "QUST NNAM",
+    "original": "Retrieve Torment",
+    "string": "Recupera Tormento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 290,
+    "type": "QUST NNAM",
+    "original": "Take the Sigil Stone",
+    "string": "Toma la Piedra del Sigilo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 300,
+    "type": "QUST NNAM",
+    "original": "Place the Great Welkynd Stone",
+    "string": "Coloca la Gran Piedra Welkynd",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE067_Quest",
+    "form_id": "0A06BFC1|ccbgssse067-daedinv.esm",
+    "index": 305,
+    "type": "QUST NNAM",
+    "original": "Escape the Deadlands",
+    "string": "Escapa de las Tierras Muertas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Balance of Power",
+    "string": "Equilibrio de poder",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I've heard a rumor that a Khajiit caravan merchant has been running into trouble with bandits along the road, and is in need of assistance. I should speak to him if we ever cross paths.",
+    "string": "He oído un rumor de que un mercader khajiita de una caravana ha tenido problemas con bandidos en el camino y necesita ayuda. Debería hablar con él si nos cruzamos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I spoke to Ri'saad, the traveling caravan merchant, about trouble along the road. He handed me a note that has more details.",
+    "string": "Hablé con Ri'saad, el mercader de la caravana itinerante, sobre los problemas en el camino. Me entregó una nota con más detalles.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "In Ri'saad's note, he details that he has been attacked by bandit gangs calling themselves the \"Saints\" and \"Seducers\" wielding strange weapons and armor. He noted the location where they were each last seen along his route. Ri'saad is offering a reward for defeating these new bands of thugs.",
+    "string": "En la nota de Ri'saad detalla que ha sido atacado por bandas de bandidos que se hacen llamar los \"Santos\" y los \"Seducidos\", y que portan armas y armaduras extrañas. Anotó los lugares donde fueron vistos por última vez a lo largo de su ruta. Ri'saad ofrece una recompensa por derrotar a estas nuevas bandas de matones.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I've located the bandits that call themselves the Saints. I must deal with them in order to make this trade route safer to travel.",
+    "string": "He localizado a los bandidos que se hacen llamar los Santos. Debo ocuparme de ellos para que esta ruta comercial sea más segura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I've located bandits wielding strange weapons and armor; these must be the bandits the Khajiit caravan merchant was rumored to be having trouble with. I should deal with them in order to learn more and make this trade route safer to travel.",
+    "string": "He localizado a unos bandidos que portan armas y armaduras extrañas; deben ser los bandidos con los que, según los rumores, la caravana mercante khajiita estaba teniendo problemas. Debería ocuparme de ellos para averiguar más y hacer que esta ruta comercial sea más segura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "I defeated the Saints bandits. I should investigate the campsite.",
+    "string": "Derroté a los bandidos de los Santos. Debería investigar el campamento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "I defeated the bandits. I should investigate the campsite.",
+    "string": "Derroté a los bandidos. Debería investigar el campamento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "I discovered a journal on one of the bandits. I should read it to learn more about who they are.",
+    "string": "Descubrí un diario en uno de los bandidos. Debería leerlo para averiguar más sobre quiénes son.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 9,
+    "type": "QUST CNAM",
+    "original": "It seems like more of the Saints bandits have set up camp elsewhere, along with their leader. The location of their leader's camp was detailed in a journal I discovered.",
+    "string": "Parece que más bandidos de los Santos se han instalado en otro lugar, junto con su líder. La ubicación del campamento de su líder estaba detallada en un diario que encontré.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 10,
+    "type": "QUST CNAM",
+    "original": "It seems like more of the roadside bandits, who call themselves the Saints, have set up camp elsewhere with their leader. The location of their leader's camp was in a note I discovered. Another group of bandits, the Seducers, are also causing trouble for travelers.",
+    "string": "Parece que más bandidos del camino, que se hacen llamar los Santos, se han instalado en otro lugar junto con su líder. La ubicación del campamento de su líder estaba en una nota que encontré. Otro grupo de bandidos, los Seducidos, también está causando problemas a los viajeros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 11,
+    "type": "QUST CNAM",
+    "original": "I've located more of the Saints bandits, along with their leader. I will need to defeat them.",
+    "string": "He localizado a más bandidos de los Santos, junto con su líder. Tendré que derrotarlos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 12,
+    "type": "QUST CNAM",
+    "original": "I have defeated the Saints bandit leader. I should look around for more information.",
+    "string": "He derrotado al líder de los bandidos de los Santos. Debería buscar más información.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 13,
+    "type": "QUST CNAM",
+    "original": "I found a journal on the leader of the Saints bandits. I should read it to see if there is anything more to learn about these strange criminals.",
+    "string": "Encontré un diario en el líder de los bandidos de los Santos. Debería leerlo para ver si hay algo más que pueda aprender sobre estos extraños criminales.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 14,
+    "type": "QUST CNAM",
+    "original": "I discovered a note that detailed how the Saints bandits are being assisted by a conjurer who seeks strange artifacts. The note was vague about his whereabouts, only noting that he is somewhere in Solitude. I should now finish eliminating the Seducers, the other bandit group causing trouble for Ri'saad's caravans. Perhaps I can learn more about this conjurer and where to find him.",
+    "string": "Descubrí una nota que detallaba cómo los bandidos de los Santos reciben ayuda de un conjurador que busca artefactos extraños. La nota era imprecisa sobre su paradero y solo mencionaba que se encuentra en algún lugar de Soledad. Ahora debería terminar de eliminar a los Seducidos, el otro grupo de bandidos que está causando problemas a las caravanas de Ri'saad. Quizás pueda averiguar más sobre este conjurador y dónde encontrarlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 15,
+    "type": "QUST CNAM",
+    "original": "I've located the bandits that call themselves the Seducers. To make the roads safer to travel, and learn more about the bandits, I will have to defeat them.",
+    "string": "He localizado a los bandidos que se hacen llamar los Seducidos. Para que los caminos sean más seguros y averiguar más sobre los bandidos, tendré que derrotarlos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 16,
+    "type": "QUST CNAM",
+    "original": "I've located bandits wielding strange weapons and armor; these must be the bandits the Khajiit caravan merchant was rumored to be having trouble with. I should deal with them in order to learn more and make this trade route safer to travel.",
+    "string": "He localizado a unos bandidos que portan armas y armaduras extrañas; deben ser los bandidos con los que, según los rumores, la caravana mercante khajiita estaba teniendo problemas. Debería ocuparme de ellos para averiguar más y hacer que esta ruta comercial sea más segura.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 17,
+    "type": "QUST CNAM",
+    "original": "I defeated the Seducers bandits. I should investigate the campsite.",
+    "string": "Derroté a los bandidos de los Seducidos. Debería investigar el campamento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 18,
+    "type": "QUST CNAM",
+    "original": "I defeated the bandits. I should investigate the campsite.",
+    "string": "Derroté a los bandidos. Debería investigar el campamento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 19,
+    "type": "QUST CNAM",
+    "original": "I found a journal on the bandit leader. I should read it to learn more about who they are.",
+    "string": "Encontré un diario en el líder de los bandidos. Debería leerlo para averiguar más sobre quiénes son.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 20,
+    "type": "QUST CNAM",
+    "original": "It seems like more of the Seducers bandits have set up camp elsewhere, along with their leader. The location of their leader's camp was detailed in a journal I discovered.",
+    "string": "Parece que más bandidos de los Seducidos se han instalado en otro lugar, junto con su líder. La ubicación del campamento de su líder estaba detallada en un diario que encontré.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 21,
+    "type": "QUST CNAM",
+    "original": "The bandits, who call themselves the Seducers, are using an artifact to summon Daedra into our realm through a ritual in order to obtain their equipment. The location of the ritual site was in a note I found at their camp. Another group of bandits, the Saints, are also causing trouble for travelers.",
+    "string": "Los bandidos, que se hacen llamar los Seducidos, están usando un artefacto para invocar daedra a nuestro reino mediante un ritual con el fin de obtener su equipo. La ubicación del lugar del ritual estaba en una nota que encontré en su campamento. Otro grupo de bandidos, los Santos, también está causando problemas a los viajeros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 22,
+    "type": "QUST CNAM",
+    "original": "I've located more of the Seducers bandits, along with their leader. I will need to defeat them.",
+    "string": "He localizado a más bandidos de los Seducidos, junto con su líder. Tendré que derrotarlos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 23,
+    "type": "QUST CNAM",
+    "original": "I have defeated the Seducers bandit leader. I should look around for more information.",
+    "string": "He derrotado al líder de los bandidos de los Seducidos. Debería buscar más información.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 24,
+    "type": "QUST CNAM",
+    "original": "I found the journal of the leader of the Seducers bandits. I should read it to see if there is anything more to learn about these strange criminals.",
+    "string": "Encontré el diario del líder de los bandidos de los Seducidos. Debería leerlo para ver si hay algo más que pueda aprender sobre estos extraños criminales.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 25,
+    "type": "QUST CNAM",
+    "original": "I discovered a note that detailed how the Seducers bandits are being assisted by a conjurer who seeks strange artifacts. The note was vague about his whereabouts, only noting that he is somewhere in a sewer. I should now finish eliminating the Saints, the other bandit group causing trouble for Ri'saad's caravans. Perhaps I can learn more about this conjurer and where to find him.",
+    "string": "Descubrí una nota que detallaba cómo los bandidos de los Seducidos reciben ayuda de un conjurador que busca artefactos extraños. La nota era imprecisa sobre su paradero y solo mencionaba que se encuentra en algún lugar de una alcantarilla. Ahora debería terminar de eliminar a los Santos, el otro grupo de bandidos que está causando problemas a las caravanas de Ri'saad. Quizás pueda averiguar más sobre este conjurador y dónde encontrarlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 26,
+    "type": "QUST CNAM",
+    "original": "I have defeated the Saints and Seducers bandit leaders, and now the roads should be safer to travel. I should speak to Ri'saad to let him know.",
+    "string": "He derrotado a los líderes de los bandidos de los Santos y los Seducidos, y ahora los caminos deberían ser más seguros. Debería hablar con Ri'saad para informarle.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 27,
+    "type": "QUST CNAM",
+    "original": "I spoke to Ri'saad, who rewarded me for defeating the bandits and helping make the roads safe to travel.",
+    "string": "Hablé con Ri'saad, quien me recompensó por derrotar a los bandidos y ayudar a que los caminos fueran más seguros.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 0,
+    "type": "QUST NNAM",
+    "original": "Speak to Ri'saad about trouble along the road",
+    "string": "Habla con Ri'saad sobre los problemas en el camino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Read Ri'saad's note",
+    "string": "Lee la nota de Ri'saad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Locate the Saints bandit camp",
+    "string": "Localiza el campamento de los bandidos de los Santos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 21,
+    "type": "QUST NNAM",
+    "original": "Locate the Seducers bandit camp",
+    "string": "Localiza el campamento de los bandidos de los Seducidos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Defeat the Saints bandit leader",
+    "string": "Derrota al líder de los bandidos de los Santos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 31,
+    "type": "QUST NNAM",
+    "original": "Defeat the Seducers bandit leader",
+    "string": "Derrota al líder de los bandidos de los Seducidos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Investigate the Saints bandit camp",
+    "string": "Investiga el campamento de los bandidos de los Santos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 41,
+    "type": "QUST NNAM",
+    "original": "Investigate the Seducers bandit camp",
+    "string": "Investiga el campamento de los bandidos de los Seducidos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 45,
+    "type": "QUST NNAM",
+    "original": "Read the Saints bandit leader's journal",
+    "string": "Lee el diario del líder de los bandidos de los Santos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 46,
+    "type": "QUST NNAM",
+    "original": "Read the Seducers bandit leader's journal",
+    "string": "Lee el diario del líder de los bandidos de los Seducidos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Locate Kinthal's Saints bandit camp",
+    "string": "Localiza el campamento de los bandidos de los Santos de Kinthal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 51,
+    "type": "QUST NNAM",
+    "original": "Locate Svarig's Seducers bandit camp",
+    "string": "Localiza el campamento de los bandidos de los Seducidos de Svarig",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Defeat Kinthal",
+    "string": "Derrota a Kinthal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 61,
+    "type": "QUST NNAM",
+    "original": "Defeat Svarig",
+    "string": "Derrota a Svarig",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Search Kinthal's Saints bandit camp",
+    "string": "Busca en el campamento de los bandidos de los Santos de Kinthal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 71,
+    "type": "QUST NNAM",
+    "original": "Search Svarig's Seducers bandit camp",
+    "string": "Busca en el campamento de los bandidos de los Seducidos de Svarig",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 75,
+    "type": "QUST NNAM",
+    "original": "Read Kinthal's journal",
+    "string": "Lee el diario de Kinthal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 76,
+    "type": "QUST NNAM",
+    "original": "Read Svarig's journal",
+    "string": "Lee el diario de Svarig",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Return to Ri'saad",
+    "string": "Regresa con Ri'saad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE025_QuestA",
+    "form_id": "0B000912|ccBGSSSE025-AdvDSGS.esm",
+    "index": 81,
+    "type": "QUST NNAM",
+    "original": "Speak to Ri'saad",
+    "string": "Habla con Ri'saad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Guests for Dinner",
+    "string": "Invitados a cenar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I received a letter from a courier mentioning a banquest feast is happening at a large manor south of Frostflow Lighthouse. I arrived at the home and spoke to the waiter, who gave me a menu. The feast appears to be an elaborate trap to feed on a handful of noble guests. After finishing the guests and a surprise group of Dawnguard members, I should now speak to the waiter.",
+    "string": "Recibí una carta de un mensajero que mencionaba que se celebraría un banquete en una gran mansión al sur del Faro del Flujo Helado. Llegué a la casa y hablé con el camarero, quien me entregó un menú. Parece que el banquete es una elaborada trampa para alimentarse de un puñado de invitados nobles. Después de acabar con los invitados y un grupo sorpresa de miembros de la Guardia del Alba, debería hablar con el camarero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "In Skyrim, personal news and letters are often delivered by courier. If I head to a major hold, I might find something addressed to me.",
+    "string": "En Skyrim, las noticias personales y las cartas suelen entregarse mediante mensajeros. Si me dirijo a una ciudad importante, quizá encuentre algo dirigido a mí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "During my travels through Skyrim, I ran into a courier who had a letter addressed to me. I should read it to find out who sent it and why.",
+    "string": "Durante mis viajes por Skyrim, me encontré con un mensajero que llevaba una carta dirigida a mí. Debería leerla para averiguar quién la envió y por qué.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "During my travels through Skyrim, I ran into a courier who had a letter addressed to me. I should read it to find out who sent it and why.",
+    "string": "Durante mis viajes por Skyrim, me encontré con un mensajero que llevaba una carta dirigida a mí. Debería leerla para averiguar quién la envió y por qué.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I received a letter from a courier mentioning a banquest feast is happening at a large manor south of Frostflow Lighthouse. I should visit the hall and attend the festivities.",
+    "string": "Recibí una carta de un mensajero que mencionaba que se celebraría un banquete en una gran mansión al sur del Faro del Flujo Helado. Debería visitar el salón y asistir a la celebración.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "I received a letter from a courier mentioning a banquest feast is happening at a large manor south of Frostflow Lighthouse. I arrived at the home and found an array of guests at the door.",
+    "string": "Recibí una carta de un mensajero que mencionaba que se celebraría un banquete en una gran mansión al sur del Faro del Flujo Helado. Llegué a la casa y encontré a varios invitados en la puerta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "I received a letter from a courier mentioning a banquest feast is happening at a large manor south of Frostflow Lighthouse. I arrived at the home and spoke to the waiter, who gave me a menu.",
+    "string": "Recibí una carta de un mensajero que mencionaba que se celebraría un banquete en una gran mansión al sur del Faro del Flujo Helado. Llegué a la casa y hablé con el camarero, quien me entregó un menú.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "I received a letter from a courier mentioning a banquest feast is happening at a large manor south of Frostflow Lighthouse. I arrived at the home and spoke to the waiter, who gave me a menu. At the banquet table, I read a note that implied this feast was not what it seemed.",
+    "string": "Recibí una carta de un mensajero que mencionaba que se celebraría un banquete en una gran mansión al sur del Faro del Flujo Helado. Llegué a la casa y hablé con el camarero, quien me entregó un menú. En la mesa del banquete leí una nota que indicaba que esta celebración no era lo que parecía.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 9,
+    "type": "QUST CNAM",
+    "original": "I received a letter from a courier mentioning a banquest feast is happening at a large manor south of Frostflow Lighthouse. I arrived at the home and spoke to the waiter, who gave me a menu. At the banquet table, I found one of many meals to feed on.",
+    "string": "Recibí una carta de un mensajero que mencionaba que se celebraría un banquete en una gran mansión al sur del Faro del Flujo Helado. Llegué a la casa y hablé con el camarero, quien me entregó un menú. En la mesa del banquete encontré uno de los muchos platos de los que podía alimentarme.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 10,
+    "type": "QUST CNAM",
+    "original": "I received a letter from a courier mentioning a banquest feast is happening at a large manor south of Frostflow Lighthouse. I arrived at the home and spoke to the waiter, who gave me a menu. The feast appears to be an elaborate trap to feed on a handful of noble guests.",
+    "string": "Recibí una carta de un mensajero que mencionaba que se celebraría un banquete en una gran mansión al sur del Faro del Flujo Helado. Llegué a la casa y hablé con el camarero, quien me entregó un menú. Parece que el banquete es una elaborada trampa para alimentarse de un puñado de invitados nobles.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 11,
+    "type": "QUST CNAM",
+    "original": "I received a letter from a courier mentioning a banquest feast is happening at a large manor south of Frostflow Lighthouse. I arrived at the home and spoke to the waiter, who gave me a menu. The feast appears to be an elaborate trap to feed on a handful of noble guests. As a vampire, I've been allowed to partake in the meal.",
+    "string": "Recibí una carta de un mensajero que mencionaba que se celebraría un banquete en una gran mansión al sur del Faro del Flujo Helado. Llegué a la casa y hablé con el camarero, quien me entregó un menú. Parece que el banquete es una elaborada trampa para alimentarse de un puñado de invitados nobles. Como vampiro, me han permitido participar en la comida.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 12,
+    "type": "QUST CNAM",
+    "original": "I received a letter from a courier mentioning a banquest feast is happening at a large manor south of Frostflow Lighthouse. I arrived at the home and spoke to the waiter, who gave me a menu. The feast appears to be an elaborate trap to feed on a handful of noble guests.",
+    "string": "Recibí una carta de un mensajero que mencionaba que se celebraría un banquete en una gran mansión al sur del Faro del Flujo Helado. Llegué a la casa y hablé con el camarero, quien me entregó un menú. Parece que el banquete es una elaborada trampa para alimentarse de un puñado de invitados nobles.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 13,
+    "type": "QUST CNAM",
+    "original": "I received a letter from a courier mentioning a banquest feast is happening at a large manor south of Frostflow Lighthouse. I arrived at the home and spoke to the waiter, who gave me a menu. The feast appears to be an elaborate trap to feed on a handful of noble guests. After finishing the guests and a surprise group of Dawnguard members, I should now speak to the waiter.",
+    "string": "Recibí una carta de un mensajero que mencionaba que se celebraría un banquete en una gran mansión al sur del Faro del Flujo Helado. Llegué a la casa y hablé con el camarero, quien me entregó un menú. Parece que el banquete es una elaborada trampa para alimentarse de un puñado de invitados nobles. Después de acabar con los invitados y un grupo sorpresa de miembros de la Guardia del Alba, debería hablar con el camarero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 14,
+    "type": "QUST CNAM",
+    "original": "I received a letter from a courier mentioning a banquest feast is happening at a large manor south of Frostflow Lighthouse. I arrived at the home and spoke to the waiter, who gave me a menu. The feast appears to be an elaborate trap to feed on a handful of noble guests. After fighting off the vampires, I should speak to any survivors. ",
+    "string": "Recibí una carta de un mensajero que mencionaba que se celebraría un banquete en una gran mansión al sur del Faro del Flujo Helado. Llegué a la casa y hablé con el camarero, quien me entregó un menú. Parece que el banquete es una elaborada trampa para alimentarse de un puñado de invitados nobles. Después de luchar contra los vampiros, debería hablar con algún superviviente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 15,
+    "type": "QUST CNAM",
+    "original": "I received a letter from a courier mentioning a banquest feast is happening at a large manor south of Frostflow Lighthouse. I arrived at the home and spoke to the waiter, who gave me a menu. The feast appears to be an elaborate trap to feed on a handful of noble guests. After finishing the guests and a surprise group of Dawnguard members, I should now speak to the waiter.",
+    "string": "Recibí una carta de un mensajero que mencionaba que se celebraría un banquete en una gran mansión al sur del Faro del Flujo Helado. Llegué a la casa y hablé con el camarero, quien me entregó un menú. Parece que el banquete es una elaborada trampa para alimentarse de un puñado de invitados nobles. Después de acabar con los invitados y un grupo sorpresa de miembros de la Guardia del Alba, debería hablar con el camarero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 16,
+    "type": "QUST CNAM",
+    "original": "I received a letter from a courier mentioning a banquest feast is happening at a large manor south of Frostflow Lighthouse. I arrived at the home and spoke to the waiter, who gave me a menu. The feast appears to be an elaborate trap to feed on a handful of noble guests. After fighting off the vampires, I spoke to a Dawnguard member who inflitrated the party and he thanked me for the help.",
+    "string": "Recibí una carta de un mensajero que mencionaba que se celebraría un banquete en una gran mansión al sur del Faro del Flujo Helado. Llegué a la casa y hablé con el camarero, quien me entregó un menú. Parece que el banquete es una elaborada trampa para alimentarse de un puñado de invitados nobles. Después de luchar contra los vampiros, hablé con un miembro de la Guardia del Alba que se infiltró en la fiesta y me agradeció la ayuda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 17,
+    "type": "QUST CNAM",
+    "original": "I received a letter from a courier mentioning a banquest feast is happening at a large manor south of Frostflow Lighthouse. I arrived at the home and spoke to the waiter, who gave me a menu. The feast appears to be an elaborate trap to feed on a handful of noble guests. After fighting off the vampires, I spoke to a Dawnguard member who inflitrated the party and he thanked me for the help.",
+    "string": "Recibí una carta de un mensajero que mencionaba que se celebraría un banquete en una gran mansión al sur del Faro del Flujo Helado. Llegué a la casa y hablé con el camarero, quien me entregó un menú. Parece que el banquete es una elaborada trampa para alimentarse de un puñado de invitados nobles. Después de luchar contra los vampiros, hablé con un miembro de la Guardia del Alba que se infiltró en la fiesta y me agradeció la ayuda.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Await news from a courier",
+    "string": "Espera noticias de un mensajero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Read the Dinner Invitation",
+    "string": "Lee la invitación a la cena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Attend the banquest feast",
+    "string": "Asiste al banquete",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 35,
+    "type": "QUST NNAM",
+    "original": "Speak to the Waiter",
+    "string": "Habla con el camarero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Travel to the banquet table",
+    "string": "Dirígete a la mesa del banquete",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 47,
+    "type": "QUST NNAM",
+    "original": "Begin the feast",
+    "string": "Comienza el banquete",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Take a seat at the feast table",
+    "string": "Toma asiento en la mesa del banquete",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 55,
+    "type": "QUST NNAM",
+    "original": "Read the feast note",
+    "string": "Lee la nota del banquete",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Join the feast",
+    "string": "Participa en el banquete",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Defend against the vampire attack",
+    "string": "Defiéndete del ataque de los vampiros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Finish the feast",
+    "string": "Termina el banquete",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 90,
+    "type": "QUST NNAM",
+    "original": "Speak to the Waiter",
+    "string": "Habla con el camarero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE005_Quest",
+    "form_id": "0D0B7AED|cceejsse005-cave.esm",
+    "index": 100,
+    "type": "QUST NNAM",
+    "original": "Speak to the survivor",
+    "string": "Habla con el superviviente",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE003_ZombieQuestStartEncounter",
+    "form_id": "0500083D|ccbgssse003-zombies.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Rising Dead",
+    "string": "Los muertos se alzan",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE003_ZombieQuestStartEncounter",
+    "form_id": "0500083D|ccbgssse003-zombies.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I've found an urgent anonymous letter.  I should read it and see what it's regarding.",
+    "string": "He encontrado una carta anónima urgente. Debería leerla y averiguar de qué se trata.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE003_ZombieQuestStartEncounter",
+    "form_id": "0500083D|ccbgssse003-zombies.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've received an anonymous letter asking me to help stop a group of Necromancers who are planning to raise an army of Zombies.  I should investigate the ritual site.",
+    "string": "He recibido una carta anónima en la que me piden ayuda para detener a un grupo de nigromantes que planean levantar un ejército de zombis. Debería investigar el lugar del ritual.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE003_ZombieQuestStartEncounter",
+    "form_id": "0500083D|ccbgssse003-zombies.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "Read the Necromancer's Journal",
+    "string": "Lee el diario del nigromante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE003_ZombieQuestStartEncounter",
+    "form_id": "0500083D|ccbgssse003-zombies.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I found the Necromancer's ritual site, but it's too late.  I also found a journal detailing what transpired here.  They appear to have already conjured the risen dead, possibly across all of Skyrim.  I'll need to be vigilant, especially during the late night hours.",
+    "string": "Encontré el lugar del ritual de los nigromantes, pero es demasiado tarde. También encontré un diario que detalla lo sucedido aquí. Al parecer, ya han invocado a los muertos vivientes, posiblemente por todo Skyrim. Tendré que estar alerta, especialmente durante las últimas horas de la noche.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE003_ZombieQuestStartEncounter",
+    "form_id": "0500083D|ccbgssse003-zombies.esl",
+    "index": 0,
+    "type": "QUST NNAM",
+    "original": "Read the Anonymous Letter",
+    "string": "Lee la carta anónima",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE003_ZombieQuestStartEncounter",
+    "form_id": "0500083D|ccbgssse003-zombies.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Investigate the Ritual Site",
+    "string": "Investiga el lugar del ritual",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE003_ZombieQuestStartEncounter",
+    "form_id": "0500083D|ccbgssse003-zombies.esl",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Read the Necromancer's Journal",
+    "string": "Lee el diario del nigromante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE004_Quest",
+    "form_id": "0600080C|ccbgssse004-ruinsedge.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "The Edge of Ruin",
+    "string": "El filo de la ruina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE004_Quest",
+    "form_id": "0600080C|ccbgssse004-ruinsedge.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I found a map to the location of the fabled bow, Ruin's Edge.",
+    "string": "Encontré un mapa que señala la ubicación del legendario arco Filo de la Ruina.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE004_Quest",
+    "form_id": "0600080C|ccbgssse004-ruinsedge.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've found Ruin's Edge.",
+    "string": "He encontrado el Filo de la Ruina.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE004_Quest",
+    "form_id": "0600080C|ccbgssse004-ruinsedge.esl",
+    "index": 0,
+    "type": "QUST NNAM",
+    "original": "Find Ruin's Edge",
+    "string": "Encuentra el Filo de la Ruina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE002_MageTowerQuest",
+    "form_id": "07000FF3|cceejsse002-tower.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Myrwatch",
+    "string": "Myrwatch",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE002_MageTowerQuest",
+    "form_id": "07000FF3|cceejsse002-tower.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "I've heard rumors of a mysterious tower somewhere east of Morthal. If it's abandoned, I may be able to make of use of it. When I reached the tower, I found a journal that may provide clues on how to enter it.",
+    "string": "He oído rumores sobre una misteriosa torre en algún lugar al este de Morthal. Si está abandonada, quizá pueda aprovecharla. Cuando llegué a la torre, encontré un diario que podría darme pistas sobre cómo entrar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE002_MageTowerQuest",
+    "form_id": "07000FF3|cceejsse002-tower.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've heard rumors of a mysterious tower somewhere east of Morthal. If it's abandoned, I may be able to make of use of it.",
+    "string": "He oído rumores sobre una misteriosa torre en algún lugar al este de Morthal. Si está abandonada, quizá pueda aprovecharla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE002_MageTowerQuest",
+    "form_id": "07000FF3|cceejsse002-tower.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "I've found a mysterious tower in the swamps of Hjaalmarch. However, the door to tower is locked. I should investigate the area to see if there's a way in.",
+    "string": "He encontrado una misteriosa torre en los pantanos de la Marca de Hjaal. Sin embargo, la puerta de la torre está cerrada. Debería investigar la zona para ver si hay alguna forma de entrar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE002_MageTowerQuest",
+    "form_id": "07000FF3|cceejsse002-tower.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I've found a mysterious tower in the swamps of Hjaalmarch. However, the door to tower is locked. A journal on a nearby body indicates I need to activate a stone seal to light the way.",
+    "string": "He encontrado una misteriosa torre en los pantanos de la Marca de Hjaal. Sin embargo, la puerta de la torre está cerrada. Un diario encontrado en un cadáver cercano indica que debo activar un sello de piedra para iluminar el camino.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE002_MageTowerQuest",
+    "form_id": "07000FF3|cceejsse002-tower.esl",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I've found a mysterious tower in the swamps of Hjaalmarch. However, the door to tower is locked. A journal on a nearby body indicates I need to activate a stone seal. Activating it summoned a ghostly apparition. I should follow it and see where it leads.",
+    "string": "He encontrado una misteriosa torre en los pantanos de la Marca de Hjaal. Sin embargo, la puerta de la torre está cerrada. Un diario encontrado en un cadáver cercano indica que debo activar un sello de piedra. Al activarlo, apareció una aparición fantasmal. Debería seguirla y ver adónde me lleva.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE002_MageTowerQuest",
+    "form_id": "07000FF3|cceejsse002-tower.esl",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "I've found a mysterious tower in the swamps of Hjaalmarch. However, the door to tower is locked. A journal on a nearby body indicates I need to activate a stone seal. Activating it summoned a ghostly apparition which unlocked the tower.",
+    "string": "He encontrado una misteriosa torre en los pantanos de la Marca de Hjaal. Sin embargo, la puerta de la torre está cerrada. Un diario encontrado en un cadáver cercano indica que debo activar un sello de piedra. Al activarlo, apareció una aparición fantasmal que desbloqueó la torre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE002_MageTowerQuest",
+    "form_id": "07000FF3|cceejsse002-tower.esl",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "I've found a mysterious tower in the swamps of Hjaalmarch. Activating a seal by the front door summoned a ghostly apparition which unlocked the tower.",
+    "string": "He encontrado una misteriosa torre en los pantanos de la Marca de Hjaal. Activar un sello junto a la puerta principal hizo aparecer una aparición fantasmal que desbloqueó la torre.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE002_MageTowerQuest",
+    "form_id": "07000FF3|cceejsse002-tower.esl",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "I've found a mysterious tower in the swamps of Hjaalmarch. After finding my way inside, it appears to be an elaborate home built for a powerful mage. I may be able to make use of the lodgings in my travels through Skyrim. ",
+    "string": "He encontrado una misteriosa torre en los pantanos de la Marca de Hjaal. Después de encontrar la forma de entrar, descubrí que parece ser una elaborada residencia construida para un poderoso mago. Quizá pueda aprovechar sus instalaciones durante mis viajes por Skyrim.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE002_MageTowerQuest",
+    "form_id": "07000FF3|cceejsse002-tower.esl",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Read Hans's journal",
+    "string": "Lee el diario de Hans",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE002_MageTowerQuest",
+    "form_id": "07000FF3|cceejsse002-tower.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Investigate Myrwatch",
+    "string": "Investiga Myrwatch",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE002_MageTowerQuest",
+    "form_id": "07000FF3|cceejsse002-tower.esl",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Find a way inside the tower",
+    "string": "Encuentra una forma de entrar en la torre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE002_MageTowerQuest",
+    "form_id": "07000FF3|cceejsse002-tower.esl",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Activate the seal",
+    "string": "Activa el sello",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE002_MageTowerQuest",
+    "form_id": "07000FF3|cceejsse002-tower.esl",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Follow the hare",
+    "string": "Sigue a la liebre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE002_MageTowerQuest",
+    "form_id": "07000FF3|cceejsse002-tower.esl",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Enter Myrwatch",
+    "string": "Entra en Myrwatch",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Legends Lost",
+    "string": "Leyendas perdidas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Rumors say an old refugee trunk full of letters has been uncovered in Windhelm. I should see if I can find a copy of those letters and more information on the cargo they were carrying.",
+    "string": "Los rumores dicen que se ha descubierto un viejo baúl de refugiados lleno de cartas en Ventalia. Debería intentar encontrar una copia de esas cartas y más información sobre la carga que transportaban.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "I've found one of the letters, which details the routes of both the caravans as well as decoys designed to misdirect potential thieves. According to the letter, the first caravan was headed west toward Nightgate Inn. Perhaps following its trail will lead to another clue.",
+    "string": "He encontrado una de las cartas, que detalla las rutas de las caravanas y también las de los señuelos diseñados para despistar a posibles ladrones. Según la carta, la primera caravana se dirigía al oeste, hacia la Posada de la Puerta de la Noche. Quizá seguir su rastro me lleve a otra pista.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "The first caravan was attacked by Dwarven creatures. They managed to escape but I found a copy of their logs, along with details of all the other caravans. The next carriage was headed towards Whiterun. I should see what I can find.",
+    "string": "La primera caravana fue atacada por criaturas enanas. Lograron escapar, pero encontré una copia de sus registros, junto con detalles de todas las demás caravanas. El siguiente carruaje se dirigía hacia Carrera Blanca. Debería ver qué puedo encontrar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "On the road to Whiterun I found the remnants of another sacked caravan. According to a note I found in the wreckage, the remaining caravans were set to regroup in Whiterun, and one of the guards visited the Halls of the Dead there.",
+    "string": "En el camino a Carrera Blanca encontré los restos de otra caravana saqueada. Según una nota que encontré entre los escombros, las caravanas restantes debían reagruparse en Carrera Blanca, y uno de los guardias visitó allí el Salón de los Muertos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "In response to the attacks, the caravans took a detour towards Falkreath. I'll need to follow their trail to see if they left anything behind.",
+    "string": "En respuesta a los ataques, las caravanas tomaron un desvío hacia Falkreath. Tendré que seguir su rastro para ver si dejaron algo atrás.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "The cargo the caravans were delivering appears to hold the missing Tools of Kagremac: Sunder and Wraithguard. Apparently the items were surrendered to Dwemer drones and taken to a vault in the Sightless Pit. If I'm to open the door, I need to take this attunement crystal I found and use it to unlock the vault.",
+    "string": "Al parecer, la carga que transportaban las caravanas contiene las herramientas perdidas de Kagremac: Sunder y Wraithguard. Según parece, los objetos fueron entregados a autómatas dwemer y llevados a una cámara acorazada en el Pozo Ciego. Si quiero abrir la puerta, debo tomar este cristal de sintonización que encontré y usarlo para desbloquear la cámara.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "I've unlocked the Sightless Vault. Within lies Sunder and Wraithguard.",
+    "string": "He desbloqueado la cámara del Pozo Ciego. En su interior se encuentran Sunder y Wraithguard.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "As predicted, both Tools are guarded by a powerful Dwarven Centurion. I'll have to defeat it if I'm to claim them as my own.",
+    "string": "Como predije, ambas herramientas están custodiadas por un poderoso centurión enano. Tendré que derrotarlo si quiero reclamarlas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 9,
+    "type": "QUST CNAM",
+    "original": "I've defeated the Dwarven defenses and claimed both Sunder and Wraithguard for myself.",
+    "string": "He derrotado las defensas enanas y me he quedado con Sunder y Wraithguard.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 0,
+    "type": "QUST NNAM",
+    "original": "Find the caravan's letters in Windhelm",
+    "string": "Encuentra las cartas de la caravana en Ventalia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 1,
+    "type": "QUST NNAM",
+    "original": "Follow the caravan's trail",
+    "string": "Sigue el rastro de la caravana",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 2,
+    "type": "QUST NNAM",
+    "original": "Find the second caravan",
+    "string": "Encuentra la segunda caravana",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 3,
+    "type": "QUST NNAM",
+    "original": "Find evidence of the caravans in Whiterun",
+    "string": "Encuentra pruebas de las caravanas en Carrera Blanca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 4,
+    "type": "QUST NNAM",
+    "original": "Find the detoured caravans",
+    "string": "Encuentra las caravanas que tomaron el desvío",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Enter the vault in the Sightless Pit",
+    "string": "Entra en la cámara acorazada del Pozo Ciego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 6,
+    "type": "QUST NNAM",
+    "original": "Retrieve Sunder and Wraithguard",
+    "string": "Recupera Sunder y Wraithguard",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 7,
+    "type": "QUST NNAM",
+    "original": "Defeat the Messenger",
+    "string": "Derrota al mensajero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 8,
+    "type": "QUST NNAM",
+    "original": "Retrieve the Attunement Crystal",
+    "string": "Recupera el cristal de sintonización",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 9,
+    "type": "QUST NNAM",
+    "original": "Restore steam in the left valve system",
+    "string": "Restablece el vapor en el sistema de válvulas izquierdo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Restore steam in the right valve system",
+    "string": "Restablece el vapor en el sistema de válvulas derecho",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 11,
+    "type": "QUST NNAM",
+    "original": "Find a way to open the vault gates",
+    "string": "Encuentra una forma de abrir las puertas de la cámara acorazada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 12,
+    "type": "QUST NNAM",
+    "original": "Read the Carriage Driver's Note",
+    "string": "Lee la nota del conductor del carruaje",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 13,
+    "type": "QUST NNAM",
+    "original": "Read the Seedy Guard's Note",
+    "string": "Lee la nota del guardia sospechoso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE008_Quest",
+    "form_id": "08000AB0|ccbgssse008-wraithguard.esl",
+    "index": 14,
+    "type": "QUST NNAM",
+    "original": "Read Velyne's Letter",
+    "string": "Lee la carta de Velyne",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Battle of the Champions",
+    "string": "Batalla de campeones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "A civil war rages on between the Stormcloaks and Imperials, with Whiterun at the center. Having joined with the Stormcloaks, I should head to a major hold in case a courier has news for me.",
+    "string": "Una guerra civil hace estragos entre los Capas de la Tormenta y los imperiales, con Carrera Blanca en el centro del conflicto. Como me he unido a los Capas de la Tormenta, debería dirigirme a una ciudad importante por si algún mensajero tiene noticias para mí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "A civil war rages on between the Stormcloaks and Imperials, with Whiterun at the center. Having joined with the Imperials, I should head to a major hold in case a courier has news for me.",
+    "string": "Una guerra civil hace estragos entre los Capas de la Tormenta y los imperiales, con Carrera Blanca en el centro del conflicto. Como me he unido a los imperiales, debería dirigirme a una ciudad importante por si algún mensajero tiene noticias para mí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "A civil war rages on between the Stormcloaks and Imperials, with Whiterun at the center. I should investigate the taverns there and see what I can learn about the current state of the war.",
+    "string": "Una guerra civil hace estragos entre los Capas de la Tormenta y los imperiales, con Carrera Blanca en el centro del conflicto. Debería investigar las tabernas de allí y ver qué puedo averiguar sobre el estado actual de la guerra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "According to a letter I found in Whiterun, the Stormcloaks and Imperials are engaging in a battle of champions. Rumor has it that Yrsarald Thrice-Pierced has asked any potential champion to prove their worth by slaying five snow bears and handing him their pelts. Alternatively, I could try posing as a soldier and speaking to Legate Adventus Caesennius in Solitude.",
+    "string": "Según una carta que encontré en Carrera Blanca, los Capas de la Tormenta y los imperiales están participando en una batalla de campeones. Se rumorea que Yrsarald Tres Veces Perforado ha pedido a cualquier posible campeón que demuestre su valía matando cinco osos de las nieves y entregándole sus pieles. Como alternativa, podría intentar hacerme pasar por un soldado y hablar con el legado Adventus Caesennius en Soledad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "A civil war rages on between the Stormcloaks and Imperials, with Whiterun at the center. Having taken a side, I should speak with my commanding officer to see if I can fight as a champion.",
+    "string": "Una guerra civil hace estragos entre los Capas de la Tormenta y los imperiales, con Carrera Blanca en el centro del conflicto. Después de haber elegido un bando, debería hablar con mi oficial al mando para ver si puedo luchar como campeón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "According to a letter I found in Whiterun, the Stormcloaks and Imperials are engaging in a battle of champions. Rumor has it that Yrsarald Thrice-Pierced has asked any potential champion to prove their worth by slaying five snow bears and handing him their pelts. Alternatively, I could try posing as a soldier and speaking to Legate Adventus Caesennius in Solitude.",
+    "string": "Según una carta que encontré en Carrera Blanca, los Capas de la Tormenta y los imperiales están participando en una batalla de campeones. Se rumorea que Yrsarald Tres Veces Perforado ha pedido a cualquier posible campeón que demuestre su valía matando cinco osos de las nieves y entregándole sus pieles. Como alternativa, podría intentar hacerme pasar por un soldado y hablar con el legado Adventus Caesennius en Soledad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "According to a letter I found in Whiterun, the Stormcloaks and Imperials are engaging in a battle of champions. Rumor has it that Yrsarald Thrice-Pierced has asked any potential champion to prove their worth by slaying five snow bears and handing him their pelts. I've taken the pelts I need from a warrior named Klija Wolf-Claw in Kynesgrove.",
+    "string": "Según una carta que encontré en Carrera Blanca, los Capas de la Tormenta y los imperiales están participando en una batalla de campeones. Se rumorea que Yrsarald Tres Veces Perforado ha pedido a cualquier posible campeón que demuestre su valía matando cinco osos de las nieves y entregándole sus pieles. He conseguido las pieles que necesito de una guerrera llamada Klija Garra de Lobo en Arboleda de Kynes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "The Imperials have chosen me to fight in a battle of champions. As such, I've received a key from Legate Adventus Caesennius in Solitude. It will open a chest in Castle Dour that holds the champion's armor and a map of the batlle location.",
+    "string": "Los imperiales me han elegido para luchar en una batalla de campeones. Por ello, he recibido una llave del legado Adventus Caesennius en Soledad. Abrirá un cofre en el Castillo Severo que contiene la armadura del campeón y un mapa con la ubicación de la batalla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 9,
+    "type": "QUST CNAM",
+    "original": "A civil war rages on between the Stormcloaks and Imperials, with Whiterun at the center. Knowing I have sided with the Stormcloaks, Yrsarald Thrice-Pierced has sent me a letter. He may be in need of my services.",
+    "string": "Una guerra civil hace estragos entre los Capas de la Tormenta y los imperiales, con Carrera Blanca en el centro del conflicto. Sabiendo que me he unido a los Capas de la Tormenta, Yrsarald Tres Veces Perforado me ha enviado una carta. Es posible que necesite mis servicios.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 10,
+    "type": "QUST CNAM",
+    "original": "I've received a letter from Yrsarald Thrice-Pierced. He asks that I serve as a champion in a duel against an Imperial garrison, and has promised me an armor to wear in the battle. ",
+    "string": "He recibido una carta de Yrsarald Tres Veces Perforado. Me pide que sirva como campeón en un duelo contra una guarnición imperial y me ha prometido una armadura para llevar durante la batalla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 11,
+    "type": "QUST CNAM",
+    "original": "I've received a letter from Yrsarald Thrice-Pierced. He asks that I serve as a champion in a duel against an Imperial garrison, and has given me a key to a chest with a powerful armor set. I should retrieve the armor and map with the location of the battle.",
+    "string": "He recibido una carta de Yrsarald Tres Veces Perforado. Me pide que sirva como campeón en un duelo contra una guarnición imperial y me ha entregado una llave de un cofre que contiene un poderoso conjunto de armadura. Debería recuperar la armadura y el mapa con la ubicación de la batalla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 12,
+    "type": "QUST CNAM",
+    "original": "The Stormcloaks have chosen me to fight in a battle of champions. Using a key I received from Yrsarald Thrice-Pierced, I opened a chest that holds the champion's armor and a map of the battle location.",
+    "string": "Los Capas de la Tormenta me han elegido para luchar en una batalla de campeones. Usando una llave que recibí de Yrsarald Tres Veces Perforado, abrí un cofre que contiene la armadura del campeón y un mapa con la ubicación de la batalla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 13,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I've arrived at the site of the battle. ",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, he llegado al lugar de la batalla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 14,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I've arrived at the site of the battle. After confronting the opposing champion, it's time to fight.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, he llegado al lugar de la batalla. Después de enfrentarme al campeón enemigo, ha llegado el momento de luchar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 15,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I've arrived at the site of the battle. After confronting the opposing champion, it's time to fight.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, he llegado al lugar de la batalla. Después de enfrentarme al campeón enemigo, ha llegado el momento de luchar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 16,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I've arrived at the site of the battle. After confronting the opposing champion, it's time to fight.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, he llegado al lugar de la batalla. Después de enfrentarme al campeón enemigo, ha llegado el momento de luchar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 17,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I've arrived at the site of the battle. After confronting the opposing champion, it's time to fight.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, he llegado al lugar de la batalla. Después de enfrentarme al campeón enemigo, ha llegado el momento de luchar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 18,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I've arrived at the site of the battle. After confronting the opposing champion, it's time to fight.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, he llegado al lugar de la batalla. Después de enfrentarme al campeón enemigo, ha llegado el momento de luchar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 19,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I've arrived at the site of the battle. After confronting the opposing champion, it's time to fight.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, he llegado al lugar de la batalla. Después de enfrentarme al campeón enemigo, ha llegado el momento de luchar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 20,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I've arrived at the site of the battle. After confronting the opposing champion, it's time to fight.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, he llegado al lugar de la batalla. Después de enfrentarme al campeón enemigo, ha llegado el momento de luchar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 21,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I've arrived at the site of the battle. After confronting the opposing champion, it's time to fight.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, he llegado al lugar de la batalla. Después de enfrentarme al campeón enemigo, ha llegado el momento de luchar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 22,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I arrived at the site of the battle and defeated the opposing champion.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, llegué al lugar de la batalla y derroté al campeón enemigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 23,
+    "type": "QUST CNAM",
+    "original": "A civil war rages on between the Stormcloaks and Imperials, with Whiterun at the center. Knowing I have sided with the Imperials, Legate Adventus Caesennius has sent me a letter. He may be in need of my services.",
+    "string": "Una guerra civil hace estragos entre los Capas de la Tormenta y los imperiales, con Carrera Blanca en el centro del conflicto. Sabiendo que me he unido a los imperiales, el legado Adventus Caesennius me ha enviado una carta. Es posible que necesite mis servicios.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 24,
+    "type": "QUST CNAM",
+    "original": "I've received a letter from Legate Adventus Caesennius. He asks that I serve as a champion in a duel against a Stormcloak garrison, and has promised me an armor to wear in the battle.",
+    "string": "He recibido una carta del legado Adventus Caesennius. Me pide que sirva como campeón en un duelo contra una guarnición de los Capas de la Tormenta y me ha prometido una armadura para llevar durante la batalla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 25,
+    "type": "QUST CNAM",
+    "original": "The Imperials have chosen me to fight in a battle of champions. As such, I've received a key from Legate Adventus Caesennius in Solitude. It will open a chest in Castle Dour that holds the champion's armor and a map of the batlle location.",
+    "string": "Los imperiales me han elegido para luchar en una batalla de campeones. Por ello, he recibido una llave del legado Adventus Caesennius en Soledad. Abrirá un cofre en el Castillo Severo que contiene la armadura del campeón y un mapa con la ubicación de la batalla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 26,
+    "type": "QUST CNAM",
+    "original": "The Imperials have chosen me to fight in a battle of champions. Using a key I received from Legate Adventus Caesennius, I opened a chest that holds the champion's armor and a map of the battle location.",
+    "string": "Los imperiales me han elegido para luchar en una batalla de campeones. Usando una llave que recibí del legado Adventus Caesennius, abrí un cofre que contiene la armadura del campeón y un mapa con la ubicación de la batalla.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 27,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I've arrived at the site of the battle. After confronting the opposing champion, it's time to fight.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, he llegado al lugar de la batalla. Después de enfrentarme al campeón enemigo, ha llegado el momento de luchar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 28,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I've arrived at the site of the battle. After confronting the opposing champion, it's time to fight.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, he llegado al lugar de la batalla. Después de enfrentarme al campeón enemigo, ha llegado el momento de luchar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 29,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I've arrived at the site of the battle. After confronting the opposing champion, it's time to fight.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, he llegado al lugar de la batalla. Después de enfrentarme al campeón enemigo, ha llegado el momento de luchar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 30,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I've arrived at the site of the battle. After confronting the opposing champion, it's time to fight.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, he llegado al lugar de la batalla. Después de enfrentarme al campeón enemigo, ha llegado el momento de luchar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 31,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I've arrived at the site of the battle. After confronting the opposing champion, it's time to fight.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, he llegado al lugar de la batalla. Después de enfrentarme al campeón enemigo, ha llegado el momento de luchar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 32,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I've arrived at the site of the battle. After confronting the opposing champion, it's time to fight.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, he llegado al lugar de la batalla. Después de enfrentarme al campeón enemigo, ha llegado el momento de luchar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 33,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I've arrived at the site of the battle. After confronting the opposing champion, it's time to fight.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, he llegado al lugar de la batalla. Después de enfrentarme al campeón enemigo, ha llegado el momento de luchar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 34,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I've arrived at the site of the battle. After confronting the opposing champion, it's time to fight.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, he llegado al lugar de la batalla. Después de enfrentarme al campeón enemigo, ha llegado el momento de luchar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 35,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I've arrived at the site of the battle. After confronting the opposing champion, it's time to fight.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, he llegado al lugar de la batalla. Después de enfrentarme al campeón enemigo, ha llegado el momento de luchar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 36,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I arrived at the site of the battle and defeated the opposing champion.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, llegué al lugar de la batalla y derroté al campeón enemigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 37,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I arrived at the site of the battle and defeated the opposing champion. As a reward, I received a set of Storm-Bear armor from Legate Adventus Caesennius.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, llegué al lugar de la batalla y derroté al campeón enemigo. Como recompensa, recibí un conjunto de armadura del Oso de la Tormenta del legado Adventus Caesennius.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 38,
+    "type": "QUST CNAM",
+    "original": "I have been chosen to fight in a battle of champions. Using a map I received from my commanding officer, I arrived at the site of the battle and defeated the opposing champion. As a reward, I received a set of Imperial Dragon Armor from the Legate.",
+    "string": "Me han elegido para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, llegué al lugar de la batalla y derroté al campeón enemigo. Como recompensa, recibí un conjunto de armadura del Dragón Imperial del legado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 39,
+    "type": "QUST CNAM",
+    "original": "I was chosen to fight in a battle of champions. Using a map I received from my commanding officer, I arrived at the site of the battle and defeated the opposing champion.",
+    "string": "Me eligieron para luchar en una batalla de campeones. Usando un mapa que recibí de mi oficial al mando, llegué al lugar de la batalla y derroté al campeón enemigo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 1,
+    "type": "QUST NNAM",
+    "original": "Head to a major hold and await news from a courier",
+    "string": "Dirígete a una ciudad importante y espera noticias de un mensajero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 2,
+    "type": "QUST NNAM",
+    "original": "Read the letter",
+    "string": "Lee la carta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Investigate the Drunken Huntsman for information",
+    "string": "Investiga el Cazador Ebrio en busca de información",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Pose as an Imperial soldier and speak to the Legate",
+    "string": "Hazte pasar por un soldado imperial y habla con el legado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Deliver five snow bear pelts to Yrsarald in Windhelm",
+    "string": "Entrega cinco pieles de oso de las nieves a Yrsarald en Ventalia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "(Optional) Steal the snow bear pelts from Klija in Kynesgrove",
+    "string": "(Opcional) Roba las pieles de oso de las nieves a Klija en Arboleda de Kynes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "(Optional) Persuade the Legate to make you his champion",
+    "string": "(Opcional) Persuade al legado para que te elija como su campeón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 120,
+    "type": "QUST NNAM",
+    "original": "Meet with your commanding officer",
+    "string": "Reúnete con tu oficial al mando",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 130,
+    "type": "QUST NNAM",
+    "original": "Retrieve the Storm-Bear Armor and map",
+    "string": "Recupera la armadura del Oso de la Tormenta y el mapa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 140,
+    "type": "QUST NNAM",
+    "original": "Join the Stormcloak garrison at the battle site",
+    "string": "Únete a la guarnición de los Capas de la Tormenta en el lugar de la batalla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 144,
+    "type": "QUST NNAM",
+    "original": "Speak with the Imperial Champion",
+    "string": "Habla con el campeón imperial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 160,
+    "type": "QUST NNAM",
+    "original": "Defeat the Imperial soldiers",
+    "string": "Derrota a los soldados imperiales",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 220,
+    "type": "QUST NNAM",
+    "original": "Meet with your commanding officer",
+    "string": "Reúnete con tu oficial al mando",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 230,
+    "type": "QUST NNAM",
+    "original": "Retrieve the Imperial Dragon Armor and map",
+    "string": "Recupera la armadura del Dragón Imperial y el mapa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 240,
+    "type": "QUST NNAM",
+    "original": "Join the Imperial garrison at the battle site",
+    "string": "Únete a la guarnición imperial en el lugar de la batalla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 244,
+    "type": "QUST NNAM",
+    "original": "Speak with the Stormcloak Champion",
+    "string": "Habla con el campeón de los Capas de la Tormenta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 260,
+    "type": "QUST NNAM",
+    "original": "Defeat the Stormcloak soldiers",
+    "string": "Derrota a los soldados de los Capas de la Tormenta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccFFBSSE001_Quest",
+    "form_id": "09000927|ccffbsse001-imperialdragon.esl",
+    "index": 1120,
+    "type": "QUST NNAM",
+    "original": "Meet with your commanding officer",
+    "string": "Reúnete con tu oficial al mando",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE004_Quest",
+    "form_id": "0C000C4F|cceejsse004-hall.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Hendraheim",
+    "string": "Hendraheim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE004_Quest",
+    "form_id": "0C000C4F|cceejsse004-hall.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "Couriers often deliver notices to travelers across Skyrim. If I head to a major hold, perhaps I will receive information that may concern me.",
+    "string": "Los mensajeros suelen entregar avisos a los viajeros por todo Skyrim. Si me dirijo a una ciudad importante, quizá reciba información que pueda interesarme.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE004_Quest",
+    "form_id": "0C000C4F|cceejsse004-hall.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "Couriers often deliver notices to travelers across Skyrim. If I head to a major hold, perhaps I will receive information that may concern me.",
+    "string": "Los mensajeros suelen entregar avisos a los viajeros por todo Skyrim. Si me dirijo a una ciudad importante, quizá reciba información que pueda interesarme.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE004_Quest",
+    "form_id": "0C000C4F|cceejsse004-hall.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "Couriers often deliver notices to travelers across Skyrim. I received one such letter and should read it to find out more.",
+    "string": "Los mensajeros suelen entregar avisos a los viajeros por todo Skyrim. Recibí una de esas cartas y debería leerla para averiguar más.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE004_Quest",
+    "form_id": "0C000C4F|cceejsse004-hall.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "I received a letter regarding a warrior home nestled in the mountains north of Bilegulch Mine. The owner seems interested in bequeathing the home to me, but has first asked that I prove my worthiness in battle.",
+    "string": "Recibí una carta sobre una casa de guerrero situada en las montañas al norte de la Mina de Bilegulch. La propietaria parece interesada en legarme la casa, pero primero me ha pedido que demuestre mi valía en combate.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE004_Quest",
+    "form_id": "0C000C4F|cceejsse004-hall.esl",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "I received a letter regarding a warrior home nestled in the mountains north of Bilegulch Mine. I defeated the owner in single combat, and should now search her body for a key.",
+    "string": "Recibí una carta sobre una casa de guerrero situada en las montañas al norte de la Mina de Bilegulch. Derroté a la propietaria en un combate singular y ahora debería registrar su cuerpo en busca de una llave.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE004_Quest",
+    "form_id": "0C000C4F|cceejsse004-hall.esl",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "I received a letter regarding a warrior home nestled in the mountains north of Bilegulch Mine. I defeated the owner in single combat and took the key to the house.",
+    "string": "Recibí una carta sobre una casa de guerrero situada en las montañas al norte de la Mina de Bilegulch. Derroté a la propietaria en un combate singular y tomé la llave de la casa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE004_Quest",
+    "form_id": "0C000C4F|cceejsse004-hall.esl",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "I received a letter regarding Hendraheim, a warrior home nestled in the mountains north of Bilegulch Mine. After defeating the owner in single combat, I took the key to the house and claimed it for myself.",
+    "string": "Recibí una carta sobre Hendraheim, una casa de guerrero situada en las montañas al norte de la Mina de Bilegulch. Tras derrotar a la propietaria en un combate singular, tomé la llave de la casa y la reclamé como propia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE004_Quest",
+    "form_id": "0C000C4F|cceejsse004-hall.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Await news from a courier",
+    "string": "Espera noticias de un mensajero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE004_Quest",
+    "form_id": "0C000C4F|cceejsse004-hall.esl",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Read the Warrior's Challenge",
+    "string": "Lee el desafío de la guerrera",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE004_Quest",
+    "form_id": "0C000C4F|cceejsse004-hall.esl",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Speak to the warrior at Hendraheim",
+    "string": "Habla con la guerrera en Hendraheim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE004_Quest",
+    "form_id": "0C000C4F|cceejsse004-hall.esl",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Defeat the warrior",
+    "string": "Derrota a la guerrera",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE004_Quest",
+    "form_id": "0C000C4F|cceejsse004-hall.esl",
+    "index": 50,
+    "type": "QUST NNAM",
+    "original": "Take the key to Hendraheim",
+    "string": "Toma la llave de Hendraheim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccEEJSSE004_Quest",
+    "form_id": "0C000C4F|cceejsse004-hall.esl",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Enter Hendraheim",
+    "string": "Entra en Hendraheim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "A Dying Wish",
+    "string": "Un último deseo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "QUST CNAM",
+    "original": "In my travels, I've heard strange tales about hagravens performing rituals near Falkreath. I should head to the inn there and see what information I can turn up.",
+    "string": "Durante mis viajes he oído historias extrañas sobre arpías que realizan rituales cerca de Falkreath. Debería dirigirme a la posada de allí y ver qué información puedo conseguir.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 2,
+    "type": "QUST CNAM",
+    "original": "In my travels, I've heard strange tales about hagravens performing rituals near Falkreath. At the inn I found a journal that detailed the existence of a mysterious altar that grants one of three wishes.",
+    "string": "Durante mis viajes he oído historias extrañas sobre arpías que realizan rituales cerca de Falkreath. En la posada encontré un diario que detallaba la existencia de un altar misterioso que concede uno de tres deseos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 3,
+    "type": "QUST CNAM",
+    "original": "In my travels, I've heard strange tales about hagravens performing rituals near Falkreath. At the Roadside Ruins I found a mysterious altar, with a cup placed in front. It seems I can fill one of the altar bowls with the cup's contents to make my wish.",
+    "string": "Durante mis viajes he oído historias extrañas sobre arpías que realizan rituales cerca de Falkreath. En las Ruinas del Camino encontré un altar misterioso con una copa colocada delante. Parece que puedo llenar uno de los cuencos del altar con el contenido de la copa para pedir mi deseo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 4,
+    "type": "QUST CNAM",
+    "original": "In my travels, I've heard strange tales about hagravens performing rituals near Falkreath. At the Roadside Ruins I found a mysterious altar, with a cup placed in front. I filled the bowl that promised me nothing, and some time later I received a letter from a courier.",
+    "string": "Durante mis viajes he oído historias extrañas sobre arpías que realizan rituales cerca de Falkreath. En las Ruinas del Camino encontré un altar misterioso con una copa colocada delante. Llené el cuenco que prometía no concederme nada y, algún tiempo después, recibí una carta de un mensajero.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 5,
+    "type": "QUST CNAM",
+    "original": "In my travels, I've heard strange tales about hagravens performing rituals near Falkreath. At the Roadside Ruins I found a mysterious altar, with a cup placed in front. I filled the bowl that promised me power, and must sleep for a single night to have my wish granted.",
+    "string": "Durante mis viajes he oído historias extrañas sobre arpías que realizan rituales cerca de Falkreath. En las Ruinas del Camino encontré un altar misterioso con una copa colocada delante. Llené el cuenco que me prometía poder y debo dormir una noche para que se conceda mi deseo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 6,
+    "type": "QUST CNAM",
+    "original": "In my travels, I've heard strange tales about hagravens performing rituals near Falkreath. At the Roadside Ruins I found a mysterious altar, with a cup placed in front. I filled the bowl that promised me fortune, and must sleep for a single night to have my wish granted.",
+    "string": "Durante mis viajes he oído historias extrañas sobre arpías que realizan rituales cerca de Falkreath. En las Ruinas del Camino encontré un altar misterioso con una copa colocada delante. Llené el cuenco que me prometía fortuna y debo dormir una noche para que se conceda mi deseo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 7,
+    "type": "QUST CNAM",
+    "original": "In my travels, I've heard strange tales about hagravens performing rituals near Falkreath. At the Roadside Ruins I found a mysterious altar, with a cup placed in front. I filled the bowl that promised me nothing, and now must wait for my boon.",
+    "string": "Durante mis viajes he oído historias extrañas sobre arpías que realizan rituales cerca de Falkreath. En las Ruinas del Camino encontré un altar misterioso con una copa colocada delante. Llené el cuenco que prometía no concederme nada y ahora debo esperar mi recompensa.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 8,
+    "type": "QUST CNAM",
+    "original": "In my travels, I've heard strange tales about hagravens performing rituals near Falkreath. At the Roadside Ruins I found a mysterious altar, with a cup placed in front. I filled the bowl that promised me power, and my wish was granted when I awoke in a dungeon.",
+    "string": "Durante mis viajes he oído historias extrañas sobre arpías que realizan rituales cerca de Falkreath. En las Ruinas del Camino encontré un altar misterioso con una copa colocada delante. Llené el cuenco que me prometía poder y mi deseo se concedió cuando desperté en una mazmorra.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 9,
+    "type": "QUST CNAM",
+    "original": "In my travels, I've heard strange tales about hagravens performing rituals near Falkreath. At the Roadside Ruins I found a mysterious altar, with a cup placed in front. I filled the bowl that promised me fortune, and my wish was granted in the form of a job.",
+    "string": "Durante mis viajes he oído historias extrañas sobre arpías que realizan rituales cerca de Falkreath. En las Ruinas del Camino encontré un altar misterioso con una copa colocada delante. Llené el cuenco que me prometía fortuna y mi deseo se concedió en forma de un trabajo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 10,
+    "type": "QUST CNAM",
+    "original": "In my travels, I've heard strange tales about hagravens performing rituals near Falkreath. At the Roadside Ruins I found a mysterious altar, with a cup placed in front. I filled the bowl that promised me nothing, and left the ruins.  Later I received a letter from a courier, asking for help finding a rare ingredient. I should ask a ferryman if they know how to reach Giant's Tooth.",
+    "string": "Durante mis viajes he oído historias extrañas sobre arpías que realizan rituales cerca de Falkreath. En las Ruinas del Camino encontré un altar misterioso con una copa colocada delante. Llené el cuenco que prometía no concederme nada y abandoné las ruinas. Más tarde recibí una carta de un mensajero que me pedía ayuda para encontrar un ingrediente poco común. Debería preguntar a algún barquero si sabe cómo llegar al Diente del Gigante.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 11,
+    "type": "QUST CNAM",
+    "original": "In my travels, I've heard strange tales about hagravens performing rituals near Falkreath. At the Roadside Ruins I found a mysterious altar, with a cup placed in front. I filled the bowl that promised me nothing, and received a note from the Temple of Kynareth. I used the information on the note to travel to an island full of mammoth bones.",
+    "string": "Durante mis viajes he oído historias extrañas sobre arpías que realizan rituales cerca de Falkreath. En las Ruinas del Camino encontré un altar misterioso con una copa colocada delante. Llené el cuenco que prometía no concederme nada y recibí una nota del Templo de Kynareth. Usé la información de la nota para viajar a una isla llena de huesos de mamut.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 12,
+    "type": "QUST CNAM",
+    "original": "At the Roadside Ruins I found a mysterious altar, with a cup placed in front. I filled the bowl that promised me nothing, and received a note from the Temple of Kynareth. I used the information on the note to travel to an island full of mammoth bones, where I found a rare Ironwood Fruit inside a cave.",
+    "string": "En las Ruinas del Camino encontré un altar misterioso con una copa colocada delante. Llené el cuenco que prometía no concederme nada y recibí una nota del Templo de Kynareth. Usé la información de la nota para viajar a una isla llena de huesos de mamut, donde encontré una rara fruta de palo de hierro dentro de una cueva.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 13,
+    "type": "QUST CNAM",
+    "original": "At the Roadside Ruins I found a mysterious altar, with a cup placed in front. I filled the bowl that promised me nothing, and received a note from the Temple of Kynareth. I used the information on the note to travel to an island full of mammoth bones, where I found a rare Ironwood Fruit inside a cave. I should craft the Ironwood soup and return to the Temple of Kynareth to save the sick man.",
+    "string": "En las Ruinas del Camino encontré un altar misterioso con una copa colocada delante. Llené el cuenco que prometía no concederme nada y recibí una nota del Templo de Kynareth. Usé la información de la nota para viajar a una isla llena de huesos de mamut, donde encontré una rara fruta de palo de hierro dentro de una cueva. Debería preparar la sopa de palo de hierro y regresar al Templo de Kynareth para salvar al hombre enfermo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 14,
+    "type": "QUST CNAM",
+    "original": "At the Roadside Ruins I found a mysterious altar, with a cup placed in front. I filled the bowl that promised me nothing, and received a note from the Temple of Kynareth. I used the information on the note to travel to an island full of mammoth bones, where I found a rare Ironwood Fruit inside a cave. I should craft the Ironwood soup and return to the Temple of Kynareth to save the sick man.",
+    "string": "En las Ruinas del Camino encontré un altar misterioso con una copa colocada delante. Llené el cuenco que prometía no concederme nada y recibí una nota del Templo de Kynareth. Usé la información de la nota para viajar a una isla llena de huesos de mamut, donde encontré una rara fruta de palo de hierro dentro de una cueva. Debería preparar la sopa de palo de hierro y regresar al Templo de Kynareth para salvar al hombre enfermo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 15,
+    "type": "QUST CNAM",
+    "original": "At the Roadside Ruins I found a mysterious altar, with a cup placed in front. I filled the bowl that promised me nothing, and received a note from the Temple of Kynareth. I used the information on the note to travel to an island full of mammoth bones, where I found a rare Ironwood Fruit inside a cave. I should craft the Ironwood soup and return to the Temple of Kynareth to save the sick man.",
+    "string": "En las Ruinas del Camino encontré un altar misterioso con una copa colocada delante. Llené el cuenco que prometía no concederme nada y recibí una nota del Templo de Kynareth. Usé la información de la nota para viajar a una isla llena de huesos de mamut, donde encontré una rara fruta de palo de hierro dentro de una cueva. Debería preparar la sopa de palo de hierro y regresar al Templo de Kynareth para salvar al hombre enfermo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 16,
+    "type": "QUST CNAM",
+    "original": "At the Roadside Ruins I found a mysterious altar, with a cup placed in front. I filled the bowl that promised me nothing, and received a note from the Temple of Kynareth. I used the information on the note to travel to an island full of mammoth bones, where I found a rare Ironwood Fruit inside a cave. I used it to craft a bowl of Ironwood soup and can now deliver it to a temple priestess.",
+    "string": "En las Ruinas del Camino encontré un altar misterioso con una copa colocada delante. Llené el cuenco que prometía no concederme nada y recibí una nota del Templo de Kynareth. Usé la información de la nota para viajar a una isla llena de huesos de mamut, donde encontré una rara fruta de palo de hierro dentro de una cueva. La usé para preparar un cuenco de sopa de palo de hierro y ahora puedo entregárselo a una sacerdotisa del templo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 17,
+    "type": "QUST CNAM",
+    "original": "At the Roadside Ruins I found a mysterious altar, with a cup placed in front. I filled the bowl that promised me nothing, and received a note from the Temple of Kynareth. I used the information on the note to travel to an island full of mammoth bones, where I found a rare Ironwood Fruit inside a cave. I used it to craft a bowl of Ironwood soup and delivered it to a priestess. I must now wait an entire day for the cure to take effect.",
+    "string": "En las Ruinas del Camino encontré un altar misterioso con una copa colocada delante. Llené el cuenco que prometía no concederme nada y recibí una nota del Templo de Kynareth. Usé la información de la nota para viajar a una isla llena de huesos de mamut, donde encontré una rara fruta de palo de hierro dentro de una cueva. La usé para preparar un cuenco de sopa de palo de hierro y se lo entregué a una sacerdotisa. Ahora debo esperar un día entero para que la cura haga efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 18,
+    "type": "QUST CNAM",
+    "original": "At the Roadside Ruins I found a mysterious altar, with a cup placed in front. I filled the bowl that promised me nothing, and received a note from the Temple of Kynareth. I used the information on the note to travel to an island full of mammoth bones, where I found a rare Ironwood Fruit inside a cave. I used it to craft a bowl of Ironwood soup and delivered it to a priestess. I should check on the man at the temple to see if it has taken effect.",
+    "string": "En las Ruinas del Camino encontré un altar misterioso con una copa colocada delante. Llené el cuenco que prometía no concederme nada y recibí una nota del Templo de Kynareth. Usé la información de la nota para viajar a una isla llena de huesos de mamut, donde encontré una rara fruta de palo de hierro dentro de una cueva. La usé para preparar un cuenco de sopa de palo de hierro y se lo entregué a una sacerdotisa. Debería comprobar cómo está el hombre en el templo para ver si ha surtido efecto.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 19,
+    "type": "QUST CNAM",
+    "original": "At the Roadside Ruins I found a mysterious altar, with a cup placed in front. I filled the bowl that promised me nothing, and received a note from the Temple of Kynareth. I used the information on the note to travel to an island full of mammoth bones, where I found a rare Ironwood Fruit inside a cave. I used it to craft a bowl of Ironwood soup and delivered it to a priestess, who used it to save the man in question.",
+    "string": "En las Ruinas del Camino encontré un altar misterioso con una copa colocada delante. Llené el cuenco que prometía no concederme nada y recibí una nota del Templo de Kynareth. Usé la información de la nota para viajar a una isla llena de huesos de mamut, donde encontré una rara fruta de palo de hierro dentro de una cueva. La usé para preparar un cuenco de sopa de palo de hierro y se lo entregué a una sacerdotisa, quien la utilizó para salvar al hombre en cuestión.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 1,
+    "type": "QUST NNAM",
+    "original": "Find information at Dead Man's Drink",
+    "string": "Busca información en la Bebida del Hombre Muerto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 2,
+    "type": "QUST NNAM",
+    "original": "Travel to the Roadside Ruins",
+    "string": "Viaja a las Ruinas del Camino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 5,
+    "type": "QUST NNAM",
+    "original": "Choose a bowl at the altar",
+    "string": "Elige un cuenco en el altar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 8,
+    "type": "QUST NNAM",
+    "original": "Read the Note from the Temple of Kynareth",
+    "string": "Lee la nota del Templo de Kynareth",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Wait for your wish to be granted",
+    "string": "Espera a que se conceda tu deseo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Return to town",
+    "string": "Regresa al pueblo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 55,
+    "type": "QUST NNAM",
+    "original": "Read the Fisherman's Journal",
+    "string": "Lee el diario del pescador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 60,
+    "type": "QUST NNAM",
+    "original": "Find a ferryman who will take you to Giant's Tooth",
+    "string": "Encuentra un barquero que te lleve al Diente del Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 61,
+    "type": "QUST NNAM",
+    "original": "Board the ferryman's boat",
+    "string": "Sube a la barca del barquero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 70,
+    "type": "QUST NNAM",
+    "original": "Investigate the cave",
+    "string": "Investiga la cueva",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 71,
+    "type": "QUST NNAM",
+    "original": "Investigate the camp",
+    "string": "Investiga el campamento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 75,
+    "type": "QUST NNAM",
+    "original": "Investigate the area around Giant's Tooth",
+    "string": "Investiga los alrededores del Diente del Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 80,
+    "type": "QUST NNAM",
+    "original": "Return to the mainland with the ingredient",
+    "string": "Regresa a tierra firme con el ingrediente",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 90,
+    "type": "QUST NNAM",
+    "original": "Ask an alchemist about the Ironwood Fruit",
+    "string": "Pregunta a un alquimista por la fruta de palo de hierro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 100,
+    "type": "QUST NNAM",
+    "original": "Read the Note from the Temple of Kynareth",
+    "string": "Lee la nota del Templo de Kynareth",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 105,
+    "type": "QUST NNAM",
+    "original": "Craft the Ironwood Soup at a cooking station",
+    "string": "Prepara la sopa de palo de hierro en una estación de cocina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 110,
+    "type": "QUST NNAM",
+    "original": "Give the Ironwood Soup to the temple priestess",
+    "string": "Entrégale la sopa de palo de hierro a la sacerdotisa del templo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 150,
+    "type": "QUST NNAM",
+    "original": "Wait an entire day for Rulnik to heal",
+    "string": "Espera un día entero a que Rulnik se recupere",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccKRTSSE001_zQuest",
+    "form_id": "0E000D63|cckrtsse001_altar.esl",
+    "index": 170,
+    "type": "QUST NNAM",
+    "original": "Check on Rulnik",
+    "string": "Comprueba cómo está Rulnik",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "editor_id": "FollowerStats_DialogCatcherCloak",
+    "form_id": "01000001|Follower Stats.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Get Actor in dialog with player",
+    "string": "Obtener actor en dialogo con el jugador  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FollowerStats_DialogCatcherHitEffect",
+    "form_id": "01000002|Follower Stats.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Player Dialog Target Catcher",
+    "string": "Receptor de objetivo de dialogo del jugador",
+    "status": "TranslationComplete"
+  }
+]

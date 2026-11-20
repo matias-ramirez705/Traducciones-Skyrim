@@ -1,0 +1,209 @@
+[
+  {
+    "editor_id": "_PerkDoorBolt",
+    "form_id": "01000867|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "PerkDoorBolt",
+    "string": "Cerrojo de Puerta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkPazzlePillar",
+    "form_id": "01000868|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "PerkPazzlePillar",
+    "string": "Pilar de Acertijo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PullChain",
+    "form_id": "01000869|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "PullChain",
+    "string": "Tira de Cadena",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PullBar",
+    "form_id": "0100086A|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "PullBar",
+    "string": "Tira de Barra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkTrapTrigger",
+    "form_id": "0100086B|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "PerkTrapTrigger",
+    "string": "Disparador de Trampa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkCritters",
+    "form_id": "0100086C|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "PerkCritters",
+    "string": "Criaturas Pequenas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkDoor",
+    "form_id": "0100086D|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "PerkDoor",
+    "string": "Puerta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkLever",
+    "form_id": "0100086E|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "PerkLever",
+    "string": "Palanca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkPray",
+    "form_id": "0100086F|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "PerkPray",
+    "string": "Reza",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkButton",
+    "form_id": "01000870|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "PerkDweButton",
+    "string": "Boton Enano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkPuzzleWheel",
+    "form_id": "01000871|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "PerkPuzzleWheel",
+    "string": "Rueda de Acertijo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkCage",
+    "form_id": "01000872|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "PerkCage",
+    "string": "Jaula",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkHarvest",
+    "form_id": "01000875|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "HarvestAnimation",
+    "string": "Animacion de Cosecha",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkLootActor",
+    "form_id": "010008AB|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Loot Actor Animations",
+    "string": "Animaciones de Saqueo de Actor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkLootContainer",
+    "form_id": "010008AC|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Loot Container Animations",
+    "string": "Animaciones de Saqueo de Contenedor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkLootMisc",
+    "form_id": "010008E6|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Perk Loot Misc",
+    "string": "Ventaja Saqueo Varios",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkLootIngredient",
+    "form_id": "010008E7|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Perk Loot Ingredient",
+    "string": "Ventaja Saqueo Ingrediente",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkLootSoulGem",
+    "form_id": "010008E8|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Perk Loot SoulGem",
+    "string": "Ventaja Saqueo Gema de Alma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkLootWeapons",
+    "form_id": "010008E9|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Perk Loot Weapons",
+    "string": "Ventaja Saqueo Armas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkLootArmors",
+    "form_id": "010008EA|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Perk Loot Armors",
+    "string": "Ventaja Saqueo Armaduras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkLootAmmo",
+    "form_id": "010008EB|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Perk Loot Ammo",
+    "string": "Ventaja Saqueo Municion",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkLootPotions",
+    "form_id": "010008EC|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Perk Loot Potions",
+    "string": "Ventaja Saqueo Pociones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_PerkLootScroll",
+    "form_id": "010008F7|ActivationAnimations.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Perk Loot Scroll",
+    "string": "Ventaja Saqueo Pergamino",
+    "status": "TranslationComplete"
+  }
+]

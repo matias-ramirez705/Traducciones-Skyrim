@@ -1,0 +1,11 @@
+[
+  {
+    "editor_id": "JenassaPerk",
+    "form_id": "01000800|Jenassa Perk.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Jenassa deals more damage with her bow when not near a mine.",
+    "string": "Jenassa inflige más daño con su arco cuando no está cerca de una mina.",
+    "status": "TranslationComplete"
+  }
+]

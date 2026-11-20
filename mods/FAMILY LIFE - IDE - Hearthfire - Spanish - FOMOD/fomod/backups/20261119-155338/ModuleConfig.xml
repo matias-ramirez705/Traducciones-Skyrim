@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with XIMOD Architect 2.3.0 [https://www.nexusmods.com/site/mods/2141] -->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
+	<moduleName>FAMILY LIFE - Immersive Dialogue Expansion - Hearthfire - Spanish</moduleName>
+	<installSteps order="Explicit">
+		<installStep name="Main">
+			<optionalFileGroups>
+				<group name="Main" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="IDE Hearthfire">
+							<description></description>
+							<files>
+								<folder source="0 - Main\IDE Hearthfire.esp" destination="SKSE\Plugins\DynamicStringDistributor\IDE Hearthfire.esp" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="IDE Hearthfire.esp" state="Active"/>
+											</dependencies>
+											<type name="Required"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="IDE Hearthfire.esp" state="Inactive"/>
+												<fileDependency file="IDE Hearthfire.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+		<installStep name="Parches">
+			<optionalFileGroups>
+				<group name="Parches" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="zIDE Hearthfire - No IDE Spouses Patch">
+							<description>A partir de 1.1, las líneas de cocina / tienda del cónyuge se han trasladado a los cónyuges de IDE (disponible en Nexus pronto). Si no desea usar IDE Spouses, descargue el &quot;No IDE Spouses Patch&quot; y haga que sobrescriba el archivo principal.
+
+Marque manual si uso este archivo</description>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="IDE Hearthfire MultiKid Patch">
+							<description></description>
+							<files>
+								<folder source="1 - Patch\IDE Hearthfire MultiKid Patch\Scripts" destination="\Scripts" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="IDE Hearthfire MultiKid patch.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="IDE Hearthfire MultiKid patch.esp" state="Inactive"/>
+												<fileDependency file="IDE Hearthfire MultiKid patch.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+	</installSteps>
+</config>

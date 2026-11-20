@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with XIMOD Architect 2.3.0 [https://www.nexusmods.com/site/mods/2141] -->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
+	<moduleName>Fury - Animal Taming of Skyrim - Spanish</moduleName>
+	<installSteps order="Explicit">
+		<installStep name="Paso 1">
+			<optionalFileGroups>
+			</optionalFileGroups>
+		</installStep>
+		<installStep name="Paso 2">
+			<optionalFileGroups>
+			</optionalFileGroups>
+		</installStep>
+	</installSteps>
+</config>

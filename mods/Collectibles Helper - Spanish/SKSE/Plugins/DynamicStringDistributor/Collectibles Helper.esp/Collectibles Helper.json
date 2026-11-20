@@ -1,0 +1,173 @@
+[
+  {
+    "editor_id": "DLC2FortFrostmoth01",
+    "form_id": "030142F8|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Fort Frostmoth",
+    "string": "Fuerte Polilla Helada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2AshfallowCitadel01",
+    "form_id": "0301BE37|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Ashfallow Citadel",
+    "string": "Ciudadela de Ceniza Abandonada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RRTempleTomb",
+    "form_id": "03024D9D|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Temple Ancestral Tomb",
+    "string": "Tumba ancestral del templo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RRAlorHouse",
+    "form_id": "03017EBF|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Alor House",
+    "string": "Casa de Alor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RRBulwark",
+    "form_id": "03018276|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Bulwark",
+    "string": "El Baluarte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2BloodskalBarrow01",
+    "form_id": "030142FC|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Raven Rock Mine",
+    "string": "Mina de Roca del Cuervo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RRTheRetchingNetch",
+    "form_id": "03017EC0|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "The Retching Netch",
+    "string": "Netch de las Arcadas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2Benkongerike02",
+    "form_id": "0301A7A8|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Benkongerike Great Hall",
+    "string": "Gran salón de Benkongerike",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RRCresciusHouse",
+    "form_id": "03017EC2|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Caerellius House",
+    "string": "Casa de Cerelio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RRMorvaynManorChambers",
+    "form_id": "0301844F|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Morvayn Manor Chambers",
+    "string": "Estancias de la mansión de Morvayn",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2RRGloverMalloryHouse",
+    "form_id": "03017EC4|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Glover Mallory's House",
+    "string": "Casa de Glover Mallory",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2BristlebackCave01",
+    "form_id": "0301BBFB|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Bristleback Cave",
+    "string": "Cueva del tatabro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2Frossel01",
+    "form_id": "030142F7|Dragonborn.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Frossel",
+    "string": "Frossel",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2SolstheimWorld",
+    "form_id": "03000800|Dragonborn.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Solstheim",
+    "string": "Solstheim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ColHlp_MCM",
+    "form_id": "04000D63|Collectibles Helper.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Collectibles Helper MCM",
+    "string": "Ayudante de objetos coleccionables MCM",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ColHlp_MCM",
+    "form_id": "04000D63|Collectibles Helper.esp",
+    "index": 10,
+    "type": "QUST NNAM",
+    "original": "Collectibles Helper - Stones of Barenziah",
+    "string": "Ayudante de objetos coleccionables: Piedras de Barenziah",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ColHlp_MCM",
+    "form_id": "04000D63|Collectibles Helper.esp",
+    "index": 20,
+    "type": "QUST NNAM",
+    "original": "Collectibles Helper - Jiub's Opus",
+    "string": "Asistente de objetos coleccionables - Jiub's Opus",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ColHlp_MCM",
+    "form_id": "04000D63|Collectibles Helper.esp",
+    "index": 30,
+    "type": "QUST NNAM",
+    "original": "Collectibles Helper - East Empire Pendants",
+    "string": "Asistente de objetos de colección: colgantes del Imperio del Este",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ColHlp_MCM",
+    "form_id": "04000D63|Collectibles Helper.esp",
+    "index": 40,
+    "type": "QUST NNAM",
+    "original": "Collectibles Helper - Ancient Falmer Books",
+    "string": "Asistente de objetos coleccionables: libros antiguos de Falmer",
+    "status": "TranslationComplete"
+  }
+]

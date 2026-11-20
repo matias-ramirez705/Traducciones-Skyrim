@@ -1,0 +1,452 @@
+[
+  {
+    "editor_id": "WerebeastDiseaseEff",
+    "form_id": "00072878|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Sanies Lupinus",
+    "string": "Sanies Lupinus",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastDiseaseEff",
+    "form_id": "00072878|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Reduces Magicka recovery by <mag>%. At night, the recovery rate of Health and Stamina is increased by <50>%, as does disease resistance.",
+    "string": "Reduce la recuperación de magia en un <mag>%. Por la noche, la tasa de recuperación de salud y resistencia aumenta en un <50>%, al igual que la resistencia a las enfermedades.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastMonitoringEff",
+    "form_id": "04000800|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Monitoring Effect",
+    "string": "Efecto de supervisión",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastRegenEff",
+    "form_id": "04005E62|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Health & Stamina Recover",
+    "string": "Recuperación de salud y resistencia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastRegenEff",
+    "form_id": "04005E62|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Health and Stamina regenerates <mag>% faster.",
+    "string": "La salud y la resistencia se regeneran un <mag>% más rápido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastImmuneEff",
+    "form_id": "04005E63|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Resist Disease",
+    "string": "Resistencia a la enfermedad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastImmuneEff",
+    "form_id": "04005E63|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "<mag>% resistant to disease.",
+    "string": "<mag>% de resistencia a la enfermedad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastWeakToSilverEff",
+    "form_id": "0400FB0D|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Weak to Silver",
+    "string": "Débil a la plata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastWeakToSilverEff",
+    "form_id": "0400FB0D|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Werebeast take additional damage from silver weapons.",
+    "string": "Los hombres bestia reciben daño adicional de las armas plateadas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastSilverFFContactEff",
+    "form_id": "0400FB0E|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Silver Damage",
+    "string": "Daño de plata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastSilverFFContactEff",
+    "form_id": "0400FB0E|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Silver falling into the blood of a supernatural creature deals <mag> damage per second.",
+    "string": "La plata que cae en la sangre de una criatura sobrenatural causa daño <mag> por segundo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastWeakToFireEff",
+    "form_id": "04014C10|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Weakness to Fire",
+    "string": "Debilidad al fuego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastWeakToFireEff",
+    "form_id": "04014C10|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "You are <mag>% weaker to fire damage.",
+    "string": "Eres un <mag>% más débil al daño del fuego.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastStrengthEff",
+    "form_id": "04033211|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Werebeast Strength",
+    "string": "Fuerza de hombre bestia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastStrengthEff",
+    "form_id": "04033211|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your unarmed attacks deal <mag> points of damage, and your carry weight also increases.",
+    "string": "Tus ataques desarmados causan <mag> puntos de daño y tu peso de carga también aumenta.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastEnduranceEff",
+    "form_id": "04033212|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Health & Stamina Fortifier",
+    "string": "Fortalecer la salud y resistencia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastEnduranceEff",
+    "form_id": "04033212|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your Health and Stamina are increased",
+    "string": "Tu salud y resistencia aumentan",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastResistFrostEff",
+    "form_id": "04038313|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Resist Frost",
+    "string": "Resistencia a la escarcha",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastResistFrostEff",
+    "form_id": "04038313|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Increases Frost Resistance by <mag>%.",
+    "string": "Aumenta la resistencia a la escarcha en un <mag>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastDamageRegenEff",
+    "form_id": "04038314|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Damage Health Regen",
+    "string": "Dañar regeneración de salud",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastDamageRegenEff",
+    "form_id": "04038314|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Health regenerates <mag>% slowler.",
+    "string": "La salud se regenera un <mag>% más lento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastSpeedEff",
+    "form_id": "04038317|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fortify Speed",
+    "string": "Fortalecer la velocidad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastSpeedEff",
+    "form_id": "04038317|Growl Features.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Move <mag>% faster.",
+    "string": "Muévete <mag>% más rápido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastNightEyeLP",
+    "form_id": "0006B10E|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Night Eye",
+    "string": "Ojo nocturno",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Werewolf_Spell_WerewolfSkin_Ab",
+    "form_id": "000A1A3E|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Werewolf Skin",
+    "string": "Piel de hombre lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Spell_Beastblood_Benefits_Ab",
+    "form_id": "000F5BA0|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Beastblood",
+    "string": "Sangre de bestia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Spell_Beastblood_Benefits_Ab",
+    "form_id": "000F5BA0|Skyrim.esm",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "The beastblood grants immunity to disease as well as superhuman strength and endurance.",
+    "string": "La sangre de bestia otorga inmunidad a las enfermedades, así como fuerza y resistencia sobrehumanas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Werewolf_Spell_WerebearSkin_Ab",
+    "form_id": "0203D471|Dragonborn.esm",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Werebear Skin",
+    "string": "Piel de hombre oso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Spell_NPCCanMorph_Ab_Passives",
+    "form_id": "0300AA06|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "NPC Beastblood",
+    "string": "Sangre de bestia NPC",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Spell_NPCCanMorph_Ab_Passives",
+    "form_id": "0300AA06|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Includes perk effects.",
+    "string": "Incluye efectos de beneficio.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Spell_Beastblood_Drawbacks_Ab",
+    "form_id": "0304C7A7|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Beastblood",
+    "string": "Sangre de bestia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Spell_Beastblood_Drawbacks_Ab",
+    "form_id": "0304C7A7|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "The beastblood causes <25>% weakness to fire and silver weapons inflicts extra damage to you. You also gain <25>% Frost Resistance.",
+    "string": "La sangre de bestia causa un <25>% de debilidad al fuego y las armas plateadas te infligen daño adicional. También obtienes un <25>% de resistencia a las heladas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Spell_Beastblood_FortifySpeed_Ab",
+    "form_id": "030C0F49|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Lycanthropic Speed",
+    "string": "Velocidad licantrópica",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_Mortal_Spell_Beastblood_FortifySpeed_Ab",
+    "form_id": "030C0F49|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "The beastblood grants you increased movement speed by <20>% in beast form, and by <10>% in human form.",
+    "string": "La sangre de bestia te otorga una mayor velocidad de movimiento en un <20>% en forma de bestia y en un <10>% en forma humana.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastMonitoringAb",
+    "form_id": "04000801|Growl Features.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Werebeast Monitor Spell",
+    "string": "Hechizo de supervisión de hombre bestia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DiseaseSaniesLupinus",
+    "form_id": "04000802|Growl Features.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Sanies Lupinus",
+    "string": "Sanies Lupinus",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastLupinusAb",
+    "form_id": "04005E64|Growl Features.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Lupinus",
+    "string": "Lupinus",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastSilveredSP",
+    "form_id": "0400FB0F|Growl Features.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Silvered",
+    "string": "Plateado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FalkreathBarracksJail",
+    "form_id": "000EF324|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Falkreath Jail",
+    "string": "Prisión de Falkreath",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2SolstheimWorld",
+    "form_id": "02000800|Dragonborn.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Solstheim",
+    "string": "Solstheim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_0_Perk_BestialStrength_1",
+    "form_id": "010059A4|Dawnguard.esm",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Bestial Strength",
+    "string": "Fuerza bestial",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_0_Perk_BestialStrength_1",
+    "form_id": "010059A4|Dawnguard.esm",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Your attacks deal 0.1% more damage per point of Stamina in beast form.",
+    "string": "Tus ataques causan un 0,1% más de daño por punto de resistencia en forma de bestia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_1_Perk_AnimalVigor",
+    "form_id": "010059A5|Dawnguard.esm",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Animal Vigor",
+    "string": "Vigor animal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_1_Perk_AnimalVigor",
+    "form_id": "010059A5|Dawnguard.esm",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Additional 50 points to Health and 100 points to Stamina in beast form.",
+    "string": "50 puntos adicionales de salud y 100 puntos de resistencia en forma de bestia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_1_Perk_LycanthropicSpeed",
+    "form_id": "03019D2F|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Lycanthropic Speed",
+    "string": "Velocidad licantrópica",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "HRI_PerkTree_1_Perk_LycanthropicSpeed",
+    "form_id": "03019D2F|Growl - Werebeasts of Skyrim.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Movement speed is increased by 20% in beast form, and by 10% in human form.",
+    "string": "La velocidad de movimiento aumenta un 20% en forma de bestia y un 10% en forma humana.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastLupinusPerk",
+    "form_id": "04005E65|Growl Features.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Sanies Lupinus",
+    "string": "Sanies Lupinus",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastMoonsetMSG",
+    "form_id": "04000805|Growl Features.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You feel tired as the sun rises.",
+    "string": "Te sientes cansado al salir el sol.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastMoonriseMSG",
+    "form_id": "04000806|Growl Features.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You feel a strange rush of strength as the sun sets.",
+    "string": "Sientes una extraña oleada de fuerza cuando se pone el sol.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WerebeastCompleteMSG",
+    "form_id": "04000807|Growl Features.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "An unknown force begins to awaken in your body.",
+    "string": "Una fuerza desconocida comienza a despertar en tu cuerpo.",
+    "status": "TranslationComplete"
+  }
+]
