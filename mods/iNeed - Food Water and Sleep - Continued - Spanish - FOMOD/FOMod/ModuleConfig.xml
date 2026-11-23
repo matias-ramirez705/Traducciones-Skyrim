@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with XIMOD Architect 2.3.0 [https://www.nexusmods.com/site/mods/2141] -->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
+	<moduleName>iNeed - Food, Water and Sleep - Continued - Spanish</moduleName>
+	<installSteps order="Explicit">
+		<installStep name="Opciones">
+			<optionalFileGroups>
+				<group name="0. Core" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Core Files">
+							<description>Contiene el mod principal.		
+
+
+
+Para que la traduccion de los sripts funcione al parecer requiere de una partida nueva, espero estar equivocado pero a mi se me aplico con eso por alguna razon. sera cosa de mi orden de carga y lista de mods</description>
+							<files>
+								<folder source="00 Core" destination="" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<type name="Required"/>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+				<group name="1. Extended" type="SelectExactlyOne">
+					<plugins order="Explicit">
+						<plugin name="Completo | Requiere AE y Creation Club Fishing">
+							<description>Requiere AE y Creation Club Fishing. Esta opción no es compatible con otros mods que modifican la comida y las recetas del juego base, ¡ni con el modo &apos;Supervivencia&apos;! Permite recolectar nieve de acumulaciones de nieve exteriores medianas a grandes simplemente activándolas. Elimina los efectos mágicos de mejora y desventaja de la mayoría de los alimentos y bebidas. Elimina el ingrediente Montón de sal de la carne cocinada. Reequilibra las recetas de sopa agregando un requisito de ingrediente de agua y cambiando la cantidad de sopas producidas de 1 a 2. Los posaderos ahora a veces venderán sopas y comidas de Hearthfire.</description>
+							<files>
+								<folder source="01 Extended" destination="" priority="1"/>
+							</files>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Sin cambios en la comida | Requiere AE y Creation Club Fishing">
+							<description>Requiere AE y Creation Club Fishing. Esta opción no es compatible con otros mods que modifican recetas originales ni con el modo «Supervivencia». Permite recolectar nieve de acumulaciones exteriores medianas a grandes simplemente activándolas. Elimina el ingrediente «Montón de sal» de la carne cocinada. Reequilibra las recetas de sopa añadiendo un requisito de agua y cambiando la cantidad de sopas producidas de 1 a 2. Los posaderos ahora a veces venden sopas y comidas de Hearthfire.</description>
+							<files>
+								<folder source="02 Extended - No Food" destination="" priority="1"/>
+							</files>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Versión extendida: sin comida, sin recetas.">
+							<description>Requiere AE y Creation Club Fishing. Permite recolectar nieve de acumulaciones exteriores medianas a grandes simplemente activándolas. Esta opción es compatible con todos los demás mods que modifican las recetas de cocina &quot;originales&quot;, como CACO o Cooking Expanded. Instálala si tienes instalados dichos mods para una mejor compatibilidad con iNeed.</description>
+							<files>
+								<folder source="03 Extended - No Food - No Recipes" destination="" priority="1"/>
+							</files>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="Nada">
+							<description>iNeed - Extended no se instalará.</description>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+				<group name="Optionals" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="Dangerous Diseases">
+							<description>All non-transformative diseases will be more unique, harder to cure and progress through 4 deadlier stages at random intervals. See mod description for more information.
+</description>
+							<files>
+								<folder source="12 Dangerous Diseases Converted" destination="" priority="1"/>
+							</files>
+							<typeDescriptor>
+								<type name="Optional"/>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+	</installSteps>
+</config>

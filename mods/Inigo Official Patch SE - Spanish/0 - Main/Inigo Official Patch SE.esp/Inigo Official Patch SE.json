@@ -1,0 +1,875 @@
+[
+  {
+    "editor_id": "Inigounique",
+    "form_id": "01000D62|Inigo.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Inigo",
+    "string": "Inigo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Inigounique",
+    "form_id": "01000D62|Inigo.esp",
+    "index": 1,
+    "type": "NPC_ SHRT",
+    "original": "Inigo",
+    "string": "Inigo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "KynesgroveBraidwoodInn",
+    "form_id": "00013907|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Braidwood Inn",
+    "string": "Posada El bosque trenzado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0102CC62|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wonder if they have a copy of Kolb and the Dragon here.",
+    "string": "Me pregunto si aquí tendrán una copia de Kolb y el Dragón.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01001858|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Yawns)",
+    "string": "(Bosteza)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01001850|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Coughs)",
+    "string": "(Tose)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01001855|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You like the night and the smell of death. When the sun is out you grow short of breath.",
+    "string": "Te gusta la noche y el olor a muerte. Cuando sale el sol te falta el aliento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01001852|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am the cat that got the cream.  If you take it back I will make you scream.",
+    "string": "Soy el gato que se robó la crema. Si me la quitas, haré que grites.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01001853|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I like the stories my mother told. One day I'll be a hero brave and bold.  ",
+    "string": "Me gustan las historias que contaba mi madre. Algún día seré un héroe, valiente y audaz.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01001854|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You are a dog with a big bushy tail.  If you don't feed you whimper and wail.",
+    "string": "Eres un perro con una gran cola peluda. Si no te alimentan, lloriqueas y aúllas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100E1B9|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am not a good singer but I try.",
+    "string": "No soy buen cantante, pero lo intento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101231C|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Take a seat and I may just sing you a song.",
+    "string": "Toma asiento y puede que te cante una canción.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0101EBBE|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You're a witch killer, giant slayer, hero to us all. Your fingers are the lightest, your spells are the brightest, you bring a dragon with your call.",
+    "string": "Eres un asesino de brujas, cazador de gigantes, un héroe para todos. Tus dedos son los más ágiles, tus hechizos los más brillantes, traes a un dragón con solo llamarlo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01001851|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Dum dum da dum da dum dee. ",
+    "string": "Dum dum da dum da dum dee. ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010122FF|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You killed Alduin and saved us all. I hear you bet him in a brawl. You punched his nose and spat in his eye. You twisted his ears and made him cry.",
+    "string": "Mataste a Alduin y nos salvaste a todos. Escuché que le ganaste en una pelea. Le pegaste en la nariz y le escupiste en el ojo. Le torciste las orejas y lo hiciste llorar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100E1BA|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I always wanted to play the lute but my fingers are too big, and untalented.",
+    "string": "Siempre quise tocar el laúd, pero mis dedos son muy grandes... y torpes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0100184F|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Clears throat)",
+    "string": "(Ejem)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010729BB|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am sure High Rock is quite lovely but you must admit, this land has a charm all of its own.",
+    "string": "Estoy seguro de que Alta Roca es encantadora, pero debes admitir que esta tierra tiene un encanto único.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010729BC|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am sure the Summerset Isles are quite beautiful but you must admit, this land has a charm all its own.",
+    "string": "Estoy seguro de que las Islas de los Sumerset son hermosas, pero debes admitir que esta tierra tiene un encanto único.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010729BD|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "It is no Valenwood, my Bosmer friend but you must admit, this land has a charm all its own.",
+    "string": "No es Valenwood, mi amigo bosmer, pero debes admitir que esta tierra tiene un encanto único.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010729BE|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I love the beauty of Cyrodiil, my Imperial friend, but you must admit this land has a charm all its own.",
+    "string": "Amo la belleza de Cyrodiil, mi amigo imperial, pero debes admitir que esta tierra tiene un encanto único.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010729BF|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am sure it is no Hammerfell, my Redgaurd friend but you must admit, this land has a charm all its own.",
+    "string": "Estoy seguro de que no es Hammerfell, mi amigo rojo, pero debes admitir que esta tierra tiene un encanto único.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01018A2E|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You are taller than you were.",
+    "string": "Estás más alto que antes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "self1",
+    "form_id": "0101849F|Inigo.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Tell me about yourself.",
+    "string": "Háblame de ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01025A6F|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If we ever find ourselves in the Bard's College, remind me to share some songs with you. Remember to take a seat though. I like a focused audience.",
+    "string": "Si alguna vez estamos en el Colegio de Bardos, recuérdame compartir unas canciones contigo. Recuerda sentarte. Me gusta una audiencia enfocada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Anythoughts",
+    "form_id": "0101FBEB|Inigo.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Any thoughts?",
+    "string": "¿Alguna idea?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010448A1|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "A lot of moaning goes on here... not in a good way.",
+    "string": "Aquí hay mucho gemido... y no del bueno.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010E7E1B|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am glad I am well again. The sore throat and over abundance of mucus was very annoying.",
+    "string": "Me alegra estar bien otra vez. La garganta irritada y el exceso de mocos eran muy molestos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0102122B|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I often create my own songs but they are very bad. I just don't have the time to work at being gifted.",
+    "string": "A menudo creo mis propias canciones, pero son muy malas. Simplemente no tengo tiempo para trabajar en ser talentoso.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0102122C|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have a few basic ideas for songs about you. They are just works in progress though. They sound unmusical.",
+    "string": "Tengo algunas ideas básicas para canciones sobre ti. Aunque solo son borradores. Suenan poco musicales.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0102122D|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "If you sit down and I sing, be ready to laugh... but not too hard OK?",
+    "string": "Si te sientas y yo canto, prepárate para reír... pero no demasiado fuerte, ¿sí?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0102122E|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "There are many talented people here. I could learn a lot from them if I could be bothered.",
+    "string": "Aquí hay mucha gente talentosa. Podría aprender mucho de ellos si tan solo me interesara.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01021249|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Giants are not as furry as you and I but they don't seem to mind the cold at all.",
+    "string": "Los gigantes no son tan peludos como tú y yo, pero no parecen molestarse por el frío.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0102332E|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Be careful we are in an environment unlike any other. Who knows what we may find.",
+    "string": "Ten cuidado, estamos en un entorno como ningún otro. Quién sabe qué podríamos encontrar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010820CB|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am wondering how many thoughts I will think before I die. Quite a few I reckon.",
+    "string": "Me pregunto cuántos pensamientos pensaré antes de morir. Supongo que bastantes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SingmeasongTopic",
+    "form_id": "010254CA|Inigo.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Would you sing me a song, Inigo?",
+    "string": "¿Me cantarías una canción, Inigo?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010254CB|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "What do you want to hear?",
+    "string": "¿Qué quieres escuchar?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Inigowhatsong",
+    "form_id": "010254CC|Inigo.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What songs do you know?",
+    "string": "¿Qué canciones conoces?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010254CD|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have not written many I'm afraid. Let's see. Brenda the Bear? Dragon Pie? My Heart is in the Rift? What'll it be?",
+    "string": "No he escrito muchas, me temo. Veamos... ¿Brenda la Osa? ¿Pastel de Dragón? ¿Mi Corazón está en la Grieta? ¿Cuál quieres?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0102F819|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "The troll-hag suddenly slashed out at Inigo with a glass dagger! What are we going to do?",
+    "string": "¡La bruja-troll de repente atacó a Inigo con una daga de cristal! ¿Qué vamos a hacer?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01073B91|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You smell like dragons and pastry today.",
+    "string": "Hoy hueles a dragones y pasteles.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0107C346|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Can't you see I'm busy? What do you need?",
+    "string": "¿No ves que estoy ocupado? ¿Qué necesitas?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0107FF43|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Yawns)",
+    "string": "(Bosteza)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0105FD73|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Mumbling)",
+    "string": "(Murmura)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0105FD74|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Muttering)",
+    "string": "(Masculla)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0105FD75|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Mumbled musings)",
+    "string": "(Divaga entre dientes)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0105FD76|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Incoherent mumbling)",
+    "string": "(Murmullo incoherente)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0105FD77|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Incoherent muttering)",
+    "string": "(Balbuceo incoherente)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0105FD78|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Indistinct muttering)",
+    "string": "(Murmullo indistinto)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0107C349|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mr Dragonfly is rather a vague name. I'd have called him Thor or Beowulf... or The Forbidden Ingredient. Yes.",
+    "string": "Señor Libélula es un nombre bastante vago. Yo lo habría llamado Thor o Beowulf... o El Ingrediente Prohibido. Sí.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01067A42|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No! Not you, you silly Elf. Him!",
+    "string": "¡No! No tú, elfo tonto. ¡Él!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01067A43|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No! Not you, you bloody barbarian. Him!",
+    "string": "¡No! No tú, maldito bárbaro. ¡Él!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01067A44|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No! Not you, you lumbering lizard. Him!",
+    "string": "¡No! No tú, lagarto torpe. ¡Él!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01067A45|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No! Not you, you obstreperous Orc. Him!",
+    "string": "¡No! No tú, orco testarudo. ¡Él!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01067A46|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No! Not you, bumbling Breton. Him!",
+    "string": "¡No! No tú, bretón torpe. ¡Él!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01067A47|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No! Not you, you frustrating fuzz ball. Him!",
+    "string": "¡No! No tú, bola de pelos frustrante. ¡Él!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01067A48|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No! Not you, you Imperial menace. Him!",
+    "string": "¡No! No tú, amenaza imperial. ¡Él!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01067A49|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "No! Not you, you unruly Redguard. Him! ",
+    "string": "¡No! No tú, rojo indomable. ¡Él!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010E0C74|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Come on, Gleda. I am sorry for my actions last time we met. I now understand you are not a short horse. My apologies.",
+    "string": "Vamos, Gleda. Lamento mis acciones la última vez que nos vimos. Ahora entiendo que no eres un caballo pequeño. Mis disculpas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01072F9C|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Mr Dragonfly, what are you talking about? I know, but where would you find a small enough saddle? I do not think you have thought this through.",
+    "string": "Señor Libélula, ¿de qué estás hablando? Lo sé, pero ¿dónde encontrarías una silla lo suficientemente pequeña? No creo que lo hayas pensado bien.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "InigoRelax1",
+    "form_id": "01073496|Inigo.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you want to relax here for a bit?",
+    "string": "¿Quieres descansar aquí un rato?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0107415F|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "OK, maybe I will work on some new material.",
+    "string": "Está bien, tal vez trabaje en nuevo material.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "InigoPlayerJ2SING1Topic",
+    "form_id": "01074157|Inigo.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Was there something else?",
+    "string": "¿Había algo más?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01074158|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My friend, I have been working on a new song. If you want to hear it let me know next time we are in the Bard's College.",
+    "string": "Mi amigo, he estado trabajando en una nueva canción. Si quieres escucharla, dímelo la próxima vez que estemos en el Colegio de Bardos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01074159|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My friend, I have been working on a new song. If you want to hear it let me know next time we are in the Bard's College.",
+    "string": "Mi amigo, he estado trabajando en una nueva canción. Si quieres escucharla, dímelo la próxima vez que estemos en el Colegio de Bardos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0107415A|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "My friend, if you ever want to hear me sing one of my songs there is no need to go to the Bard's College any more.",
+    "string": "Mi amigo, si alguna vez quieres escucharme cantar una de mis canciones, ya no es necesario ir al Colegio de Bardos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0107415A|Inigo.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "My confidence is growing. As long as you have somewhere to sit, or we are travelling across Skyrim, any safe area will do.",
+    "string": "Mi confianza está creciendo. Mientras tengas dónde sentarte, o estemos viajando por Skyrim, cualquier lugar seguro servirá.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0107CE46|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I saw you being lead astray by someone you work with. In my dream you end up paralysed.",
+    "string": "Te vi ser desviado por alguien con quien trabajas. En mi sueño terminabas paralizado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0107CE46|Inigo.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I did see you meet a very interesting lady later though, so it's not all bad.",
+    "string": "Aunque luego te vi conocer a una dama muy interesante, así que no todo fue malo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010866E9|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Hey! You interrupted my relaxation. I do not mind. Being summoned is a pleasant way to be interrupted.",
+    "string": "¡Hey! Interrumpiste mi momento de relajación. No me importa. Ser invocado es una forma agradable de ser interrumpido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010CB591|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I am glad you finally got that horn. Those Greybeards had better be grateful.",
+    "string": "Me alegra que por fin hayas conseguido ese cuerno. Más vale que esos Barbas Grises estén agradecidos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01086D8D|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Are you ready for negotiations? I am honoured to be present at such a historic occasion.",
+    "string": "¿Estás listo para las negociaciones? Me honra estar presente en una ocasión tan histórica.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01084C7C|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This is the worst party I have been to in a while.",
+    "string": "Esta es la peor fiesta a la que he ido en mucho tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01085CC4|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I wonder if the Elder Scroll feels starved of attention down here. I do not think many of the locals can read.",
+    "string": "Me pregunto si el Pergamino Antiguo se siente ignorado aquí abajo. No creo que muchos de los lugareños sepan leer.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01072FB2|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "That happens to me too. I was going to ask you something else but now the question eludes me.",
+    "string": "A mí también me pasa. Iba a preguntarte algo más pero ahora se me olvidó.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0108DABF|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This place does not put me in a singing mood. I am afraid that this song must conclude.",
+    "string": "Este lugar no me pone de humor para cantar. Me temo que esta canción debe terminar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "InigoBardsCol1Topic",
+    "form_id": "0109171F|Inigo.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "What's on your mind?",
+    "string": "¿Qué tienes en mente?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01091720|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I have been working on a few songs of my own. If you want to hear them take a seat and let me know.",
+    "string": "He estado trabajando en algunas canciones propias. Si quieres oírlas, toma asiento y avísame.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01091720|Inigo.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "I do not mind standing or sitting while I perform, but I would prefer that you were relaxed and focused.",
+    "string": "No me molesta estar de pie o sentado mientras actúo, pero prefiero que tú estés relajado y enfocado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010C5E5C|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Try not to die down here, Lydia. I would miss you.",
+    "string": "Trata de no morir aquí abajo, Lydia. Te extrañaría.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010973F3|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Me me me me. Pardon me. Just warming up. Never know when I may be called upon for a ballad.",
+    "string": "Mi mi mi mi. Perdón. Solo estoy calentando. Nunca se sabe cuándo uno puede ser llamado para una balada.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0109847D|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I fear the night because the werewolves and vampires don't.",
+    "string": "Temo a la noche porque los hombres lobo y los vampiros no lo hacen.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "01098FCD|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "You have no idea. How are you doing?",
+    "string": "Ni te lo imaginas. ¿Cómo estás?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "0109A1A2|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "This is disappointing. Once you are done with it, perhaps you will allow J'zargo to borrow it.",
+    "string": "Qué decepción. Cuando termines con eso, tal vez dejes que Jzargo lo tome prestado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010AF1EA|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "(Whistles)",
+    "string": "(Silba)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010AE1A5|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Is that the new signal for let us get out of here? I agree completely.",
+    "string": "¿Esa es la nueva señal para \"vámonos de aquí\"? Estoy totalmente de acuerdo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010B9F73|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "I was with a bandit girl for a while. Turns out that she was using me. She wanted protection not affection.",
+    "string": "Estuve con una bandida por un tiempo. Resultó que me usaba. Quería protección, no cariño.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010B9F73|Inigo.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "As soon as she found someone more psychopathic I was dropped like a sack of troll dung.",
+    "string": "Apenas encontró a alguien más psicópata, me dejó tirado como saco de estiércol de troll.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010BC035|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Meeko, you are insane. If you were not so cute you would be in big trouble.",
+    "string": "Meeko, estás loco. Si no fueras tan adorable, estarías en serios problemas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "InigoDoYouLiketoSingTopic",
+    "form_id": "010BE648|Inigo.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "The lute in your cell was full of arrows. I take it you prefer singing?",
+    "string": "El laúd en tu celda estaba lleno de flechas. Supongo que prefieres cantar, ¿verdad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010BE649|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Yes. I have never been very good though. I enjoy writing songs, but sometimes it is more fun just making up words as I go along.",
+    "string": "Sí. Nunca he sido muy bueno, la verdad. Me gusta escribir canciones, pero a veces es más divertido inventar palabras sobre la marcha.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010BE649|Inigo.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Improvisation keeps the mind sharp and boredom at bay.",
+    "string": "Improvisar mantiene la mente ágil y aleja el aburrimiento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010D2902|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How are you doing, Erik?",
+    "string": "¿Cómo estás, Erik?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010D2908|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "How are you doing, Erik?",
+    "string": "¿Cómo estás, Erik?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010D293C|Inigo.esp",
+    "index": 1,
+    "type": "INFO NAM1",
+    "original": "Indeed we do. You are a good companion. Do not grow complacent though.",
+    "string": "Así es. Eres un buen compañero. Pero no te confíes.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "null",
+    "form_id": "010E7E24|Inigo.esp",
+    "index": 2,
+    "type": "INFO NAM1",
+    "original": "Do not worry. I am sure I will be all right.",
+    "string": "No te preocupes. Estoy seguro de que estaré bien.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "InigoSpellCost1",
+    "form_id": "02000800|Inigo Official Patch SE.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Casting cost for all spells is reduced to 1%.",
+    "string": "El costo de lanzamiento de todos los hechizos se reduce al 1%.",
+    "status": "TranslationComplete"
+  }
+]

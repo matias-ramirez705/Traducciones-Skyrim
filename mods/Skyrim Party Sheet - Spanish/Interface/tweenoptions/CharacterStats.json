@@ -1,0 +1,7 @@
+{
+    "papyrus_event": "CharacterStats_Open",
+    "menuName": "PERFIL",
+    "icon": "skills",
+    "priority": 65,
+    "category": "top"
+}

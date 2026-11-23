@@ -1,0 +1,47 @@
+[
+  {
+    "editor_id": "CureDiseaseEffect",
+    "form_id": "000FBFF5|Skyrim.esm",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cure Disease",
+    "string": "Curar enfermedad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisDummyFX",
+    "form_id": "060012C4|iNeed - Dangerous Diseases.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Dummy FX",
+    "string": "Efecto ficticio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "CureDisease",
+    "form_id": "000AE723|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Potion of Cure Sanguinare Vampiris",
+    "string": "Poción para curar Sanguinare Vampiris",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WICommentDiseased",
+    "form_id": "000AD7AD|Skyrim.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Player is diseased",
+    "string": "El jugador está enfermo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "AltarDisease",
+    "form_id": "0010106F|Skyrim.esm",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "Shrines in the city temples will confer a blessing. Accepting the blessing of one shrine will remove the blessings of any others.",
+    "string": "Las capillas de los templos de las ciudades te curarán cualquier enfermedad y te concederán una bendición.",
+    "status": "TranslationComplete"
+  }
+]

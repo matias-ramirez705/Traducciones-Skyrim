@@ -1,0 +1,155 @@
+[
+  {
+    "editor_id": "TASKSE_ExaminePlayerArmor_Effect",
+    "form_id": "0200082E|TrueArmorSKSE.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Examine Armor Effect",
+    "string": "Aumenta el índice de armadura en <mag> puntos y anula hasta <mag> puntos de daño por hechizos o efectos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TASKSE_ExaminePlayerArmor_Effect",
+    "form_id": "0200082E|TrueArmorSKSE.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Examine your armor to reveal protections and attribute adjustments.",
+    "string": "Examina tu armadura para revelar sus protecciones y ajustes de atributos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TASKSE_ExamineNpcArmor_Effect",
+    "form_id": "02000830|TrueArmorSKSE.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Examine NPC Armor Effect",
+    "string": "Examinar efecto de armadura de NPC",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TASKSE_ExamineNpcArmor_Effect",
+    "form_id": "02000830|TrueArmorSKSE.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Examine a target's armor to reveal protections and attribute adjustments.",
+    "string": "Examina la armadura de un objetivo para revelar sus protecciones y ajustes de atributos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TASKSE_EffectMarker_Effect",
+    "form_id": "0200083F|TrueArmorSKSE.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Effect Marker Effect",
+    "string": "Efecto marcador de efecto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TASKSE_EffectMarker_Effect",
+    "form_id": "0200083F|TrueArmorSKSE.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "An inert magic effect used by effect markers.",
+    "string": "Un efecto mágico inerte utilizado por los marcadores de efectos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TASKSE_ExaminePlayerArmor_Power",
+    "form_id": "0200082D|TrueArmorSKSE.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Examine Your Armor",
+    "string": "Examinar tu armadura",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TASKSE_ExamineNpcArmor_Power",
+    "form_id": "0200082F|TrueArmorSKSE.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Examine Target's Armor",
+    "string": "Examinar armadura del objetivo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TASKSE_ProtectionEffectMarker_Deflect_Ability",
+    "form_id": "02000833|TrueArmorSKSE.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "TASKSE_ProtectionEffectMarker_Deflect_Ability",
+    "string": "TASKSE_ProtectionEffectMarker_Deflect_Ability",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TASKSE_ProtectionEffectMarker_Pierce_Ability",
+    "form_id": "02000834|TrueArmorSKSE.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "TASKSE_ProtectionEffectMarker_Pierce_Ability",
+    "string": "TASKSE_ProtectionEffectMarker_Pierce_Ability",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TASKSE_ProtectionEffectMarker_FullHit_Ability",
+    "form_id": "02000835|TrueArmorSKSE.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "TASKSE_ProtectionEffectMarker_FullHit_Ability",
+    "string": "TASKSE_ProtectionEffectMarker_FullHit_Ability",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TASKSE_WeaponEffectMarker_Arrow_Ability",
+    "form_id": "02000836|TrueArmorSKSE.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "TASKSE_WeaponEffectMarker_Arrow_Ability",
+    "string": "TASKSE_WeaponEffectMarker_Arrow_Ability",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TASKSE_WeaponEffectMarker_Blade_Ability",
+    "form_id": "02000837|TrueArmorSKSE.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "TASKSE_WeaponEffectMarker_Blade_Ability",
+    "string": "TASKSE_WeaponEffectMarker_Blade_Ability",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TASKSE_WeaponEffectMarker_Blunt_Ability",
+    "form_id": "02000838|TrueArmorSKSE.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "TASKSE_WeaponEffectMarker_Blunt_Ability",
+    "string": "TASKSE_WeaponEffectMarker_Blunt_Ability",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TASKSE_WeaponEffectMarker_Unarmed_Ability",
+    "form_id": "02000839|TrueArmorSKSE.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "TASKSE_WeaponEffectMarker_Unarmed_Ability",
+    "string": "TASKSE_WeaponEffectMarker_Unarmed_Ability",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TASKSE_ArmorEffectMarker_Metal_Ability",
+    "form_id": "0200083A|TrueArmorSKSE.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "TASKSE_ArmorEffectMarker_Metal_Ability",
+    "string": "TASKSE_ArmorEffectMarker_Metal_Ability",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "TASKSE_ArmorEffectMarker_Leather_Ability",
+    "form_id": "0200083B|TrueArmorSKSE.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "TASKSE_ArmorEffectMarker_Leather_Ability",
+    "string": "TASKSE_ArmorEffectMarker_Leather_Ability",
+    "status": "TranslationComplete"
+  }
+]

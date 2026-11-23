@@ -1,0 +1,20 @@
+[
+  {
+    "editor_id": "InigoNoteToPlayer",
+    "form_id": "0106534D|Inigo.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "To you. Yes, you.",
+    "string": "Para ti. Sí, tú.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "InigoNoteToPlayer",
+    "form_id": "0106534D|Inigo.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "<font size=\"16\"><font face=\"$HandwrittenFont\">\r\n\r\nTraveler,\r\n\r\nThis message may come as a mysterious whisper in the dark, but there are forces at play that require your attention. You do not know me, but I am aware of you and the extraordinary qualities you possess.\r\n\r\nThere is a Khajiit named Inigo, a soul of exceptional potential lying dormant in the depths of Riften Jail. His fate, unjustly sealed behind cold bars, is directly tied to a purpose yet to be revealed. In the grand tapestry of Skyrim, the threads of your fate and Inigo's are woven together.\r\n\r\nI urge you to make your way to him and find the missing piece to a puzzle that neither of you yet understands.\r\n\r\nYou will never hear from me again.\r\n\r\nA Friend in the Shadows\r\n\r\n</font>\r\n\r\n \r\n\r\n\r\n",
+    "string": "<font size=\"16\"><font face=\"$HandwrittenFont\">\r\n\r\nViajero,\r\n\r\nPuede que este mensaje llegue a ti como un susurro misterioso en la oscuridad, pero hay fuerzas en juego que requieren tu atención. No me conoces, pero yo estoy al tanto de ti y de las cualidades extraordinarias que posees.\r\n\r\nHay un khajiita llamado Inigo, un alma de potencial excepcional que yace dormida en las profundidades de la cárcel de Riften. Su destino, injustamente sellado tras frías rejas, está ligado directamente a un propósito que aún no ha sido revelado. En el gran tapiz de Skyrim, los hilos de tu destino y el de Inigo están entrelazados.\r\n\r\nTe insto a que vayas a su encuentro y halles la pieza faltante de un rompecabezas que ninguno de los dos comprende todavía.\r\n\r\nNunca volverás a saber de mí.\r\n\r\nUn Amigo en las Sombras\r\n\r\n</font>\r\n\r\n\r\n\r\n\r\n",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,1604 @@
+[
+  {
+    "editor_id": "_SNSnowDriftL01",
+    "form_id": "07000D61|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Snow",
+    "string": "Nieve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftL01",
+    "form_id": "07000D61|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Collect",
+    "string": "Recolecta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftL02",
+    "form_id": "07001826|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Snow",
+    "string": "Nieve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftL02",
+    "form_id": "07001826|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Collect",
+    "string": "Recolecta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftL03",
+    "form_id": "07001827|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Snow",
+    "string": "Nieve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftL03",
+    "form_id": "07001827|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Collect",
+    "string": "Recolecta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftL04",
+    "form_id": "07001828|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Snow",
+    "string": "Nieve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftL04",
+    "form_id": "07001828|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Collect",
+    "string": "Recolecta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftM01",
+    "form_id": "07001829|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Snow",
+    "string": "Nieve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftM01",
+    "form_id": "07001829|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Collect",
+    "string": "Recolecta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftM02",
+    "form_id": "0700182A|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Snow",
+    "string": "Nieve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftM02",
+    "form_id": "0700182A|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Collect",
+    "string": "Recolecta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FirebrandWine",
+    "form_id": "0001895F|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Firebrand Wine",
+    "string": "Vino de fuego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodBlackBriarMead",
+    "form_id": "0002C35A|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Black-Briar Mead",
+    "string": "Aguamiel de Espino Negro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodWineAlto",
+    "form_id": "0003133B|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Alto Wine",
+    "string": "Vino de Alto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodWineBottle02",
+    "form_id": "0003133C|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Wine",
+    "string": "Vino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodMead",
+    "form_id": "00034C5D|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Nord Mead",
+    "string": "Aguamiel nórdica",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Ale",
+    "form_id": "00034C5E|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Ale",
+    "string": "Cerveza",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodHonningbrewMead",
+    "form_id": "000508CA|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Honningbrew Mead",
+    "string": "Aguamiel de la destilería Amielada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FreeformDragonBridgeMead",
+    "form_id": "000555E8|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Dragon's Breath Mead",
+    "string": "Aguamiel Aliento de dragón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodApple",
+    "form_id": "00064B2E|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Red Apple",
+    "string": "Manzana roja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodApple02",
+    "form_id": "00064B2F|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Green Apple",
+    "string": "Manzana verde",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodBoiledCremeTreat",
+    "form_id": "00064B30|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Boiled Creme Treat",
+    "string": "Dulce de crema cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodCheeseWedge01",
+    "form_id": "00064B31|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Goat Cheese Wedge",
+    "string": "Cuña de queso de cabra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodCheeseWedge02",
+    "form_id": "00064B32|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Eidar Cheese Wedge",
+    "string": "Cuña de queso eidar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodCheeseWheel01A",
+    "form_id": "00064B33|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Goat Cheese Wheel",
+    "string": "Queso de cabra entero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodCheeseWheel02A",
+    "form_id": "00064B34|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Eidar Cheese Wheel",
+    "string": "Queso eidar entero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodCheeseWheel01B",
+    "form_id": "00064B35|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Sliced Goat Cheese",
+    "string": "Queso de cabra empezado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodCheeseWheel02B",
+    "form_id": "00064B36|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Sliced Eidar Cheese",
+    "string": "Queso eidar empezado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodHoneyNutTreat",
+    "form_id": "00064B38|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Honey Nut Treat",
+    "string": "Caramelo de miel de nuez",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodLongTaffyTreat",
+    "form_id": "00064B39|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Long Taffy Treat",
+    "string": "Caramelo blando largo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodPotatoesBaked",
+    "form_id": "00064B3A|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Baked Potatoes",
+    "string": "Papas asadas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodSalmonCooked01",
+    "form_id": "00064B3B|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Salmon Steak",
+    "string": "Filete de salmón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodSlaughterfishCooked",
+    "form_id": "00064B3C|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Seared Slaughterfish",
+    "string": "Pez asesino chamuscado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodSweetroll",
+    "form_id": "00064B3D|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Sweet Roll",
+    "string": "Bollo de canela",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodLeeksGrilled",
+    "form_id": "00064B3E|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Grilled Leeks",
+    "string": "Puerros a la parrilla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodCabbage",
+    "form_id": "00064B3F|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cabbage",
+    "string": "Col",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodCarrot",
+    "form_id": "00064B40|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Carrot",
+    "string": "Zanahoria",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodPotato",
+    "form_id": "00064B41|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Potato",
+    "string": "Papa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodTomato",
+    "form_id": "00064B42|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Tomato",
+    "string": "Tomate",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodPie",
+    "form_id": "00064B43|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Apple Pie",
+    "string": "Pastel de manzana",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenSpecial01",
+    "form_id": "00065C37|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Velvet LeChance",
+    "string": "Velvet LeChance",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenSpecial02",
+    "form_id": "00065C38|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "White-Gold Tower",
+    "string": "Torre Blanca y Dorada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenSpecial03",
+    "form_id": "00065C39|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cliff Racer",
+    "string": "Asolador de acantilados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodBread01A",
+    "form_id": "00065C97|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Bread",
+    "string": "Pan",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodBread01B",
+    "form_id": "00065C98|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Bread",
+    "string": "Pan",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodBeef",
+    "form_id": "00065C99|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Raw Beef",
+    "string": "Ternera cruda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodGoatMeat",
+    "form_id": "00065C9A|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Leg of Goat",
+    "string": "Pata de cabra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodHorkerMeat",
+    "form_id": "00065C9B|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Horker Meat",
+    "string": "Carne de horker",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodHorseMeat",
+    "form_id": "00065C9C|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Horse Meat",
+    "string": "Carne de caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodPheasant",
+    "form_id": "00065C9D|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Pheasant Breast",
+    "string": "Pechuga de faisán",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodRabbit",
+    "form_id": "00065C9E|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Raw Rabbit Leg",
+    "string": "Pata de conejo cruda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodSalmon",
+    "form_id": "00065C9F|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Salmon Meat",
+    "string": "Carne de salmón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodVenison",
+    "form_id": "000669A2|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Venison",
+    "string": "Venado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodMammothCheeseBowl",
+    "form_id": "000669A3|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Mammoth Cheese Bowl",
+    "string": "Cuenco de queso de mamut",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodMammothMeat",
+    "form_id": "000669A4|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Mammoth Snout",
+    "string": "Trompa de mamut",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodLeek",
+    "form_id": "000669A5|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Leek",
+    "string": "Puerro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodBeefCooked",
+    "form_id": "000721E8|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Beef",
+    "string": "Ternera cocinada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodGoatMeatCooked",
+    "form_id": "0007224C|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Leg of Goat Roast",
+    "string": "Asado de pata de cabra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodHorkerMeatCooked",
+    "form_id": "0007224E|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Horker Loaf",
+    "string": "Pan de horker",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodHorseMeatCooked",
+    "form_id": "000722B0|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Horse Haunch",
+    "string": "Grupa de caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodMammothMeatCooked",
+    "form_id": "000722BB|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Mammoth Steak",
+    "string": "Filete de mamut",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodVenisonCooked",
+    "form_id": "000722BD|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Venison Chop",
+    "string": "Chuleta de venado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodRabbitCooked",
+    "form_id": "000722C2|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Rabbit Haunch",
+    "string": "Anca de conejo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodPheasantCooked",
+    "form_id": "000722C7|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Pheasant Roast",
+    "string": "Asado de faisán",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodSolitudeSpicedWine",
+    "form_id": "00085368|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Spiced Wine",
+    "string": "Vino especiado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WEDL03CyrodilicBrandy",
+    "form_id": "000B91D7|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cyrodilic Brandy",
+    "string": "Brandy cyrodiílico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodWineBottle02A",
+    "form_id": "000C5348|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Wine",
+    "string": "Vino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodWineAltoA",
+    "form_id": "000C5349|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Alto Wine",
+    "string": "Vino de Alto",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FavorFoodMarkarthSpicedBeef",
+    "form_id": "000CADFB|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Spiced Beef",
+    "string": "Ternera aliñada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodCharredSkeeverMeat",
+    "form_id": "000E8448|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Charred Skeever Meat",
+    "string": "Carne del skeever chamuscado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodChickenCooked",
+    "form_id": "000E8947|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Grilled Chicken Breast",
+    "string": "Pechuga de pollo a la parrilla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodAppleCabbageStew",
+    "form_id": "000EBA01|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Apple Cabbage Stew",
+    "string": "Guiso de col y manzana",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodCabbageSoup",
+    "form_id": "000EBA02|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cabbage Soup",
+    "string": "Sopa de col",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodClamMeat",
+    "form_id": "000EBA03|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Clam Meat",
+    "string": "Carne de almeja",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodDogMeat",
+    "form_id": "000EDB2E|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Dog Meat",
+    "string": "Carne de perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodChicken",
+    "form_id": "000F2011|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Chicken Breast",
+    "string": "Pechuga de pollo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodBeefStew",
+    "form_id": "000F4314|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Beef Stew",
+    "string": "Guiso de ternera",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodHorkerStew",
+    "form_id": "000F4315|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Horker Stew",
+    "string": "Guiso de horker",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodCabbagePotatoSoup",
+    "form_id": "000F431B|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cabbage Potato Soup",
+    "string": "Sopa de col y papas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodTomatoSoup",
+    "form_id": "000F431C|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Tomato Soup",
+    "string": "Sopa de tomate",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodVenisonStew",
+    "form_id": "000F431D|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Venison Stew",
+    "string": "Guiso de venado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodVegetableSoup",
+    "form_id": "000F431E|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Vegetable Soup",
+    "string": "Sopa de verduras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodElsweyrFondue",
+    "form_id": "000F4320|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Elsweyr Fondue",
+    "string": "Fondue de Elsweyr",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodBlackBriarMeadPrivateReserve",
+    "form_id": "000F693F|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Black-Briar Reserve",
+    "string": "Reserva de Espino Negro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DA03FoodMammothMeat",
+    "form_id": "0010211A|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Mammoth Snout",
+    "string": "Trompa de mamut",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodHoney",
+    "form_id": "0010394D|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Honey",
+    "string": "Miel",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodGourd",
+    "form_id": "0010D666|Skyrim.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Gourd",
+    "string": "Calabaza",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFoodBraidedBread01",
+    "form_id": "030009DB|HearthFires.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Braided Bread",
+    "string": "Pan trenzado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFoodGarlicBread01",
+    "form_id": "030009DC|HearthFires.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Garlic Bread",
+    "string": "Pan de ajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFoodAppleDumpling01",
+    "form_id": "03003533|HearthFires.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Apple Dumpling",
+    "string": "Bollito de manzana",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFoodMilk",
+    "form_id": "03003534|HearthFires.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Jug of Milk",
+    "string": "Jarra de leche",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFoodWineBottle04",
+    "form_id": "03003535|HearthFires.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Argonian Bloodwine",
+    "string": "Vino de sangre argoniano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFoodWineBottle03",
+    "form_id": "03003536|HearthFires.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Surilie Brothers Wine",
+    "string": "Vino de los hermanos Surilie",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFoodPotatoBread01A",
+    "form_id": "03003537|HearthFires.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Potato Bread",
+    "string": "Pan de papa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFoodFlour",
+    "form_id": "03003538|HearthFires.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Sack of Flour",
+    "string": "Saco de harina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFoodJuniperBerryCrostata",
+    "form_id": "03003539|HearthFires.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Juniper Berry Crostata",
+    "string": "Tarta de frutos de enebro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFoodJazbayCrostata",
+    "form_id": "0300353A|HearthFires.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Jazbay Crostata",
+    "string": "Tarta de uvas jazbay",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFoodSnowberryCrostata",
+    "form_id": "0300353B|HearthFires.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Snowberry Crostata",
+    "string": "Tarta de sinforicarpo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFoodButter",
+    "form_id": "0300353C|HearthFires.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Butter",
+    "string": "Mantequilla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FoodPotatoSoup",
+    "form_id": "0300353D|HearthFires.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Potato Soup",
+    "string": "Sopa con papas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFoodClamChowder",
+    "form_id": "0300353E|HearthFires.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Clam Chowder",
+    "string": "Sopa de almejas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFoodMudcrabLegsCooked",
+    "form_id": "0300353F|HearthFires.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Steamed Mudcrab Legs",
+    "string": "Patas de cangrejo del barro al vapor",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFoodMudcrabLegs",
+    "form_id": "03003540|HearthFires.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Mudcrab Legs",
+    "string": "Patas de cangrejo del barro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFoodSalmonCooked02",
+    "form_id": "03003541|HearthFires.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Salmon Steak",
+    "string": "Filete de salmón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFoodChickenDumpling01",
+    "form_id": "030117FF|HearthFires.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Chicken Dumpling",
+    "string": "Bollito de pollo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "BYOHFoodLavenderDumpling01",
+    "form_id": "03011801|HearthFires.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Lavender Dumpling",
+    "string": "Bollito de espliego",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2FoodAshYam",
+    "form_id": "040206E7|Dragonborn.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Ash Yam",
+    "string": "Boniato de ceniza",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2Sujamma",
+    "form_id": "040207E6|Dragonborn.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Sujamma",
+    "string": "Sujamma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2Shein",
+    "form_id": "040248CC|Dragonborn.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Shein",
+    "string": "Shein",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2Matze",
+    "form_id": "040248CE|Dragonborn.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Mazte",
+    "string": "Mazte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2FoodAshfireMead",
+    "form_id": "0403572F|Dragonborn.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Ashfire Mead",
+    "string": "Aguamiel de fuego de ceniza",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2FoodBoarMeat",
+    "form_id": "0403BD14|Dragonborn.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Boar Meat",
+    "string": "Carne de jabalí",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2FoodAshHopperMeat",
+    "form_id": "0403BD15|Dragonborn.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Ash Hopper Meat",
+    "string": "Carne de saltador de cenizas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2FoodHorkerAshYamStew",
+    "form_id": "0403CD5B|Dragonborn.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Horker and Ash Yam Stew",
+    "string": "Guiso de horker y boniatos de cenizas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2FoodBoarMeatCooked",
+    "form_id": "0403CF72|Dragonborn.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Boar Meat",
+    "string": "Carne de jabalí asado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2FoodAshHopperLeg",
+    "form_id": "0403D125|Dragonborn.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Ash Hopper Leg",
+    "string": "Pata de saltador de cenizas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodAtlanticCodCooked",
+    "form_id": "0500087A|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Cod",
+    "string": "Bacalao cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodAustrolebiasCooked",
+    "form_id": "0500087B|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Pearlfish",
+    "string": "Pez perla cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodBucketFishCooked",
+    "form_id": "0500087C|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Brook Bass",
+    "string": "Lubina de río cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodCabezonCooked",
+    "form_id": "0500087D|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Scorpion Fish",
+    "string": "Pez escorpión cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodCarpCooked",
+    "form_id": "0500087E|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Carp",
+    "string": "Carpa cocinada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodCuckooCatfishCooked",
+    "form_id": "0500087F|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Catfish",
+    "string": "Pez gato cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodDragonfishCooked",
+    "form_id": "05000880|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Direfish",
+    "string": "Pez aterrador cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodFlameAngelfishCooked",
+    "form_id": "05000881|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Angelfish",
+    "string": "Angelote cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodGlassCatfishCooked",
+    "form_id": "05000882|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Glass Catfish",
+    "string": "Pez gato de cristal cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodGoldfishCooked",
+    "form_id": "05000883|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Goldfish",
+    "string": "Pez de colores cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodLyretailAnthiasCooked",
+    "form_id": "05000884|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Lyretail Anthias",
+    "string": "Anthias cola de lira cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodPygmySunfishCooked",
+    "form_id": "05000885|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Pygmy Sunfish",
+    "string": "Pez sol enano cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodPinnateSpadefishCooked",
+    "form_id": "05000886|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Spadefish",
+    "string": "Pez espátula cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodTripodFishCooked",
+    "form_id": "05000887|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Tripod Spiderfish",
+    "string": "Pez araña de tres patas cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodVampireFishCooked",
+    "form_id": "05000888|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Vampire Fish",
+    "string": "Pez vampiro cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodTunaSalmonCooked",
+    "form_id": "0500088A|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Pogfish",
+    "string": "Pez garfio cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodVampireFish",
+    "form_id": "0500088B|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Vampire Fish",
+    "string": "Pez vampiro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodArcticGraylingCooked",
+    "form_id": "0500088C|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Arctic Grayling",
+    "string": "Trucha alpina cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodArcticCharCooked",
+    "form_id": "0500088D|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Arctic Char",
+    "string": "Salvelino cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodAnglerLarvaeCooked",
+    "form_id": "0500088E|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Angler Larvae",
+    "string": "Larvas de pejesapo cocinados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodAsiaticGlassfishCooked",
+    "form_id": "0500088F|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Glassfish",
+    "string": "Pez de cristal cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodAngler",
+    "form_id": "05000890|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Angler",
+    "string": "Pejesapo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodTunaSalmon",
+    "form_id": "05000891|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Pogfish",
+    "string": "Pez garfio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodDragonfish",
+    "form_id": "05000896|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Direfish",
+    "string": "Pez aterrador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodCuckooCatfish",
+    "form_id": "05000897|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Catfish",
+    "string": "Pez gato",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodCarp",
+    "form_id": "05000898|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Carp",
+    "string": "Carpa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodJuvenileMudcrabCooked",
+    "form_id": "0500089A|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Juvenile Mudcrab",
+    "string": "Cangrejo de barro juvenil cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodSalmon",
+    "form_id": "0500089B|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Salmon",
+    "string": "Salmón",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodBucketFish",
+    "form_id": "0500089C|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Brook Bass",
+    "string": "Lubina de río",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodTripodFish",
+    "form_id": "0500089E|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Tripod Spiderfish",
+    "string": "Pez araña de tres patas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodGlassCatfish",
+    "form_id": "050008A0|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Glass Catfish",
+    "string": "Pez gato de cristal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodCabezon",
+    "form_id": "050008A1|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Scorpion Fish",
+    "string": "Pez escorpión",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodAtlanticCod",
+    "form_id": "050008A2|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cod",
+    "string": "Bacalao",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodArcticGrayling",
+    "form_id": "050008A3|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Arctic Grayling",
+    "string": "Trucha alpina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodArcticChar",
+    "form_id": "050008A4|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Arctic Char",
+    "string": "Salvelino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodAnglerCooked",
+    "form_id": "050008A5|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Cooked Angler",
+    "string": "Pejesapo cocinado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_PotionSkooma",
+    "form_id": "05000BB7|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Disguised Invisibility Potion",
+    "string": "Poción de invisibilidad camuflada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_MiscKhajiit_AgedFlin",
+    "form_id": "05000C2D|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Aged Flin",
+    "string": "Flin añejo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodCrabMeat",
+    "form_id": "05000EFE|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Crab Meat",
+    "string": "Carne de cangrejo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodSoupCreamyCrabBisque",
+    "form_id": "05000F02|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Creamy Crab Bisque",
+    "string": "Crema de cangrejo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodSoupTomatoCrabBisque",
+    "form_id": "05000F04|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Roasted Tomato Crab Bisque",
+    "string": "Crema de cangrejo con tomate asado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodSoupPotatoCrabChowder",
+    "form_id": "05000F06|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Potato Crab Chowder",
+    "string": "Sopa de almejas con papas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodSoupCreamyCrabBisqueHOT",
+    "form_id": "05000F0A|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Hot Creamy Crab Bisque",
+    "string": "Crema de cangrejo caliente",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodSoupPotatoCrabChowderHOT",
+    "form_id": "05000F0B|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Hot Potato Crab Chowder",
+    "string": "Sopa de almejas con papas caliente",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodSoupTomatoCrabBisqueHOT",
+    "form_id": "05000F0C|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Hot Roasted Tomato Crab Bisque",
+    "string": "Crema de cangrejo con tomate asado caliente",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodSlaughterfish",
+    "form_id": "05000F25|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Slaughterfish",
+    "string": "Pez asesino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodSoupCrabStew",
+    "form_id": "05000F76|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Crab Stew",
+    "string": "Estofado de cangrejo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodSoupCrabStewHOT",
+    "form_id": "05000F77|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Hot Crab Stew",
+    "string": "Estofado de cangrejo caliente",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FoodCrabCakes",
+    "form_id": "05000F78|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Crab Cakes",
+    "string": "Pasteles de cangrejo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "Skyrim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmWorld",
+    "form_id": "0001691D|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Windhelm",
+    "string": "Ventalia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FallowstoneCaveWorldEnd",
+    "form_id": "000204C7|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Giant's Grove",
+    "string": "Arboleda del Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SouthfringeWorld",
+    "form_id": "00020BFE|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Southfringe Sanctum",
+    "string": "Sagrario del Confín Meridional",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LabyrinthianWorld04",
+    "form_id": "00021EDB|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Labyrinthian, Tribune",
+    "string": "Laberintia, tribuna",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DeepwoodRedoubtWorld",
+    "form_id": "00029AB7|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Deepwood Vale",
+    "string": "Valle de Bosque Profundo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JaphetsFollyWorld",
+    "form_id": "00094B35|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Japhet's Folly",
+    "string": "Locura de Japhet",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC01FalmerValley",
+    "form_id": "02000BB5|Dawnguard.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Forgotten Vale",
+    "string": "Valle Olvidado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1HunterHQWorld",
+    "form_id": "02001DB8|Dawnguard.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Dayspring Canyon",
+    "string": "Cañón de la Aurora",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1AncestorsGladeWorld",
+    "form_id": "020048C7|Dawnguard.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Ancestor Glade",
+    "string": "Claro de los Ancestros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2SolstheimWorld",
+    "form_id": "04000800|Dragonborn.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Solstheim",
+    "string": "Solstheim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowLS",
+    "form_id": "06050663|iNeed.esp",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "Snow can be collected from medium to large snow drifts by activating them. Use a Cooking Pot to melt the snow into water.",
+    "string": "La nieve puede recolectarse de montículos de nieve medianos a grandes al activarlos. Usa un perol de cocina para derretir la nieve en agua.",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,7 @@
+{
+    "papyrus_event": "PartySheet_Open",
+    "menuName": "Miembros de la Party",
+    "icon": "human",
+    "priority": 66,
+    "category": "top"
+}

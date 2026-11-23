@@ -1,0 +1,83 @@
+[
+  {
+    "editor_id": "MFO_FieldOrdersPower",
+    "form_id": "01000801|MFO.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Field Orders",
+    "string": "Órdenes de Campo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MFO_FieldOrdersPower",
+    "form_id": "01000801|MFO.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Look at a follower and use this to open their Gambit Board.",
+    "string": "Mira a un seguidor y usa esto para abrir su Tablero de Gambitos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MFO_StorageChest",
+    "form_id": "01000917|MFO.esp",
+    "index": 1,
+    "type": "CONT FULL",
+    "original": "MFO Follower Storage",
+    "string": "MFO Follower Storage",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MFO_StartupQuest",
+    "form_id": "01000804|MFO.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "MFO Startup",
+    "string": "Inicio de MFO",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MFO_MCMQuest",
+    "form_id": "01000808|MFO.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "MFO MCM",
+    "string": "MCM de MFO",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MFO_CommandQuest",
+    "form_id": "0100080A|MFO.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "MFO Command",
+    "string": "Comando de MFO",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MFO_LootQuest",
+    "form_id": "0100080C|MFO.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "MFO Loot",
+    "string": "Saqueo de MFO",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MFO_RetreatQuest",
+    "form_id": "01000830|MFO.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "MFO Retreat",
+    "string": "Retirada de MFO",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "MFO_TradeQuest",
+    "form_id": "0100080E|MFO.esp",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "MFO Trade",
+    "string": "Intercambio de MFO",
+    "status": "TranslationComplete"
+  }
+]

@@ -1,0 +1,1431 @@
+{
+  "modName": "MFO",
+  "displayName": "Marth Follower Overhaul",
+  "minMcmVersion": 9,
+  "cursorFillMode": "topToBottom",
+  "pages": [
+    {
+      "pageDisplayName": "Guiar",
+      "cursorFillMode": "topToBottom",
+      "content": [
+        {
+          "text": "Cómo leer esta página",
+          "type": "header"
+        },
+        {
+          "text": "Acerca de esta página",
+          "type": "text",
+          "help": "Esta página no cambia nada. Resalta una línea para leer información sobre esa parte de MFO en el cuadro de abajo. Cada línea indica qué hace la función, cuándo se ejecuta, qué puedes controlar y dónde hacerlo. La etiqueta a la derecha de cada línea indica la página del MCM o la pantalla del tablero que la controla.",
+          "valueOptions": {
+            "value": "Read only"
+          }
+        },
+        {
+          "text": "El tablero y las tácticas",
+          "type": "header"
+        },
+        {
+          "text": "Dos tablas",
+          "type": "text",
+          "help": "Cada seguidor tiene dos listas de reglas. La tabla de combate se ejecuta durante los enfrentamientos. La tabla de logística se ejecuta el resto del tiempo (saquear, beber, reabastecerse, esperar). Nunca se mezclan, así que una regla de combate no puede saquear y una regla de logística no puede atacar. Escribes ambas en el tablero de Órdenes de campo.",
+          "valueOptions": {
+            "value": "Board"
+          }
+        },
+        {
+          "text": "Cómo se elige una regla",
+          "type": "text",
+          "help": "Una regla consta de una condición y una acción. El seguidor lee la lista desde arriba y ejecuta la primera regla cuya condición se cumple y que puede llevar a cabo. Después se detiene durante ese ciclo, por lo que un seguidor solo hace una cosa a la vez. Si una regla no puede ejecutarse (no dispone de ese hechizo, no tiene suficiente magia, la pila de pociones está vacía o el objetivo está fuera de alcance), se omite y se da paso a la siguiente regla. Una regla que siempre se cumple y siempre puede ejecutarse, situada en una posición alta, oculta todas las que están debajo. Deja las reglas generales, como Siempre y Enemigo: Más cercano, al final.",
+          "valueOptions": {
+            "value": "Board"
+          }
+        },
+        {
+          "text": "Tablero de Órdenes de campo",
+          "type": "text",
+          "help": "Ábrelo con el poder Órdenes de campo o con una tecla que asignes en la página Interfaz (sin asignar de forma predeterminada). Tiene una lista de seguidores y el editor de tácticas. Cada regla muestra un resumen en lenguaje sencillo. Una regla que acaba de ejecutarse muestra una estrella verde parpadeante, y al pasar el cursor sobre una regla se muestra el último motivo por el que no se ejecutó, como no tener suficiente magia. La navegación con mando funciona en todas las pantallas. El ajuste Apariencia del tablero de la página Interfaz cambia su aspecto.",
+          "valueOptions": {
+            "value": "Board / Interface"
+          }
+        },
+        {
+          "text": "HUD de combate",
+          "type": "text",
+          "help": "Una superposición pasiva que no requiere ninguna entrada. Muestra el rango, la afinidad, la salud, la magia, el aguante y la distancia actuales de cada seguidor. Actívala o desactívala con Mostrar HUD de combate o con su tecla de acceso rápido en la página Interfaz. Los dos controles deslizantes de margen de esa página permiten separarla de los HUD de otros mods.",
+          "valueOptions": {
+            "value": "Interface"
+          }
+        },
+        {
+          "text": "Condiciones y objetivos",
+          "type": "text",
+          "help": "Las condiciones examinan al seguidor, a un aliado, a un enemigo o a ti. Muchas condiciones de enemigo también seleccionan el objetivo que utiliza la acción, por ejemplo Enemigo: Menos salud o Enemigo: Vulnerable al fuego. Si una condición no encuentra a nadie, simplemente se considera falsa y la lista continúa. Enemigo: Cantidad mínima solo cuenta enemigos, no selecciona ninguno, así que combínala con Huir hacia el jugador, Esperar, una acción de equipamiento o un hechizo sobre uno mismo. Los valores vitales se expresan en porcentajes, por lo que un 40 por ciento funciona con cualquier seguidor.",
+          "valueOptions": {
+            "value": "Board"
+          }
+        },
+        {
+          "text": "Acciones de postura de combate",
+          "type": "text",
+          "help": "Equipar arma cuerpo a cuerpo y Equipar arma a distancia establecen toda la postura del seguidor, no solo el arma que tiene en la mano. Si el seguidor ya lleva el tipo de arma adecuado, la regla se omite y las reglas inferiores siguen ejecutándose. Coloca una regla de postura por encima de una regla de ataque. La acción Atacar por sí sola deja que el juego elija el arma.",
+          "valueOptions": {
+            "value": "Board"
+          }
+        },
+        {
+          "text": "Selector de clase",
+          "type": "text",
+          "help": "En el tablero puedes asignar a un seguidor las clases Automático, Cuerpo a cuerpo, A distancia o Mago. La selección es global y tiene prioridad sobre las reglas de postura de la lista. Automático no cambia nada y es la opción segura para seguidores personalizados.",
+          "valueOptions": {
+            "value": "Board"
+          }
+        },
+        {
+          "text": "Ranuras y afinidad",
+          "type": "text",
+          "help": "Las ranuras de reglas se desbloquean mediante la afinidad, que aumenta cuando luchas junto a ese seguidor en concreto. No se comparte entre seguidores y se conserva aunque despidas a uno. El rango I proporciona 3 ranuras de combate y 4 de logística; el rango III, 7 y 6; y el rango V, 12 y 8. La velocidad de afinidad y las bonificaciones por jefes y dragones se encuentran en la página Jugabilidad. La afinidad desbloquea ranuras, pero no cambia el tiempo de reacción. Desbloquear todas las ranuras de tácticas en la página Depuración abre todas las ranuras para realizar pruebas.",
+          "valueOptions": {
+            "value": "Board / Gameplay"
+          }
+        },
+        {
+          "text": "Límite de confianza",
+          "type": "text",
+          "help": "La distancia a la que un seguidor se aleja de ti depende de lo seguro que se sienta. Si está sano en una zona fácil, se alejará para saquear y luchar. Si está herido o en inferioridad numérica, se acercará a ti. No verás ningún número, sino que lo notarás por su comportamiento. La página Capa de comportamiento establece los límites mínimo y máximo de esta distancia. Este límite también restringe cuánto persiguen a los enemigos y hasta dónde caminan para saquear.",
+          "valueOptions": {
+            "value": "Behaviour Layer"
+          }
+        },
+        {
+          "text": "Tiempo de reacción",
+          "type": "text",
+          "help": "Los seguidores no reaccionan como un metrónomo. Cada decisión tiene un retraso similar al de una persona, con cierta variación, y cada seguidor tiene sus propias peculiaridades. No hay ningún ajuste relacionado con esto.",
+          "valueOptions": {
+            "value": "Automatic"
+          }
+        },
+        {
+          "text": "Roles de combate y lanzamiento de hechizos",
+          "type": "header"
+        },
+        {
+          "text": "Acciones de lanzamiento",
+          "type": "text",
+          "help": "Lanzar sobre uno mismo y Lanzar sobre un objetivo requieren un hechizo específico. Si el objetivo está fuera del alcance del hechizo, se omite la acción, así que coloca una alternativa debajo de un hechizo de largo alcance. Los hechizos de utilidad sin objetivo, como Luz de mago, se lanzan sobre ti. Los hechizos de concentración (Llamas, Manos curativas) se canalizan en ráfagas cortas, y un rayo hostil se interrumpe en cuanto un compañero cruza la línea de fuego. Lanzar sobre el jugador está disponible en la tabla de logística para aplicar mejoras y restaurar recursos fuera del combate.",
+          "valueOptions": {
+            "value": "Board"
+          }
+        },
+        {
+          "text": "Lanzamientos animados",
+          "type": "text",
+          "help": "Durante el combate, los hechizos se lanzan mediante el sistema de lanzamiento propio del seguidor, para que veas la animación real de sus manos. Las tácticas de curación se ejecutan de una en una, empezando por quien tenga menos salud. El ajuste Curaciones animadas en combate de la página Combate y lanzamiento desactiva las animaciones de curación, haciendo que las curaciones se apliquen al instante. Fuera del combate, las curaciones, las mejoras y las invocaciones también se animan de forma predeterminada (sistema Harbinger; ajuste INI bSubstrateCasts). Todo esto requiere Harbinger.",
+          "valueOptions": {
+            "value": "Harbinger"
+          }
+        },
+        {
+          "text": "Lanzamientos animados fuera del combate",
+          "type": "text",
+          "help": "Una curación, una mejora o una invocación fuera del combate también puede reproducir la animación real mediante un sistema de combate proporcionado por Harbinger. Requiere Harbinger y está activado de forma predeterminada. No tiene ningún interruptor en el MCM. El ajuste es bSubstrateCasts, en la sección Debug de MFO.ini (asígnale el valor 0 para desactivarlo). Cuando está activado, nunca se lanza un hechizo mientras te escabulles, y los lanzamientos rechazados se omiten y se registran en el archivo de registro, nunca se ejecutan mediante el método instantáneo. Los lanzamientos hostiles fuera del combate y los hechizos de concentración no forman parte de este sistema.",
+          "valueOptions": {
+            "value": "Harbinger"
+          }
+        },
+        {
+          "text": "Opciones de lanzamiento",
+          "type": "text",
+          "help": "Equipar hechizos para lanzar coloca un hechizo de táctica en la mano del seguidor para que su propia IA lo lance. El lanzamiento por influencia permite que un seguidor lance hechizos mientras se mueve y lucha (requiere reiniciar el juego). El control de lanzamiento establece el grado en que MFO sustituye la elección de hechizos del propio seguidor, desde Desactivado hasta Hechizo exacto. La selección de objetivos dirigida permite que las tácticas de ataque elijan al enemigo (requiere reiniciar el juego). La reserva de magia es la cantidad de magia que una táctica no gastará por debajo de ese límite.",
+          "valueOptions": {
+            "value": "Combat & Casting"
+          }
+        },
+        {
+          "text": "Provocar",
+          "type": "text",
+          "help": "La acción Provocar reproduce una animación de provocación. Una vez que se ha reproducido realmente, los enemigos cercanos que ya estén luchando contra tu grupo tienen la posibilidad de cambiar su objetivo y atacar a quien los provoca. Un personaje que provoca y tiene un nivel más alto tiene más probabilidades de conseguirlo. Los enemigos atraídos permanecerán centrados en él durante el tiempo establecido en la página Capa de comportamiento. Combínala con la condición Enemigo: Apuntando a un aliado. Requiere Harbinger.",
+          "valueOptions": {
+            "value": "Board / Behaviour Layer"
+          }
+        },
+        {
+          "text": "Armas de plata",
+          "type": "text",
+          "help": "Cambiar a arma de plata, junto con la condición Enemigo objetivo: Impío, equipa la mejor arma de plata en la mano principal mientras el objetivo sea más vulnerable a la plata. El arma principal original se vuelve a equipar 2 segundos después de que el objetivo deje de ser impío. Los arqueros utilizan flechas o virotes de plata del mismo modo. El seguidor conserva y repone las armas de plata.",
+          "valueOptions": {
+            "value": "Board"
+          }
+        },
+        {
+          "text": "Retirada y combate",
+          "type": "text",
+          "help": "Huir hacia el jugador es una acción de táctica que hace que un seguidor regrese contigo. Retirada automática en inferioridad numérica aplica la misma idea de forma automática. Está DESACTIVADA de forma predeterminada mientras se modifica. Enfrentarse a enemigos a la vista también está DESACTIVADA de forma predeterminada. Cuando está activada, un seguidor que pueda ver a un enemigo dentro de su límite de distancia inicia el combate. Requiere Harbinger y nunca inicia combates en ciudades, posadas o casas, ni contra guardias o habitantes de las ciudades. Ambos ajustes están en la página Logística.",
+          "valueOptions": {
+            "value": "Logistics"
+          }
+        },
+        {
+          "text": "Elección de equipo y armadura",
+          "type": "header"
+        },
+        {
+          "text": "Control del equipamiento",
+          "type": "text",
+          "help": "Con Harbinger instalado, MFO indica a Harbinger qué equipo debe llevar cada seguidor, y Harbinger lo equipa e impide que el juego le coloque otros objetos. Por eso un combatiente con dos armas sigue usando ambas y no se vuelve a aplicar un atuendo. El ajuste Control del equipamiento de Harbinger en la página Combate y lanzamiento lo desactiva, y entonces MFO equipa el equipo por su cuenta. No hace nada sin Harbinger.",
+          "valueOptions": {
+            "value": "Combat & Casting / Harbinger"
+          }
+        },
+        {
+          "text": "Armas",
+          "type": "text",
+          "help": "Las mejoras de armas se evalúan dentro de la propia clase de armas del seguidor. Un arma a dos manos prefiere una espada de dos manos a una daga, y un arquero no cambia su arma por una maza. Fuera del combate, el seguidor cambia a la mejor arma de la clase adecuada que posea. Nunca sustituye un arma que le hayas dado ni un arma de plata, de táctica, vinculada o de museo.",
+          "valueOptions": {
+            "value": "Automatic"
+          }
+        },
+        {
+          "text": "Armadura",
+          "type": "text",
+          "help": "La armadura se evalúa según su índice de protección en cada ranura, dentro de la clase de armadura que el seguidor puede usar. Un seguidor que use armadura ligera no recogerá armadura pesada. Usar cascos, en la página Logística, incluye cascos, sombreros y capuchas. Las diademas no cuentan como cascos. Puedes anular esta opción para cada seguidor en el tablero con el botón Cascos de la pestaña Tácticas.",
+          "valueOptions": {
+            "value": "Logistics"
+          }
+        },
+        {
+          "text": "Los magos se visten como magos",
+          "type": "text",
+          "help": "Un seguidor con tácticas de lanzamiento usa ropa y joyas (sombrero o diadema, túnica, guantes, zapatos, anillo y amuleto) en lugar de armadura con índice de protección cuando está activada la opción Los magos usan túnicas y joyas. La configuración de equipo mágico hace que las prendas encantadas que coincidan con su escuela de magia más utilizada tengan prioridad sobre la protección básica de la armadura, y Atuendo de mago: coincidencia estricta de escuela limita las piezas encantadas a sus dos mejores escuelas. El equipo de reserva del mago conserva un arma cuerpo a cuerpo secundaria para cuando se quede sin magia, una daga de forma predeterminada.",
+          "valueOptions": {
+            "value": "Logistics"
+          }
+        },
+        {
+          "text": "Viste tú mismo a los seguidores",
+          "type": "text",
+          "help": "Fashionrim (equipar armadura manualmente), en la página Interfaz, impide que MFO saquee, equipe y compre armaduras, para que puedas vestir tú mismo a los seguidores. La venta sigue funcionando. El equipo que se lleva puesto y el que tiene gemas engarzadas nunca se vende. Las armas no se ven afectadas.",
+          "valueOptions": {
+            "value": "Interface"
+          }
+        },
+        {
+          "text": "Saqueo",
+          "type": "header"
+        },
+        {
+          "text": "Reglas de saqueo",
+          "type": "text",
+          "help": "El saqueo es una acción de la tabla de logística. Las acciones de saqueo son: mejor equipo, oro, joyas, pociones (cualquiera o por tipo), flechas, virotes, gemas de alma, ganzúas y objetos de museo cuando está activada la compatibilidad con Legacy of the Dragonborn. Activar logística, en la página Logística, es el interruptor principal. El alcance de búsqueda de botín determina hasta dónde busca un seguidor.",
+          "valueOptions": {
+            "value": "Board / Logistics"
+          }
+        },
+        {
+          "text": "Caminar para saquear",
+          "type": "text",
+          "help": "Los seguidores caminan hasta el botín y lo recogen; no lo toman desde el otro lado de la habitación. La forma de caminar al saquear, el límite de altura, la espera entre grupos y la duración de las incursiones de saqueo se encuentran en la página Capa de comportamiento. Omiten el botín al que no pueden llegar mediante la malla de navegación. Nunca toman objetos que pertenezcan a otros y dejan de saquear por completo mientras te escabulles.",
+          "valueOptions": {
+            "value": "Behaviour Layer"
+          }
+        },
+        {
+          "text": "Tú tienes prioridad",
+          "type": "text",
+          "help": "Las flechas y las pociones se recogen inmediatamente. El equipo y el oro de un cadáver reciente esperan unos segundos para que puedas recogerlos tú, y la espera termina cuando tú mismo hayas recogido algo de ese cadáver. Los objetos valiosos esperan hasta que hayas tenido una oportunidad razonable de examinarlos. Los seguidores nunca caminan hacia el botín que esté dentro del área de seguridad que te rodea. La página Prioridad del botín contiene todos estos temporizadores.",
+          "valueOptions": {
+            "value": "Loot Priority"
+          }
+        },
+        {
+          "text": "Mejoras y sustituciones",
+          "type": "text",
+          "help": "Una regla determina si un objeto es una mejora, y se comparte entre el saqueo y las compras. Evalúa las armas y armaduras según la clase y el rol del seguidor. También evalúa las flechas y los virotes sueltos, así como la munición que compra un seguidor. Ignorar pociones débiles, en la página Logística, establece la poción de restauración más débil que vale la pena recoger. Si el valor es 0, utiliza el nivel de restauración más débil de tu orden de carga de mods.",
+          "valueOptions": {
+            "value": "Automatic"
+          }
+        },
+        {
+          "text": "Ganzúas",
+          "type": "text",
+          "help": "Un seguidor fuerza las cerraduras para las que tiene suficiente habilidad. Una cerradura de principiante puede abrirse con cualquier nivel de Ganzúa, mientras que una de experto requiere una habilidad cercana al dominio. Las cerraduras maestras y las puertas que requieren una llave están fuera de su alcance. Funciona con cofres y puertas cerradas que encuentre durante una ruta de saqueo. Requiere Harbinger y consume ganzúas.",
+          "valueOptions": {
+            "value": "Harbinger"
+          }
+        },
+        {
+          "text": "Casas del jugador",
+          "type": "text",
+          "help": "Los seguidores no saquean tu propia casa (cualquier celda que el juego marque como una casa del jugador). Activar Saquear en casas del jugador habilita esta función. Beber y reabastecerse tampoco se ven afectados, independientemente de la opción.",
+          "valueOptions": {
+            "value": "Logistics"
+          }
+        },
+        {
+          "text": "Artefactos y equipo con gemas engarzadas",
+          "type": "text",
+          "help": "Saquear artefactos y vender equipo con gemas engarzadas está ACTIVADO de forma predeterminada. Los seguidores saquean artefactos y objetos únicos, y venden equipo con gemas engarzadas, extrayendo primero las gemas cuando MEO lo permite. DESACTIVADO protege ambos tipos de objetos. Un seguidor nunca se quita un artefacto equipado y las misiones siguen protegiendo sus objetos en cualquier caso.",
+          "valueOptions": {
+            "value": "Logistics"
+          }
+        },
+        {
+          "text": "Legacy of the Dragonborn",
+          "type": "text",
+          "help": "La opción solo aparece cuando LOTD está instalado y está DESACTIVADA de forma predeterminada. Cuando está activada, el seguidor sabe qué objetos necesita todavía tu museo. Nunca vende una reliquia que necesite el museo. Un seguidor con la táctica Saquear objetos de museo lleva lo que encuentra a una caja cercana de Envíos del museo. Al activarla, se muestra una vez la introducción de envíos propia de LOTD.",
+          "valueOptions": {
+            "value": "Logistics"
+          }
+        },
+        {
+          "text": "Logística y economía",
+          "type": "header"
+        },
+        {
+          "text": "Venta",
+          "type": "text",
+          "help": "La economía de los seguidores (vender/comprar) permite que un seguidor venda sus objetos inútiles que no lleva equipados a un comerciante, empezando por los de mayor valor y sin superar el oro disponible del comerciante. El equipo que lleva puesto y el que quiere conservar no se vende. Con la opción DESACTIVADA, se realiza una simulación y solo se registra lo que se habría intercambiado. La venta requiere Papyrus Extender de powerofthree.",
+          "valueOptions": {
+            "value": "Logistics"
+          }
+        },
+        {
+          "text": "Comprar equipo",
+          "type": "text",
+          "help": "Un seguidor compra los suministros que le faltan según las existencias reales del comerciante, utilizando su propio oro. Con Economía: comprar mejoras de armas y armaduras activada, también compra una mejora asequible de arma, armadura o atuendo de mago por visita, siempre que cueste como máximo la mitad de su oro, para conservar una reserva.",
+          "valueOptions": {
+            "value": "Logistics"
+          }
+        },
+        {
+          "text": "Comprar tomos",
+          "type": "text",
+          "help": "Un seguidor mago (uno que tenga una táctica de lanzamiento) compra tomos de hechizos de sus dos mejores escuelas que aún no conozca y después los estudia. Un mago siempre aprende un tomo que le entregues, independientemente de lo que indique esta opción. La opción solo controla las compras.",
+          "valueOptions": {
+            "value": "Logistics"
+          }
+        },
+        {
+          "text": "Pociones y munición",
+          "type": "text",
+          "help": "Una regla de reabastecimiento, como Flechas por debajo de 10, establece la cantidad que falta. Con la economía activada, el seguidor también compra esa cantidad a un comerciante. Las pociones y la munición se seleccionan según sus efectos, obtenidos de tu orden de carga de mods, por lo que los objetos modificados también funcionan.",
+          "valueOptions": {
+            "value": "Board / Logistics"
+          }
+        },
+        {
+          "text": "Dónde se realizan los intercambios",
+          "type": "text",
+          "help": "Con Recados en la ciudad activado (la opción predeterminada) y Harbinger instalado, los seguidores solo comercian cuando caminan hacia una tienda en una ciudad, pueblo o asentamiento. Fuera de las poblaciones no comercian. Un viaje para vender comienza cuando los objetos vendibles valen al menos 100 de oro o cuando el seguidor lleva más del 80 por ciento de su capacidad de carga. Por eso la chatarra se acumula entre poblaciones. Con los recados desactivados o sin Harbinger, los seguidores no comercian en absoluto, a menos que el ajuste exclusivo del archivo INI bProximityTrading esté establecido en 1 (desactivado de forma predeterminada), lo que recupera el antiguo comercio instantáneo con cualquier comerciante cercano al seguidor.",
+          "valueOptions": {
+            "value": "Logistics / Harbinger"
+          }
+        },
+        {
+          "text": "Recados en la ciudad",
+          "type": "header"
+        },
+        {
+          "text": "El recorrido",
+          "type": "text",
+          "help": "En una ciudad, pueblo o asentamiento, un seguidor que tenga algo que vender, reponer o comprar realiza un único recorrido. Camina hasta el comerciante de cada tienda abierta, reproduce las animaciones de hablar, entregar y recoger, comercia y continúa. Un solo recorrido cubre todas sus necesidades. Economía: comprar en la ciudad (caminar hasta los comerciantes) es el interruptor y requiere Harbinger y la economía de los seguidores.",
+          "valueOptions": {
+            "value": "Logistics / Harbinger"
+          }
+        },
+        {
+          "text": "Templo",
+          "type": "text",
+          "help": "Antes de ir a la posada, un seguidor que esté enfermo o no haya recibido una bendición ese día visita el templo. Se arrodilla y luego utiliza el santuario para que su propio guion lo bendiga o lo cure. Lo intenta una vez por día de juego. Omite los templos cuya puerta esté cerrada con llave.",
+          "valueOptions": {
+            "value": "Logistics"
+          }
+        },
+        {
+          "text": "La posada al final",
+          "type": "text",
+          "help": "La posada siempre es la última parada. Compra una pequeña cantidad de comida al posadero, come y se queda en la posada. Come, descansa y duerme por la noche en una cama que no tenga dueño o que sea tuya. Entrar en la posada no hace que el seguidor se reúna contigo. El tablero muestra Descansando en el nombre de la posada mientras permanece allí.",
+          "valueOptions": {
+            "value": "Logistics"
+          }
+        },
+        {
+          "text": "Cuando termina la estancia",
+          "type": "text",
+          "help": "La estancia termina cuando sales de la ciudad, cuando comienza un combate o cuando esperas (un salto en el reloj del juego finaliza el recado igual que salir de la ciudad). Cuando termina un combate en la ciudad, se ejecuta un nuevo plan según sus necesidades actuales y la posada sigue siendo la última parada. Cuando termina un recorrido, no se planifica ningún recado nuevo hasta que salgas de la ciudad.",
+          "valueOptions": {
+            "value": "Logistics"
+          }
+        },
+        {
+          "text": "Tiendas que abren más tarde",
+          "type": "text",
+          "help": "Una tienda que estaba cerrada cuando planificó su recorrido se supervisa una vez por hora de juego mientras descansa. Cuando abre y tiene tareas que realizar allí, parte para un nuevo recorrido por las tiendas que han abierto, dejando de nuevo la posada para el final.",
+          "valueOptions": {
+            "value": "Logistics"
+          }
+        },
+        {
+          "text": "Simulación fuera de pantalla",
+          "type": "text",
+          "help": "Si abandonas la zona mientras un seguidor está realizando un recado, las compras y la estancia en la posada se simulan fuera de pantalla. Se le reserva la bendición que le habría dado el templo. Fuera de pantalla, solo se mejora la armadura. Las armas esperan hasta que el seguidor esté cargado. Cuando termina el recado, el seguidor vuelve a aparecer a tu lado.",
+          "valueOptions": {
+            "value": "Automatic"
+          }
+        },
+        {
+          "text": "Avisos de recados",
+          "type": "text",
+          "help": "Los recados en la ciudad son silenciosos de forma predeterminada. Economía: avisos de recados en la ciudad muestra una breve línea cuando un seguidor empieza a comerciar en una tienda.",
+          "valueOptions": {
+            "value": "Logistics"
+          }
+        },
+        {
+          "text": "Herrería y mejora de equipo",
+          "type": "header"
+        },
+        {
+          "text": "Recados de mejora",
+          "type": "text",
+          "help": "Durante un recorrido por la ciudad, un seguidor mejora las armas y armaduras que lleva hasta el nivel que permiten sus propias ventajas de Herrería y mejora de equipo. Compra los materiales durante el recorrido, recoge los que necesita sobre el terreno y trabaja en la piedra de afilar de la ciudad para las armas o en la mesa de trabajo para las armaduras. Los materiales solo se consumen después de confirmar la nueva calidad. Está activado de forma predeterminada y requiere los recados en la ciudad. Solo se configura mediante el archivo INI: bErrandSmith, en MFO.ini.",
+          "valueOptions": {
+            "value": "Logistics / Harbinger"
+          }
+        },
+        {
+          "text": "Progresión y clases",
+          "type": "header"
+        },
+        {
+          "text": "Puntos de ventaja",
+          "type": "text",
+          "help": "Los puntos de ventaja se calculan según el nivel del seguidor, con un punto cada 2 niveles de forma predeterminada. No se almacenan, por lo que los reembolsos son automáticos. Puedes gastarlos en el árbol de ventajas del tablero. Las ventajas que solo funcionan para el jugador se marcan como marginales, y las ventajas de luchar en solitario no tienen efecto en los seguidores.",
+          "valueOptions": {
+            "value": "Board"
+          }
+        },
+        {
+          "text": "Reserva de ventajas de fabricación",
+          "type": "text",
+          "help": "Las ventajas de fabricación tienen su propia reserva. Los seguidores obtienen un punto de fabricación cada 4 niveles de forma predeterminada, para los árboles de Herrería, Alquimia y Encantamiento. Una ventaja de fabricación utiliza primero la reserva de fabricación y, si se agota, recurre a la reserva general. Las demás ventajas solo utilizan la reserva general. El tablero muestra las ventajas de fabricación y la cantidad restante.",
+          "valueOptions": {
+            "value": "Board"
+          }
+        },
+        {
+          "text": "Progresión de clase",
+          "type": "text",
+          "help": "HMS de clase al subir de nivel redistribuye las ganancias de Salud, Magia y Aguante de cada nivel según la clase del seguidor. Un mago acumula la ganancia en Magia, un arquero en Aguante y un guerrero en Salud. El total coincide con el del juego original. El límite de redistribución de HMS fuera de la clase permite destinar parte del presupuesto a una reserva que el seguidor realmente utiliza en combate.",
+          "valueOptions": {
+            "value": "Gameplay"
+          }
+        },
+        {
+          "text": "Eliminar un seguidor",
+          "type": "text",
+          "help": "La pestaña Seguidores tiene un botón para eliminar, con una confirmación compatible con mando. La acción se rechaza mientras el seguidor te siga o siga siendo miembro de tu equipo. Recupera las ventajas, habilidades y valores de salud, magia y aguante que MFO haya establecido, y borra los datos de MFO correspondientes a ese seguidor.",
+          "valueOptions": {
+            "value": "Board"
+          }
+        },
+        {
+          "text": "Permanecer contigo",
+          "type": "header"
+        },
+        {
+          "text": "Reunión de seguidores",
+          "type": "text",
+          "help": "Unos 3 segundos después de un viaje rápido, una puerta de carga o un teletransporte, un seguidor que no haya llegado contigo se traslada a tu lado. Esto cubre otra celda, otro espacio del mundo o una distancia superior a 4096 unidades en exteriores. Nunca mueve a un seguidor al que hayas ordenado esperar, a uno despedido, a uno en combate ni a uno que esté realizando un recado en la ciudad. Está activado de forma predeterminada y no tiene un ajuste en el MCM (bFollowerCatchUp en MFO.ini). Un seguidor que atraviese la puerta por su cuenta puede aparecer detrás de ti.",
+          "valueOptions": {
+            "value": "Automatic"
+          }
+        },
+        {
+          "text": "Gemas (MEO)",
+          "type": "header"
+        },
+        {
+          "text": "Gestión de gemas",
+          "type": "text",
+          "help": "Requiere MEO, Marth's Enchanting Overhaul. Un seguidor nunca vende, suelta ni dona un objeto con gemas engarzadas. Las gemas se extraen primero, y cada gema que extrae se vuelve a colocar en su propio equipo equipado, en lugar de dejarla suelta. La opción Seguidores compatibles con MEO va más allá. Saben qué hace cada gema, llenan todas las ranuras vacías con la mejor gema (un mago prefiere las gemas de magia y de escuelas mágicas) y sustituyen las gemas por otras más potentes. Los seguidores nunca utilizan gemas de Conducto.",
+          "valueOptions": {
+            "value": "Logistics"
+          }
+        },
+        {
+          "text": "Harbinger",
+          "type": "header"
+        },
+        {
+          "text": "Qué es",
+          "type": "text",
+          "help": "Harbinger (APMF) es un mod independiente que permite que varios mods controlen al mismo seguidor sin interferir entre sí. MFO gestiona a través de él los lanzamientos de hechizos, los objetivos de combate, los paquetes de comportamiento y el equipo de cada seguidor. Así, un seguidor que otro mod mantiene inmóvil puede seguir saqueando, lanzando hechizos y retirándose.",
+          "valueOptions": {
+            "value": "Harbinger"
+          }
+        },
+        {
+          "text": "Qué funciones lo necesitan",
+          "type": "text",
+          "help": "Cuando Harbinger está presente, MFO lo utiliza automáticamente. Estas funciones lo necesitan: lanzamientos animados, control del equipamiento, ganzúas, recados en la ciudad, enfrentarse a enemigos a la vista y provocar. Sin Harbinger, o si la versión es demasiado antigua, MFO vuelve a utilizar sus métodos anteriores y lo indica en el registro. Avisar cuando falta Harbinger, en la página Combate y lanzamiento, muestra un pequeño recordatorio aproximadamente cada 10 minutos mientras no esté instalado.",
+          "valueOptions": {
+            "value": "Harbinger"
+          }
+        },
+        {
+          "text": "La página Depuración",
+          "type": "header"
+        },
+        {
+          "text": "Página Depuración",
+          "type": "text",
+          "help": "Está pensada para realizar pruebas y para utilizar el método anterior cuando Harbinger no está instalado. Reafirmar el estilo de combate en cada ciclo es una herramienta de diagnóstico para detectar tirones durante el combate. Desbloquear todas las ranuras de tácticas abre todas las ranuras de todos los seguidores. La tolerancia de lanzamiento de la IA y el tiempo de reutilización de lanzamiento solo se aplican al método de lanzamiento anterior. Deja los cuatro ajustes sin modificar, salvo que estés realizando pruebas.",
+          "valueOptions": {
+            "value": "Debug"
+          }
+        },
+        {
+          "text": "Dónde se encuentran los ajustes",
+          "type": "header"
+        },
+        {
+          "text": "Mapa de ajustes",
+          "type": "text",
+          "help": "Jugabilidad: afinidad y progresión de clase. Combate y lanzamiento: lanzamiento de hechizos, control de lanzamiento, control del equipamiento y curaciones animadas. Logística: saqueo, economía, recados en la ciudad, uso de equipo, gemas, retirada y combate. Prioridad del botín: temporizadores de prioridad y objetos valiosos. Capa de comportamiento: límite de distancia, desplazamiento para saquear y duración de la provocación. Interfaz: apariencia del tablero, HUD, teclas de acceso rápido y Fashionrim. Depuración: ajustes de prueba.",
+          "valueOptions": {
+            "value": "All pages"
+          }
+        }
+      ]
+    },
+    {
+      "pageDisplayName": "Jugabilidad",
+      "cursorFillMode": "topToBottom",
+      "content": [
+        {
+          "text": "Afinidad",
+          "type": "header"
+        },
+        {
+          "id": "fRapportRate:General",
+          "text": "Tasa de afinidad",
+          "type": "slider",
+          "help": "Multiplicador de toda la afinidad obtenida.",
+          "valueOptions": {
+            "min": 0.0,
+            "max": 5.0,
+            "step": 0.05,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 2.0
+          }
+        },
+        {
+          "id": "fRapportKill:General",
+          "text": "Afinidad por muerte",
+          "type": "slider",
+          "valueOptions": {
+            "min": 0.0,
+            "max": 10.0,
+            "step": 0.5,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 1.0
+          }
+        },
+        {
+          "id": "fRapportBossMult:General",
+          "text": "Multiplicador de jefe",
+          "type": "slider",
+          "help": "Multiplicador de afinidad por matar a un enemigo que tenga al menos este número de niveles más que tú.",
+          "valueOptions": {
+            "min": 1.0,
+            "max": 20.0,
+            "step": 0.5,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 5.0
+          }
+        },
+        {
+          "id": "fRapportDragonMult:General",
+          "text": "Multiplicador de dragón",
+          "type": "slider",
+          "valueOptions": {
+            "min": 1.0,
+            "max": 30.0,
+            "step": 0.5,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 10.0
+          }
+        },
+        {
+          "id": "iBossLevelDelta:General",
+          "text": "Diferencia de nivel de jefe",
+          "type": "slider",
+          "help": "Un enemigo que tenga al menos este número de niveles más que tú cuenta como jefe.",
+          "valueOptions": {
+            "min": 1,
+            "max": 30,
+            "step": 1,
+            "sourceType": "ModSettingInt",
+            "defaultValue": 5
+          }
+        },
+        {
+          "id": "fSharedRadius:General",
+          "text": "Radio de muertes compartidas",
+          "type": "slider",
+          "help": "Un seguidor dentro de este alcance comparte el crédito por la muerte.",
+          "valueOptions": {
+            "min": 500.0,
+            "max": 8000.0,
+            "step": 100.0,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 3000.0
+          }
+        },
+        {
+          "id": "bRapportToasts:General",
+          "text": "Notificaciones de aumento de rango",
+          "type": "toggle",
+          "help": "ACTIVADO (predeterminado): una línea del HUD cuando aumenta el rango de afinidad de un seguidor (\"Lydia lucha a tu lado con renovada determinación\"). Los cambios de rango son poco frecuentes, por lo que no puede generar mensajes repetitivos. DESACTIVADO: los cambios de rango solo aparecen en el registro.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "text": "Progresión de clase (HMS)",
+          "type": "header"
+        },
+        {
+          "id": "bHmsRedistribute:General",
+          "text": "HMS de clase al subir de nivel",
+          "type": "toggle",
+          "help": "ACTIVADO (predeterminado): en cada nivel, las ganancias de Salud, Magia y Aguante de un seguidor se redistribuyen según su clase (un mago acumula la ganancia en Magia, un arquero en Aguante y un guerrero en Salud). La ganancia total coincide con la del juego original; solo cambia la distribución. DESACTIVADO: las ganancias de HMS por nivel del juego original permanecen intactas.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "id": "fHmsSkewMax:General",
+          "text": "Límite de redistribución de HMS fuera de la clase",
+          "type": "slider",
+          "help": "Porcentaje del presupuesto de HMS de cada nivel que puede trasladarse de la reserva principal de la clase a una reserva de otra clase que el seguidor utilice realmente en combate (por ejemplo, un mago de batalla que obtiene algo de Magia). 0 desactiva la redistribución; 20 es el valor predeterminado.",
+          "valueOptions": {
+            "min": 0.0,
+            "max": 100.0,
+            "step": 5.0,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 20.0
+          }
+        }
+      ]
+    },
+    {
+      "pageDisplayName": "Combate y lanzamiento",
+      "cursorFillMode": "topToBottom",
+      "content": [
+        {
+          "text": "Tácticas",
+          "type": "header"
+        },
+        {
+          "id": "bEquipToCast:General",
+          "text": "Equipar hechizos para lanzar",
+          "type": "toggle",
+          "help": "Coloca un hechizo de táctica en la mano del seguidor para que su propia IA lo lance.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "id": "bCasterHook:General",
+          "text": "Lanzamiento por influencia (en movimiento)",
+          "type": "toggle",
+          "help": "Permite que un seguidor lance un hechizo de táctica mientras sigue moviéndose y luchando. Instala un enganche y requiere reiniciar el juego.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "id": "iCastControl:General",
+          "text": "Control de lanzamiento",
+          "type": "enum",
+          "help": "Determina hasta qué punto se sustituye la selección de hechizos del propio seguidor por el hechizo elegido en la táctica. Desactivado: sin control. Ignorar mejoras y curaciones: fuerza la táctica para los ataques y permite que el seguidor aplique mejoras y se cure libremente. Ignorar curaciones: también toma el control de las mejoras. Ignorar autocuraciones: también toma el control de la curación de otros. Hechizo exacto: solo se lanza el hechizo de la táctica.",
+          "valueOptions": {
+            "sourceType": "ModSettingInt",
+            "options": [
+              "Off",
+              "Ignore buffs & heals",
+              "Ignore heals",
+              "Ignore self-heals",
+              "Exact spell"
+            ],
+            "defaultValue": 2
+          }
+        },
+        {
+          "id": "bCommandTarget:General",
+          "text": "Selección de objetivos dirigida",
+          "type": "toggle",
+          "help": "Permite que las tácticas de ataque elijan contra qué enemigo lucha un seguidor. Requiere reiniciar el juego.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "id": "bApmfEquipAuthority:General",
+          "text": "Control del equipamiento de Harbinger",
+          "type": "toggle",
+          "help": "ACTIVADO (predeterminado): con Harbinger (APMF) instalado, MFO declara el equipo que lleva cada seguidor a Harbinger, que lo equipa e impide que el juego le coloque otros objetos (sin que vuelva a equiparse un escudo a un combatiente con dos armas ni se reaplique un atuendo). DESACTIVADO: MFO equipa el equipo directamente como antes. No tiene efecto si Harbinger no está instalado o es anterior a ABI v9.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "id": "bWarnNoApmf:General",
+          "text": "Avisar cuando falte Harbinger (APMF)",
+          "type": "toggle",
+          "help": "ACTIVADO (predeterminado): MFO funciona mejor con Harbinger (APMF) instalado. Si no está en tu orden de carga de mods, muestra un discreto aviso en una esquina aproximadamente cada 10 minutos para recordarte que MFO está utilizando su sistema alternativo heredado. DESACTIVADO: nunca muestra el aviso, para quienes deciden no utilizar APMF. No tiene ningún efecto cuando APMF está instalado.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "id": "bHealAnimPackage:General",
+          "text": "Curaciones animadas en combate",
+          "type": "toggle",
+          "help": "ACTIVADO (predeterminado): durante el combate, el seguidor lanza las tácticas de curación con la animación real de las manos, una por una, empezando por quien tenga menos salud. Fuera del combate también se animan, a menos que bSubstrateCasts esté establecido en 0 en MFO.ini. DESACTIVADO: todas las curaciones se aplican al instante, sin animación. Requiere Harbinger.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "text": "Temporización",
+          "type": "header"
+        },
+        {
+          "id": "fMagickaReserve:General",
+          "text": "Reserva de magia",
+          "type": "slider",
+          "help": "Fracción de magia por debajo de la cual una táctica no gastará más magia. 0 = gastar libremente.",
+          "valueOptions": {
+            "min": 0.0,
+            "max": 0.9,
+            "step": 0.05,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 0.0
+          }
+        },
+        {
+          "text": "IA inteligente",
+          "type": "header"
+        },
+        {
+          "id": "bIausAvailable:General",
+          "text": "IA inteligente disponible",
+          "type": "toggle",
+          "help": "ACTIVADA (predeterminado): cada seguidor puede cambiarse a IA inteligente desde el panel, donde evalúa todas las acciones que podría realizar durante un combate y elige la mejor. La opción del panel está desactivada para todos los seguidores hasta que la actives. DESACTIVADA: ningún seguidor utiliza la IA inteligente y todos vuelven a sus tácticas de combate. Se conserva la elección individual de cada uno y se recupera cuando se vuelve a activar.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        }
+      ]
+    },
+    {
+      "pageDisplayName": "Logística",
+      "cursorFillMode": "topToBottom",
+      "content": [
+        {
+          "text": "Comportamiento fuera de combate",
+          "type": "header"
+        },
+        {
+          "id": "bLogistics:General",
+          "text": "Activar logística",
+          "type": "toggle",
+          "help": "Permite que los seguidores beban pociones y saqueen flechas, pociones y equipo fuera del combate.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "id": "bLootInPlayerHomes:General",
+          "text": "Saqueo en casas del jugador",
+          "type": "toggle",
+          "help": "DESACTIVADO (predeterminado): los seguidores nunca saquean tu propia casa (cualquier celda marcada como LocTypePlayerHouse). ACTIVADO: también saquean allí. Beber y reabastecerse no se ven afectados en ningún caso.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 0
+          }
+        },
+        {
+          "id": "bLootSpecialItems:General",
+          "text": "Saquear artefactos y vender equipo con gemas engarzadas",
+          "type": "toggle",
+          "help": "ACTIVADO (predeterminado): los seguidores saquean artefactos y objetos únicos, y VENDEN el equipo con gemas engarzadas en lugar de dejar que se acumule sin vender. Primero extraen y conservan las gemas cuando tu mod de gemas (MEO) lo permite; de lo contrario, venden el objeto tal como está. DESACTIVADO: ambos tipos de objetos quedan protegidos; nunca se saquean artefactos ni se vende equipo con gemas engarzadas. En cualquier caso, un seguidor nunca se quita un artefacto equipado y los objetos de misión siempre están protegidos por el motor del juego.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "id": "bIausThiefNeedSteal:General",
+          "text": "Los ladrones roban lo que necesitan",
+          "type": "toggle",
+          "help": "ACTIVADO (predeterminado): cuando el saqueo de la IA inteligente está activado, un seguidor cuya clase pertenezca a la línea de los ladrones (Ladrón, Maestro ladrón, Ruiseñor, Oyente) también considera robar ganzúas, gemas del alma o pociones bebibles que necesite para su inventario, siempre que estén marcadas como propiedad de alguien y mientras esté en sigilo. Nunca roba monedas, objetos valiosos ni joyas. DESACTIVADO: no roba objetos según sus necesidades (las tácticas de robo que le hayas asignado siguen funcionando como antes).",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "id": "iMinPotionMag:General",
+          "text": "Ignorar pociones débiles (potencia mínima)",
+          "type": "slider",
+          "help": "Las pociones de restauración cuya magnitud sea inferior a este valor se ignoran por completo; el resto se saquean de mayor a menor potencia. 0 = AUTOMÁTICO: utiliza el nivel de restauración más débil de tu orden de carga de mods (se registra como [potfloor] al iniciar, por ejemplo, descarta las pociones \"Menores\", pero conserva las estándar y superiores). Un valor positivo establece un límite mínimo explícito para salud, aguante y magia. Las pociones de fortificación y curación de enfermedades nunca se filtran.",
+          "valueOptions": {
+            "min": 0,
+            "max": 500,
+            "step": 5,
+            "sourceType": "ModSettingInt",
+            "defaultValue": 0
+          }
+        },
+        {
+          "id": "bEconomy:General",
+          "text": "Economía de los seguidores (vender/comprar)",
+          "type": "toggle",
+          "help": "ACTIVADO (predeterminado): cuando un seguidor está junto a un comerciante, vende los objetos inútiles que no lleva equipados (empezando por los de mayor valor y limitado por el oro del comerciante) y compra los suministros que le faltan. Coloca a un seguidor junto a un comerciante para comerciar. DESACTIVADO: modo de simulación; solo REGISTRA lo que habría intercambiado.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "id": "bEconomyBuyGear:General",
+          "text": "Economía: comprar mejoras de armas y armaduras",
+          "type": "toggle",
+          "help": "ACTIVADO (predeterminado): con la economía de los seguidores activada, un seguidor junto a un comerciante también compra UNA mejora asequible de arma, armadura o, en el caso de los magos, atuendo de escuela mágica por visita. Solo lo hace si el objeto cuesta el 50 % o menos de su oro, para conservar una reserva. DESACTIVADO: sigue vendiendo objetos inútiles y reponiendo suministros, pero no compra equipo.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "id": "bEconomyBuyTomes:General",
+          "text": "Economía: comprar y aprender tomos de hechizos",
+          "type": "toggle",
+          "help": "ACTIVADO (predeterminado): con la economía de los seguidores activada, un seguidor MAGO (uno que tenga una táctica de lanzamiento) compra tomos de hechizos de sus dos mejores escuelas de magia que aún no conozca y después los estudia para aprender los hechizos. Un mago siempre aprende un tomo que le entregues directamente, independientemente de este ajuste; esta opción solo controla las COMPRAS. DESACTIVADO: los magos no compran tomos.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "id": "bTownErrands:General",
+          "text": "Economía: comprar en la ciudad (caminar hasta los comerciantes)",
+          "type": "toggle",
+          "help": "ACTIVADO (predeterminado): con Harbinger instalado y la economía de los seguidores activada, los seguidores dejan de comerciar al instante con cualquier comerciante cercano. Cuando estás en una ciudad, pueblo o asentamiento y un seguidor tiene algo que vender, suministros que reponer o una mejora asequible que comprar, camina hasta el comerciante de una tienda abierta, reproduce las animaciones de hablar, entregar y recoger, comercia y vuelve contigo. Requiere Harbinger (APMF). DESACTIVADO: los seguidores no comercian, a menos que el ajuste exclusivo del archivo INI bProximityTrading esté establecido en 1 (desactivado de forma predeterminada), lo que recupera el antiguo comercio instantáneo con cualquier comerciante cercano al seguidor.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "id": "bTownToasts:General",
+          "text": "Economía: avisos de recados en la ciudad",
+          "type": "toggle",
+          "help": "DESACTIVADO (predeterminado): los recados en la ciudad son silenciosos. ACTIVADO: muestra una breve línea del HUD cuando un seguidor empieza a comerciar en una tienda (\"Auri está comerciando con Niranye\"). Una línea por recado, sin cantidades ni avisos de fallos. Solo tiene efecto cuando \"Economía: comprar en la ciudad\" está activado.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 0
+          }
+        },
+        {
+          "id": "iErrandGait:General",
+          "text": "Economía: velocidad al caminar durante los recados en la ciudad",
+          "type": "enum",
+          "help": "Determina la velocidad a la que los seguidores caminan hasta una tienda durante un recado en la ciudad. Caminar, Trotar o Correr, de menor a mayor velocidad. Es independiente del ajuste de desplazamiento para saquear. Correr es la opción predeterminada.",
+          "valueOptions": {
+            "sourceType": "ModSettingInt",
+            "options": [
+              "Walk",
+              "Jog",
+              "Run"
+            ],
+            "defaultValue": 2
+          }
+        },
+        {
+          "id": "bWearHelmets:General",
+          "text": "Usar cascos",
+          "type": "toggle",
+          "help": "ACTIVADO (predeterminado): los seguidores saquean, compran y llevan cascos, sombreros y capuchas. DESACTIVADO: los seguidores no los saquean ni los compran (tampoco durante los recados en la ciudad), no se los equipan y los cascos que llevan permanecen en su bolsa. Las diademas no son cascos. Puedes anular esta opción para cada seguidor en el tablero (pestaña Tácticas, botón Cascos).",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "id": "bMageWearRobes:General",
+          "text": "Los magos usan túnicas y joyas",
+          "type": "toggle",
+          "help": "ACTIVADO (predeterminado): un seguidor lanzador de hechizos o especializado en magia viste ropa y joyas (sombrero o diadema, túnica, guantes, zapatos, anillo y amuleto), ya sean saqueadas o compradas, en lugar de armaduras con índice de protección. DESACTIVADO: el lanzador se equipa como cualquier otra clase y recoge y compra armaduras auténticas según su índice de protección, sin equiparse ropa ni joyas como atuendo. Esto solo controla la VESTIMENTA; el mago conserva su comportamiento con las armas y sigue comprando y aprendiendo tomos de hechizos en ambos casos.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "id": "bMageApparelStrictSchool:General",
+          "text": "Atuendo de mago: coincidencia estricta de escuela",
+          "type": "toggle",
+          "help": "DESACTIVADO (predeterminado): la ropa y las joyas del mago se eligen según su valor; el seguidor lleva las piezas más caras que pueda encontrar o permitirse. ACTIVADO: solo se equipa o compra una prenda ENCANTADA si fortalece una de las dos mejores escuelas de magia del seguidor (se omiten las piezas encantadas de otras escuelas). La ropa normal y las joyas que no pertenecen a ninguna escuela no se ven afectadas, por lo que ninguna ranura queda vacía. Solo tiene efecto cuando \"Los magos usan túnicas y joyas\" está activado.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 0
+          }
+        },
+        {
+          "id": "bMeoAwareGems:General",
+          "text": "Seguidores compatibles con MEO",
+          "type": "toggle",
+          "help": "Requiere MEO (Marth's Enchanting Overhaul). DESACTIVADO (predeterminado): los seguidores siguen CONSERVANDO las gemas; una gema extraída al vender objetos inútiles con gemas engarzadas se vuelve a colocar en su propio equipo equipado, en lugar de dejarla suelta (esto siempre se aplica cuando MEO está instalado). ACTIVADO: los seguidores también OPTIMIZAN sus gemas; conocen el efecto de cada gema, eligen la mejor para cada ranura vacía (los magos prefieren las gemas de magia y de escuelas mágicas) y sustituyen las gemas por otras más potentes cuando llevan alguna. No tiene efecto sin MEO instalado.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 0
+          }
+        },
+        {
+          "id": "bAutoRetreat:General",
+          "text": "Retirada automática en inferioridad numérica",
+          "type": "toggle",
+          "help": "DESACTIVADO de forma predeterminada mientras se modifica el sistema de retirada (se conservan los ajustes guardados existentes). ACTIVADO: un seguidor que esté en clara inferioridad (la confianza depende de la cantidad de enemigos, sus niveles y su salud) y se encuentre lejos de ti durante el combate retrocede hasta tu lado, llevando el límite de confianza hasta sus últimas consecuencias. Se activa una vez por combate; el seguidor deja de ejecutar tácticas mientras retrocede. DESACTIVADO: sigue luchando donde lo envíe la tabla de tácticas (crea tu propia regla de retirada). Solo para Anniversary Edition (igual que caminar para saquear); no tiene efecto en Special Edition 1.5.97.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 0
+          }
+        },
+        {
+          "id": "bEngageOnSight:General",
+          "text": "Enfrentarse a enemigos a la vista (requiere Harbinger 0.9.9)",
+          "type": "toggle",
+          "help": "DESACTIVADO (predeterminado). ACTIVADO: fuera del combate, incluso mientras saquea, un seguidor que pueda ver a un enemigo dentro de su límite de distancia respecto a ti inicia el combate contra el enemigo más cercano. Requiere Harbinger (APMF) 0.9.9 o una versión posterior. Sin él, no tiene efecto. Solo funciona cuando Retirada automática está ACTIVADA, para que un seguidor que inicie un combate también pueda retirarse. Un seguidor al que hayas ordenado esperar no inicia combates, y nadie inicia un combate contra guardias o habitantes de las ciudades, salvo que ya estén luchando contra ti. No se inician combates en ciudades, posadas o casas, salvo que ya estés luchando.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 0
+          }
+        },
+        {
+          "id": "bEngageOnSightSneaking:General",
+          "text": "Enfrentarse a enemigos a la vista mientras te escabulles",
+          "type": "toggle",
+          "help": "DESACTIVADO (predeterminado): los seguidores no inician combates a la vista mientras te escabulles. ACTIVADO: sí lo hacen, incluso mientras te escabulles. Solo tiene efecto cuando Enfrentarse a enemigos a la vista está activado.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 0
+          }
+        },
+        {
+          "id": "fEngageOnSightRange:General",
+          "text": "Enfrentarse a enemigos a la vista: alcance (unidades)",
+          "type": "slider",
+          "help": "La distancia máxima a la que un seguidor detecta y carga contra un enemigo, medida desde el propio seguidor (unas 70 unidades = 1 m, por lo que 2000 equivalen aproximadamente a 29 m). El límite de distancia respecto a ti sigue restringiendo el alcance. Solo tiene efecto cuando Enfrentarse a enemigos a la vista está activado.",
+          "valueOptions": {
+            "min": 500.0,
+            "max": 4000.0,
+            "step": 100.0,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 2000.0
+          }
+        },
+        {
+          "id": "bMagicLoadout:General",
+          "text": "Configuración de magia (equipo de escuela y arma de reserva)",
+          "type": "toggle",
+          "help": "ACTIVADO (predeterminado): un seguidor con tácticas de lanzamiento (usuario de magia) saquea prendas encantadas que coincidan con la escuela de magia que más utiliza, por ejemplo, una túnica de Destrucción para un mago de Destrucción, en lugar de priorizar el índice de protección de la armadura en esas ranuras (primero la coincidencia de escuela y después el valor del atuendo: valor en oro + potencia de fortificación), además de un arma cuerpo a cuerpo de reserva para cuando se quede sin magia. DESACTIVADO: todos saquean únicamente según el índice de protección de la armadura.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "id": "bMageDaggersOnly:General",
+          "text": "Respaldo del mago: solo dagas",
+          "type": "toggle",
+          "help": "ACTIVADO (predeterminado): el arma cuerpo a cuerpo de respaldo del usuario de magia es una daga, el arma secundaria de un lanzador de hechizos. DESACTIVADO: usa la mejor arma de una mano disponible.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "id": "fLootRadius:General",
+          "text": "Alcance de búsqueda de botín (unidades)",
+          "type": "slider",
+          "help": "Distancia a la que un seguidor busca botín (~70 unidades = 1 m; una celda = 4096; 3000 ~= 4-5 habitaciones). Los objetos candidatos también deben estar dentro del límite de confianza respecto a ti.",
+          "valueOptions": {
+            "min": 200.0,
+            "max": 4096.0,
+            "step": 50.0,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 3000.0
+          }
+        },
+        {
+          "type": "hiddenToggle",
+          "groupControl": 1,
+          "valueOptions": {
+            "sourceType": "GlobalValue",
+            "sourceForm": "MFO.esp|903"
+          }
+        },
+        {
+          "id": "bLootLOTD:General",
+          "text": "Conocimiento de Legacy of the Dragonborn",
+          "type": "toggle",
+          "groupCondition": 1,
+          "groupBehavior": "hide",
+          "help": "DESACTIVADO (predeterminado). ACTIVADO: los seguidores saben qué necesita todavía tu museo. La táctica Saquear objetos del museo aparece en el tablero, un seguidor nunca vende una reliquia que el museo necesite y un seguidor con esa táctica lleva lo que encuentra a una caja de Envíos del Museo cercana. Al activarlo, se muestra una vez la introducción de envíos propia de LOTD. Solo se muestra si Legacy of the Dragonborn está instalado.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 0
+          }
+        }
+      ]
+    },
+    {
+      "pageDisplayName": "Prioridad del botín",
+      "cursorFillMode": "topToBottom",
+      "content": [
+        {
+          "text": "Categorías de valor",
+          "type": "header"
+        },
+        {
+          "id": "fFirstDibsDelay:General",
+          "text": "Margen de cortesía del equipo (s)",
+          "type": "slider",
+          "help": "Tiempo de gracia contra el robo antes de que un seguidor recoja equipo normal (o de que un rechazo lo libere antes).",
+          "valueOptions": {
+            "min": 0.0,
+            "max": 60.0,
+            "step": 1.0,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 4.0
+          }
+        },
+        {
+          "text": "Posibilidad razonable (objetos valiosos)",
+          "type": "header"
+        },
+        {
+          "id": "fChanceRadius:General",
+          "text": "Radio de oportunidad (unidades)",
+          "type": "slider",
+          "help": "A qué distancia debes estar de una fuente para que mirarla cuente como 'haber tenido la oportunidad' de conseguir sus objetos valiosos.",
+          "valueOptions": {
+            "min": 128.0,
+            "max": 2048.0,
+            "step": 32.0,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 512.0
+          }
+        },
+        {
+          "id": "fFairChance:General",
+          "text": "Tiempo de oportunidad justa (s)",
+          "type": "slider",
+          "help": "Segundos que pasas cerca de una fuente Y mirándola (3 veces más mientras saqueas) antes de que sus objetos valiosos queden disponibles.",
+          "valueOptions": {
+            "min": 0.0,
+            "max": 30.0,
+            "step": 0.5,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 6.0
+          }
+        },
+        {
+          "id": "fAbandonDelay:General",
+          "text": "Margen de abandono (s)",
+          "type": "slider",
+          "help": "Si nunca te acercas a una fuente, sus objetos valiosos quedan disponibles tras este tiempo (limpieza de lo que dejas atrás).",
+          "valueOptions": {
+            "min": 0.0,
+            "max": 120.0,
+            "step": 5.0,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 45.0
+          }
+        },
+        {
+          "text": "Rechazo",
+          "type": "header"
+        },
+        {
+          "id": "fQuickLootWaiver:General",
+          "text": "Tiempo de espera tras el rechazo (s)",
+          "type": "slider",
+          "help": "Después de que tomes algo por última vez de una fuente, el seguidor espera este tiempo antes de recoger el resto.",
+          "valueOptions": {
+            "min": 0.5,
+            "max": 30.0,
+            "step": 0.5,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 4.0
+          }
+        },
+        {
+          "id": "fDepartRadius:General",
+          "text": "Radio de alejamiento (unidades)",
+          "type": "slider",
+          "help": "Después de saquear una fuente, alejarte esta distancia cuenta como seguir adelante (libera la fuente).",
+          "valueOptions": {
+            "min": 128.0,
+            "max": 4096.0,
+            "step": 64.0,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 700.0
+          }
+        },
+        {
+          "text": "Deferencia",
+          "type": "header"
+        },
+        {
+          "id": "fPlayerBubble:General",
+          "text": "Radio de cesión (unidades)",
+          "type": "slider",
+          "help": "Un seguidor nunca camina para saquear dentro de esta distancia de ti: tú ganas la carrera por el botín. Las flechas, los virotes y las ganzúas están exentos.",
+          "valueOptions": {
+            "min": 0.0,
+            "max": 1024.0,
+            "step": 32.0,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 150.0
+          }
+        },
+        {
+          "text": "Venta",
+          "type": "header"
+        },
+        {
+          "id": "fValuablesRatio:General",
+          "text": "Umbral de objetos valiosos (oro/peso)",
+          "type": "slider",
+          "help": "Un objeto MISC cumple los requisitos de 'Saquear objetos valiosos (para vender)' cuando su valor en oro dividido por su peso supera este umbral. Las gemas en bruto lo superan fácilmente.",
+          "valueOptions": {
+            "min": 0.0,
+            "max": 100.0,
+            "step": 5.0,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 20.0
+          }
+        }
+      ]
+    },
+    {
+      "pageDisplayName": "Capa de comportamiento",
+      "cursorFillMode": "topToBottom",
+      "content": [
+        {
+          "text": "Hilos invisibles: la distancia a la que un seguidor se aleja de ti depende de su confianza en su capacidad para sobrevivir por su cuenta.",
+          "type": "header"
+        },
+        {
+          "id": "bLootTravel:General",
+          "text": "Caminar para saquear (Opción A)",
+          "type": "toggle",
+          "help": "El seguidor CAMINA hacia el botín en lugar de teletransportarse para recogerlo (revisado en la v0.8.2). Activado de forma predeterminada; desactívalo si se comporta de forma errática.",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "id": "iTravelGait:General",
+          "text": "Velocidad al caminar para saquear",
+          "type": "enum",
+          "help": "Velocidad a la que se mueven los seguidores durante las expediciones de saqueo. Caminar, trotar o correr, de más lento a más rápido. Predeterminado: correr.",
+          "valueOptions": {
+            "sourceType": "ModSettingInt",
+            "options": [
+              "Walk",
+              "Jog",
+              "Run"
+            ],
+            "defaultValue": 2
+          }
+        },
+        {
+          "id": "fTravelRadius:General",
+          "text": "Límite de distancia al caminar para saquear (unidades)",
+          "type": "slider",
+          "help": "Límite estricto de la distancia que puede recorrer caminando. El límite real es el límite de confianza; aumenta o reduce este valor solo para imponer un límite inferior. Alto de forma predeterminada.",
+          "valueOptions": {
+            "min": 128.0,
+            "max": 8192.0,
+            "step": 64.0,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 4096.0
+          }
+        },
+        {
+          "id": "fBatchLinger:General",
+          "text": "Grupo: esperar a que reclames el botín (s)",
+          "type": "slider",
+          "help": "Durante una expedición de saqueo, si el botín cercano sigue reservado para TI, el seguidor espera este tiempo (volviendo a buscar) antes de regresar. 0 = no esperar nunca.",
+          "valueOptions": {
+            "min": 0.0,
+            "max": 15.0,
+            "step": 0.5,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 1.5
+          }
+        },
+        {
+          "id": "fExcursionMax:General",
+          "text": "Grupo: duración máxima de la expedición de saqueo (s)",
+          "type": "slider",
+          "help": "El seguidor regresa contigo tras una expedición de saqueo de esta duración, pase lo que pase, para evitar que el grupo se aleje demasiado. El límite de distancia sigue restringiendo cuánto puede alejarse.",
+          "valueOptions": {
+            "min": 5.0,
+            "max": 300.0,
+            "step": 5.0,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 60.0
+          }
+        },
+        {
+          "id": "fNavmeshGate:General",
+          "text": "Omitir fuera de la malla de navegación (unidades)",
+          "type": "slider",
+          "help": "Antes de caminar hacia el botín, MFO comprueba el punto más cercano de la malla de navegación al cuerpo; si está más lejos que esta distancia, el cuerpo está fuera de la malla (no puede llegar hasta él) y se omite antes de que el seguidor se quede inmóvil. ~300. Auméntalo si se omiten cuerpos accesibles; 0 lo desactiva.",
+          "valueOptions": {
+            "min": 0.0,
+            "max": 2048.0,
+            "step": 25.0,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 300.0
+          }
+        },
+        {
+          "id": "fLeashMin:General",
+          "text": "Límite de distancia cuando es precavido (unidades)",
+          "type": "slider",
+          "help": "Distancia a la que se aleja un seguidor de ti cuando se siente INSEGURO (herido, combate difícil). ~512 = aproximadamente una habitación.",
+          "valueOptions": {
+            "min": 128.0,
+            "max": 4096.0,
+            "step": 64.0,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 512.0
+          }
+        },
+        {
+          "id": "fLeashMax:General",
+          "text": "Límite de distancia cuando tiene confianza (unidades)",
+          "type": "slider",
+          "help": "Distancia a la que se aleja un seguidor de ti cuando se siente SEGURO (con buena salud, zona fácil). ~4000 = varias habitaciones.",
+          "valueOptions": {
+            "min": 512.0,
+            "max": 8192.0,
+            "step": 64.0,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 4000.0
+          }
+        },
+        {
+          "id": "fHealApproachRadius:General",
+          "text": "Radio de aproximación para curación retenida (unidades)",
+          "type": "slider",
+          "help": "Cuando se retiene una curación porque el seguidor no puede ver a la persona a la que apunta, camina hacia ella hasta quedar dentro de esta distancia (requiere Harbinger/APMF con ABI 19). ~384 = aproximadamente media habitación.",
+          "valueOptions": {
+            "min": 64.0,
+            "max": 2048.0,
+            "step": 32.0,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 384.0
+          }
+        },
+        {
+          "id": "fTauntDuration:General",
+          "text": "Provocación: cuánto tiempo los enemigos permanecen centrados en quien los provoca (segundos)",
+          "type": "slider",
+          "help": "Un seguidor con una táctica de Provocación reproduce una animación provocadora y cada enemigo cercano hace una tirada para decidir si lo ataca. Si un enemigo se siente atraído, sigue luchando contra él durante estos segundos y después vuelve a elegir su propio objetivo. La tirada favorece a quien provoca si tiene un nivel más alto. Requiere Harbinger (APMF). Sin él, Provocación no hace nada. La Provocación está desactivada en esta versión.",
+          "valueOptions": {
+            "min": 5.0,
+            "max": 60.0,
+            "step": 1.0,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 15.0
+          }
+        }
+      ]
+    },
+    {
+      "pageDisplayName": "Interfaz",
+      "cursorFillMode": "topToBottom",
+      "content": [
+        {
+          "id": "iMenuStyle:General",
+          "text": "Aspecto del tablero",
+          "type": "enum",
+          "help": "Apariencia del tablero de tácticas.",
+          "valueOptions": {
+            "sourceType": "ModSettingInt",
+            "options": [
+              "Ebony & Brass",
+              "Dwemer Parchment",
+              "Soul Cairn",
+              "Quicksilver"
+            ],
+            "defaultValue": 0
+          }
+        },
+        {
+          "id": "bShowHud:General",
+          "text": "Mostrar HUD de combate",
+          "type": "toggle",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 0
+          }
+        },
+        {
+          "id": "iBoardKey:General",
+          "text": "Tecla del tablero de Órdenes de campo",
+          "type": "keymap",
+          "help": "Tecla que abre y cierra el tablero de Órdenes de campo, igual que al usar el poder Órdenes de campo. Sin asignar de forma predeterminada.",
+          "ignoreConflicts": false,
+          "valueOptions": {
+            "sourceType": "ModSettingInt"
+          }
+        },
+        {
+          "id": "iHudKey:General",
+          "text": "Tecla del HUD de combate",
+          "type": "keymap",
+          "help": "Tecla que activa y desactiva el HUD de combate. Sin asignar de forma predeterminada.",
+          "ignoreConflicts": false,
+          "valueOptions": {
+            "sourceType": "ModSettingInt"
+          }
+        },
+        {
+          "id": "iOverlayX:General",
+          "text": "HUD de combate: margen derecho (px)",
+          "type": "slider",
+          "help": "Distancia entre la superposición de combate y el borde derecho de la pantalla. 12 = predeterminado; auméntalo para evitar que se superponga al HUD de otro mod.",
+          "valueOptions": {
+            "min": 0,
+            "max": 2560,
+            "step": 4,
+            "sourceType": "ModSettingInt",
+            "defaultValue": 12
+          }
+        },
+        {
+          "id": "iOverlayY:General",
+          "text": "HUD de combate: margen superior (px)",
+          "type": "slider",
+          "help": "Distancia entre la superposición de combate y el borde superior de la pantalla. 12 = predeterminado.",
+          "valueOptions": {
+            "min": 0,
+            "max": 1440,
+            "step": 4,
+            "sourceType": "ModSettingInt",
+            "defaultValue": 12
+          }
+        },
+        {
+          "text": "Apariencia",
+          "type": "header"
+        },
+        {
+          "id": "bDollsMode:General",
+          "text": "Fashionrim (viste la armadura manualmente)",
+          "type": "toggle",
+          "help": "Cuando está ACTIVADO, MFO deja de conseguir y equipar armaduras: saqueo de armaduras, conjunto de túnicas de mago, equipamiento automático de armaduras, transferencia de gemas al cambiar de armadura y compra de armaduras. Así puedes vestir a los seguidores tú mismo. La venta sigue funcionando (nunca se vende el equipo que se lleva puesto ni el que tiene gemas engarzadas). Las armas no se ven afectadas (cambiar de arma, saquear, conseguir munición y comprar o vender siguen funcionando).",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 0
+          }
+        },
+        {
+          "text": "Versión",
+          "type": "text",
+          "help": "Versión de MFO, indicada en la compilación. Coincide con el archivo MFO.dll creado a partir de la misma confirmación (release.sh obtiene la versión de VERSION).",
+          "valueOptions": {
+            "value": "v2.11.9"
+          }
+        }
+      ]
+    },
+    {
+      "pageDisplayName": "Depuración",
+      "cursorFillMode": "topToBottom",
+      "content": [
+        {
+          "text": "Depuración y ruta heredada",
+          "type": "header"
+        },
+        {
+          "id": "bCstyReassert:General",
+          "text": "Reafirmar el estilo de combate en cada actualización",
+          "type": "toggle",
+          "help": "Diagnóstico para desarrolladores. ACTIVADO (predeterminado): cuando el motor vuelve a calcular el estilo de combate de un seguidor y lo cambia de la postura controlada por MFO durante el combate, MFO lo reafirma en cada actualización. Se sospecha que esto causa tirones intermitentes de posicionamiento solo durante el combate. DESACTIVADO: reafirmarlo una sola vez (cuando MFO toma el control por primera vez) y confiar en el bloqueo de equipamiento para mantener el arma. La tecla 7 del teclado numérico alterna esta opción en tiempo real durante la batalla para realizar una prueba A/B. Déjalo ACTIVADO salvo que estés ayudando a diagnosticar los tirones. (ruta de depuración/heredada)",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 1
+          }
+        },
+        {
+          "id": "bDebugUnlockSlots:General",
+          "text": "Desbloquear todas las ranuras de tácticas",
+          "type": "toggle",
+          "help": "DEPURACIÓN: abre todas las ranuras de tácticas de todos los seguidores, independientemente de su rango o afinidad, para que todas las tácticas se puedan asignar durante las pruebas. (depuración)",
+          "valueOptions": {
+            "sourceType": "ModSettingBool",
+            "defaultValue": 0
+          }
+        },
+        {
+          "id": "fAiCastGrace:General",
+          "text": "Margen de espera para el lanzamiento de la IA (s)",
+          "type": "slider",
+          "help": "Cuánto tiempo esperar a que la propia IA del seguidor lance un hechizo antes de que MFO lo haga de forma silenciosa. (ruta de depuración/heredada)",
+          "valueOptions": {
+            "min": 0.0,
+            "max": 15.0,
+            "step": 0.5,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 3.0
+          }
+        },
+        {
+          "id": "fCastCooldown:General",
+          "text": "Tiempo de recarga del lanzamiento (s)",
+          "type": "slider",
+          "help": "Segundos mínimos entre los lanzamientos de tácticas de un seguidor. (ruta de depuración/heredada)",
+          "valueOptions": {
+            "min": 0.0,
+            "max": 30.0,
+            "step": 0.5,
+            "sourceType": "ModSettingFloat",
+            "defaultValue": 4.0
+          }
+        }
+      ]
+    }
+  ]
+}

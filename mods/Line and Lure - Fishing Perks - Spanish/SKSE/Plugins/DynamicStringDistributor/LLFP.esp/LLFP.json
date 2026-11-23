@@ -1,0 +1,542 @@
+[
+  {
+    "editor_id": "_LLFP_FishDispelEffect",
+    "form_id": "0600001C|LLFP.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fish Dispel Effect",
+    "string": "Efecto de Disipación de Pez",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_FishSpellAddAbEffect",
+    "form_id": "06000018|LLFP.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fish Spell Adder Ability Effect",
+    "string": "Efecto de Habilidad Añadidora de Hechizo de Pez",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_FishSpellEffect",
+    "form_id": "06000019|LLFP.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Shiny Baubles",
+    "string": "Brillantes Cuentas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_JunkDispelEffect",
+    "form_id": "0600001D|LLFP.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Junk Dispel Effect",
+    "string": "Efecto de Disipación de Chatarra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_JunkSpellAddAbEffect",
+    "form_id": "06000013|LLFP.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Junk Spell Adder Ability Effect",
+    "string": "Efecto de Habilidad Añadidora de Hechizo de Chatarra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_JunkSpellEffect",
+    "form_id": "06000011|LLFP.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Drag Hooks",
+    "string": "Anzuelos Arrastrados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_FishSpell",
+    "form_id": "06000015|LLFP.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Shiny Baubles",
+    "string": "Brillantes Cuentas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_FishSpell",
+    "form_id": "06000015|LLFP.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Catch only fish for 2 minutes.",
+    "string": "Atrapa solo peces durante 2 minutos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_FishSpellAddAb",
+    "form_id": "06000017|LLFP.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Fish Spell Adder Ability",
+    "string": "Habilidad de Adición de Hechizo de Peces",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_JunkSpell",
+    "form_id": "06000012|LLFP.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Drag Hooks",
+    "string": "Anzuelos Arrastrados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_JunkSpell",
+    "form_id": "06000012|LLFP.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Catch only junk for 2 minutes.",
+    "string": "Atrapa solo chatarra durante 2 minutos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_JunkSpellAddAb",
+    "form_id": "06000014|LLFP.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Junk Spell Adder Ability",
+    "string": "Habilidad de Adición de Hechizo de Chatarra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FishingFurniture01_Arctic",
+    "form_id": "050008D0|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Fishing Supplies",
+    "string": "Suministros de pesca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FishingFurniture01_Arctic",
+    "form_id": "050008D0|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Use",
+    "string": "Usar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FishingFurniture01_Cave",
+    "form_id": "050008D1|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Fishing Supplies",
+    "string": "Suministros de pesca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FishingFurniture01_Cave",
+    "form_id": "050008D1|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Use",
+    "string": "Usar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FishingFurniture01_TemperateLake",
+    "form_id": "050008A6|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Fishing Supplies",
+    "string": "Suministros de pesca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FishingFurniture01_TemperateLake",
+    "form_id": "050008A6|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Use",
+    "string": "Usar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FishingFurniture01_TemperateStream",
+    "form_id": "0500089F|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Fishing Supplies",
+    "string": "Suministros de pesca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FishingFurniture01_TemperateStream",
+    "form_id": "0500089F|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Use",
+    "string": "Usar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_LineAndLure",
+    "form_id": "050008E5|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Line and Lure",
+    "string": "Línea y Señuelo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_LineAndLure",
+    "form_id": "050008E5|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "[pagebreak]\r\n<p align=\"center\">\r\n \r\n \r\nLine and Lure\r\n \r\nby\r\nAland Sea-Bird\r\n</p>\r\n \r\n \r\n \r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/M_letter.png'>y name is Aland Sea-Bird. My fame, or lack thereof, is irrelevant.\r\n \r\nI am not writer. As it so happens, my wife gave me this quill when I retired. She called it a gift. To me it is a burden, but I suppose many teachers feel this same weight. If I were to walk the bridge to Sovngarde, I would take all my knowledge with me. Hard lessons learned from decades fishing the waters of Skyrim.\r\n\r\nIn my life, I've fished in waters open and deep, amidst storms no mortal dare brook. I've ventured down bottomless caves, and challenged the monsters of the deep with my hook. I have seen them all, and caught them all, be it fish, monster, or boot.\r\n \r\nWith this guide, I will teach you how to do the same.\r\n[pagebreak]\r\n<p align=\"center\"><img src='img://Textures/Interface/Books/FishLogo.png' width='52' height='50'>\r\nChapter I:\r\nThe Rod</p>\r\n \r\nJust as a warrior needs a sword and a blacksmith a hammer, the first thing any aspiring fisherman needs is a rod. You can find one at a general goods store, or left behind on boats and docks by other fisherman that have come before you. When you obtain one, wield it like you would a weapon, swinging it this way and that. Get a feel for its balance and weight. It must become an extension of your body and mind.\r\n \r\n\r\n[pagebreak]\r\n<p align=\"center\"><img src='img://Textures/Interface/Books/FishLogo.png' width='52' height='50'>\r\nChapter II:\r\nSupplies</p>\r\n \r\nOnce you have a rod, you will next need supplies. This includes bait and other essentials to capture the fish once it's been reeled close to the shore.\r\n \r\nHowever, you need not bring your own. It is customary in Skyrim to leave fishing supplies by waters where the fish are plentiful. To find a set of fishing supplies is to be met with a greeting, a hearty hello from one fisherman to another.\r\n \r\nWhen you are done, you will leave these supplies for the next fisher. Such is the way.\r\n \r\n[pagebreak]\r\n<p align=\"center\"><img src='img://Textures/Interface/Books/FishLogo.png' width='52' height='50'>\r\nChapter III:\r\nCasting the Line</p>\r\n \r\nWhen you are ready to fish, bait your hook using the fishing supplies. Then, cast your line with vigor and allow the hook to sink below the surface.\r\n \r\nThe art of fishing is one of patience and focus. In particular, it requires the concentration of two senses, sight and touch. \r\n \r\nYou might ask, how can one know if there are nearby fish for the taking? It is no different than the way moths are drawn to a flame. When your bait lands on the surface of the water, nearby fish will excitedly converge. The ripples on the surface will quickly announce their presence.\r\n \r\nWatch for these ripples carefully! The more the water stirs, the more plentiful the number of fish. In contrast, a quiet surface when your line hits the water will tell you there are no more fish to catch, and you must return in a day's time.\r\n \r\nIn time, you will learn to tell fish apart based on the tug on your line. You will know the difference between a river betty's curious nibble, and a carp's eager pull.\r\n \r\n[pagebreak]\r\n<p align=\"center\"><img src='img://Textures/Interface/Books/FishLogo.png' width='52' height='50'>\r\nChapter IV:\r\nReeling It In</p>\r\n \r\nWhen you have hooked your fish, the time for patience and serenity is over. Now come the throes of war. Your fish will thrash as it fights for its life, but you must keep your grip firm and your mind focused, as you reel your line and pull in your catch.\r\n \r\nOnce you have reeled it in, the fish is yours. Scale it, cook it, and consume it how you please. Depending on your custom, there are different rituals to follow. But for all fisherman, a catch is always cause for celebration.\r\n[pagebreak]\r\n<p align=\"center\"><img src='img://Textures/Interface/Books/FishLogo.png' width='52' height='50'>\r\nChapter V:\r\nThe Rare and Unusual Catch</p>\r\n \r\nDifferent fish are native to different climates. If you seek a variety of fish, do not stay in one place. Temperate lakes and streams to the south will hook you a different catch than snow fringed ponds and pitch black caverns.\r\n\r\nWhen you seek a fish that is seldom caught, the uncommon and rare fish that fisherman brag about until long in their years, your best bet is to fish when the sun is low on the horizon. Dawn and dusk offer the best chance to catch these elusive creatures.\r\n \r\nIf you seek the very rarest of fish, special rods are required. Seek the advice of those in the Riften Fishery. Follow their guidance and wisdom, just as you have done with me.\r\n \r\nOf course, not every catch will feed your belly. Some may fill your coin purse, while others have interesting uses to those who brew potions.\r\n\r\nIn my travels, I have even heard tall tales of Dwarven rods used to lure lost trinkets settled at the bottom of ponds and lakes. For what purpose, a Nord like myself cannot know. As the world moves on, such things are lost to time.\r\n \r\n[pagebreak]\r\n<p align=\"center\"><img src='img://Textures/Interface/Books/FishLogo.png' width='52' height='50'>\r\nChapter VI:\r\nIn Conclusion</p>\r\nThere you have it. As I stated at the beginning of this journey, I am no writer. What is written here are not words, but a piece of me.\r\n \r\nIt is the callow boy who in his arrogance was nearly dragged into the water by a goldfish.\r\n \r\nIt is the shivering fishmonger, sitting on a frozen bucket in the dead of night praying to Kyne that he will live to see the sunrise.\r\n \r\nIt is the old man at the lake drinking a potion of strength, turning back time so he can hook an old foe.\r\n \r\nIt is part of me, and if you heed its message, it will become part of you.",
+    "string": "[pagebreak]\r\n<p align=\"center\">\r\n \r\n\r\nLínea y Señuelo\r\n \r\npor\r\nAland Sea-Bird\r\n</p>\r\n\r\n\r\n\r\n[pagebreak]\r\n<p align=\"left\">\r\n<img src='img://Textures/Interface/Books/Illuminated_Letters/M_letter.png'>i nombre es Aland Sea-Bird. Mi fama, o la falta de ella, es irrelevante.\r\n\r\nNo soy escritor. Resulta que mi esposa me dio esta pluma cuando me jubilé. Ella lo llamó un regalo. Para mí es una carga, pero supongo que muchos maestros sienten este mismo peso. Si caminara por el puente a Sovngarde, me llevaría todo mi conocimiento conmigo. Duras lecciones aprendidas tras décadas pescando en las aguas de Skyrim.\r\n\r\nEn mi vida, he pescado en aguas abiertas y profundas, en medio de tormentas que ningún mortal se atrevería a enfrentar. Me he aventurado en cuevas sin fondo y he desafiado a los monstruos de las profundidades con mi anzuelo. Los he visto todos y los he capturado todos, ya sea pez, monstruo o bota.\r\n\r\nCon esta guía, te enseñaré a hacer lo mismo.\r\n[pagebreak]\r\n<p align=\"center\"><img src='img://Textures/Interface/Books/FishLogo.png' width='52' height='50'>\r\nCapítulo I:\r\nLa Caña</p>\r\n\r\nAsí como un guerrero necesita una espada y un herrero un martillo, lo primero que necesita cualquier aspirante a pescador es una caña. Puedes encontrar una en una tienda de bienes generales o abandonada en botes y muelles por otros pescadores que estuvieron antes que tú. Cuando obtengas una, empuñala como si fuera un arma, balanceándola de un lado a otro. Familiarízate con su equilibrio y peso. Debe convertirse en una extensión de tu cuerpo y mente.\r\n\r\n\r\n[pagebreak]\r\n<p align=\"center\"><img src='img://Textures/Interface/Books/FishLogo.png' width='52' height='50'>\r\nCapítulo II:\r\nSuministros</p>\r\n\r\nUna vez que tengas una caña, lo siguiente que necesitarás son suministros. Esto incluye carnada y otros elementos esenciales para capturar el pez una vez que lo hayas acercado a la orilla.\r\n\r\nSin embargo, no es necesario que traigas los tuyos. En Skyrim es costumbre dejar suministros de pesca en aguas donde los peces son abundantes. Encontrar un conjunto de suministros de pesca es recibir un saludo, un cordial \"hola\" de un pescador a otro.\r\n\r\nCuando termines, dejarás estos suministros para el siguiente pescador. Así es la tradición.\r\n\r\n[pagebreak]\r\n<p align=\"center\"><img src='img://Textures/Interface/Books/FishLogo.png' width='52' height='50'>\r\nCapítulo III:\r\nLanzando la Línea</p>\r\n\r\nCuando estés listo para pescar, coloca la carnada en el anzuelo usando los suministros de pesca. Luego, lanza tu línea con vigor y deja que el anzuelo se hunda bajo la superficie.\r\n\r\nEl arte de la pesca es uno de paciencia y concentración. En particular, requiere la atención de dos sentidos: la vista y el tacto.\r\n\r\nPodrías preguntarte, ¿cómo saber si hay peces cerca? No es diferente a la forma en que las polillas son atraídas por la llama. Cuando tu carnada cae en la superficie del agua, los peces cercanos se reunirán con entusiasmo. Las ondas en la superficie anunciarán rápidamente su presencia.\r\n\r\n¡Observa estas ondas con atención! Cuanto más se agite el agua, más peces habrá. En cambio, una superficie tranquila cuando tu línea golpea el agua indicará que ya no hay peces para atrapar, y deberás regresar al día siguiente.\r\n\r\nCon el tiempo, aprenderás a diferenciar los peces por el tirón en tu línea. Sabrás distinguir entre el mordisqueo curioso de una betty de río y el tirón ansioso de una carpa.\r\n\r\n[pagebreak]\r\n<p align=\"center\"><img src='img://Textures/Interface/Books/FishLogo.png' width='52' height='50'>\r\nCapítulo IV:\r\nRecogiendo la Línea</p>\r\n\r\nCuando hayas enganchado a un pez, el tiempo de paciencia y serenidad ha terminado. Ahora comienza la lucha. Tu pez se debatirá mientras lucha por su vida, pero debes mantener tu agarre firme y tu mente enfocada mientras enrollas la línea y acercas la captura.\r\n\r\nUna vez que lo hayas sacado del agua, el pez es tuyo. Escálalo, cocínalo y consúmelo como prefieras. Dependiendo de tu costumbre, hay diferentes rituales a seguir. Pero para todo pescador, una captura siempre es motivo de celebración.\r\n[pagebreak]\r\n<p align=\"center\"><img src='img://Textures/Interface/Books/FishLogo.png' width='52' height='50'>\r\nCapítulo V:\r\nLas Capturas Raras e Inusuales</p>\r\n\r\nDiferentes peces son nativos de diferentes climas. Si buscas variedad en tus capturas, no permanezcas en un solo lugar. Los lagos y ríos templados del sur te darán una pesca diferente a la de los estanques nevados y las cavernas oscuras.\r\n\r\nSi buscas peces poco comunes, aquellos de los que los pescadores se jactan hasta la vejez, tu mejor oportunidad será pescar cuando el sol esté bajo en el horizonte. El amanecer y el atardecer ofrecen la mejor oportunidad para atrapar a estas criaturas esquivas.\r\n\r\nSi buscas los peces más raros, se requieren cañas especiales. Busca el consejo de aquellos en la Pesquería de Riften. Sigue su orientación y sabiduría, así como has seguido la mía.\r\n\r\nPor supuesto, no todas las capturas saciarán tu hambre. Algunas llenarán tu bolsa de monedas, mientras que otras tienen usos interesantes para aquellos que preparan pociones.\r\n\r\nEn mis viajes, incluso he escuchado historias sobre cañas enanas usadas para atraer objetos perdidos asentados en el fondo de estanques y lagos. Para qué propósito, un nórdico como yo no puede saberlo. A medida que el mundo avanza, tales cosas se pierden con el tiempo.\r\n\r\n[pagebreak]\r\n<p align=\"center\"><img src='img://Textures/Interface/Books/FishLogo.png' width='52' height='50'>\r\nCapítulo VI:\r\nConclusión</p>\r\nAhí lo tienes. Como dije al inicio de este viaje, no soy escritor. Lo que aquí está escrito no son solo palabras, sino una parte de mí.\r\n\r\nEs el muchacho inexperto que, en su arrogancia, casi fue arrastrado al agua por un pez dorado.\r\n\r\nEs el pescador tembloroso, sentado sobre un balde congelado en plena noche, rezando a Kyne para vivir hasta el amanecer.\r\n\r\nEs el anciano junto al lago, bebiendo una poción de fuerza para retroceder en el tiempo y capturar a un viejo adversario.\r\n\r\nEs parte de mí, y si prestas atención a su mensaje, se convertirá en parte de ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FishingSystemQuest",
+    "form_id": "05033A57|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "QUST FULL",
+    "original": "Fishing System Quest",
+    "string": "Misión del sistema de pesca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_BetterPrice_Perk01",
+    "form_id": "0600000B|LLFP.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Jargon of the Trade",
+    "string": "Jerga del Oficio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_BetterPrice_Perk01",
+    "form_id": "0600000B|LLFP.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Selling prices are 10% better with fishermen and fish vendors.",
+    "string": "Los precios de venta son un 10% mejores con pescadores y vendedores de pescado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_BetterPrice_Perk02",
+    "form_id": "06000031|LLFP.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Better Prices Perk 2",
+    "string": "Mejores Precios Beneficio 2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_BetterPrice_Perk02",
+    "form_id": "06000031|LLFP.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Selling prices are 15% better with fishermen and fish vendors.",
+    "string": "Los precios de venta son un 15% mejores con pescadores y vendedores de pescado.\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_BetterPrice_Perk03",
+    "form_id": "06000032|LLFP.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Better Prices Perk 3",
+    "string": "Mejores Precios Beneficio 3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_BetterPrice_Perk03",
+    "form_id": "06000032|LLFP.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Selling prices are 20% better with fishermen and fish vendors.",
+    "string": "Los precios de venta son un 20% mejores con pescadores y vendedores de pescado.\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_DetectBiome_Perk01",
+    "form_id": "06000009|LLFP.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Tideborn Sense",
+    "string": "Sentido de los Mareas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_DetectBiome_Perk01",
+    "form_id": "06000009|LLFP.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Allows you to recognize the current biome you are fishing in.",
+    "string": "Te permite reconocer el bioma en el que estás pescando.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_FishSpell_Perk01",
+    "form_id": "06000016|LLFP.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Shiny Baubles",
+    "string": "Brillantes Cuentas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_FishSpell_Perk01",
+    "form_id": "06000016|LLFP.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Grants you the power to catch only fish for 2 minutes per day.",
+    "string": "Te otorga el poder de pescar solo peces durante 2 minutos por dia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_JunkSpell_Perk01",
+    "form_id": "06000010|LLFP.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Drag Hooks",
+    "string": "Anzuelos Arrastrados",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_JunkSpell_Perk01",
+    "form_id": "06000010|LLFP.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Grants you the power to catch only junk for 2 minutes per day.",
+    "string": "Te otorga el poder de pescar solo basura durante 2 minutos por dia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_LessCastingTime_Perk01",
+    "form_id": "0600001E|LLFP.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Swift Cast",
+    "string": "Lanzamiento Rápido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_LessCastingTime_Perk01",
+    "form_id": "0600001E|LLFP.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Casting your line is 20% faster.",
+    "string": "Lanzar tu línea es un 20% más rápido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_LessCastingTime_Perk02",
+    "form_id": "06000020|LLFP.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Less Casting Time 2",
+    "string": "Menos Tiempo de Lanzamiento 2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_LessCastingTime_Perk02",
+    "form_id": "06000020|LLFP.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Casting your line is 40% faster.",
+    "string": "Lanzar tu línea es un 40% más rápido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_LessCastingTime_Perk03",
+    "form_id": "06000021|LLFP.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Less Casting Time 3",
+    "string": "Menos Tiempo de Lanzamiento 3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_LessCastingTime_Perk03",
+    "form_id": "06000021|LLFP.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Casting your line is 60% faster.",
+    "string": "Lanzar tu línea es un 60% más rápido.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_MoreCatch_Perk01",
+    "form_id": "06000003|LLFP.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Double Catch",
+    "string": "Captura Doble",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_MoreCatch_Perk01",
+    "form_id": "06000003|LLFP.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Gives you a 50% chance to reel in two common or uncommon catches at once.",
+    "string": "Te da un 50% de probabilidad de pescar dos capturas comunes o poco comunes a la vez.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_MoreRarityFish_Perk01",
+    "form_id": "0600002C|LLFP.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Fishmaster",
+    "string": "Maestro Pescador",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_MoreRarityFish_Perk01",
+    "form_id": "0600002C|LLFP.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Increases your chances of catching uncommon fish by 2% and rare fish by 1%.",
+    "string": "Aumenta tus probabilidades de atrapar peces poco comunes en un 2% y peces raros en un 1%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_MoreRarityFish_Perk02",
+    "form_id": "0600002D|LLFP.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "More Rarity Fish Perk 2",
+    "string": "Más Rareza Peces Beneficio 2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_MoreRarityFish_Perk02",
+    "form_id": "0600002D|LLFP.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Increases your chances of catching uncommon fish by 4% and rare fish by 2%.",
+    "string": "Aumenta tus probabilidades de atrapar peces poco comunes en un 4% y peces raros en un 2%.\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_MoreRarityFish_Perk03",
+    "form_id": "0600002E|LLFP.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "More Rarity Fish Perk 3",
+    "string": "Más Rareza Peces Beneficio 3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_MoreRarityFish_Perk03",
+    "form_id": "0600002E|LLFP.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Increases your chances of catching uncommon fish by 6% and rare fish by 3%.",
+    "string": "Aumenta tus probabilidades de atrapar peces poco comunes en un 6% y peces raros en un 3%.\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_MoreRarityJunk_Perk01",
+    "form_id": "0600000D|LLFP.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Salvager",
+    "string": "Recolector",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_MoreRarityJunk_Perk01",
+    "form_id": "0600000D|LLFP.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Increases your chances of catching uncommon junk by 2% and rare junk by 1%.",
+    "string": "Aumenta tus probabilidades de atrapar chatarra poco común en un 2% y chatarra rara en un 1%.\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_MoreRarityJunk_Perk02",
+    "form_id": "06000024|LLFP.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "More Rarity Junk Perk 2",
+    "string": "Más Rareza Chatarra Beneficio 2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_MoreRarityJunk_Perk02",
+    "form_id": "06000024|LLFP.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Increases your chances of catching uncommon junk by 4% and rare junk by 2%.",
+    "string": "Aumenta tus probabilidades de atrapar chatarra poco común en un 4% y chatarra rara en un 2%.\r\n",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_MoreRarityJunk_Perk03",
+    "form_id": "06000025|LLFP.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "More Rarity Junk Perk 3",
+    "string": "Más Rareza Chatarra Beneficio 3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_MoreRarityJunk_Perk03",
+    "form_id": "06000025|LLFP.esp",
+    "index": 1,
+    "type": "PERK DESC",
+    "original": "Increases your chances of catching uncommon junk by 6% and rare junk by 3%.",
+    "string": "Aumenta tus probabilidades de atrapar chatarra poco común en un 6% y chatarra rara en un 3%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "ccBGSSSE001_FishingTutorial",
+    "form_id": "05042DDD|ccBGSSSE001-Fish.esm",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Fishing\r\n\r\nWhile fishing, press Activate to reel in your line. Reeling when there is a strong pull on your line will reel in your catch.\r\n\r\nRipples on the surface when casting your line are from nearby fish. If the water is calm when you cast your line, there are no more fish to catch here. Fish will return in a day's time.\r\n\r\nRead a copy of \"Line and Lure\" to learn more about your Fishing skill.\r\n",
+    "string": "Pescar\r\n\r\nCuando estés pescando, pulsa Activar para recoger el sedal. Si lo haces cuando haya tirones fuertes del sedal, recogerás la pesca.\r\n\r\nLas ondulaciones del agua al lanzar el sedal indican que hay peces cerca. Si el agua está en calma cuando lanzas el sedal es que no quedan peces que pescar en el lugar. Estos volverán al cabo de un día.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_SkillMenuPrompt",
+    "form_id": "06000033|LLFP.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Would you like to explore the depths of your fishing knowledge?",
+    "string": "¿Te gustaría explorar las profundidades de su conocimiento de pesca?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_SkillMenuPrompt",
+    "form_id": "06000033|LLFP.esp",
+    "index": 1,
+    "type": "MESG FULL",
+    "original": "Fishing Skill",
+    "string": "Habilidad para pescar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_SkillMenuPrompt",
+    "form_id": "06000033|LLFP.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "Sí",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_LLFP_SkillMenuPrompt",
+    "form_id": "06000033|LLFP.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "No",
+    "status": "TranslationComplete"
+  }
+]

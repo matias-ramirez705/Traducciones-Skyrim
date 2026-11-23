@@ -1,0 +1,4907 @@
+[
+  {
+    "editor_id": "_SNNeedsScript",
+    "form_id": "05000D67|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Needs Script",
+    "string": "Script de necesidades",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgFatigueFX_1",
+    "form_id": "050012D5|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Mild Fatigue",
+    "string": "Fatiga leve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgFatigueFX_1",
+    "form_id": "050012D5|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your base Stamina and Magicka are reduced by about <7>%. Your movement speed is reduced by <mag>%. You will also learn all skills <10>% slower.",
+    "string": "Tu Aguante y Magia base se reducen aproximadamente en <7>%. Tu velocidad de movimiento se reduce en <mag>%. Tambien aprenderas todas las habilidades un <10>% mas lento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgFatigueFX_2",
+    "form_id": "050012D6|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Moderate Fatigue",
+    "string": "Fatiga moderada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgFatigueFX_2",
+    "form_id": "050012D6|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your base Stamina and Magicka are reduced by about <20>%. Your movement speed is reduced by <mag>%. You will also learn all skills <30>% slower.",
+    "string": "Tu Aguante y Magia base se reducen aproximadamente en <20>%. Tu velocidad de movimiento se reduce en <mag>%. Tambien aprenderas todas las habilidades un <30>% mas lento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgFatigueFX_3",
+    "form_id": "050012D7|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Severe Fatigue",
+    "string": "Fatiga severa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgFatigueFX_3",
+    "form_id": "050012D7|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your base Stamina and Magicka are reduced by about <55>%. Your movement speed is reduced by <mag>%. You will also learn all skills <70>% slower.",
+    "string": "Tu Aguante y Magia base se reducen aproximadamente en <55>%. Tu velocidad de movimiento se reduce en <mag>%. Tambien aprenderas todas las habilidades un <70>% mas lento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgHungerFX_1",
+    "form_id": "050012D8|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Mild Hunger",
+    "string": "Hambre leve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgHungerFX_1",
+    "form_id": "050012D8|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your Health regeneration and damage output are reduced by <mag>%. Resting is <5>% less effective at lowering Fatigue.",
+    "string": "Tu regeneracion de Salud y tu daño infligido se reducen en <mag>%. Descansar es un <5>% menos efectivo para reducir la Fatiga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgHungerFX_2",
+    "form_id": "050012D9|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Moderate Hunger",
+    "string": "Hambre moderada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgHungerFX_2",
+    "form_id": "050012D9|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your Health regeneration and damage output are reduced by <mag>%. Resting is <10>% less effective at lowering Fatigue.",
+    "string": "Tu regeneracion de Salud y tu daño infligido se reducen en <mag>%. Descansar es un <10>% menos efectivo para reducir la Fatiga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgHungerFX_3",
+    "form_id": "050012DA|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Severe Hunger",
+    "string": "Hambre severa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgHungerFX_3",
+    "form_id": "050012DA|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your Health regeneration and damage output are reduced by <mag>%. Resting is <20>% less effective at lowering Fatigue.",
+    "string": "Tu regeneracion de Salud y tu daño infligido se reducen en <mag>%. Descansar es un <20>% menos efectivo para reducir la Fatiga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgThirstMagFX",
+    "form_id": "0500183F|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Thirst Magicka Penalty",
+    "string": "Penalizacion de Magia por sed",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNIsVampireHybridScript",
+    "form_id": "05001DB5|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Is Vampire Hybrid Script",
+    "string": "Script de vampiro hibrido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNIsWerewolfScript",
+    "form_id": "05001DB6|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Is Werewolf Script",
+    "string": "Script de hombre lobo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterskinEmptyFX",
+    "form_id": "05004383|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Empty FX",
+    "string": "Efecto vacio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterskinEmptyFX",
+    "form_id": "05004383|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Significantly quenches thirst.",
+    "string": "Reduce significativamente la sed.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNRequestWaterFX",
+    "form_id": "05004388|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Request Water",
+    "string": "Solicitar agua",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgThirstFX_1",
+    "form_id": "050048F8|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Mild Thirst",
+    "string": "Sed leve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgThirstFX_1",
+    "form_id": "050048F8|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Time between shouts increased by <10>%. Your Stamina and Magicka regeneration are reduced by <10>%. Resting is <5>% less effective at lowering Fatigue.",
+    "string": "El tiempo entre gritos aumenta en <10>%. La regeneracion de Aguante y Magia se reduce en <10>%. Descansar es un <5>% menos efectivo para reducir la Fatiga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgThirstFX_2",
+    "form_id": "050048F9|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Moderate Thirst",
+    "string": "Sed moderada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgThirstFX_2",
+    "form_id": "050048F9|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Time between shouts increased by <30>%. Your Stamina and Magicka regeneration are reduced by <30>%. Resting is <10>% less effective at lowering Fatigue.",
+    "string": "El tiempo entre gritos aumenta en <30>%. La regeneracion de Aguante y Magia se reduce en <30>%. Descansar es un <10>% menos efectivo para reducir la Fatiga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgThirstFX_3",
+    "form_id": "050048FA|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Severe Thirst",
+    "string": "Sed severa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgThirstFX_3",
+    "form_id": "050048FA|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Time between shouts increased by <70>%. Your Stamina and Magicka regeneration are reduced by <70>%. Resting is <20>% less effective at lowering Fatigue.",
+    "string": "El tiempo entre gritos aumenta en <70>%. La regeneracion de Aguante y Magia se reduce en <70>%. Descansar es un <20>% menos efectivo para reducir la Fatiga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNBuffHungerFX",
+    "form_id": "05004E65|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Well Sated",
+    "string": "Bien saciado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNBuffThirstFX",
+    "form_id": "05004E68|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Well Hydrated",
+    "string": "Bien hidratado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNBuffThirstMagFX",
+    "form_id": "05004E6B|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Thirst Magicka Buff",
+    "string": "Beneficio de Magia por sed",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNAutomateHungerScript",
+    "form_id": "05005935|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Automate Hunger Script",
+    "string": "Script de hambre automatica",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNAutomateThirstScript",
+    "form_id": "05005938|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Automate Thirst Script",
+    "string": "Script de sed automatica",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDrunkFX",
+    "form_id": "0500C4F1|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Inebriation",
+    "string": "Embriaguez",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDrunkFX",
+    "form_id": "0500C4F1|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "-<mag> Speechcraft and Lockpicking for <120> seconds.",
+    "string": "-<mag> Oratoria y Ganzuas durante <120> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFollowerHungerScript",
+    "form_id": "0500D533|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Follower Hunger Script",
+    "string": "Script de hambre de seguidores",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFollowerThirstScript",
+    "form_id": "0500D536|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Follower Thirst Script",
+    "string": "Script de sed de seguidores",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNShelterDetectFX",
+    "form_id": "0501410C|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Shelter Detect",
+    "string": "Deteccion de refugio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDiseaseScript",
+    "form_id": "0501E2CA|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Disease Script",
+    "string": "Script de enfermedad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNNauseaFX_1",
+    "form_id": "0501E2D4|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Nausea",
+    "string": "Nausea",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNNauseaFX_1",
+    "form_id": "0501E2D4|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Damage taken is increased by <5>%. Damage output and movement speed are reduced by <5>%.",
+    "string": "El daño recibido aumenta en <5>%. El daño infligido y la velocidad de movimiento se reducen en <5>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgSkoomaFX",
+    "form_id": "05021369|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Stimulated",
+    "string": "Estimulado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNBuffSkoomaFX",
+    "form_id": "0502136A|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Skooma Stamina",
+    "string": "Aguante de skooma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgFatigueStamFX",
+    "form_id": "05026F0A|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fatigue Stam Max",
+    "string": "Aguante maximo por fatiga",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDmgFatigueMagFX",
+    "form_id": "05028F62|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Fatigue Mag Max",
+    "string": "Magia maxima por fatiga",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDecayScript",
+    "form_id": "0502E58F|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Snow Decay Script",
+    "string": "Script de deterioro por nieve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCarryWeightFX",
+    "form_id": "0502F5B7|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Carry Weight",
+    "string": "Capacidad de carga",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisAtaxiaFX_1_0",
+    "form_id": "05030B43|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Ataxia",
+    "string": "Ataxia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisAtaxiaFX_1_0",
+    "form_id": "05030B43|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Picking locks, picking pockets, bartering, sneaking and alchemy are <mag>% less effective.",
+    "string": "Forzar cerraduras, carterismo, comerciar, sigilo y alquimia son un <mag>% menos efectivos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisAtaxiaFX_1_1",
+    "form_id": "05030B44|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Ataxia",
+    "string": "Ataxia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisAtaxiaFX_1_2",
+    "form_id": "05030B45|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Ataxia",
+    "string": "Ataxia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBHBFX_1_0",
+    "form_id": "05030B4E|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Black-Heart Blight",
+    "string": "Plaga del corazon negro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBHBFX_1_0",
+    "form_id": "05030B4E|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Carry weight reduced by <mag>.",
+    "string": "Capacidad de carga reducida en <mag>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBBFFX_1_0",
+    "form_id": "05030B57|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Bone Break Fever",
+    "string": "Fiebre rompehuesos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBBFFX_1_0",
+    "form_id": "05030B57|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Drains <mag> points from Stamina and Magicka.",
+    "string": "Drena <mag> puntos de Aguante y Magia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBrainRotFX_1_0",
+    "form_id": "050310C2|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Brain Rot",
+    "string": "Podredumbre cerebral",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBrainRotFX_1_0",
+    "form_id": "050310C2|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Alteration, conjuration, destruction, enchanting, illusion and restoration are <mag>%  less effective.",
+    "string": "Alteracion, conjuracion, destruccion, encantamiento, ilusion y restauracion son un <mag>% menos efectivos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBrainRotFX_1_1",
+    "form_id": "050310C3|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Brain Rot",
+    "string": "Podredumbre cerebral",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBrainRotFX_1_2",
+    "form_id": "050310C4|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Brain Rot",
+    "string": "Podredumbre cerebral",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisDroopsFX_1_0",
+    "form_id": "050310D1|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Droops",
+    "string": "Decaimiento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisDroopsFX_1_0",
+    "form_id": "050310D1|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your physical damage output is reduced by <mag>%.",
+    "string": "Tu daño fisico infligido se reduce en <mag>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisDroopsFX_2_0",
+    "form_id": "050310D2|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Droops",
+    "string": "Decaimiento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisDroopsFX_2_0",
+    "form_id": "050310D2|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your physical damage output is reduced by <mag>%.",
+    "string": "Tu daño fisico infligido se reduce en <mag>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisDroopsFX_3_0",
+    "form_id": "050310D3|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Droops",
+    "string": "Decaimiento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisDroopsFX_3_0",
+    "form_id": "050310D3|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your physical damage output is reduced by <mag>%.",
+    "string": "Tu daño fisico infligido se reduce en <mag>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisDroopsFX_4_0",
+    "form_id": "050310D4|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Droops",
+    "string": "Decaimiento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisDroopsFX_4_0",
+    "form_id": "050310D4|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your physical damage output is reduced by <mag>%.",
+    "string": "Tu daño fisico infligido se reduce en <mag>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisRattlesFX_1_0",
+    "form_id": "050310DD|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Rattles",
+    "string": "Temblores",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisRattlesFX_1_0",
+    "form_id": "050310DD|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Stamina regenerates <mag>% slower. Wearing any armor is <mag>% less effective.",
+    "string": "El Aguante se regenera <mag>% mas lento. Usar cualquier armadura es un <mag>% menos efectivo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisRattlesFX_1_1",
+    "form_id": "050310DE|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Rattles",
+    "string": "Temblores",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisRockjointFX_1_0",
+    "form_id": "050310E7|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Rockjoint",
+    "string": "Dolor articular",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisRockjointFX_1_0",
+    "form_id": "050310E7|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Blocking, smithing and using physical weapons are <mag>% less effective.",
+    "string": "Bloquear, herreria y usar armas fisicas son un <mag>% menos efectivos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisRockjointFX_1_1",
+    "form_id": "050310E8|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Rockjoint",
+    "string": "Dolor articular",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisRockjointFX_1_2",
+    "form_id": "050310E9|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Rockjoint",
+    "string": "Dolor articular",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisWitbaneFX_1_0",
+    "form_id": "050310F2|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Witbane",
+    "string": "Mal de ingenio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisWitbaneFX_1_0",
+    "form_id": "050310F2|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Magicka regenerates <mag>% slower. Magical damage output is reduced by <5>%.",
+    "string": "La Magia se regenera <mag>% mas lento. El daño magico infligido se reduce en <5>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisWitbaneFX_2_0",
+    "form_id": "050310F7|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Witbane",
+    "string": "Mal de ingenio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisWitbaneFX_2_0",
+    "form_id": "050310F7|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Magicka regenerates <mag>% slower. Magical damage output is reduced by <10>%.",
+    "string": "La Magia se regenera <mag>% mas lento. El daño magico infligido se reduce en <10>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisWitbaneFX_3_0",
+    "form_id": "050310F8|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Witbane",
+    "string": "Mal de ingenio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisWitbaneFX_3_0",
+    "form_id": "050310F8|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Magicka regenerates <mag>% slower. Magical damage output is reduced by <20>%.",
+    "string": "La Magia se regenera <mag>% mas lento. El daño magico infligido se reduce en <20>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisWitbaneFX_4_0",
+    "form_id": "050310F9|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Witbane",
+    "string": "Mal de ingenio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisWitbaneFX_4_0",
+    "form_id": "050310F9|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Magicka regenerates <mag>% slower. Magical damage output is reduced by <40>%.",
+    "string": "La Magia se regenera <mag>% mas lento. El daño magico infligido se reduce en <40>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisStomachRotFX_1_0",
+    "form_id": "05031664|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Stomach Rot",
+    "string": "Podredumbre estomacal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisStomachRotFX_1_0",
+    "form_id": "05031664|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Eating, drinking, and resting are <mag>% less effective.",
+    "string": "Comer, beber y descansar son un <mag>% menos efectivos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDiseaseCatcherScript",
+    "form_id": "0503166F|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Disease Catcher Script",
+    "string": "Script detector de enfermedades",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureDiseaseSilent",
+    "form_id": "05031670|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cure Disease Silent",
+    "string": "Curar enfermedad silencioso",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNResistDiseaseConstantSelf",
+    "form_id": "05031BD5|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Resist Disease",
+    "string": "Resistencia a enfermedades",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNResistDiseaseConstantSelf",
+    "form_id": "05031BD5|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Increases Disease Resistance by <mag>%.",
+    "string": "Aumenta la resistencia a enfermedades en <mag>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNNauseaFX_2",
+    "form_id": "05035723|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Nausea",
+    "string": "Nausea",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNNauseaFX_2",
+    "form_id": "05035723|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Damage taken is increased by <10>%. Damage output and movement speed are reduced by <10>%.",
+    "string": "El daño recibido aumenta en <10>%. El daño infligido y la velocidad de movimiento se reducen en <10>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNNauseaFX_3",
+    "form_id": "05035724|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Nausea",
+    "string": "Nausea",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNNauseaFX_3",
+    "form_id": "05035724|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Damage taken is increased by <15>%. Damage output and movement speed are reduced by <15>%.",
+    "string": "El daño recibido aumenta en <15>%. El daño infligido y la velocidad de movimiento se reducen en <15>%.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNBuffVariedDietFX",
+    "form_id": "0503572A|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Varied Diet",
+    "string": "Dieta variada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNBuffVariedDietFX",
+    "form_id": "0503572A|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Your consumption of a wide variety of food.\r\nStamina and Magicka are increased by <mag> points.",
+    "string": "Tu consumo de una gran variedad de comida.\r\nEl Aguante y la Magia aumentan en <mag> puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisStomachRotVanillaFX",
+    "form_id": "0503B2D4|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Stomach Rot",
+    "string": "Podredumbre estomacal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisStomachRotVanillaFX",
+    "form_id": "0503B2D4|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Eating, drinking, and resting are <mag>% less effective.",
+    "string": "Comer, beber y descansar son un <mag>% menos efectivos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNVanillaDiseaseScript",
+    "form_id": "0503BD99|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Vanilla Disease Script",
+    "string": "Script de enfermedades vanilla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFollowerPurchaseScript",
+    "form_id": "0503D325|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Follower Purchase Script",
+    "string": "Script de compra de seguidores",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNIsWerewolfHumanScript",
+    "form_id": "0503E34D|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Is Werewolf Human Script",
+    "string": "Script de hombre lobo humano",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNScanFoodScript",
+    "form_id": "0503F37D|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Scan Food Script",
+    "string": "Script de escaneo de comida",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFollowerPurchaseWaterScript",
+    "form_id": "05043EE6|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Follower Purchase Water Script",
+    "string": "Script de compra de agua por seguidores",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureVampirismFX",
+    "form_id": "05046A17|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cure Vampirism",
+    "string": "Curar vampirismo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureVampirismFX",
+    "form_id": "05046A17|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Cures Sanguinare Vampiris.",
+    "string": "Cura Sanguinare Vampiris.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureAtaxiaFX",
+    "form_id": "05046A19|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cure Ataxia",
+    "string": "Curar ataxia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureAtaxiaFX",
+    "form_id": "05046A19|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Cures Ataxia over time.",
+    "string": "Cura la Ataxia con el tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureStomachRotFX",
+    "form_id": "05046A1A|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cure Stomach Rot",
+    "string": "Curar podredumbre estomacal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureStomachRotFX",
+    "form_id": "05046A1A|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Cures Stomach Rot over time.",
+    "string": "Cura la Podredumbre estomacal con el tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureBlackHeartBlightFX",
+    "form_id": "05046A1B|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cure Black Heart Blight",
+    "string": "Curar plaga del corazon negro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureBlackHeartBlightFX",
+    "form_id": "05046A1B|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Cures Black Heart Blight over time.",
+    "string": "Cura la Plaga del corazon negro con el tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureBoneBreakFeverFX",
+    "form_id": "05046A1C|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cure Bone Break Fever",
+    "string": "Curar fiebre rompehuesos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureBoneBreakFeverFX",
+    "form_id": "05046A1C|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Cures Bone Break Fever over time.",
+    "string": "Cura la Fiebre rompehuesos con el tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureBrainRotFX",
+    "form_id": "05046A1D|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cure Brain Rot Fever",
+    "string": "Curar podredumbre cerebral",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureBrainRotFX",
+    "form_id": "05046A1D|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Cures Brain Rot over time.",
+    "string": "Cura la Podredumbre cerebral con el tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureDroopsFX",
+    "form_id": "05046A1E|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cure Droops Fever",
+    "string": "Curar decaimiento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureDroopsFX",
+    "form_id": "05046A1E|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Cures Droops over time.",
+    "string": "Cura Decaimiento con el tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureRattlesFX",
+    "form_id": "05046A1F|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cure Rattles",
+    "string": "Curar temblores",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureRattlesFX",
+    "form_id": "05046A1F|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Cures Rattles over time.",
+    "string": "Cura Temblores con el tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureRockjointFX",
+    "form_id": "05046A20|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cure Rockjoint",
+    "string": "Curar dolor articular",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureRockjointFX",
+    "form_id": "05046A20|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Cures Rockjoint over time.",
+    "string": "Cura Dolor articular con el tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureWitbaneFX",
+    "form_id": "05046A21|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Cure Witbane",
+    "string": "Curar mal de ingenio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureWitbaneFX",
+    "form_id": "05046A21|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Cures Witbane over time.",
+    "string": "Cura Mal de ingenio con el tiempo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDrunkStumbleScript",
+    "form_id": "05049537|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Drunk Stumble Script",
+    "string": "Script de tropiezo por borrachera",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterskinEquipScript",
+    "form_id": "0504B02F|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Waterskin Equip Script",
+    "string": "Script de equipar odre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNOldConfigScript",
+    "form_id": "05056CC3|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Old Config Script",
+    "string": "Script de configuracion antigua",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNOldConfigScript",
+    "form_id": "05056CC3|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "iNeed actions.",
+    "string": "Acciones de iNeed.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNAdrenalineScript",
+    "form_id": "0505A2A8|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Adrenaline Script",
+    "string": "Script de adrenalina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWearyScript",
+    "form_id": "0505A2A9|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Weariness",
+    "string": "Cansancio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNBuffAdrenalineFX",
+    "form_id": "0505A2AE|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Adrenaline",
+    "string": "Adrenalina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNBuffWellnessFX",
+    "form_id": "0505B2D6|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Wellness",
+    "string": "Bienestar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNBuffWellnessFX",
+    "form_id": "0505B2D6|iNeed.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "How well you maintain your needs.\r\nHealth is increased by <mag> points.",
+    "string": "Que tan bien mantienes tus necesidades.\r\nLa Salud aumenta en <mag> puntos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWellnessScript",
+    "form_id": "0505B2D8|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Wellness Script",
+    "string": "Script de bienestar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWarmWaterScript",
+    "form_id": "0505CDBE|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Warm Water Script",
+    "string": "Script de agua tibia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNEmptyFX",
+    "form_id": "0506753C|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Empty FX",
+    "string": "Efecto vacio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNIsInWaterScript",
+    "form_id": "0508AC45|iNeed.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Is In Water Script",
+    "string": "Script de estar en agua",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNPlayerSpell",
+    "form_id": "05000D63|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "iNeed",
+    "string": "iNeed",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHungerPenaltySpell_1",
+    "form_id": "05001DA9|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Mild Hunger",
+    "string": "Hambre leve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHungerPenaltySpell_2",
+    "form_id": "05001DAB|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Moderate Hunger",
+    "string": "Hambre moderada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHungerPenaltySpell_3",
+    "form_id": "05001DAD|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Severe Hunger",
+    "string": "Hambre severa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFatiguePenaltySpell_1",
+    "form_id": "05001DAF|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Mild Fatigue",
+    "string": "Fatiga leve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFatiguePenaltySpell_2",
+    "form_id": "05001DB1|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Moderate Fatigue",
+    "string": "Fatiga moderada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFatiguePenaltySpell_3",
+    "form_id": "05001DB3|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Severe Fatigue",
+    "string": "Fatiga severa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNThirstPenaltySpell_1",
+    "form_id": "050048FB|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Mild Thirst",
+    "string": "Sed leve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNThirstPenaltySpell_2",
+    "form_id": "050048FD|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Moderate Thirst",
+    "string": "Sed moderada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNThirstPenaltySpell_3",
+    "form_id": "050048FF|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Severe Thirst",
+    "string": "Sed severa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNThirstBuffSpell",
+    "form_id": "05004E69|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Well Hydrated",
+    "string": "Bien hidratado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNThirstBuffSpell",
+    "form_id": "05004E69|iNeed.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Time between shouts reduced by <8>%. Your Stamina and Magicka regeneration are increased by <8>%. Resting is <8>% more effective at lowering Fatigue.",
+    "string": "El tiempo entre gritos se reduce en <8>%. Tu regeneracion de Aguante y Magia aumenta en <8>%. Descansar es <8>% mas efectivo para reducir la Fatiga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHungerBuffSpell",
+    "form_id": "05004E6C|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Well Sated",
+    "string": "Bien saciado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHungerBuffSpell",
+    "form_id": "05004E6C|iNeed.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Your Health regeneration and damage output are increased by <8>%. Resting is <8>% more effective at lowering Fatigue.",
+    "string": "Tu regeneracion de Salud y el daño que infliges aumentan en <8>%. Descansar es <8>% mas efectivo para reducir la Fatiga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDrunkSpell",
+    "form_id": "0500C4F2|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Inebriation",
+    "string": "Embriaguez",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDrunkSpell",
+    "form_id": "0500C4F2|iNeed.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "-<mag> Speechcraft and Lockpicking for <120> seconds.",
+    "string": "-<mag> Elocuencia y Ganzuas durante <120> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFeverPenaltySpell_1",
+    "form_id": "0501E83E|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Nausea",
+    "string": "Nauseas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSkoomaSpell",
+    "form_id": "05021367|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Skooma",
+    "string": "Skooma",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSkoomaSpell",
+    "form_id": "05021367|iNeed.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Your Stamina regeneration is increased by <300>% for <60> seconds. Your Magicka is drained by <300> points and no longer regenerates. You are <300>% weaker to magic for <300> seconds.",
+    "string": "Tu regeneracion de Aguante aumenta en <300>% durante <60> segundos. Tu Magia se reduce en <300> puntos y deja de regenerarse. Eres <300>% mas debil contra la magia durante <300> segundos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisAtaxiaSpell_1",
+    "form_id": "05030B46|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Mild Ataxia",
+    "string": "Ataxia leve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisAtaxiaSpell_2",
+    "form_id": "05030B48|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Moderate Ataxia",
+    "string": "Ataxia moderada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisAtaxiaSpell_3",
+    "form_id": "05030B4A|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Severe Ataxia",
+    "string": "Ataxia severa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisAtaxiaSpell_4",
+    "form_id": "05030B4C|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Deathly Ataxia",
+    "string": "Ataxia mortal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBHBSpell_1",
+    "form_id": "05030B4F|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Mild Black-Heart Blight",
+    "string": "Plaga del corazon negro leve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBHBSpell_2",
+    "form_id": "05030B51|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Moderate Black-Heart Blight",
+    "string": "Plaga del corazon negro moderada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBHBSpell_3",
+    "form_id": "05030B53|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Severe Black-Heart Blight",
+    "string": "Plaga del corazon negro severa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBHBSpell_4",
+    "form_id": "05030B55|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Deathly Black-Heart Blight",
+    "string": "Plaga del corazon negro mortal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBBFSpell_1",
+    "form_id": "050310BA|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Mild Bone Break Fever",
+    "string": "Fiebre rompehuesos leve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBBFSpell_2",
+    "form_id": "050310BC|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Moderate Bone Break Fever",
+    "string": "Fiebre rompehuesos moderada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBBFSpell_3",
+    "form_id": "050310BE|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Severe Bone Break Fever",
+    "string": "Fiebre rompehuesos severa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBBFSpell_4",
+    "form_id": "050310C0|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Deathly Bone Break Fever",
+    "string": "Fiebre rompehuesos mortal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBrainRotSpell_1",
+    "form_id": "050310C5|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Mild Brain Rot",
+    "string": "Podredumbre cerebral leve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBrainRotSpell_2",
+    "form_id": "050310C7|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Moderate Brain Rot",
+    "string": "Podredumbre cerebral moderada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBrainRotSpell_3",
+    "form_id": "050310C9|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Severe Brain Rot",
+    "string": "Podredumbre cerebral severa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisBrainRotSpell_4",
+    "form_id": "050310CB|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Deathly Brain Rot",
+    "string": "Podredumbre cerebral mortal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisDroopsSpell_1",
+    "form_id": "050310D5|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Mild Droops",
+    "string": "Decaimiento leve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisDroopsSpell_2",
+    "form_id": "050310D7|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Moderate Droops",
+    "string": "Decaimiento moderado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisDroopsSpell_3",
+    "form_id": "050310D9|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Severe Droops",
+    "string": "Decaimiento severo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisDroopsSpell_4",
+    "form_id": "050310DB|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Deathly Droops",
+    "string": "Decaimiento mortal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisRattlesSpell_1",
+    "form_id": "050310DF|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Mild Rattles",
+    "string": "Tembleque leve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisRattlesSpell_2",
+    "form_id": "050310E1|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Moderate Rattles",
+    "string": "Tembleque moderado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisRattlesSpell_3",
+    "form_id": "050310E3|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Severe Rattles",
+    "string": "Tembleque severo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisRattlesSpell_4",
+    "form_id": "050310E5|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Deathly Rattles",
+    "string": "Tembleque mortal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisRockjointSpell_1",
+    "form_id": "050310EA|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Mild Rockjoint",
+    "string": "Rigidez leve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisRockjointSpell_2",
+    "form_id": "050310EC|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Moderate Rockjoint",
+    "string": "Rigidez moderada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisRockjointSpell_3",
+    "form_id": "050310EE|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Severe Rockjoint",
+    "string": "Rigidez severa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisRockjointSpell_4",
+    "form_id": "050310F0|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Deathly Rockjoint",
+    "string": "Rigidez mortal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisWitbaneSpell_1",
+    "form_id": "050310FA|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Mild Witbane",
+    "string": "Marchitez mental leve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisWitbaneSpell_2",
+    "form_id": "050310FC|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Moderate Witbane",
+    "string": "Marchitez mental moderada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisWitbaneSpell_3",
+    "form_id": "050310FE|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Severe Witbane",
+    "string": "Marchitez mental severa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisWitbaneSpell_4",
+    "form_id": "05031662|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Deathly Witbane",
+    "string": "Marchitez mental mortal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisSalmonSpell_1",
+    "form_id": "05031665|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Mild Stomach Rot",
+    "string": "Podredumbre estomacal leve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisSalmonSpell_2",
+    "form_id": "05031667|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Moderate Stomach Rot",
+    "string": "Podredumbre estomacal moderada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisSalmonSpell_3",
+    "form_id": "05031669|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Severe Stomach Rot",
+    "string": "Podredumbre estomacal severa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisSalmonSpell_4",
+    "form_id": "0503166B|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Deathly Stomach Rot",
+    "string": "Podredumbre estomacal mortal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNVariedDietSpell",
+    "form_id": "0503572D|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Varied Diet",
+    "string": "Dieta variada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDisSalmonVanillaSpell",
+    "form_id": "0503B2D2|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Stomach Rot",
+    "string": "Podredumbre estomacal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNOldConfigSpell",
+    "form_id": "05056CC4|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Actions: iNeed",
+    "string": "Acciones: iNeed",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNOldConfigSpell",
+    "form_id": "05056CC4|iNeed.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Actions for your needs.",
+    "string": "Acciones para tus necesidades.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWearySpell",
+    "form_id": "0505A2AA|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Weariness",
+    "string": "Cansancio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWearySpell",
+    "form_id": "0505A2AA|iNeed.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Hunger, Thirst, and Fatigue rise <100>% faster for <50>% of the time spent under the effects of <Adrenaline>.",
+    "string": "Hambre, Sed y Fatiga aumentan <100>% mas rapido durante <50>% del tiempo bajo los efectos de <Adrenalina>.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNAdrenalineSpell",
+    "form_id": "0505A2AC|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Adrenaline",
+    "string": "Adrenalina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNAdrenalineSpell",
+    "form_id": "0505A2AC|iNeed.esp",
+    "index": 1,
+    "type": "SPEL DESC",
+    "original": "Hunger, Thirst, and Fatigue rise <50>% slower.",
+    "string": "Hambre, Sed y Fatiga aumentan <50>% mas lento.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWellnessSpell",
+    "form_id": "0505B2D4|iNeed.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "Wellness",
+    "string": "Bienestar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterBarrel",
+    "form_id": "05014110|iNeed.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Water Barrel",
+    "string": "Barril de agua",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterBarrel",
+    "form_id": "05014110|iNeed.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Use",
+    "string": "Usar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWellBucket",
+    "form_id": "050166C6|iNeed.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Well",
+    "string": "Pozo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWellBucket",
+    "form_id": "050166C6|iNeed.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Use",
+    "string": "Usar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWellBucketPlaceable",
+    "form_id": "05028495|iNeed.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Bucket",
+    "string": "Cubo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWellBucketPlaceable",
+    "form_id": "05028495|iNeed.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Use",
+    "string": "Usar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterKeg",
+    "form_id": "0504546F|iNeed.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Water Keg",
+    "string": "Tonel de agua",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterKeg",
+    "form_id": "0504546F|iNeed.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Use",
+    "string": "Usar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterskinEquipLeft",
+    "form_id": "0504A567|iNeed.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Waterskin, Left",
+    "string": "Odre, izquierda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterskinEquipRight",
+    "form_id": "0504A56A|iNeed.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Waterskin, Right",
+    "string": "Odre, derecha",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterskinEquipBack",
+    "form_id": "0504B595|iNeed.esp",
+    "index": 1,
+    "type": "ARMO FULL",
+    "original": "Waterskin, Back",
+    "string": "Odre, espalda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterskin_Salt",
+    "form_id": "050587B6|iNeed.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Waterskin, Salt Water",
+    "string": "Odre, agua salada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterskin_0",
+    "form_id": "0500438C|iNeed.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Waterskin, Empty",
+    "string": "Odre, vacio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterBarrelKit",
+    "form_id": "0501410F|iNeed.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Water Barrel Assembly Parts",
+    "string": "Piezas de ensamblaje de barril de agua",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWellBucketKit",
+    "form_id": "05028496|iNeed.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Water Bucket, Placeable",
+    "string": "Cubo de agua, colocable",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSpoiledFood",
+    "form_id": "0502AA51|iNeed.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Spoiled Food",
+    "string": "Comida estropeada",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterKegKit",
+    "form_id": "05045470|iNeed.esp",
+    "index": 1,
+    "type": "MISC FULL",
+    "original": "Water Keg, Placeable",
+    "string": "Tonel de agua, colocable",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureWitbane",
+    "form_id": "050464AE|iNeed.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Potion of Cure Witbane",
+    "string": "Pocion para curar mal de ingenio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureStomachRot",
+    "form_id": "050464B1|iNeed.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Potion of Cure Stomach Rot",
+    "string": "Pocion para curar podredumbre estomacal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureDisease",
+    "form_id": "050464B3|iNeed.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Potion of Cure Disease",
+    "string": "Pocion para curar enfermedad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterskin_3",
+    "form_id": "05004376|iNeed.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Waterskin, 3/3",
+    "string": "Odre, 3/3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterskin_2",
+    "form_id": "0500437D|iNeed.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Waterskin, 2/3",
+    "string": "Odre, 2/3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterskin_1",
+    "form_id": "0500437F|iNeed.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Waterskin, 1/3",
+    "string": "Odre, 1/3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNEmptyFood",
+    "form_id": "050089B4|iNeed.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Dummy Food",
+    "string": "Comida ficticia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowPile",
+    "form_id": "050387AD|iNeed.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Snow",
+    "string": "Nieve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterskin_1_Unknown",
+    "form_id": "0503B2C5|iNeed.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Waterskin, Unknown 1/3",
+    "string": "Odre, desconocido 1/3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterskin_2_Unknown",
+    "form_id": "0503B2C8|iNeed.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Waterskin, Unknown 2/3",
+    "string": "Odre, desconocido 2/3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterskin_3_Unknown",
+    "form_id": "0503B2CC|iNeed.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Waterskin, Unknown 3/3",
+    "string": "Odre, desconocido 3/3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureAtaxia",
+    "form_id": "050464A0|iNeed.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Potion of Cure Ataxia",
+    "string": "Pocion para curar ataxia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureBHB",
+    "form_id": "050464A2|iNeed.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Potion of Cure Black Heart Blight",
+    "string": "Pocion para curar plaga del corazon negro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureBBF",
+    "form_id": "050464A4|iNeed.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Potion of Cure Bone Break Fever",
+    "string": "Pocion para curar fiebre rompehuesos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureBrainRot",
+    "form_id": "050464A6|iNeed.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Potion of Cure Brain Rot",
+    "string": "Pocion para curar podredumbre cerebral",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureDroops",
+    "form_id": "050464A8|iNeed.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Potion of Cure Droops",
+    "string": "Pocion para curar decaimiento",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureRattles",
+    "form_id": "050464AA|iNeed.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Potion of Cure Rattles",
+    "string": "Pocion para curar temblores",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNCureRockjoint",
+    "form_id": "050464AC|iNeed.esp",
+    "index": 1,
+    "type": "ALCH FULL",
+    "original": "Potion of Cure Rockjoint",
+    "string": "Pocion para curar dolor articular",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "Skyrim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "RiftenWorld",
+    "form_id": "00016BB4|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Riften",
+    "string": "Riften",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WhiterunWorld",
+    "form_id": "0001A26F|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Whiterun",
+    "string": "Carrera Blanca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SolitudeWorld",
+    "form_id": "00037EDF|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Solitude",
+    "string": "Soledad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNInnRefillTopic",
+    "form_id": "0501FDD0|iNeed.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'd like a refill of water. (5 gold)",
+    "string": "Me gustaria rellenar agua. (5 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFriendRefillTopic",
+    "form_id": "0501FDD7|iNeed.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Do you have any water by chance?",
+    "string": "Tienes agua por casualidad?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNTravelerRefillTopic",
+    "form_id": "0501FDD9|iNeed.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Could you spare some water? (50 gold)",
+    "string": "Podrias darme un poco de agua? (50 septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNPriestCureTopic",
+    "form_id": "05032BFD|iNeed.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Please cure me of my disease. (<Global=_SNPriestCureCost> gold)",
+    "string": "Por favor cura mi enfermedad. (<Global=_SNPriestCureCost> septims)",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNPriestNoGoldCureTopic",
+    "form_id": "05033C2C|iNeed.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "It seems I cannot afford to have my disease treated.",
+    "string": "Parece que no puedo pagar el tratamiento de mi enfermedad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNValuedHarvestsDisableTopic",
+    "form_id": "05049A9B|iNeed.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm going to gather these crops for you.",
+    "string": "Voy a recolectar estos cultivos para ti.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNValuedHarvestsEnableTopic",
+    "form_id": "05049A9E|iNeed.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "I'm finished gathering your crops.",
+    "string": "He terminado de recolectar tus cultivos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNPriestHolidayCureTopic",
+    "form_id": "0504F0D5|iNeed.esp",
+    "index": 1,
+    "type": "DIAL FULL",
+    "original": "Please cure me of my disease.",
+    "string": "Por favor cura mi enfermedad.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSittingLS",
+    "form_id": "05050662|iNeed.esp",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "Using a carriage for fast travel or simply sitting anywhere and using the Wait function will decrease your Fatigue. However, this is less effective than a good night's sleep in a bed.",
+    "string": "Usar un carruaje para viaje rapido o simplemente sentarte en cualquier lugar y usar la funcion Esperar reducira tu Fatiga. Sin embargo, esto es menos efectivo que una buena noche de sueño en una cama.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterfallWaterLS",
+    "form_id": "05050665|iNeed.esp",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "Waterskins can be refilled while standing in water. Salt water can be collected at the ocean and reduced to Salt Piles at a Cooking Pot.",
+    "string": "Los odres pueden rellenarse mientras estas de pie en el agua. El agua salada puede recogerse en el oceano y reducirse a montones de sal en un perol de cocina.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterBucketsLS",
+    "form_id": "05050666|iNeed.esp",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "Water Buckets are intended to serve as a patching system for mod-added wells. Craft them at a Forge and place them near unsupported wells to allow access to the well's water.",
+    "string": "Los cubos de agua estan pensados para servir como un sistema de parche para pozos agregados por mods. Forjalos en una forja y colocalos cerca de pozos no compatibles para permitir acceso al agua del pozo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterBarrelsKegsLS",
+    "form_id": "05050667|iNeed.esp",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "Water Barrels/Kegs are intended to serve as easy sources of water for places where they would make sense. Craft them at a Forge or purchase and place them in your home or for your favorite NPCs.",
+    "string": "Los barriles o toneles de agua estan pensados para servir como fuentes faciles de agua en lugares donde tenga sentido. Forjalos en una forja o compralos y colocalos en tu casa o para tus NPC favoritos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodSpoilageLS",
+    "form_id": "0504EB70|iNeed.esp",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "Food found in the world is less likely to last as long as food you have cooked, hunted or purchased yourself.",
+    "string": "La comida encontrada en el mundo tiene menos probabilidades de durar tanto como la comida que has cocinado, cazado o comprado tu mismo.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterskinsLS",
+    "form_id": "05050668|iNeed.esp",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "Waterskins can be purchased from innkeepers, general goods merchants or crafted at a Leather Rack.",
+    "string": "Los odres pueden comprarse a posaderos, mercaderes de bienes generales o fabricarse en un curtidor.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNDangerousDiseasesLS",
+    "form_id": "05050660|iNeed.esp",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "Dangerous diseases take time to regress. Try resting if you are suffering from \"Nausea\".",
+    "string": "Las enfermedades peligrosas tardan en desaparecer. Intenta descansar si estas sufriendo de 'Nausea'.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNAlcoholLS",
+    "form_id": "05050661|iNeed.esp",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "Drinking too much alcohol within a short time span will put you in a drunken state. Wait it out or sleep it off!",
+    "string": "Beber demasiado alcohol en un corto periodo de tiempo te pondra en estado de ebriedad. Espera a que pase o duerme para recuperarte!",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNRainWaterLS",
+    "form_id": "05050664|iNeed.esp",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "Find or place a regular bucket/kettle out in the open when it's raining and leave the area. If it's still raining when you return, you'll be able to drink and refill your Waterskins.",
+    "string": "Encuentra o coloca un cubo o tetera normal al aire libre cuando este lloviendo y deja el area. Si aun esta lloviendo cuando regreses, podras beber y rellenar tus odres.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNActivatePerks",
+    "form_id": "05004387|iNeed.esp",
+    "index": 1,
+    "type": "PERK FULL",
+    "original": "Activate Perks",
+    "string": "Activa ventajas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNActivatePerks",
+    "form_id": "05004387|iNeed.esp",
+    "index": 0,
+    "type": "PERK EPF2",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNActivatePerks",
+    "form_id": "05004387|iNeed.esp",
+    "index": 0,
+    "type": "PERK EPF2",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNActivatePerks",
+    "form_id": "05004387|iNeed.esp",
+    "index": 0,
+    "type": "PERK EPF2",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNActivatePerks",
+    "form_id": "05004387|iNeed.esp",
+    "index": 0,
+    "type": "PERK EPF2",
+    "original": "Take",
+    "string": "Coger",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNActivatePerks",
+    "form_id": "05004387|iNeed.esp",
+    "index": 0,
+    "type": "PERK EPF2",
+    "original": "Disassemble",
+    "string": "Desensambla",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNActivatePerks",
+    "form_id": "05004387|iNeed.esp",
+    "index": 0,
+    "type": "PERK EPF2",
+    "original": "Feed",
+    "string": "Alimentar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNActivatePerks",
+    "form_id": "05004387|iNeed.esp",
+    "index": 0,
+    "type": "PERK EPF2",
+    "original": "Feed/Gather Meat",
+    "string": "Alimentate o recolecta carne",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNActivatePerks",
+    "form_id": "05004387|iNeed.esp",
+    "index": 0,
+    "type": "PERK EPF2",
+    "original": "Take",
+    "string": "Coger",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNActivatePerks",
+    "form_id": "05004387|iNeed.esp",
+    "index": 2,
+    "type": "PERK EPF2",
+    "original": "Drink",
+    "string": "Beber",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNActivatePerks",
+    "form_id": "05004387|iNeed.esp",
+    "index": 2,
+    "type": "PERK EPF2",
+    "original": "Drink",
+    "string": "Beber",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNActivatePerks",
+    "form_id": "05004387|iNeed.esp",
+    "index": 2,
+    "type": "PERK EPF2",
+    "original": "Drink",
+    "string": "Beber",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNActivatePerks",
+    "form_id": "05004387|iNeed.esp",
+    "index": 0,
+    "type": "PERK EPF2",
+    "original": "Refill Waterskins",
+    "string": "Rellena odres",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNActivatePerks",
+    "form_id": "05004387|iNeed.esp",
+    "index": 0,
+    "type": "PERK EPF2",
+    "original": "Refill Waterskins",
+    "string": "Rellena odres",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNActivatePerks",
+    "form_id": "05004387|iNeed.esp",
+    "index": 0,
+    "type": "PERK EPF2",
+    "original": "Refill Waterskins",
+    "string": "Rellena odres",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigRecategorizeMsg",
+    "form_id": "05057228|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "After enabling this option, any item you consume will bring up an option to categorize it. Return to this menu and turn this option off after you've finished categorizing.",
+    "string": "Despues de activar esta opcion, cualquier objeto que consumas mostrara una opcion para categorizarlo. Vuelve a este menu y desactiva esta opcion cuando hayas terminado de categorizar.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigRecategorizeMsg",
+    "form_id": "05057228|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Off",
+    "string": "Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigRecategorizeMsg",
+    "form_id": "05057228|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "On",
+    "string": "Activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigRecategorizeMsg",
+    "form_id": "05057228|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterSaltMsg",
+    "form_id": "050587B7|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Salt water can be reduced to a Salt Pile at a Cooking Pot.",
+    "string": "El agua salada puede reducirse a un monton de sal en un perol de cocina.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterSaltMsg",
+    "form_id": "050587B7|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Empty",
+    "string": "Vacio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterSaltMsg",
+    "form_id": "050587B7|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyMsg",
+    "form_id": "05058D1E|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What would you like to do?",
+    "string": "Que te gustaria hacer?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyMsg",
+    "form_id": "05058D1E|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Status",
+    "string": "Estado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyMsg",
+    "form_id": "05058D1E|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Auto-Eat",
+    "string": "Comer automatico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyMsg",
+    "form_id": "05058D1E|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Auto-Drink",
+    "string": "Beber automatico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyMsg",
+    "form_id": "05058D1E|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Drink/Refill",
+    "string": "Beber o rellenar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyMsg",
+    "form_id": "05058D1E|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Sit",
+    "string": "Sentarse",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyMsg",
+    "form_id": "05058D1E|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Inspect Bag",
+    "string": "Revisar bolsa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyMsg",
+    "form_id": "05058D1E|iNeed.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Roast",
+    "string": "Asar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyMsg",
+    "form_id": "05058D1E|iNeed.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "Options",
+    "string": "Opciones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyMsg",
+    "form_id": "05058D1E|iNeed.esp",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyDrinkUnknownMsg",
+    "form_id": "05058D1F|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "The water here looks questionable...",
+    "string": "El agua aqui parece sospechosa...",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyDrinkUnknownMsg",
+    "form_id": "05058D1F|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Drink",
+    "string": "Beber",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyDrinkUnknownMsg",
+    "form_id": "05058D1F|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsPerspectiveMsg",
+    "form_id": "05059283|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Set the perspective of your text notifications.\r\n\r\n1st Person: 'I am feeling well sated.'\r\n2nd Person: 'You are feeling well sated.'\r\nDefault: 2nd Person",
+    "string": "Establece la perspectiva de tus notificaciones de texto.\r\n\r\n1era persona: 'Me siento bien saciado.'\r\n2da persona: 'Te sientes bien saciado.'\r\nPredeterminado: 2da persona",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsPerspectiveMsg",
+    "form_id": "05059283|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "1st Person",
+    "string": "1era persona",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsPerspectiveMsg",
+    "form_id": "05059283|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "2nd Person",
+    "string": "2da persona",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsPerspectiveMsg",
+    "form_id": "05059283|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffAdrenalineMsg",
+    "form_id": "0505B2D3|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This is a mechanic to help make your needs less irksome and to encourage preparation before dungeon diving.\r\n\r\nIn unsafe interiors you will have the Adrenaline buff, which slows down the rate of your needs by half. However, after exiting, you will be afflicted with Weariness, which doubles the rate of your needs for half of the time you spent under Adrenaline.\r\n\r\nThis mechanic doesn't apply to hybrid vampires.\r\nDefault: On",
+    "string": "Este es un sistema para ayudar a que tus necesidades sean menos molestas y para fomentar la preparacion antes de explorar mazmorras.\r\n\r\nEn interiores inseguros tendras el beneficio Adrenalina, que reduce a la mitad la velocidad de tus necesidades. Sin embargo, despues de salir, sufriras Cansancio, que duplica la velocidad de tus necesidades durante la mitad del tiempo que pasaste bajo Adrenalina.\r\n\r\nEste sistema no se aplica a vampiros hibridos.\r\nPredeterminado: Activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffAdrenalineMsg",
+    "form_id": "0505B2D3|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Off",
+    "string": "Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffAdrenalineMsg",
+    "form_id": "0505B2D3|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "On",
+    "string": "Activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffAdrenalineMsg",
+    "form_id": "0505B2D3|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodSaltMsg",
+    "form_id": "05037782|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Salted meat will not spoil and can be safely eaten but will increase Thirst.",
+    "string": "La carne salada no se echara a perder y puede comerse con seguridad pero aumentara la Sed.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodSaltMsg",
+    "form_id": "05037782|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Eat",
+    "string": "Comer",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodSaltMsg",
+    "form_id": "05037782|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Salt",
+    "string": "Sal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodSaltMsg",
+    "form_id": "05037782|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterUnknownMsg",
+    "form_id": "0503B2CE|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This water looks questionable but can be purified at a Cooking Pot or emptied out by accessing it from your inventory.",
+    "string": "Esta agua parece sospechosa pero puede purificarse en un perol de cocina o vaciarse accediendo a ella desde tu inventario.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterUnknownMsg",
+    "form_id": "0503B2CE|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Drink",
+    "string": "Beber",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterUnknownMsg",
+    "form_id": "0503B2CE|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Empty",
+    "string": "Vacio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterUnknownMsg",
+    "form_id": "0503B2CE|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownMsg",
+    "form_id": "0503E34E|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Categorize this consumable item for iNeed.",
+    "string": "Categoriza este objeto consumible para iNeed.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownMsg",
+    "form_id": "0503E34E|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Food",
+    "string": "Comida",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownMsg",
+    "form_id": "0503E34E|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Drink",
+    "string": "Beber",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownMsg",
+    "form_id": "0503E34E|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Never",
+    "string": "Nunca",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownMsg",
+    "form_id": "0503E34E|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownFoodMsg",
+    "form_id": "0503E34F|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Examples:\r\n\r\nHeavy = Horse Haunch\r\nMedium = Grilled Chicken Breast\r\nSoup = Horker Stew\r\nLight = Apple\r\nRaw = Dog Meat",
+    "string": "Ejemplos:\r\n\r\nPesado = Anca de caballo\r\nMedio = Pechuga de pollo a la parrilla\r\nSopa = Estofado de horker\r\nLigero = Manzana\r\nCrudo = Carne de perro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownFoodMsg",
+    "form_id": "0503E34F|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Heavy",
+    "string": "Pesado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownFoodMsg",
+    "form_id": "0503E34F|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Medium",
+    "string": "Medio",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownFoodMsg",
+    "form_id": "0503E34F|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Soup",
+    "string": "Sopa",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownFoodMsg",
+    "form_id": "0503E34F|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Light",
+    "string": "Ligero",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownFoodMsg",
+    "form_id": "0503E34F|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Raw",
+    "string": "Crudo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownFoodMsg",
+    "form_id": "0503E34F|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownDrinkMsg",
+    "form_id": "0503E350|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Examples:\r\n\r\nAlcoholic = Mead\r\nNon-alcoholic = Water\r\nBlood (for vampires) = Potion of Blood",
+    "string": "Ejemplos:\r\n\r\nAlcoholico = Hidromiel\r\nNo alcoholico = Agua\r\nSangre (para vampiros) = Pocion de sangre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownDrinkMsg",
+    "form_id": "0503E350|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Alcoholic",
+    "string": "Alcoholico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownDrinkMsg",
+    "form_id": "0503E350|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Non-alcoholic",
+    "string": "No alcoholico",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownDrinkMsg",
+    "form_id": "0503E350|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Blood",
+    "string": "Sangre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownDrinkMsg",
+    "form_id": "0503E350|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownFoodSpoilMsg",
+    "form_id": "0503E352|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Can this food spoil?",
+    "string": "Puede estropearse esta comida?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownFoodSpoilMsg",
+    "form_id": "0503E352|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "Si",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNFoodUnknownFoodSpoilMsg",
+    "form_id": "0503E352|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "No",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast2Msg",
+    "form_id": "0507173E|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What would you like to roast?",
+    "string": "Que te gustaria asar?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast2Msg",
+    "form_id": "0507173E|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "{--",
+    "string": "{--",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast2Msg",
+    "form_id": "0507173E|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Horker",
+    "string": "Horker",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast2Msg",
+    "form_id": "0507173E|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Mammoth",
+    "string": "Mamut",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast2Msg",
+    "form_id": "0507173E|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Goat",
+    "string": "Cabra",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast2Msg",
+    "form_id": "0507173E|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Horse",
+    "string": "Caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast2Msg",
+    "form_id": "0507173E|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Boar",
+    "string": "Jabali",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast2Msg",
+    "form_id": "0507173E|iNeed.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Mudcrab",
+    "string": "Cangrejo del fango",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast2Msg",
+    "form_id": "0507173E|iNeed.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast1Msg",
+    "form_id": "0507173D|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What would you like to roast?",
+    "string": "Que te gustaria asar?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast1Msg",
+    "form_id": "0507173D|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Leeks",
+    "string": "Puerros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast1Msg",
+    "form_id": "0507173D|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Potato",
+    "string": "Patata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast1Msg",
+    "form_id": "0507173D|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Rabbit",
+    "string": "Conejo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast1Msg",
+    "form_id": "0507173D|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Chicken",
+    "string": "Pollo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast1Msg",
+    "form_id": "0507173D|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Pheasant",
+    "string": "Faisan",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast1Msg",
+    "form_id": "0507173D|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Salmon",
+    "string": "Salmon",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast1Msg",
+    "form_id": "0507173D|iNeed.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Beef",
+    "string": "Carne de res",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast1Msg",
+    "form_id": "0507173D|iNeed.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "Venison",
+    "string": "Venado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast1Msg",
+    "form_id": "0507173D|iNeed.esp",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "--}",
+    "string": "--}",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHotkeyRoast1Msg",
+    "form_id": "0507173D|iNeed.esp",
+    "index": 9,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHarvestMsg",
+    "form_id": "05043982|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "What would you like to do?",
+    "string": "Que te gustaria hacer?",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHarvestMsg",
+    "form_id": "05043982|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Purchase",
+    "string": "Comprar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHarvestMsg",
+    "form_id": "05043982|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Steal",
+    "string": "Robar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNHarvestMsg",
+    "form_id": "05043982|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterKegMsg",
+    "form_id": "050459DA|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This object will always face towards you when initially placed.",
+    "string": "Este objeto siempre quedara orientado hacia ti cuando se coloque inicialmente.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterKegMsg",
+    "form_id": "050459DA|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Move Up",
+    "string": "Mover arriba",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterKegMsg",
+    "form_id": "050459DA|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Move Down",
+    "string": "Mover abajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterKegMsg",
+    "form_id": "050459DA|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Turn Left",
+    "string": "Girar a la izquierda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterKegMsg",
+    "form_id": "050459DA|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Turn Right",
+    "string": "Girar a la derecha",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterKegMsg",
+    "form_id": "050459DA|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Start Over",
+    "string": "Empezar de nuevo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNWaterKegMsg",
+    "form_id": "050459DA|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsGenericMsg",
+    "form_id": "05053C44|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Penalties don't start applying until you're feeling mildly hungry/thirsty/fatigued.",
+    "string": "Las penalizaciones no empiezan a aplicarse hasta que te sientes ligeramente hambriento, sediento o fatigado.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsGenericMsg",
+    "form_id": "05053C44|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Hunger",
+    "string": "Hambre",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsGenericMsg",
+    "form_id": "05053C44|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Thirst",
+    "string": "Sed",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsGenericMsg",
+    "form_id": "05053C44|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Fatigue",
+    "string": "Fatiga",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsGenericMsg",
+    "form_id": "05053C44|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMsg",
+    "form_id": "05053C45|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Options",
+    "string": "Opciones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMsg",
+    "form_id": "05053C45|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Needs",
+    "string": "Necesidades",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMsg",
+    "form_id": "05053C45|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Difficulty",
+    "string": "Dificultad",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMsg",
+    "form_id": "05053C45|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Misc",
+    "string": "Varios",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMsg",
+    "form_id": "05053C45|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Categorize",
+    "string": "Categorizar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMsg",
+    "form_id": "05053C45|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Timescale",
+    "string": "Escala de tiempo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMsg",
+    "form_id": "05053C45|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Restart",
+    "string": "Reiniciar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMsg",
+    "form_id": "05053C45|iNeed.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "*Guide*",
+    "string": "*Guia*",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMsg",
+    "form_id": "05053C45|iNeed.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "Exit",
+    "string": "Salir",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateHungerMsg",
+    "form_id": "05053C46|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "At a setting of 4, you should feel the need to eat 2-3 times per day, regardless of timescale, provided that you are consuming full meals. Lower this value to decrease the rate at which your hunger requires attention.\r\nDefault: 4",
+    "string": "Con un valor de 4, deberias sentir la necesidad de comer 2 o 3 veces al dia, sin importar la escala de tiempo, siempre que consumas comidas completas. Reduce este valor para disminuir la velocidad a la que tu hambre requiere atencion.\r\nPredeterminado: 4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateHungerMsg",
+    "form_id": "05053C46|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "0",
+    "string": "0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateHungerMsg",
+    "form_id": "05053C46|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "1",
+    "string": "1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateHungerMsg",
+    "form_id": "05053C46|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "2",
+    "string": "2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateHungerMsg",
+    "form_id": "05053C46|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "3",
+    "string": "3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateHungerMsg",
+    "form_id": "05053C46|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "4",
+    "string": "4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateHungerMsg",
+    "form_id": "05053C46|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "5",
+    "string": "5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateHungerMsg",
+    "form_id": "05053C46|iNeed.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "6",
+    "string": "6",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateHungerMsg",
+    "form_id": "05053C46|iNeed.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "7",
+    "string": "7",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateHungerMsg",
+    "form_id": "05053C46|iNeed.esp",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateThirstMsg",
+    "form_id": "05053C47|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "At a setting of 4, you should feel the need to drink 2-3 times per day, regardless of timescale, provided that you are consuming full drinks. Lower this value to decrease the rate at which your thirst requires attention.\r\nDefault: 4",
+    "string": "Con un valor de 4, deberias sentir la necesidad de beber 2 o 3 veces al dia, sin importar la escala de tiempo, siempre que consumas bebidas completas. Reduce este valor para disminuir la velocidad a la que tu sed requiere atencion.\r\nPredeterminado: 4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateThirstMsg",
+    "form_id": "05053C47|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "0",
+    "string": "0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateThirstMsg",
+    "form_id": "05053C47|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "1",
+    "string": "1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateThirstMsg",
+    "form_id": "05053C47|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "2",
+    "string": "2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateThirstMsg",
+    "form_id": "05053C47|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "3",
+    "string": "3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateThirstMsg",
+    "form_id": "05053C47|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "4",
+    "string": "4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateThirstMsg",
+    "form_id": "05053C47|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "5",
+    "string": "5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateThirstMsg",
+    "form_id": "05053C47|iNeed.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "6",
+    "string": "6",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateThirstMsg",
+    "form_id": "05053C47|iNeed.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "7",
+    "string": "7",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateThirstMsg",
+    "form_id": "05053C47|iNeed.esp",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateFatigueMsg",
+    "form_id": "05053C48|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "At a setting of 4, you should feel the need to sleep once per day, regardless of timescale, provided that you are getting at least 7 hours of sleep. Lower this value to decrease the rate at which your fatigue requires attention.\r\nDefault: 4",
+    "string": "Con un valor de 4, deberias sentir la necesidad de dormir una vez al dia, sin importar la escala de tiempo, siempre que duermas al menos 7 horas. Reduce este valor para disminuir la velocidad a la que tu fatiga requiere atencion.\r\nPredeterminado: 4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateFatigueMsg",
+    "form_id": "05053C48|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "0",
+    "string": "0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateFatigueMsg",
+    "form_id": "05053C48|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "1",
+    "string": "1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateFatigueMsg",
+    "form_id": "05053C48|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "2",
+    "string": "2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateFatigueMsg",
+    "form_id": "05053C48|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "3",
+    "string": "3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateFatigueMsg",
+    "form_id": "05053C48|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "4",
+    "string": "4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateFatigueMsg",
+    "form_id": "05053C48|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "5",
+    "string": "5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateFatigueMsg",
+    "form_id": "05053C48|iNeed.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "6",
+    "string": "6",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateFatigueMsg",
+    "form_id": "05053C48|iNeed.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "7",
+    "string": "7",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsRateFatigueMsg",
+    "form_id": "05053C48|iNeed.esp",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolHungerMsg",
+    "form_id": "05053C49|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Grumbling stomach noises will play more frequently as your hunger becomes more urgent.\r\nDefault: 5",
+    "string": "Los ruidos de estomago gruñendo sonaran con mayor frecuencia a medida que tu hambre se vuelva mas urgente.\r\nPredeterminado: 5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolHungerMsg",
+    "form_id": "05053C49|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "0",
+    "string": "0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolHungerMsg",
+    "form_id": "05053C49|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "2",
+    "string": "2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolHungerMsg",
+    "form_id": "05053C49|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "3",
+    "string": "3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolHungerMsg",
+    "form_id": "05053C49|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "4",
+    "string": "4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolHungerMsg",
+    "form_id": "05053C49|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "5",
+    "string": "5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolHungerMsg",
+    "form_id": "05053C49|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "6",
+    "string": "6",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolHungerMsg",
+    "form_id": "05053C49|iNeed.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "7",
+    "string": "7",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolHungerMsg",
+    "form_id": "05053C49|iNeed.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "8",
+    "string": "8",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolHungerMsg",
+    "form_id": "05053C49|iNeed.esp",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "9",
+    "string": "9",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolHungerMsg",
+    "form_id": "05053C49|iNeed.esp",
+    "index": 9,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolThirstMsg",
+    "form_id": "05053C4A|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Coughing noises will play more frequently as your thirst becomes more urgent.\r\nDefault: 5",
+    "string": "Los sonidos de tos sonaran con mayor frecuencia a medida que tu sed se vuelva mas urgente.\r\nPredeterminado: 5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolThirstMsg",
+    "form_id": "05053C4A|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "0",
+    "string": "0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolThirstMsg",
+    "form_id": "05053C4A|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "2",
+    "string": "2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolThirstMsg",
+    "form_id": "05053C4A|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "3",
+    "string": "3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolThirstMsg",
+    "form_id": "05053C4A|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "4",
+    "string": "4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolThirstMsg",
+    "form_id": "05053C4A|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "5",
+    "string": "5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolThirstMsg",
+    "form_id": "05053C4A|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "6",
+    "string": "6",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolThirstMsg",
+    "form_id": "05053C4A|iNeed.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "7",
+    "string": "7",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolThirstMsg",
+    "form_id": "05053C4A|iNeed.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "8",
+    "string": "8",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolThirstMsg",
+    "form_id": "05053C4A|iNeed.esp",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "9",
+    "string": "9",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolThirstMsg",
+    "form_id": "05053C4A|iNeed.esp",
+    "index": 9,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolFatigueMsg",
+    "form_id": "05053C4B|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Yawning noises will play more frequently as your fatigue becomes more urgent.\r\nDefault: 5",
+    "string": "Los bostezos sonaran con mayor frecuencia a medida que tu fatiga se vuelva mas urgente.\r\nPredeterminado: 5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolFatigueMsg",
+    "form_id": "05053C4B|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "0",
+    "string": "0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolFatigueMsg",
+    "form_id": "05053C4B|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "2",
+    "string": "2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolFatigueMsg",
+    "form_id": "05053C4B|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "3",
+    "string": "3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolFatigueMsg",
+    "form_id": "05053C4B|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "4",
+    "string": "4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolFatigueMsg",
+    "form_id": "05053C4B|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "5",
+    "string": "5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolFatigueMsg",
+    "form_id": "05053C4B|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "6",
+    "string": "6",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolFatigueMsg",
+    "form_id": "05053C4B|iNeed.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "7",
+    "string": "7",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolFatigueMsg",
+    "form_id": "05053C4B|iNeed.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "8",
+    "string": "8",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolFatigueMsg",
+    "form_id": "05053C4B|iNeed.esp",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "9",
+    "string": "9",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsVolFatigueMsg",
+    "form_id": "05053C4B|iNeed.esp",
+    "index": 9,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscMsg",
+    "form_id": "05053C4C|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Stuff that doesn't really fit into any of the other categories.",
+    "string": "Cosas que realmente no encajan en ninguna de las otras categorias.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscMsg",
+    "form_id": "05053C4C|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Animations",
+    "string": "Animaciones",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscMsg",
+    "form_id": "05053C4C|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Visible Waterskins",
+    "string": "Odres visibles",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscMsg",
+    "form_id": "05053C4C|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Restoration",
+    "string": "Restauracion",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscMsg",
+    "form_id": "05053C4C|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Vampirism",
+    "string": "Vampirismo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscMsg",
+    "form_id": "05053C4C|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Cannibal",
+    "string": "Canibal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscMsg",
+    "form_id": "05053C4C|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsAutoMsg",
+    "form_id": "05053C4D|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You will automatically eat or drink when needed. Just keep your inventory stocked! The most effective drinks will always be selected first but alcohol will never be automatically consumed. Automatic refills of your waterskins will occur when standing in fresh water.\r\nDefault: Off",
+    "string": "Comeras o beberas automaticamente cuando sea necesario. Solo manten tu inventario abastecido! Las bebidas mas efectivas siempre se seleccionaran primero pero el alcohol nunca se consumira automaticamente. Los odres se rellenaran automaticamente cuando estes de pie en agua dulce.\r\nPredeterminado: Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsAutoMsg",
+    "form_id": "05053C4D|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Auto-Eat Off",
+    "string": "Comer automatico desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsAutoMsg",
+    "form_id": "05053C4D|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Auto-Eat On",
+    "string": "Comer automatico activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsAutoMsg",
+    "form_id": "05053C4D|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Auto-Drink Off",
+    "string": "Beber automatico desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsAutoMsg",
+    "form_id": "05053C4D|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Auto-Drink On",
+    "string": "Beber automatico activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsAutoMsg",
+    "form_id": "05053C4D|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Auto-Refill Off",
+    "string": "Rellenado automatico desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsAutoMsg",
+    "form_id": "05053C4D|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Auto-Refill On",
+    "string": "Rellenado automatico activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsAutoMsg",
+    "form_id": "05053C4D|iNeed.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigRestartMsg",
+    "form_id": "05099F47|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "This will restart the mod. Use this as a last resort if you're having issues.",
+    "string": "Esto reiniciara el mod. Usa esto como ultimo recurso si tienes problemas.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigRestartMsg",
+    "form_id": "05099F47|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Restart",
+    "string": "Reiniciar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigRestartMsg",
+    "form_id": "05099F47|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigTimescaleMsg",
+    "form_id": "05053C4E|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Set how fast the in-game time passes. For every minute in real life, X minutes pass in-game, which means that the lower the value, the slower time passes in-game.\r\nDefault: 20",
+    "string": "Establece que tan rapido pasa el tiempo dentro del juego. Por cada minuto en la vida real, pasan X minutos en el juego, lo que significa que cuanto menor sea el valor, mas lento pasara el tiempo en el juego.\r\nPredeterminado: 20",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigTimescaleMsg",
+    "form_id": "05053C4E|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "8",
+    "string": "8",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigTimescaleMsg",
+    "form_id": "05053C4E|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "10",
+    "string": "10",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigTimescaleMsg",
+    "form_id": "05053C4E|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "12",
+    "string": "12",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigTimescaleMsg",
+    "form_id": "05053C4E|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "14",
+    "string": "14",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigTimescaleMsg",
+    "form_id": "05053C4E|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "16",
+    "string": "16",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigTimescaleMsg",
+    "form_id": "05053C4E|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "18",
+    "string": "18",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigTimescaleMsg",
+    "form_id": "05053C4E|iNeed.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "20",
+    "string": "20",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigTimescaleMsg",
+    "form_id": "05053C4E|iNeed.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscRestorationMsg",
+    "form_id": "0509F048|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "When Hunger and/or Thirst are completely sated...\r\nEating food will restore Health instead.\r\nDrinking will restore Magicka/Stamina instead.\r\n\r\nDefault: Off",
+    "string": "Cuando el Hambre o la Sed esten completamente saciados...\r\nComer restaurara Salud en su lugar.\r\nBeber restaurara Magia o Aguante en su lugar.\r\n\r\nPredeterminado: Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscRestorationMsg",
+    "form_id": "0509F048|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Off",
+    "string": "Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscRestorationMsg",
+    "form_id": "0509F048|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "On",
+    "string": "Activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscRestorationMsg",
+    "form_id": "0509F048|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsHorseMsg",
+    "form_id": "05053C4F|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "If you own a horse and are standing in front of it, you will be able to feed it by activating it. Feeding your horse at least once every 3 hours gives it a slight stamina regeneration buff. Since your horse likely grazes when you're not around, there are no penalties for not feeding it.\r\nDefault: On",
+    "string": "Si posees un caballo y estas de pie frente a el, podras alimentarlo al activarlo. Alimentar a tu caballo al menos una vez cada 3 horas le otorga un pequeno beneficio de regeneracion de aguante. Como tu caballo probablemente pasta cuando no estas cerca, no hay penalizaciones por no alimentarlo.\r\nPredeterminado: Activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsHorseMsg",
+    "form_id": "05053C4F|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Off",
+    "string": "Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsHorseMsg",
+    "form_id": "05053C4F|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "On",
+    "string": "Activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsHorseMsg",
+    "form_id": "05053C4F|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscCannibalMsg",
+    "form_id": "050A4149|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You will be able to feed/gather meat from dead NPCs provided that you remove their chest armor/clothing first. You will also be able to eat raw meat without any negative consequences. This feature is primarily aimed at those who are roleplaying characters who can eat raw meat or have the Ring of Namira equipped.\r\nDefault: Off",
+    "string": "Podras alimentarte u obtener carne de NPC muertos siempre que primero les quites la armadura o ropa del pecho. Tambien podras comer carne cruda sin consecuencias negativas. Esta funcion esta pensada principalmente para quienes interpretan personajes que pueden comer carne cruda o tienen equipado el Anillo de Namira.\r\nPredeterminado: Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscCannibalMsg",
+    "form_id": "050A4149|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Off",
+    "string": "Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscCannibalMsg",
+    "form_id": "050A4149|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "On",
+    "string": "Activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscCannibalMsg",
+    "form_id": "050A4149|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscVisWaterskinMsg",
+    "form_id": "05053C50|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "A waterskin will be visible on your character provided that you have one in your inventory. Adjust the position below.\r\nDefault: Off",
+    "string": "Un odre sera visible en tu personaje siempre que tengas uno en tu inventario. Ajusta la posicion abajo.\r\nPredeterminado: Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscVisWaterskinMsg",
+    "form_id": "05053C50|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Off",
+    "string": "Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscVisWaterskinMsg",
+    "form_id": "05053C50|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Front, Right",
+    "string": "Frente, derecha",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscVisWaterskinMsg",
+    "form_id": "05053C50|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Front, Left",
+    "string": "Frente, izquierda",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscVisWaterskinMsg",
+    "form_id": "05053C50|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Back, Low",
+    "string": "Atras, abajo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscVisWaterskinMsg",
+    "form_id": "05053C50|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffReducedCarryMsg",
+    "form_id": "05053C51|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Could you really carry all of that in real life? Set the magnitude at which your carry weight will be reduced.\r\nDefault: 0",
+    "string": "Realmente podrias cargar todo eso en la vida real? Establece la magnitud en la que tu capacidad de carga se reducira.\r\nPredeterminado: 0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffReducedCarryMsg",
+    "form_id": "05053C51|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "0",
+    "string": "0",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffReducedCarryMsg",
+    "form_id": "05053C51|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "-50",
+    "string": "-50",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffReducedCarryMsg",
+    "form_id": "05053C51|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "-100",
+    "string": "-100",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffReducedCarryMsg",
+    "form_id": "05053C51|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "-150",
+    "string": "-150",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffReducedCarryMsg",
+    "form_id": "05053C51|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "-200",
+    "string": "-200",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffReducedCarryMsg",
+    "form_id": "05053C51|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigGuideMsg",
+    "form_id": "05053C52|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "1: Tending Needs\r\n2:  Buffs/Debuffs\r\n3: Adrenaline/Weariness\r\n4. Alcohol/Skooma\r\n5. Waterskins\r\n6: Water Barrels/Kegs\r\n7. Water Buckets\r\n8. Snow Hydration\r\n9. Refills",
+    "string": "1: Atender necesidades\r\n2: Beneficios y penalizaciones\r\n3: Adrenalina y cansancio\r\n4. Alcohol y skooma\r\n5. Odres\r\n6: Barriles o toneles de agua\r\n7. Cubos de agua\r\n8. Hidratacion con nieve\r\n9. Rellenos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigGuideMsg",
+    "form_id": "05053C52|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "1",
+    "string": "1",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigGuideMsg",
+    "form_id": "05053C52|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "2",
+    "string": "2",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigGuideMsg",
+    "form_id": "05053C52|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "3",
+    "string": "3",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigGuideMsg",
+    "form_id": "05053C52|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "4",
+    "string": "4",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigGuideMsg",
+    "form_id": "05053C52|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "5",
+    "string": "5",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigGuideMsg",
+    "form_id": "05053C52|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "6",
+    "string": "6",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigGuideMsg",
+    "form_id": "05053C52|iNeed.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "7",
+    "string": "7",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigGuideMsg",
+    "form_id": "05053C52|iNeed.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "8",
+    "string": "8",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigGuideMsg",
+    "form_id": "05053C52|iNeed.esp",
+    "index": 8,
+    "type": "MESG ITXT",
+    "original": "9",
+    "string": "9",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigGuideMsg",
+    "form_id": "05053C52|iNeed.esp",
+    "index": 9,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscVampireMsg",
+    "form_id": "05053C53|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "These options only apply if you're a vampire.\r\n\r\nMortal: You are a regular mortal except feeding and 'Potions of Blood' will also lower hunger/thirst/fatigue.\r\n\r\nHybrid: Hunger/thirst are of no concern. You are slow to fatigue but also slow to recover when sleeping. Feeding and 'Potions of Blood' will also lower fatigue. This is the default option.\r\n\r\nPure: Only feeding and 'Potions of Blood' will lower hunger/thirst/fatigue.",
+    "string": "Estas opciones solo se aplican si eres un vampiro.\r\n\r\nMortal: Eres un mortal normal excepto que alimentarte y las 'Pociones de sangre' tambien reduciran hambre, sed y fatiga.\r\n\r\nHibrido: El hambre y la sed no son una preocupacion. Te fatigas lentamente pero tambien te recuperas lentamente al dormir. Alimentarte y las 'Pociones de sangre' tambien reduciran la fatiga. Esta es la opcion predeterminada.\r\n\r\nPuro: Solo alimentarte y las 'Pociones de sangre' reduciran hambre, sed y fatiga.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscVampireMsg",
+    "form_id": "05053C53|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Mortal",
+    "string": "Mortal",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscVampireMsg",
+    "form_id": "05053C53|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Hybrid",
+    "string": "Hibrido",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscVampireMsg",
+    "form_id": "05053C53|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Pure",
+    "string": "Puro",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscVampireMsg",
+    "form_id": "05053C53|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffUnknownAllMsg",
+    "form_id": "050B854B|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Unknown water comes from an unknown source, may be contaminated enough to make you sick, and are usually found in dungeons. This option makes all bodies of water potentially contaminated. Unknown water can be purified at a Cooking Pot.\r\nDefault: Off",
+    "string": "El agua desconocida proviene de una fuente desconocida, puede estar contaminada lo suficiente como para enfermarte y suele encontrarse en mazmorras. Esta opcion hace que todos los cuerpos de agua puedan estar potencialmente contaminados. El agua desconocida puede purificarse en un perol de cocina.\r\nPredeterminado: Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffUnknownAllMsg",
+    "form_id": "050B854B|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Off",
+    "string": "Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffUnknownAllMsg",
+    "form_id": "050B854B|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "On",
+    "string": "Activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffUnknownAllMsg",
+    "form_id": "050B854B|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffMsg",
+    "form_id": "05054716|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "These are extra options to configure the difficulty of your experience.",
+    "string": "Estas son opciones adicionales para configurar la dificultad de tu experiencia.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffMsg",
+    "form_id": "05054716|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Food Removal",
+    "string": "Eliminacion de alimentos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffMsg",
+    "form_id": "05054716|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Alcohol Dehydrates",
+    "string": "El alcohol deshidrata",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffMsg",
+    "form_id": "05054716|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Death",
+    "string": "Muerte",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffMsg",
+    "form_id": "05054716|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Reduced Carry",
+    "string": "Carga reducida",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffMsg",
+    "form_id": "05054716|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Adrenaline",
+    "string": "Adrenalina",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffMsg",
+    "form_id": "05054716|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Unknown Water",
+    "string": "Agua desconocida",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffMsg",
+    "form_id": "05054716|iNeed.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffFoodRemovalMsg",
+    "form_id": "05054717|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "There's too much food in Skyrim!\r\n\r\nContainers: Most food in barrels/sacks will be removed or replaced with Salt Piles or Garlic.\r\n\r\nInteriors: Food will be disabled from all interiors based on a several factors. Wealthier, more inhabited locations will be more likely to retain their food. Dungeons will have all food and drinks removed.\r\n\r\nWarning: These features are permanent. Disabling these features after they've been enabled will have no effect (Containers) or will only affect newly discovered locations (Interiors).\r\nDefault: Off",
+    "string": "Hay demasiada comida en Skyrim!\r\n\r\nRecipientes: La mayoria de la comida en barriles o sacos sera eliminada o reemplazada por montones de sal o ajo.\r\n\r\nInteriores: La comida se desactivara en todos los interiores segun varios factores. Los lugares mas ricos y habitados tendran mas probabilidades de conservar su comida. Las mazmorras tendran toda la comida y bebida eliminada.\r\n\r\nAdvertencia: Estas funciones son permanentes. Desactivar estas funciones despues de haberlas activado no tendra efecto (Recipientes) o solo afectara a lugares descubiertos recientemente (Interiores).\r\nPredeterminado: Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffFoodRemovalMsg",
+    "form_id": "05054717|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Off",
+    "string": "Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffFoodRemovalMsg",
+    "form_id": "05054717|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Containers",
+    "string": "Recipientes",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffFoodRemovalMsg",
+    "form_id": "05054717|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Interiors",
+    "string": "Interiores",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffFoodRemovalMsg",
+    "form_id": "05054717|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Both",
+    "string": "Ambos",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffFoodRemovalMsg",
+    "form_id": "05054717|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffDeathMsg",
+    "form_id": "05054718|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Your health, magicka and stamina will degrade by random values every hour after about 2 days without water or 3 days without sleep until death.\r\nDefault: Off",
+    "string": "Tu salud, magia y aguante se degradaran por valores aleatorios cada hora despues de unos 2 dias sin agua o 3 dias sin dormir hasta la muerte.\r\nPredeterminado: Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffDeathMsg",
+    "form_id": "05054718|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Off",
+    "string": "Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffDeathMsg",
+    "form_id": "05054718|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "On",
+    "string": "Activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffDeathMsg",
+    "form_id": "05054718|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffAlcoholMsg",
+    "form_id": "05054719|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Drinking alcohol will decrease thirst temporarily but will also cause your thirst to rise faster over the next two hours.\r\nDefault: Off",
+    "string": "Beber alcohol reducira la sed temporalmente pero tambien hara que tu sed aumente mas rapido durante las siguientes dos horas.\r\nPredeterminado: Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffAlcoholMsg",
+    "form_id": "05054719|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Off",
+    "string": "Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffAlcoholMsg",
+    "form_id": "05054719|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "On",
+    "string": "Activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigDiffAlcoholMsg",
+    "form_id": "05054719|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsMealsFollowersMsg",
+    "form_id": "0505471A|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Followers will occasionally eat or drink throughout the day.\r\nIn addition, once you have sat down and eaten enough, followers will also begin eating provided there is someplace to sit nearby. Followers will stop eating once you get up or move far enough away.\r\nNo actual food items are consumed but an animation will play.\r\nSpeaking with each follower once will automatically enable this feature.\r\nDefault: On",
+    "string": "Los seguidores ocasionalmente comeran o beberan durante el dia.\r\nAdemas, una vez que te hayas sentado y hayas comido lo suficiente, los seguidores tambien comenzaran a comer siempre que haya algun lugar cercano donde sentarse. Los seguidores dejaran de comer cuando te levantes o te alejes lo suficiente.\r\nNo se consumen objetos reales de comida pero se reproducira una animacion.\r\nHablar con cada seguidor una vez activara automaticamente esta funcion.\r\nPredeterminado: Activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsMealsFollowersMsg",
+    "form_id": "0505471A|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Off",
+    "string": "Desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsMealsFollowersMsg",
+    "form_id": "0505471A|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "On",
+    "string": "Activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsMealsFollowersMsg",
+    "form_id": "0505471A|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsMsg",
+    "form_id": "0505471B|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Adjust the rate that your needs need attending to, the volume of the sound effects, automate your needs, change the written perspective of your notifications, and toggle follower/horse needs.",
+    "string": "Ajusta la tasa a la que tus necesidades requieren atencion, el volumen de los efectos de sonido, automatiza tus necesidades, cambia la perspectiva escrita de tus notificaciones y activa o desactiva las necesidades de seguidores o caballos.",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsMsg",
+    "form_id": "0505471B|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Rates",
+    "string": "Tasas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsMsg",
+    "form_id": "0505471B|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Volume",
+    "string": "Volumen",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsMsg",
+    "form_id": "0505471B|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Automate",
+    "string": "Automatizar",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsMsg",
+    "form_id": "0505471B|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Perspective",
+    "string": "Perspectiva",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsMsg",
+    "form_id": "0505471B|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Followers",
+    "string": "Seguidores",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsMsg",
+    "form_id": "0505471B|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Horse",
+    "string": "Caballo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigNeedsMsg",
+    "form_id": "0505471B|iNeed.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscAnimationsMsg",
+    "form_id": "05056CC5|iNeed.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Eating or drinking animations will play after eating or drinking. Animations while sitting will only play if you are sitting in a chair. It is not recommended that you enable this if you have 'Automate Eating/Drinking' enabled. These animations only play if your weapons are sheathed.\r\nDefault: Eat/Drink Off\r\n\r\nA refill animation will play when refilling or drinking from a body of water. This animation only plays if your weapons are sheathed.\r\nDefault: Refill On\r\n\r\nForce Camera: Force the camera into third and then back into first-person after the animation finishes.\r\nDefault: Force Camera On",
+    "string": "Las animaciones de comer o beber se reproduciran despues de comer o beber. Las animaciones mientras estas sentado solo se reproduciran si estas sentado en una silla. No se recomienda activar esto si tienes activado 'Automatizar comer o beber'. Estas animaciones solo se reproducen si tus armas estan enfundadas.\r\nPredeterminado: Comer o beber desactivado\r\n\r\nSe reproducira una animacion de rellenado al rellenar o beber de un cuerpo de agua. Esta animacion solo se reproduce si tus armas estan enfundadas.\r\nPredeterminado: Rellenar activado\r\n\r\nForzar camara: Fuerza la camara a tercera persona y luego vuelve a primera persona despues de que termine la animacion.\r\nPredeterminado: Forzar camara activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscAnimationsMsg",
+    "form_id": "05056CC5|iNeed.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Eat/Drink Off",
+    "string": "Comer o beber desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscAnimationsMsg",
+    "form_id": "05056CC5|iNeed.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Eat/Drink Sitting Only",
+    "string": "Comer o beber solo sentado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscAnimationsMsg",
+    "form_id": "05056CC5|iNeed.esp",
+    "index": 2,
+    "type": "MESG ITXT",
+    "original": "Eat/Drink On",
+    "string": "Comer o beber activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscAnimationsMsg",
+    "form_id": "05056CC5|iNeed.esp",
+    "index": 3,
+    "type": "MESG ITXT",
+    "original": "Refill Off",
+    "string": "Rellenar desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscAnimationsMsg",
+    "form_id": "05056CC5|iNeed.esp",
+    "index": 4,
+    "type": "MESG ITXT",
+    "original": "Refill On",
+    "string": "Rellenar activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscAnimationsMsg",
+    "form_id": "05056CC5|iNeed.esp",
+    "index": 5,
+    "type": "MESG ITXT",
+    "original": "Force Camera Off",
+    "string": "Forzar camara desactivado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscAnimationsMsg",
+    "form_id": "05056CC5|iNeed.esp",
+    "index": 6,
+    "type": "MESG ITXT",
+    "original": "Force Camera On",
+    "string": "Forzar camara activado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNConfigMiscAnimationsMsg",
+    "form_id": "05056CC5|iNeed.esp",
+    "index": 7,
+    "type": "MESG ITXT",
+    "original": "Back",
+    "string": "Atras",
+    "status": "TranslationComplete"
+  }
+]

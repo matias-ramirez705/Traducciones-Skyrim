@@ -1,0 +1,492 @@
+﻿; =============================================================================
+; Archivo de traducción PartySheet - Español
+; =============================================================================
+; IMPORTANTE: NO elimines ni modifiques los especificadores de formato (%d, %s)
+; Estos son marcadores para valores dinámicos:
+;   %d = numero (por ejemplo, nivel, cantidad)
+;   %s = texto (por ejemplo, raza, nombre de objeto)
+; Quitarlos o reordenarlos hará que el juego se BLOQUEE
+; =============================================================================
+
+[Common]
+XP=XP
+Unknown=Desconocido
+None=Nada
+Other=Otro
+Level=Nv
+LevelShort=Nv %d
+LevelFull=Nv %d (%s)
+Empty=(vacio)
+NoParty=No se encontraron miembros del grupo.
+PartyMembers=Miembros del grupo
+Player=Jugador
+Ally=Aliado
+Essential=Básico
+Protected=Protegido
+Friend=Amigo
+Acquaintance=Conocido
+Foe=Adversario
+Lover=Amante
+Confidant=Confidente
+Rival=Rival
+Enemy=Enemigo
+Archnemesis=Archienemigo
+
+[Stats]
+Health=Salud
+Magicka=Magia
+Stamina=Aguante
+Armor=Armadura
+Damage=Daño
+DPS=DPS
+DamageResist=Resist. al daño
+Magic=Magia
+Move=Movimiento
+Speed=Velocidad
+Reach=Alcance
+Stagger=Tambaleo
+Defense=Defensa
+Combat=Combate
+; AV de regeneración / multiplicadores
+HealthRegen=Regeneración de salud
+MagickaRegen=Regeneración de magia
+StaminaRegen=Regeneración de aguante
+HealthRegenMult=Multiplicador de regeneración de salud
+MagickaRegenMult=Multiplicador de regeneración de magia
+StaminaRegenMult=Multiplicador de regeneración de aguante
+
+[Equipment]
+Title=EQUIPO
+SectionEquipped=Equipado
+SectionArmor=Armadura
+Unarmed=Desarmado
+Arrows=Flechas
+ArrowsCount=Flechas (%d)
+BadgeLeft=Izq.
+BadgeRight=Der.
+BadgeShout=Grito
+
+[Skills]
+Title=HABILIDADES
+SectionTitle=Skills
+HeavyArmor=Armadura pesada
+LightArmor=Armadura ligera
+OneHanded=Una mano
+TwoHanded=Dos manos
+Archery=Arquería
+Block=Bloqueo
+Smithing=Herrería
+Alteration=Alteración
+Conjuration=Conjuración
+Destruction=Destrucción
+Illusion=Ilusión
+Restoration=Restauración
+Enchanting=Encantamiento
+Sneak=Sigilo
+Lockpicking=Abrir cerraduras
+Pickpocket=Robo
+Speech=Elocuencia
+Alchemy=Alquimia
+
+[Resistances]
+Title=RESISTENCIAS
+Fire=Fuego
+Frost=Hielo
+Shock=Descarga
+Magic=Magia
+Poison=Veneno
+Disease=Enfermedad
+
+[CharacterSheet]
+; Ranuras de equipo
+slot_right_hand=Mano derecha
+slot_left_hand=Mano izquierda
+slot_head=Cabeza
+slot_chest=Pecho
+slot_hands=Manos
+slot_feet=Pies
+slot_amulet=Amuleto
+slot_ring=Anillo
+slot_main=Principal
+slot_off=Secundario
+
+; Valores predeterminados de equipo
+none=Ninguno
+spell=Hechizo
+empty=vacío
+no_arrows=Sin flechas
+
+; Estadisticas adicionales
+dmg_resist=Resist. al daño
+gold=Oro
+weight=Peso
+souls=Almas
+perks=Ventajas
+
+; Encabezados
+header_warrior=GUERRERO
+header_thief=LADRÓN
+header_mage=MAGO
+header_status=ESTADO
+header_faction_status=ESTADO DE FACCIÓN
+header_champion_status=ESTADO DE CAMPEÓN
+header_thane_status=ESTADO DE THANE
+header_disease_status=ENFERMEDADES
+
+; Etiquetas de estado
+member=Miembro
+champion=Campeón
+opposed=Opuesto
+dragonborn=Sangre de dragón
+Status.Dawnguard=Guardia del Alba
+Status.Volkihar=Clan Volkihar
+Status.Telvanni=Casa Telvanni
+Status.OrcKinTitle=Pariente de sangre
+Status.ThanePrefix=Thane de
+no_major_factions=Sin facciones o títulos
+
+; Encabezados de barras
+shout_format=Grito %.0f%%
+
+[PlayerResources]
+weather_clear=Despejado
+weather_cloudy=Nublado
+weather_rain=Lluvia
+weather_snow=Nieve
+interior_fallback=Interior
+
+[Survival]
+need_cold=Frío
+need_hunger=Hambre
+need_fatigue=Fatiga
+cold_0=Cálido
+cold_1=Confortable
+cold_2=Fresco
+cold_3=Muy frío
+cold_4=Helado
+cold_5=Entumecido
+hunger_0=Bien alimentado
+hunger_1=Alimentado
+hunger_2=Con apetito
+hunger_3=Hambriento
+hunger_4=Famélico
+hunger_5=Hambriento extremo
+fatigue_0=Descansado
+fatigue_1=Repuesto
+fatigue_2=Ligeramente cansado
+fatigue_3=Cansado
+fatigue_4=Fatigado
+fatigue_5=Debilitado
+; Starfrost survival overhaul
+sf_hunger_0=Alimentado
+sf_hunger_1=Neutral
+sf_hunger_2=Neutral
+sf_hunger_3=Hambriento
+sf_hunger_4=Muy hambriento
+sf_hunger_5=Famélico
+sf_cold_0=Cálido
+sf_cold_1=Confortable
+sf_cold_2=Fresco
+sf_cold_3=Frío
+sf_cold_4=Muy frío
+sf_cold_5=Helado
+sf_fatigue_0=Descansado
+sf_fatigue_1=Repuesto
+sf_fatigue_2=Ligeramente cansado
+sf_fatigue_3=Cansado
+sf_fatigue_4=Muy cansado
+sf_fatigue_5=Agotado
+; Last Seed Vitality — nivel de condición derivado, no es una necesidad. Las palabras de nivel provienen 
+; de los nombres SPEL en vivo (ya localizados por el juego), por lo que aquí solo va la etiqueta.
+need_vitality=Vitalidad
+; SunHelm survival
+need_thirst=Sed
+sh_hunger_0=Bien alimentado
+sh_hunger_1=Satisfecho
+sh_hunger_2=Con apetito
+sh_hunger_3=Hambriento
+sh_hunger_4=Voraz
+sh_hunger_5=Hambriento extremo
+sh_thirst_0=Saciar
+sh_thirst_1=Saciado
+sh_thirst_2=Sediento
+sh_thirst_3=Reseco
+sh_thirst_4=Deshidratado
+sh_thirst_5=Gravemente deshidratado
+sh_fatigue_0=Bien descansado
+sh_fatigue_1=Descansado
+sh_fatigue_2=Ligeramente cansado
+sh_fatigue_3=Cansado
+sh_fatigue_4=Fatigado
+sh_fatigue_5=Agotado
+sh_cold_0=Cálido
+sh_cold_1=Confortable
+sh_cold_2=Fresco
+sh_cold_3=Frío
+sh_cold_4=Helado
+sh_cold_5=Gélido
+; Frostfall (Chesko). Mod solo de frío, se superpone sobre cualquier sistema de necesidades,
+; por lo que estos se muestran junto al hambre/sed/fatiga de otro sistema.
+; La Exposición tiene SIETE niveles (0-6), el único eje que supera 5: la escala de Frostfall es
+; -1..6 y nuestro lector ajusta -1 (su "totalmente cálido") a 0.
+; Las palabras coinciden con los niveles propios de Frostfall tal como vienen en iWant Frostfall Widgets — no
+; las "mejores" o cambies o la tarjeta no coincidirá con los mensajes del propio Frostfall.
+need_exposure=Exposición
+need_wetness=Humedad
+ff_exposure_0=Cálido
+ff_exposure_1=Confortable
+ff_exposure_2=Frío
+ff_exposure_3=Muy frío
+ff_exposure_4=Helado
+ff_exposure_5=Congelándose hasta la muerte
+ff_exposure_6=Exposición máxima
+ff_wetness_0=Seco
+ff_wetness_1=Húmedo
+ff_wetness_2=Mojado
+ff_wetness_3=Empapado
+; Last Seed (Chesko). Sistema solo de necesidades, no incluye eje de frío, por lo que no existe
+; el conjunto ls_cold_*. Las palabras provienen de los comentarios de la API en SeedUtil.psc.
+ls_hunger_0=Bien alimentado
+ls_hunger_1=Satisfecho
+ls_hunger_2=Hambriento
+ls_hunger_3=Muy hambriento
+ls_hunger_4=Voraz
+ls_hunger_5=Famélico
+ls_thirst_0=Saciar la sed
+ls_thirst_1=Refrescado
+ls_thirst_2=Sediento
+ls_thirst_3=Muy sediento
+ls_thirst_4=Reseco
+ls_thirst_5=Deshidratado
+ls_fatigue_0=Descansado
+ls_fatigue_1=Alerta
+ls_fatigue_2=Cansado
+ls_fatigue_3=Muy cansado
+ls_fatigue_4=Agotado
+ls_fatigue_5=Exhausto
+
+; Palabras de las etapas de RND (Realistic Needs and Diseases), tomadas de los nombres de sus propios efectos de etapa
+rnd_hunger_0=Glotonería
+rnd_hunger_1=Saciado
+rnd_hunger_2=Algo de hambre
+rnd_hunger_3=Hambriento
+rnd_hunger_4=Muy hambriento
+rnd_hunger_5=Muriendo de hambre
+rnd_thirst_0=Hidratado
+rnd_thirst_1=Algo de sed
+rnd_thirst_2=Sediento
+rnd_thirst_3=Muy sediento
+rnd_thirst_4=Deshidratado
+rnd_fatigue_0=Sin cansancio
+rnd_fatigue_1=Algo cansado
+rnd_fatigue_2=Cansado
+rnd_fatigue_3=Muy cansado
+rnd_fatigue_4=Agotado
+
+; Advertencias por acumulación de sistemas de supervivencia (mensaje del HUD y línea de NECESIDADES V2)
+StackWarnRND=RND + Modo Supervivencia: penalizaciones dobles.
+StackWarnLastSeed=Last Seed + Modo Supervivencia: penalizaciones dobles.
+StackWarnFrostfall=Frostfall + Modo Supervivencia: frío duplicado.
+StackWarnSunHelmCold=Frostfall + SunHelm: frío duplicado.
+RndNotStarted=RND no se ha iniciado. Actívalo en su menú de configuración de mods (MCM).
+
+[Disease]
+; Las palabras de nivel dependen de cada sistema. La escala de CC Survival / SMI / Starfrost es
+; Infectado -> Grave -> Incapacitante; la escala de SunHelmDiseases.esp es
+; Infectado -> Agudo -> Grave. La etapa 1 comparte disease_stage_infected.
+disease_stage_infected=Infectado
+disease_stage_severe=Grave
+disease_stage_crippling=Debilitante
+disease_sh_stage_acute=Agudo
+disease_sh_stage_severe=Grave
+
+[KnowYourEnemy]
+; Section header + tier rows
+Header=CONOCE A TU ENEMIGO
+WeakTo=Débil a
+ResistantTo=Resistente a
+HighlyResistantTo=Altamente resistente a
+
+; Trait / type badges
+Cold Adapted=Adaptado al frío
+Troll Blood=Sangre de troll
+Frozen=Congelado
+Daedra=Daedra
+Lycanthrope=Licántropo
+
+; Intelligence badges
+Unintelligent=No inteligente
+Aware=Consciente
+Intelligent=Inteligente
+
+; Armor badges
+Heavy Armor=Armadura pesada
+Light Armor=Armadura ligera
+Cuirass=Coraza
+Full Set=Conjunto completo
+Leather=Cuero
+Metal=Metal
+Robes=Túnicas
+
+; Damage / resistance types
+Blade=Hoja
+Blunt=Contundente
+Axe=Hacha
+Bow=Arco
+Crossbow=Ballesta
+Fist=Puño
+Bash=Golpe
+Fire=Fuego
+Frost=Escarcha
+Shock=Descarga
+Poison=Veneno
+Disease=Enfermedad
+Sneak=Sigilo
+Drain=Drenar
+Illusion=Ilusión
+Sun=Sol
+
+[Traits]
+; Prefijos de nivel (umbrales de nivel de habilidad: 15/40/60/80)
+Trait.Tier.Apprentice=Aprendiz
+Trait.Tier.Adept=Adepto
+Trait.Tier.Expert=Experto
+Trait.Tier.Master=Master
+
+; Skill-based trait names (18 skills)
+Trait.OneHanded=Espadachín
+Trait.TwoHanded=Bárbaro
+Trait.Block=Portador de Escudo
+Trait.LightArmor=Explorador
+Trait.HeavyArmor=Coloso
+Trait.Smithing=Maestro Herrero
+Trait.Destruction=Mago de Batalla
+Trait.Restoration=Sanador
+Trait.Conjuration=Invocador
+Trait.Alteration=Místico
+Trait.Illusion=Hoja Nocturna
+Trait.Enchanting=Encantador
+Trait.Sneak=Sombra
+Trait.Lockpicking=Infiltrado
+Trait.Pickpocket=Carterista
+Trait.Archery=Tirador
+Trait.Alchemy=Alquimista
+Trait.Speech=Lengua de Plata
+
+[Widgets]
+barenziah=Piedras de Barenziah
+nirnroot=Raíz de Nirn carmesí
+jiub=Páginas del Opus de Jiub
+lockpick=Ganzúas
+health_potion=Pociones de salud
+magicka_potion=Pociones de magia
+stamina_potion=Pociones de resistencia
+dragonpriest_mask=Máscaras de sacerdote dragón
+dragon_claw=Garras de dragón
+vale_paragon=Paragones del valle
+black_book=Libros negros
+
+[AI]
+AI.Aggression.Unaggressive=No agresivo
+AI.Aggression.Aggressive=Agresivo
+AI.Aggression.VeryAggressive=Muy agresivo
+AI.Aggression.Frenzied=Frenético
+AI.Confidence.Cowardly=Cobarde
+AI.Confidence.Cautious=Cauteloso
+AI.Confidence.Average=Medio
+AI.Confidence.Brave=Valiente
+AI.Confidence.Foolhardy=Temerario
+AI.Assistance.Nobody=Nadie
+AI.Assistance.Allies=Aliados
+AI.Assistance.FriendsAndAllies=Amigos + Aliados
+AI.Aggression.Label=Agresión
+AI.Confidence.Label=Confianza
+AI.Assistance.Label=Asistencia
+
+[PartySheetV2]
+EffectsAndSpells=Efectos y Hechizos
+Inventory=Inventario
+ControlsHint=[ TAB ]  VOLVER
+PauseGame=PAUSAR JUEGO
+SpellTypeAbility=Habilidad
+SpellTypePower=Poder
+SpellTypeLesserPower=Poder menor
+SpellTypeSpell=Hechizo
+SectionRace=Raza
+SectionPassive=Pasivo
+NoStone=Sin piedra
+StoneLabel=Piedra
+StandingStone=Piedra guardiana
+Experience=Experiencia
+LevelsWithYou=Sube de nivel contigo
+MaxLevel=Nivel máximo
+FixedLevel=Nivel fijo
+SourceEquipment=Equipo
+SourceBlessing=Bendición
+SourcePassive=Pasivo
+SourcePotion=Poción
+SourceRace=Raza
+Vampire=Vampiro
+Werewolf=Hombre lobo
+Stage=Etapa
+SectionEquipment=Equipo
+SectionBlessings=Bendiciones
+SectionActive=Activos
+SectionSpells=Hechizos
+SectionNeeds=Necesidades
+SectionVitality=Vitalidad
+SectionDiseases=Enfermedades
+
+[Inventory]
+TypeWeapon=Arma
+TypeArmor=Armadura
+TypePotion=Poción
+TypeFood=Comida
+TypeAmmo=Munición
+TypeIngredient=Ingrediente
+TypeSoulGem=Gema de Alma
+TypeKey=Llave
+TypeBook=Libro
+TypeScroll=Pergamino
+TypeMisc=Varios
+TabAll=Todo
+TabWeapons=Armas
+TabArmor=Armadura
+TabPotions=Pociones
+TabFood=Comida
+TabIngredients=Ingredientes
+TabBooks=Libros
+TabMisc=Varios
+ColName=Nombre
+ColType=Tipo
+ColWeight=Peso
+ColValue=Valor
+ColQty=Cant.
+Empty=No hay nada aquí.
+
+[HorsePicker]
+Title=Invocar caballo
+Prompt=Selecciona un caballo para invocar:
+NoHorses=Todavía no hay caballos registrados.
+NoHorsesHint=Monta un caballo que te pertenezca para registrarlo.
+BlockedInterior=No se permite invocar en interiores.
+BlockedCity=La invocación está desactivada en las ciudades.
+UnknownHorse=Caballo desconocido
+NearbyTooltip=Ya está cerca.
+NotOwnedTooltip=Ya no eres dueño de este caballo.
+IHManaged=Los caballos son gestionados por Immersive Horses.
+
+[InspectCard]
+ConcentrationFades=Pierdes la concentración...
+LowAlterationEssence=La inspección ha fallado. Tu nivel de Alteración es demasiado bajo.
+
+[Hotkeys]
+ModAlt=Alt
+ModCtrl=Ctrl
+ModShift=Shift
+
+[Symptom]
+Symptom.LoweredBy=Reducido por
+Symptom.KindDisease=Enfermedad
+Symptom.KindNeed=Necesidad
+Symptom.KindEffect=Efecto

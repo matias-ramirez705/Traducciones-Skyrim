@@ -1,0 +1,218 @@
+[
+  {
+    "editor_id": "_SNSnowDriftL01",
+    "form_id": "07000D61|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Snow",
+    "string": "Nieve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftL01",
+    "form_id": "07000D61|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Collect",
+    "string": "Recolecta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftL02",
+    "form_id": "07001826|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Snow",
+    "string": "Nieve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftL02",
+    "form_id": "07001826|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Collect",
+    "string": "Recolecta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftL03",
+    "form_id": "07001827|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Snow",
+    "string": "Nieve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftL03",
+    "form_id": "07001827|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Collect",
+    "string": "Recolecta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftL04",
+    "form_id": "07001828|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Snow",
+    "string": "Nieve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftL04",
+    "form_id": "07001828|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Collect",
+    "string": "Recolecta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftM01",
+    "form_id": "07001829|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Snow",
+    "string": "Nieve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftM01",
+    "form_id": "07001829|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Collect",
+    "string": "Recolecta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftM02",
+    "form_id": "0700182A|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI FULL",
+    "original": "Snow",
+    "string": "Nieve",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowDriftM02",
+    "form_id": "0700182A|iNeed - Extended.esp",
+    "index": 1,
+    "type": "ACTI RNAM",
+    "original": "Collect",
+    "string": "Recolecta",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "Skyrim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "WindhelmWorld",
+    "form_id": "0001691D|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Windhelm",
+    "string": "Ventalia",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "FallowstoneCaveWorldEnd",
+    "form_id": "000204C7|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Giant's Grove",
+    "string": "Arboleda del Gigante",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "SouthfringeWorld",
+    "form_id": "00020BFE|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Southfringe Sanctum",
+    "string": "Sagrario del Confín Meridional",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "LabyrinthianWorld04",
+    "form_id": "00021EDB|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Labyrinthian, Tribune",
+    "string": "Laberintia, tribuna",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DeepwoodRedoubtWorld",
+    "form_id": "00029AB7|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Deepwood Vale",
+    "string": "Valle de Bosque Profundo",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "JaphetsFollyWorld",
+    "form_id": "00094B35|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Japhet's Folly",
+    "string": "Locura de Japhet",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC01FalmerValley",
+    "form_id": "02000BB5|Dawnguard.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Forgotten Vale",
+    "string": "Valle Olvidado",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1HunterHQWorld",
+    "form_id": "02001DB8|Dawnguard.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Dayspring Canyon",
+    "string": "Cañón de la Aurora",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC1AncestorsGladeWorld",
+    "form_id": "020048C7|Dawnguard.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Ancestor Glade",
+    "string": "Claro de los Ancestros",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "DLC2SolstheimWorld",
+    "form_id": "04000800|Dragonborn.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Solstheim",
+    "string": "Solstheim",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "_SNSnowLS",
+    "form_id": "06050663|iNeed.esp",
+    "index": 1,
+    "type": "LSCR DESC",
+    "original": "Snow can be collected from medium to large snow drifts by activating them. Use a Cooking Pot to melt the snow into water.",
+    "string": "La nieve puede recolectarse de montículos de nieve medianos a grandes al activarlos. Usa un perol de cocina para derretir la nieve en agua.",
+    "status": "TranslationComplete"
+  }
+]
