@@ -32,7 +32,7 @@
     "index": 1,
     "type": "BOOK DESC",
     "original": "\r\n    <img src='img://Textures/treasuremaps/04.png' width='290' height='389'>",
-    "string": "\r\n    <img src='img://Textures/treasuremaps/04.png' width='290' height='389'>",
+    "string": "\r\n<img src='img://Textures/treasuremaps/04.png' width='290' height='389'>",
     "status": "TranslationComplete"
   },
   {
@@ -50,7 +50,7 @@
     "index": 1,
     "type": "BOOK DESC",
     "original": "\r\n    <img src='img://Textures/treasuremaps/05.png' width='290' height='389'>",
-    "string": "\r\n    <img src='img://Textures/treasuremaps/05.png' width='290' height='389'>",
+    "string": "\r\n<img src='img://Textures/treasuremaps/05.png' width='290' height='389'>",
     "status": "TranslationComplete"
   },
   {
@@ -68,7 +68,7 @@
     "index": 1,
     "type": "BOOK DESC",
     "original": "\r\n    <img src='img://Textures/treasuremaps/07.png' width='290' height='389'>",
-    "string": "\r\n    <img src='img://Textures/treasuremaps/07.png' width='290' height='389'>",
+    "string": "\r\n<img src='img://Textures/treasuremaps/07.png' width='290' height='389'>",
     "status": "TranslationComplete"
   },
   {

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with XIMOD Architect 2.3.0 [https://www.nexusmods.com/site/mods/2141] -->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
+	<moduleName>GeoNir - Spanish</moduleName>
+	<installSteps order="Explicit">
+		<installStep name="Main">
+			<optionalFileGroups>
+				<group name="Main" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="GeoNir">
+							<description></description>
+							<files>
+								<folder source="0 - Main\GeoNir" destination="" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="GeoNir Game.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="GeoNir Game.esp" state="Inactive"/>
+												<fileDependency file="GeoNir Game.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+						<plugin name="GeoNir Mainland">
+							<description></description>
+							<files>
+								<folder source="0 - Main\GeoNir Mainland" destination="" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="GeoNir Mainland.esp" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="GeoNir Mainland.esp" state="Inactive"/>
+												<fileDependency file="GeoNir Mainland.esp" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+		<installStep name="Parche">
+			<optionalFileGroups>
+				<group name="Parche" type="SelectAny">
+					<plugins order="Explicit">
+						<plugin name="GeoNir - Unmarked Locations">
+							<description></description>
+							<files>
+								<folder source="1 - Patch\GeoNir - Unmarked Locations" destination="" priority="0"/>
+							</files>
+							<typeDescriptor>
+								<dependencyType>
+									<defaultType name="Optional"/>
+									<patterns>
+										<pattern>
+											<dependencies operator="And">
+												<fileDependency file="GeoNir - Unmarked Locations" state="Active"/>
+											</dependencies>
+											<type name="Recommended"/>
+										</pattern>
+										<pattern>
+											<dependencies operator="Or">
+												<fileDependency file="GeoNir - Unmarked Locations" state="Inactive"/>
+												<fileDependency file="GeoNir - Unmarked Locations" state="Missing"/>
+											</dependencies>
+											<type name="NotUsable"/>
+										</pattern>
+									</patterns>
+								</dependencyType>
+							</typeDescriptor>
+						</plugin>
+					</plugins>
+				</group>
+			</optionalFileGroups>
+		</installStep>
+	</installSteps>
+</config>

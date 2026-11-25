@@ -1,0 +1,29 @@
+[
+  {
+    "editor_id": "GeoNir_UnmarkedTreasureMap",
+    "form_id": "02000804|GeoNir Unmarked Locations.esp",
+    "index": 1,
+    "type": "BOOK FULL",
+    "original": "Killer Rabbit Treasure Map",
+    "string": "Mapa del tesoro del conejo asesino",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_UnmarkedTreasureMap",
+    "form_id": "02000804|GeoNir Unmarked Locations.esp",
+    "index": 1,
+    "type": "BOOK DESC",
+    "original": "\r\n    <img src='img://Textures/treasuremaps/killerrabbit.png' width='290' height='389'>",
+    "string": "\r\n    <img src='img://Textures/treasuremaps/killerrabbit.png' width='290' height='389'>",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "Tamriel",
+    "form_id": "0000003C|Skyrim.esm",
+    "index": 1,
+    "type": "WRLD FULL",
+    "original": "Skyrim",
+    "string": "Skyrim",
+    "status": "TranslationComplete"
+  }
+]

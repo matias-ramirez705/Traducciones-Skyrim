@@ -1,0 +1,4 @@
+$GEONIR_WIN	Viajero experimentado
+$GEONIR_WINH	Completa una partida de GeoNir y encuentra la mayoría de las ubicaciones.
+$GEONIR_WINPERFECT	El verdadero trotamundos
+$GEONIR_WINPERFECTH	Completa una partida de GeoNir y encuentra todas las ubicaciones.

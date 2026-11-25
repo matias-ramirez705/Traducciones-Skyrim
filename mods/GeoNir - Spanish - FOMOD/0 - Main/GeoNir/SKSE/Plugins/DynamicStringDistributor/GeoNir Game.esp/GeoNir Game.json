@@ -1,0 +1,191 @@
+[
+  {
+    "editor_id": "GeoNir_StartGameEffect",
+    "form_id": "02000802|GeoNir Game.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "Start GeoNir",
+    "string": "Iniciar GeoNir  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_StartGameEffect",
+    "form_id": "02000802|GeoNir Game.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "Cast to start a new game of GeoNir!",
+    "string": "Lancen el hechizo para comenzar una nueva partida de GeoNir.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_ShowObjectiveEffect",
+    "form_id": "02000D70|GeoNir Game.esp",
+    "index": 1,
+    "type": "MGEF FULL",
+    "original": "GeoNir: Show Objective",
+    "string": "GeoNir: Mostrar objetivo  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_ShowObjectiveEffect",
+    "form_id": "02000D70|GeoNir Game.esp",
+    "index": 1,
+    "type": "MGEF DNAM",
+    "original": "See your current objective in GeoNir game. (Progress: <Global=GeoNir_Counter> / <Global=GeoNir_Total>)",
+    "string": "Vean su objetivo actual en el juego GeoNir. (Progreso: <Global=GeoNir_Counter> / <Global=GeoNir_Total>)  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_StartGameSpell",
+    "form_id": "02000801|GeoNir Game.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "GeoNir: Start Game",
+    "string": "GeoNir: Iniciar partida  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_ShowObjectiveSpell",
+    "form_id": "02000D71|GeoNir Game.esp",
+    "index": 1,
+    "type": "SPEL FULL",
+    "original": "GeoNir: Show Objective",
+    "string": "GeoNir: Mostrar objetivo  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_RewardActor",
+    "form_id": "02000D74|GeoNir Game.esp",
+    "index": 1,
+    "type": "NPC_ FULL",
+    "original": "Fox",
+    "string": "Zorro  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "aaaMarkers",
+    "form_id": "0005EAC7|Skyrim.esm",
+    "index": 1,
+    "type": "CELL FULL",
+    "original": "Marker Storage Unit",
+    "string": "Unidad de almacenaje de marcas",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_RetrySkipsMsg",
+    "form_id": "02000001|GeoNir Game.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "You have reached the end of this GeoNir game! However, you've skipped %.0f of the locations. Do you want to go through them and try again?",
+    "string": "Han llegado al final de esta partida de GeoNir. Sin embargo, han omitido %.0f de las ubicaciones. Desean recorrerlas y volver a intentarlo?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_RetrySkipsMsg",
+    "form_id": "02000001|GeoNir Game.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "Si  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_RetrySkipsMsg",
+    "form_id": "02000001|GeoNir Game.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "No  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_RestartMsg",
+    "form_id": "02000002|GeoNir Game.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Starting a new game with reset your progress in your current GeoNir game. Do you wish to continue?",
+    "string": "Al iniciar una nueva partida se reiniciara su progreso en el juego GeoNir actual. Desean continuar?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_RestartMsg",
+    "form_id": "02000002|GeoNir Game.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "No  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_RestartMsg",
+    "form_id": "02000002|GeoNir Game.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "Si  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_StartMsg",
+    "form_id": "02000804|GeoNir Game.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Welcome to GeoNir game. You can use the GeoNir: Show Objective spell to see your objective. When you reach the current spot, next one is automatically unlocked. Teleporting you now to your first objective, hold on tight!",
+    "string": "Bienvenidos al juego GeoNir. Pueden usar el hechizo GeoNir: Mostrar objetivo para ver su objetivo. Cuando lleguen al punto actual, el siguiente se desbloqueara automaticamente. Los teletransportaremos ahora a su primer objetivo... sujetense bien.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_SkipConfirmMsg",
+    "form_id": "02000809|GeoNir Game.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "Are you sure you want to skip this location?",
+    "string": "Estan seguros de que desean omitir esta ubicacion?  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_SkipConfirmMsg",
+    "form_id": "02000809|GeoNir Game.esp",
+    "index": 0,
+    "type": "MESG ITXT",
+    "original": "No",
+    "string": "No  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_SkipConfirmMsg",
+    "form_id": "02000809|GeoNir Game.esp",
+    "index": 1,
+    "type": "MESG ITXT",
+    "original": "Yes",
+    "string": "Si  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_EndGameMsg",
+    "form_id": "0200080A|GeoNir Game.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "GeoNir game is finished. Your score: %.0f of %.0f. Well done!",
+    "string": "El juego GeoNir ha finalizado. Su puntuacion: %.0f de %.0f. Bien hecho.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_LocationFoundMsg",
+    "form_id": "0200080B|GeoNir Game.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "GeoNir: you found the location! Next location is unlocked now.",
+    "string": "GeoNir: han encontrado la ubicacion. La siguiente ubicacion se ha desbloqueado.  ",
+    "status": "TranslationComplete"
+  },
+  {
+    "editor_id": "GeoNir_LocationFoundLastMsg",
+    "form_id": "0200080D|GeoNir Game.esp",
+    "index": 1,
+    "type": "MESG DESC",
+    "original": "GeoNir: you found the last location!",
+    "string": "GeoNir: han encontrado la ultima ubicacion.  ",
+    "status": "TranslationComplete"
+  }
+]
